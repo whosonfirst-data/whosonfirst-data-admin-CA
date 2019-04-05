@@ -1,0 +1,112 @@
+{
+  "id": 101735799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000352,
+    "geom:area_square_m":3047416.09344,
+    "geom:bbox":"-79.4196189,45.6106566,-79.390511,45.6332848",
+    "geom:latitude":45.621491,
+    "geom:longitude":-79.405256,
+    "iso:country":"CA",
+    "lbl:latitude":45.621514,
+    "lbl:longitude":-79.405459,
+    "mps:latitude":45.621514,
+    "mps:longitude":-79.405459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0643\u0633 \u0641\u0627\u0644\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Burk's Falls"
+    ],
+    "name:dut_x_preferred":[
+        "Burk's Falls"
+    ],
+    "name:eng_x_preferred":[
+        "Burk's Falls"
+    ],
+    "name:ger_x_preferred":[
+        "Burk's Falls"
+    ],
+    "name:hbs_x_preferred":[
+        "Burk's Falls"
+    ],
+    "name:pol_x_preferred":[
+        "Burk's Falls"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0441 \u0424\u043e\u043b\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Burk's Falls"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Ontario",
+    "qs:a1_lc":"ON",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Burk's Falls",
+    "qs:loc_alt":"Village of Burk's Falls",
+    "qs:loc_lc":"0c1c7ed4849c20c3f3c1b641a02d3776",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":45.6167,
+    "wd:longitude":-79.4083,
+    "wd:wordcount":433,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890457191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5911570,
+        "gp:id":187,
+        "qs:id":498493,
+        "qs_pg:id":498493,
+        "wd:id":"Q4859909",
+        "wk:page":"Burk's Falls"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"befd9400b2724eb93cc79a37077736a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457191,
+            "locality_id":101735799,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":101735799,
+    "wof:lastmodified":1533272405,
+    "wof:name":"Burk's Falls",
+    "wof:parent_id":890457191,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.4196189,
+    45.6106566,
+    -79.390511,
+    45.6332848
+],
+  "geometry": {"coordinates":[[[-79.4047151,45.6290505],[-79.4047023,45.6290272],[-79.40467649999999,45.6290341],[-79.4001026,45.6302647],[-79.399869,45.6303274],[-79.3977117,45.6309076],[-79.3974308,45.6309831],[-79.397415,45.6309518],[-79.397255,45.6306345],[-79.3926086,45.6220677],[-79.390511,45.6181812],[-79.4170919,45.6106566],[-79.41721149999999,45.6108698],[-79.4172317,45.6109057],[-79.4183218,45.6128465],[-79.4185633,45.6133808],[-79.41911949999999,45.6143713],[-79.4195193,45.6150832],[-79.4195716,45.6151761],[-79.4196189,45.6152604],[-79.4195756,45.615272],[-79.41474359999999,45.6165663],[-79.41471610000001,45.6165736],[-79.41476160000001,45.6166583],[-79.4162527,45.619427],[-79.414833,45.6198178],[-79.4140575,45.6255891],[-79.4144996,45.6264099],[-79.4135849,45.6266524],[-79.41260459999999,45.6269123],[-79.41187549999999,45.6271058],[-79.4114173,45.6272274],[-79.4109634,45.6273476],[-79.4105514,45.6274568],[-79.4099801,45.6276083],[-79.40977650000001,45.6276623],[-79.4096558,45.6276945],[-79.41201460000001,45.6319648],[-79.411995,45.6319699],[-79.4070536,45.6332848],[-79.4047151,45.6290505]]],"type":"Polygon"}
+}

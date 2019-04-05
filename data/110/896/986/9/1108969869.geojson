@@ -1,0 +1,71 @@
+{
+  "id": 1108969869,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1136",
+    "can-wpgppd:name":"Stock Yards",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000207,
+    "geom:area_square_m":1646768.746252,
+    "geom:bbox":"-97.098791,49.873383,-97.072163,49.881925",
+    "geom:latitude":49.877799,
+    "geom:longitude":-97.08445,
+    "iso:country":"CA",
+    "lbl:latitude":49.877648,
+    "lbl:longitude":-97.084472,
+    "mps:latitude":49.877648,
+    "mps:longitude":-97.084472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Stock Yards"
+    ],
+    "reversegeo:latitude":49.877648,
+    "reversegeo:longitude":-97.084472,
+    "src:geom":"can-wpgppd",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968469,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"a10ae1e016ded1e6476ab903699bb647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968469,
+            "neighbourhood_id":1108969869,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108969869,
+    "wof:lastmodified":1531523901,
+    "wof:name":"Stock Yards",
+    "wof:parent_id":1108968469,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.098791,
+    49.873383,
+    -97.072163,
+    49.881925
+],
+  "geometry": {"coordinates":[[[[-97.092907,49.873383],[-97.089217,49.873386],[-97.088114,49.873386],[-97.088111,49.873386],[-97.087777,49.873387],[-97.087436,49.873387],[-97.083933,49.873389],[-97.08363,49.873389],[-97.08269300000001,49.87339],[-97.082627,49.87339],[-97.080972,49.873391],[-97.080972,49.873482],[-97.073814,49.873486],[-97.07388899999999,49.873612],[-97.072202,49.873615],[-97.072163,49.876037],[-97.072163,49.87636],[-97.072164,49.876686],[-97.07222400000001,49.881925],[-97.07525699999999,49.88192],[-97.097269,49.881889],[-97.097718,49.881902],[-97.09879100000001,49.881924],[-97.09644299999999,49.877373],[-97.09513200000001,49.874831],[-97.094446,49.873473],[-97.09295400000001,49.873474],[-97.09291899999999,49.873406],[-97.092907,49.873383]]]],"type":"MultiPolygon"}
+}

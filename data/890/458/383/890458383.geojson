@@ -1,0 +1,70 @@
+{
+  "id": 890458383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83295,45.0001,-79.83295,45.0001",
+    "geom:latitude":45.0001,
+    "geom:longitude":-79.83295,
+    "gn:country":"CA",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Georgian Bay"
+    ],
+    "qs:name":"Georgian Bay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":1790,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890458545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5960553,
+        "qs:id":1153057,
+        "wd:id":"Q1267413",
+        "wk:page":"Georgian Bay"
+    },
+    "wof:country":"CA",
+    "wof:created":1469053213,
+    "wof:geomhash":"aeb0992f15ba314889fe1260b7b6179f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458545,
+            "localadmin_id":890458383,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":890458383,
+    "wof:lastmodified":1533335752,
+    "wof:name":"Georgian Bay",
+    "wof:parent_id":890458545,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83295,
+    45.0001,
+    -79.83295,
+    45.0001
+],
+  "geometry": {"coordinates":[-79.83295,45.0001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1108937481,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"31",
+    "can-wpgppd:name":"Jameswood",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":748194.56014,
+    "geom:bbox":"-97.262013,49.884882,-97.237218,49.889656",
+    "geom:latitude":49.887266,
+    "geom:longitude":-97.249645,
+    "iso:country":"CA",
+    "lbl:latitude":49.887436,
+    "lbl:longitude":-97.252139,
+    "mps:latitude":49.887267,
+    "mps:longitude":-97.249645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Jameswood"
+    ],
+    "reversegeo:latitude":49.887267,
+    "reversegeo:longitude":-97.249645,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968515,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359708,
+    "wof:geomhash":"1f90ee9b5f7b8c07aad6731b3dbfb971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968515,
+            "neighbourhood_id":1108937481,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937481,
+    "wof:lastmodified":1531523906,
+    "wof:name":"Jameswood",
+    "wof:parent_id":1108968515,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.262013,
+    49.884882,
+    -97.237218,
+    49.889656
+],
+  "geometry": {"coordinates":[[[[-97.25917699999999,49.889573],[-97.261673,49.889656],[-97.262013,49.885816],[-97.24095800000001,49.885016],[-97.23756400000001,49.884882],[-97.237218,49.888685],[-97.25917699999999,49.889573]]]],"type":"MultiPolygon"}
+}

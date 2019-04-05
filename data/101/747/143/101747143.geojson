@@ -1,0 +1,77 @@
+{
+  "id": 101747143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.9278014,52.1442555,-123.9263582,52.1448254",
+    "geom:latitude":52.14454,
+    "geom:longitude":-123.92708,
+    "iso:country":"CA",
+    "lbl:latitude":52.144574,
+    "lbl:longitude":-123.926973,
+    "mps:latitude":52.144574,
+    "mps:longitude":-123.926973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Redstone Cemetery 1B"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"REDSTONE CEMETERY 1B",
+    "qs:loc_alt":"REDSTONE CEMETERY NO 1B",
+    "qs:loc_lc":"99c80dd7ba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9584
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"63c06b7daec59584724a93fe4948a8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101747143,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101747143,
+    "wof:lastmodified":1533335923,
+    "wof:name":"Redstone Cemetery 1B",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.92780140000002,
+    52.14425549999999,
+    -123.92635819999998,
+    52.1448254
+],
+  "geometry": {"coordinates":[[[-123.92780140000002,52.14441679999999],[-123.92722509999999,52.14459649999998],[-123.92712740000002,52.144627],[-123.92695809999998,52.1446798],[-123.92649110000002,52.1448254],[-123.92635819999998,52.14466420000002],[-123.9276686,52.14425549999999],[-123.92780140000002,52.14441679999999]]],"type":"Polygon"}
+}

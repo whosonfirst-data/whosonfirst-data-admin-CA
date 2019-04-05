@@ -1,0 +1,77 @@
+{
+  "id": 101746223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000341,
+    "geom:bbox":"-108.5219192,52.3620368,-108.4983124,52.3765231",
+    "geom:latitude":52.36928,
+    "geom:longitude":-108.51012,
+    "iso:country":"CA",
+    "lbl:latitude":52.369279,
+    "lbl:longitude":-108.51012,
+    "mps:latitude":52.369279,
+    "mps:longitude":-108.51012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Poundmaker I.R. 114-12"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"POUNDMAKER I.R. 114-12",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE POUNDMAKER NO 114-12",
+    "qs:loc_lc":"6c9ebc1c849c20c3187eb3ba728dd9bd",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56618855
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"62172bbc9499074ac811895889a5dce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868959,
+            "locality_id":101746223,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746223,
+    "wof:lastmodified":1531524355,
+    "wof:name":"Poundmaker I.R. 114-12",
+    "wof:parent_id":1158868959,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.52191920000001,
+    52.3620368,
+    -108.49831239999997,
+    52.37652309999999
+],
+  "geometry": {"coordinates":[[[-108.51017419999999,52.36204329999998],[-108.52191920000001,52.36204850000001],[-108.52190669999999,52.3692858],[-108.521894,52.37652309999999],[-108.51014129999999,52.37651540000002],[-108.49831239999997,52.37650660000003],[-108.498333,52.3692716],[-108.49835330000002,52.3620368],[-108.51017419999999,52.36204329999998]]],"type":"Polygon"}
+}

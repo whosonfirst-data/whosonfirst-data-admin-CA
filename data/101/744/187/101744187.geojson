@@ -1,0 +1,77 @@
+{
+  "id": 101744187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001943,
+    "geom:bbox":"-120.2688995,50.0717554,-120.1907599,50.0988755",
+    "geom:latitude":50.086143,
+    "geom:longitude":-120.232099,
+    "iso:country":"CA",
+    "lbl:latitude":50.085319,
+    "lbl:longitude":-120.232099,
+    "mps:latitude":50.085319,
+    "mps:longitude":-120.232099,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Spahomin Creek 8"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SPAHOMIN CREEK 8",
+    "qs:loc_alt":"SPAHOMIN CREEK NO 8",
+    "qs:loc_lc":"e22b96bcba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9648
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"5e55144dee79b3faebe8fec99e4cc0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744187,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744187,
+    "wof:lastmodified":1533335890,
+    "wof:name":"Spahomin Creek 8",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.26889949999997,
+    50.07175539999997,
+    -120.19075989999999,
+    50.09887550000002
+],
+  "geometry": {"coordinates":[[[-120.19075989999999,50.09887550000002],[-120.190774,50.093552],[-120.19078510000003,50.08933109999998],[-120.1908019,50.08294089999998],[-120.19081210000002,50.07906350000002],[-120.21331220000002,50.07905210000001],[-120.21330169999999,50.07186460000003],[-120.22258359999999,50.07184810000001],[-120.233825,50.07182719999997],[-120.24250960000001,50.0718104],[-120.25254840000002,50.07179],[-120.26093,50.07177239999999],[-120.26873819999997,50.07175539999997],[-120.26876349999998,50.07898619999997],[-120.26881520000001,50.0843853],[-120.2688351,50.09148040000002],[-120.26889949999997,50.09870940000002],[-120.26466870000002,50.0987212],[-120.23844339999999,50.09879089999998],[-120.2239727,50.09882670000002],[-120.213483,50.09884319999998],[-120.20249840000002,50.09885939999998],[-120.19075989999999,50.09887550000002]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101745253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:bbox":"-124.2063239,54.461455,-124.1969076,54.4677262",
+    "geom:latitude":54.464567,
+    "geom:longitude":-124.201587,
+    "iso:country":"CA",
+    "lbl:latitude":54.464588,
+    "lbl:longitude":-124.201588,
+    "mps:latitude":54.464588,
+    "mps:longitude":-124.201588,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Road 19"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"NORTH ROAD 19",
+    "qs:loc_alt":"NORTH ROAD NO 19",
+    "qs:loc_lc":"514bc543ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373974
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e913ce3d87905ec6393347f3c98b7580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":101745253,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745253,
+    "wof:lastmodified":1533335905,
+    "wof:name":"North Road 19",
+    "wof:parent_id":890458087,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.20632389999997,
+    54.461455,
+    -124.19690759999997,
+    54.46772620000002
+],
+  "geometry": {"coordinates":[[[-124.20632389999997,54.461455],[-124.206317,54.46316109999998],[-124.20630060000002,54.46726030000002],[-124.20469889999998,54.46772620000002],[-124.20464049999998,54.4677261],[-124.20228020000002,54.46772190000002],[-124.20172480000002,54.46772090000002],[-124.20038260000001,54.46771840000002],[-124.20006139999998,54.46771790000003],[-124.19852989999998,54.46771510000002],[-124.19825220000001,54.46771460000002],[-124.196917,54.46771210000003],[-124.19691010000003,54.46314710000001],[-124.19690830000002,54.46195490000002],[-124.19690759999997,54.46145619999999],[-124.20632389999997,54.461455]]],"type":"Polygon"}
+}

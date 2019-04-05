@@ -1,0 +1,82 @@
+{
+  "id": 1126000551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.965945,45.642683,-72.965945,45.642683",
+    "geom:latitude":45.642683,
+    "geom:longitude":-72.965945,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.642683,
+    "lbl:longitude":-72.965945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Hyacinthe-le-Confesseur",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":111,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":111,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1004232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23395671,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890457827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23395671,
+        "qs_pg:id":1004232
+    },
+    "wof:country":"CA",
+    "wof:created":1497299623,
+    "wof:geomhash":"9e970d19598f608c811e53d98a0ee08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457827,
+            "locality_id":1126000551,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1126000551,
+    "wof:lastmodified":1533335714,
+    "wof:name":"St.-Hyacinthe-le-Confesseur",
+    "wof:parent_id":890457827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.965945,
+    45.642683,
+    -72.965945,
+    45.642683
+],
+  "geometry": {"coordinates":[-72.965945,45.642683],"type":"Point"}
+}

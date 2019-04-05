@@ -1,0 +1,90 @@
+{
+  "id": 85874585,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Industrial",
+    "can-calcai:class_code":"2",
+    "can-calcai:comm_code":"PEG",
+    "can-calcai:comm_structure":"EMPLOYMENT",
+    "can-calcai:name":"PEGASUS",
+    "can-calcai:sector":"NORTHEAST",
+    "can-calcai:srg":"N/A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":254395.662719,
+    "geom:bbox":"-114.01334,51.092787,-114.001676,51.096172",
+    "geom:latitude":51.094301,
+    "geom:longitude":-114.006712,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":51.09436,
+    "lbl:longitude":-114.006681,
+    "mps:latitude":51.100313,
+    "mps:longitude":-114.006234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Pegasus"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1672,
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855989,
+        "qs:id":220550,
+        "qs_pg:id":220550,
+        "wd:id":"Q162797"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"aef3afc42ae9f44b8e80424db34d04d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":85874585,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85874585,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270641,
+    "wof:name":"Pegasus",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.01334,
+    51.092787,
+    -114.001676,
+    51.096172
+],
+  "geometry": {"coordinates":[[[[-114.00287899999999,51.09617],[-114.00182599999999,51.09617],[-114.001825,51.09617],[-114.001825,51.096124],[-114.001676,51.096124],[-114.001676,51.092787],[-114.011572,51.092802],[-114.01334,51.092803],[-114.01334,51.093024],[-114.013339,51.093166],[-114.013335,51.093911],[-114.013333,51.094178],[-114.011753,51.094176],[-114.011111,51.094175],[-114.01119300000001,51.094186],[-114.011262,51.094215],[-114.011309,51.094259],[-114.011325,51.094311],[-114.011324,51.09445],[-114.011306,51.094582],[-114.011251,51.094711],[-114.011161,51.094831],[-114.011039,51.09494],[-114.010948,51.095001],[-114.010847,51.095056],[-114.01073700000001,51.095103],[-114.01061900000001,51.095142],[-114.010165,51.095274],[-114.009012,51.095608],[-114.008867,51.09565],[-114.008661,51.095714],[-114.008461,51.095785],[-114.008267,51.095863],[-114.00800099999999,51.095987],[-114.00767,51.096172],[-114.004425,51.09617],[-114.00287899999999,51.09617]]]],"type":"MultiPolygon"}
+}

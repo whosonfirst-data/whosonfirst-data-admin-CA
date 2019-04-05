@@ -1,0 +1,79 @@
+{
+  "id": 101742513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000501,
+    "geom:bbox":"-101.7733931,51.2274926,-101.7268884,51.3013346",
+    "geom:latitude":51.274176,
+    "geom:longitude":-101.746194,
+    "iso:country":"CA",
+    "lbl:latitude":51.292426,
+    "lbl:longitude":-101.732798,
+    "mps:latitude":51.292426,
+    "mps:longitude":-101.732798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keeseekoose I.R. 66-Ca-05"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KEESEEKOOSE I.R. 66-CA-05",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE KEESEEKOOSE  NO 66-CA-05",
+    "qs:loc_lc":"f21d9f00bbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868981
+    ],
+    "wof:breaches":[
+        101740449
+    ],
+    "wof:concordances":{
+        "gp:id":29373732
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a2c71ca23c989c885ef1cb8b801077fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868981,
+            "locality_id":101742513,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742513,
+    "wof:lastmodified":1531525251,
+    "wof:name":"Keeseekoose I.R. 66-Ca-05",
+    "wof:parent_id":1158868981,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.77339310000002,
+    51.2274926,
+    -101.7268884,
+    51.30133460000002
+],
+  "geometry": {"coordinates":[[[[-101.7383987,51.2938767],[-101.73841720000001,51.3012377],[-101.72690849999998,51.30133460000002],[-101.72689839999998,51.2940064],[-101.72688840000001,51.28677060000001],[-101.73838050000001,51.28664120000002],[-101.74987,51.2865107],[-101.74990279999997,51.29374569999999],[-101.7383987,51.2938767]]],[[[-101.77339310000002,51.2640902],[-101.77338450000002,51.2713309],[-101.761847,51.2714087],[-101.75029790000002,51.2714853],[-101.75032249999998,51.26424989999998],[-101.76186740000003,51.2641706],[-101.77339310000002,51.2640902]]],[[[-101.7498908,51.23473],[-101.73835709999997,51.23486650000001],[-101.73835010000001,51.2276261],[-101.7498822,51.2274926],[-101.7498908,51.23473]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101742563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:bbox":"-102.3928449,50.1199865,-102.3816701,50.1272217",
+    "geom:latitude":50.123604,
+    "geom:longitude":-102.387265,
+    "iso:country":"CA",
+    "lbl:latitude":50.123606,
+    "lbl:longitude":-102.387265,
+    "mps:latitude":50.123606,
+    "mps:longitude":-102.387265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ochapowace I.R. 71-41"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OCHAPOWACE I.R. 71-41",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE OCHAPOWACE NO 71-41",
+    "qs:loc_lc":"f70d8127bbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56619819
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"62987fa65da85645e43a422145d722c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101742563,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742563,
+    "wof:lastmodified":1531525477,
+    "wof:name":"Ochapowace I.R. 71-41",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.3928449,
+    50.11998649999998,
+    -102.3816701,
+    50.1272217
+],
+  "geometry": {"coordinates":[[[-102.39284170000002,50.124665],[-102.39284429999998,50.1272217],[-102.38170609999997,50.1272217],[-102.38167009999999,50.11998649999998],[-102.3928449,50.1199944],[-102.39284170000002,50.124665]]],"type":"Polygon"}
+}

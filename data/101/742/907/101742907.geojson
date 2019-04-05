@@ -1,0 +1,99 @@
+{
+  "id": 101742907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"-127.4087523,55.2046301,-127.4001815,55.2137149",
+    "geom:latitude":55.209047,
+    "geom:longitude":-127.403434,
+    "iso:country":"CA",
+    "lbl:latitude":55.209665,
+    "lbl:longitude":-127.402925,
+    "mps:latitude":55.209665,
+    "mps:longitude":-127.402925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bulkley River"
+    ],
+    "name:deu_x_preferred":[
+        "Bulkley River"
+    ],
+    "name:eng_x_preferred":[
+        "Bulkley 1"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0626\u06d2 \u0628\u0644\u06a9\u0644\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043a\u043b\u0438"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0644\u06aa\u0644\u064a \u062f\u0631\u064a\u0627\u06be"
+    ],
+    "name:swe_x_preferred":[
+        "Bulkley River"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u06a9\u0644\u06d2 \u062f\u0631\u06cc\u0627"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"BULKLEY 1",
+    "qs:loc_alt":"BULKLEY NO  1",
+    "qs:loc_lc":"e46de5b1ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":213,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q270955"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"610fef1f0eb9672058f71547fda43834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101742907,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101742907,
+    "wof:lastmodified":1533335869,
+    "wof:name":"Bulkley 1",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -127.4087523,
+    55.20463009999997,
+    -127.40018149999997,
+    55.21371490000001
+],
+  "geometry": {"coordinates":[[[-127.4052385,55.207955],[-127.40529729999997,55.20855519999998],[-127.40545020000002,55.2090988],[-127.40581079999998,55.20957329999999],[-127.40597259999998,55.2099715],[-127.40594440000001,55.21055009999998],[-127.40598440000002,55.21104759999997],[-127.4061908,55.2113617],[-127.406453,55.21165439999999],[-127.4066997,55.21239020000002],[-127.40706890000001,55.2132439],[-127.40748059999999,55.213595],[-127.40773289999998,55.21371340000002],[-127.40655650000002,55.21371370000003],[-127.40020909999998,55.21371490000001],[-127.40018149999997,55.204639],[-127.40824360000001,55.2046307],[-127.4087523,55.20463009999997],[-127.4085283,55.20511440000001],[-127.408322,55.20533010000003],[-127.40816330000001,55.20569649999999],[-127.4079193,55.20592829999998],[-127.4077127,55.2060318],[-127.40720470000002,55.2062156],[-127.40694159999998,55.2063882],[-127.4066765,55.20655670000002],[-127.40643310000002,55.20693929999999],[-127.406104,55.20707979999997],[-127.40594280000001,55.2071939],[-127.4055864,55.2075929],[-127.4053323,55.207831],[-127.4052385,55.207955]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 101746741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:bbox":"-102.5675849,50.4623576,-102.5446412,50.4768423",
+    "geom:latitude":50.469594,
+    "geom:longitude":-102.556118,
+    "iso:country":"CA",
+    "lbl:latitude":50.473213,
+    "lbl:longitude":-102.561925,
+    "mps:latitude":50.473213,
+    "mps:longitude":-102.561925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kahkewistahaw Reserve No. 72D"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KAHKEWISTAHAW RESERVE NO. 72D",
+    "qs:loc_alt":"R\u00c9SERVE KAHKEWISTAHAW NO. 72D",
+    "qs:loc_lc":"8791841901c111dea89a080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[
+        101740529
+    ],
+    "wof:concordances":{
+        "gp:id":29373257
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3bcdfe63061635d056240e35b968c58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101746741,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746741,
+    "wof:lastmodified":1531525487,
+    "wof:name":"Kahkewistahaw Reserve No. 72D",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.56758489999999,
+    50.46235760000002,
+    -102.5446412,
+    50.47684229999999
+],
+  "geometry": {"coordinates":[[[[-102.55598730000003,50.46235760000002],[-102.55598459999999,50.46783119999998],[-102.55598459999999,50.46813789999999],[-102.55598379999998,50.4695835],[-102.55505670000002,50.46958419999999],[-102.55476169999997,50.46958439999997],[-102.5446412,50.46959120000002],[-102.5446417,50.4623704],[-102.55598730000003,50.46235760000002]]],[[[-102.55626740000002,50.46958319999999],[-102.56758359999998,50.46960589999998],[-102.56758489999999,50.47684229999999],[-102.55626479999999,50.4768214],[-102.55626740000002,50.46958319999999]]]],"type":"MultiPolygon"}
+}

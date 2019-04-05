@@ -1,0 +1,82 @@
+{
+  "id": 1108937373,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"131",
+    "can-wpgppd:name":"Windsor Park",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00042,
+    "geom:area_square_m":3346247.264153,
+    "geom:bbox":"-97.093192,49.85589,-97.049565,49.870998",
+    "geom:latitude":49.862801,
+    "geom:longitude":-97.073716,
+    "iso:country":"CA",
+    "lbl:latitude":49.862932,
+    "lbl:longitude":-97.073497,
+    "mps:latitude":49.86345,
+    "mps:longitude":-97.0741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Windsor Park"
+    ],
+    "reversegeo:latitude":49.86345,
+    "reversegeo:longitude":-97.0741,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968469,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q8024669"
+    },
+    "wof:country":"CA",
+    "wof:created":1491359635,
+    "wof:geomhash":"8b3ffbaf412c258c730b78207d7f71af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968469,
+            "neighbourhood_id":1108937373,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937373,
+    "wof:lastmodified":1531523902,
+    "wof:name":"Windsor Park",
+    "wof:parent_id":1108968469,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.093192,
+    49.85589,
+    -97.049565,
+    49.870998
+],
+  "geometry": {"coordinates":[[[[-97.049565,49.856033],[-97.049593,49.85656],[-97.049699,49.857591],[-97.04992300000001,49.858052],[-97.050307,49.858492],[-97.05105399999999,49.85895],[-97.051721,49.85926],[-97.052409,49.859531],[-97.05302,49.859705],[-97.05659300000001,49.860205],[-97.062403,49.863973],[-97.071321,49.870998],[-97.093192,49.870988],[-97.09121,49.867239],[-97.089431,49.866189],[-97.084148,49.85589],[-97.083939,49.855894],[-97.065257,49.855913],[-97.060906,49.856031],[-97.04977599999999,49.856033],[-97.049565,49.856033]]]],"type":"MultiPolygon"}
+}

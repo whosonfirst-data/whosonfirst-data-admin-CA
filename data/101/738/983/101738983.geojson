@@ -1,0 +1,91 @@
+{
+  "id": 101738983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":657595.837674,
+    "geom:bbox":"-108.8636433,51.4674077,-108.8516482,51.47455",
+    "geom:latitude":51.470978,
+    "geom:longitude":-108.857643,
+    "iso:country":"CA",
+    "lbl:latitude":51.470977,
+    "lbl:longitude":-108.857641,
+    "mps:latitude":51.470977,
+    "mps:longitude":-108.857641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Netherhill"
+    ],
+    "name:eng_x_preferred":[
+        "Netherhill"
+    ],
+    "name:fre_x_preferred":[
+        "Netherhill"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Netherhill",
+    "qs:loc_lc":"0c2e7ed4849c20c3085a8898db98048f",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":174,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba5a68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6087200,
+        "gp:id":2232,
+        "wd:id":"Q2201233",
+        "wk:page":"Netherhill, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"f585a6aeaa62c7f39690c0f375c7cb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868959,
+            "locality_id":101738983,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101738983,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524368,
+    "wof:name":"Netherhill",
+    "wof:parent_id":1158868959,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.8636433,
+    51.4674077,
+    -108.8516482,
+    51.47455
+],
+  "geometry": {"coordinates":[[[-108.8516494,51.468363],[-108.8516491,51.468182],[-108.8516489,51.4679888],[-108.8516486,51.4677174],[-108.8516484,51.4675366],[-108.8516482,51.4674077],[-108.85630279999999,51.4674122],[-108.8574541,51.4674133],[-108.86318540000001,51.4674185],[-108.86326,51.4674185],[-108.8635495,51.4674188],[-108.8636241,51.4674188],[-108.8636252,51.4678516],[-108.8635506,51.4678508],[-108.86355140000001,51.4681222],[-108.8636261,51.468123],[-108.8636266,51.4683162],[-108.86362699999999,51.4684969],[-108.86362819999999,51.4689436],[-108.86364330000001,51.47455],[-108.86356859999999,51.4745498],[-108.8632789,51.4745494],[-108.86320430000001,51.4745493],[-108.8586019,51.4745423],[-108.8582509,51.4745418],[-108.8516566,51.4745316],[-108.8516494,51.468363]]],"type":"Polygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101736107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000594,
+    "geom:area_square_m":5265365.577687,
+    "geom:bbox":"-77.0663021,44.1732329,-77.0327669,44.2090275",
+    "geom:latitude":44.192775,
+    "geom:longitude":-77.048954,
+    "gn:population":1897,
+    "iso:country":"CA",
+    "lbl:latitude":44.192882,
+    "lbl:longitude":-77.046419,
+    "mps:latitude":44.192882,
+    "mps:longitude":-77.046419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0441\u0435\u0440\u043e\u043d\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Deseronto"
+    ],
+    "name:dut_x_preferred":[
+        "Deseronto"
+    ],
+    "name:eng_x_preferred":[
+        "Deseronto"
+    ],
+    "name:fra_x_preferred":[
+        "Deseronto"
+    ],
+    "name:fre_x_preferred":[
+        "Deseronto"
+    ],
+    "name:hbs_x_preferred":[
+        "Deseronto"
+    ],
+    "name:pol_x_preferred":[
+        "Deseronto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0437\u0435\u0440\u043e\u043d\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Deseronto"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Ontario",
+    "qs:a1_lc":"ON",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deseronto",
+    "qs:loc_alt":"Town of Deseronto",
+    "qs:loc_lc":"85cd95bbd05511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":44.2,
+    "wd:longitude":-77.05,
+    "wd:wordcount":2051,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057
+    ],
+    "wof:breaches":[
+        101740751
+    ],
+    "wof:concordances":{
+        "gn:id":5938187,
+        "gp:id":4106,
+        "qs:id":160237,
+        "qs_pg:id":160237,
+        "wd:id":"Q603823",
+        "wk:page":"Deseronto"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cf1cfec175da7228c690f2baaf9af29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736107,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":101736107,
+    "wof:lastmodified":1527642110,
+    "wof:name":"Deseronto",
+    "wof:parent_id":85682057,
+    "wof:placetype":"locality",
+    "wof:population":1897,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0663021,
+    44.1732329,
+    -77.0327669,
+    44.2090275
+],
+  "geometry": {"coordinates":[[[-77.062135,44.1879183],[-77.06202,44.1879266],[-77.0620074,44.1879276],[-77.06186219999999,44.187913],[-77.0619191,44.1880184],[-77.06232749999999,44.1887758],[-77.06250559999999,44.1891062],[-77.0626281,44.1893332],[-77.06275220000001,44.1895635],[-77.0636525,44.1912331],[-77.0637435,44.191402],[-77.0638331,44.1915679],[-77.0637613,44.1915692],[-77.064319,44.1924954],[-77.0663021,44.196276],[-77.0608232,44.1962306],[-77.0608237,44.1962316],[-77.06176240000001,44.1981163],[-77.0618757,44.1982828],[-77.06187679999999,44.1982848],[-77.05659199999999,44.1990134],[-77.0542975,44.1993296],[-77.0543179,44.1993698],[-77.05421680000001,44.1993841],[-77.05431040000001,44.1995828],[-77.05423999999999,44.199603],[-77.0573323,44.2057249],[-77.0573042,44.2057322],[-77.0571892,44.2057621],[-77.04474279999999,44.2090044],[-77.04465449999999,44.2090275],[-77.03970080000001,44.200477],[-77.03894150000001,44.1991665],[-77.0327669,44.1885087],[-77.04533790000001,44.1780915],[-77.0512011,44.1732329],[-77.050842,44.1749815],[-77.049919,44.1796437],[-77.0496291,44.1825973],[-77.0504225,44.1845054],[-77.05276480000001,44.185269],[-77.0548403,44.1855151],[-77.05677799999999,44.1852598],[-77.05995919999999,44.1843112],[-77.0601348,44.1842225],[-77.06395759999999,44.1822718],[-77.0641092,44.1864852],[-77.0641428,44.1874577],[-77.0641102,44.1865311],[-77.0641427,44.1874579],[-77.06252139999999,44.1886351],[-77.062135,44.1879183]]],"type":"Polygon"}
+}

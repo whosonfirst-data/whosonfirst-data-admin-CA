@@ -1,0 +1,87 @@
+{
+  "id": 85875761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":913599.857155,
+    "geom:bbox":"-73.527372,45.503229,-73.527372,45.503229",
+    "geom:latitude":45.503229,
+    "geom:longitude":-73.527372,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.503229,
+    "lbl:longitude":-73.527372,
+    "mps:latitude":45.50338,
+    "mps:longitude":-73.524464,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Logan"
+    ],
+    "name:fra_x_preferred":[
+        "Logan"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101736545,
+        1108955761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856804,
+        "qs:id":1089600,
+        "qs_pg:id":1089600
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"b64f1b5a2eeeb00d4319b6bd291285cb",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108955761,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85875761,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":85875761,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531872222,
+    "wof:name":"Logan",
+    "wof:parent_id":1108955761,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.527372,
+    45.503229,
+    -73.527372,
+    45.503229
+],
+  "geometry": {"coordinates":[-73.527372,45.503229],"type":"Point"}
+}

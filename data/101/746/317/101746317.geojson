@@ -1,0 +1,77 @@
+{
+  "id": 101746317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:bbox":"-103.94008,51.5124219,-103.9284704,51.5196586",
+    "geom:latitude":51.516036,
+    "geom:longitude":-103.934272,
+    "iso:country":"CA",
+    "lbl:latitude":51.516036,
+    "lbl:longitude":-103.934272,
+    "mps:latitude":51.516036,
+    "mps:longitude":-103.934272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muskowekwan I.R. 85-45"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MUSKOWEKWAN I.R. 85-45",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE MUSKOWEKWAN N\u00ba 85-45",
+    "qs:loc_lc":"6c9ebc2b849c20c32e5e1696dacde9a0",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373190
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e9cc4b22ba856acba529ca9fbb050bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868983,
+            "locality_id":101746317,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746317,
+    "wof:lastmodified":1531525282,
+    "wof:name":"Muskowekwan I.R. 85-45",
+    "wof:parent_id":1158868983,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.94008,
+    51.5124219,
+    -103.92847039999998,
+    51.51965860000001
+],
+  "geometry": {"coordinates":[[[-103.92847039999998,51.51243679999999],[-103.9349565,51.5124285],[-103.93583489999997,51.51242739999998],[-103.94006050000002,51.5124219],[-103.9400617,51.51285410000003],[-103.94006209999998,51.51302850000002],[-103.94007860000001,51.51908680000003],[-103.940079,51.5192398],[-103.94007999999999,51.51962730000002],[-103.93968280000001,51.51962830000002],[-103.92848720000001,51.51965860000001],[-103.92847039999998,51.51243679999999]]],"type":"Polygon"}
+}

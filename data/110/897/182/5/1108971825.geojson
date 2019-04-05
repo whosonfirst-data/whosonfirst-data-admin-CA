@@ -1,0 +1,72 @@
+{
+  "id": 1108971825,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Dominion Industrial",
+    "can-edmdsd:number":"3160",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":978590.632496,
+    "geom:bbox":"-113.578017888,53.5703676765,-113.565685533,53.5812919111",
+    "geom:latitude":53.575831,
+    "geom:longitude":-113.571857,
+    "iso:country":"CA",
+    "lbl:latitude":53.575835,
+    "lbl:longitude":-113.571857,
+    "mps:latitude":53.575835,
+    "mps:longitude":-113.571857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dominion Industrial"
+    ],
+    "reversegeo:latitude":53.575835,
+    "reversegeo:longitude":-113.571857,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"27a71906d5d335d1b07852a39c69efe4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108971825,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971825,
+    "wof:lastmodified":1507246076,
+    "wof:name":"Dominion Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.57801788835275,
+    53.57036767647372,
+    -113.56568553311023,
+    53.58129191113149
+],
+  "geometry": {"coordinates":[[[[-113.56756124962958,53.58123612627735],[-113.56580225104645,53.58117689909186],[-113.56569969616827,53.58072224901106],[-113.5656903662306,53.57897262479162],[-113.56568553311023,53.57832610473352],[-113.56570161863746,53.5767570044534],[-113.56569120002253,53.57354596592486],[-113.56571336234181,53.57196853960344],[-113.56581375257304,53.57155907645738],[-113.56579181475891,53.57036767647372],[-113.5711541395108,53.57040914010582],[-113.57801788835275,53.57041872070606],[-113.57799126784982,53.57157417796282],[-113.57801073178244,53.5735510186465],[-113.57800115461836,53.57676447380343],[-113.57798208839014,53.57899679126977],[-113.57795588305925,53.58129191113149],[-113.56756124962958,53.58123612627735]]]],"type":"MultiPolygon"}
+}

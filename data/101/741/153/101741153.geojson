@@ -1,0 +1,77 @@
+{
+  "id": 101741153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:bbox":"-83.3920498,47.8371483,-83.3806032,47.8443623",
+    "geom:latitude":47.840631,
+    "geom:longitude":-83.386184,
+    "iso:country":"CA",
+    "lbl:latitude":47.840755,
+    "lbl:longitude":-83.386184,
+    "mps:latitude":47.840755,
+    "mps:longitude":-83.386184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chapleau Indian Reserve No. 61A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Ontario",
+    "qs:a1_lc":"ON",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CHAPLEAU INDIAN RESERVE NO. 61A",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE CHAPLEAU NO. 61A",
+    "qs:loc_lc":"83f8be47ba2611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890458777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":3172
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"aef03179b85f12c8107d2e0bcb30876d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458777,
+            "locality_id":101741153,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":101741153,
+    "wof:lastmodified":1533335657,
+    "wof:name":"Chapleau Indian Reserve No. 61A",
+    "wof:parent_id":890458777,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.3920498,
+    47.83714830000002,
+    -83.3806032,
+    47.8443623
+],
+  "geometry": {"coordinates":[[[-83.38065590000002,47.8443623],[-83.3806032,47.8371507],[-83.39204109999997,47.83714830000002],[-83.39204969999997,47.84301060000001],[-83.3920498,47.843038],[-83.39172630000002,47.8431779],[-83.39145980000001,47.84321419999998],[-83.39100550000001,47.84340830000002],[-83.3908184,47.8435816],[-83.3905547,47.84367939999998],[-83.39031260000002,47.84371520000002],[-83.38985050000002,47.84374020000001],[-83.38958609999997,47.84382269999998],[-83.38929030000003,47.84375189999997],[-83.38909260000003,47.8436944],[-83.38880030000001,47.84370050000001],[-83.38861110000001,47.8438276],[-83.388351,47.8440023],[-83.38820909999998,47.8440976],[-83.3878709,47.84416620000002],[-83.3875984,47.84436090000003],[-83.3875577,47.84436090000003],[-83.38065590000002,47.8443623]]],"type":"Polygon"}
+}

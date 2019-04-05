@@ -1,0 +1,72 @@
+{
+  "id": 1108972211,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Poundmaker Industrial",
+    "can-edmdsd:number":"4410",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":661015.239745,
+    "geom:bbox":"-113.653093885,53.5486680517,-113.63962554,53.5559065333",
+    "geom:latitude":53.552353,
+    "geom:longitude":-113.645985,
+    "iso:country":"CA",
+    "lbl:latitude":53.552311,
+    "lbl:longitude":-113.645985,
+    "mps:latitude":53.552311,
+    "mps:longitude":-113.645985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Poundmaker Industrial"
+    ],
+    "reversegeo:latitude":53.552311,
+    "reversegeo:longitude":-113.645985,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"e6d98c24dd0e41caa7a88895c8edc31e",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108972211,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972211,
+    "wof:lastmodified":1507246078,
+    "wof:name":"Poundmaker Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.65309388455597,
+    53.54866805166484,
+    -113.63962554038291,
+    53.55590653334962
+],
+  "geometry": {"coordinates":[[[[-113.65309388455597,53.55588050129582],[-113.64390723992672,53.55589718834773],[-113.64378051795099,53.55589811309147],[-113.64360540995752,53.55589770846546],[-113.63990959991084,53.5559040584789],[-113.63962554038291,53.55590653334962],[-113.63972374287943,53.55327026815725],[-113.63982822817729,53.54866805166484],[-113.64540988399645,53.54867891700562],[-113.64551472729256,53.54872880856303],[-113.65204235326075,53.54872343394794],[-113.65199952881518,53.55273713701776],[-113.65246151716464,53.55406691305402],[-113.65309388455597,53.55588050129582]]]],"type":"MultiPolygon"}
+}

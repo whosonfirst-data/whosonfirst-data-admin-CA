@@ -1,0 +1,90 @@
+{
+  "id": 1126019613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-124.826803,49.508941,-124.826803,49.508941",
+    "geom:latitude":49.508941,
+    "geom:longitude":-124.826803,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":49.508941,
+    "lbl:longitude":-124.826803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fanny Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Fanny Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Fanny Bay"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fanny Bay",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":329,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":329,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":249965,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":9778,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9778,
+        "qs_pg:id":249965,
+        "wd:id":"Q5434010"
+    },
+    "wof:country":"CA",
+    "wof:created":1497300754,
+    "wof:geomhash":"a9afd731b5fe50c245d7486b6cfa749a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":1126019613,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1126019613,
+    "wof:lastmodified":1553816704,
+    "wof:name":"Fanny Bay",
+    "wof:parent_id":85682117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.826803,
+    49.508941,
+    -124.826803,
+    49.508941
+],
+  "geometry": {"coordinates":[-124.826803,49.508941],"type":"Point"}
+}

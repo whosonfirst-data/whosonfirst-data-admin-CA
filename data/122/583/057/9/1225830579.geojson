@@ -1,0 +1,67 @@
+{
+  "id": 1225830579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4725,46.065,-77.4725,46.065",
+    "geom:latitude":46.065,
+    "geom:longitude":-77.4725,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mountain View",
+    "gn:country_code":"CA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6079658,
+    "gn:latitude":46.065,
+    "gn:longitude":-77.4725,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Mountain View",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6079658
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c0ce276daf5126876474bfd666c2eaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456473,
+            "locality_id":1225830579,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1225830579,
+    "wof:lastmodified":1537034076,
+    "wof:name":"Mountain View",
+    "wof:parent_id":890456473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4725,
+    46.065,
+    -77.4725,
+    46.065
+],
+  "geometry": {"coordinates":[-77.4725,46.065],"type":"Point"}
+}

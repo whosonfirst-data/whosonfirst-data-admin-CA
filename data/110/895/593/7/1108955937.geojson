@@ -1,0 +1,100 @@
+{
+  "id": 1108955937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":304780.644771,
+    "geom:bbox":"-73.5679432493,45.5117616196,-73.5566802732,45.5189708524",
+    "geom:latitude":45.515263,
+    "geom:longitude":-73.56254,
+    "iso:country":"CA",
+    "lbl:latitude":45.516002,
+    "lbl:longitude":-73.565284,
+    "mps:latitude":45.515214,
+    "mps:longitude":-73.562536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":14.0,
+    "name:afr_x_preferred":[
+        "Quartier Latin de Montr\u00e9al"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u4e01\u5340"
+    ],
+    "name:eng_x_preferred":[
+        "Quartier Latin"
+    ],
+    "name:eng_x_variant":[
+        "Latin Quarter"
+    ],
+    "name:fra_x_preferred":[
+        "Quartier Latin"
+    ],
+    "name:fre_x_preferred":[
+        "quartier latin de Montr\u00e9al"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05e8\u05d9\u05d0\u05d5\u05dc/\u05d4\u05e8\u05d5\u05d1\u05e2 \u05d4\u05dc\u05d8\u05d9\u05e0\u05d9-\u05dc\u05d4 \u05d5\u05d5\u05d9\u05dc\u05d2'"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30c1\u30a8\u30fb\u30e9\u30bf\u30f3\u5730\u533a"
+    ],
+    "name:pol_x_preferred":[
+        "Quartier latin"
+    ],
+    "reversegeo:latitude":45.515214,
+    "reversegeo:longitude":-73.562536,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        420784405,
+        102191575,
+        85633041,
+        101736545,
+        1108955761,
+        890458661,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3413312"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"0193e5d67492955b3a796fee1cd8e5e5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108955761,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458661,
+            "locality_id":101736545,
+            "microhood_id":1108955937,
+            "neighbourhood_id":420784405,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1108955937,
+    "wof:lastmodified":1533277853,
+    "wof:name":"Quartier Latin",
+    "wof:parent_id":420784405,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85866487
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56794324932744,
+    45.51176161955921,
+    -73.55668027322353,
+    45.51897085237767
+],
+  "geometry": {"coordinates":[[[[-73.5590860681489,45.51176161955921],[-73.56794324932744,45.51583503496338],[-73.56746199708174,45.5169098535845],[-73.56705733241552,45.51780551986549],[-73.56688918701717,45.51819555705567],[-73.56656836173265,45.51893512486878],[-73.56655266623289,45.51897085237767],[-73.56428094258223,45.51788247794546],[-73.56383576051979,45.51767705707779],[-73.56294539639492,45.51726621534245],[-73.56216144164108,45.51691167226208],[-73.56148389625824,45.5166134278367],[-73.56071731446292,45.51627561810986],[-73.55986169625511,45.51589824308159],[-73.55874331204947,45.51538847664168],[-73.55668027322353,45.51441915299027],[-73.5590860681489,45.51176161955921]]]],"type":"MultiPolygon"}
+}

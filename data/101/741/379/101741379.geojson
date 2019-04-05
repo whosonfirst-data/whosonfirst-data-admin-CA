@@ -1,0 +1,77 @@
+{
+  "id": 101741379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"-65.485947,44.6620999,-65.4745462,44.6826602",
+    "geom:latitude":44.672562,
+    "geom:longitude":-65.480193,
+    "iso:country":"CA",
+    "lbl:latitude":44.672587,
+    "lbl:longitude":-65.480199,
+    "mps:latitude":44.672587,
+    "mps:longitude":-65.480199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bear River Indian Reserve No. 6A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Nova Scotia",
+    "qs:a1_lc":"NS",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"BEAR RIVER INDIAN RESERVE NO. 6A",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE BEAR RIVER NO. 6A",
+    "qs:loc_lc":"b64bff74affd11d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682075,
+        890456461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23391960
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9d3ebaa111ac41181d43011d1569ad36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456461,
+            "locality_id":101741379,
+            "region_id":85682075
+        }
+    ],
+    "wof:id":101741379,
+    "wof:lastmodified":1531772457,
+    "wof:name":"Bear River Indian Reserve No. 6A",
+    "wof:parent_id":890456461,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.485947,
+    44.66209989999999,
+    -65.47454620000002,
+    44.68266019999999
+],
+  "geometry": {"coordinates":[[[-65.485947,44.68220860000002],[-65.48420489999999,44.68266019999999],[-65.48271459999999,44.67929370000002],[-65.4823379,44.67864320000001],[-65.48230769999998,44.67858260000003],[-65.48132930000003,44.6766189],[-65.48115869999999,44.67627649999997],[-65.47904699999999,44.67203790000002],[-65.47551929999997,44.66495550000002],[-65.47543250000001,44.6647812],[-65.47454620000002,44.66300139999998],[-65.47551129999999,44.66211],[-65.47553790000001,44.66209989999999],[-65.47555939999999,44.662102],[-65.47560809999999,44.6621146],[-65.47562590000001,44.66211850000002],[-65.475669,44.6621326],[-65.475707,44.6621417],[-65.47572150000002,44.66214609999997],[-65.47580140000002,44.6621692],[-65.4758602,44.66218],[-65.4759085,44.6622016],[-65.47595589999997,44.6622084],[-65.47597130000003,44.662214],[-65.4764313,44.66321950000003],[-65.47652269999998,44.6635359],[-65.48327360000002,44.67692110000002],[-65.48394500000001,44.67829940000001],[-65.485947,44.68220860000002]]],"type":"Polygon"}
+}

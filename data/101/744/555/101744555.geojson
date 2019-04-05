@@ -1,0 +1,77 @@
+{
+  "id": 101744555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-124.5837117,54.5176686,-124.5813832,54.5186408",
+    "geom:latitude":54.518112,
+    "geom:longitude":-124.582787,
+    "iso:country":"CA",
+    "lbl:latitude":54.518178,
+    "lbl:longitude":-124.582961,
+    "mps:latitude":54.518178,
+    "mps:longitude":-124.582961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Stuart Lake 10"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"STUART LAKE 10",
+    "qs:loc_alt":"STUART LAKE (DUNAH ISLAND) NO 10",
+    "qs:loc_lc":"4d7a98e7ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373036
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"b42255f1a2539a1a4b1be5c305fff89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":101744555,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744555,
+    "wof:lastmodified":1533335895,
+    "wof:name":"Stuart Lake 10",
+    "wof:parent_id":890458087,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.58371169999998,
+    54.51766859999998,
+    -124.5813832,
+    54.51864080000001
+],
+  "geometry": {"coordinates":[[[-124.58353510000001,54.51783030000001],[-124.58351920000001,54.5180779],[-124.58357239999999,54.51825589999999],[-124.58371169999998,54.51844519999997],[-124.58369520000002,54.51852659999997],[-124.58360860000001,54.518582],[-124.58341969999998,54.51864080000001],[-124.583016,54.5185856],[-124.58274119999999,54.51857860000001],[-124.58241120000002,54.5185851],[-124.58239620000001,54.5185414],[-124.582584,54.518373],[-124.58258859999999,54.5183341],[-124.58214629999998,54.51809379999997],[-124.58174309999998,54.51786279999999],[-124.5813832,54.51772340000002],[-124.58140739999999,54.5176892],[-124.58157790000001,54.51766859999998],[-124.58220139999997,54.51768170000003],[-124.58285009999997,54.51776610000002],[-124.58341180000002,54.5177923],[-124.58353510000001,54.51783030000001]]],"type":"Polygon"}
+}

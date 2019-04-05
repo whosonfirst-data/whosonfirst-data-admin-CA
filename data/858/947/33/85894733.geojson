@@ -1,0 +1,117 @@
+{
+  "id": 85894733,
+  "type": "Feature",
+  "properties": {
+    "can-nwds:NEIGHNUM":"3",
+    "can-nwds:NEIGH_NAME":"Westend",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1116080.358211,
+    "geom:bbox":"-122.95203977,49.2001302825,-122.930559293,49.2134921774",
+    "geom:latitude":49.206728,
+    "geom:longitude":-122.941283,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.206722,
+    "lbl:longitude":-122.941282,
+    "mps:latitude":49.211538,
+    "mps:longitude":-122.939872,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "West End"
+    ],
+    "name:eng_x_variant":[
+        "Westend"
+    ],
+    "name:unk_x_variant":[
+        "West End"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"West End",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":17,
+    "qs:photo_sum":57,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.206722,
+    "reversegeo:longitude":-122.941282,
+    "src:geom":"can-nwds",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741077,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998813,
+        "qs:id":267184,
+        "qs_pg:id":267184
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"42d8467f2854e5ae9602b235b266803f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741077,
+            "neighbourhood_id":85894733,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894733,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335942,
+    "wof:name":"West End",
+    "wof:parent_id":101741077,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.95203976980233,
+    49.20013028248034,
+    -122.93055929332368,
+    49.21349217737112
+],
+  "geometry": {"coordinates":[[[[-122.94151960494591,49.20173670346784],[-122.94444269513495,49.20013028248034],[-122.94508126886653,49.20021474921913],[-122.94551762215255,49.20062876588056],[-122.9460197460542,49.20100528234413],[-122.95203976980233,49.20579536418935],[-122.95099811891983,49.2063683592835],[-122.94987751474385,49.20693548908442],[-122.9490296347537,49.2073941042162],[-122.94502656735089,49.20955934989701],[-122.94395773370569,49.21012347671081],[-122.94279604863829,49.21076789627507],[-122.940929563316,49.21176887580929],[-122.93773520897609,49.21349217737112],[-122.93413988122079,49.2105105008218],[-122.93055929332368,49.20764850282833],[-122.94151960494591,49.20173670346784]]]],"type":"MultiPolygon"}
+}

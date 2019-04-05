@@ -1,0 +1,97 @@
+{
+  "id": 1125807117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-128.90613,60.04958,-128.90613,60.04958",
+    "geom:latitude":60.04958,
+    "geom:longitude":-128.90613,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":642,
+    "gn:population":642,
+    "iso:country":"CA",
+    "lbl:latitude":60.04958,
+    "lbl:longitude":-128.90613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Upper Liard"
+    ],
+    "name:eng_x_preferred":[
+        "Upper Liard"
+    ],
+    "name:fre_x_preferred":[
+        "Upper Liard"
+    ],
+    "name:ger_x_preferred":[
+        "Upper Liard"
+    ],
+    "name:por_x_preferred":[
+        "Upper Liard"
+    ],
+    "name:swe_x_preferred":[
+        "Upper Liard"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":6172408,
+    "qs_pg:gn_pop":642,
+    "qs_pg:name":"Upper Liard",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":615695,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682095,
+        890457195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6172408,
+        "qs_pg:id":615695,
+        "wd:id":"Q2499757"
+    },
+    "wof:country":"CA",
+    "wof:created":1497291511,
+    "wof:geomhash":"1b628deeb6493e4fee95f10989019bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457195,
+            "locality_id":1125807117,
+            "region_id":85682095
+        }
+    ],
+    "wof:id":1125807117,
+    "wof:lastmodified":1553816548,
+    "wof:name":"Upper Liard",
+    "wof:parent_id":890457195,
+    "wof:placetype":"locality",
+    "wof:population":642,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.90613,
+    60.04958,
+    -128.90613,
+    60.04958
+],
+  "geometry": {"coordinates":[-128.90612999999999,60.04958],"type":"Point"}
+}

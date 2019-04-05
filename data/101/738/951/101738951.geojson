@@ -1,0 +1,94 @@
+{
+  "id": 101738951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":1320156.241514,
+    "geom:bbox":"-109.8357349,52.2598499,-109.8122129,52.2672766",
+    "geom:latitude":52.263563,
+    "geom:longitude":-109.823973,
+    "iso:country":"CA",
+    "lbl:latitude":52.263564,
+    "lbl:longitude":-109.823973,
+    "mps:latitude":52.263564,
+    "mps:longitude":-109.823973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Primate"
+    ],
+    "name:eng_x_preferred":[
+        "Primate"
+    ],
+    "name:fre_x_preferred":[
+        "Primate"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Primate",
+    "qs:loc_lc":"0c2be671849c20c34bdc8a43177f8ce7",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":14507,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03bd2e6e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6113294,
+        "gp:id":23402867,
+        "qs:id":492053,
+        "qs_pg:id":492053,
+        "wd:id":"Q2202301"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2c20e13f784540167ad0c5e013c9b94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868959,
+            "locality_id":101738951,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101738951,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524367,
+    "wof:name":"Primate",
+    "wof:parent_id":1158868959,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.8357349,
+    52.2598499,
+    -109.8122129,
+    52.2672766
+],
+  "geometry": {"coordinates":[[[-109.82576950000001,52.2598546],[-109.83573490000001,52.2598499],[-109.8357347,52.2600308],[-109.8357347,52.2601253],[-109.8357333,52.2629889],[-109.835733,52.2635929],[-109.8357329,52.2636734],[-109.8357312,52.2672667],[-109.8313473,52.2672689],[-109.8301484,52.2672696],[-109.8293491,52.2672699],[-109.8285501,52.2672702],[-109.827753,52.2672706],[-109.824268,52.2672722],[-109.82397330000001,52.2672723],[-109.8211216,52.2672734],[-109.8205469,52.2672736],[-109.81221290000001,52.2672766],[-109.8122149,52.2605253],[-109.81221499999999,52.2600396],[-109.8122152,52.259859],[-109.8146311,52.2598584],[-109.81592240000001,52.259858],[-109.8178269,52.2598574],[-109.81985969999999,52.2598567],[-109.8239773,52.2598553],[-109.82576950000001,52.2598546]]],"type":"Polygon"}
+}

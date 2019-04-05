@@ -1,0 +1,117 @@
+{
+  "id": 85894635,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Cameron",
+    "can-bbygov:OBJECTID_1":"14",
+    "can-bbygov:PSA":"17",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1158907.898692,
+    "geom:bbox":"-122.912717383,49.2424383825,-122.892595611,49.2534968497",
+    "geom:latitude":49.249524,
+    "geom:longitude":-122.901086,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.249613,
+    "lbl:longitude":-122.901085,
+    "mps:latitude":49.244044,
+    "mps:longitude":-122.891915,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Cameron"
+    ],
+    "name:unk_x_variant":[
+        "Cameron"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Cameron",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":38,
+    "qs:photo_sum":269,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.249613,
+    "reversegeo:longitude":-122.901085,
+    "src:geom":"can-bbygov",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108915097,
+        85633041,
+        101741055,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998710,
+        "qs:id":1248837,
+        "qs_pg:id":1248837
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6da84d2cea144067cec714a898fb7113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915097,
+            "neighbourhood_id":85894635,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894635,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335941,
+    "wof:name":"Cameron",
+    "wof:parent_id":1108915097,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.91271738295768,
+    49.24243838247827,
+    -122.89259561062003,
+    49.25349684968445
+],
+  "geometry": {"coordinates":[[[[-122.8929402345575,49.25342187936477],[-122.89266226157302,49.2459555820188],[-122.89259561062003,49.24243838247827],[-122.89477117023712,49.24359627277408],[-122.89518027036563,49.24383052085913],[-122.89980470919507,49.24556170942726],[-122.90324413304387,49.2461043552264],[-122.90391889708469,49.24620836356276],[-122.90399744591963,49.24622192171273],[-122.90471585566708,49.24618203792289],[-122.90572669110973,49.24612889581253],[-122.90576014750697,49.24614691357542],[-122.90690144169233,49.24681348614952],[-122.90865540796294,49.24845651589557],[-122.90962053791552,49.24923536225553],[-122.91105594944828,49.24998308016447],[-122.91271738295768,49.25042511342797],[-122.91271681807022,49.25050157242413],[-122.91254191218717,49.25349684968445],[-122.8959479167562,49.25344711538704],[-122.8929402345575,49.25342187936477]]]],"type":"MultiPolygon"}
+}

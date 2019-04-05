@@ -1,0 +1,77 @@
+{
+  "id": 101744153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-121.3957511,50.3090889,-121.3947088,50.3100119",
+    "geom:latitude":50.309493,
+    "geom:longitude":-121.395242,
+    "iso:country":"CA",
+    "lbl:latitude":50.309508,
+    "lbl:longitude":-121.395268,
+    "mps:latitude":50.309508,
+    "mps:longitude":-121.395268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gulada 3A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"GULADA 3A",
+    "qs:loc_alt":"GULADA NO  3A",
+    "qs:loc_lc":"377711ffba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56625452
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a35872edc617b94caae4660fecedb6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744153,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744153,
+    "wof:lastmodified":1533335889,
+    "wof:name":"Gulada 3A",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.39575109999998,
+    50.3090889,
+    -121.39470879999999,
+    50.3100119
+],
+  "geometry": {"coordinates":[[[-121.39575109999998,50.30921239999998],[-121.39548350000001,50.3100119],[-121.39538920000001,50.30999980000001],[-121.39518470000002,50.30997359999998],[-121.39470879999999,50.3093232],[-121.39478730000002,50.3090889],[-121.39485070000001,50.309097],[-121.39575109999998,50.30921239999998]]],"type":"Polygon"}
+}

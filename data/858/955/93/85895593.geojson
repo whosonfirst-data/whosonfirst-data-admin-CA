@@ -1,0 +1,118 @@
+{
+  "id": 85895593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1117532.027406,
+    "geom:bbox":"-79.1099165163,43.7951978424,-79.0912342351,43.8107473134",
+    "geom:latitude":43.803713,
+    "geom:longitude":-79.099776,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.805164,
+    "lbl:longitude":-79.103813,
+    "mps:latitude":43.802839,
+    "mps:longitude":-79.097446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":2,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":20.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "West Shore"
+    ],
+    "name:unk_x_variant":[
+        "West Shore"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6167865,
+    "qs:gn_namadm1":"08",
+    "qs:local_max":31902,
+    "qs:local_sum":368231,
+    "qs:localhoods":172,
+    "qs:name":"West Shore",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Durham",
+    "qs:name_local":"Toronto",
+    "qs:photo_max":8,
+    "qs:photo_sum":10,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375180,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":4118,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101736359,
+        890456493,
+        85682057,
+        101740717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999570,
+        "qs:id":991623,
+        "qs_pg:id":991623
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c582552ed0cbf29a1d8965afa21fc342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456493,
+            "locality_id":101736359,
+            "neighbourhood_id":85895593,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456493,
+            "locality_id":101740717,
+            "neighbourhood_id":85895593,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895593,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533262255,
+    "wof:name":"West Shore",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10991651633498,
+    43.79519784243804,
+    -79.09123423510715,
+    43.81074731340006
+],
+  "geometry": {"coordinates":[[[-79.10156249999991,43.81074724765035],[-79.10156249999991,43.80678314780003],[-79.09606933589987,43.80678314780003],[-79.0960693359155,43.80678308199187],[-79.09123423510715,43.80008328109007],[-79.09181407672651,43.79767305279542],[-79.09326021561975,43.79648623727702],[-79.09498908362639,43.79556213807517],[-79.09602005126936,43.79524939745944],[-79.09606236138194,43.79519784243804],[-79.10156249999991,43.80281865325021],[-79.10705566407489,43.80281865325021],[-79.10705566408424,43.80281871900003],[-79.10705566408529,43.80678308200039],[-79.10705571156376,43.80678314779807],[-79.10991651633498,43.81074724765035],[-79.10705566410005,43.81074724765035],[-79.10705566410005,43.81074731340006],[-79.10156249999991,43.81074731340006],[-79.10156249999991,43.81074724765035]]],"type":"Polygon"}
+}

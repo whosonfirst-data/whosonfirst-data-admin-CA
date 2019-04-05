@@ -1,0 +1,86 @@
+{
+  "id": 1126036303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.822059,49.667082,-96.822059,49.667082",
+    "geom:latitude":49.667082,
+    "geom:longitude":-96.822059,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":49.667082,
+    "lbl:longitude":-96.822059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Landmark"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Landmark",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Manitoba",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":482764,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23401806,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Manitoba",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682085,
+        1158869059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23401806,
+        "qs_pg:id":482764,
+        "wd:id":"Q6484745"
+    },
+    "wof:country":"CA",
+    "wof:created":1497301806,
+    "wof:geomhash":"1a2231f87f96d0e7a72b375c87dae7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869059,
+            "locality_id":1126036303,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1126036303,
+    "wof:lastmodified":1533071927,
+    "wof:name":"Landmark",
+    "wof:parent_id":1158869059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.822059,
+    49.667082,
+    -96.822059,
+    49.667082
+],
+  "geometry": {"coordinates":[-96.822059,49.667082],"type":"Point"}
+}

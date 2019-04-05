@@ -1,0 +1,80 @@
+{
+  "id": 1125970715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.240142,51.477213,-57.240142,51.477213",
+    "geom:latitude":51.477213,
+    "geom:longitude":-57.240142,
+    "gn:gn_country":"CA",
+    "iso:country":"CA",
+    "lbl:latitude":51.477213,
+    "lbl:longitude":-57.240142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:name":"Brador",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":139,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":139,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233505,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23394775,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23394775,
+        "qs_pg:id":233505
+    },
+    "wof:country":"CA",
+    "wof:created":1497298153,
+    "wof:geomhash":"2c41a63bdd972ea64f7eae90cba90222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":1125970715,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125970715,
+    "wof:lastmodified":1509403942,
+    "wof:name":"Brador",
+    "wof:parent_id":136251273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.240142,
+    51.477213,
+    -57.240142,
+    51.477213
+],
+  "geometry": {"coordinates":[-57.240142,51.477213],"type":"Point"}
+}

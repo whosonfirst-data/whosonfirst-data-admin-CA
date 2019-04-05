@@ -1,0 +1,82 @@
+{
+  "id": 1125819093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.197018,46.71869,-71.197018,46.71869",
+    "geom:latitude":46.71869,
+    "geom:longitude":-71.197018,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.71869,
+    "lbl:longitude":-71.197018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Jean-Chrysostome",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":275,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":275,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1085709,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23394314,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23394314,
+        "qs_pg:id":1085709
+    },
+    "wof:country":"CA",
+    "wof:created":1497291972,
+    "wof:geomhash":"f2097fd1b580911aaa4767546ae871eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458877,
+            "locality_id":1125819093,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125819093,
+    "wof:lastmodified":1533335699,
+    "wof:name":"St.-Jean-Chrysostome",
+    "wof:parent_id":890458877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.197018,
+    46.71869,
+    -71.197018,
+    46.71869
+],
+  "geometry": {"coordinates":[-71.197018,46.71869],"type":"Point"}
+}

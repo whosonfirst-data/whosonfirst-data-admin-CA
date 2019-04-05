@@ -1,0 +1,82 @@
+{
+  "id": 1125826981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.999871,49.281027,-122.999871,49.281027",
+    "geom:latitude":49.281027,
+    "geom:longitude":-122.999871,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":49.281027,
+    "lbl:longitude":-122.999871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Burrard Inlet Indian Reserve 3",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":1675,
+    "qs_pg:photos_1k":339,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1675,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089159,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29372930,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29372930,
+        "qs_pg:id":1089159
+    },
+    "wof:country":"CA",
+    "wof:created":1497292323,
+    "wof:geomhash":"241b7d34b4a861d78ba61beef2fc25c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":1125826981,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125826981,
+    "wof:lastmodified":1533335930,
+    "wof:name":"Burrard Inlet Indian Reserve 3",
+    "wof:parent_id":890457467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.999871,
+    49.281027,
+    -122.999871,
+    49.281027
+],
+  "geometry": {"coordinates":[-122.999871,49.281027],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101742873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000482,
+    "geom:bbox":"-127.6962532,55.3691151,-127.6762184,55.3945855",
+    "geom:latitude":55.381861,
+    "geom:longitude":-127.68624,
+    "iso:country":"CA",
+    "lbl:latitude":55.381861,
+    "lbl:longitude":-127.68624,
+    "mps:latitude":55.381861,
+    "mps:longitude":-127.68624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Agwedin 3"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"AGWEDIN 3",
+    "qs:loc_alt":"AGWEDIN NO  3",
+    "qs:loc_lc":"e49eb9b3ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373028
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9dedec520965e7bd2e677b556444825d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101742873,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101742873,
+    "wof:lastmodified":1533335869,
+    "wof:name":"Agwedin 3",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -127.6962532,
+    55.36911509999999,
+    -127.67621839999998,
+    55.3945855
+],
+  "geometry": {"coordinates":[[[-127.6962532,55.39445540000003],[-127.68577860000001,55.39452740000002],[-127.68399260000001,55.3945395],[-127.6772067,55.3945855],[-127.67703210000002,55.39012129999998],[-127.6769468,55.3879379],[-127.67671159999998,55.381905],[-127.67669859999999,55.38157239999998],[-127.67621839999998,55.36929550000002],[-127.67939050000001,55.36926039999997],[-127.68409219999999,55.36921760000001],[-127.6845907,55.36921310000002],[-127.68519459999999,55.36920759999998],[-127.68541140000002,55.36920559999999],[-127.68551680000002,55.36920459999999],[-127.6855473,55.36920429999998],[-127.69527010000002,55.36911509999999],[-127.6962532,55.39445540000003]]],"type":"Polygon"}
+}

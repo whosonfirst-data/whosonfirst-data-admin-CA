@@ -1,0 +1,82 @@
+{
+  "id": 1108956929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":141628.179995,
+    "geom:bbox":"-73.6223862808,45.4892659545,-73.615658856,45.4939131736",
+    "geom:latitude":45.491609,
+    "geom:longitude":-73.619041,
+    "iso:country":"CA",
+    "lbl:latitude":45.492663,
+    "lbl:longitude":-73.618195,
+    "mps:latitude":45.491587,
+    "mps:longitude":-73.61904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "Oratoire Saint Joseph"
+    ],
+    "name:eng_x_variant":[
+        "Saint Joseph's Oratory of Mount Royal"
+    ],
+    "name:fra_x_preferred":[
+        "L'Oratoire Saint-Joseph du Mont-Royal"
+    ],
+    "reversegeo:latitude":45.491587,
+    "reversegeo:longitude":-73.61904,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        1108959375,
+        102191575,
+        1108955923,
+        85633041,
+        101736545,
+        1108955757,
+        890458661,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"d8f3cc419b20b8a4c751030c5895e3b2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108955757,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458661,
+            "locality_id":101736545,
+            "macrohood_id":1108955923,
+            "microhood_id":1108956929,
+            "neighbourhood_id":1108959375,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1108956929,
+    "wof:lastmodified":1533277855,
+    "wof:name":"Oratoire Saint Joseph",
+    "wof:parent_id":1108959375,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85897533
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62238628082105,
+    45.48926595447598,
+    -73.61565885599147,
+    45.49391317362093
+],
+  "geometry": {"coordinates":[[[[-73.62238628082105,45.49126877001297],[-73.62003932963864,45.49391317362093],[-73.61565885599147,45.49200950427078],[-73.61706313752144,45.49045811101394],[-73.61769881555871,45.4897421018646],[-73.61782915452157,45.48959761839158],[-73.61812825760882,45.48926595447598],[-73.6191725084434,45.48975785260652],[-73.62004440427883,45.49017702791771],[-73.62083440659748,45.49053859756553],[-73.62164647341619,45.49089977825939],[-73.62238628082105,45.49126877001297]]]],"type":"MultiPolygon"}
+}

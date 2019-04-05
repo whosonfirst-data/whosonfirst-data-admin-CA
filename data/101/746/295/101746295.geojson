@@ -1,0 +1,77 @@
+{
+  "id": 101746295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:bbox":"-102.2122762,50.4332421,-102.2010006,50.4404891",
+    "geom:latitude":50.436863,
+    "geom:longitude":-102.206644,
+    "iso:country":"CA",
+    "lbl:latitude":50.436865,
+    "lbl:longitude":-102.206644,
+    "mps:latitude":50.436865,
+    "mps:longitude":-102.206644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ochapowace I.R. 71-108"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OCHAPOWACE I.R. 71-108",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE OCHAPOWACE NO 71-108",
+    "qs:loc_lc":"6c9ebc08849c20c31bf334f5fb804a3c",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403684
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"bdd2b0f0dd7fe95351ec5ddc3a313e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101746295,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746295,
+    "wof:lastmodified":1531525453,
+    "wof:name":"Ochapowace I.R. 71-108",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.21227620000002,
+    50.43324209999997,
+    -102.20100059999999,
+    50.44048909999998
+],
+  "geometry": {"coordinates":[[[-102.20100059999999,50.43324209999997],[-102.21227620000002,50.43325979999997],[-102.21226940000003,50.44048909999998],[-102.20102850000001,50.44046750000001],[-102.20100059999999,50.43324209999997]]],"type":"Polygon"}
+}

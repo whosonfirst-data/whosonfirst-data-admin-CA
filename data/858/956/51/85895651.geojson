@@ -1,0 +1,118 @@
+{
+  "id": 85895651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6378762.154006,
+    "geom:bbox":"-79.456581,44.01052,-79.456581,44.01052",
+    "geom:latitude":44.01052,
+    "geom:longitude":-79.456581,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":44.01052,
+    "lbl:longitude":-79.456581,
+    "mps:latitude":44.010336,
+    "mps:longitude":-79.457439,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Wellington Lanes"
+    ],
+    "name:unk_x_variant":[
+        "Wellington Lanes"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5888377,
+    "qs:gn_nam_loc":"aurora",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":171,
+    "qs:local_sum":609,
+    "qs:localhoods":6,
+    "qs:name":"Wellington Lanes",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"York",
+    "qs:name_local":"Aurora",
+    "qs:photo_max":42,
+    "qs:photo_sum":164,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375112,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":33,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736049,
+        890458415,
+        101740741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999614,
+        "qs:id":238108,
+        "qs_pg:id":238108
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"4562cddb820f7a8d46832fc0c5c6f4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458415,
+            "locality_id":101736049,
+            "neighbourhood_id":85895651,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458415,
+            "locality_id":101740741,
+            "neighbourhood_id":85895651,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895651,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931460,
+    "wof:name":"Wellington Lanes",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.456581,
+    44.01052,
+    -79.456581,
+    44.01052
+],
+  "geometry": {"coordinates":[-79.456581,44.01052],"type":"Point"}
+}

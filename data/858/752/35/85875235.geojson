@@ -1,0 +1,94 @@
+{
+  "id": 85875235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5144929.005852,
+    "geom:bbox":"-104.652434,50.500356,-104.652434,50.500356",
+    "geom:latitude":50.500356,
+    "geom:longitude":-104.652434,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":50.500356,
+    "lbl:longitude":-104.652434,
+    "mps:latitude":50.497176,
+    "mps:longitude":-104.657757,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Walsh Acres/Lakeridge/Garden Ridge"
+    ],
+    "name:eng_x_variant":[
+        "Walsh Acres/Lakeridge",
+        "akeridge"
+    ],
+    "name:fra_x_preferred":[
+        "Regina-Walsh Acres"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126113663,
+        85633041,
+        101739917,
+        1158868963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856398,
+        "qs:id":897382,
+        "qs_pg:id":897382,
+        "wd:id":"Q2394580"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"21ebd86074766bff1f0938252c6ec5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868963,
+            "locality_id":101739917,
+            "macrohood_id":1126113663,
+            "neighbourhood_id":85875235,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85875235,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872047,
+    "wof:name":"Walsh Acres",
+    "wof:parent_id":1126113663,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.652434,
+    50.500356,
+    -104.652434,
+    50.500356
+],
+  "geometry": {"coordinates":[-104.652434,50.500356],"type":"Point"}
+}

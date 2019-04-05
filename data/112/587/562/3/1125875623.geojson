@@ -1,0 +1,82 @@
+{
+  "id": 1125875623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.233154,46.758874,-71.233154,46.758874",
+    "geom:latitude":46.758874,
+    "geom:longitude":-71.233154,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.758874,
+    "lbl:longitude":-71.233154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Romuald",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":379,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":379,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897625,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1610,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1610,
+        "qs_pg:id":897625
+    },
+    "wof:country":"CA",
+    "wof:created":1497294523,
+    "wof:geomhash":"ea65ffb75276fa5d8091b8627b101756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458877,
+            "locality_id":1125875623,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125875623,
+    "wof:lastmodified":1533335703,
+    "wof:name":"St.-Romuald",
+    "wof:parent_id":890458877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.233154,
+    46.758874,
+    -71.233154,
+    46.758874
+],
+  "geometry": {"coordinates":[-71.233154,46.758874],"type":"Point"}
+}

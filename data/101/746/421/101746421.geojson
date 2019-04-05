@@ -1,0 +1,77 @@
+{
+  "id": 101746421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000373,
+    "geom:bbox":"-103.075208,49.8647085,-103.0338814,49.8870368",
+    "geom:latitude":49.87639,
+    "geom:longitude":-103.055131,
+    "iso:country":"CA",
+    "lbl:latitude":49.880826,
+    "lbl:longitude":-103.058284,
+    "mps:latitude":49.880826,
+    "mps:longitude":-103.058284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ocean Man I.R. 69C"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OCEAN MAN I.R. 69C",
+    "qs:loc_alt":"OCEAN MAN NO 69C",
+    "qs:loc_lc":"f54963d3bbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373726
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"61c355dea99c6f73caf9bcf60131e242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868967,
+            "locality_id":101746421,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746421,
+    "wof:lastmodified":1531524507,
+    "wof:name":"Ocean Man I.R. 69C",
+    "wof:parent_id":1158868967,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.075208,
+    49.8647085,
+    -103.03388139999998,
+    49.88703679999998
+],
+  "geometry": {"coordinates":[[[[-103.075208,49.8799181],[-103.07512889999998,49.88703679999998],[-103.06363219999997,49.8869831],[-103.05213569999999,49.88693460000002],[-103.05247050000003,49.87992120000001],[-103.05282340000002,49.8724952],[-103.05475410000003,49.87250460000001],[-103.06396810000001,49.87547260000002],[-103.06383870000002,49.87991570000003],[-103.075208,49.8799181]]],[[[-103.04505360000002,49.87213630000002],[-103.03697720000002,49.8721213],[-103.03392220000001,49.87211789999998],[-103.03388139999998,49.86494529999999],[-103.0450525,49.8647142],[-103.04505360000002,49.87213630000002]]],[[[-103.0453321,49.8647085],[-103.05639869999999,49.8647532],[-103.05646259999997,49.8692183],[-103.05604970000002,49.86867940000002],[-103.05011819999999,49.8686578],[-103.05012540000001,49.87215270000002],[-103.04533329999998,49.87213709999997],[-103.0453321,49.8647085]]]],"type":"MultiPolygon"}
+}

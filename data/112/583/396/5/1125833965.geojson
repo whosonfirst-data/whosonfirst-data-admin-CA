@@ -1,0 +1,82 @@
+{
+  "id": 1125833965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0739515,46.884189,-71.0739515,46.884189",
+    "geom:latitude":46.884189,
+    "geom:longitude":-71.073952,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.884189,
+    "lbl:longitude":-71.073952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St-Pierre-de-L'\u00eele-D'orl\u00e9ans",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":198,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":198,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091598,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29374118,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29374118,
+        "qs_pg:id":1091598
+    },
+    "wof:country":"CA",
+    "wof:created":1497292627,
+    "wof:geomhash":"f5d9c8d354f8186a08524fff2a5a233c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456797,
+            "locality_id":1125833965,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125833965,
+    "wof:lastmodified":1533335700,
+    "wof:name":"St-Pierre-de-L'\u00eele-D'orl\u00e9ans",
+    "wof:parent_id":890456797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0739515,
+    46.884189,
+    -71.0739515,
+    46.884189
+],
+  "geometry": {"coordinates":[-71.07395150000001,46.884189],"type":"Point"}
+}

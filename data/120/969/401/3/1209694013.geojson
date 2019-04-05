@@ -1,0 +1,62 @@
+{
+  "id": 1209694013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.3514,51.6334,-108.3514,51.6334",
+    "geom:latitude":51.6334,
+    "geom:longitude":-108.3514,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Herschel",
+    "gn:country_code":"CA",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5974378,
+    "gn:latitude":51.6334,
+    "gn:longitude":-108.3514,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Herschel",
+    "gn:population":0,
+    "gn:timezone":"America/Regina",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5974378,
+        "wk:page":"Herschel%2C_Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9acb19876741a83c23c01c7ef69e5350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633041,
+            "locality_id":1209694013
+        }
+    ],
+    "wof:id":1209694013,
+    "wof:lastmodified":1537488992,
+    "wof:name":"Herschel",
+    "wof:parent_id":85633041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.3514,
+    51.6334,
+    -108.3514,
+    51.6334
+],
+  "geometry": {"coordinates":[-108.3514,51.6334],"type":"Point"}
+}

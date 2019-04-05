@@ -1,0 +1,95 @@
+{
+  "id": 101734869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001774,
+    "geom:bbox":"-101.0759907,50.4100542,-101.0156193,50.4395829",
+    "geom:latitude":50.42479,
+    "geom:longitude":-101.04586,
+    "iso:country":"CA",
+    "lbl:latitude":50.424801,
+    "lbl:longitude":-101.045861,
+    "mps:latitude":50.424801,
+    "mps:longitude":-101.045861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Birtle"
+    ],
+    "name:eng_x_preferred":[
+        "Birtle"
+    ],
+    "name:fra_x_preferred":[
+        "Birtle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Birtle"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Manitoba",
+    "qs:a1_lc":"MB",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Birtle",
+    "qs:loc_lc":"df112f19bedb11d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":50.4225,
+    "wd:longitude":-101.0475,
+    "wd:wordcount":1038,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682085,
+        1158868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03bfb634-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5901898,
+        "gp:id":122,
+        "wd:id":"Q86586",
+        "wk:page":"Birtle, Manitoba"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d75fab8420c3eafb23643cd5e6b07997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868995,
+            "locality_id":101734869,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":101734869,
+    "wof:lastmodified":1531526344,
+    "wof:name":"Birtle",
+    "wof:parent_id":1158868995,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.0759907,
+    50.4100542,
+    -101.0156193,
+    50.4395829
+],
+  "geometry": {"coordinates":[[[-101.0731133,50.4100629],[-101.07594469999999,50.4100634],[-101.0759418,50.4172832],[-101.0759645,50.4320649],[-101.07599070000001,50.4395829],[-101.0731593,50.4395728],[-101.0618403,50.4395317],[-101.0614156,50.4395392],[-101.05009149999999,50.439529],[-101.03876750000001,50.4395178],[-101.0383429,50.4395252],[-101.027072,50.4395155],[-101.0158011,50.4395047],[-101.0158799,50.4322007],[-101.01586829999999,50.4319296],[-101.01574960000001,50.4247352],[-101.0156308,50.4175408],[-101.0156193,50.4172695],[-101.0156243,50.4100542],[-101.02694030000001,50.4100716],[-101.0382563,50.4100879],[-101.03868060000001,50.4100804],[-101.0500131,50.4100745],[-101.0613455,50.4100675],[-101.0617699,50.41006],[-101.0731133,50.4100629]]],"type":"Polygon"}
+}

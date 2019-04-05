@@ -1,0 +1,77 @@
+{
+  "id": 101745167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:bbox":"-123.5645632,53.2537574,-123.5404435,53.2610004",
+    "geom:latitude":53.257376,
+    "geom:longitude":-123.552507,
+    "iso:country":"CA",
+    "lbl:latitude":53.257376,
+    "lbl:longitude":-123.552506,
+    "mps:latitude":53.257376,
+    "mps:longitude":-123.552506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Euchinico Creek 19"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"EUCHINICO CREEK 19",
+    "qs:loc_alt":"EUCHINICO CREEK NO  19",
+    "qs:loc_lc":"917ffef5ba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373042
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2ff4c8d7386b20ec1e7a0b54b900eda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745167,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745167,
+    "wof:lastmodified":1533335904,
+    "wof:name":"Euchinico Creek 19",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.5645632,
+    53.25375739999998,
+    -123.54044349999998,
+    53.2610004
+],
+  "geometry": {"coordinates":[[[-123.56456319999999,53.2610004],[-123.55249450000002,53.2609903],[-123.54044349999998,53.26098109999998],[-123.540446,53.25375739999998],[-123.56456120000001,53.2537656],[-123.56456319999999,53.2610004]]],"type":"Polygon"}
+}

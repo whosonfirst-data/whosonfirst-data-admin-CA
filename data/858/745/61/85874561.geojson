@@ -1,0 +1,89 @@
+{
+  "id": 85874561,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residential",
+    "can-calcai:class_code":"1",
+    "can-calcai:comm_code":"FHT",
+    "can-calcai:comm_structure":"1960s/1970s",
+    "can-calcai:name":"FOREST HEIGHTS",
+    "can-calcai:sector":"EAST",
+    "can-calcai:srg":"BUILT-OUT",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000193,
+    "geom:area_square_m":1497354.198768,
+    "geom:bbox":"-113.9817,51.045143,-113.955215,51.053332",
+    "geom:latitude":51.049068,
+    "geom:longitude":-113.968752,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":51.049114,
+    "lbl:longitude":-113.968023,
+    "mps:latitude":51.045104,
+    "mps:longitude":-113.969467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Forest Heights"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855975,
+        "qs:id":1000967,
+        "qs_pg:id":1000967
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"294bff50294bcad6dfe5d398a5c6215f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":85874561,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85874561,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270640,
+    "wof:name":"Forest Heights",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.9817,
+    51.045143,
+    -113.955215,
+    51.053332
+],
+  "geometry": {"coordinates":[[[[-113.958309,51.045191],[-113.958778,51.045185],[-113.96136300000001,51.045157],[-113.964358,51.045186],[-113.96638900000001,51.045186],[-113.96928,51.045187],[-113.97002500000001,51.045187],[-113.971473,51.045188],[-113.972937,51.04519],[-113.974344,51.045188],[-113.97573300000001,51.045189],[-113.977206,51.045189],[-113.978678,51.045189],[-113.98014999999999,51.045189],[-113.980875,51.045143],[-113.98160300000001,51.045153],[-113.98161500000001,51.048146],[-113.9817,51.052122],[-113.978076,51.052515],[-113.97692499999999,51.052611],[-113.97557399999999,51.05274],[-113.97423499999999,51.052814],[-113.972769,51.052841],[-113.970018,51.052847],[-113.96359,51.052854],[-113.959312,51.052864],[-113.958752,51.05287],[-113.958364,51.05289],[-113.955747,51.053332],[-113.955536,51.052852],[-113.955404,51.052491],[-113.95531200000001,51.052156],[-113.955241,51.051801],[-113.95521599999999,51.051492],[-113.955215,51.05118],[-113.955258,51.050812],[-113.955338,51.050486],[-113.955423,51.050186],[-113.955575,51.049845],[-113.95580099999999,51.04942],[-113.956031,51.049018],[-113.95801299999999,51.045567],[-113.958207,51.045191],[-113.958309,51.045191]]]],"type":"MultiPolygon"}
+}

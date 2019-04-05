@@ -1,0 +1,106 @@
+{
+  "id": 85875677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17120466.317781,
+    "geom:bbox":"-66.640486,45.939863,-66.640486,45.939863",
+    "geom:latitude":45.939863,
+    "geom:longitude":-66.640486,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.939863,
+    "lbl:longitude":-66.640486,
+    "mps:latitude":45.930608,
+    "mps:longitude":-66.629825,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "LincolnHeights"
+    ],
+    "name:unk_x_variant":[
+        "LincolnHeights"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":6518,
+    "qs:local_sum":9310,
+    "qs:localhoods":11,
+    "qs:name":"LincolnHeights",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"New Brunswick",
+    "qs:name_adm2":"York",
+    "qs:name_local":"Fredericton",
+    "qs:photo_max":135,
+    "qs:photo_sum":678,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":50,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344918,
+    "qs:woe_adm2":29375042,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":3704,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101735269,
+        890458685,
+        85682065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856751,
+        "qs:id":225185,
+        "qs_pg:id":225185
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"61a9d0b09e6e1c7f8958505b5d788333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458685,
+            "locality_id":101735269,
+            "neighbourhood_id":85875677,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":85875677,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872195,
+    "wof:name":"LincolnHeights",
+    "wof:parent_id":101735269,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.640486,
+    45.939863,
+    -66.640486,
+    45.939863
+],
+  "geometry": {"coordinates":[-66.640486,45.939863],"type":"Point"}
+}

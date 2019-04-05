@@ -1,0 +1,113 @@
+{
+  "id": 85784699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14759448.820365,
+    "geom:bbox":"-81.194115,46.576194,-81.194115,46.576194",
+    "geom:latitude":46.576194,
+    "geom:longitude":-81.194115,
+    "gn:latitude":46.58338,
+    "gn:longitude":-81.19976,
+    "gn:population":500,
+    "iso:country":"CA",
+    "lbl:latitude":46.576194,
+    "lbl:longitude":-81.194115,
+    "mps:latitude":46.580668,
+    "mps:longitude":-81.196793,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Chelmsford"
+    ],
+    "name:unk_x_variant":[
+        "Chelmsford"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":5964700,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Chelmsford",
+    "qs:local_max":3398,
+    "qs:local_sum":5038,
+    "qs:localhoods":10,
+    "qs:name":"Chelmsford",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Greater Sudbury",
+    "qs:name_local":"Sudbury",
+    "qs:photo_max":30,
+    "qs:photo_sum":72,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375071,
+    "qs:woe_lau":0,
+    "qs:woe_local":3198,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735493,
+        890458085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5920648,
+        "gp:id":277,
+        "qs:id":1251879,
+        "qs_pg:id":1251879
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"748497e37668402eaff4120c7b8209ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458085,
+            "locality_id":101735493,
+            "neighbourhood_id":85784699,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85784699,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860640,
+    "wof:name":"Chelmsford",
+    "wof:parent_id":101735493,
+    "wof:placetype":"neighbourhood",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.194115,
+    46.576194,
+    -81.194115,
+    46.576194
+],
+  "geometry": {"coordinates":[-81.194115,46.576194],"type":"Point"}
+}

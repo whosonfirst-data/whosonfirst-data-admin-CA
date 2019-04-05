@@ -1,0 +1,79 @@
+{
+  "id": 101743763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000808,
+    "geom:area_square_m":5156276.753182,
+    "geom:bbox":"-128.2900861,58.9295341,-128.2333813,58.9510742",
+    "geom:latitude":58.941975,
+    "geom:longitude":-128.261793,
+    "iso:country":"CA",
+    "lbl:latitude":58.943782,
+    "lbl:longitude":-128.261793,
+    "mps:latitude":58.943782,
+    "mps:longitude":-128.261793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mosquito Creek 5"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MOSQUITO CREEK 5",
+    "qs:loc_alt":"MOSQUITO CREEK NO 5",
+    "qs:loc_lc":"414f0e80ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":587,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        1158868595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56121068
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"06cc6055231170b4b4f264aebd72e9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868595,
+            "locality_id":101743763,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743763,
+    "wof:lastmodified":1531519733,
+    "wof:name":"Mosquito Creek 5",
+    "wof:parent_id":1158868595,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.2900861,
+    58.92953410000001,
+    -128.23338130000002,
+    58.9510742
+],
+  "geometry": {"coordinates":[[[-128.25512800000001,58.9510742],[-128.25499719999999,58.94746149999997],[-128.24101519999999,58.94759590000001],[-128.24088590000002,58.94398330000001],[-128.23389559999998,58.94404989999998],[-128.23365530000001,58.93730119999998],[-128.23364470000001,58.93700159999997],[-128.23338130000002,58.9296008],[-128.24036869999998,58.92953410000001],[-128.24049790000001,58.9331467],[-128.25447399999999,58.93301209999998],[-128.25460479999998,58.93662460000002],[-128.28954820000001,58.9362817],[-128.28967080000001,58.93957569999998],[-128.289681,58.9398498],[-128.2900861,58.95073159999998],[-128.25512800000001,58.9510742]]],"type":"Polygon"}
+}

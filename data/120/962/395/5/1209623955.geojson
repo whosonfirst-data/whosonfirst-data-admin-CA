@@ -1,0 +1,62 @@
+{
+  "id": 1209623955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.15494,49.7121,-123.15494,49.7121",
+    "geom:latitude":49.7121,
+    "geom:longitude":-123.15494,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5931.0",
+    "gn:asciiname":"Dentville",
+    "gn:country_code":"CA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5937932,
+    "gn:latitude":49.7121,
+    "gn:longitude":-123.15494,
+    "gn:modification_date":"2013-09-24",
+    "gn:name":"Dentville",
+    "gn:population":0,
+    "gn:timezone":"America/Vancouver",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5937932
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6c1f23eda64586bde5b5d48e5617a2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633041,
+            "locality_id":1209623955
+        }
+    ],
+    "wof:id":1209623955,
+    "wof:lastmodified":1536281420,
+    "wof:name":"Dentville",
+    "wof:parent_id":85633041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.15494,
+    49.7121,
+    -123.15494,
+    49.7121
+],
+  "geometry": {"coordinates":[-123.15494,49.7121],"type":"Point"}
+}

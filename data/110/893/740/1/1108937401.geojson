@@ -1,0 +1,82 @@
+{
+  "id": 1108937401,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"110",
+    "can-wpgppd:name":"Sargent Park",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00026,
+    "geom:area_square_m":2070042.775597,
+    "geom:bbox":"-97.193108,49.893408,-97.173269,49.910097",
+    "geom:latitude":49.900694,
+    "geom:longitude":-97.182949,
+    "iso:country":"CA",
+    "lbl:latitude":49.900798,
+    "lbl:longitude":-97.18336,
+    "mps:latitude":49.900802,
+    "mps:longitude":-97.183138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Sargent Park"
+    ],
+    "reversegeo:latitude":49.900802,
+    "reversegeo:longitude":-97.183138,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968923,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359651,
+    "wof:geomhash":"be73175fcc75f6e904aa648eb4e170a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968923,
+            "neighbourhood_id":1108937401,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937401,
+    "wof:lastmodified":1531523903,
+    "wof:name":"Sargent Park",
+    "wof:parent_id":1108968923,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126092889
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.193108,
+    49.893408,
+    -97.173269,
+    49.910097
+],
+  "geometry": {"coordinates":[[[[-97.173269,49.905893],[-97.18024,49.908126],[-97.18372100000001,49.90924],[-97.186398,49.910097],[-97.19017700000001,49.90517],[-97.190676,49.904505],[-97.190983,49.904097],[-97.191374,49.903539],[-97.191745,49.902995],[-97.192064,49.902413],[-97.19231499999999,49.901806],[-97.19247300000001,49.901263],[-97.19255800000001,49.900782],[-97.192594,49.900374],[-97.192834,49.897579],[-97.193108,49.893995],[-97.17421899999999,49.893408],[-97.17379699999999,49.898951],[-97.173269,49.905893]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 101735061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000333,
+    "geom:area_square_m":2679037.614701,
+    "geom:bbox":"-100.5341951,49.4733011,-100.5116043,49.4881484",
+    "geom:latitude":49.480724,
+    "geom:longitude":-100.522895,
+    "iso:country":"CA",
+    "lbl:latitude":49.480718,
+    "lbl:longitude":-100.522895,
+    "mps:latitude":49.480718,
+    "mps:longitude":-100.522895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hartney"
+    ],
+    "name:dut_x_preferred":[
+        "Hartney"
+    ],
+    "name:eng_x_preferred":[
+        "Hartney"
+    ],
+    "name:fra_x_preferred":[
+        "Hartney"
+    ],
+    "name:fre_x_preferred":[
+        "Hartney"
+    ],
+    "name:oci_x_preferred":[
+        "Hartney"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u043d\u0438"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Manitoba",
+    "qs:a1_lc":"MB",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hartney",
+    "qs:loc_lc":"a183c30abee311d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":49.4808,
+    "wd:longitude":-100.522,
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682085,
+        1158868991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03c03c94-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5971631,
+        "gp:id":2922,
+        "qs:id":856931,
+        "qs_pg:id":856931,
+        "wd:id":"Q75838",
+        "wk:page":"Hartney"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a8178324f444e4da3af7210c006ffd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868991,
+            "locality_id":101735061,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":101735061,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531525422,
+    "wof:name":"Hartney",
+    "wof:parent_id":1158868991,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.5341951,
+    49.4733011,
+    -100.5116043,
+    49.4881484
+],
+  "geometry": {"coordinates":[[[-100.5117115,49.4733014],[-100.5145239,49.4733089],[-100.5151639,49.4733106],[-100.52038949999999,49.4733242],[-100.5226783,49.4733301],[-100.52278029999999,49.4733305],[-100.53243070000001,49.4733731],[-100.5332737,49.4733768],[-100.53373759999999,49.4733789],[-100.534154,49.4733807],[-100.53415529999999,49.473652],[-100.53417520000001,49.4775913],[-100.5341918,49.4808953],[-100.53419510000001,49.4881484],[-100.5337787,49.4881468],[-100.53335800000001,49.4881452],[-100.5329254,49.4881435],[-100.5326316,49.4881424],[-100.53232269999999,49.4881412],[-100.52878920000001,49.4881276],[-100.5285787,49.4881269],[-100.5243239,49.4881103],[-100.52407150000001,49.4881093],[-100.5240379,49.4881092],[-100.5226498,49.4881038],[-100.5151956,49.488085],[-100.5149299,49.4880844],[-100.5146642,49.4880836],[-100.51431340000001,49.4880827],[-100.51161430000001,49.4880758],[-100.5116137,49.4872537],[-100.5116127,49.4861054],[-100.5116112,49.4840506],[-100.51161020000001,49.4828346],[-100.5116086,49.4808273],[-100.511606,49.476436],[-100.5116045,49.4735724],[-100.5116043,49.4733011],[-100.5117115,49.4733014]]],"type":"Polygon"}
+}

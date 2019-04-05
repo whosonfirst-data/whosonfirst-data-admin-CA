@@ -1,0 +1,82 @@
+{
+  "id": 1125897205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.349822,48.005773,-69.349822,48.005773",
+    "geom:latitude":48.005773,
+    "geom:longitude":-69.349822,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":48.005773,
+    "lbl:longitude":-69.349822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"L'isle-verte-ouest",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":347675,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23396079,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23396079,
+        "qs_pg:id":347675
+    },
+    "wof:country":"CA",
+    "wof:created":1497295630,
+    "wof:geomhash":"bcb91933635c9dca17fd57e2b510e7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456305,
+            "locality_id":1125897205,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125897205,
+    "wof:lastmodified":1533335705,
+    "wof:name":"L'isle-verte-ouest",
+    "wof:parent_id":890456305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.349822,
+    48.005773,
+    -69.349822,
+    48.005773
+],
+  "geometry": {"coordinates":[-69.349822,48.005773],"type":"Point"}
+}

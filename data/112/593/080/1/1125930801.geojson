@@ -1,0 +1,82 @@
+{
+  "id": 1125930801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-128.1472775,52.180668,-128.1472775,52.180668",
+    "geom:latitude":52.180668,
+    "geom:longitude":-128.147278,
+    "gn:gn_country":"CA",
+    "iso:country":"CA",
+    "lbl:latitude":52.180668,
+    "lbl:longitude":-128.147278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:name":"Waglisla",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":80,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985035,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29373045,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373045,
+        "qs_pg:id":985035
+    },
+    "wof:country":"CA",
+    "wof:created":1497296798,
+    "wof:geomhash":"0b157a25ecb084bb64c8e00003fb613e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457277,
+            "locality_id":1125930801,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125930801,
+    "wof:lastmodified":1533335933,
+    "wof:name":"Waglisla",
+    "wof:parent_id":890457277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.1472775,
+    52.180668,
+    -128.1472775,
+    52.180668
+],
+  "geometry": {"coordinates":[-128.1472775,52.180668],"type":"Point"}
+}

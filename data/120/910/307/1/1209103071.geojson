@@ -1,0 +1,62 @@
+{
+  "id": 1209103071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.16663,44.58645,-64.16663,44.58645",
+    "geom:latitude":44.58645,
+    "geom:longitude":-64.16663,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"East River",
+    "gn:country_code":"CA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5946042,
+    "gn:latitude":44.58645,
+    "gn:longitude":-64.16663,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"East River",
+    "gn:population":0,
+    "gn:timezone":"America/Halifax",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5946042,
+        "wk:page":"East_River%2C_Nova_Scotia"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"60b06b1053729665f35263a4b0c929b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633041,
+            "locality_id":1209103071
+        }
+    ],
+    "wof:id":1209103071,
+    "wof:lastmodified":1537488972,
+    "wof:name":"East River",
+    "wof:parent_id":85633041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.16663,
+    44.58645,
+    -64.16663,
+    44.58645
+],
+  "geometry": {"coordinates":[-64.16663,44.58645],"type":"Point"}
+}

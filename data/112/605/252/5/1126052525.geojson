@@ -1,0 +1,82 @@
+{
+  "id": 1126052525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4138575,48.719338,-67.4138575,48.719338",
+    "geom:latitude":48.719338,
+    "geom:longitude":-67.413858,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":48.719338,
+    "lbl:longitude":-67.413858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Ren\u00e9-de-Matane",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060967,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":3601,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":3601,
+        "qs_pg:id":1060967
+    },
+    "wof:country":"CA",
+    "wof:created":1497302868,
+    "wof:geomhash":"9c6b20db5e05ec4c60c7e366b93fa502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456821,
+            "locality_id":1126052525,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1126052525,
+    "wof:lastmodified":1533335717,
+    "wof:name":"St.-Ren\u00e9-de-Matane",
+    "wof:parent_id":890456821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.4138575,
+    48.719338,
+    -67.4138575,
+    48.719338
+],
+  "geometry": {"coordinates":[-67.41385750000001,48.719338],"type":"Point"}
+}

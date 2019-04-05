@@ -1,0 +1,67 @@
+{
+  "id": 1243268047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.41939,56.21679,-117.41939,56.21679",
+    "geom:latitude":56.21679,
+    "geom:longitude":-117.41939,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Roma",
+    "gn:country_code":"CA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6127261,
+    "gn:latitude":56.21679,
+    "gn:longitude":-117.41939,
+    "gn:modification_date":"2006-01-18",
+    "gn:name":"Roma",
+    "gn:population":0,
+    "gn:timezone":"America/Edmonton",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682091,
+        1158863217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6127261
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"044a3cf08c7f21167bb76cc46f71d8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863217,
+            "locality_id":1243268047,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1243268047,
+    "wof:lastmodified":1537060024,
+    "wof:name":"Roma",
+    "wof:parent_id":1158863217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.41939,
+    56.21679,
+    -117.41939,
+    56.21679
+],
+  "geometry": {"coordinates":[-117.41939000000001,56.21679],"type":"Point"}
+}

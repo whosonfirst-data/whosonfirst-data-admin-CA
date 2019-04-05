@@ -1,0 +1,89 @@
+{
+  "id": 1125996087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8505635,45.644588,-79.8505635,45.644588",
+    "geom:latitude":45.644588,
+    "geom:longitude":-79.850564,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.644588,
+    "lbl:longitude":-79.850564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dunchurch"
+    ],
+    "name:eng_x_preferred":[
+        "Dunchurch"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dunchurch",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":78,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":78,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000773,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23397549,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890457191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23397549,
+        "qs_pg:id":1000773,
+        "wd:id":"Q5314697"
+    },
+    "wof:country":"CA",
+    "wof:created":1497299344,
+    "wof:geomhash":"79c4737d22f12aa733f4b522064961ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457191,
+            "locality_id":1125996087,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125996087,
+    "wof:lastmodified":1533272412,
+    "wof:name":"Dunchurch",
+    "wof:parent_id":890457191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8505635,
+    45.644588,
+    -79.8505635,
+    45.644588
+],
+  "geometry": {"coordinates":[-79.85056350000001,45.644588],"type":"Point"}
+}

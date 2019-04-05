@@ -1,0 +1,107 @@
+{
+  "id": 85875305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10070313.780251,
+    "geom:bbox":"-119.496185,49.869853,-119.496185,49.869853",
+    "geom:latitude":49.869853,
+    "geom:longitude":-119.496185,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.869853,
+    "lbl:longitude":-119.496185,
+    "mps:latitude":49.866874,
+    "mps:longitude":-119.527933,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kelowna South"
+    ],
+    "name:unk_x_variant":[
+        "Kelowna South"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":2044,
+    "qs:local_sum":3706,
+    "qs:localhoods":3,
+    "qs:name":"Kelowna South",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Central Okanagan",
+    "qs:name_local":"Central City",
+    "qs:photo_max":129,
+    "qs:photo_sum":555,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375224,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55856438,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741131,
+        890458697,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856443,
+        "qs:id":237987,
+        "qs_pg:id":237987
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"ea55699cb7c3f0e8ca7f9356d826d005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458697,
+            "locality_id":101741131,
+            "neighbourhood_id":85875305,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85875305,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872071,
+    "wof:name":"Kelowna South",
+    "wof:parent_id":101741131,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.496185,
+    49.869853,
+    -119.496185,
+    49.869853
+],
+  "geometry": {"coordinates":[-119.496185,49.869853],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1126088517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.854028,45.495277,-73.854028,45.495277",
+    "geom:latitude":45.495277,
+    "geom:longitude":-73.854028,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.495277,
+    "lbl:longitude":-73.854028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Centre Ville",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":81,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":81,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1249373,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":56022934,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56022934,
+        "qs_pg:id":1249373
+    },
+    "wof:country":"CA",
+    "wof:created":1497313204,
+    "wof:geomhash":"970cb43fb6666d27320ba419a144b448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":-1,
+            "neighbourhood_id":1126088517,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1126088517,
+    "wof:lastmodified":1509411525,
+    "wof:name":"Centre Ville",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.854028,
+    45.495277,
+    -73.854028,
+    45.495277
+],
+  "geometry": {"coordinates":[-73.854028,45.495277],"type":"Point"}
+}

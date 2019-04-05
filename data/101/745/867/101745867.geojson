@@ -1,0 +1,79 @@
+{
+  "id": 101745867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:bbox":"-94.2110307,56.5001077,-94.1912063,56.5074594",
+    "geom:latitude":56.503946,
+    "geom:longitude":-94.201845,
+    "iso:country":"CA",
+    "lbl:latitude":56.504021,
+    "lbl:longitude":-94.201845,
+    "mps:latitude":56.504021,
+    "mps:longitude":-94.201845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fox Lake East 2"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Manitoba",
+    "qs:a1_lc":"MB",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"FOX LAKE EAST 2",
+    "qs:loc_alt":"FOX LAKE NO 2",
+    "qs:loc_lc":"ed36e38abbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682085,
+        1158869049
+    ],
+    "wof:breaches":[
+        101734701
+    ],
+    "wof:concordances":{
+        "gp:id":56624107
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"42f3c032358c38f4816cc4ffb7aa596c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869049,
+            "locality_id":101745867,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":101745867,
+    "wof:lastmodified":1533070078,
+    "wof:name":"Fox Lake East 2",
+    "wof:parent_id":1158869049,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.21103069999998,
+    56.5001077,
+    -94.19120629999998,
+    56.50745940000002
+],
+  "geometry": {"coordinates":[[[-94.19120629999998,56.50460020000003],[-94.19448610000001,56.504532],[-94.2080383,56.5001077],[-94.20857230000001,56.50060830000001],[-94.21103069999998,56.50291320000002],[-94.20982270000002,56.5033077],[-94.20772789999999,56.50399169999997],[-94.19922680000002,56.5067671],[-94.19833160000002,56.50703520000002],[-94.19740330000002,56.50726630000003],[-94.19644700000001,56.50745940000002],[-94.19642570000002,56.5074477],[-94.1957261,56.507066],[-94.19120629999998,56.50460020000003]]],"type":"Polygon"}
+}

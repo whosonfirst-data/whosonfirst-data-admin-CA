@@ -1,0 +1,89 @@
+{
+  "id": 85864787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":984122.699483,
+    "geom:bbox":"-106.609692,52.115469,-106.609692,52.115469",
+    "geom:latitude":52.115469,
+    "geom:longitude":-106.609692,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":52.115469,
+    "lbl:longitude":-106.609692,
+    "mps:latitude":52.117468,
+    "mps:longitude":-106.608567,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Greystone Heights"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":52.1194,
+    "wd:longitude":-106.614,
+    "wd:wordcount":714,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115069,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403397,
+        "qs:id":367374,
+        "qs_pg:id":367374,
+        "wd:id":"Q5608497"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"8a32f35df0ca0168017a7b72fd7070c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115069,
+            "neighbourhood_id":85864787,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85864787,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531870969,
+    "wof:name":"Greystone Heights",
+    "wof:parent_id":1126115069,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.609692,
+    52.115469,
+    -106.609692,
+    52.115469
+],
+  "geometry": {"coordinates":[-106.609692,52.115469],"type":"Point"}
+}

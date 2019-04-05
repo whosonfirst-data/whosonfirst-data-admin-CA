@@ -1,0 +1,89 @@
+{
+  "id": 1125771215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.511661,45.094489,-79.511661,45.094489",
+    "geom:latitude":45.094489,
+    "geom:longitude":-79.511661,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.094489,
+    "lbl:longitude":-79.511661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Beaumaris"
+    ],
+    "name:eng_x_preferred":[
+        "Beaumaris"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Beaumaris",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":837,
+    "qs_pg:photos_1k":170,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":837,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899086,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23398007,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890458545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23398007,
+        "qs_pg:id":899086,
+        "wd:id":"Q4877526"
+    },
+    "wof:country":"CA",
+    "wof:created":1497290073,
+    "wof:geomhash":"8b63d673f5037664e045b5b9bac6edb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458545,
+            "locality_id":1125771215,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125771215,
+    "wof:lastmodified":1533277466,
+    "wof:name":"Beaumaris",
+    "wof:parent_id":890458545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.511661,
+    45.094489,
+    -79.511661,
+    45.094489
+],
+  "geometry": {"coordinates":[-79.511661,45.094489],"type":"Point"}
+}

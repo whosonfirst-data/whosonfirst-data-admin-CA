@@ -1,0 +1,77 @@
+{
+  "id": 101743125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"-128.4201556,50.7680543,-128.4157571,50.7698631",
+    "geom:latitude":50.769027,
+    "geom:longitude":-128.417398,
+    "iso:country":"CA",
+    "lbl:latitude":50.768961,
+    "lbl:longitude":-128.417395,
+    "mps:latitude":50.768961,
+    "mps:longitude":-128.417395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ouchton 3"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OUCHTON 3",
+    "qs:loc_alt":"OUCHTON NO 3",
+    "qs:loc_lc":"193195f2ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56121132
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d420e73955a7ddaa11764fc45a60ff2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456837,
+            "locality_id":101743125,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743125,
+    "wof:lastmodified":1533335873,
+    "wof:name":"Ouchton 3",
+    "wof:parent_id":890456837,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.4201556,
+    50.76805430000002,
+    -128.4157571,
+    50.7698631
+],
+  "geometry": {"coordinates":[[[-128.41865619999999,50.76805430000002],[-128.41864459999999,50.76810260000002],[-128.41859120000001,50.76821990000002],[-128.41855629999998,50.7683657],[-128.4185574,50.76845989999998],[-128.41857690000001,50.7685588],[-128.41862280000001,50.76866919999998],[-128.41868549999998,50.768763],[-128.41876079999997,50.76888789999998],[-128.41892639999998,50.7691254],[-128.41906169999999,50.7693049],[-128.4191806,50.7693949],[-128.41931779999999,50.769471],[-128.4194238,50.7695324],[-128.41962560000002,50.76963469999998],[-128.41987069999999,50.7697435],[-128.42006220000002,50.7698221],[-128.42015559999999,50.7698595],[-128.42004750000001,50.76985960000002],[-128.415763,50.7698631],[-128.41575710000001,50.76806820000002],[-128.4185698,50.7680547],[-128.41865619999999,50.76805430000002]]],"type":"Polygon"}
+}

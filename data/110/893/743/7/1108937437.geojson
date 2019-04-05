@@ -1,0 +1,83 @@
+{
+  "id": 1108937437,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"437",
+    "can-wpgppd:name":"Omand's Creek Industrial",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000306,
+    "geom:area_square_m":2432781.159024,
+    "geom:bbox":"-97.229859,49.916444,-97.206755,49.933086",
+    "geom:latitude":49.923492,
+    "geom:longitude":-97.218951,
+    "iso:country":"CA",
+    "lbl:latitude":49.924804,
+    "lbl:longitude":-97.217121,
+    "mps:latitude":49.923315,
+    "mps:longitude":-97.218951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Omand's Creek Industrial"
+    ],
+    "name:eng_x_variant":[
+        "Ormand's Creek Industrial"
+    ],
+    "reversegeo:latitude":49.923315,
+    "reversegeo:longitude":-97.218951,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968515,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359674,
+    "wof:geomhash":"f4a03f0ea59d092aec3a5f5b32c8ae19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968515,
+            "neighbourhood_id":1108937437,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937437,
+    "wof:lastmodified":1531523904,
+    "wof:name":"Omand's Creek Industrial",
+    "wof:parent_id":1108968515,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.229859,
+    49.916444,
+    -97.206755,
+    49.933086
+],
+  "geometry": {"coordinates":[[[[-97.206755,49.926936],[-97.206761,49.916455],[-97.21799,49.916448],[-97.225301,49.916444],[-97.22548999999999,49.916584],[-97.227149,49.917817],[-97.22943600000001,49.919516],[-97.229857,49.919828],[-97.229859,49.923833],[-97.229856,49.931081],[-97.229855,49.933086],[-97.206755,49.926936]]]],"type":"MultiPolygon"}
+}

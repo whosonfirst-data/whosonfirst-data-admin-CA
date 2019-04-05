@@ -1,0 +1,77 @@
+{
+  "id": 101743395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000396,
+    "geom:bbox":"-130.8188934,58.1804198,-130.7914778,58.1948987",
+    "geom:latitude":58.18766,
+    "geom:longitude":-130.805188,
+    "iso:country":"CA",
+    "lbl:latitude":58.187659,
+    "lbl:longitude":-130.805188,
+    "mps:latitude":58.187659,
+    "mps:longitude":-130.805188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Classy Creek 8"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CLASSY CREEK 8",
+    "qs:loc_alt":"CLASSY CREEK NO  8",
+    "qs:loc_lc":"5870a560ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56622741
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"683f59ef834e254cae1fa9bce56ddf8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101743395,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743395,
+    "wof:lastmodified":1533335878,
+    "wof:name":"Classy Creek 8",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -130.81889339999998,
+    58.18041979999998,
+    -130.7914778,
+    58.19489870000001
+],
+  "geometry": {"coordinates":[[[-130.81889339999998,58.1804459],[-130.81884960000002,58.19489870000001],[-130.7914778,58.1948726],[-130.79153280000003,58.18041979999998],[-130.81889339999998,58.1804459]]],"type":"Polygon"}
+}

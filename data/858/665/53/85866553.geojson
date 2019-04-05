@@ -1,0 +1,89 @@
+{
+  "id": 85866553,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"11",
+    "can-wpgppd:name":"China Town",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":65800.40337,
+    "geom:bbox":"-97.140458,49.900076,-97.135847,49.903431",
+    "geom:latitude":49.901751,
+    "geom:longitude":-97.138171,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.901765,
+    "lbl:longitude":-97.138086,
+    "mps:latitude":49.903861,
+    "mps:longitude":-97.138531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "China Town"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":8212,
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968511,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332825,
+        "qs:id":368630,
+        "qs_pg:id":368630,
+        "wd:id":"Q5100157"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2a8eab7de223c3993dea2f8aad195dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968511,
+            "neighbourhood_id":85866553,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866553,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523916,
+    "wof:name":"China Town",
+    "wof:parent_id":1108968511,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.140458,
+    49.900076,
+    -97.135847,
+    49.903431
+],
+  "geometry": {"coordinates":[[[[-97.13850600000001,49.903431],[-97.14018799999999,49.901236],[-97.140458,49.900883],[-97.137933,49.900076],[-97.137412,49.900684],[-97.13668199999999,49.901538],[-97.135847,49.902578],[-97.13850600000001,49.903431]]]],"type":"MultiPolygon"}
+}

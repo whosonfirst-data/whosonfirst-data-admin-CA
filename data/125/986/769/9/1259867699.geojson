@@ -1,0 +1,67 @@
+{
+  "id": 1259867699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.56166,50.43115,-104.56166,50.43115",
+    "geom:latitude":50.43115,
+    "geom:longitude":-104.56166,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"University Park",
+    "gn:country_code":"CA",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6172020,
+    "gn:latitude":50.43115,
+    "gn:longitude":-104.56166,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"University Park",
+    "gn:population":0,
+    "gn:timezone":"America/Regina",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6172020
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"345792d4462343d6dae8a212d156a19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868963,
+            "locality_id":1259867699,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":1259867699,
+    "wof:lastmodified":1536801964,
+    "wof:name":"University Park",
+    "wof:parent_id":1158868963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.56166,
+    50.43115,
+    -104.56166,
+    50.43115
+],
+  "geometry": {"coordinates":[-104.56166,50.43115],"type":"Point"}
+}

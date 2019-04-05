@@ -1,0 +1,75 @@
+{
+  "id": 1108906633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":64905.329425,
+    "geom:bbox":"-123.129080441,49.2829114716,-123.122223648,49.287386747",
+    "geom:latitude":49.285148,
+    "geom:longitude":-123.125657,
+    "iso:country":"CA",
+    "lbl:latitude":49.285148,
+    "lbl:longitude":-123.125658,
+    "mps:latitude":49.285148,
+    "mps:longitude":-123.125658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_variant":[
+        "Robson Street",
+        "Robsonstreet",
+        "Robson St.",
+        "Robson St"
+    ],
+    "reversegeo:latitude":49.285148,
+    "reversegeo:longitude":-123.125658,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741075,
+        890457467,
+        85865087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"b3eeae16950bf1acdda2f987a68265fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741075,
+            "microhood_id":1108906633,
+            "neighbourhood_id":85865087,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1108906633,
+    "wof:lastmodified":1531521052,
+    "wof:name":"Robson",
+    "wof:parent_id":85865087,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85866531
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.12908044097625,
+    49.28291147162619,
+    -123.12222364754139,
+    49.28738674701125
+],
+  "geometry": {"coordinates":[[[[-123.12329325268855,49.28291147162619],[-123.12471195571027,49.28383370474711],[-123.12623344703667,49.2848295465459],[-123.12801281824892,49.28599021515306],[-123.12908044097625,49.28666978235164],[-123.12832743170964,49.28715758471454],[-123.12798848574943,49.28738674701125],[-123.12697356230903,49.28671183446956],[-123.12596009435769,49.28604236049264],[-123.12481768646349,49.28529045300245],[-123.12396410404136,49.28473029970134],[-123.1229712664809,49.2840927601234],[-123.12248129469785,49.28377651051957],[-123.12222364754139,49.28361909566959],[-123.12329325268855,49.28291147162619]]]],"type":"MultiPolygon"}
+}

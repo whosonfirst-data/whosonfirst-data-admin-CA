@@ -1,0 +1,67 @@
+{
+  "id": 102554493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8489,47.695,-79.8489,47.695",
+    "geom:latitude":47.695,
+    "geom:longitude":-79.8489,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"800",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375086,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101735733,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511645,
+        "iata:code":"YXR",
+        "icao:code":"CYXR",
+        "oa:id":"1965",
+        "wd:id":"Q3915625"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"1280bb1d96e73292c394e44cf433bb6c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554493,
+            "country_id":85633041,
+            "locality_id":101735733,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554493,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Earlton Airport",
+    "wof:parent_id":101735733,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.8489,
+    47.695,
+    -79.8489,
+    47.695
+],
+  "geometry": {"coordinates":[-79.8489,47.695],"type":"Point"}
+}

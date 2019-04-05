@@ -1,0 +1,80 @@
+{
+  "id": 1126094129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.64042,49.16473,-122.64042,49.16473",
+    "geom:latitude":49.16473,
+    "geom:longitude":-122.64042,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":25683,
+    "gn:population":25683,
+    "iso:country":"CA",
+    "lbl:latitude":49.16473,
+    "lbl:longitude":-122.64042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7669012,
+    "qs_pg:gn_pop":25683,
+    "qs_pg:name":"Walnut Grove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1041848,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101740805,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669012,
+        "qs_pg:id":1041848
+    },
+    "wof:country":"CA",
+    "wof:created":1497314790,
+    "wof:geomhash":"b470673dfa4e54cd33f3925f8303e67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101740805,
+            "neighbourhood_id":1126094129,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1126094129,
+    "wof:lastmodified":1533335937,
+    "wof:name":"Walnut Grove",
+    "wof:parent_id":101740805,
+    "wof:placetype":"neighbourhood",
+    "wof:population":25683,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.64042,
+    49.16473,
+    -122.64042,
+    49.16473
+],
+  "geometry": {"coordinates":[-122.64042000000001,49.16473],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 85897463,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"161",
+    "can-wpgppd:name":"St. Vital Centre",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":428828.965695,
+    "geom:bbox":"-97.115046,49.823846,-97.104556,49.832804",
+    "geom:latitude":49.828574,
+    "geom:longitude":-97.110602,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.82856,
+    "lbl:longitude":-97.10995,
+    "mps:latitude":49.829588,
+    "mps:longitude":-97.105197,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "St. Vital Centre"
+    ],
+    "name:eng_x_variant":[
+        "Saint Vital Center",
+        "St Vital Centre"
+    ],
+    "name:unk_x_variant":[
+        "Saint Vital Center"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6183235,
+    "qs:gn_nam_loc":"Winnipeg, Manitoba, Manitoba, CA",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":4766,
+    "qs:local_sum":55180,
+    "qs:localhoods":116,
+    "qs:name":"Saint Vital Center",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Manitoba",
+    "qs:name_adm2":"Manitoba",
+    "qs:name_local":"Winnipeg",
+    "qs:photo_max":41,
+    "qs:photo_sum":124,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344917,
+    "qs:woe_adm2":29375231,
+    "qs:woe_lau":0,
+    "qs:woe_local":2972,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.828816,
+    "reversegeo:longitude":-97.110681,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968473,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56022788,
+        "qs:id":385090,
+        "qs_pg:id":385090
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"05d0232e40c68b1b212f01ca91bce675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968473,
+            "neighbourhood_id":85897463,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85897463,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523922,
+    "wof:name":"Saint Vital Center",
+    "wof:parent_id":1108968473,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.115046,
+    49.823846,
+    -97.104556,
+    49.832804
+],
+  "geometry": {"coordinates":[[[[-97.11260299999999,49.824774],[-97.11268800000001,49.824744],[-97.11287400000001,49.82468],[-97.113061,49.824615],[-97.113248,49.824551],[-97.11302499999999,49.82428],[-97.112965,49.824208],[-97.113159,49.824141],[-97.113814,49.823914],[-97.114012,49.823846],[-97.114436,49.825922],[-97.11504600000001,49.830709],[-97.108892,49.832804],[-97.105071,49.828175],[-97.104556,49.827552],[-97.10477899999999,49.827475],[-97.104783,49.827473],[-97.10496999999999,49.827409],[-97.10515700000001,49.827344],[-97.105343,49.82728],[-97.10553,49.827215],[-97.105717,49.827151],[-97.105904,49.827086],[-97.10609100000001,49.827022],[-97.106315,49.826944],[-97.106652,49.826828],[-97.106838,49.826764],[-97.10702499999999,49.826699],[-97.10727199999999,49.826614],[-97.107522,49.826528],[-97.107833,49.82642],[-97.10802,49.826356],[-97.10821,49.82629],[-97.108287,49.826264],[-97.108457,49.826205],[-97.108692,49.826124],[-97.108879,49.826059],[-97.109066,49.825995],[-97.109264,49.825926],[-97.109514,49.82584],[-97.10976100000001,49.825755],[-97.109978,49.82568],[-97.10999099999999,49.825675],[-97.110198,49.825604],[-97.11038499999999,49.825539],[-97.11038600000001,49.825539],[-97.110572,49.825475],[-97.110753,49.825412],[-97.110759,49.82541],[-97.110946,49.825346],[-97.11131899999999,49.825217],[-97.11150600000001,49.825152],[-97.111693,49.825088],[-97.111921,49.825009],[-97.112127,49.824938],[-97.112314,49.824873],[-97.11250099999999,49.824809],[-97.11260299999999,49.824774]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1126114055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1163730.195033,
+    "geom:bbox":"-106.63532,52.089702,-106.622678,52.102719",
+    "geom:latitude":52.096157,
+    "geom:longitude":-106.628656,
+    "iso:country":"CA",
+    "lbl:latitude":52.096207,
+    "lbl:longitude":-106.628319,
+    "mps:latitude":52.096207,
+    "mps:longitude":-106.628319,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Nutana Park"
+    ],
+    "reversegeo:latitude":52.096207,
+    "reversegeo:longitude":-106.628319,
+    "src:geom":"can-saskodp",
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115069,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7070416"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"1dcfb2f00926788d289f3128362e17f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115069,
+            "neighbourhood_id":1126114055,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":1126114055,
+    "wof:lastmodified":1531524182,
+    "wof:name":"Nutana Park",
+    "wof:parent_id":1126115069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.63532,
+    52.089702,
+    -106.622678,
+    52.102719
+],
+  "geometry": {"coordinates":[[[[-106.628187,52.102717],[-106.62268400000001,52.102719],[-106.622691,52.10025],[-106.622691,52.100248],[-106.622694,52.094161],[-106.62268400000001,52.094161],[-106.62267900000001,52.090667],[-106.62267799999999,52.089702],[-106.63458199999999,52.08976],[-106.63458,52.090255],[-106.63463900000001,52.090255],[-106.634726,52.090324],[-106.63472899999999,52.092936],[-106.63391900000001,52.092937],[-106.633922,52.095654],[-106.63400300000001,52.095676],[-106.63531999999999,52.096498],[-106.63530799999999,52.101892],[-106.631609,52.101893],[-106.628187,52.102717]]]],"type":"MultiPolygon"}
+}

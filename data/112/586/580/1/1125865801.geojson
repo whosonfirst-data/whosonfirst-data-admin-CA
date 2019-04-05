@@ -1,0 +1,82 @@
+{
+  "id": 1125865801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.66672,47.85913,-64.66672,47.85913",
+    "geom:latitude":47.85913,
+    "geom:longitude":-64.66672,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":47.85913,
+    "lbl:longitude":-64.66672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ste.-C\u00e9cile",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"New Brunswick",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1109816,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23393104,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"New Brunswick",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682065,
+        890457189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23393104,
+        "qs_pg:id":1109816
+    },
+    "wof:country":"CA",
+    "wof:created":1497294033,
+    "wof:geomhash":"59111243ae6ab2acd067827e66871fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457189,
+            "locality_id":1125865801,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":1125865801,
+    "wof:lastmodified":1531772603,
+    "wof:name":"Ste.-C\u00e9cile",
+    "wof:parent_id":890457189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.66672,
+    47.85913,
+    -64.66672,
+    47.85913
+],
+  "geometry": {"coordinates":[-64.66672,47.85913],"type":"Point"}
+}

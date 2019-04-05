@@ -1,0 +1,77 @@
+{
+  "id": 101746207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000422,
+    "geom:bbox":"-107.4674129,52.7181692,-107.4312932,52.7400599",
+    "geom:latitude":52.729249,
+    "geom:longitude":-107.446826,
+    "iso:country":"CA",
+    "lbl:latitude":52.731855,
+    "lbl:longitude":-107.437404,
+    "mps:latitude":52.731855,
+    "mps:longitude":-107.437404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saulteaux I.R. 159X"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SAULTEAUX I.R. 159X",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE SAULTEAUX FIRST NATION NO 159X",
+    "qs:loc_lc":"6c9ebc1e849c20c388e34b5739a79227",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2138
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"40553c62ffecc3834c6548628ee502e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868943,
+            "locality_id":101746207,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746207,
+    "wof:lastmodified":1531523941,
+    "wof:name":"Saulteaux I.R. 159X",
+    "wof:parent_id":1158868943,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.4674129,
+    52.71816919999998,
+    -107.43129320000003,
+    52.7400599
+],
+  "geometry": {"coordinates":[[[[-107.44322080000001,52.73281559999998],[-107.44323350000002,52.7400576],[-107.4313318,52.7400599],[-107.43131219999998,52.73281759999998],[-107.43129320000003,52.7258271],[-107.44320850000003,52.7258144],[-107.4551275,52.72580060000001],[-107.45514839999998,52.7328124],[-107.44322080000001,52.73281559999998]]],[[[-107.44320779999998,52.7252666],[-107.4432091,52.71817520000002],[-107.45511970000001,52.71816919999998],[-107.45512630000002,52.72525280000002],[-107.44782249999997,52.72526140000002],[-107.44320779999998,52.7252666]]],[[[-107.45542540000002,52.72580019999998],[-107.4674129,52.725808],[-107.46740820000002,52.73283049999998],[-107.45544619999998,52.73281229999998],[-107.45542540000002,52.72580019999998]]]],"type":"MultiPolygon"}
+}

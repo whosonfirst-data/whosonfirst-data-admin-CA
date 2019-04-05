@@ -1,0 +1,118 @@
+{
+  "id": 85894655,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Burnaby Lake",
+    "can-bbygov:OBJECTID_1":"11",
+    "can-bbygov:PSA":"9",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000525,
+    "geom:area_square_m":4235975.142794,
+    "geom:bbox":"-122.964707388,49.2364737119,-122.905760148,49.257801762",
+    "geom:latitude":49.244086,
+    "geom:longitude":-122.938604,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.241556,
+    "lbl:longitude":-122.930785,
+    "mps:latitude":49.243301,
+    "mps:longitude":-122.942319,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"dupes park",
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Burnaby Lake"
+    ],
+    "name:unk_x_variant":[
+        "Burnaby Lake"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Burnaby Lake",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":402,
+    "qs:photo_sum":1078,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.241556,
+    "reversegeo:longitude":-122.930785,
+    "src:geom":"can-bbygov",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108915097,
+        85633041,
+        101741055,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998726,
+        "qs:id":899528,
+        "qs_pg:id":899528
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cf402d834c767a308243c14f938d0816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915097,
+            "neighbourhood_id":85894655,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894655,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335941,
+    "wof:name":"Burnaby Lake",
+    "wof:parent_id":1108915097,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.9647073881418,
+    49.23647371194522,
+    -122.90576014750697,
+    49.257801762049
+],
+  "geometry": {"coordinates":[[[[-122.91899860087862,49.24971006999707],[-122.91891225566803,49.24973249749328],[-122.91687801850524,49.25034722482549],[-122.91536954477084,49.25058450314518],[-122.91410620927448,49.25059706363157],[-122.91271681807022,49.25050157242413],[-122.91271738295768,49.25042511342797],[-122.91105594944828,49.24998308016447],[-122.90962053791552,49.24923536225553],[-122.90865540796294,49.24845651589557],[-122.90690144169233,49.24681348614952],[-122.90576014750697,49.24614691357542],[-122.90729971489327,49.24599524023071],[-122.91177288650002,49.24453251974386],[-122.92220949839238,49.23832430787321],[-122.92776012928584,49.23670876793987],[-122.93327677233721,49.23647371194522],[-122.94288526949772,49.2369915911782],[-122.94407855387371,49.2371136108158],[-122.94797191572393,49.23780356620896],[-122.9560301463185,49.24030759196783],[-122.9647073881418,49.24228052624505],[-122.96462245454963,49.257801762049],[-122.96067730158158,49.25462067775695],[-122.95507946544328,49.24996360840255],[-122.95156817928731,49.24696677962574],[-122.95082236360992,49.24652569823132],[-122.94988549214304,49.24608452926552],[-122.94898923760988,49.24582777287697],[-122.9470741826825,49.24550758063928],[-122.94222503676511,49.24507798283341],[-122.94047255129691,49.24494666311946],[-122.93884271127467,49.24494581180529],[-122.937090288088,49.24511578025591],[-122.93545971359345,49.24534425927652],[-122.93408629362941,49.24558635513255],[-122.93307470272984,49.24591409954149],[-122.91899860087862,49.24971006999707]]]],"type":"MultiPolygon"}
+}

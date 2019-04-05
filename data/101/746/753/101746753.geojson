@@ -1,0 +1,79 @@
+{
+  "id": 101746753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"-97.0212169,49.9579219,-97.0174113,49.960258",
+    "geom:latitude":49.959113,
+    "geom:longitude":-97.019252,
+    "iso:country":"CA",
+    "lbl:latitude":49.959122,
+    "lbl:longitude":-97.019253,
+    "mps:latitude":49.959122,
+    "mps:longitude":-97.019253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Na-Sha-Ke-Penais"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Manitoba",
+    "qs:a1_lc":"MB",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"NA-SHA-KE-PENAIS",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE NA-SHA-KE-PENAIS",
+    "qs:loc_lc":"23345b3a1e5146c49e96a83ff3e7e08c",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682085,
+        1158869035
+    ],
+    "wof:breaches":[
+        101734957
+    ],
+    "wof:concordances":{
+        "gp:id":23401859
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a3c3b047d9bc293c1584da4d7194dbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869035,
+            "locality_id":101746753,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":101746753,
+    "wof:lastmodified":1533067993,
+    "wof:name":"Na-Sha-Ke-Penais",
+    "wof:parent_id":1158869035,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.02121690000001,
+    49.95792189999997,
+    -97.0174113,
+    49.960258
+],
+  "geometry": {"coordinates":[[[-97.02121690000001,49.95940489999998],[-97.02047770000001,49.960258],[-97.01849149999998,49.95937370000001],[-97.017967,49.95914019999998],[-97.01741130000001,49.9588928],[-97.01788570000002,49.95792189999997],[-97.02121690000001,49.95940489999998]]],"type":"Polygon"}
+}

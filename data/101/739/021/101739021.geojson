@@ -1,0 +1,97 @@
+{
+  "id": 101739021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":666621.985399,
+    "geom:bbox":"-108.1024323,49.1743044,-108.0896821,49.182294",
+    "geom:latitude":49.177612,
+    "geom:longitude":-108.096571,
+    "iso:country":"CA",
+    "lbl:latitude":49.177625,
+    "lbl:longitude":-108.096572,
+    "mps:latitude":49.177625,
+    "mps:longitude":-108.096572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0643\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Bracken"
+    ],
+    "name:eng_x_preferred":[
+        "Bracken"
+    ],
+    "name:fre_x_preferred":[
+        "Bracken"
+    ],
+    "name:nld_x_preferred":[
+        "Bracken"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bracken",
+    "qs:loc_lc":"0cff1180849c20c320cbd8a00466d05f",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03baa568-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5907104,
+        "gp:id":2859,
+        "wd:id":"Q1999200",
+        "wk:page":"Bracken, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e457372569ddc5b2725d02cb9bc5caad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868961,
+            "locality_id":101739021,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739021,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524380,
+    "wof:name":"Bracken",
+    "wof:parent_id":1158868961,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.1024323,
+    49.1743044,
+    -108.0896821,
+    49.182294
+],
+  "geometry": {"coordinates":[[[-108.09872919999999,49.1743055],[-108.09900500000001,49.1743051],[-108.099057,49.174305],[-108.10241449999999,49.1743044],[-108.1024149,49.1744947],[-108.10243060000001,49.1813752],[-108.102431,49.1815669],[-108.1024312,49.1817342],[-108.1024317,49.1820093],[-108.1024323,49.182294],[-108.1000241,49.1817377],[-108.0913432,49.1797344],[-108.0913429,49.1794438],[-108.0913422,49.1794432],[-108.091069,49.1793802],[-108.091067,49.1793797],[-108.0899651,49.1791253],[-108.0896892,49.1790617],[-108.08968900000001,49.17887],[-108.0896867,49.1773951],[-108.08968640000001,49.1772142],[-108.08968489999999,49.1763112],[-108.08968470000001,49.1761304],[-108.0896827,49.1747511],[-108.0896824,49.1746306],[-108.08968230000001,49.1745134],[-108.0896821,49.1743175],[-108.091059,49.1743157],[-108.0913346,49.1743154],[-108.09658810000001,49.1743084],[-108.09688060000001,49.174308],[-108.0986393,49.1743056],[-108.09872919999999,49.1743055]]],"type":"Polygon"}
+}

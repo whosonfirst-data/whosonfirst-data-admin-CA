@@ -1,0 +1,86 @@
+{
+  "id": 85875213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4618990.994425,
+    "geom:bbox":"-104.636508,50.466174,-104.636508,50.466174",
+    "geom:latitude":50.466174,
+    "geom:longitude":-104.636508,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":50.466174,
+    "lbl:longitude":-104.636508,
+    "mps:latitude":50.466127,
+    "mps:longitude":-104.636554,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "North Central"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126113675,
+        85633041,
+        101739917,
+        1158868963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856386,
+        "qs:id":1246107,
+        "qs_pg:id":1246107
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"7523f10768d89efca50c5f06916a2c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868963,
+            "locality_id":101739917,
+            "macrohood_id":1126113675,
+            "neighbourhood_id":85875213,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85875213,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872040,
+    "wof:name":"North Central",
+    "wof:parent_id":1126113675,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.636508,
+    50.466174,
+    -104.636508,
+    50.466174
+],
+  "geometry": {"coordinates":[-104.63650800000001,50.466174],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 85874217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2798796.935102,
+    "geom:bbox":"-79.522635,43.69112,-79.522635,43.69112",
+    "geom:latitude":43.69112,
+    "geom:longitude":-79.522635,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.69112,
+    "lbl:longitude":-79.522635,
+    "mps:latitude":43.687735,
+    "mps:longitude":-79.520231,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Humber Heights"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "torsdfa:AREA_NAME":"Humber Heights-Westmount (8)",
+    "torsdfa:AREA_S_CD":"008",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735835,
+        1108833313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855777,
+        "qs:id":401340,
+        "qs_pg:id":401340
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"a5dafa45fd62111e51c5bfb6eb5b4738",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108833313,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457465,
+            "locality_id":101735835,
+            "neighbourhood_id":85874217,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85874217,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531871908,
+    "wof:name":"Humber Heights",
+    "wof:parent_id":1108833313,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.522635,
+    43.69112,
+    -79.522635,
+    43.69112
+],
+  "geometry": {"coordinates":[-79.52263499999999,43.69112],"type":"Point"}
+}

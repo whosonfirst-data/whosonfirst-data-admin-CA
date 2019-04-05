@@ -1,0 +1,94 @@
+{
+  "id": 101739523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1104366.107994,
+    "geom:bbox":"-101.6950651,50.597831,-101.6773142,50.6086929",
+    "geom:latitude":50.603541,
+    "geom:longitude":-101.686063,
+    "iso:country":"CA",
+    "lbl:latitude":50.604184,
+    "lbl:longitude":-101.686781,
+    "mps:latitude":50.604184,
+    "mps:longitude":-101.686781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Spy Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Spy Hill"
+    ],
+    "name:fra_x_preferred":[
+        "Spy Hill"
+    ],
+    "name:fre_x_preferred":[
+        "Spy Hill"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Spy Hill",
+    "qs:loc_lc":"0c2d1b6f849c20c3eb7a2b29f5d34cb8",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba7a7a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6154612,
+        "gp:id":2506,
+        "wd:id":"Q2204602",
+        "wk:page":"Spy Hill, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"1eae7d44b81aacf1b14aa6abc138d3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101739523,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739523,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531525483,
+    "wof:name":"Spy Hill",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.6950651,
+    50.597831,
+    -101.6773142,
+    50.6086929
+],
+  "geometry": {"coordinates":[[[-101.6923187,50.6013588],[-101.6934461,50.6013486],[-101.6944148,50.6013399],[-101.694841,50.6013361],[-101.69484060000001,50.6027022],[-101.6948403,50.6043117],[-101.6950476,50.6043117],[-101.69506320000001,50.6056019],[-101.69483990000001,50.6054694],[-101.69483990000001,50.6058445],[-101.6950634,50.6059775],[-101.6950635,50.6060508],[-101.69506370000001,50.6064251],[-101.6950643,50.6075489],[-101.69506459999999,50.6079597],[-101.69506509999999,50.6085846],[-101.6948391,50.6085868],[-101.6944129,50.6085911],[-101.6943023,50.6085922],[-101.6925801,50.6086076],[-101.6858278,50.6086678],[-101.6832888,50.6086905],[-101.68300480000001,50.6086929],[-101.6830092,50.6050687],[-101.6817175,50.6050802],[-101.6773268,50.6051184],[-101.67732909999999,50.6034937],[-101.67731430000001,50.6014925],[-101.6773142,50.5979102],[-101.68007160000001,50.5978757],[-101.6805639,50.5978695],[-101.6807293,50.5978675],[-101.68117959999999,50.5978618],[-101.6830186,50.5978388],[-101.68364200000001,50.597831],[-101.68958019999999,50.6013832],[-101.6908427,50.6013719],[-101.6923187,50.6013588]]],"type":"Polygon"}
+}

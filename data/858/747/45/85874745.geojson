@@ -1,0 +1,87 @@
+{
+  "id": 85874745,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1046",
+    "can-wpgppd:name":"Portage & Main",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":118858.294857,
+    "geom:bbox":"-97.140298,49.893006,-97.132462,49.896467",
+    "geom:latitude":49.89483,
+    "geom:longitude":-97.136976,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.895087,
+    "lbl:longitude":-97.137804,
+    "mps:latitude":49.894749,
+    "mps:longitude":-97.137012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Portage & Main"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968511,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856080,
+        "qs:id":1292832,
+        "qs_pg:id":1292832
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"328a80d7b9fb765a709eb37857d54554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968511,
+            "neighbourhood_id":85874745,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85874745,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523916,
+    "wof:name":"Portage & Main",
+    "wof:parent_id":1108968511,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.140298,
+    49.893006,
+    -97.132462,
+    49.896467
+],
+  "geometry": {"coordinates":[[[[-97.13872600000001,49.893006],[-97.137286,49.893331],[-97.13752100000001,49.893765],[-97.136944,49.893789],[-97.13501100000001,49.893178],[-97.134946,49.893416],[-97.13484099999999,49.893652],[-97.134506,49.894093],[-97.134336,49.894256],[-97.134067,49.894464],[-97.133847,49.894602],[-97.13353499999999,49.89476],[-97.132865,49.895],[-97.132462,49.895107],[-97.137179,49.896196],[-97.138841,49.896467],[-97.13899000000001,49.896452],[-97.139509,49.896401],[-97.139566,49.896395],[-97.13952500000001,49.89622],[-97.139595,49.895977],[-97.13982900000001,49.895672],[-97.14002600000001,49.895735],[-97.140046,49.895707],[-97.140235,49.895463],[-97.140298,49.895382],[-97.13995199999999,49.895271],[-97.13981699999999,49.895023],[-97.13872600000001,49.893006]]]],"type":"MultiPolygon"}
+}

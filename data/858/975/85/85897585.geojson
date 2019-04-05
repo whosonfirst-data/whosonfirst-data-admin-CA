@@ -1,0 +1,110 @@
+{
+  "id": 85897585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":697433.765835,
+    "geom:bbox":"-73.5534667969,45.5947137081,-73.5424804688,45.6046031451",
+    "geom:latitude":45.599448,
+    "geom:longitude":-73.547524,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.600295,
+    "lbl:longitude":-73.547317,
+    "mps:latitude":45.598837,
+    "mps:longitude":-73.546869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"electoral district",
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Saint Jean Eudes"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Jean Eudes"
+    ],
+    "name:unk_x_variant":[
+        "Saint Jean Eudes"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6077243,
+    "qs:local_max":28614,
+    "qs:local_sum":313611,
+    "qs:localhoods":127,
+    "qs:name":"Saint Jean Eudes",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Qu\u00e9bec",
+    "qs:name_adm2":"Montr\u00e9al",
+    "qs:name_local":"Montr\u00e9al",
+    "qs:photo_max":6,
+    "qs:photo_sum":19,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344924,
+    "qs:woe_adm2":29375198,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":3534,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        101736545,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56022920,
+        "qs:id":987084,
+        "qs_pg:id":987084
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"72ed5afb0923426e99077b4ec76799a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85897585,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":85897585,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1527270663,
+    "wof:name":"Saint Jean Eudes",
+    "wof:parent_id":101736545,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55346679689995,
+    45.5947137080919,
+    -73.54248046877495,
+    45.60460314508255
+],
+  "geometry": {"coordinates":[[[-73.54797363634296,45.60443057240907],[-73.54679007222984,45.60273881458643],[-73.54631574981045,45.60287440701286],[-73.54554881698547,45.60250901510007],[-73.54248046879999,45.60250901510007],[-73.5424804687832,45.60104715353226],[-73.5424804687832,45.5986656898],[-73.5424804687832,45.59866562400028],[-73.54248046879155,45.5948221013001],[-73.54248046877495,45.59482203547542],[-73.54784730043491,45.59482203547542],[-73.54797363281662,45.5947137080919],[-73.54835286027725,45.5948221013001],[-73.54963117047265,45.59518747607],[-73.55072021481641,45.59674392163556],[-73.55072021481448,45.5986656898],[-73.55346679689995,45.5986656898],[-73.55346679688958,45.60012746840501],[-73.55346679688336,45.60240047541721],[-73.55346679689995,45.60250901510007],[-73.55308710896617,45.60250901510007],[-73.55180891380445,45.60287440702912],[-73.55148724450703,45.60333419202222],[-73.5507202147999,45.60369964573833],[-73.5507202147999,45.60443057900007],[-73.54918610117346,45.60443057900007],[-73.54898024312951,45.6045286607124],[-73.5480943729363,45.60460314508255],[-73.54797363634296,45.60443057240907]]],"type":"Polygon"}
+}

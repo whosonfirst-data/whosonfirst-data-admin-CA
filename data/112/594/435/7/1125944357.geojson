@@ -1,0 +1,79 @@
+{
+  "id": 1125944357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.191076,46.209162,-64.191076,46.209162",
+    "geom:latitude":46.209162,
+    "geom:longitude":-64.191076,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.209162,
+    "lbl:longitude":-64.191076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Trois-Ruisseaux",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"New Brunswick",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903015,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23392923,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"New Brunswick",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23392923,
+        "qs_pg:id":903015
+    },
+    "wof:country":"CA",
+    "wof:created":1497297224,
+    "wof:geomhash":"07c6bd513fa8ac4a9f47a8b0ea67b730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":1125944357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125944357,
+    "wof:lastmodified":1509402282,
+    "wof:name":"Trois-Ruisseaux",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.191076,
+    46.209162,
+    -64.191076,
+    46.209162
+],
+  "geometry": {"coordinates":[-64.191076,46.209162],"type":"Point"}
+}

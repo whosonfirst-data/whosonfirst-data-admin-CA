@@ -1,0 +1,77 @@
+{
+  "id": 101744247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:bbox":"-121.4031595,49.8479867,-121.3917891,49.8553095",
+    "geom:latitude":49.851648,
+    "geom:longitude":-121.397475,
+    "iso:country":"CA",
+    "lbl:latitude":49.851649,
+    "lbl:longitude":-121.397476,
+    "mps:latitude":49.851649,
+    "mps:longitude":-121.397476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Boston Bar 10"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"BOSTON BAR 10",
+    "qs:loc_alt":"BOSTON BAR NO  10",
+    "qs:loc_lc":"246727adba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373867
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"60e17a9f2ddaeb2f8cb488e35ddf1390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458867,
+            "locality_id":101744247,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744247,
+    "wof:lastmodified":1533335891,
+    "wof:name":"Boston Bar 10",
+    "wof:parent_id":890458867,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.40315950000002,
+    49.84798669999998,
+    -121.39178909999998,
+    49.85530949999998
+],
+  "geometry": {"coordinates":[[[-121.40315950000002,49.85526850000002],[-121.39751149999999,49.8552891],[-121.39186360000002,49.85530949999998],[-121.39184669999997,49.85365530000001],[-121.391845,49.8534942],[-121.39182630000001,49.8516694],[-121.39178909999998,49.84802939999997],[-121.39729939999999,49.8480087],[-121.4030879,49.84798669999998],[-121.4031038,49.84960239999998],[-121.40310670000002,49.84990169999998],[-121.40315950000002,49.85526850000002]]],"type":"Polygon"}
+}

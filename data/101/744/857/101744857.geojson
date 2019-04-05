@@ -1,0 +1,79 @@
+{
+  "id": 101744857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:bbox":"-121.835649,50.7586675,-121.8312492,50.7661841",
+    "geom:latitude":50.762954,
+    "geom:longitude":-121.833113,
+    "iso:country":"CA",
+    "lbl:latitude":50.763036,
+    "lbl:longitude":-121.833291,
+    "mps:latitude":50.763036,
+    "mps:longitude":-121.833291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fountain 3A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"FOUNTAIN 3A",
+    "qs:loc_alt":"FOUNTAIN NO  3A",
+    "qs:loc_lc":"7635587dba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":779,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373625,
+        "wd:id":"Q8565017"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"99d1229647a9b243ecae439af146f946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456953,
+            "locality_id":101744857,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744857,
+    "wof:lastmodified":1533335900,
+    "wof:name":"Fountain 3A",
+    "wof:parent_id":890456953,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.835649,
+    50.7586675,
+    -121.8312492,
+    50.76618409999998
+],
+  "geometry": {"coordinates":[[[-121.835235,50.765394],[-121.83529129999999,50.76550150000003],[-121.835649,50.76618409999998],[-121.833552,50.76616940000002],[-121.8312492,50.76615329999998],[-121.8312585,50.75906049999998],[-121.83125869999998,50.75894290000002],[-121.83125910000001,50.7586675],[-121.83252929999998,50.75866860000002],[-121.83282920000001,50.75963710000002],[-121.8341916,50.76042719999998],[-121.83443310000001,50.7608151],[-121.83457379999999,50.761041],[-121.83484220000003,50.761472],[-121.83512030000003,50.76204339999998],[-121.83552809999998,50.76278129999997],[-121.83533870000002,50.76446950000002],[-121.835235,50.765394]]],"type":"Polygon"}
+}

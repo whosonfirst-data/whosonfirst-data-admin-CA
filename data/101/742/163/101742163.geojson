@@ -1,0 +1,77 @@
+{
+  "id": 101742163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:bbox":"-102.017656,50.4114514,-102.0063235,50.4187507",
+    "geom:latitude":50.415128,
+    "geom:longitude":-102.012007,
+    "iso:country":"CA",
+    "lbl:latitude":50.415115,
+    "lbl:longitude":-102.012017,
+    "mps:latitude":50.415115,
+    "mps:longitude":-102.012017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ochapowace I.R. 71-61"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OCHAPOWACE I.R. 71-61",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE OCHAPOWACE NO 71-61",
+    "qs:loc_lc":"f7ea73b7bbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403265
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9b3627d3facf08dcb32d478347289ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101742163,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742163,
+    "wof:lastmodified":1531525443,
+    "wof:name":"Ochapowace I.R. 71-61",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.017656,
+    50.41145139999998,
+    -102.0063235,
+    50.41875069999998
+],
+  "geometry": {"coordinates":[[[[-102.0068425,50.4114566],[-102.01765560000001,50.4115655],[-102.01765560000001,50.41156560000002],[-102.017656,50.41875069999998],[-102.00632349999999,50.41869020000001],[-102.00632969999998,50.4127439],[-102.0066448,50.4125464],[-102.0068425,50.4114566]]],[[[-102.006331,50.41145139999998],[-102.00655819999997,50.41145360000002],[-102.00637519999998,50.41246210000003],[-102.00632990000003,50.4124905],[-102.006331,50.41145139999998]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101739331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":648361.619593,
+    "geom:bbox":"-104.1605434,53.0529001,-104.1484795,53.0601474",
+    "geom:latitude":53.056522,
+    "geom:longitude":-104.154514,
+    "iso:country":"CA",
+    "lbl:latitude":53.056522,
+    "lbl:longitude":-104.154515,
+    "mps:latitude":53.056522,
+    "mps:longitude":-104.154515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ridgedale"
+    ],
+    "name:eng_x_preferred":[
+        "Ridgedale"
+    ],
+    "name:fre_x_preferred":[
+        "Ridgedale"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ridgedale",
+    "qs:loc_lc":"0c2cb05a849c20c32a883df35fe1c81b",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba6a08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6122201,
+        "gp:id":2354,
+        "wd:id":"Q2204122",
+        "wk:page":"Ridgedale, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"35e18ecf34a30577789c02a3003e142f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868937,
+            "locality_id":101739331,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523854,
+    "wof:name":"Ridgedale",
+    "wof:parent_id":1158868937,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.1605434,
+    53.0529001,
+    -104.1484795,
+    53.0601474
+],
+  "geometry": {"coordinates":[[[-104.1605412,53.0553747],[-104.16054099999999,53.0557854],[-104.1605406,53.0560972],[-104.1605405,53.0563192],[-104.16053719999999,53.0601474],[-104.1568968,53.0601434],[-104.1567787,53.0601433],[-104.1518664,53.0601375],[-104.1493377,53.0601345],[-104.1487015,53.0601338],[-104.14847949999999,53.0601335],[-104.1484798,53.0598973],[-104.14848019999999,53.0596482],[-104.14848050000001,53.0594822],[-104.148481,53.0592744],[-104.14848259999999,53.0584243],[-104.1484829,53.0582164],[-104.1484837,53.0578459],[-104.1484846,53.0573663],[-104.14848499999999,53.0571584],[-104.1484875,53.0557973],[-104.1484904,53.0542816],[-104.1484926,53.0531563],[-104.1484926,53.0531558],[-104.148493,53.0529001],[-104.14858700000001,53.0529002],[-104.1487963,53.0529002],[-104.1501164,53.0529009],[-104.1516755,53.0529017],[-104.1602432,53.0529059],[-104.16054339999999,53.052906],[-104.16054130000001,53.0551937],[-104.1605412,53.0553747]]],"type":"Polygon"}
+}

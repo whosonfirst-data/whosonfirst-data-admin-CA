@@ -1,0 +1,75 @@
+{
+  "id": 101745085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:bbox":"-124.0797985,51.4138214,-124.0638703,51.4210625",
+    "geom:latitude":51.417439,
+    "geom:longitude":-124.071846,
+    "iso:country":"CA",
+    "lbl:latitude":51.417441,
+    "lbl:longitude":-124.071846,
+    "mps:latitude":51.417441,
+    "mps:longitude":-124.071846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lezbye 6"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"LEZBYE 6",
+    "qs:loc_alt":"LEZBYE NO 6",
+    "qs:loc_lc":"d53df4cbba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"c1ac2954044acfe4fee70cb9682278fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745085,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745085,
+    "wof:lastmodified":1533335903,
+    "wof:name":"Lezbye 6",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.07979849999998,
+    51.41382140000002,
+    -124.06387030000002,
+    51.4210625
+],
+  "geometry": {"coordinates":[[[-124.06387030000002,51.41382140000002],[-124.06923819999997,51.41382529999998],[-124.07702940000001,51.41383050000002],[-124.07979849999998,51.41383230000002],[-124.0797973,51.41439739999998],[-124.07978420000001,51.420697],[-124.07978350000002,51.4210625],[-124.0754857,51.4210589],[-124.06970769999998,51.4210539],[-124.06392959999999,51.4210486],[-124.06387669999999,51.41460310000002],[-124.06387030000002,51.41382140000002]]],"type":"Polygon"}
+}

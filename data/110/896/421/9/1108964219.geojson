@@ -1,0 +1,69 @@
+{
+  "id": 1108964219,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residual Sub Area",
+    "can-calcai:class_code":"4",
+    "can-calcai:comm_code":"03H",
+    "can-calcai:comm_structure":"OTHER",
+    "can-calcai:name":"03H",
+    "can-calcai:sector":"NORTHEAST",
+    "can-calcai:srg":"N/A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":1446815.544474,
+    "geom:bbox":"-113.970777,51.175639,-113.946707,51.183549",
+    "geom:latitude":51.179634,
+    "geom:longitude":-113.958554,
+    "iso:country":"CA",
+    "lbl:latitude":51.179599,
+    "lbl:longitude":-113.958552,
+    "mps:latitude":51.179599,
+    "mps:longitude":-113.958552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":51.179599,
+    "reversegeo:longitude":-113.958552,
+    "src:geom":"can-calcai",
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"02fd6ed45bc255c10b5b9b8197e70c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":1108964219,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108964219,
+    "wof:lastmodified":1507246073,
+    "wof:name":"03h",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.970777,
+    51.175639,
+    -113.946707,
+    51.183549
+],
+  "geometry": {"coordinates":[[[[-113.946743,51.176084],[-113.946707,51.175639],[-113.969483,51.175658],[-113.969527,51.175815],[-113.96973199999999,51.176548],[-113.970016,51.177565],[-113.970134,51.177984],[-113.970777,51.180285],[-113.970698,51.180518],[-113.970705,51.180631],[-113.97071099999999,51.180744],[-113.970715,51.180856],[-113.97071800000001,51.180969],[-113.970716,51.181216],[-113.970714,51.181462],[-113.970713,51.181709],[-113.97071099999999,51.181955],[-113.970709,51.182202],[-113.970708,51.182448],[-113.97070600000001,51.182695],[-113.970705,51.182941],[-113.970703,51.183188],[-113.97070100000001,51.183434],[-113.97069999999999,51.183546],[-113.97001400000001,51.183546],[-113.966661,51.183547],[-113.958234,51.183549],[-113.955218,51.183549],[-113.946746,51.183546],[-113.946746,51.183366],[-113.946738,51.17974],[-113.946738,51.17935],[-113.946742,51.176716],[-113.946743,51.176278],[-113.946743,51.176084]]]],"type":"MultiPolygon"}
+}

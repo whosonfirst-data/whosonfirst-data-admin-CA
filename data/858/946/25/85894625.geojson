@@ -1,0 +1,117 @@
+{
+  "id": 85894625,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Stride Hill",
+    "can-bbygov:OBJECTID_1":"30",
+    "can-bbygov:PSA":"22",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1364751.3335,
+    "geom:bbox":"-122.978273346,49.2011438084,-122.956738837,49.2151213418",
+    "geom:latitude":49.208654,
+    "geom:longitude":-122.965585,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.20923,
+    "lbl:longitude":-122.965421,
+    "mps:latitude":49.208761,
+    "mps:longitude":-122.961744,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Stride Hill"
+    ],
+    "name:unk_x_variant":[
+        "Stride Hill"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Stride Hill",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":44,
+    "qs:photo_sum":219,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.20923,
+    "reversegeo:longitude":-122.965421,
+    "src:geom":"can-bbygov",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108915095,
+        85633041,
+        101741055,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998705,
+        "qs:id":897467,
+        "qs_pg:id":897467
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"db3b524f67f3b13fe5a8ea16d5912452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915095,
+            "neighbourhood_id":85894625,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894625,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335941,
+    "wof:name":"Stride Hill",
+    "wof:parent_id":1108915095,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.97827334587781,
+    49.20114380843513,
+    -122.95673883681164,
+    49.2151213418075
+],
+  "geometry": {"coordinates":[[[[-122.9609604435376,49.214137650369],[-122.95732347590238,49.20914847785594],[-122.95673883681164,49.20798786696619],[-122.95706400821896,49.20704348351104],[-122.95850940783664,49.20499308460687],[-122.95897093085622,49.20354950425445],[-122.95865761901639,49.20217760934919],[-122.96003226532015,49.20143148322666],[-122.96054083695581,49.20114380843513],[-122.96183767114267,49.20221468597594],[-122.96464082032659,49.20321405553918],[-122.96529701104684,49.20346162528094],[-122.9706128019,49.20478540799272],[-122.97449351626946,49.20499322292864],[-122.97740943231864,49.20515574540981],[-122.97827334587781,49.2054257709239],[-122.97498862538075,49.20663497249412],[-122.97331321064046,49.2083571959593],[-122.97189011206193,49.21133429884512],[-122.97200854068224,49.2151213418075],[-122.9707531296139,49.2148961487339],[-122.96959203155919,49.21483288192837],[-122.96382655305587,49.21502012108368],[-122.96281180418048,49.21492984602422],[-122.96192249202053,49.21465969785071],[-122.9609604435376,49.214137650369]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101743271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:bbox":"-126.1770126,54.3414819,-126.1644578,54.3487373",
+    "geom:latitude":54.345114,
+    "geom:longitude":-126.170736,
+    "iso:country":"CA",
+    "lbl:latitude":54.345113,
+    "lbl:longitude":-126.170737,
+    "mps:latitude":54.345113,
+    "mps:longitude":-126.170737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maxan Lake 3"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MAXAN LAKE 3",
+    "qs:loc_alt":"MAXAN LAKE NO 3",
+    "qs:loc_lc":"4be0bef8ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373647
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"5fe942fa8e97bfb82b96948b73f73151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":101743271,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743271,
+    "wof:lastmodified":1533335876,
+    "wof:name":"Maxan Lake 3",
+    "wof:parent_id":890458087,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -126.17701260000001,
+    54.34148190000002,
+    -126.1644578,
+    54.34873729999998
+],
+  "geometry": {"coordinates":[[[-126.17701260000001,54.34871809999999],[-126.1645264,54.34873729999998],[-126.16445779999999,54.3415172],[-126.17693889999998,54.34148190000002],[-126.17701260000001,54.34871809999999]]],"type":"Polygon"}
+}

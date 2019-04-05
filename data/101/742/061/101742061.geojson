@@ -1,0 +1,77 @@
+{
+  "id": 101742061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000601,
+    "geom:bbox":"-108.5654251,54.1582247,-108.5281456,54.1799173",
+    "geom:latitude":54.170876,
+    "geom:longitude":-108.548013,
+    "iso:country":"CA",
+    "lbl:latitude":54.172688,
+    "lbl:longitude":-108.540461,
+    "mps:latitude":54.172688,
+    "mps:longitude":-108.540461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Flying Dust First Nation I.R. 105E"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"FLYING DUST FIRST NATION I.R. 105E",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE FLYING DUST NO 105E",
+    "qs:loc_lc":"6c9ebc1b849c20c3e641d30e913d8f3d",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373096
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6a1b51baa1516e54aff786ca8728faa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868977,
+            "locality_id":101742061,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742061,
+    "wof:lastmodified":1531525175,
+    "wof:name":"Flying Dust First Nation I.R. 105E",
+    "wof:parent_id":1158868977,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.56542510000003,
+    54.1582247,
+    -108.52814560000002,
+    54.1799173
+],
+  "geometry": {"coordinates":[[[[-108.52814560000002,54.1799173],[-108.52814909999999,54.17269049999999],[-108.52815249999998,54.16546369999998],[-108.54046190000003,54.16546140000003],[-108.55277130000002,54.16545789999998],[-108.5527735,54.172684],[-108.5527755,54.17991030000002],[-108.54046049999999,54.1799145],[-108.52814560000002,54.1799173]]],[[[-108.56542510000003,54.1762948],[-108.55924750000003,54.1762958],[-108.55924899999999,54.1799095],[-108.55308359999998,54.1799102],[-108.55308150000002,54.172684],[-108.5530794,54.1654577],[-108.5530771,54.15823180000001],[-108.56541829999998,54.1582247],[-108.56542150000001,54.16545309999998],[-108.56542389999998,54.17268080000002],[-108.56542510000003,54.1762948]]]],"type":"MultiPolygon"}
+}

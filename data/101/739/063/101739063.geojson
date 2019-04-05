@@ -1,0 +1,94 @@
+{
+  "id": 101739063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":577973.30283,
+    "geom:bbox":"-107.7092145,52.689113,-107.6972656,52.69635",
+    "geom:latitude":52.69294,
+    "geom:longitude":-107.702677,
+    "iso:country":"CA",
+    "lbl:latitude":52.692732,
+    "lbl:longitude":-107.702279,
+    "mps:latitude":52.692732,
+    "mps:longitude":-107.702279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u062a\u0634\u0627\u0631\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Richard"
+    ],
+    "name:eng_x_preferred":[
+        "Richard"
+    ],
+    "name:fre_x_preferred":[
+        "Richard"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Richard",
+    "qs:loc_lc":"0c2cacf9849c20c39865e681d1600eb2",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba5022-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6121894,
+        "gp:id":2141,
+        "wd:id":"Q2202473",
+        "wk:page":"Richard, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6124ab90dbdbd37ff7e617d24ad08e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868943,
+            "locality_id":101739063,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739063,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523937,
+    "wof:name":"Richard",
+    "wof:parent_id":1158868943,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.7092145,
+    52.689113,
+    -107.6972656,
+    52.69635
+],
+  "geometry": {"coordinates":[[[-107.7057519,52.6915937],[-107.70585060000001,52.6916413],[-107.7060591,52.6917416],[-107.70788760000001,52.6926222],[-107.7081202,52.6927342],[-107.7085361,52.6929345],[-107.70884030000001,52.6930809],[-107.7092131,52.6932605],[-107.709214,52.695487],[-107.70921420000001,52.6954876],[-107.70921420000001,52.695859],[-107.7092145,52.69635],[-107.7090642,52.69635],[-107.7034115,52.6963498],[-107.7031937,52.6963498],[-107.69938500000001,52.6963496],[-107.69891869999999,52.6963495],[-107.6986955,52.6963495],[-107.6984506,52.6963495],[-107.6978874,52.6963494],[-107.6972713,52.6963494],[-107.69727109999999,52.6960462],[-107.6972657,52.6892964],[-107.69726559999999,52.6891156],[-107.702896,52.6891144],[-107.7072867,52.6891132],[-107.70785600000001,52.689113],[-107.7059422,52.6905812],[-107.7066114,52.6909034],[-107.70663639999999,52.6909154],[-107.70645759999999,52.6910525],[-107.70645709999999,52.6910529],[-107.7064565,52.6910534],[-107.7057519,52.6915937]]],"type":"Polygon"}
+}

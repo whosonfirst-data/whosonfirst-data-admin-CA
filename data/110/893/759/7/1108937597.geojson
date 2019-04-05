@@ -1,0 +1,80 @@
+{
+  "id": 1108937597,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"882",
+    "can-wpgppd:name":"Radisson",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1208037.547622,
+    "geom:bbox":"-97.025444,49.898357,-97.002478,49.909783",
+    "geom:latitude":49.903302,
+    "geom:longitude":-97.013058,
+    "iso:country":"CA",
+    "lbl:latitude":49.903581,
+    "lbl:longitude":-97.012843,
+    "mps:latitude":49.903855,
+    "mps:longitude":-97.012275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Radisson"
+    ],
+    "reversegeo:latitude":49.903855,
+    "reversegeo:longitude":-97.012275,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968467,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359786,
+    "wof:geomhash":"bd6e0eee073145e5a574d0a5dbbda1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968467,
+            "neighbourhood_id":1108937597,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937597,
+    "wof:lastmodified":1531523911,
+    "wof:name":"Radisson",
+    "wof:parent_id":1108968467,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.025444,
+    49.898357,
+    -97.002478,
+    49.909783
+],
+  "geometry": {"coordinates":[[[[-97.025418,49.898412],[-97.01620699999999,49.898357],[-97.016243,49.900797],[-97.002646,49.900718],[-97.002506,49.908266],[-97.002478,49.909783],[-97.00689,49.908501],[-97.007481,49.90833],[-97.013943,49.906452],[-97.025403,49.903119],[-97.02544399999999,49.900711],[-97.025418,49.898412]]]],"type":"MultiPolygon"}
+}

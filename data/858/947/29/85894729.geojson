@@ -1,0 +1,114 @@
+{
+  "id": 85894729,
+  "type": "Feature",
+  "properties": {
+    "can-nwds:NEIGHNUM":"6",
+    "can-nwds:NEIGH_NAME":"Glenbrooke North",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":881863.547762,
+    "geom:bbox":"-122.927623254,49.2138942266,-122.908411583,49.2245257802",
+    "geom:latitude":49.219334,
+    "geom:longitude":-122.917944,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.219313,
+    "lbl:longitude":-122.917944,
+    "mps:latitude":49.219391,
+    "mps:longitude":-122.916981,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Glenbrooke North"
+    ],
+    "name:unk_x_variant":[
+        "Glenbrooke North"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Glenbrooke North",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":439,
+    "qs:photo_sum":909,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.219313,
+    "reversegeo:longitude":-122.917944,
+    "src:geom":"can-nwds",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741077,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998811,
+        "qs:id":1090796,
+        "qs_pg:id":1090796
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"18c5aa182ca05b232a6c31cf7783bca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741077,
+            "neighbourhood_id":85894729,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894729,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335942,
+    "wof:name":"Glenbrooke North",
+    "wof:parent_id":101741077,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.92762325432054,
+    49.21389422656714,
+    -122.90841158295841,
+    49.22452578017566
+],
+  "geometry": {"coordinates":[[[[-122.91408560249543,49.21652917256791],[-122.91628018180599,49.2153445102432],[-122.91777553543434,49.21454180028525],[-122.91911368472701,49.21389422656714],[-122.92071317603732,49.21516933960903],[-122.92140856224366,49.21479442565531],[-122.92334732215207,49.21633870362661],[-122.92399401372886,49.21599504521793],[-122.92762325432054,49.21894661254295],[-122.926337862922,49.2196404657405],[-122.9248560983265,49.22043846984587],[-122.92137866790591,49.2223142975012],[-122.91792739031574,49.22417457780772],[-122.91723261740066,49.22452578017566],[-122.91622716643322,49.22415804449123],[-122.91349009057606,49.22361385185381],[-122.91189307988338,49.22240429290493],[-122.90841158295841,49.21956424809692],[-122.91001275355792,49.21870896875556],[-122.91094245265545,49.21820930257728],[-122.91211301665224,49.21757764636357],[-122.91408560249543,49.21652917256791]]]],"type":"MultiPolygon"}
+}

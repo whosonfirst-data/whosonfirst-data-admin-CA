@@ -1,0 +1,67 @@
+{
+  "id": 1327031785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.11306,49.87779,-96.11306,49.87779",
+    "geom:latitude":49.87779,
+    "geom:longitude":-96.11306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Contour",
+    "gn:country_code":"CA",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":5927018,
+    "gn:latitude":49.87779,
+    "gn:longitude":-96.11306,
+    "gn:modification_date":"2006-01-18",
+    "gn:name":"Contour",
+    "gn:population":0,
+    "gn:timezone":"America/Winnipeg",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682085,
+        1158869003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5927018
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c0002ff9a0dbd2af0ca3bda5045bb9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869003,
+            "locality_id":1327031785,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1327031785,
+    "wof:lastmodified":1536761568,
+    "wof:name":"Contour",
+    "wof:parent_id":1158869003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.11306,
+    49.87779000000001,
+    -96.11306,
+    49.87779000000001
+],
+  "geometry": {"coordinates":[-96.11306,49.87779000000001],"type":"Point"}
+}

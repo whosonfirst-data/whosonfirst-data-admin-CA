@@ -1,0 +1,67 @@
+{
+  "id": 1226738071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.93467,50.98339,-107.93467,50.98339",
+    "geom:latitude":50.98339,
+    "geom:longitude":-107.93467,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"High Point",
+    "gn:country_code":"CA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":5975023,
+    "gn:latitude":50.98339,
+    "gn:longitude":-107.93467,
+    "gn:modification_date":"2006-01-18",
+    "gn:name":"High Point",
+    "gn:population":0,
+    "gn:timezone":"America/Regina",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5975023
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"260b577b3c2b77d928868b715fced030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868979,
+            "locality_id":1226738071,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":1226738071,
+    "wof:lastmodified":1536726984,
+    "wof:name":"High Point",
+    "wof:parent_id":1158868979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.93467,
+    50.98339,
+    -107.93467,
+    50.98339
+],
+  "geometry": {"coordinates":[-107.93467,50.98339],"type":"Point"}
+}

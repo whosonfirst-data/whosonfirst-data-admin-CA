@@ -1,0 +1,114 @@
+{
+  "id": 85894637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-03-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":372335.588318,
+    "geom:bbox":"-122.906021,49.258422,-122.906021,49.258422",
+    "geom:latitude":49.258422,
+    "geom:longitude":-122.906021,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.258422,
+    "lbl:longitude":-122.906021,
+    "mps:latitude":49.258843,
+    "mps:longitude":-122.908658,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"no ref",
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Beaverbrook"
+    ],
+    "name:unk_x_variant":[
+        "Beaverbrook"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Beaverbrook",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":116,
+    "qs:photo_sum":159,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        1108915097,
+        85633041,
+        101741055,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998711,
+        "qs:id":888848,
+        "qs_pg:id":888848
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c8c2f266dbf887ba16f7fdf97eba3b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915097,
+            "neighbourhood_id":85894637,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894637,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931232,
+    "wof:name":"Beaverbrook",
+    "wof:parent_id":1108915097,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.906021,
+    49.258422,
+    -122.906021,
+    49.258422
+],
+  "geometry": {"coordinates":[-122.906021,49.258422],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101741969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:bbox":"-108.076797,53.023236,-108.0647525,53.0305242",
+    "geom:latitude":53.026878,
+    "geom:longitude":-108.070764,
+    "iso:country":"CA",
+    "lbl:latitude":53.026882,
+    "lbl:longitude":-108.070764,
+    "mps:latitude":53.026882,
+    "mps:longitude":-108.070764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saulteaux I.R. 159F"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SAULTEAUX I.R. 159F",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE SAULTEAUX NO 159F",
+    "qs:loc_lc":"f9f18e8dbbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373129
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9f7f85c562cc85d0377b92cd2c0b8389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868943,
+            "locality_id":101741969,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101741969,
+    "wof:lastmodified":1531523957,
+    "wof:name":"Saulteaux I.R. 159F",
+    "wof:parent_id":1158868943,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.076797,
+    53.023236,
+    -108.0647525,
+    53.0305242
+],
+  "geometry": {"coordinates":[[[-108.0647525,53.023236],[-108.076797,53.02330319999999],[-108.07679389999998,53.02852580000001],[-108.07675039999999,53.02872509999997],[-108.07672430000002,53.02892550000001],[-108.07671549999998,53.02912650000002],[-108.07671540000001,53.0305242],[-108.0647563,53.03046569999998],[-108.0647525,53.023236]]],"type":"Polygon"}
+}

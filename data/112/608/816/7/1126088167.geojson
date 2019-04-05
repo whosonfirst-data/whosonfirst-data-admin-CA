@@ -1,0 +1,93 @@
+{
+  "id": 1126088167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.390597,43.828118,-79.390597,43.828118",
+    "geom:latitude":43.828118,
+    "geom:longitude":-79.390597,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":43.828118,
+    "lbl:longitude":-79.390597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aileen",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":101,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":101,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1065732,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":55998990,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736035,
+        890458415,
+        101740741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998990,
+        "qs_pg:id":1065732
+    },
+    "wof:country":"CA",
+    "wof:created":1497313147,
+    "wof:geomhash":"4b46f77ce0f47d5c968c3cc5051473be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458415,
+            "locality_id":101736035,
+            "neighbourhood_id":1126088167,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458415,
+            "locality_id":101740741,
+            "neighbourhood_id":1126088167,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126088167,
+    "wof:lastmodified":1533335719,
+    "wof:name":"Aileen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.390597,
+    43.828118,
+    -79.390597,
+    43.828118
+],
+  "geometry": {"coordinates":[-79.390597,43.828118],"type":"Point"}
+}

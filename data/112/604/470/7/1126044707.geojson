@@ -1,0 +1,82 @@
+{
+  "id": 1126044707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.978744,45.647588,-72.978744,45.647588",
+    "geom:latitude":45.647588,
+    "geom:longitude":-72.978744,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.647588,
+    "lbl:longitude":-72.978744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-thomas-d'aquin",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":974293,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23396614,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890457827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23396614,
+        "qs_pg:id":974293
+    },
+    "wof:country":"CA",
+    "wof:created":1497302362,
+    "wof:geomhash":"fe6e612a5f1dae75d6d22b1d34c4a97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457827,
+            "locality_id":1126044707,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1126044707,
+    "wof:lastmodified":1533335716,
+    "wof:name":"St.-thomas-d'aquin",
+    "wof:parent_id":890457827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.978744,
+    45.647588,
+    -72.978744,
+    45.647588
+],
+  "geometry": {"coordinates":[-72.97874400000001,45.647588],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101743517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"-130.8343141,54.4290635,-130.8304011,54.4308756",
+    "geom:latitude":54.429941,
+    "geom:longitude":-130.831958,
+    "iso:country":"CA",
+    "lbl:latitude":54.42997,
+    "lbl:longitude":-130.831959,
+    "mps:latitude":54.42997,
+    "mps:longitude":-130.831959,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Far West Point 34"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"FAR WEST POINT 34",
+    "qs:loc_alt":"FAR WEST POINT NO  34",
+    "qs:loc_lc":"432a2d3cba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9394
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"b1979ee939fee70609082d98a087837e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456453,
+            "locality_id":101743517,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743517,
+    "wof:lastmodified":1533335879,
+    "wof:name":"Far West Point 34",
+    "wof:parent_id":890456453,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -130.83431409999997,
+    54.42906349999998,
+    -130.83040110000002,
+    54.43087559999998
+],
+  "geometry": {"coordinates":[[[-130.83367929999997,54.42906970000001],[-130.83361159999998,54.42950939999997],[-130.83348080000002,54.42989460000001],[-130.83333190000002,54.43024229999997],[-130.83351540000001,54.43028020000003],[-130.83421349999998,54.4303296],[-130.83431409999997,54.4304209],[-130.83416679999999,54.4304795],[-130.83377189999999,54.4304252],[-130.83343180000003,54.43045130000002],[-130.83305419999999,54.43060050000003],[-130.83285030000002,54.43077879999998],[-130.83275280000001,54.43087559999998],[-130.83040110000002,54.4308711],[-130.83041120000001,54.42906349999998],[-130.83367929999997,54.42906970000001]]],"type":"Polygon"}
+}

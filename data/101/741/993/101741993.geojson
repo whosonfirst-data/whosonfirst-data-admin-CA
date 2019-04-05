@@ -1,0 +1,77 @@
+{
+  "id": 101741993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000262,
+    "geom:bbox":"-108.3690391,53.2852624,-108.3449105,53.2997302",
+    "geom:latitude":53.291293,
+    "geom:longitude":-108.35898,
+    "iso:country":"CA",
+    "lbl:latitude":53.291809,
+    "lbl:longitude":-108.362829,
+    "mps:latitude":53.291809,
+    "mps:longitude":-108.362829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saulteaux I.R. 159J"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SAULTEAUX I.R. 159J",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE SAULTEAUX NO 159J",
+    "qs:loc_lc":"fa350032bbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403511
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cbac482343d8e416669208ddd62b46c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868977,
+            "locality_id":101741993,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101741993,
+    "wof:lastmodified":1531525196,
+    "wof:name":"Saulteaux I.R. 159J",
+    "wof:parent_id":1158868977,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.3690391,
+    53.28526240000002,
+    -108.34491050000003,
+    53.2997302
+],
+  "geometry": {"coordinates":[[[-108.35695870000001,53.2997302],[-108.35697069999998,53.29249809999999],[-108.34491050000003,53.2925009],[-108.34492619999997,53.28526240000002],[-108.35698290000001,53.285268],[-108.36903909999999,53.2852724],[-108.36903100000001,53.29249429999999],[-108.36902279999998,53.299723],[-108.35695870000001,53.2997302]]],"type":"Polygon"}
+}

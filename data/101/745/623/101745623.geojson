@@ -1,0 +1,79 @@
+{
+  "id": 101745623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:bbox":"-119.5597175,49.4787259,-119.5541233,49.4824096",
+    "geom:latitude":49.48048,
+    "geom:longitude":-119.557095,
+    "iso:country":"CA",
+    "lbl:latitude":49.480685,
+    "lbl:longitude":-119.557707,
+    "mps:latitude":49.480685,
+    "mps:longitude":-119.557707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Penticton 2"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"PENTICTON 2",
+    "qs:loc_alt":"PENTICTON NO 2",
+    "qs:loc_lc":"1031bcf7ca0211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457193
+    ],
+    "wof:breaches":[
+        101740921
+    ],
+    "wof:concordances":{
+        "gp:id":9889
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"7bf1cf1a63dda9141a0daf07c58cabae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457193,
+            "locality_id":101745623,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745623,
+    "wof:lastmodified":1533335914,
+    "wof:name":"Penticton 2",
+    "wof:parent_id":890457193,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.55971749999998,
+    49.47872589999997,
+    -119.55412330000001,
+    49.48240959999998
+],
+  "geometry": {"coordinates":[[[-119.55971749999998,49.4794635],[-119.55969970000001,49.48002150000002],[-119.55962359999999,49.48240959999998],[-119.55611340000002,49.482365],[-119.556111,49.48099159999998],[-119.55412330000001,49.4809924],[-119.55419619999998,49.47872589999997],[-119.55478770000002,49.478734],[-119.556946,49.4787632],[-119.55827480000001,49.47915089999998],[-119.55874469999998,49.479276],[-119.55922629999998,49.4793803],[-119.55971749999998,49.4794635]]],"type":"Polygon"}
+}

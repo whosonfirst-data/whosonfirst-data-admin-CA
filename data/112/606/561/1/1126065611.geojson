@@ -1,0 +1,80 @@
+{
+  "id": 1126065611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.47087,49.05801,-122.47087,49.05801",
+    "geom:latitude":49.05801,
+    "geom:longitude":-122.47087,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":12363,
+    "gn:population":12363,
+    "iso:country":"CA",
+    "lbl:latitude":49.05801,
+    "lbl:longitude":-122.47087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7669018,
+    "qs_pg:gn_pop":12363,
+    "qs_pg:name":"Aldergrove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1154929,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101740805,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669018,
+        "qs_pg:id":1154929
+    },
+    "wof:country":"CA",
+    "wof:created":1497308835,
+    "wof:geomhash":"709651e1a011a51d2850ec4c201e140f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101740805,
+            "neighbourhood_id":1126065611,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1126065611,
+    "wof:lastmodified":1533335937,
+    "wof:name":"Aldergrove",
+    "wof:parent_id":101740805,
+    "wof:placetype":"neighbourhood",
+    "wof:population":12363,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.47087,
+    49.05801,
+    -122.47087,
+    49.05801
+],
+  "geometry": {"coordinates":[-122.47087000000001,49.05801],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 85875765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":185680.274976,
+    "geom:bbox":"-73.495789,45.500572,-73.495789,45.500572",
+    "geom:latitude":45.500572,
+    "geom:longitude":-73.495789,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.500572,
+    "lbl:longitude":-73.495789,
+    "mps:latitude":45.50216,
+    "mps:longitude":-73.494152,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "L'Esperance"
+    ],
+    "name:fra_x_preferred":[
+        "L'Esp\u00e9rance"
+    ],
+    "name:fra_x_variant":[
+        "L'Esperance"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101736449,
+        890456297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856808,
+        "qs:id":230719,
+        "qs_pg:id":230719
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"ae91cd5fcd8ba96f88ad4a99337a2204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456297,
+            "locality_id":101736449,
+            "neighbourhood_id":85875765,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":85875765,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531872223,
+    "wof:name":"L'Esperance",
+    "wof:parent_id":101736449,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.495789,
+    45.500572,
+    -73.495789,
+    45.500572
+],
+  "geometry": {"coordinates":[-73.495789,45.500572],"type":"Point"}
+}

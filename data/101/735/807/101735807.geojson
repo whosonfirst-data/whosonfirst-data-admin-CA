@@ -1,0 +1,100 @@
+{
+  "id": 101735807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.070155,
+    "geom:area_square_m":540345068.890281,
+    "geom:bbox":"-90.4090686,51.4044043,-89.8880662,51.5400228",
+    "geom:latitude":51.472656,
+    "geom:longitude":-90.148095,
+    "iso:country":"CA",
+    "lbl:latitude":51.472648,
+    "lbl:longitude":-90.148095,
+    "mps:latitude":51.472648,
+    "mps:longitude":-90.148095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pickle Lake"
+    ],
+    "name:dut_x_preferred":[
+        "Pickle Lake"
+    ],
+    "name:eng_x_preferred":[
+        "Pickle Lake"
+    ],
+    "name:fra_x_preferred":[
+        "Pickle Lake"
+    ],
+    "name:fre_x_preferred":[
+        "Pickle Lake"
+    ],
+    "name:pol_x_preferred":[
+        "Pickle Lake"
+    ],
+    "name:swe_x_preferred":[
+        "Pickle Lake"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Ontario",
+    "qs:a1_lc":"ON",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pickle Lake",
+    "qs:loc_alt":"Township of Pickle Lake",
+    "qs:loc_lc":"7b40f719c6cd11d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Township",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":707,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6104159,
+        "gp:id":256,
+        "wd:id":"Q11816433",
+        "wk:page":"Pickle Lake"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3cd993f6c1639edd2a2b3e04eedc90d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456531,
+            "locality_id":101735807,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":101735807,
+    "wof:lastmodified":1533268264,
+    "wof:name":"Pickle Lake",
+    "wof:parent_id":890456531,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.4090686,
+    51.4044043,
+    -89.8880662,
+    51.5400228
+],
+  "geometry": {"coordinates":[[[-89.8880662,51.5400228],[-89.8883653,51.4531047],[-89.8885207,51.4044043],[-90.4090401,51.4061705],[-90.4090686,51.5399571],[-90.27067390000001,51.5400146],[-90.1662223,51.5400105],[-90.02723570000001,51.5400063],[-89.8880662,51.5400228]]],"type":"Polygon"}
+}

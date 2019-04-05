@@ -1,0 +1,77 @@
+{
+  "id": 101742149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:bbox":"-102.3804895,51.0924997,-102.3690119,51.0997466",
+    "geom:latitude":51.096122,
+    "geom:longitude":-102.374751,
+    "iso:country":"CA",
+    "lbl:latitude":51.096122,
+    "lbl:longitude":-102.374751,
+    "mps:latitude":51.096122,
+    "mps:longitude":-102.374751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keeseekoose I.R. 66-Sa-02"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KEESEEKOOSE I.R. 66-SA-02",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE KEESEEKOOSE NO 66-SA-02",
+    "qs:loc_lc":"f27cfd1cbbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403107
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c8b41572d20d2eab4870d212c2fcdb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101742149,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742149,
+    "wof:lastmodified":1531525442,
+    "wof:name":"Keeseekoose I.R. 66-Sa-02",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.38048950000001,
+    51.09249970000002,
+    -102.36901189999998,
+    51.0997466
+],
+  "geometry": {"coordinates":[[[-102.38048950000001,51.09973539999999],[-102.369027,51.0997466],[-102.36901189999998,51.0925057],[-102.38047840000002,51.09249970000002],[-102.38048950000001,51.09973539999999]]],"type":"Polygon"}
+}

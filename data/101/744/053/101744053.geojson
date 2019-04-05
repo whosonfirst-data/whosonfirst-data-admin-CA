@@ -1,0 +1,77 @@
+{
+  "id": 101744053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:bbox":"-121.1469057,51.0558965,-121.1448855,51.0573163",
+    "geom:latitude":51.056638,
+    "geom:longitude":-121.145922,
+    "iso:country":"CA",
+    "lbl:latitude":51.056624,
+    "lbl:longitude":-121.145905,
+    "mps:latitude":51.056624,
+    "mps:longitude":-121.145905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hihium Lake 6A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"HIHIUM LAKE 6A",
+    "qs:loc_alt":"HIHIUM LAKE NO  6A",
+    "qs:loc_lc":"e360bb67ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23405504
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e76f177c1a779f500124d1843851fa97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744053,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744053,
+    "wof:lastmodified":1533335888,
+    "wof:name":"Hihium Lake 6A",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.1469057,
+    51.05589650000002,
+    -121.14488549999999,
+    51.05731630000002
+],
+  "geometry": {"coordinates":[[[-121.1469057,51.05731630000002],[-121.14488549999999,51.0573023],[-121.14490389999997,51.0562177],[-121.14490600000001,51.0560974],[-121.1449981,51.05607120000002],[-121.14512389999999,51.05604440000002],[-121.1453376,51.0560064],[-121.14553849999999,51.0559801],[-121.14568309999999,51.05595349999999],[-121.14578360000002,51.0559424],[-121.14592770000002,51.0559394],[-121.14603419999997,51.05594409999998],[-121.14614069999999,51.05594480000002],[-121.14630360000001,51.055946],[-121.14644149999999,51.055939],[-121.1465043,51.0559316],[-121.1466236,51.05592050000001],[-121.1467553,51.0559096],[-121.14686829999999,51.05589850000001],[-121.14690400000001,51.05589650000002],[-121.14690409999997,51.0560031],[-121.1469057,51.05731630000002]]],"type":"Polygon"}
+}

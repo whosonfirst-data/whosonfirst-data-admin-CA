@@ -1,0 +1,120 @@
+{
+  "id": 85894649,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Cariboo - Armstrong",
+    "can-bbygov:OBJECTID_1":"34",
+    "can-bbygov:PSA":"18",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000443,
+    "geom:area_square_m":3577237.254116,
+    "geom:bbox":"-122.933276772,49.2247423436,-122.892565751,49.2462219217",
+    "geom:latitude":49.236516,
+    "geom:longitude":-122.910769,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.236469,
+    "lbl:longitude":-122.91077,
+    "mps:latitude":49.23374,
+    "mps:longitude":-122.920355,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Cariboo Heights"
+    ],
+    "name:eng_x_variant":[
+        "Cariboo - Armstrong"
+    ],
+    "name:unk_x_variant":[
+        "Cariboo Heights"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Cariboo Heights",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":44,
+    "qs:photo_sum":167,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.236469,
+    "reversegeo:longitude":-122.91077,
+    "src:geom":"can-bbygov",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108915099,
+        85633041,
+        101741055,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998720,
+        "qs:id":897470,
+        "qs_pg:id":897470
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"56459fc09c14f4115fa973070a74d960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915099,
+            "neighbourhood_id":85894649,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894649,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335941,
+    "wof:name":"Cariboo-Armstrong",
+    "wof:parent_id":1108915099,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.93327677233721,
+    49.22474234357372,
+    -122.89256575063737,
+    49.24622192171273
+],
+  "geometry": {"coordinates":[[[[-122.90391889708469,49.24620836356276],[-122.90324413304387,49.2461043552264],[-122.89980470919507,49.24556170942726],[-122.89518027036563,49.24383052085913],[-122.89477117023712,49.24359627277408],[-122.89259561062003,49.24243838247827],[-122.89263585475122,49.2391236731504],[-122.89256575063737,49.23779680922172],[-122.89325217559823,49.23780644079376],[-122.8932555663111,49.23762653898831],[-122.89341397621321,49.2376266852527],[-122.89341889130948,49.23753673731614],[-122.89405807966283,49.23755081813429],[-122.89403344794243,49.23802754362215],[-122.89486713270378,49.23803280295847],[-122.8949466190694,49.23617985511899],[-122.89564847484741,49.23618948559245],[-122.89566498997863,49.23568576653132],[-122.89722873151139,49.23532735825893],[-122.91699822937781,49.22474234357372],[-122.92368781476438,49.23009014131669],[-122.92667822194478,49.23243084463056],[-122.92768336626413,49.23195023213523],[-122.93327677233721,49.23647371194522],[-122.92776012928584,49.23670876793987],[-122.92220949839238,49.23832430787321],[-122.91177288650002,49.24453251974386],[-122.90729971489327,49.24599524023071],[-122.90576014750697,49.24614691357542],[-122.90572669110973,49.24612889581253],[-122.90471585566708,49.24618203792289],[-122.90399744591963,49.24622192171273],[-122.90391889708469,49.24620836356276]]]],"type":"MultiPolygon"}
+}

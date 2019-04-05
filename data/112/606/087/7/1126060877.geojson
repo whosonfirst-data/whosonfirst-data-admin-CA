@@ -1,0 +1,89 @@
+{
+  "id": 1126060877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95069,44.24832,-76.95069,44.24832",
+    "geom:latitude":44.24832,
+    "geom:longitude":-76.95069,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":1500,
+    "gn:population":1500,
+    "iso:country":"CA",
+    "lbl:latitude":44.24832,
+    "lbl:longitude":-76.95069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7870927,
+    "qs_pg:gn_pop":1500,
+    "qs_pg:name":"Napanee Downtown",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743263,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736227,
+        890457185,
+        101740731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870927,
+        "qs_pg:id":743263
+    },
+    "wof:country":"CA",
+    "wof:created":1497308083,
+    "wof:geomhash":"1f5482cd4ea9f5036d8c9753b79c865f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457185,
+            "locality_id":101736227,
+            "neighbourhood_id":1126060877,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457185,
+            "locality_id":101740731,
+            "neighbourhood_id":1126060877,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126060877,
+    "wof:lastmodified":1533335718,
+    "wof:name":"Napanee Downtown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95069,
+    44.24832,
+    -76.95069,
+    44.24832
+],
+  "geometry": {"coordinates":[-76.95068999999999,44.24832],"type":"Point"}
+}

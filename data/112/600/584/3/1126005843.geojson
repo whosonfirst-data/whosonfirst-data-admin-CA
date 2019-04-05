@@ -1,0 +1,82 @@
+{
+  "id": 1126005843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.770095,50.77061,-119.770095,50.77061",
+    "geom:latitude":50.77061,
+    "geom:longitude":-119.770095,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":50.77061,
+    "lbl:longitude":-119.770095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Neskonlith Indian Reserve 1",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":921813,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29373053,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373053,
+        "qs_pg:id":921813
+    },
+    "wof:country":"CA",
+    "wof:created":1497299945,
+    "wof:geomhash":"9948bf082d255a0b8fb715a560a86389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":1126005843,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1126005843,
+    "wof:lastmodified":1533335935,
+    "wof:name":"Neskonlith Indian Reserve 1",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.770095,
+    50.77061,
+    -119.770095,
+    50.77061
+],
+  "geometry": {"coordinates":[-119.770095,50.77061],"type":"Point"}
+}

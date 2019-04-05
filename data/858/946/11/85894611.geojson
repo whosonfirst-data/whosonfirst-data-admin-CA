@@ -1,0 +1,114 @@
+{
+  "id": 85894611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-03-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1838445.705108,
+    "geom:bbox":"-123.001792,49.261502,-123.001792,49.261502",
+    "geom:latitude":49.261502,
+    "geom:longitude":-123.001792,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.261502,
+    "lbl:longitude":-123.001792,
+    "mps:latitude":49.262755,
+    "mps:longitude":-122.999755,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"disused",
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Downtown Burnaby"
+    ],
+    "name:unk_x_variant":[
+        "Downtown Burnaby"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Downtown Burnaby",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":78,
+    "qs:photo_sum":519,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        1108915097,
+        85633041,
+        101741055,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998699,
+        "qs:id":1090783,
+        "qs_pg:id":1090783
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cc70a55ba3ce79330e63a9fa55b488d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915097,
+            "neighbourhood_id":85894611,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894611,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931231,
+    "wof:name":"Downtown Burnaby",
+    "wof:parent_id":1108915097,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.001792,
+    49.261502,
+    -123.001792,
+    49.261502
+],
+  "geometry": {"coordinates":[-123.00179199999999,49.261502],"type":"Point"}
+}

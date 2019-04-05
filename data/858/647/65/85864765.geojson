@@ -1,0 +1,89 @@
+{
+  "id": 85864765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1231521.538943,
+    "geom:bbox":"-106.663572,52.132066,-106.663572,52.132066",
+    "geom:latitude":52.132066,
+    "geom:longitude":-106.663572,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":52.132066,
+    "lbl:longitude":-106.663572,
+    "mps:latitude":52.136797,
+    "mps:longitude":-106.669604,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Caswell Hill"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":52.1403,
+    "wd:longitude":-106.676,
+    "wd:wordcount":592,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115063,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403247,
+        "qs:id":467027,
+        "qs_pg:id":467027,
+        "wd:id":"Q5050956"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"1aff8b0a36ce19284fa0c556135eaba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115063,
+            "neighbourhood_id":85864765,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85864765,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531870960,
+    "wof:name":"Caswell Hill",
+    "wof:parent_id":1126115063,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.663572,
+    52.132066,
+    -106.663572,
+    52.132066
+],
+  "geometry": {"coordinates":[-106.663572,52.132066],"type":"Point"}
+}

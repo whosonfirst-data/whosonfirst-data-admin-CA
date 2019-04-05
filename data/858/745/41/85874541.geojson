@@ -1,0 +1,90 @@
+{
+  "id": 85874541,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Industrial",
+    "can-calcai:class_code":"2",
+    "can-calcai:comm_code":"SUN",
+    "can-calcai:comm_structure":"EMPLOYMENT",
+    "can-calcai:name":"SUNRIDGE",
+    "can-calcai:sector":"NORTHEAST",
+    "can-calcai:srg":"N/A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00029,
+    "geom:area_square_m":2254012.457747,
+    "geom:bbox":"-114.001695,51.066949,-113.981711,51.081494",
+    "geom:latitude":51.074224,
+    "geom:longitude":-113.9917,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":51.074427,
+    "lbl:longitude":-113.991589,
+    "mps:latitude":51.074412,
+    "mps:longitude":-113.992064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Sunridge"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855962,
+        "qs:id":897376,
+        "qs_pg:id":897376,
+        "wd:id":"Q7641003"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"fb2a5dc2e557ac1c78fe9653e4349a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":85874541,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85874541,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270641,
+    "wof:name":"Sunridge",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.001695,
+    51.066949,
+    -113.981711,
+    51.081494
+],
+  "geometry": {"coordinates":[[[[-113.993351,51.066957],[-114.001677,51.066949],[-114.001678,51.068085],[-114.001678,51.070566],[-114.001665,51.071161],[-114.00167999999999,51.073411],[-114.001695,51.076876],[-114.001678,51.081485],[-113.998199,51.081486],[-113.99481900000001,51.081488],[-113.99181900000001,51.081488],[-113.988654,51.081494],[-113.985483,51.081493],[-113.98172,51.081492],[-113.98172099999999,51.077524],[-113.981717,51.073894],[-113.981711,51.066966],[-113.993351,51.066957]]]],"type":"MultiPolygon"}
+}

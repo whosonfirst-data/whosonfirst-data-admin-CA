@@ -1,0 +1,69 @@
+{
+  "id": 1108916049,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Richmond Park",
+    "can-bbygov:OBJECTID_1":"27",
+    "can-bbygov:PSA":"34",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":966741.113048,
+    "geom:bbox":"-122.961014095,49.2183574135,-122.941121218,49.2292082892",
+    "geom:latitude":49.222965,
+    "geom:longitude":-122.95147,
+    "iso:country":"CA",
+    "lbl:latitude":49.222817,
+    "lbl:longitude":-122.951319,
+    "mps:latitude":49.222817,
+    "mps:longitude":-122.951319,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":49.222817,
+    "reversegeo:longitude":-122.951319,
+    "src:geom":"can-bbygov",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        1108915103,
+        85633041,
+        101741055,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"346aa7b99dd40b5b9a5eddf6dc51ba0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915103,
+            "neighbourhood_id":1108916049,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1108916049,
+    "wof:lastmodified":1531521009,
+    "wof:name":"Richmond Park",
+    "wof:parent_id":1108915103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.96101409481567,
+    49.21835741353483,
+    -122.9411212180564,
+    49.22920828923849
+],
+  "geometry": {"coordinates":[[[[-122.9411212180564,49.22407801471659],[-122.95122686172562,49.21859111091212],[-122.95165450230323,49.21835741353483],[-122.95620358654416,49.21846267362758],[-122.96101409481567,49.21848238798569],[-122.96101216420935,49.21930095730601],[-122.96100659380284,49.22201752746405],[-122.9472795950132,49.22920828923849],[-122.9411212180564,49.22407801471659]]]],"type":"MultiPolygon"}
+}

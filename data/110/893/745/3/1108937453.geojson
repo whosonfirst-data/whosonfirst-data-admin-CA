@@ -1,0 +1,80 @@
+{
+  "id": 1108937453,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"187",
+    "can-wpgppd:name":"Robertson",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1363670.77723,
+    "geom:bbox":"-97.166759,49.926523,-97.144099,49.94031",
+    "geom:latitude":49.933422,
+    "geom:longitude":-97.155283,
+    "iso:country":"CA",
+    "lbl:latitude":49.933424,
+    "lbl:longitude":-97.155437,
+    "mps:latitude":49.933515,
+    "mps:longitude":-97.155276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Robertson"
+    ],
+    "reversegeo:latitude":49.933515,
+    "reversegeo:longitude":-97.155276,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968519,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359683,
+    "wof:geomhash":"0f9dd55e73b85ec76707d1b2e922cb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968519,
+            "neighbourhood_id":1108937453,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937453,
+    "wof:lastmodified":1531523897,
+    "wof:name":"Robertson",
+    "wof:parent_id":1108968519,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.166759,
+    49.926523,
+    -97.144099,
+    49.94031
+],
+  "geometry": {"coordinates":[[[[-97.159165,49.94023],[-97.166759,49.93158],[-97.151027,49.926523],[-97.150983,49.926611],[-97.148349,49.930017],[-97.148173,49.930162],[-97.144099,49.935431],[-97.145127,49.935762],[-97.15848699999999,49.940062],[-97.158452,49.940102],[-97.158908,49.940248],[-97.15909499999999,49.94031],[-97.159165,49.94023]]]],"type":"MultiPolygon"}
+}

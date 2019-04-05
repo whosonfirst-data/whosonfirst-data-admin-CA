@@ -1,0 +1,75 @@
+{
+  "id": 890456131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31606,46.26681,-76.31606,46.26681",
+    "geom:latitude":46.26681,
+    "geom:longitude":-76.31606,
+    "gn:country":"CA",
+    "gn:fcode":"ADM2",
+    "gn:pop":370000,
+    "gn:population":370000,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Outaouais"
+    ],
+    "name:unk_x_variant":[
+        "Gatineau"
+    ],
+    "qs:name":"Outaouais",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6095306,
+        "qs:id":615526,
+        "wd:id":"Q222948",
+        "wk:page":"Outaouais"
+    },
+    "wof:country":"CA",
+    "wof:created":1469053014,
+    "wof:geomhash":"d597d4708343c3ef9d4799c37c1f2a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456131,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":890456131,
+    "wof:lastmodified":1530120114,
+    "wof:name":"Outaouais",
+    "wof:parent_id":136251273,
+    "wof:placetype":"county",
+    "wof:population":370000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31606,
+    46.26681,
+    -76.31606,
+    46.26681
+],
+  "geometry": {"coordinates":[-76.31605999999999,46.26681],"type":"Point"}
+}

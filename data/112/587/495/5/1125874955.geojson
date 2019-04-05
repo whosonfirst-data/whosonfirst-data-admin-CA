@@ -1,0 +1,89 @@
+{
+  "id": 1125874955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.450869,50.04748,-119.450869,50.04748",
+    "geom:latitude":50.04748,
+    "geom:longitude":-119.450869,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":50.04748,
+    "lbl:longitude":-119.450869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Okanagan Centre"
+    ],
+    "name:eng_x_preferred":[
+        "Okanagan Centre"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Okanagan Centre",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":127,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":127,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":896351,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23405108,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23405108,
+        "qs_pg:id":896351,
+        "wd:id":"Q14874734"
+    },
+    "wof:country":"CA",
+    "wof:created":1497294491,
+    "wof:geomhash":"362968c03355bead64ca87d0a8abf420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458697,
+            "locality_id":1125874955,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125874955,
+    "wof:lastmodified":1531522125,
+    "wof:name":"Okanagan Centre",
+    "wof:parent_id":890458697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.450869,
+    50.04748,
+    -119.450869,
+    50.04748
+],
+  "geometry": {"coordinates":[-119.450869,50.04748],"type":"Point"}
+}

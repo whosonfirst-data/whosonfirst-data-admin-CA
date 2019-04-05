@@ -1,0 +1,82 @@
+{
+  "id": 1108956403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":497187.159967,
+    "geom:bbox":"-73.6626316127,45.5308228376,-73.645786772,45.5376210123",
+    "geom:latitude":45.534493,
+    "geom:longitude":-73.653906,
+    "iso:country":"CA",
+    "lbl:latitude":45.534923,
+    "lbl:longitude":-73.656282,
+    "mps:latitude":45.53441,
+    "mps:longitude":-73.653906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "March\u00e9 Central"
+    ],
+    "name:eng_x_variant":[
+        "Central Market"
+    ],
+    "name:fra_x_preferred":[
+        "March\u00e9 Central"
+    ],
+    "reversegeo:latitude":45.53441,
+    "reversegeo:longitude":-73.653906,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        85897495,
+        102191575,
+        1108955857,
+        85633041,
+        101736545,
+        1108906763,
+        890458661,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"aee344370e7576bc0578f0bf77787d72",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108906763,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458661,
+            "locality_id":101736545,
+            "macrohood_id":1108955857,
+            "microhood_id":1108956403,
+            "neighbourhood_id":85897495,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1108956403,
+    "wof:lastmodified":1533277855,
+    "wof:name":"Marche Central",
+    "wof:parent_id":85897495,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85897497
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66263161272344,
+    45.53082283758133,
+    -73.64578677203343,
+    45.53762101233849
+],
+  "geometry": {"coordinates":[[[[-73.64854645193128,45.53082668953427],[-73.65227342813519,45.53194518636306],[-73.65604620771066,45.53304911519132],[-73.65967809510282,45.53413109063157],[-73.66263161272344,45.53502297365321],[-73.66208891690621,45.53592946321346],[-73.66108878847575,45.53762101233849],[-73.65543103810144,45.53664229476907],[-73.6477296768779,45.53540629817468],[-73.64578677203343,45.53512531793378],[-73.64853281913139,45.53082283758133],[-73.64854645193128,45.53082668953427]]]],"type":"MultiPolygon"}
+}

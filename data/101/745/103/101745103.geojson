@@ -1,0 +1,92 @@
+{
+  "id": 101745103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:bbox":"-123.299931,51.7648223,-123.2823583,51.7703508",
+    "geom:latitude":51.767587,
+    "geom:longitude":-123.291145,
+    "iso:country":"CA",
+    "lbl:latitude":51.767586,
+    "lbl:longitude":-123.291145,
+    "mps:latitude":51.767586,
+    "mps:longitude":-123.291145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Brigham Creek 3"
+    ],
+    "name:epo_x_preferred":[
+        "Universitato Brigham Young-Idaho"
+    ],
+    "name:nor_x_preferred":[
+        "Brigham Young University Idaho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0411\u0440\u0438\u0433\u0430\u043c\u0430 \u042f\u043d\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Brigham Young University\u2013Idaho"
+    ],
+    "name:zho_x_preferred":[
+        "\u694a\u767e\u7ff0\u5927\u5b78\u611b\u9054\u8377\u5206\u6821"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"BRIGHAM CREEK 3",
+    "qs:loc_alt":"BRIGHAM CREEK NO  3",
+    "qs:loc_lc":"d73000d5ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9600
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"49a60731ae5630ce07687d42e250bc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745103,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745103,
+    "wof:lastmodified":1533335903,
+    "wof:name":"Brigham Creek 3",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.299931,
+    51.7648223,
+    -123.2823583,
+    51.77035080000002
+],
+  "geometry": {"coordinates":[[[-123.299931,51.76492430000002],[-123.2998498,51.77035080000002],[-123.2823583,51.7702485],[-123.28244180000002,51.7648223],[-123.299931,51.76492430000002]]],"type":"Polygon"}
+}

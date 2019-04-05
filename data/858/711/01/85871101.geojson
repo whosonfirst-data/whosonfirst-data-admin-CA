@@ -1,0 +1,91 @@
+{
+  "id": 85871101,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"205",
+    "can-wpgppd:name":"Rockwood",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":966413.321199,
+    "geom:bbox":"-97.175536,49.856038,-97.156639,49.868106",
+    "geom:latitude":49.862237,
+    "geom:longitude":-97.167013,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.863011,
+    "lbl:longitude":-97.165645,
+    "mps:latitude":49.857464,
+    "mps:longitude":-97.164441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Rockwood"
+    ],
+    "name:ita_x_preferred":[
+        "Rockwood"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108969341,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373380,
+        "qs:id":1089169,
+        "qs_pg:id":1089169,
+        "wd:id":"Q7355693"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"ff18a61b0f7efa1a0414189785f4ea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108969341,
+            "neighbourhood_id":85871101,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85871101,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523921,
+    "wof:name":"Rockwood",
+    "wof:parent_id":1108969341,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.175536,
+    49.856038,
+    -97.156639,
+    49.868106
+],
+  "geometry": {"coordinates":[[[[-97.172113,49.864548],[-97.172656,49.864373],[-97.172949,49.864238],[-97.173192,49.864065],[-97.173827,49.863469],[-97.17412,49.863257],[-97.174499,49.863098],[-97.174944,49.86301],[-97.17553599999999,49.856038],[-97.17527,49.856061],[-97.174896,49.85611],[-97.17463100000001,49.856158],[-97.174373,49.856241],[-97.156639,49.862164],[-97.161096,49.867708],[-97.161412,49.868106],[-97.16354800000001,49.867399],[-97.16569,49.866687],[-97.167832,49.865974],[-97.169974,49.865261],[-97.172113,49.864548]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1126088839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98716,43.21806,-79.98716,43.21806",
+    "geom:latitude":43.21806,
+    "geom:longitude":-79.98716,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":33232,
+    "gn:population":33232,
+    "iso:country":"CA",
+    "lbl:latitude":43.21806,
+    "lbl:longitude":-79.98716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06a9\u0633\u062a\u0631\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043a\u0430\u0441\u0442\u0435\u0440"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8285452,
+    "qs_pg:gn_pop":33232,
+    "qs_pg:name":"Ancaster",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":344000,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23396959,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735515,
+        890456341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285452,
+        "gp:id":23396959,
+        "qs_pg:id":344000
+    },
+    "wof:country":"CA",
+    "wof:created":1497313271,
+    "wof:geomhash":"63c80e3bd1103563f397cc61fba33aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456341,
+            "locality_id":101735515,
+            "neighbourhood_id":1126088839,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126088839,
+    "wof:lastmodified":1533335720,
+    "wof:name":"Ancaster",
+    "wof:parent_id":101735515,
+    "wof:placetype":"neighbourhood",
+    "wof:population":33232,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98716,
+    43.21806,
+    -79.98716,
+    43.21806
+],
+  "geometry": {"coordinates":[-79.98716,43.21806],"type":"Point"}
+}

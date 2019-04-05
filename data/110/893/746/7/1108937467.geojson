@@ -1,0 +1,79 @@
+{
+  "id": 1108937467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":269761.787478,
+    "geom:bbox":"-97.215644,49.864154,-97.205481,49.869832",
+    "geom:latitude":49.86754,
+    "geom:longitude":-97.209483,
+    "iso:country":"CA",
+    "lbl:latitude":49.867376,
+    "lbl:longitude":-97.210254,
+    "mps:latitude":49.867812,
+    "mps:longitude":-97.209407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Edgeland"
+    ],
+    "reversegeo:latitude":49.867812,
+    "reversegeo:longitude":-97.209407,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108969481,
+        85633041,
+        101734959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56022818,
+        "qs_pg:id":991671
+    },
+    "wof:country":"CA",
+    "wof:created":1491359699,
+    "wof:geomhash":"676483e2fe70945bb23c4d4ebbe431ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101734959,
+            "macrohood_id":1108969481,
+            "neighbourhood_id":1108937467,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937467,
+    "wof:lastmodified":1537229382,
+    "wof:name":"Edgeland",
+    "wof:parent_id":1108969481,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.215644,
+    49.864154,
+    -97.205481,
+    49.869832
+],
+  "geometry": {"coordinates":[[[[-97.21239199999999,49.869832],[-97.215644,49.866565],[-97.211433,49.86642],[-97.21114,49.866396],[-97.210543,49.866304],[-97.21015,49.866212],[-97.20974099999999,49.86606],[-97.209333,49.865875],[-97.20902100000001,49.865691],[-97.208769,49.865441],[-97.20858200000001,49.86521],[-97.208366,49.865026],[-97.207778,49.864659],[-97.207596,49.864556],[-97.20734400000001,49.864454],[-97.207076,49.864362],[-97.20656099999999,49.864234],[-97.20599199999999,49.864154],[-97.20548100000001,49.869561],[-97.20844,49.869677],[-97.21239199999999,49.869832]]]],"type":"MultiPolygon"}
+}

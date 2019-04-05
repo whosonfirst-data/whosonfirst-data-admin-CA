@@ -1,0 +1,82 @@
+{
+  "id": 1125876327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.789967,44.917835,-79.789967,44.917835",
+    "geom:latitude":44.917835,
+    "geom:longitude":-79.789967,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":44.917835,
+    "lbl:longitude":-79.789967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Crooked Bay",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":747,
+    "qs_pg:photos_1k":151,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":747,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":367282,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23400296,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890458545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23400296,
+        "qs_pg:id":367282
+    },
+    "wof:country":"CA",
+    "wof:created":1497294558,
+    "wof:geomhash":"1bee2a31d4e5bb013e8c6d1d702293f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458545,
+            "locality_id":1125876327,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125876327,
+    "wof:lastmodified":1533335703,
+    "wof:name":"Crooked Bay",
+    "wof:parent_id":890458545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.789967,
+    44.917835,
+    -79.789967,
+    44.917835
+],
+  "geometry": {"coordinates":[-79.789967,44.917835],"type":"Point"}
+}

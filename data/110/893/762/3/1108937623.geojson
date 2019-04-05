@@ -1,0 +1,80 @@
+{
+  "id": 1108937623,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"740",
+    "can-wpgppd:name":"River East",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000429,
+    "geom:area_square_m":3411267.956977,
+    "geom:bbox":"-97.0843,49.93947,-97.043721,49.961148",
+    "geom:latitude":49.950289,
+    "geom:longitude":-97.063202,
+    "iso:country":"CA",
+    "lbl:latitude":49.950437,
+    "lbl:longitude":-97.064456,
+    "mps:latitude":49.950785,
+    "mps:longitude":-97.062949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "River East"
+    ],
+    "reversegeo:latitude":49.950785,
+    "reversegeo:longitude":-97.062949,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968465,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359802,
+    "wof:geomhash":"ef604b1fb64cd87fecaf5c588c943465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968465,
+            "neighbourhood_id":1108937623,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937623,
+    "wof:lastmodified":1531523912,
+    "wof:name":"River East",
+    "wof:parent_id":1108968465,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.0843,
+    49.93947,
+    -97.043721,
+    49.961148
+],
+  "geometry": {"coordinates":[[[[-97.058223,49.93947],[-97.04372100000001,49.95092],[-97.04389399999999,49.950997],[-97.06442300000001,49.960133],[-97.06491200000001,49.960351],[-97.065264,49.960507],[-97.065617,49.960664],[-97.065862,49.960773],[-97.06606600000001,49.960864],[-97.06652699999999,49.961069],[-97.06670099999999,49.961148],[-97.07028800000001,49.958691],[-97.07231,49.956805],[-97.083674,49.948122],[-97.0843,49.947576],[-97.08019899999999,49.947053],[-97.07740200000001,49.946683],[-97.072878,49.945373],[-97.070571,49.944675],[-97.064317,49.942573],[-97.063106,49.942165],[-97.06173800000001,49.941547],[-97.05977900000001,49.940573],[-97.058223,49.93947]]]],"type":"MultiPolygon"}
+}

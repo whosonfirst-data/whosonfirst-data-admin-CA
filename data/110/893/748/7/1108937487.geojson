@@ -1,0 +1,81 @@
+{
+  "id": 1108937487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":563540.426831,
+    "geom:bbox":"-97.277749,49.858519,-97.2656,49.867851",
+    "geom:latitude":49.863132,
+    "geom:longitude":-97.27129,
+    "iso:country":"CA",
+    "lbl:latitude":49.863024,
+    "lbl:longitude":-97.27148,
+    "mps:latitude":49.863373,
+    "mps:longitude":-97.271174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Marlton"
+    ],
+    "reversegeo:latitude":49.863373,
+    "reversegeo:longitude":-97.271174,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968509,
+        85633041,
+        101734959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6064938,
+        "gp:id":26332865,
+        "qs_pg:id":1026101,
+        "wd:id":"Q6772010"
+    },
+    "wof:country":"CA",
+    "wof:created":1491359711,
+    "wof:geomhash":"ba534a853b18ddd1fcf22d83b2f83f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101734959,
+            "macrohood_id":1108968509,
+            "neighbourhood_id":1108937487,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937487,
+    "wof:lastmodified":1537229383,
+    "wof:name":"Marlton",
+    "wof:parent_id":1108968509,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.277749,
+    49.858519,
+    -97.2656,
+    49.867851
+],
+  "geometry": {"coordinates":[[[[-97.27393600000001,49.86654],[-97.277749,49.858519],[-97.27240500000001,49.859441],[-97.26834700000001,49.859286],[-97.267511,49.859254],[-97.26741199999999,49.86079],[-97.267038,49.864463],[-97.266094,49.866371],[-97.26560000000001,49.867851],[-97.268298,49.86761],[-97.272814,49.867206],[-97.27393600000001,49.86654]]]],"type":"MultiPolygon"}
+}

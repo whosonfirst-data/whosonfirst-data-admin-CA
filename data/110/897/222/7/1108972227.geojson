@@ -1,0 +1,74 @@
+{
+  "id": 1108972227,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Richford",
+    "can-edmdsd:number":"5451",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":588942.390545,
+    "geom:bbox":"-113.516598139,53.4247492982,-113.49744191,53.4297904191",
+    "geom:latitude":53.426942,
+    "geom:longitude":-113.507631,
+    "iso:country":"CA",
+    "lbl:latitude":53.427051,
+    "lbl:longitude":-113.507631,
+    "mps:latitude":53.427051,
+    "mps:longitude":-113.507631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Richford"
+    ],
+    "reversegeo:latitude":53.427051,
+    "reversegeo:longitude":-113.507631,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970579,
+        85633041,
+        890458485,
+        1108971223,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7330449"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"e51c65fba87a1ac41f404e9255d3b4a6",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971223,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970579,
+            "neighbourhood_id":1108972227,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972227,
+    "wof:lastmodified":1513925453,
+    "wof:name":"Richford",
+    "wof:parent_id":1108970579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.51659813901121,
+    53.42474929817079,
+    -113.49744191000728,
+    53.42979041908286
+],
+  "geometry": {"coordinates":[[[[-113.49878919981472,53.42806525868131],[-113.49805161983076,53.4270027284317],[-113.49744191000728,53.42700227859305],[-113.49752145016765,53.42501446865656],[-113.497521076181,53.42474929817079],[-113.50034616734,53.42475821166194],[-113.5006151591662,53.42482270048237],[-113.5043011509929,53.42482787056558],[-113.50903381391815,53.42480049595132],[-113.516556029789,53.42479903291467],[-113.51654864805471,53.42919844575129],[-113.51659813901121,53.42942961749196],[-113.51370308016769,53.42943119548374],[-113.5134392997339,53.42929149866741],[-113.50411296002204,53.42929415831345],[-113.50411348425557,53.42979041908286],[-113.50281569030001,53.42877591835018],[-113.49878919981472,53.42806525868131]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1108972423,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"West Meadowlark Park",
+    "can-edmdsd:number":"4590",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:area_square_m":1112639.909676,
+    "geom:bbox":"-113.615355683,53.5195224698,-113.602703304,53.5316884346",
+    "geom:latitude":53.525593,
+    "geom:longitude":-113.609041,
+    "iso:country":"CA",
+    "lbl:latitude":53.525589,
+    "lbl:longitude":-113.609041,
+    "mps:latitude":53.525589,
+    "mps:longitude":-113.609041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "West Meadowlark Park"
+    ],
+    "reversegeo:latitude":53.525589,
+    "reversegeo:longitude":-113.609041,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970659,
+        85633041,
+        890458485,
+        1108971557,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7985872"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"4cd8133f94092d2a17ca9fea7a1017a0",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971557,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970659,
+            "neighbourhood_id":1108972423,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972423,
+    "wof:lastmodified":1513926193,
+    "wof:name":"West Meadowlark Park",
+    "wof:parent_id":1108970659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.61535568343923,
+    53.51952246977527,
+    -113.6027033038922,
+    53.53168843461118
+],
+  "geometry": {"coordinates":[[[[-113.61530208971608,53.52677032430351],[-113.61516413836429,53.53168843461118],[-113.61060248334317,53.53165397257624],[-113.6072573752257,53.53162049684568],[-113.6027033038922,53.53159971755159],[-113.60272792219071,53.52834544837858],[-113.60276675945808,53.52672098723879],[-113.60280899107461,53.52373633101305],[-113.60281444573556,53.52249258818652],[-113.60287825050054,53.51952246977527],[-113.6054538329399,53.51953488606456],[-113.60883326720354,53.51953605634775],[-113.61079464388318,53.51956130922489],[-113.61531596615988,53.51955447261711],[-113.61535568343923,53.52485931616554],[-113.61530208971608,53.52677032430351]]]],"type":"MultiPolygon"}
+}

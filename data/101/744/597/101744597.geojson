@@ -1,0 +1,77 @@
+{
+  "id": 101744597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:bbox":"-124.7887612,56.7781827,-124.7755616,56.792647",
+    "geom:latitude":56.785415,
+    "geom:longitude":-124.78216,
+    "iso:country":"CA",
+    "lbl:latitude":56.785415,
+    "lbl:longitude":-124.782161,
+    "mps:latitude":56.785415,
+    "mps:longitude":-124.782161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Police Meadow 2"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"POLICE MEADOW 2",
+    "qs:loc_alt":"POLICE MEADOW NO 2",
+    "qs:loc_lc":"6239d5a7ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29374044
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"21bbcac3d29434d06412f493c6409e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457207,
+            "locality_id":101744597,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744597,
+    "wof:lastmodified":1533335896,
+    "wof:name":"Police Meadow 2",
+    "wof:parent_id":890457207,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.78876120000001,
+    56.7781827,
+    -124.7755616,
+    56.792647
+],
+  "geometry": {"coordinates":[[[-124.78876120000001,56.79263859999998],[-124.78380049999998,56.79264189999998],[-124.77558999999999,56.792647],[-124.7755757,56.785419],[-124.7755626,56.7786941],[-124.7755616,56.778191],[-124.77664140000002,56.77819040000003],[-124.78872869999998,56.7781827],[-124.7887417,56.7839495],[-124.7887533,56.78913540000002],[-124.78876120000001,56.79263859999998]]],"type":"Polygon"}
+}

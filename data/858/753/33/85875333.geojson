@@ -1,0 +1,105 @@
+{
+  "id": 85875333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7282392.491887,
+    "geom:bbox":"-122.342515,49.054238,-122.342515,49.054238",
+    "geom:latitude":49.054238,
+    "geom:longitude":-122.342515,
+    "iso:country":"CA",
+    "lbl:latitude":49.054238,
+    "lbl:longitude":-122.342515,
+    "mps:latitude":49.048526,
+    "mps:longitude":-122.349806,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "West Clearbrook"
+    ],
+    "name:unk_x_variant":[
+        "West Clearbrook"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5881791,
+    "qs:id":0,
+    "qs:local_max":1507,
+    "qs:local_sum":6734,
+    "qs:localhoods":20,
+    "qs:name":"West Clearbrook",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Fraser Valley",
+    "qs:name_local":"Abbotsford",
+    "qs:photo_max":279,
+    "qs:photo_sum":883,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":36,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375118,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9827,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101740961,
+        890458867,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856460
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a4646821027c1731288b6c9e9d29bbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458867,
+            "locality_id":101740961,
+            "neighbourhood_id":85875333,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85875333,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872080,
+    "wof:name":"West Clearbrook",
+    "wof:parent_id":101740961,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.342515,
+    49.054238,
+    -122.342515,
+    49.054238
+],
+  "geometry": {"coordinates":[-122.34251500000001,49.054238],"type":"Point"}
+}

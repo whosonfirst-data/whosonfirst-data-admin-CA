@@ -1,0 +1,84 @@
+{
+  "id": 85894535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1438974.274093,
+    "geom:bbox":"-113.276094,53.515651,-113.276094,53.515651",
+    "geom:latitude":53.515651,
+    "geom:longitude":-113.276094,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":53.515651,
+    "lbl:longitude":-113.276094,
+    "mps:latitude":53.515881,
+    "mps:longitude":-113.273651,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Nottingham"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682091,
+        102191575,
+        85633041,
+        890456619,
+        1158863243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998562,
+        "qs:id":1070820,
+        "qs_pg:id":1070820
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6f88bbb0393489aa8ef0e6c0270724e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863243,
+            "locality_id":890456619,
+            "neighbourhood_id":85894535,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85894535,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533250199,
+    "wof:name":"Nottingham",
+    "wof:parent_id":890456619,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.276094,
+    53.515651,
+    -113.276094,
+    53.515651
+],
+  "geometry": {"coordinates":[-113.276094,53.515651],"type":"Point"}
+}

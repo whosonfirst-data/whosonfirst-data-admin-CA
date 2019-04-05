@@ -1,0 +1,69 @@
+{
+  "id": 1108963915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":89165.356729,
+    "geom:bbox":"-114.071547035,51.0446799547,-114.065417798,51.0467316985",
+    "geom:latitude":51.045709,
+    "geom:longitude":-114.06851,
+    "iso:country":"CA",
+    "lbl:latitude":51.04548,
+    "lbl:longitude":-114.063199,
+    "mps:latitude":51.045705,
+    "mps:longitude":-114.068512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":51.045705,
+    "reversegeo:longitude":-114.068512,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        1108964119,
+        102191575,
+        1108963897,
+        85633041,
+        890458845,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"025bcb0141dbc3bb2bbac4fbc7ba46f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "macrohood_id":1108963897,
+            "microhood_id":1108963915,
+            "neighbourhood_id":1108964119,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108963915,
+    "wof:lastmodified":1507246005,
+    "wof:name":"Stephen Avenue Walk",
+    "wof:parent_id":1108964119,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85866631
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.07154703547195,
+    51.04467995472807,
+    -114.06541779843859,
+    51.04673169850884
+],
+  "geometry": {"coordinates":[[[[-114.07154703547195,51.04673169850884],[-114.06674868437672,51.04661163237459],[-114.06541779843859,51.04657035956906],[-114.06556700089801,51.04467995472807],[-114.0715052587833,51.04482936409712],[-114.07154703547195,51.04673169850884]]]],"type":"MultiPolygon"}
+}

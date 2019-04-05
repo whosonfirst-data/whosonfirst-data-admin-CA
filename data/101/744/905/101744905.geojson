@@ -1,0 +1,77 @@
+{
+  "id": 101744905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:bbox":"-122.623634,52.4975227,-122.6087895,52.5083894",
+    "geom:latitude":52.502957,
+    "geom:longitude":-122.61621,
+    "iso:country":"CA",
+    "lbl:latitude":52.502956,
+    "lbl:longitude":-122.61621,
+    "mps:latitude":52.502956,
+    "mps:longitude":-122.61621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mckay Meadow 4"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MCKAY MEADOW 4",
+    "qs:loc_alt":"MCKAY MEADOW NO 4",
+    "qs:loc_lc":"990cad0bba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9573
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9d8b18d03add2734aa5968afe677ca42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101744905,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744905,
+    "wof:lastmodified":1533335901,
+    "wof:name":"Mckay Meadow 4",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.623634,
+    52.4975227,
+    -122.6087895,
+    52.5083894
+],
+  "geometry": {"coordinates":[[[-122.623634,52.50837530000001],[-122.62244939999999,52.5083765],[-122.610889,52.5083876],[-122.6088115,52.5083894],[-122.60880789999999,52.50660640000001],[-122.60880070000002,52.503083],[-122.60879730000001,52.501385],[-122.6087895,52.49753709999999],[-122.6194284,52.49752690000003],[-122.62300190000002,52.49752330000001],[-122.62360580000001,52.4975227],[-122.62361279999999,52.5002043],[-122.62361470000002,52.5009182],[-122.62363240000002,52.50775879999998],[-122.623634,52.50837530000001]]],"type":"Polygon"}
+}

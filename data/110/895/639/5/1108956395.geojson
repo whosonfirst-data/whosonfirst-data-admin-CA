@@ -1,0 +1,80 @@
+{
+  "id": 1108956395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":305019.906419,
+    "geom:bbox":"-73.7032985966,45.5198259742,-73.6922423141,45.5262573983",
+    "geom:latitude":45.523065,
+    "geom:longitude":-73.697788,
+    "iso:country":"CA",
+    "lbl:latitude":45.523333,
+    "lbl:longitude":-73.698576,
+    "mps:latitude":45.523097,
+    "mps:longitude":-73.697789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Norvick"
+    ],
+    "name:eng_x_variant":[
+        "Norvick Area"
+    ],
+    "name:fra_x_preferred":[
+        "Norvick"
+    ],
+    "reversegeo:latitude":45.523097,
+    "reversegeo:longitude":-73.697789,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        1108959427,
+        102191575,
+        85633041,
+        101736545,
+        1108955739,
+        890458661,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"3412302cf50efcac943f14b12ae446b6",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108955739,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458661,
+            "locality_id":101736545,
+            "microhood_id":1108956395,
+            "neighbourhood_id":1108959427,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1108956395,
+    "wof:lastmodified":1533277855,
+    "wof:name":"Norvick",
+    "wof:parent_id":1108959427,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85895729
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.7032985965968,
+    45.51982597424537,
+    -73.69224231405573,
+    45.52625739830395
+],
+  "geometry": {"coordinates":[[[[-73.69224231405573,45.52225954759626],[-73.69435839129389,45.5211095385888],[-73.69514158869144,45.52071314637775],[-73.69574390020358,45.52041517632652],[-73.69642126011497,45.52008349769807],[-73.69680804801892,45.51989473734923],[-73.69690426391543,45.51984889527999],[-73.69695237186367,45.51982597424537],[-73.6981706041104,45.52059541017493],[-73.70250885373727,45.52324455976793],[-73.70223137651637,45.52345500653884],[-73.7032985965968,45.52412468313839],[-73.69847449453351,45.52625739830395],[-73.69843146443246,45.52622861976998],[-73.69613504366001,45.52477731471092],[-73.69516666689498,45.52416531333978],[-73.69224400709992,45.52226062465935],[-73.69224231405573,45.52225954759626]]]],"type":"MultiPolygon"}
+}

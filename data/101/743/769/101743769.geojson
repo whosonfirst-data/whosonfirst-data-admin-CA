@@ -1,0 +1,75 @@
+{
+  "id": 101743769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:bbox":"-129.1382363,59.6472795,-129.1096695,59.6596748",
+    "geom:latitude":59.654658,
+    "geom:longitude":-129.126836,
+    "iso:country":"CA",
+    "lbl:latitude":59.653977,
+    "lbl:longitude":-129.127992,
+    "mps:latitude":59.653977,
+    "mps:longitude":-129.127992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dease River 2 (Liard)"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"DEASE RIVER 2 (LIARD)",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE DEASE RIVER NO 2 (LIARD RIVER BAND)",
+    "qs:loc_lc":"4059d909ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        1158868595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"10e18af287a65333a0c61a0d616de026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868595,
+            "locality_id":101743769,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743769,
+    "wof:lastmodified":1533335882,
+    "wof:name":"Dease River 2 (Liard)",
+    "wof:parent_id":1158868595,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -129.13823630000002,
+    59.64727950000002,
+    -129.1096695,
+    59.6596748
+],
+  "geometry": {"coordinates":[[[-129.11959200000001,59.6534413],[-129.11942199999999,59.6529635],[-129.11953449999999,59.65243570000001],[-129.11986239999999,59.6520759],[-129.12025139999997,59.65175870000002],[-129.12135560000002,59.65130390000002],[-129.12329640000002,59.65021289999999],[-129.12960149999998,59.6476419],[-129.13120470000001,59.64732809999998],[-129.13306030000001,59.64727950000002],[-129.13579420000002,59.6473734],[-129.1381882,59.6475964],[-129.13818839999999,59.6476515],[-129.13823630000002,59.6596457],[-129.10968170000001,59.6596748],[-129.1096695,59.65606250000002],[-129.11279230000002,59.65527959999997],[-129.11541890000001,59.65469309999997],[-129.11890060000002,59.65396040000002],[-129.11959200000001,59.6534413]]],"type":"Polygon"}
+}

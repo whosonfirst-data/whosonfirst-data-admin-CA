@@ -1,0 +1,106 @@
+{
+  "id": 85895779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-05-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":432685.006551,
+    "geom:bbox":"-73.9544677734,45.4091717853,-73.9434814453,45.4158043106",
+    "geom:latitude":45.412259,
+    "geom:longitude":-73.948765,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.411949,
+    "lbl:longitude":-73.948975,
+    "mps:latitude":45.412598,
+    "mps:longitude":-73.94701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"no reliable reference",
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Centre Ville"
+    ],
+    "name:fre_x_preferred":[
+        "Centre Ville"
+    ],
+    "name:unk_x_variant":[
+        "Centre Ville"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6077243,
+    "qs:local_max":28614,
+    "qs:local_sum":313611,
+    "qs:localhoods":127,
+    "qs:name":"Centre Ville",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Qu\u00e9bec",
+    "qs:name_adm2":"Montr\u00e9al",
+    "qs:name_local":"Montr\u00e9al",
+    "qs:photo_max":1,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344924,
+    "qs:woe_adm2":29375198,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":3534,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        101736473,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999770,
+        "qs:id":384932
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e7172e4ad938d695f567bfd8f7fa37b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736473,
+            "neighbourhood_id":85895779,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":85895779,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1527270258,
+    "wof:name":"Centre Ville",
+    "wof:parent_id":101736473,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95446777342087,
+    45.40917178533375,
+    -73.94348144529994,
+    45.41580431060036
+],
+  "geometry": {"coordinates":[[[-73.94473205601236,45.41484043507508],[-73.94450648071916,45.41387646080001],[-73.94348144529994,45.41387646080001],[-73.94348144529994,45.41002023460005],[-73.94450647302068,45.41002023460005],[-73.94450648841763,45.41002016880053],[-73.94794954318559,45.41002016880053],[-73.94794958937797,45.41002023460005],[-73.94897460940007,45.41002023460005],[-73.95204966940278,45.41002023460005],[-73.9538365456645,45.40917178533375],[-73.95388287532415,45.40918701446513],[-73.95446777342087,45.41002016880053],[-73.95446777340825,45.41002023460005],[-73.95446777341556,45.41387639497553],[-73.95446777340001,45.41387646080001],[-73.94897460940007,45.41387646080001],[-73.94897456316727,45.4138764608001],[-73.94762125002376,45.41580431060036],[-73.94585975534875,45.41580431060036],[-73.94473205601236,45.41484043507508]]],"type":"Polygon"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 102554465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6869,49.7139,-83.6869,49.7139",
+    "geom:latitude":49.7139,
+    "geom:longitude":-83.6869,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hearst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0631\u0633\u062a"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Hearst Mun"
+    ],
+    "name:pms_x_preferred":[
+        "Hearst"
+    ],
+    "name:swe_x_preferred":[
+        "Hearst"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0440\u0441\u0442"
+    ],
+    "oa:elevation_ft":"827",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375242,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101735693,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511693,
+        "iata:code":"YHF",
+        "icao:code":"CYHF",
+        "oa:id":"1759",
+        "wd:id":"Q3888430"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"618705c9cf0575753bf90003e8c0418e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554465,
+            "country_id":85633041,
+            "locality_id":101735693,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554465,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Hearst Municipal Airport",
+    "wof:parent_id":101735693,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.6869,
+    49.7139,
+    -83.6869,
+    49.7139
+],
+  "geometry": {"coordinates":[-83.68689999999999,49.7139],"type":"Point"}
+}

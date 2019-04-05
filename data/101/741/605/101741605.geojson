@@ -1,0 +1,77 @@
+{
+  "id": 101741605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-112.5090906,56.2002419,-112.5079121,56.2010632",
+    "geom:latitude":56.200707,
+    "geom:longitude":-112.508509,
+    "iso:country":"CA",
+    "lbl:latitude":56.20072,
+    "lbl:longitude":-112.508544,
+    "mps:latitude":56.20072,
+    "mps:longitude":-112.508544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "House River Indian Cemetery 178"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Alberta",
+    "qs:a1_lc":"AB",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"HOUSE RIVER INDIAN CEMETERY 178",
+    "qs:loc_alt":"HOUSE RIVER INDIAN CEMETERY NO  178",
+    "qs:loc_lc":"b9c8b491ffb311dda89a080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682091,
+        1158863321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23404411
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"63b625897adbb8782b3607b8f7940caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863321,
+            "locality_id":101741605,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":101741605,
+    "wof:lastmodified":1533250160,
+    "wof:name":"House River Indian Cemetery 178",
+    "wof:parent_id":1158863321,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.50909059999998,
+    56.2002419,
+    -112.5079121,
+    56.20106320000002
+],
+  "geometry": {"coordinates":[[[-112.50791220000002,56.20106320000002],[-112.5079121,56.20087439999998],[-112.5081576,56.2008743],[-112.50815729999999,56.20031590000002],[-112.50815720000003,56.200242],[-112.5086604,56.2002419],[-112.50872179999999,56.2002419],[-112.508843,56.20051389999998],[-112.50893380000002,56.200673],[-112.50895550000001,56.20073009999999],[-112.5089827,56.2007865],[-112.50901540000001,56.200842],[-112.50909059999998,56.201063],[-112.50791220000002,56.20106320000002]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1108937407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":1720726.525614,
+    "geom:bbox":"-97.195524,49.862994,-97.17405,49.874186",
+    "geom:latitude":49.868586,
+    "geom:longitude":-97.184805,
+    "iso:country":"CA",
+    "lbl:latitude":49.868889,
+    "lbl:longitude":-97.184505,
+    "mps:latitude":49.868583,
+    "mps:longitude":-97.184805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "North River Heights"
+    ],
+    "reversegeo:latitude":49.868583,
+    "reversegeo:longitude":-97.184805,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968513,
+        85633041,
+        101734959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23402440,
+        "qs_pg:id":990102
+    },
+    "wof:country":"CA",
+    "wof:created":1491359653,
+    "wof:geomhash":"11975b204a24cec501b0d77ce9b01c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101734959,
+            "macrohood_id":1108968513,
+            "neighbourhood_id":1108937407,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937407,
+    "wof:lastmodified":1537229380,
+    "wof:name":"North River Heights",
+    "wof:parent_id":1108968513,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.195524,
+    49.862994,
+    -97.17405,
+    49.874186
+],
+  "geometry": {"coordinates":[[[[-97.194698,49.874186],[-97.17404999999999,49.87342],[-97.17425,49.87098],[-97.174347,49.869966],[-97.174446,49.86884],[-97.174527,49.867798],[-97.174623,49.866641],[-97.174716,49.865723],[-97.174797,49.864681],[-97.174944,49.86301],[-97.17519299999999,49.862994],[-97.19552400000001,49.863739],[-97.194973,49.870717],[-97.194748,49.873549],[-97.194698,49.874186]]]],"type":"MultiPolygon"}
+}

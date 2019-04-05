@@ -1,0 +1,84 @@
+{
+  "id": 85894523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1463625.520887,
+    "geom:bbox":"-113.252792,53.548332,-113.252792,53.548332",
+    "geom:latitude":53.548332,
+    "geom:longitude":-113.252792,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":53.548332,
+    "lbl:longitude":-113.252792,
+    "mps:latitude":53.550944,
+    "mps:longitude":-113.260695,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Clarkdale Meadows"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682091,
+        102191575,
+        85633041,
+        890456619,
+        1158863243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998551,
+        "qs:id":68927,
+        "qs_pg:id":68927
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"4e229e3cab939cdf0b2d8488eadc4b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863243,
+            "locality_id":890456619,
+            "neighbourhood_id":85894523,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85894523,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533250198,
+    "wof:name":"Clarkdale Meadows",
+    "wof:parent_id":890456619,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.252792,
+    53.548332,
+    -113.252792,
+    53.548332
+],
+  "geometry": {"coordinates":[-113.252792,53.548332],"type":"Point"}
+}

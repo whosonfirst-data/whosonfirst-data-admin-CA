@@ -1,0 +1,69 @@
+{
+  "id": 1108916057,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Second Street",
+    "can-bbygov:OBJECTID_1":"37",
+    "can-bbygov:PSA":"19",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1101031.928248,
+    "geom:bbox":"-122.936880689,49.2189745021,-122.916998229,49.2324308446",
+    "geom:latitude":49.225697,
+    "geom:longitude":-122.927044,
+    "iso:country":"CA",
+    "lbl:latitude":49.225686,
+    "lbl:longitude":-122.927194,
+    "mps:latitude":49.225686,
+    "mps:longitude":-122.927194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":49.225686,
+    "reversegeo:longitude":-122.927194,
+    "src:geom":"can-bbygov",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        1108915099,
+        85633041,
+        101741055,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"cba0f5d87a799666de9bd69272ad22ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915099,
+            "neighbourhood_id":1108916057,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1108916057,
+    "wof:lastmodified":1531521011,
+    "wof:name":"Second Street",
+    "wof:parent_id":1108915099,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.93688068899054,
+    49.21897450209882,
+    -122.91699822937781,
+    49.23243084463056
+],
+  "geometry": {"coordinates":[[[[-122.91699822937781,49.22474234357372],[-122.9275868631329,49.21897450209882],[-122.93374228449478,49.22383114565613],[-122.93688068899054,49.22630660114149],[-122.93402107412037,49.22782970013444],[-122.93447592871405,49.22823474576851],[-122.93351725688051,49.22873343493006],[-122.92768336626413,49.23195023213523],[-122.92667822194478,49.23243084463056],[-122.92368781476438,49.23009014131669],[-122.91699822937781,49.22474234357372]]]],"type":"MultiPolygon"}
+}

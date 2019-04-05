@@ -1,0 +1,82 @@
+{
+  "id": 1125907489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.098089,45.005911,-72.098089,45.005911",
+    "geom:latitude":45.005911,
+    "geom:longitude":-72.098089,
+    "gn:gn_country":"CA",
+    "iso:country":"CA",
+    "lbl:latitude":45.005911,
+    "lbl:longitude":-72.098089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:name":"Rock Island",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":159,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":159,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":226505,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1362,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1362,
+        "qs_pg:id":226505
+    },
+    "wof:country":"CA",
+    "wof:created":1497296034,
+    "wof:geomhash":"a87d2cce879b872ead1e548672567651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456455,
+            "locality_id":1125907489,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125907489,
+    "wof:lastmodified":1533335706,
+    "wof:name":"Rock Island",
+    "wof:parent_id":890456455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.098089,
+    45.005911,
+    -72.098089,
+    45.005911
+],
+  "geometry": {"coordinates":[-72.098089,45.005911],"type":"Point"}
+}

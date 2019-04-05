@@ -1,0 +1,77 @@
+{
+  "id": 101745271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-124.9699739,54.9918986,-124.9689456,54.9925167",
+    "geom:latitude":54.992213,
+    "geom:longitude":-124.969462,
+    "iso:country":"CA",
+    "lbl:latitude":54.992214,
+    "lbl:longitude":-124.96943,
+    "mps:latitude":54.992214,
+    "mps:longitude":-124.96943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tsaz Chech 27"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"TSAZ CHECH 27",
+    "qs:loc_alt":"TSAZ CHECH NO 27",
+    "qs:loc_lc":"5384c569ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56121137
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"0d7de31b82809dcd5008dfb3fd27c6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":101745271,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745271,
+    "wof:lastmodified":1533335906,
+    "wof:name":"Tsaz Chech 27",
+    "wof:parent_id":890458087,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.96997390000001,
+    54.99189860000001,
+    -124.96894559999998,
+    54.99251670000001
+],
+  "geometry": {"coordinates":[[[-124.96997390000001,54.99250039999998],[-124.96897420000001,54.99251670000001],[-124.96895160000003,54.99205369999999],[-124.968947,54.99196],[-124.96894559999998,54.99193309999998],[-124.96911069999999,54.99193029999998],[-124.96926330000002,54.99192540000001],[-124.96943659999999,54.99191910000002],[-124.9696017,54.991914],[-124.96979349999999,54.991905],[-124.96994439999997,54.99189860000001],[-124.96994710000001,54.99195250000002],[-124.96997390000001,54.99250039999998]]],"type":"Polygon"}
+}

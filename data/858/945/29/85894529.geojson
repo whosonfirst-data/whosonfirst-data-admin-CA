@@ -1,0 +1,107 @@
+{
+  "id": 85894529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":741969.821383,
+    "geom:bbox":"-113.271446,53.534255,-113.271446,53.534255",
+    "geom:latitude":53.534255,
+    "geom:longitude":-113.271446,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":53.534255,
+    "lbl:longitude":-113.271446,
+    "mps:latitude":53.528328,
+    "mps:longitude":-113.2729,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"street",
+    "mz:tier_locality":1,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Glencoe"
+    ],
+    "name:unk_x_variant":[
+        "Glencoe"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":4,
+    "qs:local_sum":5,
+    "qs:localhoods":2,
+    "qs:name":"Glencoe",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Alberta",
+    "qs:name_adm2":"Alberta",
+    "qs:name_local":"Glen Allen",
+    "qs:photo_max":2,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344915,
+    "qs:woe_adm2":29375228,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55998555,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        890456619,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998556,
+        "qs:id":1070818,
+        "qs_pg:id":1070818
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c91849d982b8825cc7c0f9cfb5f1175a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890456619,
+            "neighbourhood_id":85894529,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85894529,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931207,
+    "wof:name":"Glencoe",
+    "wof:parent_id":890456619,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.271446,
+    53.534255,
+    -113.271446,
+    53.534255
+],
+  "geometry": {"coordinates":[-113.271446,53.534255],"type":"Point"}
+}

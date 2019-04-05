@@ -1,0 +1,72 @@
+{
+  "id": 1108972475,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Youngstown Industrial",
+    "can-edmdsd:number":"4660",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":481936.740972,
+    "geom:bbox":"-113.616003849,53.5434963239,-113.605173065,53.555962132",
+    "geom:latitude":53.551532,
+    "geom:longitude":-113.611963,
+    "iso:country":"CA",
+    "lbl:latitude":53.552572,
+    "lbl:longitude":-113.611962,
+    "mps:latitude":53.552572,
+    "mps:longitude":-113.611962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Youngstown Industrial"
+    ],
+    "reversegeo:latitude":53.552572,
+    "reversegeo:longitude":-113.611962,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"675cd80b836b5129a1441cae4cf852be",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108972475,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972475,
+    "wof:lastmodified":1507246080,
+    "wof:name":"Youngstown Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.61600384949641,
+    53.54349632385622,
+    -113.60517306486945,
+    53.55596213204586
+],
+  "geometry": {"coordinates":[[[[-113.60517306486945,53.55594869912666],[-113.60841683818273,53.55194049544276],[-113.61099423066275,53.54843805004795],[-113.61266655987812,53.54632059018171],[-113.61387272569779,53.54497547656462],[-113.61491771166081,53.54379066938818],[-113.61542618177259,53.54349632385622],[-113.61588011220147,53.54403636354326],[-113.61600384949641,53.54438773466811],[-113.61599207405563,53.54477117445445],[-113.61585754595677,53.54524305209544],[-113.61553706759996,53.54631553014665],[-113.61522375773524,53.54737382816777],[-113.6151837155239,53.54863122497673],[-113.61518260612782,53.54893625438977],[-113.61519627601555,53.55324972161165],[-113.61522759100002,53.55596213204586],[-113.60823014145156,53.55596192439791],[-113.60517306486945,53.55594869912666]]]],"type":"MultiPolygon"}
+}

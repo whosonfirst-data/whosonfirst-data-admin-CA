@@ -1,0 +1,118 @@
+{
+  "id": 85874763,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"116",
+    "can-wpgppd:name":"Broadway-Assiniboine",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":340049.565392,
+    "geom:bbox":"-97.145458,49.882263,-97.133111,49.888839",
+    "geom:latitude":49.885752,
+    "geom:longitude":-97.139493,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.885825,
+    "lbl:longitude":-97.139499,
+    "mps:latitude":49.885786,
+    "mps:longitude":-97.137541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Broadway-Assiniboine"
+    ],
+    "name:eng_x_variant":[
+        "Broadway Assiniboine"
+    ],
+    "name:unk_x_variant":[
+        "Broadway Assimboine"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6183235,
+    "qs:gn_nam_loc":"Winnipeg, Manitoba, Manitoba, CA",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":4766,
+    "qs:local_sum":55180,
+    "qs:localhoods":116,
+    "qs:name":"Broadway Assimboine",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Manitoba",
+    "qs:name_adm2":"Manitoba",
+    "qs:name_local":"Winnipeg",
+    "qs:photo_max":715,
+    "qs:photo_sum":1672,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344917,
+    "qs:woe_adm2":29375231,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":2972,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.885697,
+    "reversegeo:longitude":-97.139493,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968511,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856096,
+        "qs:id":899240,
+        "qs_pg:id":899240
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e523ffd85be9bc6324905db306890606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968511,
+            "neighbourhood_id":85874763,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85874763,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523917,
+    "wof:name":"Broadway Assiniboine",
+    "wof:parent_id":1108968511,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.145458,
+    49.882263,
+    -97.133111,
+    49.888839
+],
+  "geometry": {"coordinates":[[[[-97.133111,49.885637],[-97.13389599999999,49.885528],[-97.13475800000001,49.885334],[-97.135501,49.885134],[-97.136246,49.884935],[-97.136899,49.884696],[-97.137518,49.884418],[-97.138068,49.884183],[-97.13873,49.883909],[-97.13937,49.883662],[-97.13994099999999,49.883407],[-97.140524,49.883129],[-97.141144,49.882851],[-97.141785,49.882605],[-97.142403,49.88243],[-97.143023,49.882292],[-97.14319399999999,49.882263],[-97.145458,49.886435],[-97.134855,49.888839],[-97.133111,49.885637]]]],"type":"MultiPolygon"}
+}

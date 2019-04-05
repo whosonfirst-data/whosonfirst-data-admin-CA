@@ -1,0 +1,95 @@
+{
+  "id": 1125791203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.70302,54.08321,-122.70302,54.08321",
+    "geom:latitude":54.08321,
+    "geom:longitude":-122.70302,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":54.08321,
+    "lbl:longitude":-122.70302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Salmon Valley"
+    ],
+    "name:eng_x_preferred":[
+        "Salmon Valley"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6139657,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Salmon Valley",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":52925,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":9519,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6139657,
+        "gp:id":9519,
+        "qs_pg:id":52925,
+        "wd:id":"Q7405550"
+    },
+    "wof:country":"CA",
+    "wof:created":1497290870,
+    "wof:geomhash":"93b1f666a6f642958ec3b81c329535de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457209,
+            "locality_id":1125791203,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125791203,
+    "wof:lastmodified":1531520590,
+    "wof:name":"Salmon Valley",
+    "wof:parent_id":890457209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.70302,
+    54.08321,
+    -122.70302,
+    54.08321
+],
+  "geometry": {"coordinates":[-122.70302,54.08321],"type":"Point"}
+}

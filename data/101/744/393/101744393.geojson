@@ -1,0 +1,77 @@
+{
+  "id": 101744393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:bbox":"-121.5998938,50.1611652,-121.5881324,50.1686755",
+    "geom:latitude":50.164784,
+    "geom:longitude":-121.594422,
+    "iso:country":"CA",
+    "lbl:latitude":50.164912,
+    "lbl:longitude":-121.594422,
+    "mps:latitude":50.164912,
+    "mps:longitude":-121.594422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Skuppah 3A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SKUPPAH 3A",
+    "qs:loc_alt":"SKUPPAH NO 3A",
+    "qs:loc_lc":"dd89d3ebba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373579
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d5abfb0daab6d9cb78f1a2096b481c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744393,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744393,
+    "wof:lastmodified":1533335893,
+    "wof:name":"Skuppah 3A",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.59989380000002,
+    50.16116520000003,
+    -121.5881324,
+    50.1686755
+],
+  "geometry": {"coordinates":[[[-121.58849859999999,50.1683342],[-121.59025359999998,50.1683213],[-121.59018850000001,50.164697],[-121.5883043,50.164712],[-121.58813240000001,50.1614049],[-121.58915050000002,50.1613835],[-121.59068550000001,50.16135129999998],[-121.59951819999998,50.16116520000003],[-121.59989380000002,50.168438],[-121.59348590000002,50.16857190000002],[-121.59197810000001,50.16860329999997],[-121.5885146,50.1686755],[-121.58849859999999,50.1683342]]],"type":"Polygon"}
+}

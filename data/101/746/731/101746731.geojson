@@ -1,0 +1,77 @@
+{
+  "id": 101746731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:bbox":"-108.4018394,53.511544,-108.3896925,53.5260415",
+    "geom:latitude":53.518804,
+    "geom:longitude":-108.395781,
+    "iso:country":"CA",
+    "lbl:latitude":53.518797,
+    "lbl:longitude":-108.395781,
+    "mps:latitude":53.518797,
+    "mps:longitude":-108.395781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saulteaux First Nation Indian Reserve No. 159Ii"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SAULTEAUX FIRST NATION INDIAN RESERVE NO. 159II",
+    "qs:loc_alt":"RESERVE INDIENNE SAULTEAUX FIRST NATION NO. 159II",
+    "qs:loc_lc":"dee42a7d01ca11dea89a080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403713
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"8add8bf7c73ce39dbb36e289b4ec1cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868977,
+            "locality_id":101746731,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746731,
+    "wof:lastmodified":1531525190,
+    "wof:name":"Saulteaux First Nation Indian Reserve No. 159Ii",
+    "wof:parent_id":1158868977,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.40183939999997,
+    53.511544,
+    -108.38969250000002,
+    53.52604150000002
+],
+  "geometry": {"coordinates":[[[-108.39826770000002,53.5115609],[-108.40183939999997,53.51157840000002],[-108.40179759999999,53.51880469999998],[-108.40175579999999,53.52604150000002],[-108.38969250000002,53.52603349999998],[-108.38976830000001,53.51878879999998],[-108.38984420000003,53.511544],[-108.39826770000002,53.5115609]]],"type":"Polygon"}
+}

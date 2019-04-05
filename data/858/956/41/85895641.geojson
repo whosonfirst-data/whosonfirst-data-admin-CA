@@ -1,0 +1,113 @@
+{
+  "id": 85895641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12216277.973441,
+    "geom:bbox":"-79.746408,43.360748,-79.746408,43.360748",
+    "geom:latitude":43.360748,
+    "geom:longitude":-79.746408,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.360748,
+    "lbl:longitude":-79.746408,
+    "mps:latitude":43.362621,
+    "mps:longitude":-79.74493,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Shoreacres"
+    ],
+    "name:unk_x_variant":[
+        "Shoreacres"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":217,
+    "qs:local_sum":217,
+    "qs:localhoods":1,
+    "qs:name":"Shoreacres",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Halton",
+    "qs:name_local":"Appleby",
+    "qs:photo_max":42,
+    "qs:photo_sum":217,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375078,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999031,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101735965,
+        85633041,
+        85682057,
+        101740713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999610,
+        "qs:id":1249009,
+        "qs_pg:id":1249009
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2429d8e3f2a0814bff3de935aa692750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735965,
+            "neighbourhood_id":85895641,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740713,
+            "neighbourhood_id":85895641,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895641,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931457,
+    "wof:name":"Shoreacres",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.746408,
+    43.360748,
+    -79.746408,
+    43.360748
+],
+  "geometry": {"coordinates":[-79.746408,43.360748],"type":"Point"}
+}

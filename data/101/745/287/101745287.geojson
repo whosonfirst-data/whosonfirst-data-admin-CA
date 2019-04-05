@@ -1,0 +1,77 @@
+{
+  "id": 101745287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-125.0923337,54.5329451,-125.0910004,54.5337213",
+    "geom:latitude":54.533333,
+    "geom:longitude":-125.091667,
+    "iso:country":"CA",
+    "lbl:latitude":54.533334,
+    "lbl:longitude":-125.091663,
+    "mps:latitude":54.533334,
+    "mps:longitude":-125.091663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tse Bay Ha Tine A 34"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"TSE BAY HA TINE A 34",
+    "qs:loc_alt":"TSE BAY HA TINE A NO 34",
+    "qs:loc_lc":"54b50810ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56121102
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a429ae443b1d42a8d544678920a96ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":101745287,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745287,
+    "wof:lastmodified":1533335906,
+    "wof:name":"Tse Bay Ha Tine A 34",
+    "wof:parent_id":890458087,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -125.09233369999998,
+    54.5329451,
+    -125.09100039999998,
+    54.53372130000002
+],
+  "geometry": {"coordinates":[[[-125.09233369999998,54.53345789999997],[-125.09145469999999,54.53372130000002],[-125.09100039999998,54.5332085],[-125.09187939999998,54.5329451],[-125.09233369999998,54.53345789999997]]],"type":"Polygon"}
+}

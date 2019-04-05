@@ -1,0 +1,72 @@
+{
+  "id": 1108972129,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"McNamara Industrial",
+    "can-edmdsd:number":"4300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":974252.074492,
+    "geom:bbox":"-113.627403124,53.5486082053,-113.615182606,53.5595480972",
+    "geom:latitude":53.554069,
+    "geom:longitude":-113.621283,
+    "iso:country":"CA",
+    "lbl:latitude":53.554082,
+    "lbl:longitude":-113.621283,
+    "mps:latitude":53.554082,
+    "mps:longitude":-113.621283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "McNamara Industrial"
+    ],
+    "reversegeo:latitude":53.554082,
+    "reversegeo:longitude":-113.621283,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"e78146d1ca88680f2e2f488a48afbd8d",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108972129,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972129,
+    "wof:lastmodified":1507246078,
+    "wof:name":"McNamara Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.62740312400685,
+    53.54860820525501,
+    -113.61518260612782,
+    53.55954809719748
+],
+  "geometry": {"coordinates":[[[[-113.62732732537208,53.55597342409826],[-113.62732492383032,53.55805909781188],[-113.62730868345763,53.55954500734232],[-113.62147023836172,53.55954809719748],[-113.61523644181375,53.55952331707502],[-113.61521934883223,53.55782554407661],[-113.61522759100002,53.55596213204586],[-113.61519627601555,53.55324972161165],[-113.61518260612782,53.54893625438967],[-113.6151837155239,53.54863122497673],[-113.61787185981891,53.5486303750248],[-113.62038922647801,53.54861930415512],[-113.62390332610583,53.54860820525501],[-113.62740312400685,53.54861329220802],[-113.62738098860542,53.55001906522335],[-113.62736806625601,53.55145319973665],[-113.62735812824837,53.55327137432524],[-113.62732732537208,53.55597342409826]]]],"type":"MultiPolygon"}
+}

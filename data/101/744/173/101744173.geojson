@@ -1,0 +1,77 @@
+{
+  "id": 101744173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"-121.2749028,50.3415026,-121.26348,50.3506388",
+    "geom:latitude":50.346073,
+    "geom:longitude":-121.269209,
+    "iso:country":"CA",
+    "lbl:latitude":50.346069,
+    "lbl:longitude":-121.269209,
+    "mps:latitude":50.346069,
+    "mps:longitude":-121.269209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Skaynaneichst 12"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SKAYNANEICHST 12",
+    "qs:loc_alt":"SKAYNANEICHST NO 12",
+    "qs:loc_lc":"388bb658ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23405420
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2932b23231fa6fcaa66df65a1c3340ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744173,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744173,
+    "wof:lastmodified":1533335889,
+    "wof:name":"Skaynaneichst 12",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.2749028,
+    50.34150260000001,
+    -121.26348,
+    50.35063880000001
+],
+  "geometry": {"coordinates":[[[-121.27490280000001,50.34161490000002],[-121.2748752,50.34305849999998],[-121.27473639999999,50.35031509999999],[-121.27473020000002,50.35063880000001],[-121.2686278,50.3505735],[-121.26348,50.35051820000001],[-121.26349,50.35013959999998],[-121.26368290000001,50.3428851],[-121.2637196,50.34150260000001],[-121.268964,50.3415554],[-121.27490280000001,50.34161490000002]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125940733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.54112,49.193981,-119.54112,49.193981",
+    "geom:latitude":49.193981,
+    "geom:longitude":-119.54112,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":49.193981,
+    "lbl:longitude":-119.54112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Osoyoos Indian Reserve 1",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":209,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":209,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":229454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29373954,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373954,
+        "qs_pg:id":229454
+    },
+    "wof:country":"CA",
+    "wof:created":1497297108,
+    "wof:geomhash":"7f34d4a9804b4d4e6f2b8216d239d628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457193,
+            "locality_id":1125940733,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125940733,
+    "wof:lastmodified":1533335933,
+    "wof:name":"Osoyoos Indian Reserve 1",
+    "wof:parent_id":890457193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.54112,
+    49.193981,
+    -119.54112,
+    49.193981
+],
+  "geometry": {"coordinates":[-119.54112000000001,49.193981],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101746689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:bbox":"-103.2373802,50.9014463,-103.2146884,50.9158797",
+    "geom:latitude":50.908633,
+    "geom:longitude":-103.226015,
+    "iso:country":"CA",
+    "lbl:latitude":50.905067,
+    "lbl:longitude":-103.231647,
+    "mps:latitude":50.905067,
+    "mps:longitude":-103.231647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Star Blanket Indian Reserve No. 83L"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"STAR BLANKET INDIAN RESERVE NO. 83L",
+    "qs:loc_alt":"STAR BLANKET INDIAN RESERVE NO. 83L",
+    "qs:loc_lc":"6e7b0895460444638e7f68a96a369150",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56623854
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9e83141a95ed197e65ceebf7444822e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101746689,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746689,
+    "wof:lastmodified":1531525486,
+    "wof:name":"Star Blanket Indian Reserve No. 83L",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.23738020000002,
+    50.90144629999998,
+    -103.2146884,
+    50.9158797
+],
+  "geometry": {"coordinates":[[[[-103.23723890000002,50.90867780000002],[-103.22592580000003,50.9086742],[-103.22602819999997,50.9014687],[-103.23441409999998,50.9014522],[-103.236216,50.9014487],[-103.23738020000002,50.90144629999998],[-103.23723890000002,50.90867780000002]]],[[[-103.22592580000003,50.9086742],[-103.22582319999998,50.9158797],[-103.22033520000002,50.9158648],[-103.21975509999999,50.9158632],[-103.21469569999999,50.9158493],[-103.21469560000003,50.91564069999998],[-103.21469509999997,50.91512840000001],[-103.21469500000001,50.9150565],[-103.21469449999999,50.91456069999998],[-103.21469080000003,50.9110849],[-103.2146884,50.9086696],[-103.22592580000003,50.9086742]]]],"type":"MultiPolygon"}
+}

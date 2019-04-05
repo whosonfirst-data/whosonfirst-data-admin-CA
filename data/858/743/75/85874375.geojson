@@ -1,0 +1,112 @@
+{
+  "id": 85874375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-04-26",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000425,
+    "geom:area_square_m":3684574.927221,
+    "geom:bbox":"-73.7484741211,45.5063003933,-73.7169135293,45.5332888795",
+    "geom:latitude":45.521695,
+    "geom:longitude":-73.732495,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.522462,
+    "lbl:longitude":-73.725677,
+    "mps:latitude":45.52631,
+    "mps:longitude":-73.72987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"electoral district",
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "District de Bordeaux-Cartierville"
+    ],
+    "name:fra_x_preferred":[
+        "District de Bordeaux-Cartierville"
+    ],
+    "name:unk_x_variant":[
+        "District de Bordeaux-Cartierville"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6077243,
+    "qs:local_max":28614,
+    "qs:local_sum":313611,
+    "qs:localhoods":127,
+    "qs:name":"District de Bordeaux-Cartierville",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Qu\u00e9bec",
+    "qs:name_adm2":"Montr\u00e9al",
+    "qs:name_local":"Montr\u00e9al",
+    "qs:photo_max":279,
+    "qs:photo_sum":367,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344924,
+    "qs:woe_adm2":29375198,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":3534,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":2516,
+    "wof:belongsto":[
+        102191575,
+        101736545,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855872,
+        "qs:id":1245876,
+        "qs_pg:id":1245876,
+        "wd:id":"Q3586484"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"23cbed52eb343c360a8ab188b2173010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736545,
+            "neighbourhood_id":85874375,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":85874375,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1527270565,
+    "wof:name":"District de Bordeaux-Cartierville",
+    "wof:parent_id":101736545,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74847412109978,
+    45.5063003933203,
+    -73.71691352932137,
+    45.53328887949995
+],
+  "geometry": {"coordinates":[[[-73.72100830078639,45.53136487070445],[-73.72100830078506,45.52944081530005],[-73.71826171870001,45.52944081530005],[-73.71826171871447,45.52797960416696],[-73.71826171871447,45.5255924878001],[-73.71826171872078,45.52559242197522],[-73.71691352932137,45.5236680607501],[-73.71826167260275,45.52174389699813],[-73.71826171871447,45.52174383117513],[-73.71826171870967,45.51789504290004],[-73.71826171871803,45.51789497710031],[-73.72273113228536,45.51789497710031],[-73.72375488279977,45.51643393416781],[-73.72682627258618,45.51789504290004],[-73.72989733812477,45.51935599738239],[-73.73194507128034,45.51789471385025],[-73.73204418651929,45.51789471385025],[-73.73474116479929,45.51404592560003],[-73.73474121089993,45.51404585981096],[-73.73743860428465,45.51019647917538],[-73.73743897330405,45.51019621587524],[-73.73753679716134,45.51019621587524],[-73.74299723098829,45.5063003933203],[-73.74572753910007,45.51019647921127],[-73.74572758520364,45.51019654500006],[-73.74847412109978,45.51411578756024],[-73.74847412109978,45.5165880989983],[-73.74363047015669,45.51889233976085],[-73.74030131420275,45.52364377993781],[-73.74016743884999,45.52369155062344],[-73.73883575179354,45.52559242197522],[-73.73784598965472,45.52841812317963],[-73.73684306101433,45.52944074947517],[-73.73556861332196,45.53247295378823],[-73.73474121089993,45.5331816574011],[-73.73474121090001,45.53328887949995],[-73.72924804690007,45.53328887949995],[-73.72477842580673,45.53328887949995],[-73.72375488279994,45.53328887949995],[-73.72375488279994,45.53136488029999],[-73.72100830078639,45.53136487070445]]],"type":"Polygon"}
+}

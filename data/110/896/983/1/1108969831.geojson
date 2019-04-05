@@ -1,0 +1,71 @@
+{
+  "id": 1108969831,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"768",
+    "can-wpgppd:name":"Mcleod Industrial",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":645132.795712,
+    "geom:bbox":"-97.071008,49.926366,-97.052099,49.93571",
+    "geom:latitude":49.931154,
+    "geom:longitude":-97.062314,
+    "iso:country":"CA",
+    "lbl:latitude":49.930718,
+    "lbl:longitude":-97.063245,
+    "mps:latitude":49.930718,
+    "mps:longitude":-97.063245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Mcleod Industrial"
+    ],
+    "reversegeo:latitude":49.930718,
+    "reversegeo:longitude":-97.063245,
+    "src:geom":"can-wpgppd",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968465,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"0d3f683e4a1722a539483085ba6e8559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968465,
+            "neighbourhood_id":1108969831,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108969831,
+    "wof:lastmodified":1531523900,
+    "wof:name":"Mcleod Industrial",
+    "wof:parent_id":1108968465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.071008,
+    49.926366,
+    -97.052099,
+    49.93571
+],
+  "geometry": {"coordinates":[[[[-97.07100800000001,49.929371],[-97.061978,49.926366],[-97.059358,49.929646],[-97.052099,49.932114],[-97.06264400000001,49.935595],[-97.062799,49.935647],[-97.06299,49.93571],[-97.06308,49.935638],[-97.07100800000001,49.929371]]]],"type":"MultiPolygon"}
+}

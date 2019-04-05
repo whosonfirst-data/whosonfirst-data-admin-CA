@@ -1,0 +1,116 @@
+{
+  "id": 85895455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6131159.131607,
+    "geom:bbox":"-80.12464,43.902757,-80.12464,43.902757",
+    "geom:latitude":43.902757,
+    "geom:longitude":-80.12464,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.902757,
+    "lbl:longitude":-80.12464,
+    "mps:latitude":43.899169,
+    "mps:longitude":-80.124517,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Settler's Creek"
+    ],
+    "name:unk_x_variant":[
+        "Settler's Creek"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6094201,
+    "qs:gn_nam_loc":"orangeville",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":128,
+    "qs:local_sum":187,
+    "qs:localhoods":2,
+    "qs:name":"Settler's Creek",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Dufferin",
+    "qs:name_local":"Orangeville",
+    "qs:photo_max":29,
+    "qs:photo_sum":59,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375114,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":4041,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101736379,
+        85633041,
+        85682057,
+        101740765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999438,
+        "qs:id":1355005,
+        "qs_pg:id":1355005
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9e1c040a4dfb973ea77f95235139b229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736379,
+            "neighbourhood_id":85895455,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740765,
+            "neighbourhood_id":85895455,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895455,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931412,
+    "wof:name":"Settler's Creek",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.12464,
+    43.902757,
+    -80.12464,
+    43.902757
+],
+  "geometry": {"coordinates":[-80.12464,43.902757],"type":"Point"}
+}

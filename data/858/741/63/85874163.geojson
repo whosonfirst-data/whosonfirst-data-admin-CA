@@ -1,0 +1,109 @@
+{
+  "id": 85874163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-05-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000227,
+    "geom:area_square_m":1969977.922446,
+    "geom:bbox":"-73.944732056,45.4003783527,-73.9242685043,45.4177324237",
+    "geom:latitude":45.409733,
+    "geom:longitude":-73.934884,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":45.410755,
+    "lbl:longitude":-73.940389,
+    "mps:latitude":45.40964,
+    "mps:longitude":-73.934687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"no reliable reference",
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "St Anne Sud"
+    ],
+    "name:fre_x_preferred":[
+        "St Anne Sud"
+    ],
+    "name:unk_x_variant":[
+        "St Anne Sud"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6077243,
+    "qs:local_max":28614,
+    "qs:local_sum":313611,
+    "qs:localhoods":127,
+    "qs:name":"St Anne Sud",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Qu\u00e9bec",
+    "qs:name_adm2":"Montr\u00e9al",
+    "qs:name_local":"Montr\u00e9al",
+    "qs:photo_max":114,
+    "qs:photo_sum":216,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344924,
+    "qs:woe_adm2":29375198,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":3534,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        101736473,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855729,
+        "qs:id":381146,
+        "qs_pg:id":381146
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"82d9945a44a1920995fc542584bfb4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736473,
+            "neighbourhood_id":85874163,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":85874163,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1527270249,
+    "wof:name":"St Anne Sud",
+    "wof:parent_id":101736473,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94473205601236,
+    45.40037835270023,
+    -73.92426850426563,
+    45.41773242370003
+],
+  "geometry": {"coordinates":[[[-73.93249511718113,45.41773235787498],[-73.93114175782375,45.41580431060036],[-73.92493205077545,45.41580431060036],[-73.92426850426563,45.41391381243638],[-73.92700190693162,45.41002023460005],[-73.92700195309993,45.41002016883586],[-73.92970931868624,45.40616367935014],[-73.92974853514991,45.40613574948391],[-73.92974853514991,45.40037835270023],[-73.93651180255736,45.40037835270023],[-73.93696316110444,45.4023069924],[-73.93798828120001,45.4023069924],[-73.93798828120001,45.40423538985782],[-73.9407348632808,45.40423539543353],[-73.94073486328639,45.40616373558997],[-73.9434814481406,45.40616373716499],[-73.9442502634721,45.40725879204525],[-73.94382967013505,45.40905609580041],[-73.94450648841763,45.41002016880053],[-73.94450647302068,45.41002023460005],[-73.94405529547657,45.41194836415021],[-73.94450648071916,45.41387646080001],[-73.94473205601236,45.41484043507508],[-73.94073486327494,45.41484043507508],[-73.93798828120001,45.41484043507508],[-73.93798828120001,45.41773242370003],[-73.93249511720006,45.41773242370003],[-73.93249511718113,45.41773235787498]]],"type":"Polygon"}
+}

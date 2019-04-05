@@ -1,0 +1,77 @@
+{
+  "id": 101744165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:bbox":"-121.4169652,50.2652979,-121.414045,50.2661906",
+    "geom:latitude":50.265782,
+    "geom:longitude":-121.415622,
+    "iso:country":"CA",
+    "lbl:latitude":50.265793,
+    "lbl:longitude":-121.415644,
+    "mps:latitude":50.265793,
+    "mps:longitude":-121.415644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Unpukpulquatum 8"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"UNPUKPULQUATUM 8",
+    "qs:loc_alt":"UNPUKPULQUATUM NO 8",
+    "qs:loc_lc":"380f5a64ba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56620107
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9c10e3400c645c1c5595a056a4b7f72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744165,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744165,
+    "wof:lastmodified":1533335889,
+    "wof:name":"Unpukpulquatum 8",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.4169652,
+    50.2652979,
+    -121.414045,
+    50.26619060000002
+],
+  "geometry": {"coordinates":[[[-121.41696520000001,50.2652979],[-121.4168628,50.26619060000002],[-121.414045,50.26605760000001],[-121.4141065,50.2655224],[-121.41441250000003,50.26552470000001],[-121.4147183,50.26551790000002],[-121.41502329999997,50.2655019],[-121.41567450000002,50.2654498],[-121.41632220000002,50.2653818],[-121.41696520000001,50.2652979]]],"type":"Polygon"}
+}

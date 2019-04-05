@@ -1,0 +1,83 @@
+{
+  "id": 1108937461,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1024",
+    "can-wpgppd:name":"St. John's Park",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":400932.265286,
+    "geom:bbox":"-97.130979,49.915952,-97.116048,49.923968",
+    "geom:latitude":49.920107,
+    "geom:longitude":-97.124573,
+    "iso:country":"CA",
+    "lbl:latitude":49.919868,
+    "lbl:longitude":-97.125224,
+    "mps:latitude":49.920713,
+    "mps:longitude":-97.125082,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "St. John's Park"
+    ],
+    "name:eng_x_variant":[
+        "Saint Johns Park"
+    ],
+    "reversegeo:latitude":49.920713,
+    "reversegeo:longitude":-97.125082,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968519,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359687,
+    "wof:geomhash":"1e3318f5e6a9276833b2dfe06c554f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968519,
+            "neighbourhood_id":1108937461,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937461,
+    "wof:lastmodified":1531523905,
+    "wof:name":"St. John's Park",
+    "wof:parent_id":1108968519,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.130979,
+    49.915952,
+    -97.116048,
+    49.923968
+],
+  "geometry": {"coordinates":[[[[-97.126628,49.915952],[-97.12759200000001,49.916264],[-97.130979,49.917357],[-97.126969,49.922361],[-97.12606100000001,49.923968],[-97.11747200000001,49.921205],[-97.116863,49.920829],[-97.11604800000001,49.920325],[-97.116578,49.920143],[-97.11702200000001,49.920034],[-97.117408,49.91996],[-97.118059,49.919878],[-97.119129,49.919755],[-97.12032000000001,49.919586],[-97.12134,49.919405],[-97.12233999999999,49.919196],[-97.123071,49.91896],[-97.12402299999999,49.918523],[-97.124692,49.918126],[-97.12532400000001,49.917555],[-97.12575699999999,49.917103],[-97.126158,49.91665],[-97.126516,49.916147],[-97.126628,49.915952]]]],"type":"MultiPolygon"}
+}

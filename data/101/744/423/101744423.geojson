@@ -1,0 +1,75 @@
+{
+  "id": 101744423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:bbox":"-121.4493289,49.7315772,-121.435154,49.7352465",
+    "geom:latitude":49.733479,
+    "geom:longitude":-121.443146,
+    "iso:country":"CA",
+    "lbl:latitude":49.73341,
+    "lbl:longitude":-121.443144,
+    "mps:latitude":49.73341,
+    "mps:longitude":-121.443144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Long Tunnel 5A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"LONG TUNNEL 5A",
+    "qs:loc_alt":"LONG TUNNEL NO 5A",
+    "qs:loc_lc":"df8bbe7bba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"568adfe3069159eb1a10697a79704fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458867,
+            "locality_id":101744423,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744423,
+    "wof:lastmodified":1533335893,
+    "wof:name":"Long Tunnel 5A",
+    "wof:parent_id":890458867,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.44932890000001,
+    49.7315772,
+    -121.435154,
+    49.73524650000002
+],
+  "geometry": {"coordinates":[[[-121.435154,49.73524650000002],[-121.43527790000002,49.73514260000002],[-121.43540610000002,49.7350409],[-121.43553830000002,49.73494140000003],[-121.436806,49.73401289999998],[-121.43712290000002,49.7340226],[-121.4371721,49.7335468],[-121.43738089999999,49.7332915],[-121.43755489999999,49.73302560000002],[-121.4376929,49.73275089999998],[-121.43779379999999,49.73246949999998],[-121.43785689999999,49.73218350000002],[-121.43788170000001,49.731895],[-121.43786799999999,49.73160630000001],[-121.43801000000001,49.73160589999998],[-121.4493066,49.7315772],[-121.44932890000001,49.73521219999998],[-121.43803170000001,49.735241],[-121.435154,49.73524650000002]]],"type":"Polygon"}
+}

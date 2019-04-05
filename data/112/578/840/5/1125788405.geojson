@@ -1,0 +1,81 @@
+{
+  "id": 1125788405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.71667,46.66667,-70.71667,46.66667",
+    "geom:latitude":46.66667,
+    "geom:longitude":-70.71667,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":29570,
+    "gn:population":29570,
+    "iso:country":"CA",
+    "lbl:latitude":46.66667,
+    "lbl:longitude":-70.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bellechasse"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7302647,
+    "qs_pg:gn_pop":29570,
+    "qs_pg:name":"Bellechasse Regional County Municipality",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":682212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890457821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302647,
+        "qs_pg:id":682212
+    },
+    "wof:country":"CA",
+    "wof:created":1497290768,
+    "wof:geomhash":"8dac193bedfb0d43df1260b2ba0630f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457821,
+            "locality_id":1125788405,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125788405,
+    "wof:lastmodified":1533335698,
+    "wof:name":"Bellechasse Regional County Municipality",
+    "wof:parent_id":890457821,
+    "wof:placetype":"locality",
+    "wof:population":29570,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.71667,
+    46.66667,
+    -70.71667,
+    46.66667
+],
+  "geometry": {"coordinates":[-70.71666999999999,46.66667],"type":"Point"}
+}

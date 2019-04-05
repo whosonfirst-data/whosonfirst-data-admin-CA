@@ -1,0 +1,77 @@
+{
+  "id": 101745345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:bbox":"-122.5705045,54.680111,-122.5674037,54.6819268",
+    "geom:latitude":54.681028,
+    "geom:longitude":-122.568966,
+    "iso:country":"CA",
+    "lbl:latitude":54.68102,
+    "lbl:longitude":-122.568981,
+    "mps:latitude":54.68102,
+    "mps:longitude":-122.568981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tacheeda Lake 14"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"TACHEEDA LAKE 14",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE TACHEEDA LAKE NO 14",
+    "qs:loc_lc":"96464a8d849c20c3f66ae8100a286c22",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23405367
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"898600992f78305d4d0421a37b4cc3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457209,
+            "locality_id":101745345,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745345,
+    "wof:lastmodified":1533335907,
+    "wof:name":"Tacheeda Lake 14",
+    "wof:parent_id":890457209,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.57050450000003,
+    54.680111,
+    -122.5674037,
+    54.68192679999999
+],
+  "geometry": {"coordinates":[[[-122.57050450000003,54.68109720000001],[-122.57042519999999,54.68113620000003],[-122.57034479999999,54.68117790000002],[-122.57017059999998,54.6812554],[-122.57004690000002,54.6813315],[-122.56992159999999,54.68139350000001],[-122.56980129999999,54.68146990000002],[-122.5697151,54.681531],[-122.56963059999998,54.6815932],[-122.56950649999999,54.68168050000003],[-122.5694221,54.68173510000003],[-122.56930440000002,54.68178],[-122.5691885,54.68182159999998],[-122.56904590000001,54.68185269999998],[-122.56896740000002,54.6818826],[-122.56889260000003,54.68191250000001],[-122.56884430000002,54.68192679999999],[-122.56880560000002,54.68189990000002],[-122.5674037,54.68092330000002],[-122.56908929999997,54.680111],[-122.57047679999999,54.68107780000003],[-122.57050450000003,54.68109720000001]]],"type":"Polygon"}
+}

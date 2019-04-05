@@ -1,0 +1,79 @@
+{
+  "id": 1126065441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.47506,44.67244,-63.47506,44.67244",
+    "geom:latitude":44.67244,
+    "geom:longitude":-63.47506,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":20000,
+    "gn:population":20000,
+    "iso:country":"CA",
+    "lbl:latitude":44.67244,
+    "lbl:longitude":-63.47506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7280414,
+    "qs_pg:gn_pop":20000,
+    "qs_pg:name":"Cole Harbour",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1040444,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890456491,
+        85682075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280414,
+        "qs_pg:id":1040444
+    },
+    "wof:country":"CA",
+    "wof:created":1497308801,
+    "wof:geomhash":"7258ec712cf25767b964983d58fd2bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456491,
+            "locality_id":-1,
+            "neighbourhood_id":1126065441,
+            "region_id":85682075
+        }
+    ],
+    "wof:id":1126065441,
+    "wof:lastmodified":1531772521,
+    "wof:name":"Cole Harbour",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":20000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.47506,
+    44.67244,
+    -63.47506,
+    44.67244
+],
+  "geometry": {"coordinates":[-63.47506,44.67244],"type":"Point"}
+}

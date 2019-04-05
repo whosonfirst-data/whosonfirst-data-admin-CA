@@ -1,0 +1,115 @@
+{
+  "id": 85895321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4657040.91661,
+    "geom:bbox":"-79.84166,43.51776,-79.84166,43.51776",
+    "geom:latitude":43.51776,
+    "geom:longitude":-79.84166,
+    "iso:country":"CA",
+    "lbl:latitude":43.51776,
+    "lbl:longitude":-79.84166,
+    "mps:latitude":43.508185,
+    "mps:longitude":-79.839396,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Clarke"
+    ],
+    "name:unk_x_variant":[
+        "Clarke"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Clare",
+    "qs:local_max":26,
+    "qs:local_sum":27,
+    "qs:localhoods":2,
+    "qs:name":"Clarke",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Halton",
+    "qs:name_local":"Boyne",
+    "qs:photo_max":9,
+    "qs:photo_sum":26,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375078,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999605,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101736383,
+        85633041,
+        85682057,
+        101740713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5923064,
+        "gp:id":55999306,
+        "qs:id":1055376,
+        "qs_pg:id":1055376
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"5726358f4630950197e9495fe31db7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
+            "neighbourhood_id":85895321,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740713,
+            "neighbourhood_id":85895321,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895321,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931380,
+    "wof:name":"Clarke",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84166,
+    43.51776,
+    -79.84166,
+    43.51776
+],
+  "geometry": {"coordinates":[-79.84166,43.51776],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125819079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3659,46.855026,-71.3659,46.855026",
+    "geom:latitude":46.855026,
+    "geom:longitude":-71.3659,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.855026,
+    "lbl:longitude":-71.3659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-\u00c9mile",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":710,
+    "qs_pg:photos_1k":144,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":710,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1085708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23394313,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23394313,
+        "qs_pg:id":1085708
+    },
+    "wof:country":"CA",
+    "wof:created":1497291971,
+    "wof:geomhash":"6065063b61fe53987b860c55e74981bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458033,
+            "locality_id":1125819079,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125819079,
+    "wof:lastmodified":1533335699,
+    "wof:name":"St.-\u00c9mile",
+    "wof:parent_id":890458033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3659,
+    46.855026,
+    -71.3659,
+    46.855026
+],
+  "geometry": {"coordinates":[-71.3659,46.855026],"type":"Point"}
+}

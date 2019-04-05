@@ -1,0 +1,97 @@
+{
+  "id": 85895107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9197964.366741,
+    "geom:bbox":"-79.601206,43.625062,-79.601206,43.625062",
+    "geom:latitude":43.625062,
+    "geom:longitude":-79.601206,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.625062,
+    "lbl:longitude":-79.601206,
+    "mps:latitude":43.623957,
+    "mps:longitude":-79.600945,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Applewood"
+    ],
+    "name:eng_x_preferred":[
+        "Applewood"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        101740755,
+        85633041,
+        101740755,
+        890456343,
+        85682057,
+        101735893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999105,
+        "qs:id":1306571,
+        "qs_pg:id":1306571
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"67d197d1a66e9db57b592ee2f138520b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740755,
+            "neighbourhood_id":85895107,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735893,
+            "neighbourhood_id":85895107,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895107,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931327,
+    "wof:name":"Applewood",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.601206,
+    43.625062,
+    -79.601206,
+    43.625062
+],
+  "geometry": {"coordinates":[-79.601206,43.625062],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101746349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:bbox":"-103.2261959,50.8644975,-103.2148369,50.8717816",
+    "geom:latitude":50.868141,
+    "geom:longitude":-103.220516,
+    "iso:country":"CA",
+    "lbl:latitude":50.868141,
+    "lbl:longitude":-103.220516,
+    "mps:latitude":50.868141,
+    "mps:longitude":-103.220516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okanese I.R. 82(Y)"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OKANESE I.R. 82(Y)",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE OKANESE N\u00ba 82(Y)",
+    "qs:loc_lc":"6c9ebc38849c20c3d89718492edbcfdc",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56623854
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a4d8deece6139e5cd2210f6f1d12005a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101746349,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746349,
+    "wof:lastmodified":1531525454,
+    "wof:name":"Okanese I.R. 82(Y)",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.2261959,
+    50.86449750000003,
+    -103.21483690000002,
+    50.87178160000002
+],
+  "geometry": {"coordinates":[[[-103.21489680000002,50.86449750000003],[-103.22619589999999,50.86450209999998],[-103.2261383,50.8717813],[-103.21483690000002,50.87178160000002],[-103.21489680000002,50.86449750000003]]],"type":"Polygon"}
+}

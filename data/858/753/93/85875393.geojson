@@ -1,0 +1,116 @@
+{
+  "id": 85875393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14361190.527257,
+    "geom:bbox":"-76.632934,44.227359,-76.632934,44.227359",
+    "geom:latitude":44.227359,
+    "geom:longitude":-76.632934,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":44.227359,
+    "lbl:longitude":-76.632934,
+    "mps:latitude":44.220399,
+    "mps:longitude":-76.655955,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Mile Square"
+    ],
+    "name:unk_x_variant":[
+        "Mile Square"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5992500,
+    "qs:gn_nam_loc":"kingston",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":7347,
+    "qs:local_sum":21295,
+    "qs:localhoods":36,
+    "qs:name":"Mile Square",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Frontenac",
+    "qs:name_local":"Kingston",
+    "qs:photo_max":490,
+    "qs:photo_sum":728,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375131,
+    "qs:woe_lau":0,
+    "qs:woe_local":4145,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        101735963,
+        85633041,
+        85682057,
+        101740731,
+        890457185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856491,
+        "qs:id":381601,
+        "qs_pg:id":381601
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"69b8ed9781ec3ee02e515e20cfa9a73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735963,
+            "neighbourhood_id":85875393,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457185,
+            "locality_id":101740731,
+            "neighbourhood_id":85875393,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85875393,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872100,
+    "wof:name":"Mile Square",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.632934,
+    44.227359,
+    -76.632934,
+    44.227359
+],
+  "geometry": {"coordinates":[-76.63293400000001,44.227359],"type":"Point"}
+}

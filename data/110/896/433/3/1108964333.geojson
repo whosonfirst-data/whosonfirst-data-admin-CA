@@ -1,0 +1,69 @@
+{
+  "id": 1108964333,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residual Sub Area",
+    "can-calcai:class_code":"4",
+    "can-calcai:comm_code":"12H",
+    "can-calcai:comm_structure":"UNDEVELOPED",
+    "can-calcai:name":"12H",
+    "can-calcai:sector":"SOUTHEAST",
+    "can-calcai:srg":"N/A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00051,
+    "geom:area_square_m":3975759.34213,
+    "geom:bbox":"-113.929129,50.863174,-113.905793,50.885082",
+    "geom:latitude":50.87413,
+    "geom:longitude":-113.917468,
+    "iso:country":"CA",
+    "lbl:latitude":50.874131,
+    "lbl:longitude":-113.917469,
+    "mps:latitude":50.874131,
+    "mps:longitude":-113.917469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":50.874131,
+    "reversegeo:longitude":-113.917469,
+    "src:geom":"can-calcai",
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"dfc0b600f0c19f2bbefce6109907dc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":1108964333,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108964333,
+    "wof:lastmodified":1507246074,
+    "wof:name":"12h",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.929129,
+    50.863174,
+    -113.905793,
+    50.885082
+],
+  "geometry": {"coordinates":[[[[-113.929129,50.885082],[-113.92893599999999,50.885081],[-113.90585,50.885064],[-113.90585,50.884986],[-113.905833,50.877774],[-113.90581299999999,50.870528],[-113.905794,50.863386],[-113.905793,50.863203],[-113.90592700000001,50.863203],[-113.929097,50.863174],[-113.929087,50.868229],[-113.929075,50.869455],[-113.929089,50.870415],[-113.92909,50.870424],[-113.929097,50.870906],[-113.929109,50.873773],[-113.92910500000001,50.876193],[-113.929123,50.877946],[-113.92912099999999,50.879556],[-113.929119,50.881572],[-113.929125,50.882939],[-113.929129,50.885082]]]],"type":"MultiPolygon"}
+}

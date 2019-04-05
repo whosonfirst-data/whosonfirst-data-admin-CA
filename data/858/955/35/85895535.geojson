@@ -1,0 +1,93 @@
+{
+  "id": 85895535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2245481.999893,
+    "geom:bbox":"-79.415488,43.80613,-79.415488,43.80613",
+    "geom:latitude":43.80613,
+    "geom:longitude":-79.415488,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.80613,
+    "lbl:longitude":-79.415488,
+    "mps:latitude":43.804985,
+    "mps:longitude":-79.414133,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Grandview"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736035,
+        890458415,
+        101740741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999509,
+        "qs:id":19638,
+        "qs_pg:id":19638
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"4984fa8ac2ac071d1550657e6eebe383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458415,
+            "locality_id":101736035,
+            "neighbourhood_id":85895535,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458415,
+            "locality_id":101740741,
+            "neighbourhood_id":85895535,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895535,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931430,
+    "wof:name":"Grandview",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.415488,
+    43.80613,
+    -79.415488,
+    43.80613
+],
+  "geometry": {"coordinates":[-79.415488,43.80613],"type":"Point"}
+}

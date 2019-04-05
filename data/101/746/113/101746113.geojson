@@ -1,0 +1,77 @@
+{
+  "id": 101746113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:bbox":"-129.1244263,53.0574321,-129.1176082,53.0610621",
+    "geom:latitude":53.059171,
+    "geom:longitude":-129.121209,
+    "iso:country":"CA",
+    "lbl:latitude":53.059248,
+    "lbl:longitude":-129.121707,
+    "mps:latitude":53.059248,
+    "mps:longitude":-129.121707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kahas 7"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KAHAS 7",
+    "qs:loc_alt":"KAHAS NO 7",
+    "qs:loc_lc":"01391cacba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56121037
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3cd23558a13d90a31532cd79cb498a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101746113,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101746113,
+    "wof:lastmodified":1533335920,
+    "wof:name":"Kahas 7",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -129.12442629999998,
+    53.05743210000003,
+    -129.1176082,
+    53.06106210000002
+],
+  "geometry": {"coordinates":[[[-129.12442629999998,53.0574456],[-129.12440429999998,53.06106210000002],[-129.12096150000002,53.0610542],[-129.12093090000002,53.06081840000002],[-129.1205453,53.06074130000002],[-129.11982419999998,53.0607819],[-129.11860200000001,53.0606502],[-129.1179674,53.06038339999998],[-129.11760820000001,53.05941209999997],[-129.1177252,53.05903360000002],[-129.11765889999998,53.05810910000002],[-129.11806350000001,53.0577652],[-129.11842280000002,53.05743210000003],[-129.12442629999998,53.0574456]]],"type":"Polygon"}
+}

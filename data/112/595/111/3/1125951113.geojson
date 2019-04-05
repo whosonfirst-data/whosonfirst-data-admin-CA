@@ -1,0 +1,89 @@
+{
+  "id": 1125951113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.391749,44.419222,-76.391749,44.419222",
+    "geom:latitude":44.419222,
+    "geom:longitude":-76.391749,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":44.419222,
+    "lbl:longitude":-76.391749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Battersea"
+    ],
+    "name:eng_x_preferred":[
+        "Battersea"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Battersea",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":99,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23397027,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890457247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23397027,
+        "qs_pg:id":1263001,
+        "wd:id":"Q4869741"
+    },
+    "wof:country":"CA",
+    "wof:created":1497297458,
+    "wof:geomhash":"307b31e3cd2b2177229f2da48a8c2bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457247,
+            "locality_id":1125951113,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125951113,
+    "wof:lastmodified":1533272559,
+    "wof:name":"Battersea",
+    "wof:parent_id":890457247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.391749,
+    44.419222,
+    -76.391749,
+    44.419222
+],
+  "geometry": {"coordinates":[-76.391749,44.419222],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 85895335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-03-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000303,
+    "geom:area_square_m":2703685.216754,
+    "geom:bbox":"-79.2431892902,43.7512568754,-79.2164757749,43.7671266924",
+    "geom:latitude":43.75899,
+    "geom:longitude":-79.228465,
+    "iso:country":"CA",
+    "lbl:latitude":43.758344,
+    "lbl:longitude":-79.228559,
+    "mps:latitude":43.7582,
+    "mps:longitude":-79.228465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":20.0,
+    "mz:note":"no ref",
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Eglinton"
+    ],
+    "name:deu_x_preferred":[
+        "Eglinton"
+    ],
+    "name:eng_x_preferred":[
+        "Eglinton"
+    ],
+    "name:fin_x_preferred":[
+        "Eglinton"
+    ],
+    "name:swe_x_preferred":[
+        "Eglinton"
+    ],
+    "name:unk_x_variant":[
+        "Eglinton"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6167865,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Linton",
+    "qs:local_max":31902,
+    "qs:local_sum":368231,
+    "qs:localhoods":172,
+    "qs:name":"Eglinton",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Toronto",
+    "qs:name_local":"Toronto",
+    "qs:photo_max":5,
+    "qs:photo_sum":19,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375205,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":4118,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191575,
+        101735835,
+        85633041,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6054538,
+        "gp:id":55999312,
+        "qs:id":484428,
+        "qs_pg:id":484428,
+        "wd:id":"Q1127480"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2b3bd3f4c448746068de45ab54b09f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735835,
+            "neighbourhood_id":85895335,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895335,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527640432,
+    "wof:name":"Eglinton",
+    "wof:parent_id":101735835,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.24318929017664,
+    43.75125687537532,
+    -79.21647577492303,
+    43.76712669237538
+],
+  "geometry": {"coordinates":[[[-79.2362630882331,43.76712669237538],[-79.23339843749977,43.76514335987538],[-79.22790527342505,43.76514335987538],[-79.22515869139977,43.76704494783537],[-79.21647577492303,43.76103335623493],[-79.21691894529994,43.75919257312545],[-79.21691894529994,43.75324099712542],[-79.21787439892177,43.75125687537532],[-79.22503891255099,43.75125687537532],[-79.22503929260208,43.7512571384503],[-79.22790527340001,43.7512571384503],[-79.23339843749986,43.7512571384503],[-79.23339848499396,43.75125720420012],[-79.23618488068973,43.75511461458525],[-79.23614501952505,43.75522498732518],[-79.23614501952505,43.75538977545544],[-79.23889160160007,43.75919257316009],[-79.23889164908093,43.75919263890002],[-79.24318929017664,43.76514296525043],[-79.23889160157495,43.76712669237538],[-79.2362630882331,43.76712669237538]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 101742581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000184,
+    "geom:bbox":"-102.0064513,52.1000904,-101.9901046,52.1219414",
+    "geom:latitude":52.114317,
+    "geom:longitude":-102.000394,
+    "iso:country":"CA",
+    "lbl:latitude":52.118331,
+    "lbl:longitude":-101.998278,
+    "mps:latitude":52.118331,
+    "mps:longitude":-101.998278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okanese I.R. 82(J)"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OKANESE I.R. 82(J)",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE OKANESE NO 82(J)",
+    "qs:loc_lc":"f87fd5f7bbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868981
+    ],
+    "wof:breaches":[
+        101740099
+    ],
+    "wof:concordances":{
+        "gp:id":2396
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"eda151ea2553860a2a031fef85c9bed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868981,
+            "locality_id":101742581,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742581,
+    "wof:lastmodified":1531525254,
+    "wof:name":"Okanese I.R. 82(J)",
+    "wof:parent_id":1158868981,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.00645129999998,
+    52.1000904,
+    -101.9901046,
+    52.12194140000003
+],
+  "geometry": {"coordinates":[[[[-101.9901046,52.11470730000002],[-102.00184969999999,52.1147365],[-102.0064375,52.114745],[-102.0064395,52.12194140000003],[-102.001895,52.1219375],[-101.990148,52.1219266],[-101.9901046,52.11470730000002]]],[[[-102.001746,52.1000904],[-102.00645129999998,52.1001096],[-102.00644440000002,52.10735970000002],[-102.0064375,52.11447370000002],[-102.00370579999998,52.11446710000001],[-102.001848,52.11446260000002],[-102.00179739999999,52.10733590000001],[-102.001746,52.1000904]]]],"type":"MultiPolygon"}
+}

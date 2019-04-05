@@ -1,0 +1,83 @@
+{
+  "id": 1108937553,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1723",
+    "can-wpgppd:name":"Bridgwater Lakes",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000243,
+    "geom:area_square_m":1937486.671941,
+    "geom:bbox":"-97.219682,49.790848,-97.190265,49.809367",
+    "geom:latitude":49.799845,
+    "geom:longitude":-97.205017,
+    "iso:country":"CA",
+    "lbl:latitude":49.800131,
+    "lbl:longitude":-97.20499,
+    "mps:latitude":49.797523,
+    "mps:longitude":-97.207469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Bridgwater Lakes"
+    ],
+    "name:eng_x_variant":[
+        "Bridgewater Lakes"
+    ],
+    "reversegeo:latitude":49.797523,
+    "reversegeo:longitude":-97.207469,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968781,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359752,
+    "wof:geomhash":"b5c81056916612a83659dfedee644239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968781,
+            "neighbourhood_id":1108937553,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937553,
+    "wof:lastmodified":1531523909,
+    "wof:name":"Bridgwater Lakes",
+    "wof:parent_id":1108968781,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.219682,
+    49.790848,
+    -97.190265,
+    49.809367
+],
+  "geometry": {"coordinates":[[[[-97.191592,49.809367],[-97.191007,49.808639],[-97.19032799999999,49.807794],[-97.190265,49.806738],[-97.19098099999999,49.804875],[-97.192312,49.803147],[-97.193625,49.802357],[-97.196118,49.801015],[-97.19849600000001,49.799743],[-97.199788,49.798999],[-97.200891,49.798017],[-97.201543,49.797089],[-97.201891,49.796136],[-97.20197,49.794828],[-97.201776,49.793849],[-97.20305999999999,49.793434],[-97.206121,49.791712],[-97.20675199999999,49.791376],[-97.20751,49.791078],[-97.20841,49.790902],[-97.209444,49.790856],[-97.214026,49.790848],[-97.214082,49.797487],[-97.21968200000001,49.797519],[-97.219673,49.799788],[-97.191592,49.809367]]]],"type":"MultiPolygon"}
+}

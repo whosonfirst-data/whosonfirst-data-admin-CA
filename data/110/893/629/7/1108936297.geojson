@@ -1,0 +1,78 @@
+{
+  "id": 1108936297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00016,
+    "geom:area_square_m":1178404.76027,
+    "geom:bbox":"-113.435989373,53.453495826,-113.42008359,53.4654807662",
+    "geom:latitude":53.45967,
+    "geom:longitude":-113.427855,
+    "iso:country":"CA",
+    "lbl:latitude":53.459116,
+    "lbl:longitude":-113.428185,
+    "mps:latitude":53.459572,
+    "mps:longitude":-113.427854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Mill Woods Town Centre"
+    ],
+    "reversegeo:latitude":53.459572,
+    "reversegeo:longitude":-113.427854,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108973843,
+        85633041,
+        890458485,
+        1108971193,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491358926,
+    "wof:geomhash":"d2397705cb2534adb35638f5487362ca",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971193,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108973843,
+            "neighbourhood_id":1108936297,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108936297,
+    "wof:lastmodified":1507246062,
+    "wof:name":"Mill Woods Town Centre",
+    "wof:parent_id":1108973843,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.43598937337443,
+    53.45349582603728,
+    -113.42008358968491,
+    53.46548076620095
+],
+  "geometry": {"coordinates":[[[[-113.43430310883915,53.45838539363622],[-113.43421815584487,53.45990503299343],[-113.43431553071066,53.46101848382261],[-113.43458991136536,53.46213349718275],[-113.43598937337443,53.4654520923927],[-113.43201438908562,53.46548076620095],[-113.42770916245746,53.46539792801083],[-113.42448762841764,53.4653074312847],[-113.42041710030767,53.4650551179464],[-113.42066686842803,53.46424269044235],[-113.42077729306888,53.46356854217449],[-113.4208832611541,53.46201572091645],[-113.42089769462366,53.45931201407033],[-113.42087166312014,53.45853585451488],[-113.4205811777363,53.45679499640056],[-113.42008358968491,53.45475845671842],[-113.42426820470114,53.45420856903535],[-113.42769851183897,53.45375810753488],[-113.4298821420598,53.45355841585096],[-113.43188557289761,53.45349582603728],[-113.43469849052721,53.45356520617737],[-113.43430310883915,53.45838539363622]]]],"type":"MultiPolygon"}
+}

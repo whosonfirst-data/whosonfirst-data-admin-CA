@@ -1,0 +1,113 @@
+{
+  "id": 85895499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":37919461.613761,
+    "geom:bbox":"-79.977442,43.458912,-79.977442,43.458912",
+    "geom:latitude":43.458912,
+    "geom:longitude":-79.977442,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.458912,
+    "lbl:longitude":-79.977442,
+    "mps:latitude":43.46959,
+    "mps:longitude":-79.944439,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Nelson"
+    ],
+    "name:unk_x_variant":[
+        "Nelson"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1738,
+    "qs:local_sum":1994,
+    "qs:localhoods":3,
+    "qs:name":"Nelson",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Halton",
+    "qs:name_local":"Nassagaweya",
+    "qs:photo_max":545,
+    "qs:photo_sum":1738,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":58,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375078,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999422,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101736383,
+        85633041,
+        85682057,
+        101740713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999472,
+        "qs:id":1090822,
+        "qs_pg:id":1090822
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"85d9b9a1ed07b200c9b7707172772394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
+            "neighbourhood_id":85895499,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740713,
+            "neighbourhood_id":85895499,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895499,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931423,
+    "wof:name":"Nelson",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.977442,
+    43.458912,
+    -79.977442,
+    43.458912
+],
+  "geometry": {"coordinates":[-79.977442,43.458912],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 85895507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19820987.424497,
+    "geom:bbox":"-79.851925,43.870518,-79.851925,43.870518",
+    "geom:latitude":43.870518,
+    "geom:longitude":-79.851925,
+    "iso:country":"CA",
+    "lbl:latitude":43.870518,
+    "lbl:longitude":-79.851925,
+    "mps:latitude":43.869951,
+    "mps:longitude":-79.857961,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Mono Road"
+    ],
+    "name:unk_x_variant":[
+        "Mono Road"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Mono Road",
+    "qs:local_max":221,
+    "qs:local_sum":382,
+    "qs:localhoods":2,
+    "qs:name":"Mono Road",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Peel",
+    "qs:name_local":"Caledon East",
+    "qs:photo_max":67,
+    "qs:photo_sum":221,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375178,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999177,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736249,
+        890456343,
+        101740755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6076373,
+        "gp:id":55999479,
+        "qs:id":1205713,
+        "qs_pg:id":1205713
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"ded24b1c9b7efbbe4b462df87eab06d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456343,
+            "locality_id":101736249,
+            "neighbourhood_id":85895507,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456343,
+            "locality_id":101740755,
+            "neighbourhood_id":85895507,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895507,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931425,
+    "wof:name":"Mono Road",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.851925,
+    43.870518,
+    -79.851925,
+    43.870518
+],
+  "geometry": {"coordinates":[-79.85192499999999,43.870518],"type":"Point"}
+}

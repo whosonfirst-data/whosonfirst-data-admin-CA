@@ -1,0 +1,98 @@
+{
+  "id": 1125998623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.59442,49.59513,-119.59442,49.59513",
+    "geom:latitude":49.59513,
+    "geom:longitude":-119.59442,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":49.59513,
+    "lbl:longitude":-119.59442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Naramata"
+    ],
+    "name:eng_x_preferred":[
+        "Naramata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e9\u30de\u30bf"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8449722,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Naramata",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":711,
+    "qs_pg:photos_1k":144,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":711,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":906560,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":9880,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890457193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449722,
+        "gp:id":9880,
+        "qs_pg:id":906560,
+        "wd:id":"Q6965309"
+    },
+    "wof:country":"CA",
+    "wof:created":1497299511,
+    "wof:geomhash":"609b7e484d048935a30e99c0d42d8a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457193,
+            "locality_id":1125998623,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125998623,
+    "wof:lastmodified":1531520517,
+    "wof:name":"Naramata",
+    "wof:parent_id":890457193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.59442,
+    49.59513,
+    -119.59442,
+    49.59513
+],
+  "geometry": {"coordinates":[-119.59442,49.59513],"type":"Point"}
+}

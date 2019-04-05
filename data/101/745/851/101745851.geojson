@@ -1,0 +1,77 @@
+{
+  "id": 101745851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:bbox":"-124.4434963,52.2933805,-124.4139996,52.3042343",
+    "geom:latitude":52.298292,
+    "geom:longitude":-124.431277,
+    "iso:country":"CA",
+    "lbl:latitude":52.300617,
+    "lbl:longitude":-124.437596,
+    "mps:latitude":52.300617,
+    "mps:longitude":-124.437596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alexis Creek 26"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ALEXIS CREEK 26",
+    "qs:loc_alt":"ALEXIS CREEK NO  26",
+    "qs:loc_lc":"8a6c799cba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56811407
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2e25a6da656e5bc09772788231d1b1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745851,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745851,
+    "wof:lastmodified":1533335918,
+    "wof:name":"Alexis Creek 26",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.4434963,
+    52.29338050000001,
+    -124.41399960000001,
+    52.30423430000002
+],
+  "geometry": {"coordinates":[[[[-124.44349630000001,52.30423430000002],[-124.43323729999997,52.30423389999999],[-124.43169549999999,52.3042337],[-124.4316966,52.29863360000002],[-124.43169690000002,52.29699970000001],[-124.433238,52.29699970000001],[-124.4434953,52.2969994],[-124.44349549999998,52.29863289999997],[-124.44349630000001,52.30423430000002]]],[[[-124.43169719999997,52.29501470000002],[-124.43169690000002,52.29699970000001],[-124.41552739999997,52.2969976],[-124.41399960000001,52.29699729999999],[-124.41400069999997,52.2951526],[-124.41400169999997,52.29338050000001],[-124.43169749999998,52.29338289999998],[-124.43169719999997,52.29501470000002]]]],"type":"MultiPolygon"}
+}

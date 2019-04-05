@@ -1,0 +1,92 @@
+{
+  "id": 1125938247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.692323,45.7648,-64.692323,45.7648",
+    "geom:latitude":45.7648,
+    "geom:longitude":-64.692323,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.7648,
+    "lbl:longitude":-64.692323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hopewell Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Hopewell Hill"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e4\u05d5\u05d5\u05dc \u05d4\u05d9\u05dc"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hopewell Hill",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"New Brunswick",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986151,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23392715,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"New Brunswick",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682065,
+        890456457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23392715,
+        "qs_pg:id":986151,
+        "wd:id":"Q5900373"
+    },
+    "wof:country":"CA",
+    "wof:created":1497297034,
+    "wof:geomhash":"86a3a875ddc36966945c7d0632c806a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456457,
+            "locality_id":1125938247,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":1125938247,
+    "wof:lastmodified":1531772447,
+    "wof:name":"Hopewell Hill",
+    "wof:parent_id":890456457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.692323,
+    45.7648,
+    -64.692323,
+    45.7648
+],
+  "geometry": {"coordinates":[-64.692323,45.7648],"type":"Point"}
+}

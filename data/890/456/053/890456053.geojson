@@ -1,0 +1,76 @@
+{
+  "id": 890456053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.42909,43.69655,-79.42909,43.69655",
+    "geom:latitude":43.69655,
+    "geom:longitude":-79.42909,
+    "gn:country":"CA",
+    "gn:fcode":"ADM2",
+    "gn:pop":670000,
+    "gn:population":670000,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Toronto county"
+    ],
+    "name:fra_x_preferred":[
+        "Comt\u00e9 de Toronto"
+    ],
+    "qs:name":"Toronto county",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:latitude":"54.671944444",
+    "wd:longitude":"-1.693888888",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133394,
+        "qs:id":758660,
+        "wk:page":"Toronto, County Durham"
+    },
+    "wof:country":"CA",
+    "wof:created":1469053009,
+    "wof:geomhash":"f0ea3511902e49138d2fbf57878b4dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456053,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":890456053,
+    "wof:lastmodified":1530120113,
+    "wof:name":"Toronto county",
+    "wof:parent_id":85682057,
+    "wof:placetype":"county",
+    "wof:population":670000,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.42909,
+    43.69655,
+    -79.42909,
+    43.69655
+],
+  "geometry": {"coordinates":[-79.42909,43.69655],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101746681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:bbox":"-103.704581,50.6664001,-103.6932379,50.6736429",
+    "geom:latitude":50.670021,
+    "geom:longitude":-103.698923,
+    "iso:country":"CA",
+    "lbl:latitude":50.670018,
+    "lbl:longitude":-103.698923,
+    "mps:latitude":50.670018,
+    "mps:longitude":-103.698923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carry The Kettle Nakoda First Nation 76-23"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CARRY THE KETTLE NAKODA FIRST NATION 76-23",
+    "qs:loc_alt":"CARRY THE KETTLE NAKODA FIRST NATION 76-23",
+    "qs:loc_lc":"ad2f0a2d1ed94c559a9a544fa2b8a627",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403840
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"7d0857d4fc05fba18c87a2f6fcf52ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868963,
+            "locality_id":101746681,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746681,
+    "wof:lastmodified":1531524445,
+    "wof:name":"Carry The Kettle Nakoda First Nation 76-23",
+    "wof:parent_id":1158868963,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.704581,
+    50.66640009999998,
+    -103.69323789999999,
+    50.6736429
+],
+  "geometry": {"coordinates":[[[-103.704581,50.666405],[-103.70457169999997,50.6736429],[-103.69326619999998,50.673626],[-103.69324659999999,50.6688703],[-103.69323789999999,50.6666467],[-103.6936761,50.66664689999999],[-103.69367670000003,50.66640009999998],[-103.69406479999998,50.66640030000002],[-103.704581,50.666405]]],"type":"Polygon"}
+}

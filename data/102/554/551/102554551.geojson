@@ -1,0 +1,86 @@
+{
+  "id": 102554551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5683,45.8842,-82.5683,45.8842",
+    "geom:latitude":45.8842,
+    "geom:longitude":-82.5683,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gore Bay-Manitoulin Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631 \u0628\u0627\u06cc-\u0645\u0627\u0646\u06cc\u062a\u0648\u0644\u06cc\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Gore Bay-Manitoulin"
+    ],
+    "name:pms_x_preferred":[
+        "Gore Bay-Manitoulin Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Gore Bay-Manitoulin Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0430\u0440 \u0431-\u0645\u043e\u043d\u0438\u0442\u0443\u043b\u0438\u043d"
+    ],
+    "oa:elevation_ft":"635",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":107,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375048,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101735765,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511680,
+        "iata:code":"YZE",
+        "icao:code":"CYZE",
+        "oa:id":"1992",
+        "wd:id":"Q3912899"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"8f195d6c3a48e86b137fad2080bf64f5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554551,
+            "country_id":85633041,
+            "locality_id":101735765,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554551,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Manitoulin Airport",
+    "wof:parent_id":101735765,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.5683,
+    45.8842,
+    -82.5683,
+    45.8842
+],
+  "geometry": {"coordinates":[-82.56829999999999,45.8842],"type":"Point"}
+}

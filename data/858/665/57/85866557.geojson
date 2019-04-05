@@ -1,0 +1,87 @@
+{
+  "id": 85866557,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"215",
+    "can-wpgppd:name":"Burrows Central",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1067430.764996,
+    "geom:bbox":"-97.16951,49.919357,-97.151027,49.93158",
+    "geom:latitude":49.925469,
+    "geom:longitude":-97.161161,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.925623,
+    "lbl:longitude":-97.161443,
+    "mps:latitude":49.928172,
+    "mps:longitude":-97.165189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Burrows Central"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968519,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332827,
+        "qs:id":1087878,
+        "qs_pg:id":1087878
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"31fba1ea1c304b72be6e51f0fbdcebd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968519,
+            "neighbourhood_id":85866557,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866557,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523916,
+    "wof:name":"Burrows Central",
+    "wof:parent_id":1108968519,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.16951,
+    49.919357,
+    -97.151027,
+    49.93158
+],
+  "geometry": {"coordinates":[[[[-97.166759,49.93158],[-97.166899,49.931421],[-97.168914,49.929125],[-97.16951,49.923512],[-97.166674,49.922608],[-97.156474,49.919357],[-97.156212,49.919699],[-97.152664,49.92428],[-97.151222,49.926141],[-97.151027,49.926523],[-97.166759,49.93158]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 101743435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"-129.7857968,53.2495863,-129.7813711,53.2508488",
+    "geom:latitude":53.250103,
+    "geom:longitude":-129.783107,
+    "iso:country":"CA",
+    "lbl:latitude":53.250145,
+    "lbl:longitude":-129.783057,
+    "mps:latitude":53.250145,
+    "mps:longitude":-129.783057,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Kitlawaoo 10"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KITLAWAOO 10",
+    "qs:loc_alt":"KITLAWAOO NO 10",
+    "qs:loc_lc":"04b17aabba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523263
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"f50d876f87f67fd3b9fc60175709721a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101743435,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743435,
+    "wof:lastmodified":1493163508,
+    "wof:name":"Kitlawaoo 10",
+    "wof:parent_id":85682117,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -129.7857968,
+    53.24958629999998,
+    -129.7813711,
+    53.25084880000003
+],
+  "geometry": {"coordinates":[[[-129.78145760000001,53.2506811],[-129.78148640000001,53.25054],[-129.7813711,53.25023090000002],[-129.78139679999998,53.24992079999998],[-129.78147419999999,53.2496165],[-129.78579680000001,53.24958629999998],[-129.7845686,53.250285],[-129.7833814,53.2506292],[-129.78210589999998,53.25084880000003],[-129.78160099999999,53.25081160000002],[-129.78145760000001,53.2506811]]],"type":"Polygon"}
+}

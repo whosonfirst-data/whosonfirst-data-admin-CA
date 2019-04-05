@@ -1,0 +1,87 @@
+{
+  "id": 85866605,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1450",
+    "can-wpgppd:name":"Pembina Strip",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":712277.281452,
+    "geom:bbox":"-97.156681,49.818674,-97.142723,49.829232",
+    "geom:latitude":49.823902,
+    "geom:longitude":-97.150986,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.823832,
+    "lbl:longitude":-97.151173,
+    "mps:latitude":49.822923,
+    "mps:longitude":-97.150755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Pembina Strip"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968781,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332856,
+        "qs:id":897092,
+        "qs_pg:id":897092
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"86765e3f51a93154b75fe32df58967af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968781,
+            "neighbourhood_id":85866605,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866605,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523913,
+    "wof:name":"Pembina Strip",
+    "wof:parent_id":1108968781,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.156681,
+    49.818674,
+    -97.142723,
+    49.829232
+],
+  "geometry": {"coordinates":[[[[-97.15668100000001,49.818674],[-97.152756,49.819872],[-97.15097900000001,49.82013],[-97.146794,49.820947],[-97.14384200000001,49.821451],[-97.142723,49.821642],[-97.14284499999999,49.821943],[-97.143091,49.822355],[-97.143486,49.822847],[-97.14412400000001,49.823486],[-97.145518,49.824826],[-97.146843,49.826176],[-97.14778200000001,49.827228],[-97.148172,49.827873],[-97.14841199999999,49.828415],[-97.148532,49.828871],[-97.148526,49.829028],[-97.149643,49.82865],[-97.150721,49.828285],[-97.15087699999999,49.828232],[-97.15183500000001,49.827908],[-97.152089,49.827822],[-97.15192,49.828921],[-97.151819,49.829232],[-97.15213900000001,49.829124],[-97.15286399999999,49.828879],[-97.154861,49.828203],[-97.155642,49.827939],[-97.15585799999999,49.827865],[-97.15668100000001,49.818674]]]],"type":"MultiPolygon"}
+}

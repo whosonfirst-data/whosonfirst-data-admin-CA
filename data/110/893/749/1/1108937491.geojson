@@ -1,0 +1,80 @@
+{
+  "id": 1108937491,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"76",
+    "can-wpgppd:name":"Eric Coy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:area_square_m":1995790.219408,
+    "geom:bbox":"-97.287138,49.845056,-97.266946,49.859441",
+    "geom:latitude":49.85208,
+    "geom:longitude":-97.276747,
+    "iso:country":"CA",
+    "lbl:latitude":49.852326,
+    "lbl:longitude":-97.277088,
+    "mps:latitude":49.852062,
+    "mps:longitude":-97.276747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Eric Coy"
+    ],
+    "reversegeo:latitude":49.852062,
+    "reversegeo:longitude":-97.276747,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968509,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359714,
+    "wof:geomhash":"26d7db888b9d828303473eafd2a4966c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968509,
+            "neighbourhood_id":1108937491,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937491,
+    "wof:lastmodified":1531523906,
+    "wof:name":"Eric Coy",
+    "wof:parent_id":1108968509,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.287138,
+    49.845056,
+    -97.266946,
+    49.859441
+],
+  "geometry": {"coordinates":[[[[-97.266946,49.859233],[-97.267511,49.859254],[-97.26834700000001,49.859286],[-97.27240500000001,49.859441],[-97.277749,49.858519],[-97.28264,49.857623],[-97.28601999999999,49.858228],[-97.287126,49.846027],[-97.287138,49.84589],[-97.26823899999999,49.845056],[-97.267532,49.852771],[-97.267512,49.852996],[-97.26749100000001,49.853222],[-97.267471,49.853447],[-97.26745099999999,49.853672],[-97.267431,49.853897],[-97.267313,49.855192],[-97.266946,49.859233]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125972529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.72205,43.97948,-80.72205,43.97948",
+    "geom:latitude":43.97948,
+    "geom:longitude":-80.72205,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":43.97948,
+    "lbl:longitude":-80.72205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u68ee\u6797\u5c71\u6751"
+    ],
+    "name:dut_x_preferred":[
+        "Mount Forest"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Forest"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6080782,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mount Forest",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":160,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":160,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1183164,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":4039,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6080782,
+        "gp:id":4039,
+        "qs_pg:id":1183164,
+        "wd:id":"Q6920786"
+    },
+    "wof:country":"CA",
+    "wof:created":1497298228,
+    "wof:geomhash":"6d8fceb0e4d999c87a6ea1eeb1a83be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456827,
+            "locality_id":1125972529,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125972529,
+    "wof:lastmodified":1533270167,
+    "wof:name":"Mount Forest",
+    "wof:parent_id":890456827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.72205,
+    43.97948,
+    -80.72205,
+    43.97948
+],
+  "geometry": {"coordinates":[-80.72205,43.97948],"type":"Point"}
+}

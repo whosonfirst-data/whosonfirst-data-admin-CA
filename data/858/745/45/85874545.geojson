@@ -1,0 +1,89 @@
+{
+  "id": 85874545,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residential",
+    "can-calcai:class_code":"1",
+    "can-calcai:comm_code":"BYV",
+    "can-calcai:comm_structure":"1960s/1970s",
+    "can-calcai:name":"BAYVIEW",
+    "can-calcai:sector":"SOUTH",
+    "can-calcai:srg":"BUILT-OUT",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":422565.97485,
+    "geom:bbox":"-114.117947,50.972213,-114.095103,50.977056",
+    "geom:latitude":50.973695,
+    "geom:longitude":-114.108523,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":50.973099,
+    "lbl:longitude":-114.108056,
+    "mps:latitude":50.976415,
+    "mps:longitude":-114.119617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Bayview"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855966,
+        "qs:id":220548,
+        "qs_pg:id":220548,
+        "wd:id":"Q4874988"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"996738ab65c686b0a222d41b6847b12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":85874545,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85874545,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270640,
+    "wof:name":"Bayview",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.117947,
+    50.972213,
+    -114.095103,
+    50.977056
+],
+  "geometry": {"coordinates":[[[[-114.11306999999999,50.975488],[-114.11279999999999,50.975059],[-114.111282,50.975061],[-114.10988999999999,50.9746],[-114.10968699999999,50.974533],[-114.10779100000001,50.973906],[-114.10633900000001,50.973425],[-114.105056,50.973428],[-114.101133,50.973435],[-114.099226,50.974123],[-114.09903300000001,50.974532],[-114.096514,50.974536],[-114.09510299999999,50.974911],[-114.095111,50.972251],[-114.10442500000001,50.972233],[-114.10633900000001,50.972226],[-114.109111,50.972229],[-114.111752,50.972225],[-114.11412900000001,50.97222],[-114.117947,50.972213],[-114.117925,50.973291],[-114.11793299999999,50.975187],[-114.116663,50.975189],[-114.116664,50.977051],[-114.114058,50.977056],[-114.114018,50.976992],[-114.11338499999999,50.975988],[-114.11306999999999,50.975488]]]],"type":"MultiPolygon"}
+}

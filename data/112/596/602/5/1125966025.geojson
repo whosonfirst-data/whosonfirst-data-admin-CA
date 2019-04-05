@@ -1,0 +1,92 @@
+{
+  "id": 1125966025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.891202,45.039779,-66.891202,45.039779",
+    "geom:latitude":45.039779,
+    "geom:longitude":-66.891202,
+    "gn:gn_country":"CA",
+    "iso:country":"CA",
+    "lbl:latitude":45.039779,
+    "lbl:longitude":-66.891202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Back Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Back Bay"
+    ],
+    "name:por_x_preferred":[
+        "Back Bay"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:name":"Back Bay",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"New Brunswick",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":990052,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23393344,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"New Brunswick",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682065,
+        1158869023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23393344,
+        "qs_pg:id":990052,
+        "wd:id":"Q4839060"
+    },
+    "wof:country":"CA",
+    "wof:created":1497297981,
+    "wof:geomhash":"9b9e9b63a311fcf801584af402e74647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869023,
+            "locality_id":1125966025,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":1125966025,
+    "wof:lastmodified":1531527229,
+    "wof:name":"Back Bay",
+    "wof:parent_id":1158869023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.891202,
+    45.039779,
+    -66.891202,
+    45.039779
+],
+  "geometry": {"coordinates":[-66.89120200000001,45.039779],"type":"Point"}
+}

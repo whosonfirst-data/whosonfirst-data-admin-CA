@@ -1,0 +1,72 @@
+{
+  "id": 1108971985,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Huff Bremner Estate Industrial",
+    "can-edmdsd:number":"3230",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1036535.359093,
+    "geom:bbox":"-113.578111868,53.5588231716,-113.565676447,53.5704187207",
+    "geom:latitude":53.564623,
+    "geom:longitude":-113.571894,
+    "iso:country":"CA",
+    "lbl:latitude":53.564623,
+    "lbl:longitude":-113.571894,
+    "mps:latitude":53.564623,
+    "mps:longitude":-113.571894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Huff Bremner Estate Industrial"
+    ],
+    "reversegeo:latitude":53.564623,
+    "reversegeo:longitude":-113.571894,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"da7646510b42e7ada7b10d84beaa91e0",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108971985,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971985,
+    "wof:lastmodified":1507246077,
+    "wof:name":"Huff Bremner Estate Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.5781118677866,
+    53.55882317155061,
+    -113.5656764469879,
+    53.57041872070606
+],
+  "geometry": {"coordinates":[[[[-113.57794942972797,53.56779184103358],[-113.57801788835275,53.57041872070606],[-113.5711541395108,53.57040914010582],[-113.56579181475891,53.57036767647372],[-113.56580890235425,53.5693389584453],[-113.56570359212786,53.56908921523379],[-113.56571530636843,53.56580671579763],[-113.565837617876,53.56521789325414],[-113.56585821129846,53.56288087861487],[-113.56582726431859,53.56048892595577],[-113.56580346434838,53.55936376737418],[-113.56567644698789,53.55882317155061],[-113.57268291073451,53.55883734200576],[-113.57797298436685,53.55889339972208],[-113.5781118677866,53.56048405210048],[-113.57810545579808,53.56076195848939],[-113.57803503259264,53.56316123563388],[-113.57795668962824,53.564220181683],[-113.57793933919095,53.56527773538631],[-113.57794942972797,53.56779184103358]]]],"type":"MultiPolygon"}
+}

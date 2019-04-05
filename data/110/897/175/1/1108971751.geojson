@@ -1,0 +1,74 @@
+{
+  "id": 1108971751,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Callingwood North",
+    "can-edmdsd:number":"4070",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":907139.733986,
+    "geom:bbox":"-113.631162229,53.5030212103,-113.615246996,53.512174429",
+    "geom:latitude":53.508013,
+    "geom:longitude":-113.623304,
+    "iso:country":"CA",
+    "lbl:latitude":53.508164,
+    "lbl:longitude":-113.623304,
+    "mps:latitude":53.508164,
+    "mps:longitude":-113.623304,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Callingwood North"
+    ],
+    "reversegeo:latitude":53.508164,
+    "reversegeo:longitude":-113.623304,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970629,
+        85633041,
+        890458485,
+        1108971233,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5022203"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"4608f3b8179dd99716ef1f42d940ca2a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971233,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970629,
+            "neighbourhood_id":1108971751,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971751,
+    "wof:lastmodified":1513923057,
+    "wof:name":"Callingwood North",
+    "wof:parent_id":1108970629,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.63116222886715,
+    53.50302121034942,
+    -113.61524699604665,
+    53.5121744289612
+],
+  "geometry": {"coordinates":[[[[-113.6154465477172,53.50467212130093],[-113.61837606334842,53.50465703147177],[-113.61951713228467,53.50461216205124],[-113.62116270699086,53.5044721216298],[-113.6229928368636,53.50424009575358],[-113.62728278621647,53.50347117037625],[-113.62891463978215,53.50323849459161],[-113.63116222886715,53.50302121034942],[-113.63114653222377,53.50516226744448],[-113.6309943133687,53.5062582973211],[-113.63025638882755,53.50941743522539],[-113.62990998825896,53.5121744289612],[-113.61524699604665,53.51210780730298],[-113.6154465477172,53.50467212130093]]]],"type":"MultiPolygon"}
+}

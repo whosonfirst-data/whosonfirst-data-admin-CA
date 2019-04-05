@@ -1,0 +1,111 @@
+{
+  "id": 101735805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000773,
+    "geom:area_square_m":6436976.57377,
+    "geom:bbox":"-79.7814895,47.6532278,-79.7491296,47.6821739",
+    "geom:latitude":47.667675,
+    "geom:longitude":-79.767366,
+    "iso:country":"CA",
+    "lbl:latitude":47.667648,
+    "lbl:longitude":-79.769296,
+    "mps:latitude":47.667648,
+    "mps:longitude":-79.769296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0644\u0648\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u043e\u0440\u043d\u043b\u043e\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Thornloe"
+    ],
+    "name:dut_x_preferred":[
+        "Thornloe"
+    ],
+    "name:eng_x_preferred":[
+        "Thornloe"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0644\u0648"
+    ],
+    "name:hbs_x_preferred":[
+        "Thornloe"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0644\u0648"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0440\u043d\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Thornloe"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Ontario",
+    "qs:a1_lc":"ON",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thornloe",
+    "qs:loc_alt":"Village of Thornloe",
+    "qs:loc_lc":"0d03e186849c20c30df2406c550ff55c",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":47.6667,
+    "wd:longitude":-79.7583,
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890457739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6165702,
+        "gp:id":56623050,
+        "wd:id":"Q4864817",
+        "wk:page":"Thornloe"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"94f2e10c3d08677f548d4f8911ed5995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457739,
+            "locality_id":101735805,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":101735805,
+    "wof:lastmodified":1533274040,
+    "wof:name":"Thornloe",
+    "wof:parent_id":890457739,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7814895,
+    47.6532278,
+    -79.7491296,
+    47.6821739
+],
+  "geometry": {"coordinates":[[[-79.74916690000001,47.667715],[-79.7491668,47.6676245],[-79.7491661,47.6669008],[-79.7491601,47.6605341],[-79.7491599,47.6604672],[-79.7599008,47.6604215],[-79.7598926,47.6532278],[-79.77060659999999,47.6532542],[-79.7706482,47.6532544],[-79.7812516,47.6532802],[-79.78125199999999,47.6533724],[-79.78128220000001,47.6607263],[-79.7813104,47.6675715],[-79.7813106,47.6676021],[-79.7813111,47.6677073],[-79.78135589999999,47.6677073],[-79.7814238,47.6749187],[-79.7814489,47.6775783],[-79.7814711,47.6799172],[-79.78147199999999,47.6800257],[-79.78147540000001,47.6803821],[-79.78148950000001,47.6818777],[-79.7813555,47.6818796],[-79.7706707,47.6820265],[-79.77059939999999,47.6820275],[-79.7698608,47.6820376],[-79.7633539,47.6821265],[-79.7598729,47.6821739],[-79.7598912,47.6749398],[-79.7491296,47.674911],[-79.7491318,47.6740796],[-79.7491325,47.673841],[-79.7491478,47.6682262],[-79.74914800000001,47.6681975],[-79.74914889999999,47.6678467],[-79.749149,47.6678055],[-79.74914920000001,47.667715],[-79.74916690000001,47.667715]]],"type":"Polygon"}
+}

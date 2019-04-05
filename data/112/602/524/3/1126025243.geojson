@@ -1,0 +1,98 @@
+{
+  "id": 1126025243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88302,43.90009,-80.88302,43.90009",
+    "geom:latitude":43.90009,
+    "geom:longitude":-80.88302,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":43.90009,
+    "lbl:longitude":-80.88302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Harriston"
+    ],
+    "name:eng_x_preferred":[
+        "Harriston"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30ea\u30b9\u30c8\u30f3"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":5971448,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Harriston",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":335472,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":4345,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5971448,
+        "gp:id":4345,
+        "qs_pg:id":335472,
+        "wd:id":"Q5666261"
+    },
+    "wof:country":"CA",
+    "wof:created":1497301100,
+    "wof:geomhash":"031a7355ff39b2578cf58f7e53a9c63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456827,
+            "locality_id":1126025243,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126025243,
+    "wof:lastmodified":1533270167,
+    "wof:name":"Harriston",
+    "wof:parent_id":890456827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88302,
+    43.90009,
+    -80.88302,
+    43.90009
+],
+  "geometry": {"coordinates":[-80.88302,43.90009],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101744713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:bbox":"-122.6978352,50.3376118,-122.6864714,50.3521675",
+    "geom:latitude":50.34489,
+    "geom:longitude":-122.692155,
+    "iso:country":"CA",
+    "lbl:latitude":50.344889,
+    "lbl:longitude":-122.692154,
+    "mps:latitude":50.344889,
+    "mps:longitude":-122.692154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mount Currie"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Currie 7"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Currie"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MOUNT CURRIE 7",
+    "qs:loc_alt":"MOUNT CURRIE NO 7",
+    "qs:loc_lc":"923c2310ba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373638
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"618c95fff597da904314bd6af7fe6e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456953,
+            "locality_id":101744713,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744713,
+    "wof:lastmodified":1533335897,
+    "wof:name":"Mount Currie 7",
+    "wof:parent_id":890456953,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.69783519999999,
+    50.3376118,
+    -122.68647140000002,
+    50.3521675
+],
+  "geometry": {"coordinates":[[[-122.68647140000002,50.3520689],[-122.6865052,50.34484250000003],[-122.68652029999998,50.3416072],[-122.68654100000001,50.3376118],[-122.68704989999998,50.33761629999998],[-122.6877738,50.33762150000001],[-122.68850519999999,50.33762789999997],[-122.69783519999999,50.33770980000003],[-122.6978158,50.34200750000002],[-122.6978153,50.342675],[-122.69777169999998,50.3521675],[-122.68647140000002,50.3520689]]],"type":"Polygon"}
+}

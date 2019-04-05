@@ -1,0 +1,87 @@
+{
+  "id": 85866607,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"137",
+    "can-wpgppd:name":"Cloutier Drive",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":818729.670867,
+    "geom:bbox":"-97.156605,49.773824,-97.131484,49.784556",
+    "geom:latitude":49.779382,
+    "geom:longitude":-97.143063,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.779306,
+    "lbl:longitude":-97.143196,
+    "mps:latitude":49.759131,
+    "mps:longitude":-97.14472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Cloutier Drive"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968781,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332857,
+        "qs:id":897093,
+        "qs_pg:id":897093
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9bbf9aef83d095c2d1bc15ecc0fd7abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968781,
+            "neighbourhood_id":85866607,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866607,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523913,
+    "wof:name":"Cloutier Drive",
+    "wof:parent_id":1108968781,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.156605,
+    49.773824,
+    -97.131484,
+    49.784556
+],
+  "geometry": {"coordinates":[[[[-97.15337700000001,49.77438],[-97.15277399999999,49.774834],[-97.15124400000001,49.775588],[-97.149484,49.776183],[-97.147807,49.776732],[-97.145163,49.777324],[-97.14256899999999,49.777784],[-97.140417,49.778021],[-97.138419,49.77823],[-97.13619,49.778277],[-97.134131,49.778485],[-97.133039,49.778812],[-97.13233200000001,49.779229],[-97.13185,49.779721],[-97.13151000000001,49.780402],[-97.131484,49.780942],[-97.13186899999999,49.781757],[-97.132671,49.782566],[-97.13474100000001,49.784177],[-97.135172,49.784556],[-97.135909,49.784298],[-97.144537,49.781282],[-97.156605,49.777063],[-97.156435,49.773824],[-97.156128,49.773931],[-97.154408,49.774531],[-97.154213,49.774599],[-97.15337700000001,49.77438]]]],"type":"MultiPolygon"}
+}

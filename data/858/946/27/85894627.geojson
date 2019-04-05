@@ -1,0 +1,120 @@
+{
+  "id": 85894627,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Ardingley - Sprott",
+    "can-bbygov:OBJECTID_1":"13",
+    "can-bbygov:PSA":"8",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":1965887.266647,
+    "geom:bbox":"-122.988406876,49.2422805262,-122.964579943,49.2651375355",
+    "geom:latitude":49.256026,
+    "geom:longitude":-122.97322,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.256317,
+    "lbl:longitude":-122.972047,
+    "mps:latitude":49.257772,
+    "mps:longitude":-122.966999,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Ardingley-Sprott"
+    ],
+    "name:eng_x_variant":[
+        "Ardingley - Sprott"
+    ],
+    "name:unk_x_variant":[
+        "Ardingley-Sprott"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Ardingley-Sprott",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":393,
+    "qs:photo_sum":1248,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.256317,
+    "reversegeo:longitude":-122.972047,
+    "src:geom":"can-bbygov",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108915097,
+        85633041,
+        101741055,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998706,
+        "qs:id":897465,
+        "qs_pg:id":897465
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"b3216e4fd2531c3e2a21138f1c4854ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915097,
+            "neighbourhood_id":85894627,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894627,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335941,
+    "wof:name":"Ardingley-Sprott",
+    "wof:parent_id":1108915097,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.98840687606558,
+    49.24228052624505,
+    -122.96457994312122,
+    49.26513753545981
+],
+  "geometry": {"coordinates":[[[[-122.96822296704811,49.26071725689459],[-122.96457994312122,49.25959179622322],[-122.96462245454963,49.257801762049],[-122.9647073881418,49.24228052624505],[-122.96805643689115,49.24390514104021],[-122.97384234914276,49.25038316167418],[-122.97829004120035,49.25546188535854],[-122.98046708015549,49.25722533621737],[-122.98281264352751,49.25771145054031],[-122.98330598423735,49.25933515777601],[-122.98382589105552,49.25993341412691],[-122.98618178983146,49.26243888536267],[-122.98840687606558,49.26329367459358],[-122.98762151716171,49.26410316147002],[-122.9869464633003,49.26513753545981],[-122.98103960879072,49.26492982738466],[-122.9783269438518,49.2643581549799],[-122.96822296704811,49.26071725689459]]]],"type":"MultiPolygon"}
+}

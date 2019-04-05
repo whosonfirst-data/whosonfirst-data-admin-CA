@@ -1,0 +1,89 @@
+{
+  "id": 85784943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2137520.360386,
+    "geom:bbox":"-106.604967,52.139302,-106.604967,52.139302",
+    "geom:latitude":52.139302,
+    "geom:longitude":-106.604967,
+    "gn:latitude":52.13899,
+    "gn:longitude":-106.60402,
+    "iso:country":"CA",
+    "lbl:latitude":52.139302,
+    "lbl:longitude":-106.604967,
+    "mps:latitude":52.137057,
+    "mps:longitude":-106.608326,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Sutherland"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":2208,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115071,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6159999,
+        "gp:id":1772,
+        "qs:id":1113268,
+        "qs_pg:id":1113268,
+        "wd:id":"Q7649948",
+        "wk:page":"Sutherland, Saskatoon"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3942908e5e3e4da7783a92dbc5bccf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115071,
+            "neighbourhood_id":85784943,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85784943,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531860661,
+    "wof:name":"Sutherland",
+    "wof:parent_id":1126115071,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.604967,
+    52.139302,
+    -106.604967,
+    52.139302
+],
+  "geometry": {"coordinates":[-106.604967,52.139302],"type":"Point"}
+}

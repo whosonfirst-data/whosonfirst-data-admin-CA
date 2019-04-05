@@ -1,0 +1,74 @@
+{
+  "id": 101743349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"-128.7849004,53.8989107,-128.7816572,53.9007297",
+    "geom:latitude":53.899815,
+    "geom:longitude":-128.783315,
+    "iso:country":"CA",
+    "lbl:latitude":53.899814,
+    "lbl:longitude":-128.783318,
+    "mps:latitude":53.899814,
+    "mps:longitude":-128.783318,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Kitasa 7"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KITASA 7",
+    "qs:loc_alt":"KITASA NO 7",
+    "qs:loc_lc":"44d3c88eba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117
+    ],
+    "wof:breaches":[
+        101740849
+    ],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"732e6686c93b9916f3fa20594126bb47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101743349,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743349,
+    "wof:lastmodified":1493163507,
+    "wof:name":"Kitasa 7",
+    "wof:parent_id":85682117,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.78490040000003,
+    53.89891069999999,
+    -128.78165719999998,
+    53.9007297
+],
+  "geometry": {"coordinates":[[[-128.78490040000003,53.89891929999999],[-128.78489160000001,53.9007297],[-128.78183530000001,53.9006966],[-128.78174689999997,53.9004994],[-128.78173409999999,53.9004372],[-128.78169609999998,53.90013060000001],[-128.78165719999998,53.8999983],[-128.7816679,53.89985050000001],[-128.78169209999999,53.899626],[-128.7817096,53.89944129999998],[-128.78175210000001,53.8992366],[-128.78176569999999,53.89911080000002],[-128.781823,53.89900030000001],[-128.78184119999997,53.89891069999999],[-128.78186440000002,53.89891069999999],[-128.78490040000003,53.89891929999999]]],"type":"Polygon"}
+}

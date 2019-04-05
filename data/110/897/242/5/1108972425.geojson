@@ -1,0 +1,72 @@
+{
+  "id": 1108972425,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"West Sheffield Industrial",
+    "can-edmdsd:number":"4600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":621600.816873,
+    "geom:bbox":"-113.615240481,53.5559486991,-113.602438785,53.5630367675",
+    "geom:latitude":53.559602,
+    "geom:longitude":-113.609219,
+    "iso:country":"CA",
+    "lbl:latitude":53.559498,
+    "lbl:longitude":-113.60922,
+    "mps:latitude":53.559498,
+    "mps:longitude":-113.60922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "West Sheffield Industrial"
+    ],
+    "reversegeo:latitude":53.559498,
+    "reversegeo:longitude":-113.60922,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"efcaad3f9bfd0da26e0e89b9895c9780",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108972425,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972425,
+    "wof:lastmodified":1507246080,
+    "wof:name":"West Sheffield Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.61524048144325,
+    53.55594869912666,
+    -113.60243878472807,
+    53.563036767545
+],
+  "geometry": {"coordinates":[[[[-113.61521771373251,53.56135285087028],[-113.61524048144325,53.56303463139525],[-113.61061598321147,53.56303151978296],[-113.60644525026783,53.563036767545],[-113.60277606393097,53.56303164442424],[-113.6027931329664,53.56079411285234],[-113.60287109431813,53.5590849337265],[-113.60243878472807,53.55856513308012],[-113.60321487204614,53.55820201354349],[-113.60379371174704,53.5577438624959],[-113.60517306486945,53.55594869912666],[-113.60823014145156,53.55596192439791],[-113.61522759100002,53.55596213204586],[-113.61521934883223,53.55782554407661],[-113.61523644181375,53.55952331707502],[-113.61521771373251,53.56135285087028]]]],"type":"MultiPolygon"}
+}

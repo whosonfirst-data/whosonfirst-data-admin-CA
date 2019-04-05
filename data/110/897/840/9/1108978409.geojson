@@ -1,0 +1,79 @@
+{
+  "id": 1108978409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12647.115873,
+    "geom:bbox":"-75.6923568864,45.4235708272,-75.6902284737,45.4248657686",
+    "geom:latitude":45.424164,
+    "geom:longitude":-75.691238,
+    "iso:country":"CA",
+    "lbl:latitude":45.425232,
+    "lbl:longitude":-75.689662,
+    "mps:latitude":45.424219,
+    "mps:longitude":-75.691223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "Centre Shaw"
+    ],
+    "name:eng_x_variant":[
+        "Congress Centre",
+        "Shaw Centre",
+        "Ottawa Convention Centre"
+    ],
+    "reversegeo:latitude":45.424219,
+    "reversegeo:longitude":-75.691223,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        85874479,
+        102191575,
+        1126058431,
+        85633041,
+        101735873,
+        890458681,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"f2c06aed51424051cc1a262e6d30061a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458681,
+            "locality_id":101735873,
+            "macrohood_id":1126058431,
+            "microhood_id":1108978409,
+            "neighbourhood_id":85874479,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1108978409,
+    "wof:lastmodified":1533277904,
+    "wof:name":"Centre Shaw",
+    "wof:parent_id":85874479,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85871119
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69235688642792,
+    45.42357082716833,
+    -75.69022847365395,
+    45.42486576855513
+],
+  "geometry": {"coordinates":[[[[-75.69096256948269,45.42357082716833],[-75.69152099458302,45.42375693491879],[-75.69179694839733,45.42385428752814],[-75.69188455278281,45.42389425322666],[-75.69196339672976,45.42393473127652],[-75.69203348023814,45.42397572167776],[-75.69209991356381,45.42401619967032],[-75.69216269670675,45.4240561652542],[-75.69221890952076,45.42409920507862],[-75.69226855200588,45.42414531914356],[-75.69231454430826,45.42418887128438],[-75.69235688642792,45.42422986150108],[-75.69104939097447,45.42486576855513],[-75.69022847365395,45.42388745702868],[-75.69090100008106,45.42359800024758],[-75.69096256948269,45.42357082716833]]]],"type":"MultiPolygon"}
+}

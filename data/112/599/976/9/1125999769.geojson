@@ -1,0 +1,82 @@
+{
+  "id": 1125999769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.219942,45.393628,-74.219942,45.393628",
+    "geom:latitude":45.393628,
+    "geom:longitude":-74.219942,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.393628,
+    "lbl:longitude":-74.219942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Clet",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":256,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":256,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241595,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23394503,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890457811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23394503,
+        "qs_pg:id":241595
+    },
+    "wof:country":"CA",
+    "wof:created":1497299574,
+    "wof:geomhash":"83c8049d345c8de01881357a6d038e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457811,
+            "locality_id":1125999769,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125999769,
+    "wof:lastmodified":1533335713,
+    "wof:name":"St.-Clet",
+    "wof:parent_id":890457811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.219942,
+    45.393628,
+    -74.219942,
+    45.393628
+],
+  "geometry": {"coordinates":[-74.219942,45.393628],"type":"Point"}
+}

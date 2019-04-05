@@ -1,0 +1,82 @@
+{
+  "id": 1125922573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.645278,46.471384,-71.645278,46.471384",
+    "geom:latitude":46.471384,
+    "geom:longitude":-71.645278,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.471384,
+    "lbl:longitude":-71.645278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Janvier-de-Joly",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1198807,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23396661,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23396661,
+        "qs_pg:id":1198807
+    },
+    "wof:country":"CA",
+    "wof:created":1497296533,
+    "wof:geomhash":"8d4e11192a568524e697671e84f6d78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458401,
+            "locality_id":1125922573,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125922573,
+    "wof:lastmodified":1533335707,
+    "wof:name":"St.-Janvier-de-Joly",
+    "wof:parent_id":890458401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.645278,
+    46.471384,
+    -71.645278,
+    46.471384
+],
+  "geometry": {"coordinates":[-71.645278,46.471384],"type":"Point"}
+}

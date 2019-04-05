@@ -1,0 +1,100 @@
+{
+  "id": 85895305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9610129.130409,
+    "geom:bbox":"-79.179622,43.769706,-79.179622,43.769706",
+    "geom:latitude":43.769706,
+    "geom:longitude":-79.179622,
+    "iso:country":"CA",
+    "lbl:latitude":43.769706,
+    "lbl:longitude":-79.179622,
+    "mps:latitude":43.771476,
+    "mps:longitude":-79.175172,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "West Hill"
+    ],
+    "name:deu_x_preferred":[
+        "West Hill"
+    ],
+    "name:eng_x_preferred":[
+        "West Hill"
+    ],
+    "name:pol_x_preferred":[
+        "West Hill"
+    ],
+    "name:swe_x_preferred":[
+        "West Hill"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "torsdfa:AREA_NAME":"West Hill (136)",
+    "torsdfa:AREA_S_CD":"136",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735835,
+        1108833311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6178999,
+        "gp:id":55999288,
+        "qs:id":1062973,
+        "qs_pg:id":1062973,
+        "wd:id":"Q7985375"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"9485ed05cfe820d10bd53ffec3eb39a3",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108833311,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457465,
+            "locality_id":101735835,
+            "neighbourhood_id":85895305,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895305,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931375,
+    "wof:name":"West Hill",
+    "wof:parent_id":1108833311,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.179622,
+    43.769706,
+    -79.179622,
+    43.769706
+],
+  "geometry": {"coordinates":[-79.17962199999999,43.769706],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 85784743,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1085",
+    "can-wpgppd:name":"Dufresne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":158003.709706,
+    "geom:bbox":"-97.106755,49.881924,-97.098791,49.885774",
+    "geom:latitude":49.883928,
+    "geom:longitude":-97.102499,
+    "iso:country":"CA",
+    "lbl:latitude":49.884091,
+    "lbl:longitude":-97.101929,
+    "mps:latitude":49.882246,
+    "mps:longitude":-97.09571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:deu_x_preferred":[
+        "Dufresne"
+    ],
+    "name:eng_x_preferred":[
+        "Dufresne"
+    ],
+    "name:fra_x_preferred":[
+        "Dufresne"
+    ],
+    "name:por_x_preferred":[
+        "Dufresne"
+    ],
+    "name:spa_x_preferred":[
+        "Dufresne"
+    ],
+    "name:unk_x_variant":[
+        "Dufresne"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6183235,
+    "qs:gn_nam_loc":"Winnipeg, Manitoba, Manitoba, CA",
+    "qs:gn_namadm1":"03",
+    "qs:id":0,
+    "qs:local_max":4766,
+    "qs:local_sum":55180,
+    "qs:localhoods":116,
+    "qs:name":"Dufresne",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Manitoba",
+    "qs:name_adm2":"Manitoba",
+    "qs:name_local":"Winnipeg",
+    "qs:photo_max":12,
+    "qs:photo_sum":53,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344917,
+    "qs:woe_adm2":29375231,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":2972,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.883895,
+    "reversegeo:longitude":-97.101703,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":262,
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968469,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":427
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e1868a7c6b2f24a5eec7ba80bca73ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968469,
+            "neighbourhood_id":85784743,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85784743,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523913,
+    "wof:name":"Dufresne",
+    "wof:parent_id":1108968469,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.106755,
+    49.881924,
+    -97.098791,
+    49.885774
+],
+  "geometry": {"coordinates":[[[[-97.100883,49.88577],[-97.10156600000001,49.885769],[-97.10271400000001,49.885767],[-97.102744,49.885767],[-97.102994,49.885767],[-97.104534,49.885764],[-97.104619,49.885764],[-97.105146,49.885763],[-97.105253,49.885774],[-97.105549,49.885592],[-97.10567899999999,49.885214],[-97.105852,49.88504],[-97.106056,49.885],[-97.106312,49.884887],[-97.10659800000001,49.884649],[-97.106695,49.884512],[-97.10675500000001,49.884286],[-97.10674299999999,49.884117],[-97.10657500000001,49.883899],[-97.106483,49.883885],[-97.10631100000001,49.883908],[-97.105715,49.884196],[-97.10556200000001,49.884222],[-97.105289,49.884184],[-97.104516,49.883714],[-97.104224,49.883575],[-97.103442,49.883378],[-97.10334400000001,49.883322],[-97.103298,49.88324],[-97.10329900000001,49.883138],[-97.103373,49.883058],[-97.10432400000001,49.882562],[-97.10469000000001,49.882448],[-97.104815,49.882375],[-97.104885,49.882218],[-97.104878,49.882127],[-97.09879100000001,49.881924],[-97.100736,49.885771],[-97.100883,49.88577]]]],"type":"MultiPolygon"}
+}

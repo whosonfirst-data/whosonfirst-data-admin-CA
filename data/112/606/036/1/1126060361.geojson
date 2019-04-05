@@ -1,0 +1,101 @@
+{
+  "id": 1126060361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6997,43.38339,-80.6997,43.38339",
+    "geom:latitude":43.38339,
+    "geom:longitude":-80.6997,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":43.38339,
+    "lbl:longitude":-80.6997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "New Hamburg"
+    ],
+    "name:eng_x_preferred":[
+        "New Hamburg"
+    ],
+    "name:fre_x_preferred":[
+        "New Hamburg"
+    ],
+    "name:ger_x_preferred":[
+        "New Hamburg"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6087591,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"New Hamburg",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":4844,
+    "qs_pg:photos_1k":982,
+    "qs_pg:photos_9k":21,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4844,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074080,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1074,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6087591,
+        "gp:id":1074,
+        "qs_pg:id":1074080,
+        "wd:id":"Q7008036"
+    },
+    "wof:country":"CA",
+    "wof:created":1497304116,
+    "wof:geomhash":"3974394510ee8bd49a8a500c9c71618d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456483,
+            "locality_id":1126060361,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126060361,
+    "wof:lastmodified":1533262106,
+    "wof:name":"New Hamburg",
+    "wof:parent_id":890456483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6997,
+    43.38339,
+    -80.6997,
+    43.38339
+],
+  "geometry": {"coordinates":[-80.69970000000001,43.38339],"type":"Point"}
+}

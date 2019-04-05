@@ -1,0 +1,86 @@
+{
+  "id": 101739095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":747024.987942,
+    "geom:bbox":"-107.4083203,50.3992423,-107.3967095,50.4082883",
+    "geom:latitude":50.403364,
+    "geom:longitude":-107.402207,
+    "iso:country":"CA",
+    "lbl:latitude":50.403415,
+    "lbl:longitude":-107.402207,
+    "mps:latitude":50.403415,
+    "mps:longitude":-107.402207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rush Lake"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rush Lake",
+    "qs:loc_lc":"0c2cd5ba849c20c35fafaa45bca67d20",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":55.15,
+    "wd:longitude":-107.617,
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03bd2f40-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6136489,
+        "gp:id":23402871,
+        "wk:page":"Rush Lake, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"5de4a949b046dcfe5fb507570a8b80ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868947,
+            "locality_id":101739095,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739095,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524132,
+    "wof:name":"Rush Lake",
+    "wof:parent_id":1158868947,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.4083203,
+    50.3992423,
+    -107.3967095,
+    50.4082883
+],
+  "geometry": {"coordinates":[[[-107.4027282,50.3992451],[-107.40831590000001,50.3992482],[-107.4083174,50.4010581],[-107.4083203,50.404676],[-107.4083203,50.4046827],[-107.40832,50.4052941],[-107.40831970000001,50.4058841],[-107.407287,50.4061467],[-107.4073662,50.406274],[-107.4026628,50.4074698],[-107.4023796,50.4075416],[-107.39943390000001,50.4082883],[-107.3967136,50.4082862],[-107.39671370000001,50.4077978],[-107.396715,50.4046719],[-107.39671130000001,50.4010522],[-107.3967095,50.3992423],[-107.40229960000001,50.3992448],[-107.4023724,50.3992449],[-107.40265530000001,50.399245],[-107.4027282,50.3992451]]],"type":"Polygon"}
+}

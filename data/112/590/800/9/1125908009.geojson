@@ -1,0 +1,82 @@
+{
+  "id": 1125908009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.483673,48.673733,-72.483673,48.673733",
+    "geom:latitude":48.673733,
+    "geom:longitude":-72.483673,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":48.673733,
+    "lbl:longitude":-72.483673,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-F\u00e9licien",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":1395,
+    "qs_pg:photos_1k":283,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1395,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1188590,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1483,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1483,
+        "qs_pg:id":1188590
+    },
+    "wof:country":"CA",
+    "wof:created":1497296050,
+    "wof:geomhash":"cdaec19585b0c00e1a801395ba67e642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458021,
+            "locality_id":1125908009,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125908009,
+    "wof:lastmodified":1533335706,
+    "wof:name":"St.-F\u00e9licien",
+    "wof:parent_id":890458021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.483673,
+    48.673733,
+    -72.483673,
+    48.673733
+],
+  "geometry": {"coordinates":[-72.483673,48.673733],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 85866577,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"83",
+    "can-wpgppd:name":"William Whyte",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1157765.435631,
+    "geom:bbox":"-97.156739,49.911693,-97.131024,49.92428",
+    "geom:latitude":49.91807,
+    "geom:longitude":-97.143541,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.917919,
+    "lbl:longitude":-97.143674,
+    "mps:latitude":49.919727,
+    "mps:longitude":-97.140021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:deu_x_preferred":[
+        "William Whyte"
+    ],
+    "name:eng_x_preferred":[
+        "William Whyte"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968519,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332841,
+        "qs:id":15267,
+        "qs_pg:id":15267
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"0a4446405fddc10e52bfb7ca34909e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968519,
+            "neighbourhood_id":85866577,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866577,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523917,
+    "wof:name":"William Whyte",
+    "wof:parent_id":1108968519,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.156739,
+    49.911693,
+    -97.131024,
+    49.92428
+],
+  "geometry": {"coordinates":[[[[-97.156474,49.919357],[-97.156739,49.919014],[-97.156614,49.918973],[-97.154355,49.918248],[-97.154104,49.918167],[-97.15184600000001,49.917442],[-97.151596,49.917361],[-97.14933499999999,49.916635],[-97.149084,49.916554],[-97.146826,49.915829],[-97.146576,49.915748],[-97.144318,49.915023],[-97.14406700000001,49.914942],[-97.14181000000001,49.914217],[-97.141685,49.914177],[-97.141431,49.914506],[-97.132668,49.911693],[-97.132024,49.914181],[-97.13154400000001,49.916424],[-97.13123299999999,49.91704],[-97.131024,49.917301],[-97.13676,49.919151],[-97.145144,49.921857],[-97.152664,49.92428],[-97.156212,49.919699],[-97.156474,49.919357]]]],"type":"MultiPolygon"}
+}

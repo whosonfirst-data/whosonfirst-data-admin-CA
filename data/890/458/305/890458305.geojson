@@ -1,0 +1,76 @@
+{
+  "id": 890458305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.21482,48.49991,-54.21482,48.49991",
+    "geom:latitude":48.49991,
+    "geom:longitude":-54.21482,
+    "gn:country":"CA",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424775,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Terra Nova"
+    ],
+    "qs:name":"Terra Nova",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Newfoundland and Labrador",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":783,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682123,
+        1158869019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6162976,
+        "gp:id":3968,
+        "qs:id":1053589,
+        "wk:page":"Terra Nova"
+    },
+    "wof:country":"CA",
+    "wof:created":1469053203,
+    "wof:geomhash":"a0c393c2581e2a8fa16d86e053276b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869019,
+            "locality_id":890458305,
+            "region_id":85682123
+        }
+    ],
+    "wof:id":890458305,
+    "wof:lastmodified":1531526773,
+    "wof:name":"Terra Nova",
+    "wof:parent_id":1158869019,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.21482,
+    48.49991,
+    -54.21482,
+    48.49991
+],
+  "geometry": {"coordinates":[-54.21482,48.49991],"type":"Point"}
+}

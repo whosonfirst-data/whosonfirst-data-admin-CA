@@ -1,0 +1,118 @@
+{
+  "id": 85894643,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Oakalla",
+    "can-bbygov:OBJECTID_1":"31",
+    "can-bbygov:PSA":"37",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1233478.085361,
+    "geom:bbox":"-122.988974178,49.228782064,-122.968868906,49.2386333237",
+    "geom:latitude":49.234114,
+    "geom:longitude":-122.980295,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.233839,
+    "lbl:longitude":-122.977276,
+    "mps:latitude":49.231947,
+    "mps:longitude":-122.976769,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Oaklands"
+    ],
+    "name:eng_x_variant":[
+        "OaklandsL"
+    ],
+    "name:unk_x_variant":[
+        "Oaklands"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Oaklands",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":83,
+    "qs:photo_sum":551,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.233839,
+    "reversegeo:longitude":-122.977276,
+    "src:geom":"can-bbygov",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        1108915103,
+        85633041,
+        101741055,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998714,
+        "qs:id":1306524
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9a210a9a8eaa255344fdae2ffab58931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915103,
+            "neighbourhood_id":85894643,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894643,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335941,
+    "wof:name":"Oakalla",
+    "wof:parent_id":1108915103,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.9889741781105,
+    49.2287820640214,
+    -122.96886890592053,
+    49.23863332371503
+],
+  "geometry": {"coordinates":[[[[-122.96886890592053,49.2382158737941],[-122.96902263436465,49.23815294841169],[-122.97208978326853,49.23696186021831],[-122.97200029340455,49.23427675700818],[-122.97203539852059,49.2314027832583],[-122.97201849073134,49.22941932426389],[-122.97614846222316,49.22944273902824],[-122.97735775900176,49.22906068394033],[-122.97857986752953,49.2287820640214],[-122.97941382817733,49.22880470380942],[-122.98062541892038,49.22903429338012],[-122.98059893089177,49.23091429671418],[-122.98322541661838,49.23093719614495],[-122.98322930272178,49.2296014011399],[-122.98600294863529,49.22961076581501],[-122.98685752088753,49.22966034012943],[-122.98783954346474,49.22984035283852],[-122.98894349303119,49.22993491399048],[-122.9889741781105,49.23863332371503],[-122.97594185834392,49.23858636837252],[-122.97595155195634,49.2380736414943],[-122.9743888147753,49.23825321046901],[-122.97398960077719,49.2381901545611],[-122.97343749696198,49.23823500424687],[-122.97295583058573,49.23822140051905],[-122.97229814937056,49.23821224942974],[-122.9718400917274,49.23820314343159],[-122.97093544866738,49.23839181948382],[-122.97046571872957,49.23851763375434],[-122.97016006135605,49.23850855995912],[-122.96972565487816,49.23843198735747],[-122.96931443195845,49.23835541928191],[-122.96931450998133,49.2382294858876],[-122.96886890592053,49.2382158737941]]]],"type":"MultiPolygon"}
+}

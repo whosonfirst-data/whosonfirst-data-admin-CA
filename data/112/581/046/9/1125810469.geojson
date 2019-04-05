@@ -1,0 +1,98 @@
+{
+  "id": 1125810469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-128.48193,59.9253,-128.48193,59.9253",
+    "geom:latitude":59.9253,
+    "geom:longitude":-128.48193,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":59.9253,
+    "lbl:longitude":-128.48193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lower Post"
+    ],
+    "name:eng_x_preferred":[
+        "Lower Post"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30ef\u30fc\u30fb\u30dd\u30b9\u30c8"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6061443,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lower Post",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":160294,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":9309,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        1158868595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6061443,
+        "gp:id":9309,
+        "qs_pg:id":160294,
+        "wd:id":"Q6693724"
+    },
+    "wof:country":"CA",
+    "wof:created":1497291635,
+    "wof:geomhash":"e3993258d26a7fe06ce5d8e1242015be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868595,
+            "locality_id":1125810469,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125810469,
+    "wof:lastmodified":1531519735,
+    "wof:name":"Lower Post",
+    "wof:parent_id":1158868595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.48193,
+    59.9253,
+    -128.48193,
+    59.9253
+],
+  "geometry": {"coordinates":[-128.48193000000001,59.9253],"type":"Point"}
+}

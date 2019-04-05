@@ -1,0 +1,74 @@
+{
+  "id": 1108972303,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Schonsee",
+    "can-edmdsd:number":"2700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1239750.927351,
+    "geom:bbox":"-113.467413522,53.6286819929,-113.442872811,53.6360431704",
+    "geom:latitude":53.632157,
+    "geom:longitude":-113.454747,
+    "iso:country":"CA",
+    "lbl:latitude":53.632364,
+    "lbl:longitude":-113.452947,
+    "mps:latitude":53.632364,
+    "mps:longitude":-113.452947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Schonsee"
+    ],
+    "reversegeo:latitude":53.632364,
+    "reversegeo:longitude":-113.452947,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970593,
+        85633041,
+        890458485,
+        1108971111,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7432115"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"b1ada84b8008b83c6386631312608f43",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971111,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970593,
+            "neighbourhood_id":1108972303,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972303,
+    "wof:lastmodified":1513925835,
+    "wof:name":"Schonsee",
+    "wof:parent_id":1108970593,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.46741352151207,
+    53.62868199290796,
+    -113.44287281068036,
+    53.63604317044327
+],
+  "geometry": {"coordinates":[[[[-113.45536248010784,53.63513981483659],[-113.45510660189092,53.63513964124329],[-113.45510565521809,53.63604317044327],[-113.44327024962713,53.63603498946697],[-113.44287281068036,53.63603415841224],[-113.4429004241274,53.62870004134073],[-113.45126627233699,53.62868199290796],[-113.45511234402305,53.62869304795242],[-113.45971239532312,53.62869929266446],[-113.46741352151207,53.62869797146746],[-113.46739908618828,53.63499561493439],[-113.46739807367558,53.63514646987131],[-113.46723800780853,53.63514673562295],[-113.45996443981213,53.63514295121617],[-113.45536248010784,53.63513981483659]]]],"type":"MultiPolygon"}
+}

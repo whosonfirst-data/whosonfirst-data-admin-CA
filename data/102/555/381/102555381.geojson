@@ -1,0 +1,65 @@
+{
+  "id": 102555381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.7888888889,47.4097222222,-72.7888888889,47.4097222222",
+    "geom:latitude":47.409722,
+    "geom:longitude":-72.788889,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"548",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375225,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        85633041,
+        101737199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511724,
+        "iata:code":"YLQ",
+        "icao:code":"CYLQ",
+        "oa:id":"1804",
+        "wd:id":"Q3914332"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3d40b70449fce01b017f1523c3734a55",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555381,
+            "country_id":85633041,
+            "locality_id":101737199
+        }
+    ],
+    "wof:id":102555381,
+    "wof:lastmodified":1543846099,
+    "wof:name":"A\u00e9roport Municipal de la Tuque",
+    "wof:parent_id":101737199,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.788888888889,
+    47.409722222222,
+    -72.788888888889,
+    47.409722222222
+],
+  "geometry": {"coordinates":[-72.78888888888901,47.409722222222],"type":"Point"}
+}

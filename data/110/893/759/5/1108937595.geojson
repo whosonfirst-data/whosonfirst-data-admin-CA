@@ -1,0 +1,80 @@
+{
+  "id": 1108937595,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"160",
+    "can-wpgppd:name":"Victoria West",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":846820.802046,
+    "geom:bbox":"-97.025418,49.895069,-97.002569,49.900797",
+    "geom:latitude":49.897613,
+    "geom:longitude":-97.01257,
+    "iso:country":"CA",
+    "lbl:latitude":49.898053,
+    "lbl:longitude":-97.012958,
+    "mps:latitude":49.897952,
+    "mps:longitude":-97.01257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Victoria West"
+    ],
+    "reversegeo:latitude":49.897952,
+    "reversegeo:longitude":-97.01257,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968467,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:created":1491359784,
+    "wof:geomhash":"c102e825969ff3fc9f9531773a2cb1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968467,
+            "neighbourhood_id":1108937595,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937595,
+    "wof:lastmodified":1531523911,
+    "wof:name":"Victoria West",
+    "wof:parent_id":1108968467,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.025418,
+    49.895069,
+    -97.002569,
+    49.900797
+],
+  "geometry": {"coordinates":[[[[-97.00256899999999,49.895069],[-97.00264300000001,49.900234],[-97.002647,49.900576],[-97.002646,49.900718],[-97.016243,49.900797],[-97.01620699999999,49.898357],[-97.025418,49.898412],[-97.02538199999999,49.895205],[-97.00256899999999,49.895069]]]],"type":"MultiPolygon"}
+}

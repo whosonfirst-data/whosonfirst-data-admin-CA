@@ -1,0 +1,67 @@
+{
+  "id": 1360278723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.84389,44.65833,-76.84389,44.65833",
+    "geom:latitude":44.65833,
+    "geom:longitude":-76.84389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"McLean",
+    "gn:country_code":"CA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6070471,
+    "gn:latitude":44.65833,
+    "gn:longitude":-76.84389,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"McLean",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890457247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6070471
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a0902acfe3132d0b30529ca3af26f49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457247,
+            "locality_id":1360278723,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1360278723,
+    "wof:lastmodified":1536666367,
+    "wof:name":"McLean",
+    "wof:parent_id":890457247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.84389,
+    44.65833,
+    -76.84389,
+    44.65833
+],
+  "geometry": {"coordinates":[-76.84389,44.65833],"type":"Point"}
+}

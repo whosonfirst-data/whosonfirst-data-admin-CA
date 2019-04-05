@@ -1,0 +1,77 @@
+{
+  "id": 101745121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:bbox":"-121.9659259,52.1546871,-121.9564479,52.1692394",
+    "geom:latitude":52.162545,
+    "geom:longitude":-121.962089,
+    "iso:country":"CA",
+    "lbl:latitude":52.162517,
+    "lbl:longitude":-121.962562,
+    "mps:latitude":52.162517,
+    "mps:longitude":-121.962562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Five Mile 3"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"FIVE MILE 3",
+    "qs:loc_alt":"FIVE MILE NO  3",
+    "qs:loc_lc":"dc4f7f20ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23405777
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9a6a02885bd008734880a925a1172a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745121,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745121,
+    "wof:lastmodified":1533335904,
+    "wof:name":"Five Mile 3",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.9659259,
+    52.1546871,
+    -121.9564479,
+    52.16923939999998
+],
+  "geometry": {"coordinates":[[[-121.9564479,52.1691095],[-121.95647989999998,52.1684115],[-121.95649170000002,52.1681529],[-121.95649580000003,52.168063],[-121.956502,52.1679279],[-121.95650619999998,52.167837],[-121.95656289999999,52.1665961],[-121.9565695,52.16645219999998],[-121.9565869,52.1660718],[-121.9565915,52.16597239999999],[-121.9565963,52.16586660000002],[-121.9566145,52.1654696],[-121.95682390000002,52.16547309999999],[-121.95713289999998,52.1654782],[-121.95720879999999,52.16547939999998],[-121.95957439999999,52.1655187],[-121.959721,52.16191429999998],[-121.96005070000001,52.1546871],[-121.9659259,52.1547948],[-121.96507589999999,52.16923939999998],[-121.96215549999999,52.1692137],[-121.95789280000002,52.16913590000001],[-121.95753409999998,52.16912939999997],[-121.95673470000003,52.16911479999999],[-121.9564479,52.1691095]]],"type":"Polygon"}
+}

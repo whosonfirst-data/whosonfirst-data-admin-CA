@@ -1,0 +1,69 @@
+{
+  "id": 1108916031,
+  "type": "Feature",
+  "properties": {
+    "can-bbygov:NEIGHBOURH":"Lakeview - Mayfield",
+    "can-bbygov:OBJECTID_1":"1",
+    "can-bbygov:PSA":"36",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:area_square_m":1589337.250395,
+    "geom:bbox":"-122.953669396,49.2240780147,-122.927683366,49.2378035662",
+    "geom:latitude":49.232017,
+    "geom:longitude":-122.940715,
+    "iso:country":"CA",
+    "lbl:latitude":49.23122,
+    "lbl:longitude":-122.940518,
+    "mps:latitude":49.23122,
+    "mps:longitude":-122.940518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":49.23122,
+    "reversegeo:longitude":-122.940518,
+    "src:geom":"can-bbygov",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        1108915103,
+        85633041,
+        101741055,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"4bb2c63599b88d2221dc579ccd2eb695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741055,
+            "macrohood_id":1108915103,
+            "neighbourhood_id":1108916031,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1108916031,
+    "wof:lastmodified":1531521009,
+    "wof:name":"Lakeview - Mayfield",
+    "wof:parent_id":1108915103,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.95366939605569,
+    49.22407801471659,
+    -122.92768336626413,
+    49.23780356620896
+],
+  "geometry": {"coordinates":[[[[-122.93327677233721,49.23647371194522],[-122.92768336626413,49.23195023213523],[-122.93351725688051,49.22873343493006],[-122.93447592871405,49.22823474576851],[-122.93402107412037,49.22782970013444],[-122.93688068899054,49.22630660114149],[-122.9411212180564,49.22407801471659],[-122.9472795950132,49.22920828923849],[-122.95366939605569,49.23472961715458],[-122.94797191572393,49.23780356620896],[-122.94407855387371,49.2371136108158],[-122.94288526949772,49.2369915911782],[-122.93327677233721,49.23647371194522]]]],"type":"MultiPolygon"}
+}

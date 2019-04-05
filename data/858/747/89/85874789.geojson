@@ -1,0 +1,87 @@
+{
+  "id": 85874789,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"88",
+    "can-wpgppd:name":"South Portage",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":658637.49748,
+    "geom:bbox":"-97.150866,49.886435,-97.133857,49.895023",
+    "geom:latitude":49.890614,
+    "geom:longitude":-97.141957,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.890357,
+    "lbl:longitude":-97.141701,
+    "mps:latitude":49.891538,
+    "mps:longitude":-97.140372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "South Portage"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968511,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856118,
+        "qs:id":381388,
+        "qs_pg:id":381388
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"858be6f5805f3b1637a4614d1fb67546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968511,
+            "neighbourhood_id":85874789,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85874789,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523914,
+    "wof:name":"South Portage",
+    "wof:parent_id":1108968511,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.150866,
+    49.886435,
+    -97.133857,
+    49.895023
+],
+  "geometry": {"coordinates":[[[[-97.15086599999999,49.890933],[-97.15057,49.890392],[-97.149575,49.888896],[-97.148404,49.88916],[-97.14792300000001,49.888273],[-97.14661599999999,49.888568],[-97.145458,49.886435],[-97.134855,49.888839],[-97.135693,49.890396],[-97.13385700000001,49.890817],[-97.133869,49.890842],[-97.133903,49.890889],[-97.13469600000001,49.892376],[-97.134845,49.893036],[-97.134834,49.893122],[-97.13501100000001,49.893178],[-97.136944,49.893789],[-97.13752100000001,49.893765],[-97.137286,49.893331],[-97.13872600000001,49.893006],[-97.13981699999999,49.895023],[-97.15086599999999,49.890933]]]],"type":"MultiPolygon"}
+}

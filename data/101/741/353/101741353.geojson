@@ -1,0 +1,75 @@
+{
+  "id": 101741353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000485,
+    "geom:bbox":"-66.3841552,47.7280757,-66.3572929,47.7461957",
+    "geom:latitude":47.737137,
+    "geom:longitude":-66.370727,
+    "iso:country":"CA",
+    "lbl:latitude":47.737136,
+    "lbl:longitude":-66.370727,
+    "mps:latitude":47.737136,
+    "mps:longitude":-66.370727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moose Meadows Indian Reserve No. 4"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*New Brunswick",
+    "qs:a1_lc":"NB",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MOOSE MEADOWS INDIAN RESERVE NO. 4",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE MOOSE MEADOWS NO. 4",
+    "qs:loc_lc":"e93b739cbbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682065,
+        890458105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"a684673e605a895678ba8e498821ef0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458105,
+            "locality_id":101741353,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":101741353,
+    "wof:lastmodified":1532597323,
+    "wof:name":"Moose Meadows Indian Reserve No. 4",
+    "wof:parent_id":890458105,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3841552,
+    47.72807569999998,
+    -66.3572929,
+    47.74619569999999
+],
+  "geometry": {"coordinates":[[[-66.37413340000001,47.72809289999998],[-66.3841552,47.7281021],[-66.38414310000002,47.73386090000002],[-66.38413,47.7401963],[-66.38411739999999,47.74619569999999],[-66.37770410000002,47.7461897],[-66.3677318,47.74617949999998],[-66.3572929,47.74616789999999],[-66.35731029999999,47.73986009999999],[-66.3573245,47.73476870000002],[-66.35734290000001,47.72807569999998],[-66.365053,47.7280839],[-66.37413340000001,47.72809289999998]]],"type":"Polygon"}
+}

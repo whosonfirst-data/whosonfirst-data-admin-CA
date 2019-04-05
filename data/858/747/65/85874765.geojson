@@ -1,0 +1,87 @@
+{
+  "id": 85874765,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1192",
+    "can-wpgppd:name":"The Mint",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":692947.193508,
+    "geom:bbox":"-97.060906,49.847267,-97.04975,49.856033",
+    "geom:latitude":49.852109,
+    "geom:longitude":-97.055185,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.852148,
+    "lbl:longitude":-97.055519,
+    "mps:latitude":49.854178,
+    "mps:longitude":-97.044114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "The Mint"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968469,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856097,
+        "qs:id":230676,
+        "qs_pg:id":230676
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"ccf19eab7cf037bb5b71e10e832018ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968469,
+            "neighbourhood_id":85874765,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85874765,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523918,
+    "wof:name":"The Mint",
+    "wof:parent_id":1108968469,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.060906,
+    49.847267,
+    -97.04975,
+    49.856033
+],
+  "geometry": {"coordinates":[[[[-97.054931,49.847267],[-97.054934,49.847934],[-97.05332300000001,49.847937],[-97.053174,49.847937],[-97.053175,49.848047],[-97.04975,49.848058],[-97.04977599999999,49.856033],[-97.060906,49.856031],[-97.06090399999999,49.855701],[-97.06090399999999,49.855619],[-97.060889,49.85219],[-97.060878,49.849534],[-97.059318,49.848939],[-97.058786,49.848736],[-97.058482,49.848621],[-97.05824800000001,49.848532],[-97.058015,49.848443],[-97.05778100000001,49.848354],[-97.057548,49.848265],[-97.05731400000001,49.848175],[-97.05708,49.848086],[-97.056847,49.847997],[-97.056628,49.847914],[-97.05640099999999,49.847828],[-97.05618200000001,49.847744],[-97.055949,49.847655],[-97.055722,49.847569],[-97.05550100000001,49.847484],[-97.055257,49.847392],[-97.055004,49.847295],[-97.054931,49.847267]]]],"type":"MultiPolygon"}
+}

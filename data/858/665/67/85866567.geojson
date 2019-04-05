@@ -1,0 +1,87 @@
+{
+  "id": 85866567,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"870",
+    "can-wpgppd:name":"Munroe East",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000254,
+    "geom:area_square_m":2020729.779958,
+    "geom:bbox":"-97.094109,49.902861,-97.062878,49.918834",
+    "geom:latitude":49.911029,
+    "geom:longitude":-97.077759,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.912139,
+    "lbl:longitude":-97.078915,
+    "mps:latitude":49.913701,
+    "mps:longitude":-97.083809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Munroe East"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968505,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332832,
+        "qs:id":1263623,
+        "qs_pg:id":1263623
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6b4b1fb40a1df9515dbb7ecfbc2f6e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968505,
+            "neighbourhood_id":85866567,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866567,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523917,
+    "wof:name":"Munroe East",
+    "wof:parent_id":1108968505,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.094109,
+    49.902861,
+    -97.062878,
+    49.918834
+],
+  "geometry": {"coordinates":[[[[-97.08933500000001,49.914886],[-97.094109,49.911109],[-97.093918,49.911045],[-97.09394,49.911028],[-97.09378700000001,49.910977],[-97.093698,49.910947],[-97.093687,49.910944],[-97.093665,49.910961],[-97.08137000000001,49.906884],[-97.08108,49.906785],[-97.081075,49.906783],[-97.080792,49.906689],[-97.08050799999999,49.906595],[-97.080504,49.906594],[-97.07772,49.90567],[-97.077591,49.905623],[-97.07761000000001,49.905601],[-97.07749,49.905563],[-97.069355,49.902861],[-97.062878,49.911708],[-97.08434200000001,49.918834],[-97.08933500000001,49.914886]]]],"type":"MultiPolygon"}
+}

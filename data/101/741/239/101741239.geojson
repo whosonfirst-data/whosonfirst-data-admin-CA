@@ -1,0 +1,77 @@
+{
+  "id": 101741239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000253,
+    "geom:bbox":"-60.2313801,46.0424299,-60.2044569,46.0613807",
+    "geom:latitude":46.052012,
+    "geom:longitude":-60.217969,
+    "iso:country":"CA",
+    "lbl:latitude":46.051772,
+    "lbl:longitude":-60.218005,
+    "mps:latitude":46.051772,
+    "mps:longitude":-60.218005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Caribou Marsh Indian Reserve No. 29"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Nova Scotia",
+    "qs:a1_lc":"NS",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CARIBOU MARSH INDIAN RESERVE NO. 29",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE CARIBOU MARSH NO. 29",
+    "qs:loc_lc":"b675f5a7affd11d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682075,
+        890457747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23390228
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"35e387e099cb150a33d1657f3653dab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457747,
+            "locality_id":101741239,
+            "region_id":85682075
+        }
+    ],
+    "wof:id":101741239,
+    "wof:lastmodified":1532596901,
+    "wof:name":"Caribou Marsh Indian Reserve No. 29",
+    "wof:parent_id":890457747,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.23138010000002,
+    46.0424299,
+    -60.20445690000003,
+    46.06138069999997
+],
+  "geometry": {"coordinates":[[[-60.23138010000002,46.0524393],[-60.2240878,46.0585795],[-60.2207348,46.06138069999997],[-60.21401880000002,46.05752560000002],[-60.2085318,46.05436789999999],[-60.2055054,46.0527078],[-60.20519159999998,46.05253570000002],[-60.2046418,46.05223039999998],[-60.20445690000003,46.0521278],[-60.21046769999998,46.0469698],[-60.215763,46.0424299],[-60.2167437,46.042999],[-60.21703450000001,46.0431678],[-60.2206021,46.0452381],[-60.224616,46.04845039999998],[-60.23138010000002,46.0524393]]],"type":"Polygon"}
+}

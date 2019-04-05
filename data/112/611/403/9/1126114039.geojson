@@ -1,0 +1,69 @@
+{
+  "id": 1126114039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000686,
+    "geom:area_square_m":5205324.321426,
+    "geom:bbox":"-106.551301,52.143981,-106.527112,52.172863",
+    "geom:latitude":52.158425,
+    "geom:longitude":-106.539373,
+    "iso:country":"CA",
+    "lbl:latitude":52.158437,
+    "lbl:longitude":-106.539375,
+    "mps:latitude":52.158437,
+    "mps:longitude":-106.539375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "U of S Lands East Management Area"
+    ],
+    "reversegeo:latitude":52.158437,
+    "reversegeo:longitude":-106.539375,
+    "src:geom":"can-saskodp",
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115071,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"e3a8b3422a042bb7a02f43577eafa5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115071,
+            "neighbourhood_id":1126114039,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":1126114039,
+    "wof:lastmodified":1531524182,
+    "wof:name":"U of S Lands East Management Area",
+    "wof:parent_id":1126115071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.551301,
+    52.143981,
+    -106.527112,
+    52.172863
+],
+  "geometry": {"coordinates":[[[[-106.551276,52.163195],[-106.551265,52.171773],[-106.551264,52.172863],[-106.550555,52.172861],[-106.53978600000001,52.172834],[-106.534127,52.172816],[-106.531944,52.172812],[-106.527446,52.172799],[-106.527495,52.15114],[-106.527112,52.149676],[-106.527196,52.149483],[-106.527271,52.149289],[-106.52733600000001,52.149093],[-106.52739200000001,52.148896],[-106.52743700000001,52.148698],[-106.527473,52.1485],[-106.52749799999999,52.148301],[-106.527513,52.148101],[-106.527519,52.147902],[-106.527514,52.147702],[-106.527514,52.147698],[-106.527492,52.144221],[-106.5275,52.144016],[-106.52883,52.144015],[-106.5313,52.14402],[-106.53388099999999,52.143981],[-106.539406,52.144041],[-106.551301,52.14404],[-106.551284,52.156745],[-106.551276,52.163195]]]],"type":"MultiPolygon"}
+}

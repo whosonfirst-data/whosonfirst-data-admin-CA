@@ -1,0 +1,91 @@
+{
+  "id": 101739425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":886638.652963,
+    "geom:bbox":"-103.1577555,49.7337598,-103.1360013,49.7410441",
+    "geom:latitude":49.736961,
+    "geom:longitude":-103.14973,
+    "iso:country":"CA",
+    "lbl:latitude":49.73741,
+    "lbl:longitude":-103.14973,
+    "mps:latitude":49.73741,
+    "mps:longitude":-103.14973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Heward"
+    ],
+    "name:eng_x_preferred":[
+        "Heward"
+    ],
+    "name:fre_x_preferred":[
+        "Heward"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Heward",
+    "qs:loc_lc":"0c3055fa849c20c3ba7f209433fc30f5",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03bd2ca2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5974456,
+        "gp:id":23402855,
+        "wd:id":"Q2003844",
+        "wk:page":"Heward, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"f8683f5aeab8deeb82126bf294d41dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868967,
+            "locality_id":101739425,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739425,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524508,
+    "wof:name":"Heward",
+    "wof:parent_id":1158868967,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.1577555,
+    49.7337598,
+    -103.1360013,
+    49.7410441
+],
+  "geometry": {"coordinates":[[[-103.13668269999999,49.7337613],[-103.1371367,49.7337623],[-103.13771730000001,49.7337636],[-103.1467011,49.7337834],[-103.15571559999999,49.7338031],[-103.1558517,49.7338034],[-103.15775549999999,49.7338067],[-103.1577554,49.7339875],[-103.15775189999999,49.7408633],[-103.1577518,49.7410441],[-103.152422,49.7410354],[-103.15213679999999,49.7410349],[-103.15167870000001,49.7410341],[-103.1515618,49.7410339],[-103.15098759999999,49.741033],[-103.1503398,49.7410319],[-103.14892829999999,49.7410295],[-103.1466975,49.7410257],[-103.1466982,49.7398958],[-103.14585889999999,49.739469],[-103.1449918,49.7390281],[-103.1447684,49.7389194],[-103.143905,49.7384754],[-103.1439058,49.737778],[-103.1360013,49.7337598],[-103.13668269999999,49.7337613]]],"type":"Polygon"}
+}

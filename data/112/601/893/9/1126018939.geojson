@@ -1,0 +1,89 @@
+{
+  "id": 1126018939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.996932,47.921454,-65.996932,47.921454",
+    "geom:latitude":47.921454,
+    "geom:longitude":-65.996932,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":47.921454,
+    "lbl:longitude":-65.996932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Jacquet River"
+    ],
+    "name:ltz_x_preferred":[
+        "Jacquet River"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jacquet River",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"New Brunswick",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":249633,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":3654,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"New Brunswick",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682065,
+        890458105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":3654,
+        "qs_pg:id":249633,
+        "wd:id":"Q6120993"
+    },
+    "wof:country":"CA",
+    "wof:created":1497300712,
+    "wof:geomhash":"968c7e53f028c8a21676055b69b66296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458105,
+            "locality_id":1126018939,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":1126018939,
+    "wof:lastmodified":1532597325,
+    "wof:name":"Jacquet River",
+    "wof:parent_id":890458105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.996932,
+    47.921454,
+    -65.996932,
+    47.921454
+],
+  "geometry": {"coordinates":[-65.996932,47.921454],"type":"Point"}
+}

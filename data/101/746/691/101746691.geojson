@@ -1,0 +1,77 @@
+{
+  "id": 101746691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:bbox":"-103.1749805,50.4915708,-103.1520621,50.4988204",
+    "geom:latitude":50.495188,
+    "geom:longitude":-103.163376,
+    "iso:country":"CA",
+    "lbl:latitude":50.495188,
+    "lbl:longitude":-103.161971,
+    "mps:latitude":50.495188,
+    "mps:longitude":-103.161971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carry The Kettle Nakoda First Nation No. 76-36"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CARRY THE KETTLE NAKODA FIRST NATION NO. 76-36",
+    "qs:loc_alt":"CARRY THE KETTLE NAKODA FIRST NATION NO. 76-36",
+    "qs:loc_lc":"48f882faaa014ae7a618d3a61316678d",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373430
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2713c86ea63ecc67ac7dc6587be2c751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101746691,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746691,
+    "wof:lastmodified":1531525486,
+    "wof:name":"Carry The Kettle Nakoda First Nation No. 76-36",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.1749805,
+    50.49157079999998,
+    -103.15206210000002,
+    50.4988204
+],
+  "geometry": {"coordinates":[[[[-103.15206210000002,50.49158360000001],[-103.16337720000001,50.4915777],[-103.17469240000003,50.49157079999998],[-103.17469390000002,50.49393579999997],[-103.1722087,50.4944178],[-103.16942899999999,50.49594080000003],[-103.168735,50.49860380000001],[-103.16868779999999,50.49878469999999],[-103.16477350000002,50.49879340000001],[-103.16440490000002,50.49879420000002],[-103.16338380000002,50.49879479999998],[-103.1520663,50.4988204],[-103.15206210000002,50.49158360000001]]],[[[-103.1749805,50.4987706],[-103.17469690000001,50.49877120000002],[-103.16897549999999,50.49878410000002],[-103.16969180000001,50.4960352],[-103.17234830000001,50.49457969999997],[-103.17469410000001,50.4941248],[-103.17497759999998,50.4940699],[-103.1749805,50.4987706]]]],"type":"MultiPolygon"}
+}

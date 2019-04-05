@@ -1,0 +1,116 @@
+{
+  "id": 85895013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3687031.737408,
+    "geom:bbox":"-79.280455,43.864596,-79.280455,43.864596",
+    "geom:latitude":43.864596,
+    "geom:longitude":-79.280455,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.864596,
+    "lbl:longitude":-79.280455,
+    "mps:latitude":43.860325,
+    "mps:longitude":-79.275986,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Boyington Heights"
+    ],
+    "name:unk_x_variant":[
+        "Boyington Heights"
+    ],
+    "qs:gn_adm0_cc":"US",
+    "qs:gn_id":0,
+    "qs:gn_local":5130569,
+    "qs:gn_nam_loc":"long beach",
+    "qs:gn_namadm1":"NY",
+    "qs:local_max":262,
+    "qs:local_sum":580,
+    "qs:localhoods":3,
+    "qs:name":"Boyington Heights",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"York",
+    "qs:name_local":"Markham Village",
+    "qs:photo_max":193,
+    "qs:photo_sum":262,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375112,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999583,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101736035,
+        85633041,
+        85682057,
+        101740741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999011,
+        "qs:id":888532,
+        "qs_pg:id":888532
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"0d6d05afc1ef3e2ebc07d91a2693c1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736035,
+            "neighbourhood_id":85895013,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740741,
+            "neighbourhood_id":85895013,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895013,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931302,
+    "wof:name":"Boyington Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.280455,
+    43.864596,
+    -79.280455,
+    43.864596
+],
+  "geometry": {"coordinates":[-79.280455,43.864596],"type":"Point"}
+}

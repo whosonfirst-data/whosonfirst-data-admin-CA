@@ -1,0 +1,95 @@
+{
+  "id": 1125977789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-120.20251,51.41653,-120.20251,51.41653",
+    "geom:latitude":51.41653,
+    "geom:longitude":-120.20251,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":51.41653,
+    "lbl:longitude":-120.20251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Little Fort"
+    ],
+    "name:eng_x_preferred":[
+        "Little Fort"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6055666,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Little Fort",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":76,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":9609,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6055666,
+        "gp:id":9609,
+        "qs_pg:id":1155664,
+        "wd:id":"Q6650083"
+    },
+    "wof:country":"CA",
+    "wof:created":1497298417,
+    "wof:geomhash":"b20e14bc0d838bc1420c0c32126d1ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":1125977789,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125977789,
+    "wof:lastmodified":1531521924,
+    "wof:name":"Little Fort",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -120.20251,
+    51.41653,
+    -120.20251,
+    51.41653
+],
+  "geometry": {"coordinates":[-120.20251,51.41653],"type":"Point"}
+}

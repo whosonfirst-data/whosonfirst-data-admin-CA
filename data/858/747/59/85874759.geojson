@@ -1,0 +1,118 @@
+{
+  "id": 85874759,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"89",
+    "can-wpgppd:name":"Logan-C.p.r.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1062403.566634,
+    "geom:bbox":"-97.170927,49.902578,-97.13423,49.916779",
+    "geom:latitude":49.909817,
+    "geom:longitude":-97.154619,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.909781,
+    "lbl:longitude":-97.154288,
+    "mps:latitude":49.909671,
+    "mps:longitude":-97.149475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Logan-C.P.R."
+    ],
+    "name:eng_x_variant":[
+        "Logan C.P.R.",
+        "Logan-C.p.r."
+    ],
+    "name:unk_x_variant":[
+        "Logan C.P.R."
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6183235,
+    "qs:gn_nam_loc":"Winnipeg, Manitoba, Manitoba, CA",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":4766,
+    "qs:local_sum":55180,
+    "qs:localhoods":116,
+    "qs:name":"Logan C.P.R.",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Manitoba",
+    "qs:name_adm2":"Manitoba",
+    "qs:name_local":"Winnipeg",
+    "qs:photo_max":26,
+    "qs:photo_sum":113,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344917,
+    "qs:woe_adm2":29375231,
+    "qs:woe_lau":0,
+    "qs:woe_local":2972,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.910214,
+    "reversegeo:longitude":-97.154587,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968929,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856093,
+        "qs:id":230675,
+        "qs_pg:id":230675
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d401aeb9eff87147cc11828068ff8e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968929,
+            "neighbourhood_id":85874759,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85874759,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523915,
+    "wof:name":"Logan C.P.R.",
+    "wof:parent_id":1108968929,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.170927,
+    49.902578,
+    -97.13423,
+    49.916779
+],
+  "geometry": {"coordinates":[[[[-97.160743,49.913805],[-97.145042,49.908793],[-97.141907,49.907816],[-97.137373,49.906362],[-97.136869,49.9062],[-97.136618,49.90612],[-97.136144,49.905968],[-97.135868,49.905938],[-97.135896,49.905833],[-97.135201,49.905759],[-97.134507,49.905685],[-97.13423,49.905655],[-97.13455500000001,49.904397],[-97.13503,49.903602],[-97.135847,49.902578],[-97.13850600000001,49.903431],[-97.139134,49.903632],[-97.140767,49.904156],[-97.146665,49.906048],[-97.152563,49.907939],[-97.163629,49.91149],[-97.164357,49.910539],[-97.166145,49.91111],[-97.167716,49.909095],[-97.17092700000001,49.91012],[-97.170687,49.91251],[-97.170222,49.916779],[-97.170012,49.916774],[-97.160743,49.913805]]]],"type":"MultiPolygon"}
+}

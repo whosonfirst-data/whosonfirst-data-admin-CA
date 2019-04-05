@@ -1,0 +1,91 @@
+{
+  "id": 101739685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":489957.010587,
+    "geom:bbox":"-103.7106458,49.3917567,-103.6991896,49.3972394",
+    "geom:latitude":49.39444,
+    "geom:longitude":-103.704927,
+    "iso:country":"CA",
+    "lbl:latitude":49.394437,
+    "lbl:longitude":-103.704927,
+    "mps:latitude":49.394437,
+    "mps:longitude":-103.704927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Goodwater"
+    ],
+    "name:eng_x_preferred":[
+        "Goodwater"
+    ],
+    "name:fre_x_preferred":[
+        "Goodwater"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Goodwater",
+    "qs:loc_lc":"0cff032b849c20c3915851c48fbb318b",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03baac48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5962975,
+        "gp:id":2931,
+        "wd:id":"Q2003699",
+        "wk:page":"Goodwater, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"23e98f4a5530f8ad667fe9af58c2f698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868999,
+            "locality_id":101739685,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739685,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531526399,
+    "wof:name":"Goodwater",
+    "wof:parent_id":1158868999,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.7106458,
+    49.3917567,
+    -103.6991896,
+    49.3972394
+],
+  "geometry": {"coordinates":[[[-103.6991931,49.3961605],[-103.69919299999999,49.3959794],[-103.6991896,49.3917567],[-103.7102119,49.3917689],[-103.71028219999999,49.3917689],[-103.7105593,49.3917693],[-103.71056660000001,49.3943904],[-103.71056710000001,49.3945715],[-103.71056799999999,49.394895],[-103.7105688,49.3952265],[-103.7105694,49.3954144],[-103.71056969999999,49.3954932],[-103.71057140000001,49.3961298],[-103.7105717,49.3962338],[-103.7105723,49.3964273],[-103.7106441,49.3966099],[-103.71064490000001,49.3968814],[-103.71064579999999,49.3972394],[-103.71057450000001,49.3972378],[-103.71029729999999,49.3972316],[-103.7102258,49.39723],[-103.70543840000001,49.3971231],[-103.7042749,49.397097],[-103.6991937,49.3969833],[-103.6991936,49.3968064],[-103.69919350000001,49.3966807],[-103.6991934,49.3966254],[-103.6991932,49.3963538],[-103.6991931,49.3961605]]],"type":"Polygon"}
+}

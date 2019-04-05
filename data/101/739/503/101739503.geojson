@@ -1,0 +1,90 @@
+{
+  "id": 101739503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":850419.665887,
+    "geom:bbox":"-101.9453442,50.6946476,-101.9281341,50.7025772",
+    "geom:latitude":50.698267,
+    "geom:longitude":-101.935643,
+    "iso:country":"CA",
+    "lbl:latitude":50.69864,
+    "lbl:longitude":-101.935643,
+    "mps:latitude":50.69864,
+    "mps:longitude":-101.935643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Yarbo"
+    ],
+    "name:eng_x_preferred":[
+        "Yarbo"
+    ],
+    "name:fre_x_preferred":[
+        "Yarbo"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yarbo",
+    "qs:loc_lc":"0c2f3fcf849c20c3e10600ebb4145d84",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba79a8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6185195,
+        "gp:id":2497,
+        "wd:id":"Q2205385"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"69e356ef8b13b95bb5898f2827bb7054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101739503,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739503,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531525481,
+    "wof:name":"Yarbo",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.9453442,
+    50.6946476,
+    -101.9281341,
+    50.7025772
+],
+  "geometry": {"coordinates":[[[-101.93318410000001,50.6949406],[-101.93385379999999,50.6949243],[-101.93586329999999,50.694875],[-101.9359176,50.6948737],[-101.9396017,50.6947834],[-101.94016809999999,50.69477],[-101.9404528,50.6947633],[-101.94213550000001,50.6947234],[-101.9424202,50.6947167],[-101.9453384,50.6946476],[-101.9453388,50.6949188],[-101.9453425,50.6974652],[-101.94534419999999,50.6985437],[-101.9449616,50.6985529],[-101.93960610000001,50.6986799],[-101.93961,50.7023053],[-101.9295614,50.7025434],[-101.92856949999999,50.702567],[-101.9281379,50.7025772],[-101.9281364,50.6994896],[-101.92813630000001,50.6994075],[-101.9281343,50.6953352],[-101.92813409999999,50.6950641],[-101.9295576,50.6950293],[-101.92995000000001,50.6950198],[-101.9316736,50.6949776],[-101.93192759999999,50.6949714],[-101.9321693,50.6949655],[-101.93259550000001,50.694955],[-101.93318410000001,50.6949406]]],"type":"Polygon"}
+}

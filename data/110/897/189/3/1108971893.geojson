@@ -1,0 +1,72 @@
+{
+  "id": 1108971893,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Garside Industrial",
+    "can-edmdsd:number":"4170",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":661865.32986,
+    "geom:bbox":"-113.59041103,53.5630668089,-113.577939339,53.5704328328",
+    "geom:latitude":53.566796,
+    "geom:longitude":-113.584184,
+    "iso:country":"CA",
+    "lbl:latitude":53.566804,
+    "lbl:longitude":-113.584184,
+    "mps:latitude":53.566804,
+    "mps:longitude":-113.584184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Garside Industrial"
+    ],
+    "reversegeo:latitude":53.566804,
+    "reversegeo:longitude":-113.584184,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"979fc5d586f0b5152c62557b94706ed5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108971893,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971893,
+    "wof:lastmodified":1507246077,
+    "wof:name":"Garside Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.59041102972932,
+    53.56306680894507,
+    -113.57793933919095,
+    53.5704328328124
+],
+  "geometry": {"coordinates":[[[[-113.59041036545489,53.56653797811447],[-113.59041102972932,53.57041887831507],[-113.58724630226401,53.57041134828876],[-113.58357405589751,53.5704328328124],[-113.58113862640732,53.57041308444],[-113.57801788835275,53.57041872070606],[-113.57794942972797,53.56779184103358],[-113.57793933919095,53.56527773538631],[-113.57795668962824,53.564220181683],[-113.57803503259264,53.56316123563388],[-113.58114643085575,53.56316717219738],[-113.58420604288361,53.56317800760936],[-113.58724706147807,53.56319125261521],[-113.59004136942171,53.56316865333233],[-113.59040565606085,53.56306680894507],[-113.59039450184089,53.56559335114625],[-113.59041036545489,53.56653797811447]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101747129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:bbox":"-122.6531947,52.4812152,-122.644289,52.4884591",
+    "geom:latitude":52.484838,
+    "geom:longitude":-122.64874,
+    "iso:country":"CA",
+    "lbl:latitude":52.484837,
+    "lbl:longitude":-122.64874,
+    "mps:latitude":52.484837,
+    "mps:longitude":-122.64874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Webster Creek 5"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"WEBSTER CREEK 5",
+    "qs:loc_alt":"WEBSTER CREEK NO 5",
+    "qs:loc_lc":"99155f9cba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9573
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"7da2236195430bd58e003190f6f55898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101747129,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101747129,
+    "wof:lastmodified":1533335923,
+    "wof:name":"Webster Creek 5",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.65319469999997,
+    52.4812152,
+    -122.644289,
+    52.4884591
+],
+  "geometry": {"coordinates":[[[-122.65319469999997,52.48845119999999],[-122.6443056,52.4884591],[-122.6443008,52.4863785],[-122.644289,52.48122410000002],[-122.65317210000001,52.4812152],[-122.65319469999997,52.48845119999999]]],"type":"Polygon"}
+}

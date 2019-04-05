@@ -1,0 +1,78 @@
+{
+  "id": 1125888517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1616,43.03596,-82.1616,43.03596",
+    "geom:latitude":43.03596,
+    "geom:longitude":-82.1616,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7506,
+    "gn:population":7506,
+    "iso:country":"CA",
+    "lbl:latitude":43.03596,
+    "lbl:longitude":-82.1616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":5913934,
+    "qs_pg:gn_pop":7506,
+    "qs_pg:name":"Camlachie",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":378148,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5913934,
+        "qs_pg:id":378148
+    },
+    "wof:country":"CA",
+    "wof:created":1497295210,
+    "wof:geomhash":"950ecbc8608eafc59e17e81074120aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456489,
+            "locality_id":1125888517,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125888517,
+    "wof:lastmodified":1533335704,
+    "wof:name":"Camlachie",
+    "wof:parent_id":890456489,
+    "wof:placetype":"locality",
+    "wof:population":7506,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1616,
+    43.03596,
+    -82.1616,
+    43.03596
+],
+  "geometry": {"coordinates":[-82.16160000000001,43.03596],"type":"Point"}
+}

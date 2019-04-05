@@ -1,0 +1,82 @@
+{
+  "id": 1125869865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.037946,45.4555545,-73.037946,45.4555545",
+    "geom:latitude":45.455554,
+    "geom:longitude":-73.037946,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.455554,
+    "lbl:longitude":-73.037946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-Michel-de-Rougemont",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":142,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":142,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1196615,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":23395683,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23395683,
+        "qs_pg:id":1196615
+    },
+    "wof:country":"CA",
+    "wof:created":1497294234,
+    "wof:geomhash":"69cbd81a0dde64fe21471f9284f93e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456513,
+            "locality_id":1125869865,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125869865,
+    "wof:lastmodified":1533335702,
+    "wof:name":"St.-Michel-de-Rougemont",
+    "wof:parent_id":890456513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.037946,
+    45.4555545,
+    -73.037946,
+    45.4555545
+],
+  "geometry": {"coordinates":[-73.03794600000001,45.4555545],"type":"Point"}
+}

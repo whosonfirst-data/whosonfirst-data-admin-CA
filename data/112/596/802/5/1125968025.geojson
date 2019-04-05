@@ -1,0 +1,95 @@
+{
+  "id": 1125968025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.26791,50.45007,-106.26791,50.45007",
+    "geom:latitude":50.45007,
+    "geom:longitude":-106.26791,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":50.45007,
+    "lbl:longitude":-106.26791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Parkbeg"
+    ],
+    "name:eng_x_preferred":[
+        "Parkbeg"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6098386,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Parkbeg",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Saskatchewan",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":71545,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Saskatchewan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6098386,
+        "gp:id":1169,
+        "qs_pg:id":71545,
+        "wd:id":"Q7138199"
+    },
+    "wof:country":"CA",
+    "wof:created":1497298050,
+    "wof:geomhash":"04d6507a34c1ba57a7fe888e9b514e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868947,
+            "locality_id":1125968025,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":1125968025,
+    "wof:lastmodified":1531524143,
+    "wof:name":"Parkbeg",
+    "wof:parent_id":1158868947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.26791,
+    50.45007,
+    -106.26791,
+    50.45007
+],
+  "geometry": {"coordinates":[-106.26791,50.45007],"type":"Point"}
+}

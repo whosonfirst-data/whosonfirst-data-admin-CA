@@ -1,0 +1,77 @@
+{
+  "id": 101746403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:bbox":"-102.1767172,50.1927822,-102.165218,50.2000694",
+    "geom:latitude":50.196626,
+    "geom:longitude":-102.170616,
+    "iso:country":"CA",
+    "lbl:latitude":50.196425,
+    "lbl:longitude":-102.17054,
+    "mps:latitude":50.196425,
+    "mps:longitude":-102.17054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ochapowace I.R. 71-27"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"OCHAPOWACE I.R. 71-27",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE OCHAPOWACE N\u00ba 71-27",
+    "qs:loc_lc":"6c9ebc3a849c20c3f569fe4cea933b5e",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373274
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cecb4264d19e133981a016fdd420db37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868993,
+            "locality_id":101746403,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746403,
+    "wof:lastmodified":1531525460,
+    "wof:name":"Ochapowace I.R. 71-27",
+    "wof:parent_id":1158868993,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.17671719999998,
+    50.19278220000001,
+    -102.165218,
+    50.20006940000002
+],
+  "geometry": {"coordinates":[[[-102.17671719999998,50.20003159999999],[-102.1653579,50.20006940000002],[-102.165218,50.19283239999999],[-102.1672739,50.19281419999999],[-102.17398120000001,50.19278220000001],[-102.17401690000003,50.19520360000001],[-102.17664600000001,50.1951909],[-102.17671719999998,50.20003159999999]]],"type":"Polygon"}
+}

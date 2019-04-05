@@ -1,0 +1,78 @@
+{
+  "id": 1125852257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08247,48.88332,-72.08247,48.88332",
+    "geom:latitude":48.88332,
+    "geom:longitude":-72.08247,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7518,
+    "gn:population":7518,
+    "iso:country":"CA",
+    "lbl:latitude":48.88332,
+    "lbl:longitude":-72.08247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6110611,
+    "qs_pg:gn_pop":7518,
+    "qs_pg:name":"Pont Rouge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":103018,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6110611,
+        "qs_pg:id":103018
+    },
+    "wof:country":"CA",
+    "wof:created":1497293467,
+    "wof:geomhash":"c02e9c8a75b61904f144799c25d84b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458633,
+            "locality_id":1125852257,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125852257,
+    "wof:lastmodified":1533335701,
+    "wof:name":"Pont Rouge",
+    "wof:parent_id":890458633,
+    "wof:placetype":"locality",
+    "wof:population":7518,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08247,
+    48.88332,
+    -72.08247,
+    48.88332
+],
+  "geometry": {"coordinates":[-72.08247,48.88332],"type":"Point"}
+}

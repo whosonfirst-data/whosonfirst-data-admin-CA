@@ -1,0 +1,72 @@
+{
+  "id": 1126112827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30566,74.6607,-91.30566,74.6607",
+    "geom:latitude":74.6607,
+    "geom:longitude":-91.30566,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"ITTR",
+    "gn:gn_pop":3,
+    "gn:population":3,
+    "iso:country":"CA",
+    "lbl:latitude":74.6607,
+    "lbl:longitude":-91.30566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"ITTR",
+    "qs_pg:gn_id":6696114,
+    "qs_pg:gn_pop":3,
+    "qs_pg:name":"Gascoyne Camp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":644052,
+    "qs_pg:qs_pg_placetype":"locality_funky",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6696114,
+        "qs_pg:id":644052
+    },
+    "wof:country":"CA",
+    "wof:created":1497469942,
+    "wof:geomhash":"c241bffaac57d97c3c23c88e903364f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633041,
+            "locality_id":1126112827
+        }
+    ],
+    "wof:id":1126112827,
+    "wof:lastmodified":1505185694,
+    "wof:name":"Gascoyne Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30566,
+    74.6607,
+    -91.30566,
+    74.6607
+],
+  "geometry": {"coordinates":[-91.30566,74.66070000000001],"type":"Point"}
+}

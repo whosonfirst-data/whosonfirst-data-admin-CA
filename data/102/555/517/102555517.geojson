@@ -1,0 +1,65 @@
+{
+  "id": 102555517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.1861111111,51.4419444444,-57.1861111111,51.4419444444",
+    "geom:latitude":51.441944,
+    "geom:longitude":-57.186111,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"121",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375258,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        85633041,
+        101737663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511736,
+        "iata:code":"YBX",
+        "icao:code":"CYBX",
+        "oa:id":"1683",
+        "wd:id":"Q3912632"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"dbe8ef201f03a4467388dd30611e49de",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555517,
+            "country_id":85633041,
+            "locality_id":101737663
+        }
+    ],
+    "wof:id":102555517,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Aeroport d\u00e9 Lourdes-d\u00e9-Blanc-Sablon",
+    "wof:parent_id":101737663,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.186111111111,
+    51.441944444444,
+    -57.186111111111,
+    51.441944444444
+],
+  "geometry": {"coordinates":[-57.186111111111,51.441944444444],"type":"Point"}
+}

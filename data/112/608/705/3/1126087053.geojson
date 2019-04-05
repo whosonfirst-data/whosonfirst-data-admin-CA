@@ -1,0 +1,80 @@
+{
+  "id": 1126087053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.43095,44.62552,-79.43095,44.62552",
+    "geom:latitude":44.62552,
+    "geom:longitude":-79.43095,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"CA",
+    "lbl:latitude":44.62552,
+    "lbl:longitude":-79.43095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7870136,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Patrick Fogarty Catholic Secondary School",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743195,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735859,
+        890456339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870136,
+        "qs_pg:id":743195
+    },
+    "wof:country":"CA",
+    "wof:created":1497312975,
+    "wof:geomhash":"8ece4cc6c6bb661f40362488b31e3ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456339,
+            "locality_id":101735859,
+            "neighbourhood_id":1126087053,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126087053,
+    "wof:lastmodified":1533335719,
+    "wof:name":"Patrick Fogarty Catholic Secondary School",
+    "wof:parent_id":101735859,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.43095,
+    44.62552,
+    -79.43095,
+    44.62552
+],
+  "geometry": {"coordinates":[-79.43095,44.62552],"type":"Point"}
+}

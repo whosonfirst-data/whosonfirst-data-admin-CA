@@ -1,0 +1,78 @@
+{
+  "id": 101743547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"-129.8920952,54.6263589,-129.8889702,54.62823",
+    "geom:latitude":54.627536,
+    "geom:longitude":-129.890892,
+    "iso:country":"CA",
+    "lbl:latitude":54.627447,
+    "lbl:longitude":-129.891328,
+    "mps:latitude":54.627447,
+    "mps:longitude":-129.891328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khutzemateen 49"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KHUTZEMATEEN 49",
+    "qs:loc_alt":"KHUTZEMATEEN NO 49",
+    "qs:loc_lc":"4802694aba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q17030629"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d778b50ef940dc7f832fe43df3325c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456453,
+            "locality_id":101743547,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743547,
+    "wof:lastmodified":1533335880,
+    "wof:name":"Khutzemateen 49",
+    "wof:parent_id":890456453,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -129.89209520000003,
+    54.62635890000001,
+    -129.88897020000002,
+    54.62823
+],
+  "geometry": {"coordinates":[[[-129.88897020000002,54.6282233],[-129.88897350000002,54.62777119999998],[-129.88927180000002,54.6276195],[-129.88958450000001,54.62754489999998],[-129.88968299999999,54.62750039999997],[-129.89004180000001,54.6273779],[-129.89015800000001,54.62734210000002],[-129.89023759999998,54.6273134],[-129.89032939999998,54.6272492],[-129.89041309999999,54.62719980000003],[-129.89059930000002,54.62708470000001],[-129.89065779999999,54.6270379],[-129.89077939999999,54.62694979999998],[-129.89090629999998,54.62685549999998],[-129.8909989,54.62679070000002],[-129.89114239999998,54.6266716],[-129.89122259999999,54.6265952],[-129.89138880000002,54.6264248],[-129.89155950000003,54.62637419999999],[-129.8916696,54.6263616],[-129.89185450000002,54.62635890000001],[-129.89195619999998,54.6263687],[-129.89209520000003,54.626422],[-129.89208480000002,54.62823],[-129.88897020000002,54.6282233]]],"type":"Polygon"}
+}

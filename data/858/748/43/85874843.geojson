@@ -1,0 +1,106 @@
+{
+  "id": 85874843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":583592.726375,
+    "geom:bbox":"-79.774475,43.219189,-79.774475,43.219189",
+    "geom:latitude":43.219189,
+    "geom:longitude":-79.774475,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.219189,
+    "lbl:longitude":-79.774475,
+    "mps:latitude":43.219486,
+    "mps:longitude":-79.776589,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Gershome"
+    ],
+    "name:unk_x_variant":[
+        "Gershome"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":716,
+    "qs:local_sum":1071,
+    "qs:localhoods":5,
+    "qs:name":"Gershome",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Hamilton",
+    "qs:name_local":"Mount Albion",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375120,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999225,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735515,
+        890456341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856157,
+        "qs:id":486010,
+        "qs_pg:id":486010
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e7bcf6146c50865294572d80412bf300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456341,
+            "locality_id":101735515,
+            "neighbourhood_id":85874843,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85874843,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531871935,
+    "wof:name":"Gershome",
+    "wof:parent_id":101735515,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.774475,
+    43.219189,
+    -79.774475,
+    43.219189
+],
+  "geometry": {"coordinates":[-79.774475,43.219189],"type":"Point"}
+}

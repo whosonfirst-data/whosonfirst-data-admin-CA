@@ -1,0 +1,77 @@
+{
+  "id": 101745777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"-131.1638507,57.9041835,-131.1570276,57.9095807",
+    "geom:latitude":57.906884,
+    "geom:longitude":-131.160445,
+    "iso:country":"CA",
+    "lbl:latitude":57.906882,
+    "lbl:longitude":-131.160446,
+    "mps:latitude":57.906882,
+    "mps:longitude":-131.160446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Telegraph Creek 6"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"TELEGRAPH CREEK 6",
+    "qs:loc_alt":"TELEGRAPH CREEK NO 6",
+    "qs:loc_lc":"5802a14eba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9304
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"00821d12e1e6cafd4c032f25a06ce9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101745777,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745777,
+    "wof:lastmodified":1533335917,
+    "wof:name":"Telegraph Creek 6",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -131.1638507,
+    57.90418349999999,
+    -131.1570276,
+    57.9095807
+],
+  "geometry": {"coordinates":[[[-131.16385070000001,57.90418349999999],[-131.16382870000001,57.9095807],[-131.16084719999998,57.909578],[-131.15702759999999,57.90957450000002],[-131.15706870000002,57.90419020000002],[-131.15975559999998,57.9041876],[-131.1598151,57.90418749999998],[-131.16044210000001,57.90418690000001],[-131.16057269999999,57.9041868],[-131.16070339999999,57.90418670000003],[-131.16136119999999,57.904186],[-131.16190089999998,57.90418540000002],[-131.16212439999998,57.90418519999997],[-131.16381480000001,57.90418349999999],[-131.16385070000001,57.90418349999999]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 101744851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:bbox":"-121.8872751,50.7380123,-121.8808459,50.7415134",
+    "geom:latitude":50.739284,
+    "geom:longitude":-121.88462,
+    "iso:country":"CA",
+    "lbl:latitude":50.739279,
+    "lbl:longitude":-121.884622,
+    "mps:latitude":50.739279,
+    "mps:longitude":-121.884622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fountain 1C"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"FOUNTAIN 1C",
+    "qs:loc_alt":"FOUNTAIN NO  1C",
+    "qs:loc_lc":"75cd6ee9ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":779,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9630,
+        "wd:id":"Q8565017"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cc1e5c34ac6d7180d8df320908fb831b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456953,
+            "locality_id":101744851,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744851,
+    "wof:lastmodified":1533335900,
+    "wof:name":"Fountain 1C",
+    "wof:parent_id":890456953,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.88727510000001,
+    50.7380123,
+    -121.8808459,
+    50.74151339999997
+],
+  "geometry": {"coordinates":[[[-121.88727510000001,50.74151339999997],[-121.88705420000002,50.74143070000002],[-121.88628069999999,50.7411414],[-121.88562630000001,50.74089679999997],[-121.8849712,50.74065180000002],[-121.88442689999999,50.7404482],[-121.88333310000002,50.7400391],[-121.88255220000002,50.73974709999999],[-121.88197509999998,50.73953119999999],[-121.88087030000003,50.7391179],[-121.8808459,50.73807210000001],[-121.8871931,50.7380123],[-121.8872563,50.74070849999998],[-121.88727510000001,50.74151339999997]]],"type":"Polygon"}
+}

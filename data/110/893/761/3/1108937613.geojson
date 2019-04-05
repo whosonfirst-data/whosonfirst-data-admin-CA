@@ -1,0 +1,79 @@
+{
+  "id": 1108937613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":598325.425931,
+    "geom:bbox":"-97.102993,49.903085,-97.080792,49.911109",
+    "geom:latitude":49.906994,
+    "geom:longitude":-97.092769,
+    "iso:country":"CA",
+    "lbl:latitude":49.907193,
+    "lbl:longitude":-97.09341,
+    "mps:latitude":49.907707,
+    "mps:longitude":-97.092944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Talbot-Grey"
+    ],
+    "reversegeo:latitude":49.907707,
+    "reversegeo:longitude":-97.092944,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968503,
+        85633041,
+        101734959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856089,
+        "qs_pg:id":381369
+    },
+    "wof:country":"CA",
+    "wof:created":1491359795,
+    "wof:geomhash":"147a088f0cd80512001b115f19ae0eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101734959,
+            "macrohood_id":1108968503,
+            "neighbourhood_id":1108937613,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937613,
+    "wof:lastmodified":1537229386,
+    "wof:name":"Talbot-Grey",
+    "wof:parent_id":1108968503,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.102993,
+    49.903085,
+    -97.080792,
+    49.911109
+],
+  "geometry": {"coordinates":[[[[-97.101068,49.904739],[-97.101119,49.904456],[-97.101258,49.904184],[-97.10146,49.903951],[-97.101766,49.903721],[-97.102002,49.903594],[-97.102993,49.903085],[-97.101365,49.903349],[-97.099209,49.9037],[-97.098658,49.90379],[-97.095258,49.904342],[-97.09494599999999,49.904392],[-97.08851900000001,49.905426],[-97.08813000000001,49.905499],[-97.080792,49.906689],[-97.081075,49.906783],[-97.08108,49.906785],[-97.08137000000001,49.906884],[-97.093665,49.910961],[-97.093687,49.910944],[-97.093698,49.910947],[-97.09378700000001,49.910977],[-97.09394,49.911028],[-97.093918,49.911045],[-97.094109,49.911109],[-97.10059099999999,49.90598],[-97.100776,49.905799],[-97.100931,49.905577],[-97.101018,49.905372],[-97.10105799999999,49.905126],[-97.101068,49.904739]]]],"type":"MultiPolygon"}
+}

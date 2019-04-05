@@ -1,0 +1,75 @@
+{
+  "id": 890457163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.02266,48.0503,-68.02266,48.0503",
+    "geom:latitude":48.0503,
+    "geom:longitude":-68.02266,
+    "gn:country":"CA",
+    "gn:fcode":"ADM2",
+    "gn:pop":200000,
+    "gn:population":200000,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bas-Saint-Laurent"
+    ],
+    "name:unk_x_variant":[
+        "Bas-St-Laurent"
+    ],
+    "qs:name":"Bas-Saint-Laurent",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":289,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691318,
+        "qs:id":643950,
+        "wd:id":"Q809729",
+        "wk:page":"Bas-Saint-Laurent"
+    },
+    "wof:country":"CA",
+    "wof:created":1469053123,
+    "wof:geomhash":"35b4f40c1f07e511e9c2fbe03f6984a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457163,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":890457163,
+    "wof:lastmodified":1530120117,
+    "wof:name":"Bas-Saint-Laurent",
+    "wof:parent_id":136251273,
+    "wof:placetype":"county",
+    "wof:population":200000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.02266,
+    48.0503,
+    -68.02266,
+    48.0503
+],
+  "geometry": {"coordinates":[-68.02266,48.0503],"type":"Point"}
+}

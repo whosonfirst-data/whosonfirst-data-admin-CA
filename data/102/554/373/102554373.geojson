@@ -1,0 +1,108 @@
+{
+  "id": 102554373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26209.834635,
+    "geom:bbox":"-123.118924288,49.2897854703,-123.115987411,49.2914416165",
+    "geom:latitude":49.290654,
+    "geom:longitude":-123.117448,
+    "iso:country":"CA",
+    "lbl:latitude":49.29067,
+    "lbl:longitude":-123.11742,
+    "mps:latitude":49.29067,
+    "mps:longitude":-123.11742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6eab\u54e5\u83ef\u6e2f\u98db\u884c\u4e2d\u5fc3"
+    ],
+    "name:eng_x_preferred":[
+        "Vancouver Harbour Water Airport"
+    ],
+    "name:eng_x_variant":[
+        "Coal Harbour Airport",
+        "CXH",
+        "CYHC",
+        "Vancouver Harbour Water Airport"
+    ],
+    "name:fre_x_preferred":[
+        "Hydroa\u00e9rodrome de Vancouver"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30af\u30fc\u30d0\u30fc\u30fb\u30cf\u30fc\u30d0\u30fc\u6c34\u4e0a\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0628\u06cc \u0628\u0646\u062f\u0631\u06af\u0627\u0647 \u0648\u0646\u06a9\u0648\u0648\u0631"
+    ],
+    "name:pms_x_preferred":[
+        "Vancouver Harbour Water Aerodrome"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0431\u0435 \u0431\u043d\u0434\u0440\u0433\u043e\u04b3 \u0432\u043d\u043a\u0443\u0432\u0440"
+    ],
+    "oa:type":"seaplane_base",
+    "reversegeo:latitude":49.29067,
+    "reversegeo:longitude":-123.11742,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "ourairports"
+    ],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375117,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        1108952817,
+        1108952753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511619,
+        "iata:code":"CXH",
+        "icao:code":"CYHC",
+        "oa:id":"28453",
+        "wd:id":"Q3912738",
+        "wk:page":"Vancouver_Harbour_Water_Aerodrome"
+    },
+    "wof:controlled":[
+        "wof:parent_id"
+    ],
+    "wof:country":"CA",
+    "wof:geomhash":"d445c5ec09ba988fc73a873f887b4543",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554373,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "microhood_id":1108952817,
+            "neighbourhood_id":1108952753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102554373,
+    "wof:lastmodified":1531521051,
+    "wof:name":"Vancouver Harbour Flight Centre",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -123.11892428836043,
+    49.28978547027491,
+    -123.11598741064175,
+    49.29144161652331
+],
+  "geometry": {"coordinates":[[[[-123.11841871366609,49.29144161652331],[-123.11659523639784,49.29123043303314],[-123.11598741064175,49.29116003853642],[-123.11606977955262,49.29082658545718],[-123.11623451737437,49.29015967929869],[-123.11631688628523,49.28982622621945],[-123.11662647977782,49.28993923077361],[-123.117245666763,49.29016523988193],[-123.11757230209921,49.29028472827252],[-123.11760638578647,49.29029769594539],[-123.1176873345437,49.29026620297707],[-123.11781514837091,49.29019024936754],[-123.11794438235177,49.29011614817648],[-123.11807503648626,49.29004389940389],[-123.11819290923803,49.28998647084271],[-123.11829800060708,49.28994386249294],[-123.11841019274431,49.28990403291866],[-123.11852948564967,49.28986698211985],[-123.11863283198917,49.28983468650345],[-123.11872023176277,49.28980714606944],[-123.11880402082728,49.28979139945805],[-123.11888419918272,49.28978744666929],[-123.11892428836043,49.28978547027491],[-123.1188035753014,49.29019580187456],[-123.11841871366609,49.29144161652331]]]],"type":"MultiPolygon"}
+}

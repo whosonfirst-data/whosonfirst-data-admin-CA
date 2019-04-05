@@ -1,0 +1,75 @@
+{
+  "id": 101743355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"-128.7013414,53.815666,-128.6989529,53.8174793",
+    "geom:latitude":53.816556,
+    "geom:longitude":-128.699967,
+    "iso:country":"CA",
+    "lbl:latitude":53.816573,
+    "lbl:longitude":-128.699962,
+    "mps:latitude":53.816573,
+    "mps:longitude":-128.699962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tosehka 12"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"TOSEHKA 12",
+    "qs:loc_alt":"TOSEHKA (EAGLE BAY) NO 12",
+    "qs:loc_lc":"02b3128cba3611d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"3b838d297030041a6e12674a17aee4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101743355,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743355,
+    "wof:lastmodified":1533335877,
+    "wof:name":"Tosehka 12",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -128.7013414,
+    53.815666,
+    -128.6989529,
+    53.8174793
+],
+  "geometry": {"coordinates":[[[-128.70134139999999,53.8164248],[-128.7012153,53.8166147],[-128.70094369999998,53.8169749],[-128.70069969999997,53.8171489],[-128.70058039999998,53.8172864],[-128.70049469999998,53.8174793],[-128.69895289999999,53.817475],[-128.6989653,53.815666],[-128.70049269999998,53.8156694],[-128.70080309999997,53.81588920000002],[-128.70102650000001,53.81610869999997],[-128.70124429999998,53.8162345],[-128.70134139999999,53.8164248]]],"type":"Polygon"}
+}

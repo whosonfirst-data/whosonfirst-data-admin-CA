@@ -1,0 +1,85 @@
+{
+  "id": 1108937411,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"59",
+    "can-wpgppd:name":"Grant Park",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1365906.362872,
+    "geom:bbox":"-97.17615,49.850538,-97.152171,49.862164",
+    "geom:latitude":49.855575,
+    "geom:longitude":-97.16359,
+    "iso:country":"CA",
+    "lbl:latitude":49.855278,
+    "lbl:longitude":-97.163448,
+    "mps:latitude":49.855776,
+    "mps:longitude":-97.163589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Grant Park"
+    ],
+    "name:ger_x_preferred":[
+        "Grant Park"
+    ],
+    "reversegeo:latitude":49.855776,
+    "reversegeo:longitude":-97.163589,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108969341,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5596394"
+    },
+    "wof:country":"CA",
+    "wof:created":1491359657,
+    "wof:geomhash":"794919ec2ab83843edcc58eeb6c623ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108969341,
+            "neighbourhood_id":1108937411,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108937411,
+    "wof:lastmodified":1531523903,
+    "wof:name":"Grant Park",
+    "wof:parent_id":1108969341,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.17615,
+    49.850538,
+    -97.152171,
+    49.862164
+],
+  "geometry": {"coordinates":[[[[-97.15243100000001,49.85418],[-97.152721,49.854582],[-97.152869,49.854849],[-97.152917,49.855176],[-97.152878,49.855458],[-97.152171,49.856644],[-97.156639,49.862164],[-97.174373,49.856241],[-97.17463100000001,49.856158],[-97.174896,49.85611],[-97.17527,49.856061],[-97.17553599999999,49.856038],[-97.17593599999999,49.851402],[-97.176078,49.851379],[-97.176089,49.851247],[-97.17609,49.851241],[-97.176129,49.850792],[-97.176132,49.850755],[-97.17613900000001,49.850676],[-97.17615000000001,49.850538],[-97.157049,49.852318],[-97.155936,49.852434],[-97.155074,49.852569],[-97.154245,49.852805],[-97.15354499999999,49.853145],[-97.15265100000001,49.853971],[-97.15243100000001,49.85418]]]],"type":"MultiPolygon"}
+}

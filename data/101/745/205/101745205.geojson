@@ -1,0 +1,77 @@
+{
+  "id": 101745205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:bbox":"-125.664707,52.906877,-125.652696,52.9141373",
+    "geom:latitude":52.910507,
+    "geom:longitude":-125.658701,
+    "iso:country":"CA",
+    "lbl:latitude":52.910507,
+    "lbl:longitude":-125.658702,
+    "mps:latitude":52.910507,
+    "mps:longitude":-125.658702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cahoose 12"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CAHOOSE 12",
+    "qs:loc_alt":"CAHOOSE NO  12",
+    "qs:loc_lc":"db4ded96ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9461
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"310e6bd20f926eb3d86bf42807f35846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745205,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745205,
+    "wof:lastmodified":1533335905,
+    "wof:name":"Cahoose 12",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -125.664707,
+    52.906877,
+    -125.652696,
+    52.9141373
+],
+  "geometry": {"coordinates":[[[-125.65274460000001,52.9141373],[-125.65269600000001,52.90690660000001],[-125.66014539999998,52.9068883],[-125.6646576,52.906877],[-125.66470700000001,52.91410769999999],[-125.65274460000001,52.9141373]]],"type":"Polygon"}
+}

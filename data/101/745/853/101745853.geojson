@@ -1,0 +1,77 @@
+{
+  "id": 101745853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:bbox":"-124.4170589,52.3186715,-124.4052478,52.3259086",
+    "geom:latitude":52.32229,
+    "geom:longitude":-124.411154,
+    "iso:country":"CA",
+    "lbl:latitude":52.32229,
+    "lbl:longitude":-124.411154,
+    "mps:latitude":52.32229,
+    "mps:longitude":-124.411154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alexis Creek 27"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"ALEXIS CREEK 27",
+    "qs:loc_alt":"ALEXIS CREEK NO 27",
+    "qs:loc_lc":"8a741abdba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56811407
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"4f945c194c60e1882ce970b85bf0d5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745853,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745853,
+    "wof:lastmodified":1533335918,
+    "wof:name":"Alexis Creek 27",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.41705889999997,
+    52.3186715,
+    -124.40524779999998,
+    52.3259086
+],
+  "geometry": {"coordinates":[[[-124.41705889999997,52.318675],[-124.41705779999999,52.3202364],[-124.41705389999998,52.3259086],[-124.40683679999999,52.3259056],[-124.40524779999998,52.3259051],[-124.40525020000001,52.32324110000002],[-124.40525430000002,52.3186715],[-124.41705889999997,52.318675]]],"type":"Polygon"}
+}

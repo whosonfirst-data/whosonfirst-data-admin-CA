@@ -1,0 +1,82 @@
+{
+  "id": 1125891323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.664789,46.348527,-73.664789,46.348527",
+    "geom:latitude":46.348527,
+    "geom:longitude":-73.664789,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":46.348527,
+    "lbl:longitude":-73.664789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ste.-\u00c9m\u00e9lie-de-L'\u00e9nergie",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":124,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":124,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":210275,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1450,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1450,
+        "qs_pg:id":210275
+    },
+    "wof:country":"CA",
+    "wof:created":1497295333,
+    "wof:geomhash":"7d39084525a6f4d99c1d2ba7ea786a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456469,
+            "locality_id":1125891323,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1125891323,
+    "wof:lastmodified":1533335704,
+    "wof:name":"Ste.-\u00c9m\u00e9lie-de-L'\u00e9nergie",
+    "wof:parent_id":890456469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.664789,
+    46.348527,
+    -73.664789,
+    46.348527
+],
+  "geometry": {"coordinates":[-73.664789,46.348527],"type":"Point"}
+}

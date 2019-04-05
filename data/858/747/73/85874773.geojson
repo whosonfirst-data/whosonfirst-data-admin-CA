@@ -1,0 +1,90 @@
+{
+  "id": 85874773,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1066",
+    "can-wpgppd:name":"Civic Centre",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":198187.342871,
+    "geom:bbox":"-97.141317,49.897912,-97.128784,49.902578",
+    "geom:latitude":49.900053,
+    "geom:longitude":-97.134904,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.900273,
+    "lbl:longitude":-97.134018,
+    "mps:latitude":49.900827,
+    "mps:longitude":-97.134253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Civic Centre"
+    ],
+    "name:eng_x_variant":[
+        "Civic Center"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968511,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856103,
+        "qs:id":899246,
+        "qs_pg:id":899246
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2966c369b8dc2a305682bb0dc7c0a55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968511,
+            "neighbourhood_id":85874773,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85874773,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523918,
+    "wof:name":"Civic Center",
+    "wof:parent_id":1108968511,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.141317,
+    49.897912,
+    -97.128784,
+    49.902578
+],
+  "geometry": {"coordinates":[[[[-97.13116599999999,49.897912],[-97.135836,49.899406],[-97.136439,49.898702],[-97.13852300000001,49.899368],[-97.138969,49.898872],[-97.139219,49.898962],[-97.140406,49.899282],[-97.141317,49.899575],[-97.141125,49.900012],[-97.140458,49.900883],[-97.137933,49.900076],[-97.137412,49.900684],[-97.13668199999999,49.901538],[-97.135847,49.902578],[-97.133189,49.901726],[-97.133578,49.901217],[-97.12984400000001,49.90002],[-97.12983800000001,49.900026],[-97.129802,49.900043],[-97.129757,49.900061],[-97.129749,49.900066],[-97.129373,49.899945],[-97.128784,49.899764],[-97.128986,49.899683],[-97.129592,49.899371],[-97.130117,49.899048],[-97.130573,49.898707],[-97.130948,49.898303],[-97.131111,49.898048],[-97.13116599999999,49.897912]]]],"type":"MultiPolygon"}
+}

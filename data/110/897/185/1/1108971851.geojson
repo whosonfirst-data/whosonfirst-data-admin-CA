@@ -1,0 +1,74 @@
+{
+  "id": 1108971851,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Elmwood",
+    "can-edmdsd:number":"4140",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1021893.446647,
+    "geom:bbox":"-113.615315966,53.5119152017,-113.596652733,53.5195613092",
+    "geom:latitude":53.515799,
+    "geom:longitude":-113.605968,
+    "iso:country":"CA",
+    "lbl:latitude":53.515807,
+    "lbl:longitude":-113.605968,
+    "mps:latitude":53.515807,
+    "mps:longitude":-113.605968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Elmwood"
+    ],
+    "reversegeo:latitude":53.515807,
+    "reversegeo:longitude":-113.605968,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970659,
+        85633041,
+        890458485,
+        1108971557,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5366933"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"7ddef854ec8e50e727c2c91f811bdda2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971557,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970659,
+            "neighbourhood_id":1108971851,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971851,
+    "wof:lastmodified":1513923512,
+    "wof:name":"Elmwood",
+    "wof:parent_id":1108970659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.61531596615988,
+    53.51191520169878,
+    -113.59665273290186,
+    53.51956130922489
+],
+  "geometry": {"coordinates":[[[[-113.61531596615988,53.51955447261711],[-113.61079464388318,53.51956130922489],[-113.60883326720354,53.51953605634775],[-113.6054538329399,53.51953488606456],[-113.60287825050054,53.51952246977527],[-113.59961006892532,53.51951594238598],[-113.59665273290186,53.51948744855505],[-113.59668461372847,53.51685447107083],[-113.59671689107465,53.51517275108375],[-113.59672251490322,53.51191520169878],[-113.60338998528259,53.51206911076231],[-113.61190088902198,53.51209836149572],[-113.61524699604665,53.51210780730298],[-113.61531596615988,53.51955447261711]]]],"type":"MultiPolygon"}
+}

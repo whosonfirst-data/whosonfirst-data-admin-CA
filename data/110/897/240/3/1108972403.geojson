@@ -1,0 +1,74 @@
+{
+  "id": 1108972403,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Walker",
+    "can-edmdsd:number":"6662",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000356,
+    "geom:area_square_m":2623836.911328,
+    "geom:bbox":"-113.442750626,53.4103754356,-113.41813878,53.424925775",
+    "geom:latitude":53.417649,
+    "geom:longitude":-113.430407,
+    "iso:country":"CA",
+    "lbl:latitude":53.417659,
+    "lbl:longitude":-113.430399,
+    "mps:latitude":53.417659,
+    "mps:longitude":-113.430399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Walker"
+    ],
+    "reversegeo:latitude":53.417659,
+    "reversegeo:longitude":-113.430399,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970611,
+        85633041,
+        890458485,
+        1108971193,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7962185"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"e7a419ed6faf82785462705cb66a8d5d",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971193,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970611,
+            "neighbourhood_id":1108972403,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972403,
+    "wof:lastmodified":1513926155,
+    "wof:name":"Walker",
+    "wof:parent_id":1108970611,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.44275062635894,
+    53.41037543564924,
+    -113.41813877960455,
+    53.42492577504311
+],
+  "geometry": {"coordinates":[[[[-113.41813877960455,53.41037543564924],[-113.41846105475926,53.41037637199809],[-113.43041417268921,53.41039738814112],[-113.44251929791237,53.41041779056587],[-113.44267675156948,53.41041790953581],[-113.44267673225508,53.41361264370403],[-113.44275062635894,53.42058582177623],[-113.44265876594503,53.42483715922696],[-113.43627365749001,53.42487154239971],[-113.43043923173387,53.42492110090166],[-113.4181628654932,53.42492577504311],[-113.41813877960455,53.41037543564924]]]],"type":"MultiPolygon"}
+}

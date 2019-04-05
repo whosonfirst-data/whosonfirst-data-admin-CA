@@ -1,0 +1,75 @@
+{
+  "id": 101747183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000598,
+    "geom:bbox":"-124.2443427,52.2972151,-124.197131,52.3117165",
+    "geom:latitude":52.303953,
+    "geom:longitude":-124.223262,
+    "iso:country":"CA",
+    "lbl:latitude":52.30447,
+    "lbl:longitude":-124.223261,
+    "mps:latitude":52.30447,
+    "mps:longitude":-124.223261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Charley Boy'S Meadow 3"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CHARLEY BOY'S MEADOW 3",
+    "qs:loc_alt":"CHARLEY BOY'S MEADOW NO  3",
+    "qs:loc_lc":"99dc0b09ba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"b33eed11b3019556db4d7b32fb350102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101747183,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101747183,
+    "wof:lastmodified":1533335923,
+    "wof:name":"Charley Boy'S Meadow 3",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.2443427,
+    52.29721510000002,
+    -124.197131,
+    52.31171649999999
+],
+  "geometry": {"coordinates":[[[-124.2443427,52.29724879999998],[-124.244333,52.30448259999997],[-124.24432339999998,52.31171649999999],[-124.22661970000001,52.31170650000001],[-124.20891610000001,52.3116938],[-124.20893150000001,52.30446009999997],[-124.197131,52.3044501],[-124.19713910000002,52.3010577],[-124.19714829999998,52.29721510000002],[-124.20894699999999,52.2972253],[-124.2266449,52.29723840000003],[-124.2443427,52.29724879999998]]],"type":"Polygon"}
+}

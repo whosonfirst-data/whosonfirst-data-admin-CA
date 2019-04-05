@@ -1,0 +1,79 @@
+{
+  "id": 101741349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.5080918,47.9176852,-69.5071493,47.91831",
+    "geom:latitude":47.917991,
+    "geom:longitude":-69.507614,
+    "iso:country":"CA",
+    "lbl:latitude":47.917935,
+    "lbl:longitude":-69.507528,
+    "mps:latitude":47.917935,
+    "mps:longitude":-69.507528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cacouna Indian Reserve No. 22"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Quebec",
+    "qs:a1_lc":"QC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CACOUNA INDIAN RESERVE NO. 22",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE CACOUNA NO 22",
+    "qs:loc_lc":"79dc4501ba2311d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890456305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29374168,
+        "wd:id":"Q2932581"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"f13d4323f8ce3686710fd858f946b2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456305,
+            "locality_id":101741349,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":101741349,
+    "wof:lastmodified":1533335667,
+    "wof:name":"Cacouna Indian Reserve No. 22",
+    "wof:parent_id":890456305,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.50809179999999,
+    47.9176852,
+    -69.5071493,
+    47.91831
+],
+  "geometry": {"coordinates":[[[-69.50809179999999,47.918116],[-69.507926,47.918192],[-69.50782629999998,47.91831],[-69.50780859999998,47.91829860000001],[-69.50723040000003,47.9179279],[-69.50714929999999,47.917876],[-69.50742450000001,47.9176852],[-69.507469,47.91771390000002],[-69.50804770000002,47.91808750000001],[-69.50809179999999,47.918116]]],"type":"Polygon"}
+}

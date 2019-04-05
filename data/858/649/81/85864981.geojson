@@ -1,0 +1,99 @@
+{
+  "id": 85864981,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residential",
+    "can-calcai:class_code":"1",
+    "can-calcai:comm_code":"FAL",
+    "can-calcai:comm_structure":"1980s/1990s",
+    "can-calcai:name":"FALCONRIDGE",
+    "can-calcai:sector":"NORTHEAST",
+    "can-calcai:srg":"BUILT-OUT",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000277,
+    "geom:area_square_m":2149090.701562,
+    "geom:bbox":"-113.958393,51.095968,-113.935019,51.110645",
+    "geom:latitude":51.102372,
+    "geom:longitude":-113.945046,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":51.10237,
+    "lbl:longitude":-113.945384,
+    "mps:latitude":51.101649,
+    "mps:longitude":-113.93802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Falcon Ridge"
+    ],
+    "name:unk_x_variant":[
+        "Falcon Ridge"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u06a9\u0648\u0646\u0631\u06cc\u0688\u06af\u06cc\u060c \u06a9\u06cc\u0644\u06af\u0631\u06cc"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:elevation":1100.0,
+    "wd:latitude":51.1053,
+    "wd:longitude":-113.945,
+    "wd:wordcount":305,
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23404875,
+        "qs:id":1087708,
+        "qs_pg:id":1087708,
+        "wd:id":"Q5431803"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"0c47c24b5b78fbd59263d5e6bd17fd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":85864981,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85864981,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270390,
+    "wof:name":"Falconridge",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.958393,
+    51.095968,
+    -113.935019,
+    51.110645
+],
+  "geometry": {"coordinates":[[[[-113.936674,51.096055],[-113.93682200000001,51.096042],[-113.93701,51.096022],[-113.937252,51.095999],[-113.93768,51.095968],[-113.93851600000001,51.095978],[-113.944609,51.095975],[-113.953469,51.095972],[-113.95584599999999,51.096057],[-113.958386,51.096055],[-113.958393,51.099284],[-113.95835599999999,51.099885],[-113.958257,51.100342],[-113.95810299999999,51.100771],[-113.957914,51.101172],[-113.957662,51.101583],[-113.957285,51.102035],[-113.956817,51.102509],[-113.956242,51.102959],[-113.955383,51.103487],[-113.95244700000001,51.105142],[-113.94978500000001,51.106639],[-113.948705,51.107268],[-113.948266,51.107559],[-113.948016,51.107786],[-113.947793,51.108042],[-113.947547,51.108409],[-113.947335,51.10895],[-113.947092,51.10976],[-113.946928,51.110623],[-113.940673,51.110645],[-113.93511700000001,51.11064],[-113.935019,51.110544],[-113.93512699999999,51.096076],[-113.935222,51.096076],[-113.935812,51.096073],[-113.936105,51.096072],[-113.936311,51.096071],[-113.936515,51.096064],[-113.936674,51.096055]]]],"type":"MultiPolygon"}
+}

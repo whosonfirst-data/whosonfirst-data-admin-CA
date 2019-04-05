@@ -1,0 +1,75 @@
+{
+  "id": 101747807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"-123.7685116,49.4897331,-123.765731,49.49189",
+    "geom:latitude":49.490855,
+    "geom:longitude":-123.767166,
+    "iso:country":"CA",
+    "lbl:latitude":49.490812,
+    "lbl:longitude":-123.767182,
+    "mps:latitude":49.490812,
+    "mps:longitude":-123.767182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sechelt Band Lands (Swaycalse) No 3"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SECHELT BAND LANDS (SWAYCALSE) NO 3",
+    "qs:loc_alt":"SECHELT BAND LANDS (SWAYCALSE) NO 3",
+    "qs:loc_lc":"0bf1c150d05511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"1bf626f59758d98fe1d3705deb9f0f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456829,
+            "locality_id":101747807,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101747807,
+    "wof:lastmodified":1533335926,
+    "wof:name":"Sechelt Band Lands (Swaycalse) No 3",
+    "wof:parent_id":890456829,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.76851160000001,
+    49.48973310000002,
+    -123.765731,
+    49.49189
+],
+  "geometry": {"coordinates":[[[-123.765731,49.4918884],[-123.76573939999997,49.49161370000002],[-123.76574789999999,49.49133890000002],[-123.76575639999999,49.49106410000002],[-123.7657648,49.49078939999998],[-123.76577850000001,49.4903468],[-123.76578869999997,49.49001449999997],[-123.76582939999997,49.49000969999997],[-123.76587030000002,49.4900055],[-123.76591130000003,49.4900017],[-123.76597270000002,49.4899886],[-123.7660679,49.48997150000002],[-123.7661708,49.48995730000001],[-123.76639340000003,49.489919],[-123.76655460000001,49.48987779999999],[-123.76665129999998,49.4898546],[-123.76677710000001,49.4898222],[-123.7669032,49.48979020000002],[-123.76702949999998,49.48975869999998],[-123.76710689999999,49.48973310000002],[-123.76721730000003,49.48973469999999],[-123.76776649999999,49.48974249999998],[-123.76850460000003,49.48975289999998],[-123.76850630000001,49.4902851],[-123.76851160000001,49.49189],[-123.765731,49.4918884]]],"type":"Polygon"}
+}

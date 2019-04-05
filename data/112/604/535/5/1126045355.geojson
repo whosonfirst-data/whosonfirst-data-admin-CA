@@ -1,0 +1,92 @@
+{
+  "id": 1126045355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.235519,45.516451,-76.235519,45.516451",
+    "geom:latitude":45.516451,
+    "geom:longitude":-76.235519,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":45.516451,
+    "lbl:longitude":-76.235519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Quyon"
+    ],
+    "name:eng_x_preferred":[
+        "Quyon"
+    ],
+    "name:fre_x_preferred":[
+        "Quyon"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Quyon",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":776,
+    "qs_pg:photos_1k":157,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":776,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1056875,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":3361,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890458027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":3361,
+        "qs_pg:id":1056875,
+        "wd:id":"Q7273058"
+    },
+    "wof:country":"CA",
+    "wof:created":1497302400,
+    "wof:geomhash":"e5dda824f2d58b3f1211f8a78fb90b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458027,
+            "locality_id":1126045355,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1126045355,
+    "wof:lastmodified":1533276686,
+    "wof:name":"Quyon",
+    "wof:parent_id":890458027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.235519,
+    45.516451,
+    -76.235519,
+    45.516451
+],
+  "geometry": {"coordinates":[-76.235519,45.516451],"type":"Point"}
+}

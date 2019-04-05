@@ -1,0 +1,117 @@
+{
+  "id": 85894735,
+  "type": "Feature",
+  "properties": {
+    "can-nwds:NEIGHNUM":"8",
+    "can-nwds:NEIGH_NAME":"Victory Heights",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1080568.288877,
+    "geom:bbox":"-122.917232617,49.2205378254,-122.8982699,49.2347726186",
+    "geom:latitude":49.226487,
+    "geom:longitude":-122.904802,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.226435,
+    "lbl:longitude":-122.903869,
+    "mps:latitude":49.230416,
+    "mps:longitude":-122.903767,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Victory Heights"
+    ],
+    "name:eng_x_variant":[
+        "Victory Heights"
+    ],
+    "name:unk_x_variant":[
+        "Victory Heights"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Victory Heights",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":66,
+    "qs:photo_sum":133,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.226435,
+    "reversegeo:longitude":-122.903869,
+    "src:geom":"can-nwds",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741077,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998814,
+        "qs:id":179911,
+        "qs_pg:id":179911
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c1ce77c11bf44cb494b70c0cc72730ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741077,
+            "neighbourhood_id":85894735,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894735,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335942,
+    "wof:name":"Massey Victory Heights",
+    "wof:parent_id":101741077,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.91723261740066,
+    49.22053782536655,
+    -122.89826990003134,
+    49.23477261861903
+],
+  "geometry": {"coordinates":[[[[-122.89865598240293,49.22516079774343],[-122.89869217161953,49.22371920855096],[-122.89877988132756,49.22053782536655],[-122.90229920560509,49.22059603820406],[-122.90340579856516,49.22095427863571],[-122.90500454070961,49.22151835103462],[-122.90578426106643,49.22213168011434],[-122.90624723679261,49.22187824408191],[-122.90889206628015,49.22401569718935],[-122.91189307988338,49.22240429290493],[-122.91349009057606,49.22361385185381],[-122.91622716643322,49.22415804449123],[-122.91723261740066,49.22452578017566],[-122.91214719689748,49.22728577646272],[-122.90933275062899,49.22879956893244],[-122.90623298139282,49.23047939202764],[-122.90255739474645,49.2324590811061],[-122.90082114632486,49.23339664684922],[-122.89988833510675,49.23390003651112],[-122.89901699359332,49.23436819052721],[-122.89826990003134,49.23477261861903],[-122.89851196755133,49.23395856397952],[-122.89845249201278,49.23280167745445],[-122.8984783251302,49.23174588545951],[-122.8985095702886,49.2306808298346],[-122.89853891999604,49.22955367840508],[-122.89858004242623,49.22797431603355],[-122.89860600565544,49.22714269181378],[-122.89862089093499,49.22652136538723],[-122.89864524040894,49.22561818716341],[-122.89865598240293,49.22516079774343]]]],"type":"MultiPolygon"}
+}

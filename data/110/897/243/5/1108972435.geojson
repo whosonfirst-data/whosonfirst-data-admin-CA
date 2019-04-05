@@ -1,0 +1,72 @@
+{
+  "id": 1108972435,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Westview Village",
+    "can-edmdsd:number":"4620",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":922166.51708,
+    "geom:bbox":"-113.713814019,53.5484751104,-113.689008922,53.5559690286",
+    "geom:latitude":53.552477,
+    "geom:longitude":-113.697807,
+    "iso:country":"CA",
+    "lbl:latitude":53.552198,
+    "lbl:longitude":-113.697808,
+    "mps:latitude":53.552198,
+    "mps:longitude":-113.697808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Westview Village"
+    ],
+    "reversegeo:latitude":53.552198,
+    "reversegeo:longitude":-113.697808,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7989763"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"fad08c1b13f5287ccb5856ed6ae87ca0",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "neighbourhood_id":1108972435,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108972435,
+    "wof:lastmodified":1513926203,
+    "wof:name":"Westview Village",
+    "wof:parent_id":1108971115,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.7138140189361,
+    53.54847511039551,
+    -113.68900892198815,
+    53.55596902857062
+],
+  "geometry": {"coordinates":[[[[-113.70129664818447,53.55588057931887],[-113.69231844400927,53.5559553111546],[-113.69231816909489,53.55594362980587],[-113.68925106309349,53.55596902857062],[-113.68901299269122,53.55591939181237],[-113.68900892198815,53.55177340043954],[-113.68902545536466,53.54847611429638],[-113.68926217192407,53.54847511039551],[-113.70432312757849,53.54850803743901],[-113.70432945471343,53.55452157220179],[-113.71335496158552,53.55441097753121],[-113.71381242850542,53.55440782339599],[-113.71381401893611,53.55526484432893],[-113.71373583356826,53.55526489015213],[-113.71373639604603,53.55556905927384],[-113.71343285110008,53.55555451816294],[-113.70793738458731,53.5557878457864],[-113.70129669982111,53.55586889596543],[-113.70129664818447,53.55588057931887]]]],"type":"MultiPolygon"}
+}

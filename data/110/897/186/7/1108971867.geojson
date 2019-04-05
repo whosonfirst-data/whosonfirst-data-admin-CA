@@ -1,0 +1,74 @@
+{
+  "id": 1108971867,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Evergreen",
+    "can-edmdsd:number":"2270",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":653599.048406,
+    "geom:bbox":"-113.356635295,53.6286061365,-113.344328059,53.6359483964",
+    "geom:latitude":53.632246,
+    "geom:longitude":-113.350424,
+    "iso:country":"CA",
+    "lbl:latitude":53.632279,
+    "lbl:longitude":-113.350425,
+    "mps:latitude":53.632279,
+    "mps:longitude":-113.350425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Evergreen"
+    ],
+    "reversegeo:latitude":53.632279,
+    "reversegeo:longitude":-113.350425,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970581,
+        85633041,
+        890458485,
+        1108971109,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5417150"
+    },
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"b40c4779080066368d72af1f07514038",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971109,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970581,
+            "neighbourhood_id":1108971867,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971867,
+    "wof:lastmodified":1513923524,
+    "wof:name":"Evergreen",
+    "wof:parent_id":1108970581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.3566352951048,
+    53.62860613651755,
+    -113.34432805897792,
+    53.63594839637557
+],
+  "geometry": {"coordinates":[[[[-113.35655742353275,53.62862769288222],[-113.35663529510479,53.62871914240156],[-113.35663369972644,53.63509838858369],[-113.35659136023587,53.63506640868118],[-113.35637888936427,53.63516376437859],[-113.35490460695721,53.63581895164494],[-113.35503598997725,53.63592327863638],[-113.3448454028609,53.63594822558535],[-113.34448991865283,53.63594839637557],[-113.34432805897792,53.63594831856678],[-113.34433789125102,53.62860613651755],[-113.35064260212889,53.62862307187753],[-113.35655742353275,53.62862769288222]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 85784957,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1830",
+    "can-wpgppd:name":"Transcona South",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000713,
+    "geom:area_square_m":5685228.090331,
+    "geom:bbox":"-97.030984,49.870934,-96.98107,49.886018",
+    "geom:latitude":49.878585,
+    "geom:longitude":-97.00485,
+    "gn:latitude":49.8956,
+    "gn:longitude":-97.00593,
+    "iso:country":"CA",
+    "lbl:latitude":49.878389,
+    "lbl:longitude":-97.005245,
+    "mps:latitude":49.871628,
+    "mps:longitude":-96.99558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Transcona South"
+    ],
+    "name:unk_x_variant":[
+        "Transcona"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6183235,
+    "qs:gn_nam_loc":"Winnipeg, Manitoba, Manitoba, CA",
+    "qs:gn_namadm1":"03",
+    "qs:gn_name":"Transcona",
+    "qs:local_max":4766,
+    "qs:local_sum":55180,
+    "qs:localhoods":116,
+    "qs:name":"Transcona",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Manitoba",
+    "qs:name_adm2":"Manitoba",
+    "qs:name_local":"Winnipeg",
+    "qs:photo_max":41,
+    "qs:photo_sum":99,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344917,
+    "qs:woe_adm2":29375231,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":2972,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.878455,
+    "reversegeo:longitude":-97.004835,
+    "src:geom":"can-wpgppd",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968467,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6168420,
+        "gp:id":1822,
+        "qs:id":357377,
+        "wd:id":"Q3537412",
+        "wk:page":"Transcona, Winnipeg"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3acd2313b42a47d8678efba5cfc8b80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968467,
+            "neighbourhood_id":85784957,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85784957,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523913,
+    "wof:name":"Transcona South",
+    "wof:parent_id":1108968467,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.030984,
+    49.870934,
+    -96.98107,
+    49.886018
+],
+  "geometry": {"coordinates":[[[[-97.026951,49.87112],[-97.026811,49.87112],[-97.026811,49.870939],[-97.00425199999999,49.870946],[-96.992688,49.870939],[-96.98107,49.870934],[-96.98107400000001,49.878401],[-96.981077,49.883757],[-96.981078,49.885821],[-96.981078,49.885957],[-97.003998,49.885964],[-97.01997799999999,49.88596],[-97.024298,49.886002],[-97.025881,49.886018],[-97.030984,49.886],[-97.030976,49.885822],[-97.030976,49.88563],[-97.030974,49.885],[-97.030002,49.885001],[-97.030001,49.884512],[-97.03,49.884297],[-97.029995,49.882023],[-97.029995,49.882008],[-97.029995,49.881954],[-97.02999199999999,49.88039],[-97.029991,49.88021],[-97.02998700000001,49.878399],[-97.02802200000001,49.8784],[-97.02710999999999,49.8784],[-97.02697000000001,49.8784],[-97.026951,49.87112]]]],"type":"MultiPolygon"}
+}

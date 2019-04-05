@@ -1,0 +1,77 @@
+{
+  "id": 101741927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00034,
+    "geom:bbox":"-108.2050094,52.9583878,-108.1810869,52.9872946",
+    "geom:latitude":52.972732,
+    "geom:longitude":-108.193145,
+    "iso:country":"CA",
+    "lbl:latitude":52.965622,
+    "lbl:longitude":-108.199029,
+    "mps:latitude":52.965622,
+    "mps:longitude":-108.199029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moosomin I.R. 112A"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MOOSOMIN I.R. 112A",
+    "qs:loc_alt":"MOOSOMIN NO 112A",
+    "qs:loc_lc":"f3aeed8abbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403434
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"9b38e90d0b9d9a96a95157bf22aaad58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868977,
+            "locality_id":101741927,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101741927,
+    "wof:lastmodified":1531525193,
+    "wof:name":"Moosomin I.R. 112A",
+    "wof:parent_id":1158868977,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.2050094,
+    52.95838780000003,
+    -108.18108690000003,
+    52.98729459999998
+],
+  "geometry": {"coordinates":[[[[-108.20500939999999,52.9583973],[-108.20500190000001,52.96562669999997],[-108.20499430000001,52.9728561],[-108.193049,52.97284660000003],[-108.19305680000002,52.9656172],[-108.19306460000001,52.95838780000003],[-108.20500939999999,52.9583973]]],[[[-108.19303330000002,52.9872466],[-108.18108690000003,52.98729459999998],[-108.18109270000002,52.9820954],[-108.18668020000001,52.98005669999998],[-108.1930438,52.9777343],[-108.19304119999998,52.9800466],[-108.19303330000002,52.9872466]]],[[[-108.193049,52.97284660000003],[-108.193044,52.97741730000001],[-108.1874517,52.9794584],[-108.18713700000001,52.9794116],[-108.18536360000002,52.9800588],[-108.18109329999999,52.9816169],[-108.181095,52.98006529999998],[-108.18110309999997,52.972836],[-108.193049,52.97284660000003]]]],"type":"MultiPolygon"}
+}

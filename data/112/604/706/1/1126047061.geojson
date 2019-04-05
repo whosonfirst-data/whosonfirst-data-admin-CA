@@ -1,0 +1,82 @@
+{
+  "id": 1126047061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.957225,47.384803,-61.957225,47.384803",
+    "geom:latitude":47.384803,
+    "geom:longitude":-61.957225,
+    "gn:gn_country":"CA",
+    "iso:country":"CA",
+    "lbl:latitude":47.384803,
+    "lbl:longitude":-61.957225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:name":"Grand-Ruisseau",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Qu\u00e9bec",
+    "qs_pg:photos":91,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":91,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":975622,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":3737,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Qu\u00e9bec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        136251273,
+        890457171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":3737,
+        "qs_pg:id":975622
+    },
+    "wof:country":"CA",
+    "wof:created":1497302496,
+    "wof:geomhash":"a71abe6b66f7ea70345cd4554f96412e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457171,
+            "locality_id":1126047061,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":1126047061,
+    "wof:lastmodified":1533335717,
+    "wof:name":"Grand-Ruisseau",
+    "wof:parent_id":890457171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.957225,
+    47.384803,
+    -61.957225,
+    47.384803
+],
+  "geometry": {"coordinates":[-61.957225,47.384803],"type":"Point"}
+}

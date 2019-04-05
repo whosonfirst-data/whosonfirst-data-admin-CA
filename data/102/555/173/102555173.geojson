@@ -1,0 +1,80 @@
+{
+  "id": 102555173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.883,49.8333,-114.883,49.8333",
+    "geom:latitude":49.8333,
+    "geom:longitude":-114.883,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sparwood/Elk Valley Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u067e\u0627\u0631\u0648\u0648\u062f/\u0627\u0644\u06a9 \u0648\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sparwood"
+    ],
+    "name:pms_x_preferred":[
+        "Sparwood - Elk Valley Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Sparwood/Elk Valley Airport"
+    ],
+    "oa:elevation_ft":"3800",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":36,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375236,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85633041,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511837,
+        "icao:code":"CYSW",
+        "oa:id":"1914",
+        "wd:id":"Q3915759"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"29c1e72724f243acaac73c30344a2607",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555173,
+            "country_id":85633041,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102555173,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Sparwood Elk Valley Airport",
+    "wof:parent_id":85682117,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -114.883,
+    49.8333,
+    -114.883,
+    49.8333
+],
+  "geometry": {"coordinates":[-114.883,49.8333],"type":"Point"}
+}

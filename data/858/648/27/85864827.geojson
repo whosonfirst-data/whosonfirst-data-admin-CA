@@ -1,0 +1,87 @@
+{
+  "id": 85864827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1195313.04069,
+    "geom:bbox":"-106.704708,52.146142,-106.704708,52.146142",
+    "geom:latitude":52.146142,
+    "geom:longitude":-106.704708,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":52.146142,
+    "lbl:longitude":-106.704708,
+    "mps:latitude":52.150976,
+    "mps:longitude":-106.705979,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Westview"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115081,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403791,
+        "qs:id":348104,
+        "qs_pg:id":348104,
+        "wd:id":"Q12072784"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"f61d25ee0c25a8c3d7df30778c11a17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115081,
+            "neighbourhood_id":85864827,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85864827,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531870984,
+    "wof:name":"Westview",
+    "wof:parent_id":1126115081,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.704708,
+    52.146142,
+    -106.704708,
+    52.146142
+],
+  "geometry": {"coordinates":[-106.704708,52.146142],"type":"Point"}
+}

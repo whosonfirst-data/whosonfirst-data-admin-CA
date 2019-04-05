@@ -1,0 +1,92 @@
+{
+  "id": 85866675,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residential",
+    "can-calcai:class_code":"1",
+    "can-calcai:comm_code":"COR",
+    "can-calcai:comm_structure":"2000s",
+    "can-calcai:name":"CORAL SPRINGS",
+    "can-calcai:sector":"NORTHEAST",
+    "can-calcai:srg":"BUILT-OUT",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000233,
+    "geom:area_square_m":1811082.356161,
+    "geom:bbox":"-113.935127,51.096066,-113.918537,51.11064",
+    "geom:latitude":51.103207,
+    "geom:longitude":-113.927056,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":51.103211,
+    "lbl:longitude":-113.927129,
+    "mps:latitude":51.105747,
+    "mps:longitude":-113.917276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Coral Springs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05dc \u05e1\u05e4\u05e8\u05d9\u05e0\u05d2\u05e1"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26342790,
+        "qs:id":15305,
+        "qs_pg:id":15305,
+        "wd:id":"Q5169498"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cb321d8cd09c27ff89efe728f3439207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":85866675,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85866675,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270096,
+    "wof:name":"Coral Springs",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.935127,
+    51.096066,
+    -113.918537,
+    51.11064
+],
+  "geometry": {"coordinates":[[[[-113.920327,51.110637],[-113.919985,51.109182],[-113.91932300000001,51.106232],[-113.919118,51.105188],[-113.919051,51.104699],[-113.91892199999999,51.103965],[-113.918761,51.102954],[-113.918733,51.102726],[-113.91871,51.102507],[-113.91869,51.102289],[-113.91867000000001,51.102071],[-113.91865300000001,51.101852],[-113.918638,51.101634],[-113.91862399999999,51.101415],[-113.91861299999999,51.101197],[-113.918603,51.100979],[-113.918582,51.100462],[-113.918564,51.099946],[-113.91855099999999,51.099429],[-113.918542,51.098913],[-113.918537,51.098396],[-113.918537,51.097879],[-113.91853999999999,51.097362],[-113.918548,51.096846],[-113.918564,51.096164],[-113.91857,51.096066],[-113.91858499999999,51.096066],[-113.920755,51.096067],[-113.934151,51.096073],[-113.93512699999999,51.096076],[-113.935019,51.110544],[-113.93511700000001,51.11064],[-113.93497600000001,51.110635],[-113.929237,51.110636],[-113.92072899999999,51.110637],[-113.920338,51.110637],[-113.920327,51.110637]]]],"type":"MultiPolygon"}
+}

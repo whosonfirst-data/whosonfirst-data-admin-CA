@@ -1,0 +1,68 @@
+{
+  "id": 102555199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4964,48.4778,-68.4964,48.4778",
+    "geom:latitude":48.4778,
+    "geom:longitude":-68.4964,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "A\u00e9roport international Jean-Lesage de Qu\u00e9bec"
+    ],
+    "oa:elevation_ft":"82",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375135,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        85633041,
+        101737831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511814,
+        "iata:code":"YXK",
+        "icao:code":"CYXK",
+        "oa:id":"1960",
+        "wd:id":"Q3912794"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"86637e9777360b8a647bffb9f7335a8d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555199,
+            "country_id":85633041,
+            "locality_id":101737831
+        }
+    ],
+    "wof:id":102555199,
+    "wof:lastmodified":1543846099,
+    "wof:name":"A\u00e9roport de Rimouski",
+    "wof:parent_id":101737831,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.4964,
+    48.4778,
+    -68.4964,
+    48.4778
+],
+  "geometry": {"coordinates":[-68.49639999999999,48.4778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243560647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.3,45.85,-66.3,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":-66.3,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Swan Creek",
+    "gn:country_code":"CA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6160271,
+    "gn:latitude":45.85,
+    "gn:longitude":-66.3,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Swan Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Moncton",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682065,
+        890457251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6160271
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"0f79ed092ff3be18eb7dd04b39733660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457251,
+            "locality_id":1243560647,
+            "region_id":85682065
+        }
+    ],
+    "wof:id":1243560647,
+    "wof:lastmodified":1536639936,
+    "wof:name":"Swan Creek",
+    "wof:parent_id":890457251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3,
+    45.85,
+    -66.3,
+    45.85
+],
+  "geometry": {"coordinates":[-66.3,45.85],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 85875123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":437766.228497,
+    "geom:bbox":"-83.03605,42.312852,-83.03605,42.312852",
+    "geom:latitude":42.312852,
+    "geom:longitude":-83.03605,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":42.312852,
+    "lbl:longitude":-83.03605,
+    "mps:latitude":42.31173,
+    "mps:longitude":-83.036128,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:note":"dup city centre",
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Downtown"
+    ],
+    "name:unk_x_variant":[
+        "Downtown"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6182962,
+    "qs:gn_nam_loc":"windsor",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":3456,
+    "qs:local_sum":19250,
+    "qs:localhoods":22,
+    "qs:name":"Downtown",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Essex",
+    "qs:name_local":"Windsor",
+    "qs:photo_max":1584,
+    "qs:photo_sum":1711,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375056,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":4079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1123,
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735855,
+        890458683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856333,
+        "qs:id":381505,
+        "qs_pg:id":381505,
+        "wd:id":"Q1050303"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a11367100b2e5a85b1893192d21e4f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458683,
+            "locality_id":101735855,
+            "neighbourhood_id":85875123,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85875123,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872021,
+    "wof:name":"Downtown",
+    "wof:parent_id":101735855,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.03605,
+    42.312852,
+    -83.03605,
+    42.312852
+],
+  "geometry": {"coordinates":[-83.03605,42.312852],"type":"Point"}
+}

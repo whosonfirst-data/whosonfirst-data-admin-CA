@@ -1,0 +1,113 @@
+{
+  "id": 85895047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9422092.912232,
+    "geom:bbox":"-79.817613,43.486242,-79.817613,43.486242",
+    "geom:latitude":43.486242,
+    "geom:longitude":-79.817613,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.486242,
+    "lbl:longitude":-79.817613,
+    "mps:latitude":43.475485,
+    "mps:longitude":-79.812012,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Omagh"
+    ],
+    "name:unk_x_variant":[
+        "Omagh"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":165,
+    "qs:local_sum":165,
+    "qs:localhoods":1,
+    "qs:name":"Omagh",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Halton",
+    "qs:name_local":"Beaty",
+    "qs:photo_max":143,
+    "qs:photo_sum":165,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375078,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999455,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101736383,
+        85633041,
+        85682057,
+        101740713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999040,
+        "qs:id":231002,
+        "qs_pg:id":231002
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e357965a459ac63174513cc24395874a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
+            "neighbourhood_id":85895047,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740713,
+            "neighbourhood_id":85895047,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895047,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931312,
+    "wof:name":"Omagh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.817613,
+    43.486242,
+    -79.817613,
+    43.486242
+],
+  "geometry": {"coordinates":[-79.81761299999999,43.486242],"type":"Point"}
+}

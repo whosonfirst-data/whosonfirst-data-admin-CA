@@ -1,0 +1,66 @@
+{
+  "id": 1108951581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":139349.014959,
+    "geom:bbox":"-123.181238109,49.1251580129,-123.17439619,49.1278506299",
+    "geom:latitude":49.126461,
+    "geom:longitude":-123.17766,
+    "iso:country":"CA",
+    "lbl:latitude":49.126512,
+    "lbl:longitude":-123.177662,
+    "mps:latitude":49.126512,
+    "mps:longitude":-123.177662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "reversegeo:latitude":49.126512,
+    "reversegeo:longitude":-123.177662,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741081,
+        890457467,
+        85894829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"cdce9c5ff5fdb3f9ecb3edddef968af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741081,
+            "microhood_id":1108951581,
+            "neighbourhood_id":85894829,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1108951581,
+    "wof:lastmodified":1531521057,
+    "wof:name":"Steveston Park",
+    "wof:parent_id":85894829,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.18123810938465,
+    49.1251580129474,
+    -123.17439619022794,
+    49.12785062990125
+],
+  "geometry": {"coordinates":[[[[-123.18123810938465,49.12724929473042],[-123.17970517779298,49.12725195553065],[-123.17972320491545,49.12782998607777],[-123.17439619022794,49.12785062990125],[-123.17440520378914,49.1251580129474],[-123.1792815404151,49.12519930281069],[-123.18120667414718,49.12520962923182],[-123.18121756475686,49.12576756277562],[-123.18123006642195,49.1265414916552],[-123.18123756742099,49.12719269276338],[-123.18123810938465,49.12724929473042]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108968925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":110741.812391,
+    "geom:bbox":"-97.2020960039,49.8734478985,-97.1816671024,49.8749036128",
+    "geom:latitude":49.874118,
+    "geom:longitude":-97.19327,
+    "iso:country":"CA",
+    "lbl:latitude":49.873954,
+    "lbl:longitude":-97.183611,
+    "mps:latitude":49.874199,
+    "mps:longitude":-97.19567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "name:eng_x_preferred":[
+        "Academy Road"
+    ],
+    "reversegeo:latitude":49.874199,
+    "reversegeo:longitude":-97.19567,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        85866601,
+        102191575,
+        1108968513,
+        85633041,
+        101734959,
+        1158868941,
+        85682085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:parent_id"
+    ],
+    "wof:country":"CA",
+    "wof:geomhash":"d2680b955cab2f8f0b00eb3838656b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968513,
+            "microhood_id":1108968925,
+            "neighbourhood_id":85866601,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108968925,
+    "wof:lastmodified":1531523923,
+    "wof:name":"Academy Road",
+    "wof:parent_id":-3,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85866547
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.20209600390744,
+    49.87344789854092,
+    -97.1816671023927,
+    49.87490361284667
+],
+  "geometry": {"coordinates":[[[[-97.19473606892738,49.8737010018651],[-97.19744524120276,49.87379484180627],[-97.20209600390744,49.87397367756746],[-97.20201830620114,49.87490361284667],[-97.19466290288858,49.87462559132058],[-97.1946771418542,49.87444724827613],[-97.18166710239269,49.87396560814962],[-97.1816867622952,49.87370330879108],[-97.18170590584417,49.87344789854092],[-97.1947214289037,49.87388751576685],[-97.19473606892738,49.8737010018651]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101738945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":961398.582785,
+    "geom:bbox":"-109.4212563,50.8487973,-109.398185,50.8560418",
+    "geom:latitude":50.85304,
+    "geom:longitude":-109.407761,
+    "iso:country":"CA",
+    "lbl:latitude":50.85242,
+    "lbl:longitude":-109.405676,
+    "mps:latitude":50.85242,
+    "mps:longitude":-109.405676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Prelate"
+    ],
+    "name:eng_x_preferred":[
+        "Prelate"
+    ],
+    "name:fre_x_preferred":[
+        "Prelate"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Prelate",
+    "qs:loc_lc":"0c2be4ff849c20c35b028e3718f5d47b",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":380,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba6094-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6112879,
+        "gp:id":2275,
+        "qs:id":1053555,
+        "qs_pg:id":1053555,
+        "wd:id":"Q2202282",
+        "wk:page":"Prelate, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"94f37bff93e357f1dc1077de074fdf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868979,
+            "locality_id":101738945,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101738945,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531525228,
+    "wof:name":"Prelate",
+    "wof:parent_id":1158868979,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.4212563,
+    50.8487973,
+    -109.398185,
+    50.8560418
+],
+  "geometry": {"coordinates":[[[-109.40957589999999,50.8515227],[-109.4095762,50.8519847],[-109.4095765,50.8522785],[-109.4095768,50.8525164],[-109.4105374,50.8525161],[-109.4117238,50.8525157],[-109.4209669,50.8525123],[-109.4212526,50.8525122],[-109.4212553,50.8550148],[-109.42125540000001,50.8551657],[-109.4212557,50.85546],[-109.42125590000001,50.8556035],[-109.42125590000001,50.8557242],[-109.4212563,50.8559019],[-109.4212563,50.8560418],[-109.4209706,50.8560417],[-109.42010550000001,50.8560417],[-109.40958019999999,50.8560408],[-109.4014473,50.8560392],[-109.4011428,50.8560392],[-109.4008829,50.8560391],[-109.39826290000001,50.8560385],[-109.39826290000001,50.8558577],[-109.3982623,50.8535706],[-109.39826100000001,50.852914],[-109.39825930000001,50.8504089],[-109.3982592,50.8502153],[-109.3981857,50.8501971],[-109.398185,50.8491671],[-109.39825860000001,50.8491847],[-109.3982582,50.8488069],[-109.3985948,50.8488065],[-109.40957330000001,50.8487973],[-109.40957589999999,50.8515227]]],"type":"Polygon"}
+}

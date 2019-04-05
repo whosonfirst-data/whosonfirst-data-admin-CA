@@ -1,0 +1,91 @@
+{
+  "id": 1125864151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.91686,48.58341,-89.91686,48.58341",
+    "geom:latitude":48.58341,
+    "geom:longitude":-89.91686,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":48.58341,
+    "lbl:longitude":-89.91686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Shabaqua"
+    ],
+    "name:eng_x_preferred":[
+        "Shabaqua"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6144669,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Shabaqua",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":178537,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":1673,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890458687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6144669,
+        "gp:id":1673,
+        "qs_pg:id":178537,
+        "wd:id":"Q7460036"
+    },
+    "wof:country":"CA",
+    "wof:created":1497293959,
+    "wof:geomhash":"f19483a713a4ab5dc162cbf475e967a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458687,
+            "locality_id":1125864151,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125864151,
+    "wof:lastmodified":1533278136,
+    "wof:name":"Shabaqua",
+    "wof:parent_id":890458687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.91686,
+    48.58341,
+    -89.91686,
+    48.58341
+],
+  "geometry": {"coordinates":[-89.91686,48.58341],"type":"Point"}
+}

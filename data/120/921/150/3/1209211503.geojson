@@ -1,0 +1,62 @@
+{
+  "id": 1209211503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.75311,45.2575,-63.75311,45.2575",
+    "geom:latitude":45.2575,
+    "geom:longitude":-63.75311,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Gormanville",
+    "gn:country_code":"CA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5963627,
+    "gn:latitude":45.2575,
+    "gn:longitude":-63.75311,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Gormanville",
+    "gn:population":0,
+    "gn:timezone":"America/Halifax",
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5963627,
+        "wk:page":"Gormanville%2C_Nova_Scotia"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"4838103e121ba196dbe871dbf392e2aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633041,
+            "locality_id":1209211503
+        }
+    ],
+    "wof:id":1209211503,
+    "wof:lastmodified":1537488985,
+    "wof:name":"Gormanville",
+    "wof:parent_id":85633041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.75311,
+    45.2575,
+    -63.75311,
+    45.2575
+],
+  "geometry": {"coordinates":[-63.75311,45.2575],"type":"Point"}
+}

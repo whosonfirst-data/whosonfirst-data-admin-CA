@@ -1,0 +1,106 @@
+{
+  "id": 85874827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1100777.492505,
+    "geom:bbox":"-79.819791,43.212394,-79.819791,43.212394",
+    "geom:latitude":43.212394,
+    "geom:longitude":-79.819791,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.212394,
+    "lbl:longitude":-79.819791,
+    "mps:latitude":43.215168,
+    "mps:longitude":-79.822532,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "King's Forest Upper"
+    ],
+    "name:unk_x_variant":[
+        "King's Forest Upper"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":716,
+    "qs:local_sum":1071,
+    "qs:localhoods":5,
+    "qs:name":"King's Forest Upper",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Hamilton",
+    "qs:name_local":"Mount Albion",
+    "qs:photo_max":52,
+    "qs:photo_sum":55,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375120,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999225,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735515,
+        890456341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856144,
+        "qs:id":381420,
+        "qs_pg:id":381420
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e0f7b11540212253a7c92bdc09e491f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456341,
+            "locality_id":101735515,
+            "neighbourhood_id":85874827,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85874827,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531871930,
+    "wof:name":"King's Forest Upper",
+    "wof:parent_id":101735515,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.819791,
+    43.212394,
+    -79.819791,
+    43.212394
+],
+  "geometry": {"coordinates":[-79.819791,43.212394],"type":"Point"}
+}

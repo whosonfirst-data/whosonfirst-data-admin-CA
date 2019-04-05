@@ -1,0 +1,77 @@
+{
+  "id": 101743591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:bbox":"-129.3976645,54.3027968,-129.3945687,54.3046075",
+    "geom:latitude":54.303738,
+    "geom:longitude":-129.396202,
+    "iso:country":"CA",
+    "lbl:latitude":54.303702,
+    "lbl:longitude":-129.3962,
+    "mps:latitude":54.303702,
+    "mps:longitude":-129.3962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kasika 71"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KASIKA 71",
+    "qs:loc_alt":"KASIKA NO 71",
+    "qs:loc_lc":"4e81778dba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56619111
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"cfddddf845afff377def86a623655f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456453,
+            "locality_id":101743591,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743591,
+    "wof:lastmodified":1533335880,
+    "wof:name":"Kasika 71",
+    "wof:parent_id":890456453,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -129.39766450000002,
+    54.30279680000001,
+    -129.39456869999998,
+    54.30460749999997
+],
+  "geometry": {"coordinates":[[[-129.39766450000002,54.3046048],[-129.39457300000001,54.30460749999997],[-129.39456919999998,54.30444219999998],[-129.39456869999998,54.3042658],[-129.3946024,54.30392690000002],[-129.3946492,54.30368],[-129.3947478,54.3034345],[-129.39496700000001,54.30320510000001],[-129.39512109999998,54.30304389999998],[-129.39519130000002,54.3029616],[-129.3951998,54.30286519999999],[-129.39512309999998,54.302799],[-129.39765990000001,54.30279680000001],[-129.39766450000002,54.3046048]]],"type":"Polygon"}
+}

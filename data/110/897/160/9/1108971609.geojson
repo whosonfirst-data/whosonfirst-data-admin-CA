@@ -1,0 +1,72 @@
+{
+  "id": 1108971609,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Carleton Square Industrial",
+    "can-edmdsd:number":"4100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":408559.25546,
+    "geom:bbox":"-113.61529647,53.5704317,-113.602738321,53.576429034",
+    "geom:latitude":53.572755,
+    "geom:longitude":-113.608311,
+    "iso:country":"CA",
+    "lbl:latitude":53.572748,
+    "lbl:longitude":-113.608311,
+    "mps:latitude":53.572748,
+    "mps:longitude":-113.608311,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Carleton Square Industrial"
+    ],
+    "reversegeo:latitude":53.572748,
+    "reversegeo:longitude":-113.608311,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970651,
+        85633041,
+        890458485,
+        1108971115,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"c2ea3e7fdab225be1f8d71316a330190",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971115,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970651,
+            "neighbourhood_id":1108971609,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971609,
+    "wof:lastmodified":1507246075,
+    "wof:name":"Carleton Square Industrial",
+    "wof:parent_id":1108970651,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.61529646965505,
+    53.57043169995319,
+    -113.60273832064304,
+    53.57642903396074
+],
+  "geometry": {"coordinates":[[[[-113.61525762562715,53.57044388869854],[-113.61529646965505,53.57335355859185],[-113.60273832064304,53.57642903396074],[-113.60277794825164,53.5735496312689],[-113.60282216126302,53.5704381271653],[-113.60896104829558,53.57043169995319],[-113.61131189475194,53.57043498131283],[-113.61525762562715,53.57044388869854]]]],"type":"MultiPolygon"}
+}

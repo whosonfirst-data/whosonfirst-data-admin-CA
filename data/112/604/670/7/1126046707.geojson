@@ -1,0 +1,82 @@
+{
+  "id": 1126046707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-137.007408,60.292852,-137.007408,60.292852",
+    "geom:latitude":60.292852,
+    "geom:longitude":-137.007408,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":60.292852,
+    "lbl:longitude":-137.007408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Klukshu",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Yukon Territory",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":975557,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":779,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Yukon Territory",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682095,
+        890457195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":779,
+        "qs_pg:id":975557
+    },
+    "wof:country":"CA",
+    "wof:created":1497302475,
+    "wof:geomhash":"a616b3316df7b0dfee2b77af394f31c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457195,
+            "locality_id":1126046707,
+            "region_id":85682095
+        }
+    ],
+    "wof:id":1126046707,
+    "wof:lastmodified":1532596669,
+    "wof:name":"Klukshu",
+    "wof:parent_id":890457195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -137.007408,
+    60.292852,
+    -137.007408,
+    60.292852
+],
+  "geometry": {"coordinates":[-137.007408,60.292852],"type":"Point"}
+}

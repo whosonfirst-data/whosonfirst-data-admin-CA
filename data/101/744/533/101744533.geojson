@@ -1,0 +1,77 @@
+{
+  "id": 101744533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000177,
+    "geom:bbox":"-124.2048179,53.8679855,-124.19256,53.8825032",
+    "geom:latitude":53.875249,
+    "geom:longitude":-124.198686,
+    "iso:country":"CA",
+    "lbl:latitude":53.875249,
+    "lbl:longitude":-124.198686,
+    "mps:latitude":53.875249,
+    "mps:longitude":-124.198686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Corkscrew Creek 9"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CORKSCREW CREEK 9",
+    "qs:loc_alt":"CORKSCREW CREEK NO  9",
+    "qs:loc_lc":"6b357cccba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23405536
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"4b7b218ec02a5fed24fe86784aec7c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":101744533,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744533,
+    "wof:lastmodified":1533335895,
+    "wof:name":"Corkscrew Creek 9",
+    "wof:parent_id":890458087,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -124.20481790000002,
+    53.86798549999997,
+    -124.19256,
+    53.88250319999997
+],
+  "geometry": {"coordinates":[[[-124.20481790000002,53.86801630000002],[-124.204809,53.87525979999998],[-124.20480709999998,53.87671160000002],[-124.204801,53.8816814],[-124.20480000000001,53.88250319999997],[-124.20340899999999,53.88250210000001],[-124.19256,53.88249350000001],[-124.19256619999999,53.8752943],[-124.19256630000001,53.87523950000002],[-124.19257260000001,53.86798549999997],[-124.20481790000002,53.86801630000002]]],"type":"Polygon"}
+}

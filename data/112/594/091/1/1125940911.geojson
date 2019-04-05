@@ -1,0 +1,82 @@
+{
+  "id": 1125940911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.224372,43.988121,-78.224372,43.988121",
+    "geom:latitude":43.988121,
+    "geom:longitude":-78.224372,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":43.988121,
+    "lbl:longitude":-78.224372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hamilton Twp",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":229477,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29374094,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890457749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29374094,
+        "qs_pg:id":229477
+    },
+    "wof:country":"CA",
+    "wof:created":1497297113,
+    "wof:geomhash":"3b0d3385be2353af9ab811b5a4ac5612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457749,
+            "locality_id":1125940911,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125940911,
+    "wof:lastmodified":1533335708,
+    "wof:name":"Hamilton Twp",
+    "wof:parent_id":890457749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.224372,
+    43.988121,
+    -78.224372,
+    43.988121
+],
+  "geometry": {"coordinates":[-78.224372,43.988121],"type":"Point"}
+}

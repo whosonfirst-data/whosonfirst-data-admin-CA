@@ -1,0 +1,109 @@
+{
+  "id": 85894711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:area_square_m":2139708.521711,
+    "geom:bbox":"-122.799682617,49.0166110441,-122.779274265,49.0311108947",
+    "geom:latitude":49.024144,
+    "geom:longitude":-122.78849,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.023851,
+    "lbl:longitude":-122.788492,
+    "mps:latitude":49.034345,
+    "mps:longitude":-122.78111,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "North Bluff East"
+    ],
+    "name:unk_x_variant":[
+        "North Bluff East"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6180961,
+    "qs:gn_nam_loc":"white rock",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":1600,
+    "qs:local_sum":3330,
+    "qs:localhoods":3,
+    "qs:name":"North Bluff East",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"White Rock",
+    "qs:photo_max":120,
+    "qs:photo_sum":444,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9828,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.023851,
+    "reversegeo:longitude":-122.788492,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        101741021,
+        85633041,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998781,
+        "qs:id":1090791,
+        "qs_pg:id":1090791
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d7c6637973dcdd6936e50b9a9661a2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101741021,
+            "neighbourhood_id":85894711,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894711,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527270202,
+    "wof:name":"North Bluff East",
+    "wof:parent_id":101741021,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.79968261700002,
+    49.01661104407687,
+    -122.77927426530246,
+    49.0311108947133
+],
+  "geometry": {"coordinates":[[[[-122.79304551240611,49.01663659938264],[-122.79693603499996,49.01778996660049],[-122.79693603499996,49.01805794992516],[-122.79693603189853,49.01985918210313],[-122.79634544479282,49.02075974265027],[-122.79693603499996,49.02166035340024],[-122.79693603499996,49.02346145621449],[-122.79693603499996,49.02526250160004],[-122.79693603499996,49.02640372895435],[-122.79867233134826,49.02693332587499],[-122.79870077612732,49.02706347480004],[-122.79968261700002,49.02706347480004],[-122.79968261700002,49.03066522570005],[-122.79968261700002,49.0311108947133],[-122.79788520394979,49.03110642772253],[-122.77927426530246,49.03104016433274],[-122.77930947613181,49.01661104407687],[-122.79304551240611,49.01663659938264]]]],"type":"MultiPolygon"}
+}

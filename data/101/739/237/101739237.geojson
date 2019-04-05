@@ -1,0 +1,91 @@
+{
+  "id": 101739237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1136211.151554,
+    "geom:bbox":"-105.4131419,50.7828488,-105.3957195,50.793707",
+    "geom:latitude":50.788176,
+    "geom:longitude":-105.402697,
+    "iso:country":"CA",
+    "lbl:latitude":50.788285,
+    "lbl:longitude":-105.401992,
+    "mps:latitude":50.788285,
+    "mps:longitude":-105.401992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Findlater"
+    ],
+    "name:eng_x_preferred":[
+        "Findlater"
+    ],
+    "name:fre_x_preferred":[
+        "Findlater"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Findlater",
+    "qs:loc_lc":"0c285283849c20c351722cbb48bf55e8",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03bd2bb2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5952742,
+        "gp:id":23402851,
+        "wd:id":"Q2003289",
+        "wk:page":"Findlater, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"1e928795e9485cdb4d40026aaf0dd8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868963,
+            "locality_id":101739237,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739237,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524417,
+    "wof:name":"Findlater",
+    "wof:parent_id":1158868963,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.4131419,
+    50.7828488,
+    -105.3957195,
+    50.793707
+],
+  "geometry": {"coordinates":[[[-105.4088572,50.7854257],[-105.4102855,50.7858185],[-105.4117136,50.7862114],[-105.4131419,50.7866043],[-105.4131299,50.7893921],[-105.413129,50.7895891],[-105.4131277,50.7898847],[-105.4074112,50.7883086],[-105.4074068,50.7901024],[-105.40740599999999,50.7904124],[-105.40740099999999,50.7925414],[-105.4073982,50.793707],[-105.4045595,50.7937042],[-105.4016791,50.7937013],[-105.40139379999999,50.793701],[-105.3957195,50.793695],[-105.3957237,50.7902168],[-105.39572389999999,50.7901824],[-105.395724,50.7900919],[-105.3957243,50.7900014],[-105.39572459999999,50.789947],[-105.3957284,50.7890875],[-105.3957331,50.7880098],[-105.3957334,50.7879212],[-105.39574570000001,50.785092],[-105.39574690000001,50.7847964],[-105.3957554,50.7828488],[-105.40076910000001,50.7828661],[-105.4013454,50.7828679],[-105.40140599999999,50.7828682],[-105.4016914,50.7828688],[-105.4017778,50.7828691],[-105.4074248,50.7828589],[-105.4074246,50.7829042],[-105.40741269999999,50.7850282],[-105.4088572,50.7854257]]],"type":"Polygon"}
+}

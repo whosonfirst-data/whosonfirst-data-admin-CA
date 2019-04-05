@@ -1,0 +1,78 @@
+{
+  "id": 1126028919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1493,45.4334,-75.1493,45.4334",
+    "geom:latitude":45.4334,
+    "geom:longitude":-75.1493,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":1062,
+    "gn:population":1062,
+    "iso:country":"CA",
+    "lbl:latitude":45.4334,
+    "lbl:longitude":-75.1493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":5906575,
+    "qs_pg:gn_pop":1062,
+    "qs_pg:name":"Bourget",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1244918,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890456257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5906575,
+        "qs_pg:id":1244918
+    },
+    "wof:country":"CA",
+    "wof:created":1497301328,
+    "wof:geomhash":"c0fec47ca7a27a0f6692d4fed993e181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456257,
+            "locality_id":1126028919,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1126028919,
+    "wof:lastmodified":1533335715,
+    "wof:name":"Bourget",
+    "wof:parent_id":890456257,
+    "wof:placetype":"locality",
+    "wof:population":1062,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1493,
+    45.4334,
+    -75.1493,
+    45.4334
+],
+  "geometry": {"coordinates":[-75.1493,45.4334],"type":"Point"}
+}

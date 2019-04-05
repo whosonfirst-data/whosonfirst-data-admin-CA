@@ -1,0 +1,89 @@
+{
+  "id": 85864711,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"79",
+    "can-wpgppd:name":"Centennial",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":531195.241913,
+    "geom:bbox":"-97.155652,49.899785,-97.138506,49.907939",
+    "geom:latitude":49.903867,
+    "geom:longitude":-97.14721,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.903953,
+    "lbl:longitude":-97.148427,
+    "mps:latitude":49.902755,
+    "mps:longitude":-97.148904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Centennial"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968929,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23402385,
+        "qs:id":230514,
+        "qs_pg:id":230514,
+        "wd:id":"Q16256762"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c1fc07dd096f2aa46c2ac54b09311be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968929,
+            "neighbourhood_id":85864711,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85864711,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523920,
+    "wof:name":"Centennial",
+    "wof:parent_id":1108968929,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.155652,
+    49.899785,
+    -97.138506,
+    49.907939
+],
+  "geometry": {"coordinates":[[[[-97.13850600000001,49.903431],[-97.139134,49.903632],[-97.140767,49.904156],[-97.146665,49.906048],[-97.152563,49.907939],[-97.152793,49.907641],[-97.153637,49.90703],[-97.154892,49.905427],[-97.15506000000001,49.904949],[-97.155652,49.904182],[-97.14393,49.900418],[-97.14381299999999,49.90038],[-97.14196,49.899785],[-97.141238,49.900733],[-97.141029,49.901005],[-97.141012,49.901028],[-97.141142,49.90107],[-97.141122,49.901095],[-97.140914,49.901368],[-97.140851,49.901449],[-97.14018799999999,49.901236],[-97.13850600000001,49.903431]]]],"type":"MultiPolygon"}
+}

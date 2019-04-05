@@ -1,0 +1,91 @@
+{
+  "id": 101739855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1310150.322203,
+    "geom:bbox":"-105.1682832,50.3895168,-105.1452111,50.3967656",
+    "geom:latitude":50.393144,
+    "geom:longitude":-105.156689,
+    "iso:country":"CA",
+    "lbl:latitude":50.393142,
+    "lbl:longitude":-105.156688,
+    "mps:latitude":50.393142,
+    "mps:longitude":-105.156688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Belle Plaine"
+    ],
+    "name:eng_x_preferred":[
+        "Belle Plaine"
+    ],
+    "name:fre_x_preferred":[
+        "Belle Plaine"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Belle Plaine",
+    "qs:loc_lc":"0cff0910849c20c3c700bb2ed7a950aa",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03b9ecea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":5897858,
+        "gp:id":100,
+        "wd:id":"Q1999097",
+        "wk:page":"Belle Plaine, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"7694b28fbc28bc600fe4e6a5f247c689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868963,
+            "locality_id":101739855,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739855,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524456,
+    "wof:name":"Belle Plaine",
+    "wof:parent_id":1158868963,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.1682832,
+    50.3895168,
+    -105.1452111,
+    50.3967656
+],
+  "geometry": {"coordinates":[[[-105.1452163,50.3953613],[-105.1452154,50.3944518],[-105.1452152,50.3942545],[-105.1452111,50.389524],[-105.1565382,50.3895209],[-105.16785950000001,50.3895169],[-105.1681425,50.3895168],[-105.1681414,50.3907837],[-105.16814119999999,50.3909805],[-105.16814100000001,50.3912664],[-105.1681404,50.3918217],[-105.1681379,50.394502],[-105.1681375,50.3950573],[-105.1682832,50.3950423],[-105.1682825,50.3959088],[-105.1681359,50.396756],[-105.1678527,50.3967562],[-105.1635699,50.3967591],[-105.15653519999999,50.3967634],[-105.1529237,50.3967643],[-105.15157189999999,50.3967646],[-105.1461706,50.3967655],[-105.1452175,50.3967656],[-105.14521740000001,50.3966777],[-105.1452166,50.395686],[-105.1452163,50.3953613]]],"type":"Polygon"}
+}

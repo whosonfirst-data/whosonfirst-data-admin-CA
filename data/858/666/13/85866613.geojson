@@ -1,0 +1,87 @@
+{
+  "id": 85866613,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"1792",
+    "can-wpgppd:name":"Buchanan",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1184671.340579,
+    "geom:bbox":"-97.326256,49.880449,-97.314961,49.899202",
+    "geom:latitude":49.889553,
+    "geom:longitude":-97.320152,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.889459,
+    "lbl:longitude":-97.319333,
+    "mps:latitude":49.896064,
+    "mps:longitude":-97.328498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Buchanan"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968457,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332860,
+        "qs:id":210247,
+        "qs_pg:id":210247
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"2a90e755351fe8db3fee3573fb05298a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968457,
+            "neighbourhood_id":85866613,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866613,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523914,
+    "wof:name":"Buchanan",
+    "wof:parent_id":1108968457,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.326256,
+    49.880449,
+    -97.314961,
+    49.899202
+],
+  "geometry": {"coordinates":[[[[-97.32356799999999,49.889666],[-97.32361,49.889391],[-97.323674,49.88912],[-97.32375999999999,49.888855],[-97.32387300000001,49.888585],[-97.324009,49.888325],[-97.324167,49.888079],[-97.324573,49.887482],[-97.325085,49.886729],[-97.32514399999999,49.886641],[-97.3252,49.886551],[-97.325255,49.88646],[-97.325307,49.88637],[-97.325357,49.886279],[-97.32540400000001,49.886187],[-97.32547700000001,49.886034],[-97.32554399999999,49.885879],[-97.325605,49.885721],[-97.325658,49.885565],[-97.325704,49.885407],[-97.325744,49.885247],[-97.32594400000001,49.884626],[-97.326256,49.880449],[-97.316727,49.881588],[-97.314961,49.899202],[-97.32091800000001,49.89882],[-97.322669,49.898843],[-97.322695,49.898422],[-97.32272,49.898176],[-97.32356799999999,49.889666]]]],"type":"MultiPolygon"}
+}

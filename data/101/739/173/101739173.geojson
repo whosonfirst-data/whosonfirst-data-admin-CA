@@ -1,0 +1,95 @@
+{
+  "id": 101739173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000378,
+    "geom:area_square_m":2974608.732548,
+    "geom:bbox":"-106.0793188,50.4482751,-106.0505766,50.4629225",
+    "geom:latitude":50.455192,
+    "geom:longitude":-106.063649,
+    "iso:country":"CA",
+    "lbl:latitude":50.455598,
+    "lbl:longitude":-106.063649,
+    "mps:latitude":50.455598,
+    "mps:longitude":-106.063649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mortlach"
+    ],
+    "name:eng_x_preferred":[
+        "Mortlach"
+    ],
+    "name:fre_x_preferred":[
+        "Mortlach"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mortlach",
+    "qs:loc_lc":"0c2e54ee849c20c33903ea56eae386dc",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":849,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03c01598-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6078998,
+        "gp:id":2300,
+        "qs:id":894816,
+        "qs_pg:id":894816,
+        "wd:id":"Q2201170",
+        "wk:page":"Mortlach, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"e5b52a7a04dbdc9c599157f4cb14bae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868947,
+            "locality_id":101739173,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739173,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524132,
+    "wof:name":"Mortlach",
+    "wof:parent_id":1158868947,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.0793188,
+    50.4482751,
+    -106.0505766,
+    50.4629225
+],
+  "geometry": {"coordinates":[[[-106.0505861,50.453282],[-106.0505885,50.4527305],[-106.05060779999999,50.4482751],[-106.0619854,50.4482757],[-106.07313449999999,50.4482754],[-106.07321930000001,50.4482754],[-106.07329319999999,50.4482754],[-106.0735765,50.4482753],[-106.0736486,50.4482754],[-106.07372599999999,50.4482754],[-106.0793188,50.4482785],[-106.07929559999999,50.4507624],[-106.0792904,50.4513141],[-106.079285,50.4518942],[-106.07925109999999,50.45551],[-106.0753615,50.4555082],[-106.07357210000001,50.4555072],[-106.0735718,50.4556882],[-106.0735699,50.45706],[-106.0735696,50.4572409],[-106.07356679999999,50.4593034],[-106.07356230000001,50.4626109],[-106.07356179999999,50.4629185],[-106.07327840000001,50.4629186],[-106.0732641,50.4629186],[-106.0724385,50.4629188],[-106.0668294,50.4629202],[-106.06656289999999,50.4629202],[-106.06197779999999,50.462921],[-106.0506038,50.4629225],[-106.0506027,50.4625996],[-106.05057739999999,50.4557241],[-106.0505773,50.455684],[-106.0505766,50.4555031],[-106.0505769,50.4554544],[-106.050583,50.4540233],[-106.0505861,50.453282]]],"type":"Polygon"}
+}

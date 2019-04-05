@@ -1,0 +1,69 @@
+{
+  "id": 1108906639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":223852.637042,
+    "geom:bbox":"-123.099629818,49.2811604795,-123.089427939,49.2840941359",
+    "geom:latitude":49.282622,
+    "geom:longitude":-123.094532,
+    "iso:country":"CA",
+    "lbl:latitude":49.282615,
+    "lbl:longitude":-123.094531,
+    "mps:latitude":49.282615,
+    "mps:longitude":-123.094531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":49.282615,
+    "reversegeo:longitude":-123.094531,
+    "src:geom":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741075,
+        890457467,
+        85865079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"2db8e7b5e6e85c3260ae723e449da890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741075,
+            "microhood_id":1108906639,
+            "neighbourhood_id":85865079,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1108906639,
+    "wof:lastmodified":1531521056,
+    "wof:name":"Downtown Eastside",
+    "wof:parent_id":85865079,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        420781363
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.09962981762615,
+    49.28116047951415,
+    -123.08942793924948,
+    49.28409413585902
+],
+  "geometry": {"coordinates":[[[[-123.09951132326992,49.28409413585902],[-123.09881538818205,49.28408565053857],[-123.09606612278752,49.28402433869054],[-123.09346567802687,49.28396302676625],[-123.0906889983051,49.28393492544215],[-123.08942793924948,49.28391193343778],[-123.08944752091186,49.28300501804775],[-123.08949843323398,49.28208531216764],[-123.08959242521325,49.28116047951415],[-123.09149967912657,49.28119369203676],[-123.09441734681731,49.2812396785696],[-123.09746738324392,49.28129825473373],[-123.09865171543844,49.28131838018043],[-123.09962981762615,49.281335001145],[-123.09951132326992,49.28409413585902]]]],"type":"MultiPolygon"}
+}

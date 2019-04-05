@@ -1,0 +1,79 @@
+{
+  "id": 101746483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:bbox":"-103.8692983,51.5052683,-103.7989178,51.5418819",
+    "geom:latitude":51.521117,
+    "geom:longitude":-103.824406,
+    "iso:country":"CA",
+    "lbl:latitude":51.512473,
+    "lbl:longitude":-103.804702,
+    "mps:latitude":51.512473,
+    "mps:longitude":-103.804702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muskowekwan I.R. 85-50"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MUSKOWEKWAN I.R. 85-50",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE MUSKOWEKWAN NO 85-50",
+    "qs:loc_lc":"6c9ebc34849c20c35e97b5011a4e113d",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868983
+    ],
+    "wof:breaches":[
+        101740601
+    ],
+    "wof:concordances":{
+        "gp:id":29373190
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6fd5316ae1d238a1b7e7a831a3b36919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868983,
+            "locality_id":101746483,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746483,
+    "wof:lastmodified":1531525296,
+    "wof:name":"Muskowekwan I.R. 85-50",
+    "wof:parent_id":1158868983,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.86929830000003,
+    51.50526830000001,
+    -103.79891780000003,
+    51.54188190000002
+],
+  "geometry": {"coordinates":[[[[-103.8105099,51.51967969999998],[-103.79892959999999,51.5196676],[-103.79892369999999,51.51245519999998],[-103.7989192,51.50686050000002],[-103.7989192,51.50676770000001],[-103.79891780000003,51.505275],[-103.81044470000001,51.50526830000001],[-103.81046000000001,51.50864339999998],[-103.81046040000001,51.5087411],[-103.81047719999999,51.512444],[-103.8105099,51.51967969999998]]],[[[-103.8576779,51.53463420000003],[-103.86929830000003,51.53465310000001],[-103.86929739999999,51.54188190000002],[-103.8576822,51.54184650000002],[-103.8576779,51.53463420000003]]]],"type":"MultiPolygon"}
+}

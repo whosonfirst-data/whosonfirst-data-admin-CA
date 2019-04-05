@@ -1,0 +1,77 @@
+{
+  "id": 101742099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000695,
+    "geom:bbox":"-108.8342123,52.8711748,-108.7861289,52.8859009",
+    "geom:latitude":52.878454,
+    "geom:longitude":-108.81007,
+    "iso:country":"CA",
+    "lbl:latitude":52.878395,
+    "lbl:longitude":-108.81007,
+    "mps:latitude":52.878395,
+    "mps:longitude":-108.81007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sweetgrass I.R. 113B"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SWEETGRASS I.R. 113B",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE DE SWEET GRASS NO 113B",
+    "qs:loc_lc":"fdba567bbbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373485
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"ec11fa0e8c8a209664842f05daa66163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868959,
+            "locality_id":101742099,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101742099,
+    "wof:lastmodified":1531524353,
+    "wof:name":"Sweetgrass I.R. 113B",
+    "wof:parent_id":1158868959,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.8342123,
+    52.8711748,
+    -108.7861289,
+    52.88590090000002
+],
+  "geometry": {"coordinates":[[[-108.82228420000001,52.8712281],[-108.8342123,52.87124310000002],[-108.8341676,52.8784614],[-108.83412300000001,52.88567819999997],[-108.83311689999999,52.88568270000002],[-108.83128770000002,52.88568350000003],[-108.82709419999998,52.8856601],[-108.8263379,52.88565390000002],[-108.82320650000003,52.88562489999998],[-108.82260930000001,52.885619],[-108.82236940000001,52.8856166],[-108.81131110000001,52.8855577],[-108.81080730000002,52.88556],[-108.81029270000001,52.88556260000001],[-108.809995,52.88556849999998],[-108.80225819999998,52.88573789999998],[-108.79825140000003,52.88578460000002],[-108.78612889999999,52.88590090000002],[-108.78614529999999,52.87864530000002],[-108.78614549999998,52.87863069999997],[-108.78614870000001,52.87838729999999],[-108.7861772,52.8711748],[-108.7979765,52.87119969999998],[-108.798107,52.87119860000001],[-108.81003679999998,52.87122449999998],[-108.81033480000002,52.8712218],[-108.82228420000001,52.8712281]]],"type":"Polygon"}
+}

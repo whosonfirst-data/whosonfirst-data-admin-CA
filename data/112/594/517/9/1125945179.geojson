@@ -1,0 +1,95 @@
+{
+  "id": 1125945179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.45018,48.65011,-90.45018,48.65011",
+    "geom:latitude":48.65011,
+    "geom:longitude":-90.45018,
+    "gn:gn_country":"CA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CA",
+    "lbl:latitude":48.65011,
+    "lbl:longitude":-90.45018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kashabowie"
+    ],
+    "name:eng_x_preferred":[
+        "Kashabowie"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":5989511,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kashabowie",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":987411,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":3076,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682057,
+        890458687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5989511,
+        "gp:id":3076,
+        "qs_pg:id":987411,
+        "wd:id":"Q6374194"
+    },
+    "wof:country":"CA",
+    "wof:created":1497297256,
+    "wof:geomhash":"34405444bb2fd070066e9fc32334db5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458687,
+            "locality_id":1125945179,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":1125945179,
+    "wof:lastmodified":1533278136,
+    "wof:name":"Kashabowie",
+    "wof:parent_id":890458687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45018,
+    48.65011,
+    -90.45018,
+    48.65011
+],
+  "geometry": {"coordinates":[-90.45018,48.65011],"type":"Point"}
+}

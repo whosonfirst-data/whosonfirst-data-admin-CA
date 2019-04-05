@@ -1,0 +1,82 @@
+{
+  "id": 1125827117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.449394,49.781153,-121.449394,49.781153",
+    "geom:latitude":49.781153,
+    "geom:longitude":-121.449394,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":49.781153,
+    "lbl:longitude":-121.449394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Boston Bar Indian Reserve 1a",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":449,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":449,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089176,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":29373875,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373875,
+        "qs_pg:id":1089176
+    },
+    "wof:country":"CA",
+    "wof:created":1497292328,
+    "wof:geomhash":"46e8bf185da5e8344251d43042a74f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458867,
+            "locality_id":1125827117,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125827117,
+    "wof:lastmodified":1533335930,
+    "wof:name":"Boston Bar Indian Reserve 1a",
+    "wof:parent_id":890458867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.449394,
+    49.781153,
+    -121.449394,
+    49.781153
+],
+  "geometry": {"coordinates":[-121.449394,49.781153],"type":"Point"}
+}

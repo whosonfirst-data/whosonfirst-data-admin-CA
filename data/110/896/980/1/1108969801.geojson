@@ -1,0 +1,76 @@
+{
+  "id": 1108969801,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"130",
+    "can-wpgppd:name":"Varennes",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":407358.46427,
+    "geom:bbox":"-97.112317,49.852478,-97.103927,49.864406",
+    "geom:latitude":49.857469,
+    "geom:longitude":-97.10917,
+    "iso:country":"CA",
+    "lbl:latitude":49.856933,
+    "lbl:longitude":-97.109107,
+    "mps:latitude":49.856933,
+    "mps:longitude":-97.109107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Varennes"
+    ],
+    "name:fre_x_preferred":[
+        "Varennes"
+    ],
+    "reversegeo:latitude":49.856933,
+    "reversegeo:longitude":-97.109107,
+    "src:geom":"can-wpgppd",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968473,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3554707"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"d113e137b65d87e9ef0ed3b4d2ff67f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968473,
+            "neighbourhood_id":1108969801,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108969801,
+    "wof:lastmodified":1531523898,
+    "wof:name":"Varennes",
+    "wof:parent_id":1108968473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.112317,
+    49.852478,
+    -97.103927,
+    49.864406
+],
+  "geometry": {"coordinates":[[[[-97.11180899999999,49.853254],[-97.111941,49.852478],[-97.10550499999999,49.854638],[-97.103927,49.855301],[-97.104573,49.856131],[-97.111007,49.864406],[-97.112317,49.857717],[-97.11180899999999,49.853254]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 85875189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1775317.084816,
+    "geom:bbox":"-106.583919,52.157144,-106.583919,52.157144",
+    "geom:latitude":52.157144,
+    "geom:longitude":-106.583919,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":52.157144,
+    "lbl:longitude":-106.583919,
+    "mps:latitude":52.16376,
+    "mps:longitude":-106.581505,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Silverspring"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":52.1586,
+    "wd:longitude":-106.59,
+    "wd:wordcount":703,
+    "wof:belongsto":[
+        85682113,
+        102191575,
+        1126115071,
+        85633041,
+        101740015,
+        1158868949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856370,
+        "qs:id":1089547,
+        "qs_pg:id":1089547,
+        "wd:id":"Q7516778"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"dedd7069043043b1295564863ae91fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868949,
+            "locality_id":101740015,
+            "macrohood_id":1126115071,
+            "neighbourhood_id":85875189,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":85875189,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531872031,
+    "wof:name":"Silverspring",
+    "wof:parent_id":1126115071,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.583919,
+    52.157144,
+    -106.583919,
+    52.157144
+],
+  "geometry": {"coordinates":[-106.58391899999999,52.157144],"type":"Point"}
+}

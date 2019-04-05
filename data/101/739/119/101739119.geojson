@@ -1,0 +1,98 @@
+{
+  "id": 101739119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":836053.786697,
+    "geom:bbox":"-106.8753558,50.8997341,-106.8589853,50.9070266",
+    "geom:latitude":50.903124,
+    "geom:longitude":-106.866605,
+    "iso:country":"CA",
+    "lbl:latitude":50.903387,
+    "lbl:longitude":-106.866607,
+    "mps:latitude":50.903387,
+    "mps:longitude":-106.866607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Riverhurst"
+    ],
+    "name:eng_x_preferred":[
+        "Riverhurst"
+    ],
+    "name:fra_x_preferred":[
+        "Riverhurst"
+    ],
+    "name:fre_x_preferred":[
+        "Riverhurst"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Riverhurst",
+    "qs:loc_lc":"0c2cb420849c20c3cfe9e809fae6fd59",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Village",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03ba5f86-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6122668,
+        "gp:id":2268,
+        "qs:id":160372,
+        "qs_pg:id":160372,
+        "wd:id":"Q2204139",
+        "wk:page":"Riverhurst, Saskatchewan"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"859285397e0dc472296713211d53f60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868947,
+            "locality_id":101739119,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101739119,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531524133,
+    "wof:name":"Riverhurst",
+    "wof:parent_id":1158868947,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.8753558,
+    50.8997341,
+    -106.8589853,
+    50.9070266
+],
+  "geometry": {"coordinates":[[[-106.8753375,50.8999863],[-106.87534220000001,50.9012913],[-106.8753428,50.9014398],[-106.8753456,50.9021853],[-106.8753463,50.9024047],[-106.87534890000001,50.9031175],[-106.8753495,50.9032984],[-106.8753521,50.9040114],[-106.87535269999999,50.9041924],[-106.8753552,50.9048862],[-106.87535579999999,50.9050241],[-106.8726152,50.9048291],[-106.87030350000001,50.9046646],[-106.8703057,50.9053508],[-106.87030590000001,50.9054297],[-106.8703113,50.9070266],[-106.8696612,50.9070232],[-106.85905700000001,50.9069674],[-106.85905889999999,50.9046909],[-106.8589853,50.9046856],[-106.8589863,50.9037205],[-106.8589865,50.9034999],[-106.8589867,50.903224],[-106.8589869,50.9030432],[-106.8589874,50.902331],[-106.85898899999999,50.9005012],[-106.8589896,50.899915],[-106.8589896,50.8997341],[-106.8651371,50.8997612],[-106.86557019999999,50.8997631],[-106.87028720000001,50.8997836],[-106.8704303,50.8997842],[-106.87259760000001,50.8997936],[-106.87288359999999,50.8997949],[-106.87505090000001,50.8998041],[-106.8753368,50.8998054],[-106.8753375,50.8999863]]],"type":"Polygon"}
+}

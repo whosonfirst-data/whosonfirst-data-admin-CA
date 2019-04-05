@@ -1,0 +1,113 @@
+{
+  "id": 85895695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2122860.808222,
+    "geom:bbox":"-79.880665,43.50874,-79.880665,43.50874",
+    "geom:latitude":43.50874,
+    "geom:longitude":-79.880665,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.50874,
+    "lbl:longitude":-79.880665,
+    "mps:latitude":43.505604,
+    "mps:longitude":-79.880731,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Downtown Milton"
+    ],
+    "name:unk_x_variant":[
+        "Downtown Milton"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":376,
+    "qs:local_sum":376,
+    "qs:localhoods":1,
+    "qs:name":"Downtown Milton",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Halton",
+    "qs:name_local":"Old Milton",
+    "qs:photo_max":287,
+    "qs:photo_sum":376,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375078,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999343,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        101736383,
+        85633041,
+        85682057,
+        101740713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999651,
+        "qs:id":1090830,
+        "qs_pg:id":1090830
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a5eef7ca0d659ab0f93836d04448c3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736383,
+            "neighbourhood_id":85895695,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740713,
+            "neighbourhood_id":85895695,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895695,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931471,
+    "wof:name":"Downtown Milton",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.880665,
+    43.50874,
+    -79.880665,
+    43.50874
+],
+  "geometry": {"coordinates":[-79.88066499999999,43.50874],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108964291,
+  "type": "Feature",
+  "properties": {
+    "can-calcai:class":"Residual Sub Area",
+    "can-calcai:class_code":"4",
+    "can-calcai:comm_code":"02B",
+    "can-calcai:comm_structure":"UNDEVELOPED",
+    "can-calcai:name":"02B",
+    "can-calcai:sector":"NORTH",
+    "can-calcai:srg":"N/A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000343,
+    "geom:area_square_m":2655699.944641,
+    "geom:bbox":"-114.211115,51.168684,-114.187712,51.183359",
+    "geom:latitude":51.176026,
+    "geom:longitude":-114.199404,
+    "iso:country":"CA",
+    "lbl:latitude":51.176023,
+    "lbl:longitude":-114.199404,
+    "mps:latitude":51.176023,
+    "mps:longitude":-114.199404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "reversegeo:latitude":51.176023,
+    "reversegeo:longitude":-114.199404,
+    "src:geom":"can-calcai",
+    "wof:belongsto":[
+        102191575,
+        890458845,
+        85633041,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"e3100df4af0f83bd9ebd2e5ffc922347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458845,
+            "neighbourhood_id":1108964291,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108964291,
+    "wof:lastmodified":1507246074,
+    "wof:name":"02b",
+    "wof:parent_id":890458845,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.211115,
+    51.168684,
+    -114.187712,
+    51.183359
+],
+  "geometry": {"coordinates":[[[[-114.187712,51.168723],[-114.187712,51.168704],[-114.18785099999999,51.168704],[-114.19933399999999,51.168694],[-114.21081599999999,51.168684],[-114.211055,51.168684],[-114.21111500000001,51.183359],[-114.18771700000001,51.183346],[-114.187712,51.168723]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 85895067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1715496.576082,
+    "geom:bbox":"-79.734608,43.877036,-79.734608,43.877036",
+    "geom:latitude":43.877036,
+    "geom:longitude":-79.734608,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.877036,
+    "lbl:longitude":-79.734608,
+    "mps:latitude":43.872345,
+    "mps:longitude":-79.733488,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Downtown Bolton"
+    ],
+    "name:unk_x_variant":[
+        "Downtown Bolton"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5913415,
+    "qs:gn_nam_loc":"caledon",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":389,
+    "qs:local_sum":2625,
+    "qs:localhoods":17,
+    "qs:name":"Downtown Bolton",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Peel",
+    "qs:name_local":"Caledon",
+    "qs:photo_max":91,
+    "qs:photo_sum":95,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375178,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":23396905,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736249,
+        890456343,
+        101740755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999058,
+        "qs:id":212710,
+        "qs_pg:id":212710
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"196c8f6723adedcc6357312455cbb7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456343,
+            "locality_id":101736249,
+            "neighbourhood_id":85895067,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456343,
+            "locality_id":101740755,
+            "neighbourhood_id":85895067,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895067,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931318,
+    "wof:name":"Downtown Bolton",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.734608,
+    43.877036,
+    -79.734608,
+    43.877036
+],
+  "geometry": {"coordinates":[-79.73460799999999,43.877036],"type":"Point"}
+}

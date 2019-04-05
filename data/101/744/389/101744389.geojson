@@ -1,0 +1,77 @@
+{
+  "id": 101744389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:bbox":"-121.5730364,50.1865603,-121.5694483,50.1938313",
+    "geom:latitude":50.190143,
+    "geom:longitude":-121.571134,
+    "iso:country":"CA",
+    "lbl:latitude":50.190124,
+    "lbl:longitude":-121.571111,
+    "mps:latitude":50.190124,
+    "mps:longitude":-121.571111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Skuppah 2B"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SKUPPAH 2B",
+    "qs:loc_alt":"SKUPPAH NO 2B",
+    "qs:loc_lc":"dd37e359ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56811387
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6bd7e7fbfa95bcce42d33e0c6231525e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458465,
+            "locality_id":101744389,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101744389,
+    "wof:lastmodified":1533335893,
+    "wof:name":"Skuppah 2B",
+    "wof:parent_id":890458465,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.57303639999998,
+    50.1865603,
+    -121.56944829999998,
+    50.1938313
+],
+  "geometry": {"coordinates":[[[-121.57270779999999,50.186562],[-121.5728148,50.186562],[-121.57292840000002,50.18712829999998],[-121.5730112,50.1876899],[-121.57303639999998,50.18833039999998],[-121.57295019999999,50.18887860000001],[-121.57283130000002,50.18927789999998],[-121.57274230000002,50.18964549999998],[-121.57269309999998,50.1900162],[-121.572684,50.1903881],[-121.57272239999998,50.1917082],[-121.57269350000001,50.1921848],[-121.57275079999999,50.192685],[-121.57278409999998,50.1938313],[-121.56945130000003,50.193831],[-121.56944970000001,50.18998529999999],[-121.5694489,50.18797970000003],[-121.56944829999998,50.1865603],[-121.57270779999999,50.186562]]],"type":"Polygon"}
+}

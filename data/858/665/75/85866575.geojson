@@ -1,0 +1,87 @@
+{
+  "id": 85866575,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"99",
+    "can-wpgppd:name":"Dufferin",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":651345.031699,
+    "geom:bbox":"-97.169857,49.911779,-97.141685,49.922608",
+    "geom:latitude":49.917423,
+    "geom:longitude":-97.156131,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.916449,
+    "lbl:longitude":-97.152935,
+    "mps:latitude":49.914509,
+    "mps:longitude":-97.161403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Dufferin"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968519,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332840,
+        "qs:id":15263,
+        "qs_pg:id":15263
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"a7395e6812fd3931c5e4a3c632f7fd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968519,
+            "neighbourhood_id":85866575,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":85866575,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531523917,
+    "wof:name":"Dufferin",
+    "wof:parent_id":1108968519,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.169857,
+    49.911779,
+    -97.141685,
+    49.922608
+],
+  "geometry": {"coordinates":[[[[-97.143246,49.911779],[-97.142335,49.913334],[-97.14197799999999,49.913796],[-97.141685,49.914177],[-97.14181000000001,49.914217],[-97.14406700000001,49.914942],[-97.144318,49.915023],[-97.146576,49.915748],[-97.146826,49.915829],[-97.149084,49.916554],[-97.14933499999999,49.916635],[-97.151596,49.917361],[-97.15184600000001,49.917442],[-97.154104,49.918167],[-97.154355,49.918248],[-97.156614,49.918973],[-97.156739,49.919014],[-97.156474,49.919357],[-97.166674,49.922608],[-97.16976099999999,49.921153],[-97.16985699999999,49.920212],[-97.16965500000001,49.920146],[-97.16947,49.920087],[-97.16805100000001,49.919632],[-97.16729100000001,49.919389],[-97.166641,49.91918],[-97.165691,49.918876],[-97.16473999999999,49.918571],[-97.163158,49.918063],[-97.162825,49.917957],[-97.161231,49.917446],[-97.161106,49.917406],[-97.161044,49.917486],[-97.15853300000001,49.916681],[-97.143246,49.911779]]]],"type":"MultiPolygon"}
+}

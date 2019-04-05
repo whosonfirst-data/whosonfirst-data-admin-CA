@@ -1,0 +1,71 @@
+{
+  "id": 1108969815,
+  "type": "Feature",
+  "properties": {
+    "can-wpgppd:id":"662",
+    "can-wpgppd:name":"West Kildonan Industrial",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00028,
+    "geom:area_square_m":2224497.243113,
+    "geom:bbox":"-97.141011,49.949633,-97.103157,49.968838",
+    "geom:latitude":49.959716,
+    "geom:longitude":-97.123543,
+    "iso:country":"CA",
+    "lbl:latitude":49.960201,
+    "lbl:longitude":-97.12354,
+    "mps:latitude":49.960201,
+    "mps:longitude":-97.12354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "West Kildonan Industrial"
+    ],
+    "reversegeo:latitude":49.960201,
+    "reversegeo:longitude":-97.12354,
+    "src:geom":"can-wpgppd",
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        1108968461,
+        85633041,
+        101734959,
+        1158868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"b4f6a43441998cc12f94384fadb3754c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868941,
+            "locality_id":101734959,
+            "macrohood_id":1108968461,
+            "neighbourhood_id":1108969815,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":1108969815,
+    "wof:lastmodified":1531523899,
+    "wof:name":"West Kildonan Industrial",
+    "wof:parent_id":1108968461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.141011,
+    49.949633,
+    -97.103157,
+    49.968838
+],
+  "geometry": {"coordinates":[[[[-97.13418,49.967843],[-97.134351,49.967747],[-97.135233,49.967147],[-97.135953,49.966463],[-97.138699,49.963345],[-97.140278,49.961627],[-97.14101100000001,49.960829],[-97.121685,49.954583],[-97.117137,49.953113],[-97.10638,49.949633],[-97.10522400000001,49.950496],[-97.103157,49.951825],[-97.103448,49.951919],[-97.103488,49.951932],[-97.103904,49.952067],[-97.10809,49.953422],[-97.108341,49.953503],[-97.109084,49.953744],[-97.109619,49.953917],[-97.11349300000001,49.95517],[-97.113694,49.955236],[-97.10858500000001,49.958411],[-97.123628,49.965259],[-97.13149199999999,49.968838],[-97.131542,49.968824],[-97.13220200000001,49.968638],[-97.132729,49.968475],[-97.133236,49.968288],[-97.13372099999999,49.968077],[-97.13418,49.967843]]]],"type":"MultiPolygon"}
+}

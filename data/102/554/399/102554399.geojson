@@ -1,0 +1,86 @@
+{
+  "id": 102554399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.975833333,56.0355555556,-121.975833333,56.0355555556",
+    "geom:latitude":56.035556,
+    "geom:longitude":-121.975833,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hudson's Hope Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u062f\u0633\u0646\u0632 \u0647\u0648\u067e"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Hudson's Hope"
+    ],
+    "name:pms_x_preferred":[
+        "Hudson's Hope Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Hudson's Hope Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0443\u0434\u0441\u043d\u0437 \u04b3\u0443\u043f"
+    ],
+    "oa:elevation_ft":"2220",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":39,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375233,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85633041,
+        101740891,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511699,
+        "iata:code":"YNH",
+        "icao:code":"CYNH",
+        "oa:id":"1826",
+        "wd:id":"Q3207300"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3f04434c7db30bc928256140168ccc5e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554399,
+            "country_id":85633041,
+            "locality_id":101740891,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554399,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Hudsons Hope Airport",
+    "wof:parent_id":101740891,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -121.97583333333,
+    56.035555555556,
+    -121.97583333333,
+    56.035555555556
+],
+  "geometry": {"coordinates":[-121.97583333333,56.035555555556],"type":"Point"}
+}

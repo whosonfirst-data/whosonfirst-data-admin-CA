@@ -1,0 +1,114 @@
+{
+  "id": 85895549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5945411.771344,
+    "geom:bbox":"-79.677928,43.458829,-79.677928,43.458829",
+    "geom:latitude":43.458829,
+    "geom:longitude":-79.677928,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":43.458829,
+    "lbl:longitude":-79.677928,
+    "mps:latitude":43.465349,
+    "mps:longitude":-79.678856,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Midtown Core"
+    ],
+    "name:unk_x_variant":[
+        "Midtown Core"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1167,
+    "qs:local_sum":1167,
+    "qs:localhoods":1,
+    "qs:name":"Midtown Core",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"Ontario",
+    "qs:name_adm2":"Halton",
+    "qs:name_local":"College Park",
+    "qs:photo_max":655,
+    "qs:photo_sum":1167,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344922,
+    "qs:woe_adm2":29375078,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":55999161,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        101735889,
+        85633041,
+        85682057,
+        101740713,
+        890458413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55999527,
+        "qs:id":242224,
+        "qs_pg:id":242224
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"fa613dc2a3c8b9ff54a3cbc2729ed0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735889,
+            "neighbourhood_id":85895549,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458413,
+            "locality_id":101740713,
+            "neighbourhood_id":85895549,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":85895549,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531931434,
+    "wof:name":"Midtown Core",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.677928,
+    43.458829,
+    -79.677928,
+    43.458829
+],
+  "geometry": {"coordinates":[-79.67792799999999,43.458829],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 85875105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":931364.10307,
+    "geom:bbox":"-123.338012695,48.4317275041,-123.321533203,48.4416248003",
+    "geom:latitude":48.436279,
+    "geom:longitude":-123.329125,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":48.435466,
+    "lbl:longitude":-123.329923,
+    "mps:latitude":48.436668,
+    "mps:longitude":-123.329282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "North Jubileee"
+    ],
+    "name:unk_x_variant":[
+        "North Jubileee"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":6174041,
+    "qs:local_max":21481,
+    "qs:local_sum":67633,
+    "qs:localhoods":19,
+    "qs:name":"North Jubileee",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Capital",
+    "qs:name_local":"Victoria",
+    "qs:photo_max":78,
+    "qs:photo_sum":259,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375156,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9848,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101740879,
+        890456487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55856325,
+        "qs:id":1290814,
+        "qs_pg:id":1290814
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c26089c187728a1c1522e6282cf1cdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456487,
+            "locality_id":101740879,
+            "neighbourhood_id":85875105,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85875105,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335939,
+    "wof:name":"North Jubileee",
+    "wof:parent_id":101740879,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.33801269500003,
+    48.43172750406789,
+    -123.32153320299987,
+    48.4416248002989
+],
+  "geometry": {"coordinates":[[[-123.32702636699989,48.4416248002989],[-123.32603755959975,48.44013426400006],[-123.32153320300004,48.44013426400006],[-123.32153320299987,48.44013419862524],[-123.32153320299996,48.43648995589997],[-123.32153320299987,48.43648989057534],[-123.32153320299996,48.4343358396769],[-123.32153320300004,48.43284538650009],[-123.32702636423801,48.43284537867267],[-123.32977294899986,48.43284537778014],[-123.33251953099992,48.43284537914271],[-123.33326123227339,48.43172750406789],[-123.33526611299997,48.43273471459379],[-123.33727099372639,48.43172750406789],[-123.33801269500003,48.43284538234779],[-123.33801269500003,48.43466769689299],[-123.33801269500003,48.43648994812638],[-123.33526611299997,48.43648994968113],[-123.33526611299997,48.43831213307739],[-123.33251953099992,48.43831213638124],[-123.33251953099992,48.44013426400006],[-123.33251953099992,48.4416248002989],[-123.32977294899986,48.44024472696738],[-123.32702636699989,48.4416248002989]]],"type":"Polygon"}
+}

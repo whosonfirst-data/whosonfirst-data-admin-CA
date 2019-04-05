@@ -1,0 +1,79 @@
+{
+  "id": 101745041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:bbox":"-121.4768773,51.7944277,-121.4709493,51.7971959",
+    "geom:latitude":51.795613,
+    "geom:longitude":-121.474086,
+    "iso:country":"CA",
+    "lbl:latitude":51.795653,
+    "lbl:longitude":-121.474288,
+    "mps:latitude":51.795653,
+    "mps:longitude":-121.474288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Canim Lake 4"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"CANIM LAKE 4",
+    "qs:loc_alt":"CANIM LAKE NO  4",
+    "qs:loc_lc":"8f2c4bcfba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":443,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373602,
+        "wd:id":"Q316392"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"56c7455d5c38b887d96200329fff7e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101745041,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101745041,
+    "wof:lastmodified":1533335902,
+    "wof:name":"Canim Lake 4",
+    "wof:parent_id":890456813,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.47687730000001,
+    51.79442770000003,
+    -121.47094929999997,
+    51.79719590000002
+],
+  "geometry": {"coordinates":[[[-121.47687730000001,51.79442770000003],[-121.4768699,51.79623550000002],[-121.47686179999999,51.7971756],[-121.47686169999997,51.79719590000002],[-121.4767018,51.7971569],[-121.4752833,51.79688220000003],[-121.47411790000001,51.79687530000001],[-121.4730556,51.796538],[-121.47227820000001,51.79636870000002],[-121.471498,51.7965021],[-121.47094929999997,51.79707180000003],[-121.47095309999997,51.79698960000002],[-121.47106939999998,51.794431],[-121.47687730000001,51.79442770000003]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101746311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:bbox":"-108.616397,52.7985657,-108.5925806,52.8059493",
+    "geom:latitude":52.802253,
+    "geom:longitude":-108.604484,
+    "iso:country":"CA",
+    "lbl:latitude":52.802254,
+    "lbl:longitude":-108.604484,
+    "mps:latitude":52.802254,
+    "mps:longitude":-108.604484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sweetgrass I.R. 113-C19"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SWEETGRASS I.R. 113-C19",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE DE SWEET GRASS  NO 113-C19",
+    "qs:loc_lc":"fdd4bc4dbbe211d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29373483
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"4f3c599f0d0075675ab3c75347e7157b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868955,
+            "locality_id":101746311,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746311,
+    "wof:lastmodified":1531524269,
+    "wof:name":"Sweetgrass I.R. 113-C19",
+    "wof:parent_id":1158868955,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.616397,
+    52.79856569999998,
+    -108.59258060000002,
+    52.8059493
+],
+  "geometry": {"coordinates":[[[-108.61639700000001,52.79856569999998],[-108.61639380000003,52.80577870000002],[-108.61390210000002,52.8057968],[-108.6136163,52.8057988],[-108.60448919999999,52.8058646],[-108.5925848,52.8059493],[-108.59258060000002,52.79871689999999],[-108.60448889999998,52.7986419],[-108.60892260000003,52.79861369999998],[-108.60920859999999,52.7986118],[-108.61639700000001,52.79856569999998]]],"type":"Polygon"}
+}

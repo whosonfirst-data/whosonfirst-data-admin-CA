@@ -1,0 +1,84 @@
+{
+  "id": 85894541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":677819.036471,
+    "geom:bbox":"-113.326328,53.526732,-113.326328,53.526732",
+    "geom:latitude":53.526732,
+    "geom:longitude":-113.326328,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":53.526732,
+    "lbl:longitude":-113.326328,
+    "mps:latitude":53.537506,
+    "mps:longitude":-113.330573,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":15,
+    "name:eng_x_preferred":[
+        "Woodbridge Farms"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682091,
+        102191575,
+        85633041,
+        890456619,
+        1158863243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998568,
+        "qs:id":1306512,
+        "qs_pg:id":1306512
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"7be01caa4c60541e7338570f6cbf68f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863243,
+            "locality_id":890456619,
+            "neighbourhood_id":85894541,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":85894541,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533250199,
+    "wof:name":"Woodbridge Farms",
+    "wof:parent_id":890456619,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.326328,
+    53.526732,
+    -113.326328,
+    53.526732
+],
+  "geometry": {"coordinates":[-113.326328,53.526732],"type":"Point"}
+}

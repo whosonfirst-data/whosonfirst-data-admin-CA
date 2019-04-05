@@ -1,0 +1,77 @@
+{
+  "id": 101746569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:bbox":"-106.7238472,53.1842289,-106.709552,53.2002016",
+    "geom:latitude":53.192146,
+    "geom:longitude":-106.716764,
+    "iso:country":"CA",
+    "lbl:latitude":53.195403,
+    "lbl:longitude":-106.717109,
+    "mps:latitude":53.195403,
+    "mps:longitude":-106.717109,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mistawasis Indian Reserve 103B"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"MISTAWASIS INDIAN RESERVE 103B",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE MISTAWASIS N\u00ba 103B",
+    "qs:loc_lc":"6c9ebc43849c20c3e49bf15a4a22ee36",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23403535
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"c8865503d67dee9a574005202a14b6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868943,
+            "locality_id":101746569,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746569,
+    "wof:lastmodified":1531523949,
+    "wof:name":"Mistawasis Indian Reserve 103B",
+    "wof:parent_id":1158868943,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.72384720000002,
+    53.1842289,
+    -106.709552,
+    53.20020160000001
+],
+  "geometry": {"coordinates":[[[[-106.72384720000002,53.20019710000003],[-106.7218408,53.20020160000001],[-106.72180049999997,53.1989939],[-106.709552,53.1990199],[-106.71070959999997,53.19178829999998],[-106.72156109999997,53.1918119],[-106.72381089999999,53.1917962],[-106.723842,53.19898940000002],[-106.72384720000002,53.20019710000003]]],[[[-106.72220609999999,53.1842289],[-106.72155520000001,53.1916311],[-106.7107383,53.1916084],[-106.71077359999998,53.18434559999997],[-106.72220609999999,53.1842289]]]],"type":"MultiPolygon"}
+}

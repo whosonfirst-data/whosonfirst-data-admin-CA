@@ -1,0 +1,72 @@
+{
+  "id": 1108971919,
+  "type": "Feature",
+  "properties": {
+    "can-edmdsd:name":"Graydon Hill",
+    "can-edmdsd:number":"5468",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":656379.594082,
+    "geom:bbox":"-113.565408489,53.4176074095,-113.553166121,53.4249071208",
+    "geom:latitude":53.42126,
+    "geom:longitude":-113.559293,
+    "iso:country":"CA",
+    "lbl:latitude":53.421262,
+    "lbl:longitude":-113.559295,
+    "mps:latitude":53.421262,
+    "mps:longitude":-113.559295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Graydon Hill"
+    ],
+    "reversegeo:latitude":53.421262,
+    "reversegeo:longitude":-113.559295,
+    "src:geom":"can-edmdsd",
+    "wof:belongsto":[
+        102191575,
+        1108970579,
+        85633041,
+        890458485,
+        1108971223,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[],
+    "wof:country":"CA",
+    "wof:geomhash":"aef9e1efee80e2dabecf43503f8eebbd",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108971223,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":890458485,
+            "macrohood_id":1108970579,
+            "neighbourhood_id":1108971919,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":1108971919,
+    "wof:lastmodified":1507246077,
+    "wof:name":"Graydon Hill",
+    "wof:parent_id":1108970579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.56540848947436,
+    53.41760740946933,
+    -113.5531661213869,
+    53.42490712076742
+],
+  "geometry": {"coordinates":[[[[-113.55318921984316,53.42177251759893],[-113.55317347705841,53.41876745079909],[-113.55316612138689,53.41760740946933],[-113.55866151318752,53.41761650698285],[-113.55866151902251,53.41761517007009],[-113.56512892436176,53.41762506895643],[-113.56540271961384,53.41762494553387],[-113.56540848947436,53.42218203331729],[-113.56539969048731,53.42490675943456],[-113.56432327830113,53.42490712076742],[-113.55321947268038,53.42490649139983],[-113.55320520902617,53.42482442317041],[-113.55318921984316,53.42177251759893]]]],"type":"MultiPolygon"}
+}

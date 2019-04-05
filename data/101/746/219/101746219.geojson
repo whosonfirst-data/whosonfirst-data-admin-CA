@@ -1,0 +1,77 @@
+{
+  "id": 101746219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:bbox":"-108.1132396,53.3071373,-108.1012129,53.3144046",
+    "geom:latitude":53.31076,
+    "geom:longitude":-108.10725,
+    "iso:country":"CA",
+    "lbl:latitude":53.310773,
+    "lbl:longitude":-108.107274,
+    "mps:latitude":53.310773,
+    "mps:longitude":-108.107274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saulteaux I.R. 159Bb"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*Saskatchewan",
+    "qs:a1_lc":"SK",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SAULTEAUX I.R. 159BB",
+    "qs:loc_alt":"R\u00c9SERVE INDIENNE SAULTEAUX FIRST NATION NO 159BB",
+    "qs:loc_lc":"6c9ebc1c849c20c39b13979215d06e32",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682113,
+        1158868943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2094
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"3ab1f57d1ea9d63126242850c5442610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868943,
+            "locality_id":101746219,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":101746219,
+    "wof:lastmodified":1531523942,
+    "wof:name":"Saulteaux I.R. 159Bb",
+    "wof:parent_id":1158868943,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.11323959999999,
+    53.30713730000002,
+    -108.1012129,
+    53.31440459999999
+],
+  "geometry": {"coordinates":[[[[-108.10121289999999,53.30713730000002],[-108.11323959999999,53.30715939999999],[-108.1132394,53.31440459999999],[-108.10203769999998,53.31439319999998],[-108.10214630000002,53.31393020000002],[-108.1012222,53.3132601],[-108.10121289999999,53.30713730000002]]],[[[-108.10122260000003,53.3135443],[-108.10182889999999,53.313984],[-108.101733,53.3143928],[-108.10122389999998,53.3143923],[-108.10122260000003,53.3135443]]]],"type":"MultiPolygon"}
+}

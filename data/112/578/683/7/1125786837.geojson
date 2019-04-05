@@ -1,0 +1,89 @@
+{
+  "id": 1125786837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-125.770969,58.948458,-125.770969,58.948458",
+    "geom:latitude":58.948458,
+    "geom:longitude":-125.770969,
+    "gn:gn_country":null,
+    "iso:country":"CA",
+    "lbl:latitude":58.948458,
+    "lbl:longitude":-125.770969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Muncho Lake"
+    ],
+    "name:eng_x_preferred":[
+        "Muncho Lake"
+    ],
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Muncho Lake",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"British Columbia",
+    "qs_pg:photos":169,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":169,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":469677,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":9317,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"British Columbia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":9317,
+        "qs_pg:id":469677,
+        "wd:id":"Q6935678"
+    },
+    "wof:country":"CA",
+    "wof:created":1497290716,
+    "wof:geomhash":"ad6c48d911270f1d9e3c6fca8e20dbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458063,
+            "locality_id":1125786837,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1125786837,
+    "wof:lastmodified":1531521090,
+    "wof:name":"Muncho Lake",
+    "wof:parent_id":890458063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -125.770969,
+    58.948458,
+    -125.770969,
+    58.948458
+],
+  "geometry": {"coordinates":[-125.77096899999999,58.948458],"type":"Point"}
+}

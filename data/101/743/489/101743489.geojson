@@ -1,0 +1,75 @@
+{
+  "id": 101743489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:bbox":"-130.2347124,54.7234084,-130.2307871,54.7270237",
+    "geom:latitude":54.725243,
+    "geom:longitude":-130.233111,
+    "iso:country":"CA",
+    "lbl:latitude":54.725216,
+    "lbl:longitude":-130.233151,
+    "mps:latitude":54.725216,
+    "mps:longitude":-130.233151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Spakels 17"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"SPAKELS 17",
+    "qs:loc_alt":"SPAKELS NO 17",
+    "qs:loc_lc":"a0610ce0ba3411d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890458111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"CA",
+    "wof:geomhash":"85b7b77f52233d23625e989f3b7085b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458111,
+            "locality_id":101743489,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743489,
+    "wof:lastmodified":1533335879,
+    "wof:name":"Spakels 17",
+    "wof:parent_id":890458111,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -130.23471239999998,
+    54.72340839999998,
+    -130.2307871,
+    54.72702370000002
+],
+  "geometry": {"coordinates":[[[-130.23157170000002,54.72444660000002],[-130.23182020000002,54.72372630000001],[-130.23124480000001,54.723635],[-130.23108680000001,54.72342609999998],[-130.23109490000002,54.72340839999998],[-130.23158749999999,54.72340839999998],[-130.23471119999999,54.72340839999998],[-130.23471239999998,54.72702370000002],[-130.23078709999999,54.72702349999997],[-130.23102519999998,54.72687159999998],[-130.2312556,54.72660380000002],[-130.23163929999998,54.72624489999998],[-130.231707,54.72587950000002],[-130.23159429999998,54.72509919999999],[-130.23157170000002,54.72444660000002]]],"type":"Polygon"}
+}

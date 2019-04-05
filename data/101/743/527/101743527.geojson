@@ -1,0 +1,84 @@
+{
+  "id": 101743527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:bbox":"-129.8100319,54.6561407,-129.8069143,54.6570476",
+    "geom:latitude":54.656632,
+    "geom:longitude":-129.808741,
+    "iso:country":"CA",
+    "lbl:latitude":54.656594,
+    "lbl:longitude":-129.808753,
+    "mps:latitude":54.656594,
+    "mps:longitude":-129.808753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kateen River"
+    ],
+    "name:eng_x_preferred":[
+        "Kateen River 39"
+    ],
+    "name:swe_x_preferred":[
+        "Kateen River"
+    ],
+    "qs:a0":"Canada",
+    "qs:a1":"*British Columbia",
+    "qs:a1_lc":"BC",
+    "qs:a1r":"*",
+    "qs:adm0":"Canada",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"KATEEN RIVER 39",
+    "qs:loc_alt":"KATEEN RIVER NO 39",
+    "qs:loc_lc":"452b0651ba3511d892e2080020a0f4c9",
+    "qs:pop":0,
+    "qs:source":"NCanada Census",
+    "qs:type":"Indian Reserve",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        85682117,
+        890456453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q17030519"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"6d6a0dc6a667a747dc4215fdab8ead9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456453,
+            "locality_id":101743527,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":101743527,
+    "wof:lastmodified":1533335879,
+    "wof:name":"Kateen River 39",
+    "wof:parent_id":890456453,
+    "wof:placetype":"locality",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -129.8100319,
+    54.6561407,
+    -129.80691430000002,
+    54.6570476
+],
+  "geometry": {"coordinates":[[[-129.80691430000002,54.6570476],[-129.80694140000003,54.65698680000003],[-129.80695539999999,54.65694380000002],[-129.80708329999999,54.6568982],[-129.80714840000002,54.65687150000002],[-129.80719690000001,54.65683669999999],[-129.80730940000001,54.65677040000003],[-129.80735279999999,54.65672],[-129.80743610000002,54.65662329999998],[-129.80754309999998,54.6565371],[-129.80758709999998,54.65649810000002],[-129.80773260000001,54.6564338],[-129.80779260000003,54.65640009999998],[-129.80783050000002,54.65635420000001],[-129.8079017,54.65630449999998],[-129.80806080000002,54.65620860000001],[-129.8082473,54.65614210000001],[-129.8100293,54.6561407],[-129.81003190000001,54.65704469999997],[-129.80691430000002,54.6570476]]],"type":"Polygon"}
+}

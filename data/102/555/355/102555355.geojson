@@ -1,0 +1,68 @@
+{
+  "id": 102555355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.602,49.4625,-119.602,49.4625",
+    "geom:latitude":49.4625,
+    "geom:longitude":-119.602,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1129",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":2499,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375155,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85633041,
+        101740921,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511788,
+        "iata:code":"YYF",
+        "icao:code":"CYYF",
+        "oa:id":"1976",
+        "wd:id":"Q3915718"
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"b5b12bc82ff2c1ca7d2f54343c55a371",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555355,
+            "country_id":85633041,
+            "locality_id":101740921,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102555355,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Penticton Airport",
+    "wof:parent_id":101740921,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -119.602,
+    49.4625,
+    -119.602,
+    49.4625
+],
+  "geometry": {"coordinates":[-119.602,49.4625],"type":"Point"}
+}

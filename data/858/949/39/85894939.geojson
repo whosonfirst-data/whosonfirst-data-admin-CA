@@ -1,0 +1,112 @@
+{
+  "id": 85894939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000235,
+    "geom:area_square_m":1895305.674787,
+    "geom:bbox":"-122.937011719,49.2916859866,-122.913690243,49.3072171255",
+    "geom:latitude":49.299431,
+    "geom:longitude":-122.92535,
+    "gn:id":"",
+    "iso:country":"CA",
+    "lbl:latitude":49.3008,
+    "lbl:longitude":-122.92119,
+    "mps:latitude":49.290308,
+    "mps:longitude":-122.927516,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Barnet"
+    ],
+    "name:unk_x_variant":[
+        "Barnet"
+    ],
+    "qs:gn_adm0_cc":"CA",
+    "qs:gn_id":0,
+    "qs:gn_local":5911606,
+    "qs:gn_nam_loc":"burnaby",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":11789,
+    "qs:local_sum":41689,
+    "qs:localhoods":44,
+    "qs:name":"Barnet",
+    "qs:name_adm0":"Canada",
+    "qs:name_adm1":"British Columbia",
+    "qs:name_adm2":"Greater Vancouver",
+    "qs:name_local":"Burnaby",
+    "qs:photo_max":202,
+    "qs:photo_sum":1125,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":57,
+    "qs:woe_adm0":23424775,
+    "qs:woe_adm1":2344916,
+    "qs:woe_adm2":29375222,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":9806,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":49.3008,
+    "reversegeo:longitude":-122.92119,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101741063,
+        890457467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998942,
+        "qs:id":220641,
+        "qs_pg:id":220641
+    },
+    "wof:country":"CA",
+    "wof:geomhash":"8dde5fd30825abbd4eb9281be8bb6646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741063,
+            "neighbourhood_id":85894939,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":85894939,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533335943,
+    "wof:name":"Barnet",
+    "wof:parent_id":101741063,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.93701171899994,
+    49.2916859865945,
+    -122.91369024253679,
+    49.3072171254753
+],
+  "geometry": {"coordinates":[[[[-122.93385382666858,49.3072171254753],[-122.93151859746462,49.30363576190008],[-122.93151855500001,49.30363576190008],[-122.92602539099998,49.30363576190008],[-122.92602534853519,49.30363576190017],[-122.92485771273337,49.30542647620014],[-122.91396564966891,49.30542647620014],[-122.91369734683616,49.30454200029392],[-122.91369024253679,49.30454270000639],[-122.91661758434219,49.30005374735022],[-122.91764894368856,49.29689077196043],[-122.91503910466199,49.29288913251914],[-122.91503906200002,49.29288913250004],[-122.91503906214577,49.29288906742524],[-122.91503906215274,49.29169138916007],[-122.91909318491417,49.29168699786124],[-122.91959886380026,49.29168644553929],[-122.91962049050439,49.2916864229696],[-122.92000810965045,49.2916859865945],[-122.92487411712195,49.29317437515049],[-122.92932954915379,49.29453682399878],[-122.93232746075233,49.29545357038285],[-122.93483739004121,49.29622294349123],[-122.93467542865929,49.29647127720018],[-122.93701171899994,49.29826257737513],[-122.93701171899994,49.30005381240007],[-122.93701171899994,49.3036356967752],[-122.93701171899994,49.30363576190008],[-122.93701167653525,49.30363576190008],[-122.93467644733128,49.3072171254753],[-122.93385382666858,49.3072171254753]]]],"type":"MultiPolygon"}
+}
