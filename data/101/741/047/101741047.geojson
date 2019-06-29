@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040058,
-    "geom:area_square_m":313761314.331875,
+    "geom:area_square_m":313761314.331652,
     "geom:bbox":"-120.542439133,50.6155084361,-120.041754877,50.8664291627",
     "geom:latitude":50.694619,
     "geom:longitude":-120.327733,
@@ -36,10 +36,7 @@
     "name:ceb_x_preferred":[
         "Kamloops"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u5362\u666e\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kamloops"
     ],
     "name:dan_x_preferred":[
@@ -48,8 +45,8 @@
     "name:deu_x_preferred":[
         "Kamloops"
     ],
-    "name:dut_x_preferred":[
-        "Kamloops"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bc\u03bb\u03bf\u03c5\u03c0\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kamloops"
@@ -69,17 +66,8 @@
     "name:fra_x_preferred":[
         "Kamloops"
     ],
-    "name:fre_x_preferred":[
-        "Kamloops"
-    ],
-    "name:ger_x_preferred":[
-        "Kamloops"
-    ],
     "name:gle_x_preferred":[
         "Kamloops"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bc\u03bb\u03bf\u03c5\u03c0\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aae\u0acd\u0ab2\u0ac2\u0aaa\u0acd\u0ab8"
@@ -117,7 +105,7 @@
     "name:mar_x_preferred":[
         "\u0915\u092e\u0932\u094b\u092a\u094d\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kamloops"
     ],
     "name:nld_x_preferred":[
@@ -132,9 +120,6 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a48\u0a2e\u0a32\u0a42\u0a2a\u0a38"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0645\u0644\u0648\u067e\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0645\u0644\u0648\u067e\u0633"
     ],
@@ -147,9 +132,6 @@
     "name:ron_x_preferred":[
         "Kamloops"
     ],
-    "name:rum_x_preferred":[
-        "Kamloops"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u043b\u0443\u043f\u0441"
     ],
@@ -157,9 +139,6 @@
         "\u0d9a\u0db8\u0dca\u0dbd\u0dd4\u0db4\u0dca\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Kamloops"
-    ],
-    "name:slo_x_preferred":[
         "Kamloops"
     ],
     "name:spa_x_preferred":[
@@ -351,7 +330,7 @@
         }
     ],
     "wof:id":101741047,
-    "wof:lastmodified":1531521890,
+    "wof:lastmodified":1561844435,
     "wof:name":"Kamloops",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

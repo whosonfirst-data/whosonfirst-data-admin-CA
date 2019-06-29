@@ -6,7 +6,7 @@
     "edtf:deprecated":"2017-05-04",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16029025.888191,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.511036,45.534279,-73.511036,45.534279",
     "geom:latitude":45.534279,
     "geom:longitude":-73.511036,
@@ -32,7 +32,7 @@
     "name:fra_x_preferred":[
         "Le Vieux-Longueuil"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Vieux Longueuil"
     ],
     "name:pol_x_preferred":[
@@ -70,11 +70,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":541,
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961051
+        1108961051,
+        136251273
     ],
     "wof:breaches":[
         85897555
@@ -101,7 +101,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872211,
+    "wof:lastmodified":1561844220,
     "wof:name":"Vieux Longueuil",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

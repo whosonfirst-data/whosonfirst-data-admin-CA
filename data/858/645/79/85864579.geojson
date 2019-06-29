@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000982,
-    "geom:area_square_m":8767427.496861,
+    "geom:area_square_m":8767427.49686,
     "geom:bbox":"-79.44667625,43.773859221,-79.392147426,43.803270124",
     "geom:latitude":43.788485,
     "geom:longitude":-79.419565,
@@ -28,20 +28,20 @@
     "name:ceb_x_preferred":[
         "Newtonbrook Creek"
     ],
-    "name:chi_x_preferred":[
-        "\u7d10\u9813\u5e03\u9b6f\u514b\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Newtonbrook Creek"
-    ],
     "name:eng_x_preferred":[
         "Newtonbrook"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Newtonbrook Creek"
+    ],
+    "name:ron_x_preferred":[
         "Newtonbrook"
     ],
     "name:swe_x_preferred":[
         "Newtonbrook Creek"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d10\u9813\u5e03\u9b6f\u514b\u93ae"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -53,12 +53,12 @@
     "wd:longitude":-79.4167,
     "wd:wordcount":488,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272675,
+    "wof:lastmodified":1561844214,
     "wof:name":"Newtonbrook",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

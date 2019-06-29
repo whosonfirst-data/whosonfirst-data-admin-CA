@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098961,
-    "geom:area_square_m":843787103.629496,
+    "geom:area_square_m":843787103.629522,
     "geom:bbox":"-82.8278965,46.271956,-82.4362206,46.5359258",
     "geom:latitude":46.405434,
     "geom:longitude":-82.631714,
@@ -29,8 +29,8 @@
     "name:dan_x_preferred":[
         "Elliot Lake"
     ],
-    "name:dut_x_preferred":[
-        "Elliot Lake"
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u0388\u03bb\u03b9\u03bf\u03c4"
     ],
     "name:eng_x_preferred":[
         "Elliot Lake"
@@ -38,17 +38,14 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u06cc\u0648\u062a \u0644\u06cc\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u064a\u0648\u062a \u0644\u064a\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Elliot Lake"
     ],
     "name:fra_x_preferred":[
         "Elliot Lake"
-    ],
-    "name:fre_x_preferred":[
-        "Elliot Lake"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bc\u03bd\u03b7 \u0388\u03bb\u03b9\u03bf\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab2\u0abf\u0aaf\u0a9f \u0ab2\u0ac7\u0a95"
@@ -83,7 +80,10 @@
     "name:mar_x_preferred":[
         "\u0907\u0932\u093f\u092f\u091f \u0932\u0947\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Elliot Lake"
+    ],
+    "name:nld_x_preferred":[
         "Elliot Lake"
     ],
     "name:nno_x_preferred":[
@@ -91,9 +91,6 @@
     ],
     "name:nob_x_preferred":[
         "Elliot Lake"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u064a\u0648\u062a \u0644\u064a\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u06cc\u0679 \u0644\u06cc\u06a9"
@@ -190,7 +187,7 @@
         }
     ],
     "wof:id":101735755,
-    "wof:lastmodified":1533276403,
+    "wof:lastmodified":1561844455,
     "wof:name":"Elliot Lake",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

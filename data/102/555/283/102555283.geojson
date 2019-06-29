@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000607,
-    "geom:area_square_m":5138646.372034,
+    "geom:area_square_m":5138646.37203,
     "geom:bbox":"-71.4106082893,46.7779084988,-71.3698114321,46.8064813707",
     "geom:latitude":46.790506,
     "geom:longitude":-71.389344,
@@ -16,11 +16,8 @@
     "mps:longitude":-71.383989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9b41\u5317\u514b\u8ba9\u00b7\u52d2\u8428\u70ed\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Qu\u00e9bec City Jean Lesage International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Qu\u00e9bec"
     ],
     "name:eng_x_preferred":[
         "Jean Lesage International Airport"
@@ -30,10 +27,13 @@
         "YQB",
         "CYQB"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0627\u0646 \u0644\u0648\u0633\u0627\u0698 \u0634\u0647\u0631 \u06a9\u0628\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Qu\u00e9bec City Jean Lesagen kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00e9roport International Jean-Lesage"
     ],
     "name:fre_x_variant":[
@@ -41,9 +41,6 @@
         "CYQB",
         "A\u00e9roport international Jean-Lesage de Qu\u00e9bec",
         "a\u00e9roport international Jean-Lesage de Qu\u00e9bec"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Qu\u00e9bec"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Jean Lesage Quebec"
@@ -54,11 +51,11 @@
     "name:jpn_x_preferred":[
         "\u30b1\u30d9\u30c3\u30af\u30fb\u30b8\u30e3\u30f3\u30fb\u30eb\u30b5\u30fc\u30b8\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Quebec"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0627\u0646 \u0644\u0648\u0633\u0627\u0698 \u0634\u0647\u0631 \u06a9\u0628\u06a9"
+    "name:nld_x_preferred":[
+        "Qu\u00e9bec City Jean Lesage International Airport"
     ],
     "name:pms_x_preferred":[
         "Qu\u00e9bec - Jean Lesage International Airport"
@@ -80,6 +77,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Qu\u00e9bec City Jean Lesage"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b41\u5317\u514b\u8ba9\u00b7\u52d2\u8428\u70ed\u56fd\u9645\u673a\u573a"
     ],
     "reversegeo:latitude":46.78943,
     "reversegeo:longitude":-71.389034,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":102555283,
-    "wof:lastmodified":1553816326,
+    "wof:lastmodified":1561844182,
     "wof:name":"Jean Lesage International Airport",
     "wof:parent_id":1126128649,
     "wof:placetype":"campus",

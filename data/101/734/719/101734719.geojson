@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345175,
-    "geom:area_square_m":2618615309.609075,
+    "geom:area_square_m":2618615309.609197,
     "geom:bbox":"-101.2234686,51.7107723,-100.0381186,52.8420175",
     "geom:latitude":52.154497,
     "geom:longitude":-100.654632,
@@ -118,9 +118,6 @@
     "name:diq_x_preferred":[
         "Ko"
     ],
-    "name:dut_x_preferred":[
-        "Mountain"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c5\u03bd\u03cc"
     ],
@@ -148,7 +145,7 @@
     "name:fra_x_preferred":[
         "Montagne"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Mountain"
     ],
     "name:frp_x_preferred":[
@@ -331,6 +328,9 @@
     "name:nld_x_preferred":[
         "Berg"
     ],
+    "name:nld_x_variant":[
+        "Mountain"
+    ],
     "name:nno_x_preferred":[
         "Fjell"
     ],
@@ -496,9 +496,6 @@
     "name:zho_x_preferred":[
         "\u5c71"
     ],
-    "name:zho_x_variant":[
-        "\u5c71"
-    ],
     "name:zho_yue_x_preferred":[
         "\u5c71"
     ],
@@ -544,7 +541,7 @@
         }
     ],
     "wof:id":101734719,
-    "wof:lastmodified":1531524337,
+    "wof:lastmodified":1561844454,
     "wof:name":"Mountain",
     "wof:parent_id":1158868957,
     "wof:placetype":"locality",

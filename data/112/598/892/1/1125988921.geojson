@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004761,
-    "geom:area_square_m":37024196.157845,
+    "geom:area_square_m":37024196.157857,
     "geom:bbox":"-113.865563731,50.9942178907,-113.772234527,51.0664402451",
     "geom:latitude":51.033284,
     "geom:longitude":-113.82433,
@@ -36,8 +36,11 @@
     "name:dan_x_preferred":[
         "Chestermere"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chestermere"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c3\u03c4\u03b5\u03c1\u03bc\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Chestermere"
@@ -51,14 +54,8 @@
     "name:fin_x_preferred":[
         "Chestermere"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chestermere"
-    ],
-    "name:ger_x_preferred":[
-        "Chestermere"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ad\u03c3\u03c4\u03b5\u03c1\u03bc\u03b5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0aae\u0ac7\u0ab0"
@@ -90,7 +87,10 @@
     "name:mar_x_preferred":[
         "\u091a\u0947\u0938\u094d\u091f\u0930\u092e\u0947\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chestermere"
+    ],
+    "name:nld_x_preferred":[
         "Chestermere"
     ],
     "name:nob_x_preferred":[
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1125988921,
-    "wof:lastmodified":1533250171,
+    "wof:lastmodified":1561844563,
     "wof:name":"Chestermere",
     "wof:parent_id":1158863227,
     "wof:placetype":"locality",

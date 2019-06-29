@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009698,
-    "geom:area_square_m":71248258.215779,
+    "geom:area_square_m":71248258.215765,
     "geom:bbox":"-113.401577243,53.5047007214,-113.246826884,53.5993688566",
     "geom:latitude":53.546391,
     "geom:longitude":-113.311041,
@@ -34,14 +34,17 @@
     "name:cat_x_preferred":[
         "Sherwood Park"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sherwood Park"
     ],
     "name:dan_x_preferred":[
         "Sherwood Park"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sherwood Park"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03c1\u03b3\u03bf\u03c5\u03bd\u03c4 \u03a0\u03b1\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sherwood Park"
@@ -49,14 +52,8 @@
     "name:fin_x_preferred":[
         "Sherwood Park"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sherwood Park"
-    ],
-    "name:ger_x_preferred":[
-        "Sherwood Park"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03c1\u03b3\u03bf\u03c5\u03bd\u03c4 \u03a0\u03b1\u03c1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0ab0\u0ab5\u0ac1\u0aa1 \u0aaa\u0abe\u0ab0\u0acd\u0a95"
@@ -88,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0936\u0947\u0930\u0935\u0941\u0921 \u092a\u093e\u0930\u094d\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sherwood Park"
+    ],
+    "name:nld_x_preferred":[
         "Sherwood Park"
     ],
     "name:nob_x_preferred":[
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":890456619,
-    "wof:lastmodified":1533250203,
+    "wof:lastmodified":1561844518,
     "wof:name":"Sherwood Park",
     "wof:parent_id":1158863243,
     "wof:placetype":"locality",

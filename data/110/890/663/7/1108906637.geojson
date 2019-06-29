@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
-    "geom:area_square_m":266374.373689,
+    "geom:area_square_m":266374.373692,
     "geom:bbox":"-123.1258858,49.2730706688,-123.113438584,49.2794735739",
     "geom:latitude":49.276084,
     "geom:longitude":-123.118831,
@@ -20,9 +20,6 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":19.0,
     "mz:min_zoom":15.0,
-    "name:chi_x_preferred":[
-        "\u8036\u9b6f\u93ae"
-    ],
     "name:eng_x_preferred":[
         "Yaletown"
     ],
@@ -32,16 +29,19 @@
     "name:por_x_preferred":[
         "Yaletown"
     ],
+    "name:zho_x_preferred":[
+        "\u8036\u9b6f\u93ae"
+    ],
     "reversegeo:latitude":49.276507,
     "reversegeo:longitude":-123.117369,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
+        85866519,
         102191575,
         85633041,
         101741075,
         890457467,
-        85866519
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1108906637,
-    "wof:lastmodified":1531521056,
+    "wof:lastmodified":1561844251,
     "wof:name":"Yaletown",
     "wof:parent_id":85866519,
     "wof:placetype":"microhood",

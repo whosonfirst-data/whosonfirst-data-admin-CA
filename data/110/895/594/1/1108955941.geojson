@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":263568.453537,
+    "geom:area_square_m":263568.453538,
     "geom:bbox":"-73.5673439502,45.4983017616,-73.5585730541,45.5052342006",
     "geom:latitude":45.501918,
     "geom:longitude":-73.562901,
@@ -23,9 +23,6 @@
     "name:cat_x_preferred":[
         "Quartier international de Montr\u00e9al"
     ],
-    "name:dut_x_preferred":[
-        "Quartier international de Montr\u00e9al"
-    ],
     "name:eng_x_preferred":[
         "Quartier international de Montr\u00e9al",
         "QIM"
@@ -37,8 +34,11 @@
     "name:fra_x_preferred":[
         "Quartier international de Montr\u00e9al"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "quartier international"
+    ],
+    "name:nld_x_preferred":[
+        "Quartier international de Montr\u00e9al"
     ],
     "name:spa_x_preferred":[
         "Quartier international de Montr\u00e9al"
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1108955941,
-    "wof:lastmodified":1533277854,
+    "wof:lastmodified":1561844244,
     "wof:name":"Quartier international de Montreal",
     "wof:parent_id":-3,
     "wof:placetype":"microhood",

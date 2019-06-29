@@ -6,7 +6,7 @@
     "edtf:deprecated":"2017-05-08",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5987798.951462,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.466519,45.546455,-73.466519,45.546455",
     "geom:latitude":45.546455,
     "geom:longitude":-73.466519,
@@ -29,7 +29,7 @@
     "name:eng_x_preferred":[
         "Parc regional Longueuil"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Parc regional Longueuil"
     ],
     "name:unk_x_variant":[
@@ -63,11 +63,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961051
+        1108961051,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931894,
+    "wof:lastmodified":1561844225,
     "wof:name":"Parc regional Longueuil",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

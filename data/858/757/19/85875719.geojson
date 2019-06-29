@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1863891.560823,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.499724,45.525521,-73.499724,45.525521",
     "geom:latitude":45.525521,
     "geom:longitude":-73.499724,
@@ -35,9 +35,7 @@
         "Notre-Dame-de-Gr\u00e2ces"
     ],
     "name:fra_x_variant":[
-        "Notre Dame de Gr\u00e2ces"
-    ],
-    "name:fre_x_preferred":[
+        "Notre Dame de Gr\u00e2ces",
         "Notre-Dame-de-Gr\u00e2ce"
     ],
     "name:ita_x_preferred":[
@@ -51,11 +49,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961051
+        1108961051,
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872210,
+    "wof:lastmodified":1561844220,
     "wof:name":"Notre-Dame-de-Gr\u00e2ces",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

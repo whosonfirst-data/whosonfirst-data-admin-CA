@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000474,
-    "geom:area_square_m":3822060.872985,
+    "geom:area_square_m":3822060.872989,
     "geom:bbox":"-123.100669861,49.2651405334,-123.077030148,49.2895551",
     "geom:latitude":49.276793,
     "geom:longitude":-123.088528,
@@ -25,14 +25,14 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u58eb\u9054\u5b54\u62ff"
-    ],
     "name:eng_x_preferred":[
         "Strathcona"
     ],
     "name:unk_x_variant":[
         "Strathcona"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u9054\u5b54\u62ff"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,11 +68,11 @@
     "vanpds:MAPID":"STR",
     "vanpds:NAME":"Strathcona",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741075,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521042,
+    "wof:lastmodified":1561844215,
     "wof:name":"Strathcona",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

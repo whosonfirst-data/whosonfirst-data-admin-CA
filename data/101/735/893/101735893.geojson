@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05156,
-    "geom:area_square_m":462017507.431045,
+    "geom:area_square_m":462017507.430919,
     "geom:bbox":"-79.8082968,43.3610909,-79.4178541,43.7370259",
     "geom:latitude":43.549797,
     "geom:longitude":-79.609828,
@@ -20,23 +20,14 @@
     "name:afr_x_preferred":[
         "Mississauga"
     ],
-    "name:alb_x_preferred":[
-        "Mississauga"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u064a\u0633\u0627\u063a\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u057d\u056b\u057d\u0578\u0563\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0633\u064a\u0633\u0648\u062c\u0627"
     ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0633\u06cc\u0633\u0627\u06af\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Mississauga"
     ],
     "name:bel_x_variant":[
         "\u041c\u0456\u0441\u044b\u0441\u0430\u0433\u0430"
@@ -56,14 +47,8 @@
     "name:ces_x_preferred":[
         "Mississauga"
     ],
-    "name:chi_x_preferred":[
-        "\u5bc6\u897f\u6c99\u52a0"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06cc\u0633\u06cc\u0633\u0627\u06af\u0627"
-    ],
-    "name:cze_x_preferred":[
-        "Mississauga"
     ],
     "name:dan_x_preferred":[
         "Mississauga"
@@ -71,8 +56,8 @@
     "name:deu_x_preferred":[
         "Mississauga"
     ],
-    "name:dut_x_preferred":[
-        "Mississauga"
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c3\u03b9\u03c3\u03ac\u03bf\u03c5\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mississauga"
@@ -92,17 +77,8 @@
     "name:fra_x_preferred":[
         "Mississauga"
     ],
-    "name:fre_x_preferred":[
-        "Mississauga"
-    ],
-    "name:ger_x_preferred":[
-        "Mississauga"
-    ],
     "name:gle_x_preferred":[
         "Mississauga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03c3\u03b9\u03c3\u03ac\u03bf\u03c5\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab8\u0abf\u0ab8\u0acc\u0a97\u0abe"
@@ -119,10 +95,13 @@
     "name:hin_x_preferred":[
         "\u092e\u093f\u0938\u093f\u0938\u0949\u0917\u093e"
     ],
-    "name:ice_x_preferred":[
-        "Mississauga"
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057d\u056b\u057d\u0578\u0563\u0561"
     ],
     "name:ind_x_preferred":[
+        "Mississauga"
+    ],
+    "name:isl_x_preferred":[
         "Mississauga"
     ],
     "name:ita_x_preferred":[
@@ -146,7 +125,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0938\u093f\u0938\u093e\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mississauga"
     ],
     "name:nld_x_preferred":[
@@ -163,9 +142,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a3f\u0a38\u0a40\u0a38\u0a3e\u0a17\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0633\u06cc\u0633\u0627\u06af\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0633\u0633\u0627\u06af\u0627"
@@ -287,7 +263,7 @@
         }
     ],
     "wof:id":101735893,
-    "wof:lastmodified":1533257356,
+    "wof:lastmodified":1561844467,
     "wof:name":"Mississauga",
     "wof:parent_id":890456343,
     "wof:placetype":"locality",

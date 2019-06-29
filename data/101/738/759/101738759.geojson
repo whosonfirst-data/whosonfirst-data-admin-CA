@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028358,
-    "geom:area_square_m":231929972.423594,
+    "geom:area_square_m":231929972.423581,
     "geom:bbox":"-71.803230206,48.489903624,-71.533774219,48.688920683",
     "geom:latitude":48.591986,
     "geom:longitude":-71.681885,
@@ -20,25 +20,13 @@
     "name:afr_x_preferred":[
         "Alma"
     ],
-    "name:alb_x_preferred":[
-        "Alma"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0644\u0645\u0627\u060c \u0643\u064a\u0628\u0643"
-    ],
-    "name:baq_x_preferred":[
-        "Alma"
     ],
     "name:ceb_x_preferred":[
         "Alma"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u746a\u93ae"
-    ],
     "name:deu_x_preferred":[
-        "Alma"
-    ],
-    "name:dut_x_preferred":[
         "Alma"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +45,6 @@
         "\u0622\u0644\u0645\u0627\u060c \u06a9\u0628\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Alma"
-    ],
-    "name:fre_x_preferred":[
-        "Alma"
-    ],
-    "name:ger_x_preferred":[
         "Alma"
     ],
     "name:hbs_x_preferred":[
@@ -85,9 +67,6 @@
     ],
     "name:nob_x_preferred":[
         "Alma"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0645\u0627\u060c \u06a9\u0628\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0622\u0644\u0645\u0627"
@@ -124,6 +103,9 @@
     ],
     "name:vol_x_preferred":[
         "Alma"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u746a\u93ae"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -173,7 +155,7 @@
         }
     ],
     "wof:id":101738759,
-    "wof:lastmodified":1553815464,
+    "wof:lastmodified":1561844369,
     "wof:name":"Alma",
     "wof:parent_id":890458103,
     "wof:placetype":"locality",

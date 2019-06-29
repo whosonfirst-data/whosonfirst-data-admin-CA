@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":3130124.060924,
+    "geom:area_square_m":3130124.06093,
     "geom:bbox":"-73.5817292262,45.4925436565,-73.5517045136,45.5213645209",
     "geom:latitude":45.506711,
     "geom:longitude":-73.566078,
@@ -28,9 +28,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u5229\u723e\u5e02\u4e2d\u5fc3"
-    ],
     "name:eng_x_preferred":[
         "Downtown Montreal"
     ],
@@ -39,9 +36,7 @@
     ],
     "name:fra_x_variant":[
         "Centre Ville",
-        "Ren\u00e9-L\u00e9vesque"
-    ],
-    "name:fre_x_preferred":[
+        "Ren\u00e9-L\u00e9vesque",
         "Centre-ville de Montr\u00e9al"
     ],
     "name:heb_x_preferred":[
@@ -50,6 +45,9 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c8\u30ea\u30aa\u30fc\u30eb\u4e2d\u5fc3\u8857"
     ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u5229\u723e\u5e02\u4e2d\u5fc3"
+    ],
     "reversegeo:latitude":45.506364,
     "reversegeo:longitude":-73.565853,
     "src:geom":"can-mtlsmvt",
@@ -57,12 +55,12 @@
         "unknown"
     ],
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736545,
         1108955761,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
         }
     ],
     "wof:id":420784405,
-    "wof:lastmodified":1533277836,
+    "wof:lastmodified":1561844502,
     "wof:name":"Centre-Ville",
     "wof:parent_id":1108955761,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014476,
-    "geom:area_square_m":114493410.228888,
+    "geom:area_square_m":114493410.228922,
     "geom:bbox":"-119.453989167,50.1514944767,-119.20520681,50.3215155646",
     "geom:latitude":50.234473,
     "geom:longitude":-119.346987,
@@ -23,14 +23,14 @@
     "name:ben_x_preferred":[
         "\u09ad\u09c7\u09a8\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u519c"
-    ],
     "name:dan_x_preferred":[
         "Vernon"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vernon"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03c1\u03bd\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Vernon"
@@ -44,14 +44,8 @@
     "name:fin_x_preferred":[
         "Vernon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vernon"
-    ],
-    "name:ger_x_preferred":[
-        "Vernon"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b5\u03c1\u03bd\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0aa8"
@@ -86,14 +80,14 @@
     "name:mar_x_preferred":[
         "\u0935\u0930\u094d\u0928\u094b\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Vernon"
+    ],
+    "name:nld_x_preferred":[
         "Vernon"
     ],
     "name:nob_x_preferred":[
         "Vernon"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0646\u0646\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Vernon"
@@ -196,7 +190,7 @@
         }
     ],
     "wof:id":101741005,
-    "wof:lastmodified":1553815470,
+    "wof:lastmodified":1561844445,
     "wof:name":"Vernon",
     "wof:parent_id":890458113,
     "wof:placetype":"locality",

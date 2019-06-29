@@ -14,29 +14,23 @@
     "lbl:longitude":-139.416669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Dawson City"
-    ],
     "name:ara_x_preferred":[
         "\u062f\u0627\u0648\u0633\u0648\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0578\u0582\u057d\u0578\u0576"
     ],
     "name:cat_x_preferred":[
         "Dawson City"
     ],
-    "name:chi_x_preferred":[
-        "\u9053\u68ee\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dawson City"
     ],
     "name:dan_x_preferred":[
         "Dawson"
     ],
-    "name:dut_x_preferred":[
-        "Dawson City"
+    "name:deu_x_preferred":[
+        "Dawson"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03c3\u03bf\u03bd \u03a3\u03af\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Dawson City"
@@ -47,20 +41,17 @@
     "name:fin_x_preferred":[
         "Dawson City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dawson City"
-    ],
-    "name:ger_x_preferred":[
-        "Dawson"
     ],
     "name:gle_x_preferred":[
         "Dawson City"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03c3\u03bf\u03bd \u03a3\u03af\u03c4\u03b9"
-    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e1\u05d5\u05df \u05e1\u05d9\u05d8\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0578\u0582\u057d\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "Kota Dawson"
@@ -77,11 +68,14 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc2a8\uc2dc\ud2f0"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dawson City"
     ],
     "name:nah_x_preferred":[
         "Altepetl Dawson"
+    ],
+    "name:nld_x_preferred":[
+        "Dawson City"
     ],
     "name:nob_x_preferred":[
         "Dawson City"
@@ -92,16 +86,19 @@
     "name:por_x_preferred":[
         "Dawson City"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dawson City"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0443\u0441\u043e\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dawson"
     ],
     "name:spa_x_preferred":[
+        "Dawson City"
+    ],
+    "name:sqi_x_preferred":[
         "Dawson City"
     ],
     "name:srd_x_preferred":[
@@ -115,6 +112,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0688\u0627\u0648\u0633\u0646 \u0634\u06c1\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u68ee\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -235,7 +235,7 @@
         }
     ],
     "wof:id":1141909307,
-    "wof:lastmodified":1532596668,
+    "wof:lastmodified":1561844599,
     "wof:name":"Dawson City",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",

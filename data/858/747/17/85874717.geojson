@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001004,
-    "geom:area_square_m":8488599.00353,
+    "geom:area_square_m":8488599.003553,
     "geom:bbox":"-71.2514529622,46.8309640527,-71.1919006312,46.8739332682",
     "geom:latitude":46.856958,
     "geom:longitude":-71.21984,
@@ -43,9 +43,6 @@
     ],
     "name:fra_x_variant":[
         "Vieux Moulin"
-    ],
-    "name:fre_x_preferred":[
-        "Vieux-Moulin"
     ],
     "name:fre_x_variant":[
         "Vieux Moulin"
@@ -91,12 +88,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":28,
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101737491,
         1126115113,
-        890458033
+        890458033,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +118,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533276733,
+    "wof:lastmodified":1561844216,
     "wof:name":"Vieux-Moulin",
     "wof:parent_id":1126115113,
     "wof:placetype":"neighbourhood",

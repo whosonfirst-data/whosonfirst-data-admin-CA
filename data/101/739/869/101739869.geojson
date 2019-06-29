@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001959,
-    "geom:area_square_m":15266109.766038,
+    "geom:area_square_m":15266109.766028,
     "geom:bbox":"-102.842762,50.915834,-102.772822,50.9450302",
     "geom:latitude":50.930918,
     "geom:longitude":-102.808376,
@@ -30,17 +30,14 @@
     "name:ceb_x_preferred":[
         "Melville"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u723e\u7dad\u723e"
-    ],
     "name:dan_x_preferred":[
         "Melville"
     ],
     "name:deu_x_preferred":[
         "Melville"
     ],
-    "name:dut_x_preferred":[
-        "Melville"
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03bb\u03b2\u03b9\u03bb"
     ],
     "name:eng_x_preferred":[
         "Melville"
@@ -53,15 +50,6 @@
     ],
     "name:fra_x_preferred":[
         "Melville"
-    ],
-    "name:fre_x_preferred":[
-        "Melville"
-    ],
-    "name:ger_x_preferred":[
-        "Melville"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03bb\u03b2\u03b9\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab2\u0ab5\u0abf\u0ab2\u0ac7"
@@ -93,7 +81,10 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0932\u0935\u093f\u0932\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Melville"
+    ],
+    "name:nld_x_preferred":[
         "Melville"
     ],
     "name:nob_x_preferred":[
@@ -143,6 +134,9 @@
     ],
     "name:vol_x_preferred":[
         "Melville"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u723e\u7dad\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -287,7 +281,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815468,
+    "wof:lastmodified":1561844266,
     "wof:name":"Melville",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

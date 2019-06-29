@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050775,
-    "geom:area_square_m":239737513.981585,
+    "geom:area_square_m":239737513.981528,
     "geom:bbox":"-64.2217885,67.4819354,-63.7295683,67.6428719",
     "geom:latitude":67.554023,
     "geom:longitude":-63.990764,
@@ -16,9 +16,6 @@
     "mps:longitude":-63.990672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Qikiqtarjuaq"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u064a\u0643\u064a\u0643\u062a\u0627\u0631\u062c\u0648\u0627\u0643"
     ],
@@ -28,8 +25,11 @@
     "name:dan_x_preferred":[
         "Qikiqtarjuaq"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qikiqtarjuaq"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03ba\u03b9\u03ba\u03c4\u03ac\u03c1\u03c4\u03b6\u03bf\u03c5\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Qikiqtarjuaq"
@@ -37,14 +37,8 @@
     "name:fin_x_preferred":[
         "Qikiqtarjuaq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Qikiqtarjuaq"
-    ],
-    "name:ger_x_preferred":[
-        "Qikiqtarjuaq"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03ba\u03b9\u03ba\u03c4\u03ac\u03c1\u03c4\u03b6\u03bf\u03c5\u03b1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a95\u0abf\u0a95\u0acd\u0aa4\u0abe\u0ab0\u0a9c\u0ac1\u0a86\u0a95"
@@ -79,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0915\u093f\u0915\u094d\u0924\u0947\u091c\u0941\u0930\u0941\u0906\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Qikiqtarjuaq"
+    ],
+    "name:nld_x_preferred":[
         "Qikiqtarjuaq"
     ],
     "name:nob_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0d89\u0d9a\u0dca\u0da7\u0dcf\u0dbb\u0dca\u0da2\u0d9a\u0dca"
+    ],
+    "name:sqi_x_preferred":[
+        "Qikiqtarjuaq"
     ],
     "name:swe_x_preferred":[
         "Qikiqtarjuaq"
@@ -170,7 +170,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533332572,
+    "wof:lastmodified":1561844468,
     "wof:name":"Qikiqtarjuaq",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

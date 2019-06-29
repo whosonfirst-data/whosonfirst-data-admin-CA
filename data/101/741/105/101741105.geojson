@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002123,
-    "geom:area_square_m":17114496.33981,
+    "geom:area_square_m":17114496.339838,
     "geom:bbox":"-124.352543193,49.2976258647,-124.244738942,49.3450206896",
     "geom:latitude":49.318959,
     "geom:longitude":-124.303094,
@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Parksville"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u514b\u65af\u7dad\u723e"
-    ],
     "name:dan_x_preferred":[
         "Parksville"
     ],
     "name:deu_x_preferred":[
         "Parksville"
     ],
-    "name:dut_x_preferred":[
-        "Parksville"
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c1\u03ba\u03c3\u03b2\u03b9\u03bb"
     ],
     "name:eng_x_colloquial":[
         "Jewel of Vancouver Island"
@@ -47,20 +44,14 @@
     "name:eng_x_variant":[
         "Jewel of Vancouver Island"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u06a9\u0633\u0648\u06cc\u0644\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Parksville"
     ],
     "name:fra_x_preferred":[
         "Parksville"
-    ],
-    "name:fre_x_preferred":[
-        "Parksville"
-    ],
-    "name:ger_x_preferred":[
-        "Parksville"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03c1\u03ba\u03c3\u03b2\u03b9\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab0\u0acd\u0a95\u0acd\u0ab8\u0ab5\u0abf\u0ab2"
@@ -92,7 +83,10 @@
     "name:mar_x_preferred":[
         "\u092a\u093e\u0930\u094d\u0915\u0938\u094d\u0935\u093f\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Parksville"
+    ],
+    "name:nld_x_preferred":[
         "Parksville"
     ],
     "name:nob_x_preferred":[
@@ -100,9 +94,6 @@
     ],
     "name:nor_x_preferred":[
         "Parksville"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0631\u06a9\u0633\u0648\u06cc\u0644\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0631\u06a9\u0633\u0648\u0644\u06d2"
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":101741105,
-    "wof:lastmodified":1553815471,
+    "wof:lastmodified":1561844434,
     "wof:name":"Parksville",
     "wof:parent_id":890457881,
     "wof:placetype":"locality",

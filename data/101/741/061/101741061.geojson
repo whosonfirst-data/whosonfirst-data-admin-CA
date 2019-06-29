@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004279,
-    "geom:area_square_m":34538166.996071,
+    "geom:area_square_m":34538166.99609,
     "geom:bbox":"-122.807370016,49.2134667946,-122.698478496,49.2892694452",
     "geom:latitude":49.253163,
     "geom:longitude":-122.762315,
@@ -25,17 +25,14 @@
     "name:ceb_x_preferred":[
         "Port Coquitlam"
     ],
-    "name:chi_x_preferred":[
-        "\u9ad8\u8cb4\u6797\u6e2f"
-    ],
     "name:dan_x_preferred":[
         "Port Coquitlam"
     ],
     "name:deu_x_preferred":[
         "Port Coquitlam"
     ],
-    "name:dut_x_preferred":[
-        "Port Coquitlam"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u039a\u03cc\u03ba\u03b9\u03c4\u03bb\u03b1\u03bc"
     ],
     "name:eng_x_preferred":[
         "Port Coquitlam"
@@ -51,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Port Coquitlam"
-    ],
-    "name:fre_x_preferred":[
-        "Port Coquitlam"
-    ],
-    "name:ger_x_preferred":[
-        "Port Coquitlam"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c1\u03c4 \u039a\u03cc\u03ba\u03b9\u03c4\u03bb\u03b1\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0a95\u0acb\u0a95\u0acd\u0ab5\u0ac0\u0a9f\u0ab2\u0ac7\u0aae"
@@ -94,7 +82,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f \u0915\u094b\u0915\u094d\u0935\u093f\u091f\u0932\u092e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Port Coquitlam"
+    ],
+    "name:nld_x_preferred":[
         "Port Coquitlam"
     ],
     "name:nob_x_preferred":[
@@ -102,9 +93,6 @@
     ],
     "name:nor_x_preferred":[
         "Port Coquitlam"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a \u06a9\u0648\u06a9\u06cc\u062a\u0644\u0627\u0645"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u0648\u0631\u0679 \u06a9\u0648\u06a9\u0648\u0679\u0644\u0627\u0645"
@@ -206,7 +194,7 @@
         }
     ],
     "wof:id":101741061,
-    "wof:lastmodified":1531520988,
+    "wof:lastmodified":1561844444,
     "wof:name":"Port Coquitlam",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

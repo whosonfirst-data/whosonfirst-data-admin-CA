@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
-    "geom:area_square_m":4133901.596421,
+    "geom:area_square_m":4133901.596404,
     "geom:bbox":"-123.136680603,49.27022,-123.099325946,49.2953858",
     "geom:latitude":49.28111,
     "geom:longitude":-123.115807,
@@ -25,16 +25,13 @@
     "mz:min_zoom":11.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u6eab\u54e5\u83ef\u5e02\u4e2d\u5fc3"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Downtown"
     ],
     "name:eng_x_preferred":[
         "Downtown"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Downtown Vancouver"
     ],
     "name:heb_x_preferred":[
@@ -43,8 +40,11 @@
     "name:ita_x_preferred":[
         "Downtown"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Downtown"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eab\u54e5\u83ef\u5e02\u4e2d\u5fc3"
     ],
     "qs:gn_id":0,
     "reversegeo:latitude":49.281256,
@@ -59,11 +59,11 @@
     "vanpds:NAME":"Downtown",
     "wd:wordcount":1123,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741075,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521031,
+    "wof:lastmodified":1561844222,
     "wof:name":"Downtown",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

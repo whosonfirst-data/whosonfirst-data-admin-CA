@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002652,
-    "geom:area_square_m":19746860.732567,
+    "geom:area_square_m":19746860.732564,
     "geom:bbox":"-113.426429531,52.9452816678,-113.329692473,52.996212989",
     "geom:latitude":52.97214,
     "geom:longitude":-113.377012,
@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Wetaskiwin"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5854\u65af\u57fa\u6e29"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Wetaskiwin"
     ],
     "name:dan_x_preferred":[
         "Wetaskiwin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Wetaskiwin"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b5\u03c4\u03ac\u03c3\u03ba\u03b9\u03b3\u03bf\u03c5\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Wetaskiwin"
@@ -64,14 +64,8 @@
     "name:fin_x_preferred":[
         "Wetaskiwin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wetaskiwin"
-    ],
-    "name:ger_x_preferred":[
-        "Wetaskiwin"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b5\u03c4\u03ac\u03c3\u03ba\u03b9\u03b3\u03bf\u03c5\u03b9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a9f\u0ab8\u0acd\u0a95\u0abf\u0ab5\u0abf\u0aa8"
@@ -79,10 +73,10 @@
     "name:hin_x_preferred":[
         "\u0935\u0947\u091f\u0938\u094d\u0915\u0940\u0935\u0940\u0928"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Wetaskiwin"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Wetaskiwin"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +103,10 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u091f\u0938\u094d\u0915\u0940\u0935\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Wetaskiwin"
+    ],
+    "name:nld_x_preferred":[
         "Wetaskiwin"
     ],
     "name:nno_x_preferred":[
@@ -117,9 +114,6 @@
     ],
     "name:nob_x_preferred":[
         "Wetaskiwin"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u062a\u0627\u0633\u06a9\u06cc\u0648\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u06cc\u0679\u0627\u0633\u06a9\u06cc\u0648\u0646"
@@ -309,7 +303,7 @@
         }
     ],
     "wof:id":890457599,
-    "wof:lastmodified":1533250208,
+    "wof:lastmodified":1561844535,
     "wof:name":"Wetaskiwin",
     "wof:parent_id":1158863267,
     "wof:placetype":"locality",

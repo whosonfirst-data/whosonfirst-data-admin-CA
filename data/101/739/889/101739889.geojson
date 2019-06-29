@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003067,
-    "geom:area_square_m":24232160.518508,
+    "geom:area_square_m":24232160.518526,
     "geom:bbox":"-107.8283419,50.2590333,-107.756775,50.3172965",
     "geom:latitude":50.287864,
     "geom:longitude":-107.793368,
@@ -33,20 +33,14 @@
     "name:ces_x_preferred":[
         "Swift Current"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5a01\u592b\u7279\u5361\u4f26\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Swift Current"
-    ],
     "name:dan_x_preferred":[
         "Swift Current"
     ],
     "name:deu_x_preferred":[
         "Swift Current"
     ],
-    "name:dut_x_preferred":[
-        "Swift Current"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03af\u03c6\u03c4 \u039a\u03ac\u03c1\u03c1\u03b5\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Swift Current"
@@ -65,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Swift Current"
-    ],
-    "name:fre_x_preferred":[
-        "Swift Current"
-    ],
-    "name:ger_x_preferred":[
-        "Swift Current"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03af\u03c6\u03c4 \u039a\u03ac\u03c1\u03c1\u03b5\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab5\u0abf\u0aab\u0acd\u0a9f \u0a95\u0ab0\u0a82\u0a9f"
@@ -105,7 +90,7 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u0935\u093f\u092b\u094d\u091f \u0915\u0930\u0902\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Swift Current"
     ],
     "name:nld_x_preferred":[
@@ -113,9 +98,6 @@
     ],
     "name:nob_x_preferred":[
         "Swift Current"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06cc\u0641\u062a \u06a9\u0627\u0631\u0646\u062a"
     ],
     "name:pol_x_preferred":[
         "Swift Current"
@@ -308,7 +290,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815468,
+    "wof:lastmodified":1561844264,
     "wof:name":"Swift Current",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

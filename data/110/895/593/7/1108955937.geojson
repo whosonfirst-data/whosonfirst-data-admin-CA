@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
-    "geom:area_square_m":304780.644771,
+    "geom:area_square_m":304780.64477,
     "geom:bbox":"-73.5679432493,45.5117616196,-73.5566802732,45.5189708524",
     "geom:latitude":45.515263,
     "geom:longitude":-73.56254,
@@ -23,9 +23,6 @@
     "name:afr_x_preferred":[
         "Quartier Latin de Montr\u00e9al"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u4e01\u5340"
-    ],
     "name:eng_x_preferred":[
         "Quartier Latin"
     ],
@@ -35,7 +32,7 @@
     "name:fra_x_preferred":[
         "Quartier Latin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "quartier latin de Montr\u00e9al"
     ],
     "name:heb_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:pol_x_preferred":[
         "Quartier latin"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u4e01\u5340"
     ],
     "reversegeo:latitude":45.515214,
     "reversegeo:longitude":-73.562536,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108955937,
-    "wof:lastmodified":1533277853,
+    "wof:lastmodified":1561844244,
     "wof:name":"Quartier Latin",
     "wof:parent_id":420784405,
     "wof:placetype":"microhood",

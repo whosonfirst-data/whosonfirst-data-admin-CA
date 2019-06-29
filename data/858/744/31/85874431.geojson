@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1940269.202563,
+    "geom:area_square_m":1940269.202564,
     "geom:bbox":"-75.7219379996,45.3948629998,-75.6997200003,45.4149430004",
     "geom:latitude":45.405009,
     "geom:longitude":-75.710117,
@@ -29,14 +29,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Centretown West"
+    ],
     "name:eng_x_preferred":[
         "Centretown West"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Centre-ville-Ouest"
-    ],
-    "name:ger_x_preferred":[
-        "Centretown West"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0435\u0440\u0442\u0430\u0443\u043d-\u0423\u044d\u0441\u0442"
@@ -52,12 +52,12 @@
     "wd:longitude":-75.7083,
     "wd:wordcount":192,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277894,
+    "wof:lastmodified":1561844223,
     "wof:name":"Centretown West",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01511,
-    "geom:area_square_m":120725616.791758,
+    "geom:area_square_m":120725616.791731,
     "geom:bbox":"-123.260311557,49.6385873463,-123.017169103,49.8729014479",
     "geom:latitude":49.746485,
     "geom:longitude":-123.141818,
@@ -25,17 +25,14 @@
     "name:ceb_x_preferred":[
         "Squamish"
     ],
-    "name:chi_x_preferred":[
-        "\u53f2\u6208\u5bc6\u6b8a"
-    ],
     "name:dan_x_preferred":[
         "Squamish"
     ],
     "name:deu_x_preferred":[
         "Squamish"
     ],
-    "name:dut_x_preferred":[
-        "Squamish"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c5\u03ac\u03bc\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Squamish"
@@ -48,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Squamish"
-    ],
-    "name:fre_x_preferred":[
-        "Squamish"
-    ],
-    "name:ger_x_preferred":[
-        "Squamish"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ba\u03bf\u03c5\u03ac\u03bc\u03b9\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a95\u0acd\u0ab5\u0ac7\u0aae\u0abf\u0ab6"
@@ -91,7 +79,10 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u0915\u094d\u0935\u0947\u092e\u093f\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Squamish"
+    ],
+    "name:nld_x_preferred":[
         "Squamish"
     ],
     "name:nob_x_preferred":[
@@ -104,9 +95,6 @@
         "Squamish"
     ],
     "name:ron_x_preferred":[
-        "Squamish"
-    ],
-    "name:rum_x_preferred":[
         "Squamish"
     ],
     "name:rus_x_preferred":[
@@ -141,6 +129,9 @@
     ],
     "name:vie_x_preferred":[
         "Squamish"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f2\u6208\u5bc6\u6b8a"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -188,7 +179,7 @@
         }
     ],
     "wof:id":101740953,
-    "wof:lastmodified":1553815470,
+    "wof:lastmodified":1561844382,
     "wof:name":"Squamish",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

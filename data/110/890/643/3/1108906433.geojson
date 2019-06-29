@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":5239754.832963,
+    "geom:area_square_m":5239754.832965,
     "geom:bbox":"-79.19701006,43.778849773,-79.151453169,43.800111759",
     "geom:latitude":43.790775,
     "geom:longitude":-79.177472,
@@ -20,11 +20,11 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:chi_x_preferred":[
-        "\u6d77\u502b\u6eaa"
-    ],
     "name:eng_x_preferred":[
         "Highland Creek"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u502b\u6eaa"
     ],
     "reversegeo:latitude":43.789988,
     "reversegeo:longitude":-79.177471,
@@ -32,12 +32,12 @@
     "torsdfa:AREA_NAME":"Highland Creek (134)",
     "torsdfa:AREA_S_CD":"134",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":1108906433,
-    "wof:lastmodified":1533272670,
+    "wof:lastmodified":1561844250,
     "wof:name":"Highland Creek",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

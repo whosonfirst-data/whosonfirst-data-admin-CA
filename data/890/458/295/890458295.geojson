@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000576,
-    "geom:area_square_m":4228897.271258,
+    "geom:area_square_m":4228897.271253,
     "geom:bbox":"-112.360867483,53.5778967508,-112.324108972,53.5996073464",
     "geom:latitude":53.588876,
     "geom:longitude":-112.346639,
@@ -23,26 +23,26 @@
     "mps:longitude":-112.348125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0582\u0576\u0564\u0561\u0580\u0565"
-    ],
     "name:bre_x_preferred":[
         "Mundare"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u0434\u0430\u0440\u0435"
     ],
-    "name:cos_x_preferred":[
+    "name:ces_x_preferred":[
         "Mundare"
     ],
-    "name:cze_x_preferred":[
+    "name:cos_x_preferred":[
         "Mundare"
     ],
     "name:dan_x_preferred":[
         "Mundare"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mundare"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03bd\u03c4\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Mundare"
@@ -50,14 +50,11 @@
     "name:eng_x_variant":[
         "Town of Mundare"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mundare"
     ],
-    "name:ger_x_preferred":[
-        "Mundare"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03cd\u03bd\u03c4\u03b1\u03c1"
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0576\u0564\u0561\u0580\u0565"
     ],
     "name:ind_x_preferred":[
         "Mundare"
@@ -68,10 +65,13 @@
     "name:nds_x_preferred":[
         "Mundare"
     ],
+    "name:nld_x_preferred":[
+        "Mundare"
+    ],
     "name:por_x_preferred":[
         "Mundare"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mundare"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":890458295,
-    "wof:lastmodified":1533250211,
+    "wof:lastmodified":1561844507,
     "wof:name":"Mundare",
     "wof:parent_id":1158863199,
     "wof:placetype":"locality",

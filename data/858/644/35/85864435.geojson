@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":2020650.541237,
+    "geom:area_square_m":2020650.541227,
     "geom:bbox":"-71.2180218224,46.801219579,-71.1958390456,46.8253189049",
     "geom:latitude":46.814374,
     "geom:longitude":-71.207997,
@@ -32,26 +32,17 @@
     "name:cat_x_preferred":[
         "Ciutat antiga de Quebec"
     ],
-    "name:chi_x_preferred":[
-        "\u9b41\u5317\u514b\u6b77\u53f2\u57ce\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Historisch district van Oud Quebec"
+    "name:deu_x_preferred":[
+        "Altstadt von Qu\u00e9bec"
     ],
     "name:eng_x_preferred":[
         "Old Qu\u00e9bec"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u062f \u06a9\u0628\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Vieux-Qu\u00e9bec"
-    ],
-    "name:fre_x_preferred":[
-        "Vieux-Qu\u00e9bec"
-    ],
-    "name:geo_x_preferred":[
-        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10d9\u10d5\u10d4\u10d1\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Altstadt von Qu\u00e9bec"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d5\u05d9\u05d1\u05e7 \u05e1\u05d9\u05d8\u05d9 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
@@ -59,11 +50,14 @@
     "name:jpn_x_preferred":[
         "\u30b1\u30d9\u30c3\u30af\u6b74\u53f2\u5730\u533a"
     ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10d9\u10d5\u10d4\u10d1\u10d4\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube44\uc678\ud018\ubca1"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0644\u062f \u06a9\u0628\u06a9"
+    "name:nld_x_preferred":[
+        "Historisch district van Oud Quebec"
     ],
     "name:pol_x_preferred":[
         "Vieux-Qu\u00e9bec"
@@ -80,6 +74,9 @@
     "name:xmf_x_preferred":[
         "\u10ef\u10d5\u10d4\u10e8\u10d8 \u10d9\u10d5\u10d4\u10d1\u10d4\u10d9\u10d8"
     ],
+    "name:zho_x_preferred":[
+        "\u9b41\u5317\u514b\u6b77\u53f2\u57ce\u5340"
+    ],
     "qs:gn_id":0,
     "reversegeo:latitude":46.812356,
     "reversegeo:longitude":-71.208167,
@@ -90,13 +87,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         1126121797,
         85633041,
         101737491,
         1126115107,
-        890458033
+        890458033,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +120,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533276728,
+    "wof:lastmodified":1561844214,
     "wof:name":"Vieux-Quebec",
     "wof:parent_id":1126121797,
     "wof:placetype":"neighbourhood",

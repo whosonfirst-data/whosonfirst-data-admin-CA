@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002181,
-    "geom:area_square_m":18849566.597596,
+    "geom:area_square_m":18849566.597574,
     "geom:bbox":"-73.5446245045,45.6328701334,-73.4761975429,45.7037982616",
     "geom:latitude":45.664239,
     "geom:longitude":-73.505501,
@@ -37,9 +37,6 @@
     "name:fra_x_preferred":[
         "Pointe-aux-Trembles"
     ],
-    "name:fre_x_preferred":[
-        "Pointe-aux-Trembles"
-    ],
     "reversegeo:latitude":45.664257,
     "reversegeo:longitude":-73.5051,
     "src:geom":"quattroshapes",
@@ -51,12 +48,12 @@
     "wd:longitude":-73.5053,
     "wd:wordcount":350,
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736545,
         1108955733,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +81,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533277837,
+    "wof:lastmodified":1561844188,
     "wof:name":"Pointe-aux-Trembles",
     "wof:parent_id":1108955733,
     "wof:placetype":"neighbourhood",

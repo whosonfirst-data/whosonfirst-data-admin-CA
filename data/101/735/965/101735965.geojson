@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02995,
-    "geom:area_square_m":269246866.642282,
+    "geom:area_square_m":269246866.642298,
     "geom:bbox":"-79.9592861,43.2680045,-79.6303439,43.4765376",
     "geom:latitude":43.36127,
     "geom:longitude":-79.807471,
@@ -17,9 +17,6 @@
     "mps:longitude":-79.796209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Burlington"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0644\u064a\u0646\u062c\u062a\u0648\u0646"
     ],
@@ -29,17 +26,17 @@
     "name:cat_x_preferred":[
         "Burlington"
     ],
-    "name:chi_x_preferred":[
-        "\u4f2f\u7075\u987f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Burlington"
     ],
     "name:dan_x_preferred":[
         "Burlington"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Burlington"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03c1\u03bb\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Burlington"
@@ -53,14 +50,8 @@
     "name:fin_x_preferred":[
         "Burlington"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Burlington"
-    ],
-    "name:ger_x_preferred":[
-        "Burlington"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03c1\u03bb\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab0\u0acd\u0ab2\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8"
@@ -92,7 +83,10 @@
     "name:mar_x_preferred":[
         "\u092c\u0930\u094d\u0932\u093f\u0902\u0917\u091f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Burlington"
+    ],
+    "name:nld_x_preferred":[
         "Burlington"
     ],
     "name:nob_x_preferred":[
@@ -100,9 +94,6 @@
     ],
     "name:oci_x_preferred":[
         "Burlington"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0644\u06cc\u0646\u06af\u062a\u0648\u0646\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u0644\u0646\u06af\u0679\u0646"
@@ -113,7 +104,7 @@
     "name:por_x_preferred":[
         "Burlington"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Burlington"
     ],
     "name:rus_x_preferred":[
@@ -123,6 +114,9 @@
         "\u0db6\u0dbb\u0dca\u0dbd\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0da7\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Burlington"
+    ],
+    "name:sqi_x_preferred":[
         "Burlington"
     ],
     "name:srp_x_preferred":[
@@ -222,7 +216,7 @@
         }
     ],
     "wof:id":101735965,
-    "wof:lastmodified":1553815392,
+    "wof:lastmodified":1561844456,
     "wof:name":"Burlington",
     "wof:parent_id":890458413,
     "wof:placetype":"locality",

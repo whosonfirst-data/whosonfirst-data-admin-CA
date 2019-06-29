@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":2034071.025751,
+    "geom:area_square_m":2034071.025752,
     "geom:bbox":"-75.6960829998,45.3836289998,-75.6693679999,45.4079620004",
     "geom:latitude":45.395287,
     "geom:longitude":-75.681693,
@@ -29,14 +29,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Old Ottawa South"
+    ],
     "name:eng_x_preferred":[
         "Old Ottawa South"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ottawa-Sud"
-    ],
-    "name:ger_x_preferred":[
-        "Old Ottawa South"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0434-\u041e\u0442\u0442\u0430\u0432\u0430-\u0421\u0430\u0443\u0442"
@@ -52,12 +52,12 @@
     "wd:longitude":-75.683333,
     "wd:wordcount":878,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277893,
+    "wof:lastmodified":1561844224,
     "wof:name":"Old Ottawa South",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

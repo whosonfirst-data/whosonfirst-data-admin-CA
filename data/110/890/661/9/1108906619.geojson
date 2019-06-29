@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":201354.765745,
+    "geom:area_square_m":201354.765746,
     "geom:bbox":"-123.106146773,49.2776151575,-123.096936062,49.281499509",
     "geom:latitude":49.279667,
     "geom:longitude":-123.100798,
@@ -20,19 +20,13 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:chi_x_preferred":[
-        "\u6eab\u54e5\u83ef\u83ef\u57e0"
-    ],
-    "name:cze_x_preferred":[
-        "Chinatown"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Chinatown"
     ],
     "name:eng_x_preferred":[
         "Chinatown"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chinatown"
     ],
     "name:ita_x_preferred":[
@@ -41,22 +35,28 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pekan Cina"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
         "Chinatown"
+    ],
+    "name:slk_x_preferred":[
+        "Chinatown"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eab\u54e5\u83ef\u83ef\u57e0"
     ],
     "reversegeo:latitude":49.279514,
     "reversegeo:longitude":-123.100337,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
+        85866519,
         102191575,
         85633041,
         101741075,
         890457467,
-        85866519
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108906619,
-    "wof:lastmodified":1531521055,
+    "wof:lastmodified":1561844250,
     "wof:name":"Chinatown",
     "wof:parent_id":-3,
     "wof:placetype":"microhood",

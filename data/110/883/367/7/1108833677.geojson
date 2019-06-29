@@ -20,8 +20,8 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:chi_x_preferred":[
-        "\u591a\u4f26\u591a\u534e\u57e0"
+    "name:deu_x_preferred":[
+        "Chinatown"
     ],
     "name:eng_x_preferred":[
         "Chinatown"
@@ -30,13 +30,10 @@
         "West Chinatown",
         "Chinatown West"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chinatown"
     ],
-    "name:ger_x_preferred":[
-        "Chinatown"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pekan Cina"
     ],
     "name:pol_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:spa_x_preferred":[
         "Chinatown"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u4f26\u591a\u534e\u57e0"
     ],
     "reversegeo:latitude":43.654008,
     "reversegeo:longitude":-79.39869,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108833677,
-    "wof:lastmodified":1553816516,
+    "wof:lastmodified":1561844248,
     "wof:name":"Chinatown",
     "wof:parent_id":1108906411,
     "wof:placetype":"microhood",

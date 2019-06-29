@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005271,
-    "geom:area_square_m":42021202.207438,
+    "geom:area_square_m":42021202.207459,
     "geom:bbox":"-124.606207025,49.7938905252,-124.487203039,49.9079431836",
     "geom:latitude":49.857573,
     "geom:longitude":-124.538614,
@@ -27,17 +27,14 @@
     "name:ceb_x_preferred":[
         "Powell River"
     ],
-    "name:chi_x_preferred":[
-        "\u9b91\u5a01\u723e\u6cb3"
-    ],
     "name:dan_x_preferred":[
         "Powell River"
     ],
     "name:deu_x_preferred":[
         "Powell River"
     ],
-    "name:dut_x_preferred":[
-        "Powell River"
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bf\u03c5\u03b5\u03bb \u03a1\u03af\u03b2\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Powell River"
@@ -45,20 +42,14 @@
     "name:eng_x_variant":[
         "YPW"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0648\u0644 \u0631\u06cc\u0648\u0631\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Powell River"
     ],
     "name:fra_x_preferred":[
         "Powell River"
-    ],
-    "name:fre_x_preferred":[
-        "Powell River"
-    ],
-    "name:ger_x_preferred":[
-        "Powell River"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03bf\u03c5\u03b5\u03bb \u03a1\u03af\u03b2\u03b5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab5\u0ac7\u0ab2 \u0ab0\u0abf\u0ab5\u0ab0"
@@ -90,14 +81,14 @@
     "name:mar_x_preferred":[
         "\u092a\u0949\u0935\u0947\u0932 \u0928\u0926\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Powell River"
+    ],
+    "name:nld_x_preferred":[
         "Powell River"
     ],
     "name:nob_x_preferred":[
         "Powell River"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0648\u0644 \u0631\u06cc\u0648\u0631\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Powell River"
@@ -137,6 +128,9 @@
     ],
     "name:vie_x_preferred":[
         "Powell River"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b91\u5a01\u723e\u6cb3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -284,7 +278,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815470,
+    "wof:lastmodified":1561844400,
     "wof:name":"Powell River",
     "wof:parent_id":890456815,
     "wof:placetype":"locality",

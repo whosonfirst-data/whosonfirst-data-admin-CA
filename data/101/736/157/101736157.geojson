@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097985,
-    "geom:area_square_m":862173055.067158,
+    "geom:area_square_m":862173055.067225,
     "geom:bbox":"-80.5999452,44.3727654,-80.2663944,44.9733115",
     "geom:latitude":44.634586,
     "geom:longitude":-80.429772,
@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Blue Mountains"
     ],
-    "name:dut_x_preferred":[
-        "The Blue Mountains"
-    ],
     "name:eng_x_preferred":[
         "The Blue Mountains"
     ],
     "name:fra_x_preferred":[
         "Blue Mountains"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "The Blue Mountains"
     ],
     "name:jpn_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:nld_x_preferred":[
         "Blue Mountains"
+    ],
+    "name:nld_x_variant":[
+        "The Blue Mountains"
     ],
     "name:pol_x_preferred":[
         "G\u00f3ry B\u0142\u0119kitne"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101736157,
-    "wof:lastmodified":1527642073,
+    "wof:lastmodified":1561844315,
     "wof:name":"The Blue Mountains",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

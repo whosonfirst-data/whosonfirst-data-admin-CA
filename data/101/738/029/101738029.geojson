@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009265,
-    "geom:area_square_m":79326711.763217,
+    "geom:area_square_m":79326711.763275,
     "geom:bbox":"-71.533885793,46.11268348,-71.345006149,46.231194232",
     "geom:latitude":46.175637,
     "geom:longitude":-71.447384,
@@ -16,9 +16,6 @@
     "mps:longitude":-71.461594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Saint-Jean-de-Br\u00e9beuf"
-    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u043d \u0434\u044c\u043e \u0411\u0440\u0435\u0431\u044c\u043e\u0444"
     ],
@@ -31,19 +28,22 @@
     "name:deu_x_preferred":[
         "Jean de Br\u00e9beuf"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Saint-Jean-de-Br\u00e9beuf"
     ],
     "name:eng_x_preferred":[
         "Saint-Jean-de-Br\u00e9beuf"
     ],
+    "name:eus_x_preferred":[
+        "Saint-Jean-de-Br\u00e9beuf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u0698\u0627\u0646-\u062f\u0648-\u0628\u0631\u0628\u0648\u0641\u060c \u06a9\u0628\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Jean de Br\u00e9beuf"
     ],
-    "name:fre_x_preferred":[
-        "Saint-Jean-de-Br\u00e9beuf"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Saint-Jean-de-Br\u00e9beuf"
     ],
     "name:ita_x_preferred":[
@@ -52,8 +52,8 @@
     "name:nld_x_preferred":[
         "Johannes de Br\u00e9beuf"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646-\u0698\u0627\u0646-\u062f\u0648-\u0628\u0631\u0628\u0648\u0641\u060c \u06a9\u0628\u06a9"
+    "name:nld_x_variant":[
+        "Saint-Jean-de-Br\u00e9beuf"
     ],
     "name:pol_x_preferred":[
         "Jan de Br\u00e9beuf"
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":101738029,
-    "wof:lastmodified":1553815447,
+    "wof:lastmodified":1561844371,
     "wof:name":"Saint-Jean-de-Br\u00e9beuf",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

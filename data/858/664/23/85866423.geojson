@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1502358.206896,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.443175,43.644174,-79.443175,43.644174",
     "geom:latitude":43.644174,
     "geom:longitude":-79.443175,
@@ -51,7 +51,7 @@
     "name:fra_x_preferred":[
         "Roncevaux"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Roncesvalles"
     ],
     "name:glg_x_preferred":[
@@ -118,12 +118,13 @@
     "torsdfa:AREA_S_CD":"086",
     "wd:wordcount":368,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108905041,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871182,
+    "wof:lastmodified":1561844222,
     "wof:name":"Roncesvalles",
     "wof:parent_id":1108905041,
     "wof:placetype":"neighbourhood",

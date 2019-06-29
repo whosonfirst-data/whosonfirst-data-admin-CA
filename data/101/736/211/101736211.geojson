@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029752,
-    "geom:area_square_m":264723640.953133,
+    "geom:area_square_m":264723640.953173,
     "geom:bbox":"-80.3370084,43.8774448,-80.1306492,44.0849173",
     "geom:latitude":43.980507,
     "geom:longitude":-80.234351,
@@ -61,13 +61,16 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u062c \u062e\u0631\u0648\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u0627\u0631\u0627\u0646\u062a\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Revonh\u00e4nn\u00e4t"
     ],
     "name:fra_x_preferred":[
         "Amarante"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Amaranth"
     ],
     "name:gle_x_preferred":[
@@ -141,9 +144,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a1a\u0a41\u0a32\u0a3e\u0a08"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0627\u0631\u0627\u0646\u062a\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Szar\u0142at"
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":101736211,
-    "wof:lastmodified":1533269781,
+    "wof:lastmodified":1561844318,
     "wof:name":"Amaranth",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",

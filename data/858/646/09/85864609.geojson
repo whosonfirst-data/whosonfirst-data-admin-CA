@@ -24,11 +24,11 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u91cc\u5f17\u4ee3\u723e"
-    ],
     "name:eng_x_preferred":[
         "Riverdale"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5f17\u4ee3\u723e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -38,13 +38,13 @@
     "torsdfa:AREA_NAME":"North Riverdale (68)",
     "torsdfa:AREA_S_CD":"068",
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834627,
         85633041,
         101735835,
         1108833321,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272675,
+    "wof:lastmodified":1561844221,
     "wof:name":"Riverdale",
     "wof:parent_id":1108834627,
     "wof:placetype":"neighbourhood",

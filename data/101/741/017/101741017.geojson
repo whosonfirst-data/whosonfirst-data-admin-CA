@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003724,
-    "geom:area_square_m":29789201.91207,
+    "geom:area_square_m":29789201.912092,
     "geom:bbox":"-125.032013417,49.6468915662,-124.933148969,49.740814195",
     "geom:latitude":49.696139,
     "geom:longitude":-124.979741,
@@ -24,14 +24,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u099f\u09c7\u09a8\u09be\u09af\u09bc"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u7279\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Courtenay"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Courtenay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03c4\u03b5\u03bd\u03b5\u03cb"
     ],
     "name:eng_x_preferred":[
         "Courtenay"
@@ -45,14 +45,8 @@
     "name:fin_x_preferred":[
         "Courtenay"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Courtenay"
-    ],
-    "name:ger_x_preferred":[
-        "Courtenay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03c1\u03c4\u03b5\u03bd\u03b5\u03cb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acd\u0a9f\u0aa8\u0ac7"
@@ -84,14 +78,14 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0942\u0928\u091f\u0947\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Courtenay"
+    ],
+    "name:nld_x_preferred":[
         "Courtenay"
     ],
     "name:nob_x_preferred":[
         "Courtenay"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u062a\u0646\u06cc"
     ],
     "name:pol_x_preferred":[
         "Courtenay"
@@ -283,7 +277,7 @@
         }
     ],
     "wof:id":101741017,
-    "wof:lastmodified":1531521941,
+    "wof:lastmodified":1561844443,
     "wof:name":"Courtenay",
     "wof:parent_id":890458565,
     "wof:placetype":"locality",

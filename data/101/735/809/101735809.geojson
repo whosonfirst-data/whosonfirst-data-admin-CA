@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04672,
-    "geom:area_square_m":422827431.4321,
+    "geom:area_square_m":422827431.431666,
     "geom:bbox":"-81.3906556,42.8245154,-81.1070784,43.0730469",
     "geom:latitude":42.95344,
     "geom:longitude":-81.237845,
@@ -18,19 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
-    "name:alb_x_preferred":[
-        "London"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0646\u062f\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0576\u0564\u0578\u0576"
-    ],
     "name:ast_x_preferred":[
-        "London"
-    ],
-    "name:baq_x_preferred":[
         "London"
     ],
     "name:bel_x_preferred":[
@@ -45,11 +36,11 @@
     "name:cat_x_preferred":[
         "London"
     ],
-    "name:chi_x_preferred":[
-        "\u4f26\u6566"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "London"
+    ],
+    "name:cym_x_preferred":[
+        "Llundain"
     ],
     "name:dan_x_preferred":[
         "London"
@@ -57,8 +48,8 @@
     "name:deu_x_preferred":[
         "London"
     ],
-    "name:dut_x_preferred":[
-        "London"
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bd\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "London"
@@ -67,6 +58,9 @@
         "Londono"
     ],
     "name:est_x_preferred":[
+        "London"
+    ],
+    "name:eus_x_preferred":[
         "London"
     ],
     "name:fao_x_preferred":[
@@ -81,20 +75,8 @@
     "name:fra_x_preferred":[
         "London"
     ],
-    "name:fre_x_preferred":[
-        "London"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10dc\u10d3\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "London"
-    ],
     "name:gle_x_preferred":[
         "Londain"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03cc\u03bd\u03c4\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a82\u0aa1\u0aa8"
@@ -108,10 +90,13 @@
     "name:hun_x_preferred":[
         "London"
     ],
-    "name:ice_x_preferred":[
-        "London"
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0576\u0564\u0578\u0576"
     ],
     "name:ind_x_preferred":[
+        "London"
+    ],
+    "name:isl_x_preferred":[
         "London"
     ],
     "name:ita_x_preferred":[
@@ -141,7 +126,7 @@
     "name:mar_x_preferred":[
         "\u0932\u0902\u0921\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "London"
     ],
     "name:nld_x_preferred":[
@@ -162,9 +147,6 @@
     "name:oss_x_preferred":[
         "\u041b\u043e\u043d\u0434\u043e\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0646\u062f\u0646\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u0646\u062f\u0646"
     ],
@@ -180,13 +162,16 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0db1\u0dca\u0da9\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "London"
     ],
     "name:slv_x_preferred":[
         "London"
     ],
     "name:spa_x_preferred":[
+        "London"
+    ],
+    "name:sqi_x_preferred":[
         "London"
     ],
     "name:srd_x_preferred":[
@@ -227,9 +212,6 @@
     ],
     "name:war_x_preferred":[
         "London"
-    ],
-    "name:wel_x_preferred":[
-        "Llundain"
     ],
     "name:zho_x_preferred":[
         "\u4f26\u6566"
@@ -373,7 +355,7 @@
         }
     ],
     "wof:id":101735809,
-    "wof:lastmodified":1533272710,
+    "wof:lastmodified":1561844481,
     "wof:name":"London",
     "wof:parent_id":890457469,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":2166729.097638,
+    "geom:area_square_m":2166729.097628,
     "geom:bbox":"-75.7020119999,45.3941300002,-75.6795469999,45.4122729996",
     "geom:latitude":45.402506,
     "geom:longitude":-75.689908,
@@ -25,13 +25,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Glebe"
+    ],
     "name:eng_x_preferred":[
         "The Glebe"
     ],
     "name:eng_x_variant":[
-        "Glebe"
-    ],
-    "name:ger_x_preferred":[
         "Glebe"
     ],
     "name:rus_x_preferred":[
@@ -47,12 +47,12 @@
     "wd:longitude":-75.6922,
     "wd:wordcount":1620,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277891,
+    "wof:lastmodified":1561844221,
     "wof:name":"The Glebe",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

@@ -6,7 +6,7 @@
     "edtf:deprecated":"2017-05-05",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":429481759.320929,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.443196,45.530921,-73.443196,45.530921",
     "geom:latitude":45.530921,
     "geom:longitude":-73.443196,
@@ -31,11 +31,11 @@
     "name:fra_x_preferred":[
         "R\u00e9seau de transport de Longueuil"
     ],
+    "name:fra_x_variant":[
+        "Rive-Sud de Montr\u00e9al"
+    ],
     "name:fre_x_colloquial":[
         "Rive-Sud de Montreal"
-    ],
-    "name:fre_x_preferred":[
-        "Rive-Sud de Montr\u00e9al"
     ],
     "name:unk_x_variant":[
         "Rive-Sud de Montr\u00e9al"
@@ -67,11 +67,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961051
+        1108961051,
+        136251273
     ],
     "wof:breaches":[
         85864415
@@ -95,7 +95,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931906,
+    "wof:lastmodified":1561844218,
     "wof:name":"Rive-Sud de Montr\u00e9al",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

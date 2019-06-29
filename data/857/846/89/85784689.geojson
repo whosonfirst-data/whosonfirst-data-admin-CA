@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017815,
-    "geom:area_square_m":154872611.818301,
+    "geom:area_square_m":154872611.818235,
     "geom:bbox":"-76.233999,45.2717889999,-75.9222110001,45.3840290002",
     "geom:latitude":45.327813,
     "geom:longitude":-76.078843,
@@ -30,6 +30,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Carp"
+    ],
     "name:eng_x_preferred":[
         "Carp"
     ],
@@ -37,12 +40,6 @@
         "Carp"
     ],
     "name:fra_x_preferred":[
-        "Carp"
-    ],
-    "name:fre_x_preferred":[
-        "Carp"
-    ],
-    "name:ger_x_preferred":[
         "Carp"
     ],
     "name:rus_x_preferred":[
@@ -58,12 +55,12 @@
     "wd:longitude":-76.0333,
     "wd:wordcount":856,
     "wof:belongsto":[
-        85682057,
         102191575,
         1125978557,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277887,
+    "wof:lastmodified":1561844188,
     "wof:name":"Carp",
     "wof:parent_id":1125978557,
     "wof:placetype":"neighbourhood",
