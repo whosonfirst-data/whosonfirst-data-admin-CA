@@ -18,23 +18,20 @@
     "mps:longitude":-113.584752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u5fb7\u8499\u987f\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Edmonton International Airport"
     ],
     "name:eng_x_preferred":[
         "Edmonton International Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u062f\u0645\u0648\u0646\u062a\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Edmontonin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international d'Edmonton"
-    ],
-    "name:ger_x_preferred":[
-        "Edmonton International Airport"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Edmonton"
@@ -45,14 +42,14 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30c9\u30e2\u30f3\u30c8\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Edmonton"
+    ],
+    "name:nld_x_preferred":[
+        "Edmonton International Airport"
     ],
     "name:nob_x_preferred":[
         "Edmonton internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u062f\u0645\u0648\u0646\u062a\u0648\u0646"
     ],
     "name:pms_x_preferred":[
         "Edmonton International Airport"
@@ -77,6 +74,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Edmonton"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5fb7\u8499\u987f\u56fd\u9645\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":102554473,
-    "wof:lastmodified":1542838283,
+    "wof:lastmodified":1561844183,
     "wof:name":"Edmonton International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

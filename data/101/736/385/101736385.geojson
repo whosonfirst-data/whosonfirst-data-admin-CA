@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031047,
-    "geom:area_square_m":278267999.21843,
+    "geom:area_square_m":278267999.218433,
     "geom:bbox":"-80.8690217,43.4680793,-80.6081097,43.6484184",
     "geom:latitude":43.544669,
     "geom:longitude":-80.727777,
@@ -19,13 +19,10 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u064a\u0633\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u885b\u65af\u7406\u9109"
-    ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Wellesley"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Wellesley"
     ],
     "name:pol_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:spa_x_preferred":[
         "Wellesley"
+    ],
+    "name:zho_x_preferred":[
+        "\u885b\u65af\u7406\u9109"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101736385,
-    "wof:lastmodified":1533262102,
+    "wof:lastmodified":1561844333,
     "wof:name":"Wellesley",
     "wof:parent_id":890456483,
     "wof:placetype":"locality",

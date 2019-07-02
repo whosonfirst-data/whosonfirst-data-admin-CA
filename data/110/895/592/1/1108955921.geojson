@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":171298.510444,
+    "geom:area_square_m":171298.510445,
     "geom:bbox":"-73.5639758268,45.5048188186,-73.5570140117,45.5111823934",
     "geom:latitude":45.507995,
     "geom:longitude":-73.560368,
@@ -20,10 +20,7 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":19.0,
     "mz:min_zoom":16.0,
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u5229\u5c14\u5510\u4eba\u8857"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chinatown"
     ],
     "name:eng_x_preferred":[
@@ -33,19 +30,17 @@
         "Quartier Chinois"
     ],
     "name:fra_x_variant":[
-        "Chinatown"
-    ],
-    "name:fre_x_preferred":[
+        "Chinatown",
         "quartier chinois de Montr\u00e9al"
-    ],
-    "name:ger_x_preferred":[
-        "Chinatown"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pekan Cina"
+    ],
+    "name:nld_x_preferred":[
+        "Chinatown"
     ],
     "name:por_x_preferred":[
         "Chinatown de Montreal"
@@ -55,6 +50,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6eff\u5730\u53ef\u5510\u4eba\u8857"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u5229\u5c14\u5510\u4eba\u8857"
     ],
     "reversegeo:latitude":45.508,
     "reversegeo:longitude":-73.560369,
@@ -88,7 +86,7 @@
         }
     ],
     "wof:id":1108955921,
-    "wof:lastmodified":1533277854,
+    "wof:lastmodified":1561844244,
     "wof:name":"Quartier Chinois",
     "wof:parent_id":420784405,
     "wof:placetype":"microhood",

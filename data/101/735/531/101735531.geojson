@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008363,
-    "geom:area_square_m":66766360.822152,
+    "geom:area_square_m":66766360.822081,
     "geom:bbox":"-92.86127,49.7421641,-92.6332984,49.8151415",
     "geom:latitude":49.786208,
     "geom:longitude":-92.757673,
@@ -27,14 +27,14 @@
     "name:ceb_x_preferred":[
         "Dryden"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u8d56\u767b"
-    ],
     "name:dan_x_preferred":[
         "Dryden"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dryden"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c1\u03ac\u03b9\u03bd\u03c4\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dryden"
@@ -47,15 +47,6 @@
     ],
     "name:fra_x_preferred":[
         "Dryden"
-    ],
-    "name:fre_x_preferred":[
-        "Dryden"
-    ],
-    "name:ger_x_preferred":[
-        "Dryden"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03c1\u03ac\u03b9\u03bd\u03c4\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acd\u0ab0\u0abe\u0aaf\u0aa1\u0ac7\u0aa8"
@@ -90,14 +81,14 @@
     "name:mar_x_preferred":[
         "\u0921\u094d\u0930\u093e\u092f\u0921\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dryden"
+    ],
+    "name:nld_x_preferred":[
         "Dryden"
     ],
     "name:nob_x_preferred":[
         "Dryden"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u0627\u06cc\u062f\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0688\u0631\u0626 \u0688\u0646"
@@ -288,7 +279,7 @@
         }
     ],
     "wof:id":101735531,
-    "wof:lastmodified":1534379246,
+    "wof:lastmodified":1561844475,
     "wof:name":"Dryden",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

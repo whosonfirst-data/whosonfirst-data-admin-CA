@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005802,
-    "geom:area_square_m":42911609.971484,
+    "geom:area_square_m":42911609.971461,
     "geom:bbox":"-113.610577796,53.2360101477,-113.488648751,53.3086838872",
     "geom:latitude":53.26566,
     "geom:longitude":-113.54578,
@@ -33,17 +33,17 @@
     "name:cat_x_preferred":[
         "Leduc"
     ],
-    "name:chi_x_preferred":[
-        "\u52d2\u675c\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leduc"
     ],
     "name:dan_x_preferred":[
         "Leduc"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Leduc"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bd\u03c4\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Leduc"
@@ -60,14 +60,8 @@
     "name:fin_x_preferred":[
         "Leduc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leduc"
-    ],
-    "name:ger_x_preferred":[
-        "Leduc"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03bd\u03c4\u03bf\u03cd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aa1\u0ac1\u0a95"
@@ -78,10 +72,10 @@
     "name:hun_x_preferred":[
         "Leduc"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Leduc"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Leduc"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +102,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0947\u0921\u094d\u092f\u0942\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Leduc"
+    ],
+    "name:nld_x_preferred":[
         "Leduc"
     ],
     "name:nno_x_preferred":[
@@ -116,9 +113,6 @@
     ],
     "name:nob_x_preferred":[
         "Leduc"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u062f\u0648\u06a9"
     ],
     "name:pol_x_preferred":[
         "Leduc"
@@ -213,7 +207,7 @@
         }
     ],
     "wof:id":890456995,
-    "wof:lastmodified":1553816405,
+    "wof:lastmodified":1561844522,
     "wof:name":"Leduc",
     "wof:parent_id":1158863201,
     "wof:placetype":"locality",

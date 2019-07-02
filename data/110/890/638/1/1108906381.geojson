@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":3146148.229678,
+    "geom:area_square_m":3146148.229685,
     "geom:bbox":"-79.228892299,43.726764125,-79.204708671,43.751131878",
     "geom:latitude":43.738652,
     "geom:longitude":-79.216813,
@@ -20,11 +20,11 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:chi_x_preferred":[
-        "\u58eb\u5609\u5821\u6751"
-    ],
     "name:eng_x_preferred":[
         "Scarborough Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u5609\u5821\u6751"
     ],
     "reversegeo:latitude":43.738621,
     "reversegeo:longitude":-79.217043,
@@ -32,12 +32,12 @@
     "torsdfa:AREA_NAME":"Scarborough Village (139)",
     "torsdfa:AREA_S_CD":"139",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":1108906381,
-    "wof:lastmodified":1533272667,
+    "wof:lastmodified":1561844251,
     "wof:name":"Scarborough Village",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

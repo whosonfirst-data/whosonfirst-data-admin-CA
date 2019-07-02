@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033493,
-    "geom:area_square_m":299189624.231082,
+    "geom:area_square_m":299189624.230972,
     "geom:bbox":"-80.2612184,43.6290967,-79.9690409,43.8615429",
     "geom:latitude":43.744743,
     "geom:longitude":-80.114492,
@@ -26,25 +26,19 @@
     "name:ceb_x_preferred":[
         "Erin"
     ],
-    "name:chi_x_preferred":[
-        "\u611b\u84ee\u93ae"
-    ],
     "name:cos_x_preferred":[
         "Erin"
     ],
     "name:dan_x_preferred":[
         "Erin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Erin"
     ],
     "name:eng_x_preferred":[
         "Erin"
     ],
-    "name:fre_x_preferred":[
-        "Erin"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Erin"
     ],
     "name:hbs_x_preferred":[
@@ -59,13 +53,16 @@
     "name:nds_x_preferred":[
         "Erin"
     ],
+    "name:nld_x_preferred":[
+        "Erin"
+    ],
     "name:pol_x_preferred":[
         "Erin"
     ],
     "name:por_x_preferred":[
         "Erin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Erin"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +79,9 @@
     ],
     "name:tah_x_preferred":[
         "Erin"
+    ],
+    "name:zho_x_preferred":[
+        "\u611b\u84ee\u93ae"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":101736161,
-    "wof:lastmodified":1533270163,
+    "wof:lastmodified":1561844315,
     "wof:name":"Erin",
     "wof:parent_id":890456827,
     "wof:placetype":"locality",

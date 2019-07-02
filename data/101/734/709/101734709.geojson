@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003376,
-    "geom:area_square_m":24085655.443963,
+    "geom:area_square_m":24085655.443957,
     "geom:bbox":"-101.884664,54.7334324,-101.8033943,54.7991373",
     "geom:latitude":54.767407,
     "geom:longitude":-101.832954,
@@ -27,11 +27,17 @@
     "name:cat_x_preferred":[
         "Flin Flon"
     ],
+    "name:cym_x_preferred":[
+        "Flin Flon"
+    ],
     "name:dan_x_preferred":[
         "Flin Flon"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Flin Flon"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03b9\u03bd \u03a6\u03bb\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Flin Flon"
@@ -48,25 +54,16 @@
     "name:fra_x_preferred":[
         "Flin Flon"
     ],
-    "name:fre_x_preferred":[
-        "Flin Flon"
-    ],
-    "name:ger_x_preferred":[
-        "Flin Flon"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03b9\u03bd \u03a6\u03bb\u03bf\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab2\u0ac0\u0aa8 \u0aab\u0ab2\u0acb\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u092b\u094d\u0932\u093f\u0928 \u092b\u094d\u0932\u094b\u0928"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Flin Flon"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Flin Flon"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +90,10 @@
     "name:mar_x_preferred":[
         "\u092b\u094d\u0932\u093f\u0902 \u092b\u094d\u0932\u0949\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Flin Flon"
+    ],
+    "name:nld_x_preferred":[
         "Flin Flon"
     ],
     "name:nno_x_preferred":[
@@ -101,9 +101,6 @@
     ],
     "name:nob_x_preferred":[
         "Flin Flon"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0644\u06cc\u0646 \u0641\u0644\u0648\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0644\u0646 \u0641\u0644\u0648\u0646"
@@ -151,9 +148,6 @@
         "Flin Flon"
     ],
     "name:vol_x_preferred":[
-        "Flin Flon"
-    ],
-    "name:wel_x_preferred":[
         "Flin Flon"
     ],
     "ne:ADM0CAP":0.0,
@@ -302,7 +296,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523811,
+    "wof:lastmodified":1561844448,
     "wof:name":"Flin Flon",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

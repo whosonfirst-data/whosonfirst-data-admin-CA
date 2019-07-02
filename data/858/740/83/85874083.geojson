@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":3342482.861166,
+    "geom:area_square_m":3342482.86117,
     "geom:bbox":"-75.7132399996,45.4050039998,-75.6807159998,45.4267009995",
     "geom:latitude":45.416337,
     "geom:longitude":-75.696719,
@@ -32,14 +32,14 @@
     "name:ceb_x_preferred":[
         "Centretown"
     ],
+    "name:deu_x_preferred":[
+        "Centretown"
+    ],
     "name:eng_x_preferred":[
         "Centretown"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Centre-Ville"
-    ],
-    "name:ger_x_preferred":[
-        "Centretown"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0435\u0440\u0442\u0430\u0443\u043d"
@@ -58,12 +58,12 @@
     "wd:longitude":-75.6944,
     "wd:wordcount":939,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277897,
+    "wof:lastmodified":1561844216,
     "wof:name":"Centretown",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

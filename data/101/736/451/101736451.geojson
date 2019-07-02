@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1874",
     "geom:area":0.000462,
-    "geom:area_square_m":4009090.766366,
+    "geom:area_square_m":4009090.76637,
     "geom:bbox":"-73.6184234552,45.474070883,-73.5806528871,45.4952769145",
     "geom:latitude":45.485341,
     "geom:longitude":-73.600718,
@@ -23,12 +23,6 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0633\u0645\u0627\u0648\u0646\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u057d\u0569\u0574\u0561\u0578\u0582\u0576\u0569"
-    ],
-    "name:baq_x_preferred":[
-        "Westmount"
-    ],
     "name:bel_x_preferred":[
         "\u0423\u044d\u0441\u0442\u043c\u0430\u045e\u043d\u0442"
     ],
@@ -38,28 +32,25 @@
     "name:cat_x_preferred":[
         "Westmount"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u5cf0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Westmount"
     ],
     "name:dan_x_preferred":[
         "Westmount"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Westmount"
     ],
     "name:eng_x_preferred":[
         "Westmount"
     ],
+    "name:eus_x_preferred":[
+        "Westmount"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0633\u062a\u0645\u0648\u0646\u062a\u060c \u06a9\u0628\u06a9"
     ],
-    "name:fre_x_preferred":[
-        "Westmount"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Westmount"
     ],
     "name:glg_x_preferred":[
@@ -71,11 +62,17 @@
     "name:hrv_x_preferred":[
         "Westmount"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u057d\u0569\u0574\u0561\u0578\u0582\u0576\u0569"
+    ],
     "name:ita_x_preferred":[
         "Westmount"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a8\u30b9\u30c8\u30de\u30a6\u30f3\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "Westmount"
     ],
     "name:nno_x_preferred":[
         "Westmount"
@@ -85,9 +82,6 @@
     ],
     "name:oci_x_preferred":[
         "Westmount"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0633\u062a\u0645\u0648\u0646\u062a\u060c \u06a9\u0628\u06a9"
     ],
     "name:pol_x_preferred":[
         "Westmount"
@@ -109,6 +103,9 @@
     ],
     "name:tur_x_preferred":[
         "Westmount"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5cf0"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -154,7 +151,7 @@
         }
     ],
     "wof:id":101736451,
-    "wof:lastmodified":1553815396,
+    "wof:lastmodified":1561844345,
     "wof:name":"Westmount",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

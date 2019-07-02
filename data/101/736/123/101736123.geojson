@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003005,
-    "geom:area_square_m":26471589.564292,
+    "geom:area_square_m":26471589.564288,
     "geom:bbox":"-80.9637208,44.5408993,-80.8918575,44.6095408",
     "geom:latitude":44.576123,
     "geom:longitude":-80.927068,
@@ -24,13 +24,10 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0646 \u0633\u0627\u0648\u0646\u062f"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u96f2\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Owen Sound"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Owen Sound"
     ],
     "name:eng_x_preferred":[
@@ -39,17 +36,14 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0648\u0646 \u0633\u0627\u0648\u0646\u062f"
     ],
-    "name:fre_x_preferred":[
-        "Owen Sound"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Owen Sound"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30a6\u30a7\u30f3\u30b5\u30a6\u30f3\u30c9"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0648\u0646 \u0633\u0627\u0648\u0646\u062f"
+    "name:nld_x_preferred":[
+        "Owen Sound"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0648\u0646 \u0633\u0627\u0624\u0646\u0688"
@@ -63,7 +57,7 @@
     "name:rus_x_preferred":[
         "\u041e\u0443\u044d\u043d-\u0421\u0430\u0443\u043d\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Owen Sound"
     ],
     "name:slv_x_preferred":[
@@ -80,6 +74,9 @@
     ],
     "name:vol_x_preferred":[
         "Owen Sound"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u96f2\u7063"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -225,7 +222,7 @@
         }
     ],
     "wof:id":101736123,
-    "wof:lastmodified":1533269744,
+    "wof:lastmodified":1561844348,
     "wof:name":"Owen Sound",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",

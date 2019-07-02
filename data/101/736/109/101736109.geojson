@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031501,
-    "geom:area_square_m":280104316.86218,
+    "geom:area_square_m":280104316.862247,
     "geom:bbox":"-80.1716115,43.9227389,-79.9512071,44.1232359",
     "geom:latitude":44.019551,
     "geom:longitude":-80.060768,
@@ -26,16 +26,10 @@
     "name:ces_x_preferred":[
         "Mono"
     ],
-    "name:chi_x_preferred":[
-        "\u8292\u632a\u9109"
-    ],
     "name:dan_x_preferred":[
         "Mono"
     ],
     "name:deu_x_preferred":[
-        "Mono"
-    ],
-    "name:dut_x_preferred":[
         "Mono"
     ],
     "name:eng_x_preferred":[
@@ -48,9 +42,6 @@
         "Mono"
     ],
     "name:fra_x_preferred":[
-        "Mono"
-    ],
-    "name:fre_x_preferred":[
         "Mono"
     ],
     "name:glg_x_preferred":[
@@ -116,6 +107,9 @@
     "name:zho_x_preferred":[
         "Mono"
     ],
+    "name:zho_x_variant":[
+        "\u8292\u632a\u9109"
+    ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
     "qs:a1_lc":"ON",
@@ -157,7 +151,7 @@
         }
     ],
     "wof:id":101736109,
-    "wof:lastmodified":1533269780,
+    "wof:lastmodified":1561844337,
     "wof:name":"Mono",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",

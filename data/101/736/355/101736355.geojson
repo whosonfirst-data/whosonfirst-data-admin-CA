@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08106,
-    "geom:area_square_m":745676567.27684,
+    "geom:area_square_m":745676567.276749,
     "geom:bbox":"-82.67375,41.6766087,-82.4578408,42.1716704",
     "geom:latitude":41.934242,
     "geom:longitude":-82.55901,
@@ -20,10 +20,7 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u660e\u9813"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Leamington"
     ],
     "name:eng_x_preferred":[
@@ -32,14 +29,14 @@
     "name:fin_x_preferred":[
         "Leamington"
     ],
-    "name:fre_x_preferred":[
-        "Leamington"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Leamington"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30df\u30f3\u30c8\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Leamington"
     ],
     "name:pol_x_preferred":[
         "Leamington"
@@ -58,6 +55,9 @@
     ],
     "name:swe_x_preferred":[
         "Leamington"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u660e\u9813"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101736355,
-    "wof:lastmodified":1553815395,
+    "wof:lastmodified":1561844317,
     "wof:name":"Leamington",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

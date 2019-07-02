@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017704,
-    "geom:area_square_m":150512062.066623,
+    "geom:area_square_m":150512062.066659,
     "geom:bbox":"-84.7242223,46.5202678,-84.4656157,46.6075957",
     "geom:latitude":46.565875,
     "geom:longitude":-84.572755,
@@ -51,9 +51,6 @@
     ],
     "name:diq_x_preferred":[
         "Prens"
-    ],
-    "name:dut_x_preferred":[
-        "Prince"
     ],
     "name:eng_x_preferred":[
         "Prince"
@@ -120,6 +117,9 @@
     ],
     "name:nld_x_preferred":[
         "Prins"
+    ],
+    "name:nld_x_variant":[
+        "Prince"
     ],
     "name:nno_x_preferred":[
         "Prins"
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":101735583,
-    "wof:lastmodified":1533276398,
+    "wof:lastmodified":1561844488,
     "wof:name":"Prince",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

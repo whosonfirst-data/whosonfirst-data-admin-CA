@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2258719.300062,
+    "geom:area_square_m":2258719.300064,
     "geom:bbox":"-79.548657455,43.580995995,-79.519040588,43.601279582",
     "geom:latitude":43.592362,
     "geom:longitude":-79.533345,
@@ -24,11 +24,11 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u6717\u5e03\u862d\u6cbb"
-    ],
     "name:eng_x_preferred":[
         "Long Branch"
+    ],
+    "name:zho_x_preferred":[
+        "\u6717\u5e03\u862d\u6cbb"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -38,13 +38,13 @@
     "torsdfa:AREA_NAME":"Long Branch (19)",
     "torsdfa:AREA_S_CD":"019",
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834661,
         85633041,
         101735835,
         1108833313,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272679,
+    "wof:lastmodified":1561844213,
     "wof:name":"Long Branch",
     "wof:parent_id":1108834661,
     "wof:placetype":"neighbourhood",

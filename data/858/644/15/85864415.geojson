@@ -6,7 +6,7 @@
     "edtf:deprecated":"2017-05-04",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":60520351.189612,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.425362,45.501148,-73.425362,45.501148",
     "geom:latitude":45.501148,
     "geom:longitude":-73.425362,
@@ -29,7 +29,7 @@
     "name:eng_x_preferred":[
         "Saint-Hubert"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "St Hubert"
     ],
     "name:fre_x_variant":[
@@ -65,11 +65,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961057
+        1108961057,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870888,
+    "wof:lastmodified":1561844214,
     "wof:name":"Saint-Hubert",
     "wof:parent_id":1108961057,
     "wof:placetype":"neighbourhood",

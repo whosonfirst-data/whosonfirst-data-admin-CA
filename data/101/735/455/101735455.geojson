@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024343,
-    "geom:area_square_m":106001946.304837,
+    "geom:area_square_m":106001946.304845,
     "geom:bbox":"-81.940242,69.3372554,-81.4594761,69.4336262",
     "geom:latitude":69.380764,
     "geom:longitude":-81.681002,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
-    "name:alb_x_preferred":[
-        "Iglulik"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u064a\u062c\u0644\u0648\u0644\u064a\u0643"
     ],
@@ -38,8 +35,8 @@
     "name:deu_x_preferred":[
         "Iglulik"
     ],
-    "name:dut_x_preferred":[
-        "Igloolik"
+    "name:ell_x_preferred":[
+        "\u0399\u03b3\u03ba\u03bb\u03bf\u03cd\u03bb\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Igloolik"
@@ -53,14 +50,8 @@
     "name:fra_x_preferred":[
         "Igloulik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Igloolik"
-    ],
-    "name:ger_x_preferred":[
-        "Iglulik"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b3\u03ba\u03bb\u03bf\u03cd\u03bb\u03b9\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a97\u0acd\u0ab2\u0ac2\u0ab2\u0abf\u0a95"
@@ -101,7 +92,10 @@
     "name:mar_x_preferred":[
         "\u0907\u0917\u094d\u0932\u0942\u0932\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Igloolik"
+    ],
+    "name:nld_x_preferred":[
         "Igloolik"
     ],
     "name:nob_x_preferred":[
@@ -294,7 +288,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533332572,
+    "wof:lastmodified":1561844466,
     "wof:name":"Igloolik",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

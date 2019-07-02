@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1141554.060165,
+    "geom:area_square_m":1141554.060168,
     "geom:bbox":"-123.374089127,48.4255554545,-123.35723877,48.4364899559",
     "geom:latitude":48.431622,
     "geom:longitude":-123.366292,
@@ -24,14 +24,14 @@
     "mz:max_zoom":19.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u7dad\u591a\u5229\u4e9e\u5510\u4eba\u8857"
-    ],
     "name:eng_x_preferred":[
         "Chinatown"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "quartier chinois de Victoria"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u591a\u5229\u4e9e\u5510\u4eba\u8857"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -41,11 +41,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":8212,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740879,
-        890456487,
-        85682117
+        890456487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531520062,
+    "wof:lastmodified":1561844219,
     "wof:name":"Chinatown",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

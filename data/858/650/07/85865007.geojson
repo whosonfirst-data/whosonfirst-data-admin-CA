@@ -25,14 +25,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u56fa\u862d\u570d\uff0d\u6d3b\u502b\u5340"
-    ],
     "name:eng_x_preferred":[
         "Grandview-Woodland"
     ],
     "name:unk_x_variant":[
         "Grandview-Woodland"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fa\u862d\u570d\uff0d\u6d3b\u502b\u5340"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -69,11 +69,11 @@
     "vanpds:NAME":"Grandview-Woodland",
     "wd:wordcount":633,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741075,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521038,
+    "wof:lastmodified":1561844215,
     "wof:name":"Grandview-Woodland",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

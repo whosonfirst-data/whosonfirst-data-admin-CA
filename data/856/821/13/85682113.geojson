@@ -31,9 +31,6 @@
     "name:afr_x_preferred":[
         "Saskatchewan"
     ],
-    "name:alb_x_preferred":[
-        "Saskatchewan"
-    ],
     "name:ang_x_preferred":[
         "Sascatcewan"
     ],
@@ -43,17 +40,11 @@
     "name:arc_x_preferred":[
         "\u0723\u0710\u0723\u0729\u0710\u072c\u072b\u0718\u0710\u0722"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u057d\u056f\u0561\u0579\u0587\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "Saska\u00e7evan"
     ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Saskatchewan"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u0441\u043a\u0430\u0447\u044d\u0432\u0430\u043d"
@@ -70,9 +61,6 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1006\u1000\u103a\u1005\u1000\u1000\u103a\u1001\u103b\u102e\u101d\u1019\u103a\u1014\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
     ],
@@ -82,19 +70,19 @@
     "name:cdo_x_preferred":[
         "Saskatchewan"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u65af\u5580\u5fb9\u6eab"
+    "name:ces_x_preferred":[
+        "Saskatchewan"
     ],
     "name:cor_x_preferred":[
         "Saskatchewan"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Saskatchewan"
     ],
     "name:dan_x_preferred":[
         "Saskatchewan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saskatchewan"
     ],
     "name:ell_x_preferred":[
@@ -109,11 +97,17 @@
     "name:est_x_preferred":[
         "Saskatchewani provints"
     ],
+    "name:eus_x_preferred":[
+        "Saskatchewan"
+    ],
     "name:fao_x_preferred":[
         "Saskatchewan"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0633\u06a9\u0627\u0686\u0648\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0633\u06a9\u0686\u0648\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Saskatchewan"
@@ -121,19 +115,10 @@
     "name:fra_x_preferred":[
         "Saskatchewan"
     ],
-    "name:fre_x_preferred":[
-        "Saskatchewan"
-    ],
     "name:frr_x_preferred":[
         "Saskatchewan"
     ],
     "name:fry_x_preferred":[
-        "Saskatchewan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e1\u10d9\u10d0\u10e9\u10d4\u10d5\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Saskatchewan"
     ],
     "name:gla_x_preferred":[
@@ -147,9 +132,6 @@
     ],
     "name:glv_x_preferred":[
         "Saskatchewan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c3\u03ba\u03ac\u03c4\u03c3\u03bf\u03c5\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab8\u0acd\u0a95\u0abe\u0a9f\u0a9a\u0ac7\u0ab5\u0aa8"
@@ -172,13 +154,13 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u057d\u056f\u0561\u0579\u0587\u0561\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Saskatchewan"
-    ],
     "name:ido_x_preferred":[
         "Saskatchewan"
     ],
     "name:ind_x_preferred":[
+        "Saskatchewan"
+    ],
+    "name:isl_x_preferred":[
         "Saskatchewan"
     ],
     "name:ita_x_preferred":[
@@ -220,20 +202,17 @@
     "name:ltz_x_preferred":[
         "Saskatchewan"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0938\u094d\u0915\u093e\u091a\u0947\u0935\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Saskatchewan"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Saskatchewan"
     ],
     "name:mya_x_preferred":[
         "\u1006\u1000\u103a\u1005\u1000\u1000\u103a\u1001\u103b\u102e\u101d\u1019\u103a\u1014\u101a\u103a"
@@ -242,6 +221,9 @@
         "Saskatchewan"
     ],
     "name:nan_x_preferred":[
+        "Saskatchewan"
+    ],
+    "name:nld_x_preferred":[
         "Saskatchewan"
     ],
     "name:nno_x_preferred":[
@@ -265,9 +247,6 @@
     "name:pap_x_preferred":[
         "Saskatchewan"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0633\u06a9\u0686\u0648\u0627\u0646"
-    ],
     "name:pms_x_preferred":[
         "Saskatchewan"
     ],
@@ -283,7 +262,7 @@
     "name:que_x_preferred":[
         "Saskatchewan pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saskatchewan"
     ],
     "name:rus_x_preferred":[
@@ -301,13 +280,16 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dc3\u0dca\u0d9a\u0da0\u0dd9\u0dc0\u0dcf\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saskatchewan"
     ],
     "name:slv_x_preferred":[
         "Saskatchewan"
     ],
     "name:spa_x_preferred":[
+        "Saskatchewan"
+    ],
+    "name:sqi_x_preferred":[
         "Saskatchewan"
     ],
     "name:srd_x_preferred":[
@@ -362,9 +344,6 @@
         "Saskatchewan"
     ],
     "name:war_x_preferred":[
-        "Saskatchewan"
-    ],
-    "name:wel_x_preferred":[
         "Saskatchewan"
     ],
     "name:wln_x_preferred":[
@@ -500,7 +479,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1553550689,
+    "wof:lastmodified":1561844211,
     "wof:name":"Saskatchewan",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

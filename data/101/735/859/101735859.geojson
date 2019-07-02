@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003233,
-    "geom:area_square_m":28467534.552307,
+    "geom:area_square_m":28467534.552326,
     "geom:bbox":"-79.4756507,44.5672121,-79.3699082,44.6477424",
     "geom:latitude":44.602512,
     "geom:longitude":-79.427977,
@@ -21,26 +21,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u064a\u0644\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0580\u056b\u056c\u056b\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09bf\u09b2\u09bf\u09af\u09bc\u09be"
     ],
     "name:ceb_x_preferred":[
         "Orillia"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u91cc\u5229\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Orillia"
     ],
     "name:dan_x_preferred":[
         "Orillia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Orillia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03af\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Orillia"
@@ -54,15 +51,6 @@
     "name:fra_x_preferred":[
         "Orillia"
     ],
-    "name:fre_x_preferred":[
-        "Orillia"
-    ],
-    "name:ger_x_preferred":[
-        "Orillia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03af\u03bb\u03b9\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0abf\u0ab2\u0abf\u0aaf\u0abe"
     ],
@@ -71,6 +59,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u093f\u0932\u093f\u092f\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u056b\u056c\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Orillia"
@@ -96,14 +87,14 @@
     "name:mar_x_preferred":[
         "\u0913\u0930\u093f\u0932\u0940\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Orillia"
+    ],
+    "name:nld_x_preferred":[
         "Orillia"
     ],
     "name:nob_x_preferred":[
         "Orillia"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u06cc\u0644\u06cc\u0627\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0631\u06cc\u0644\u06cc\u0627"
@@ -296,7 +287,7 @@
         }
     ],
     "wof:id":101735859,
-    "wof:lastmodified":1533257209,
+    "wof:lastmodified":1561844464,
     "wof:name":"Orillia",
     "wof:parent_id":890456339,
     "wof:placetype":"locality",

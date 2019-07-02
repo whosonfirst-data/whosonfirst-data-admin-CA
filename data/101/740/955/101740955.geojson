@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008252,
-    "geom:area_square_m":59288224.348537,
+    "geom:area_square_m":59288224.348582,
     "geom:bbox":"-128.662490146,54.4254096741,-128.512990838,54.5427271103",
     "geom:latitude":54.477359,
     "geom:longitude":-128.591173,
@@ -24,29 +24,26 @@
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09b0\u09c7\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u96f7\u65af"
-    ],
     "name:dan_x_preferred":[
         "Terrace"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Terrace"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c1\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Terrace"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0633\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Terrace"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Terrace"
-    ],
-    "name:ger_x_preferred":[
-        "Terrace"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03c1\u03ac\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0ab0\u0ac7\u0ab8"
@@ -78,14 +75,14 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u0930\u0947\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Terrace"
+    ],
+    "name:nld_x_preferred":[
         "Terrace"
     ],
     "name:nob_x_preferred":[
         "Terrace"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0633\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Terrace"
@@ -131,6 +128,9 @@
     ],
     "name:vol_x_preferred":[
         "Terrace"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u96f7\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -274,7 +274,7 @@
         }
     ],
     "wof:id":101740955,
-    "wof:lastmodified":1531521707,
+    "wof:lastmodified":1561844383,
     "wof:name":"Terrace",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

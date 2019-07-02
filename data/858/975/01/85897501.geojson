@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000432,
-    "geom:area_square_m":3737651.16141,
+    "geom:area_square_m":3737651.161407,
     "geom:bbox":"-73.6769383963,45.545882751,-73.645373662,45.57184579",
     "geom:latitude":45.558141,
     "geom:longitude":-73.660373,
@@ -30,9 +30,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:dut_x_preferred":[
-        "Sault-au-R\u00e9collet"
-    ],
     "name:eng_x_preferred":[
         "Vieux Sault-au-R\u00e9collet"
     ],
@@ -45,7 +42,7 @@
     "name:fra_x_variant":[
         "Vieux Sault-au-R\u00e9collet"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Sault-au-R\u00e9collet"
     ],
     "qs:gn_id":0,
@@ -55,13 +52,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         1108955857,
         85633041,
         101736545,
         1108906763,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +85,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533277839,
+    "wof:lastmodified":1561844225,
     "wof:name":"Vieux Sault-au-R\u00e9collet",
     "wof:parent_id":1108955857,
     "wof:placetype":"neighbourhood",

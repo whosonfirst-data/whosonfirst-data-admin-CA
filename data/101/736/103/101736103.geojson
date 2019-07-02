@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065031,
-    "geom:area_square_m":597760491.845001,
+    "geom:area_square_m":597760491.845016,
     "geom:bbox":"-83.0118417,41.7551011,-82.8018419,42.1845292",
     "geom:latitude":41.98256,
     "geom:longitude":-82.908364,
@@ -20,26 +20,23 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u064a\u0643\u0633\u060c \u0623\u0648\u0646\u062a\u0627\u0631\u064a\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u585e\u514b\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Essex"
     ],
     "name:eng_x_preferred":[
         "Essex"
     ],
-    "name:fre_x_preferred":[
-        "Essex"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u0633\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Essex"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30bb\u30c3\u30af\u30b9"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u06a9\u0633\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
+    "name:nld_x_preferred":[
+        "Essex"
     ],
     "name:pol_x_preferred":[
         "Essex"
@@ -55,6 +52,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u0441\u0435\u043a\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u585e\u514b\u65af"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101736103,
-    "wof:lastmodified":1553815393,
+    "wof:lastmodified":1561844314,
     "wof:name":"Essex",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

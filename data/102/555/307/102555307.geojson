@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1968",
     "geom:area":0.001424,
-    "geom:area_square_m":11506207.342879,
+    "geom:area_square_m":11506207.342874,
     "geom:bbox":"-123.209321192,49.1775778755,-123.148890365,49.2076005722",
     "geom:latitude":49.193527,
     "geom:longitude":-123.177538,
@@ -28,17 +28,17 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional de Vancouver"
     ],
-    "name:chi_x_preferred":[
-        "\u6eab\u54e5\u83ef\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vancouver International Airport"
     ],
     "name:dan_x_preferred":[
         "Vancouver International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Vancouver International Airport"
+    "name:deu_x_preferred":[
+        "Vancouver international Airport"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u03b1\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0392\u03b1\u03bd\u03ba\u03bf\u03cd\u03b2\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Vancouver International Airport"
@@ -47,17 +47,14 @@
         "YVR",
         "CYVR"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0646\u06a9\u0648\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Vancouverin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Vancouver"
-    ],
-    "name:ger_x_preferred":[
-        "Vancouver international Airport"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u03b1\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0392\u03b1\u03bd\u03ba\u03bf\u03cd\u03b2\u03b5\u03c1"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05e0\u05e7\u05d5\u05d1\u05e8"
@@ -80,17 +77,17 @@
     "name:kor_x_preferred":[
         "\ubc34\ucfe0\ubc84 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Vancouver"
+    ],
+    "name:nld_x_preferred":[
+        "Vancouver International Airport"
     ],
     "name:nob_x_preferred":[
         "Vancouver internasjonale lufthavn"
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a48\u0a28\u0a15\u0a42\u0a35\u0a30 \u0a15\u0a4c\u0a2e\u0a3e\u0a02\u0a24\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0646\u06a9\u0648\u0648\u0631"
     ],
     "name:pms_x_preferred":[
         "Vancouver International Airport"
@@ -104,7 +101,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u043d\u043a\u0443\u0432\u0435\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Medzin\u00e1rodn\u00e9 letisko Vancouver"
     ],
     "name:spa_x_preferred":[
@@ -126,6 +123,9 @@
         "S\u00e2n bay qu\u1ed1c t\u1ebf Vancouver"
     ],
     "name:yue_x_preferred":[
+        "\u6eab\u54e5\u83ef\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
         "\u6eab\u54e5\u83ef\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"14",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":102555307,
-    "wof:lastmodified":1527637353,
+    "wof:lastmodified":1561844182,
     "wof:name":"Vancouver International Airport",
     "wof:parent_id":1108952593,
     "wof:placetype":"campus",

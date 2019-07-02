@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007257,
-    "geom:area_square_m":65107831.01807,
+    "geom:area_square_m":65107831.018088,
     "geom:bbox":"-80.6260904,43.432227,-80.4673616,43.53121",
     "geom:latitude":43.480249,
     "geom:longitude":-80.54462,
@@ -17,23 +17,23 @@
     "mps:longitude":-80.539218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Waterloo"
-    ],
     "name:ara_x_preferred":[
         "\u0648\u0627\u062a\u0631\u0644\u0648"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u099f\u09be\u09b0\u09b2\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u6ed1\u9435\u76e7"
+    "name:cym_x_preferred":[
+        "Waterloo"
     ],
     "name:dan_x_preferred":[
         "Waterloo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Waterloo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03bf\u03c4\u03b5\u03c1\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Waterloo"
@@ -41,17 +41,14 @@
     "name:epo_x_preferred":[
         "Waterloo"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062a\u0631\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Waterloo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Waterloo"
-    ],
-    "name:ger_x_preferred":[
-        "Waterloo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03bf\u03c4\u03b5\u03c1\u03bb\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acb\u0a9f\u0ab0\u0ab2\u0ac2"
@@ -80,20 +77,20 @@
     "name:lit_x_preferred":[
         "Vaterlu"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u043e\u0442\u0435\u0440\u043b\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u0949\u091f\u0930\u0932\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u0442\u0435\u0440\u043b\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Waterloo"
+    ],
+    "name:nld_x_preferred":[
         "Waterloo"
     ],
     "name:nob_x_preferred":[
         "Waterloo"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u062a\u0631\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Waterloo"
@@ -108,6 +105,9 @@
         "\u0dc0\u0ddd\u0da7\u0dbb\u0dca\u0dbd\u0dd4"
     ],
     "name:spa_x_preferred":[
+        "Waterloo"
+    ],
+    "name:sqi_x_preferred":[
         "Waterloo"
     ],
     "name:srp_x_preferred":[
@@ -146,11 +146,11 @@
     "name:vol_x_preferred":[
         "Waterloo"
     ],
-    "name:wel_x_preferred":[
-        "Waterloo"
-    ],
     "name:zho_x_preferred":[
         "\u6ed1\u94c1\u5362"
+    ],
+    "name:zho_x_variant":[
+        "\u6ed1\u9435\u76e7"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":101736191,
-    "wof:lastmodified":1553815394,
+    "wof:lastmodified":1561844337,
     "wof:name":"Waterloo",
     "wof:parent_id":890456483,
     "wof:placetype":"locality",

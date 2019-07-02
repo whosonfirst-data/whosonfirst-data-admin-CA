@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.723778,
-    "geom:area_square_m":6630258026.80803,
+    "geom:area_square_m":6630258026.808355,
     "geom:bbox":"-82.8033448,41.6765594,-81.3792953,42.6514749",
     "geom:latitude":42.22055,
     "geom:longitude":-82.068515,
@@ -28,14 +28,14 @@
     "name:cat_x_preferred":[
         "Chatham-Kent"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u5854\u59c6-\u80af\u7279"
-    ],
     "name:dan_x_preferred":[
         "Chatham-Kent"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chatham-Kent"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03b8\u03b1\u03bc-\u039a\u03b5\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Chatham-Kent"
@@ -46,17 +46,14 @@
     "name:epo_x_preferred":[
         "Chatham-Kent"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u062a\u0647\u0627\u0645-\u06a9\u0646\u062a\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Chatham-Kent"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chatham-Kent"
-    ],
-    "name:ger_x_preferred":[
-        "Chatham-Kent"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ac\u03b8\u03b1\u03bc-\u039a\u03b5\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac5\u0aa5\u0aae-\u0a95\u0ac7\u0aa8\u0acd\u0a9f"
@@ -91,7 +88,10 @@
     "name:mar_x_preferred":[
         "\u091a\u0945\u0925\u092e-\u0915\u0947\u0902\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chatham-Kent"
+    ],
+    "name:nld_x_preferred":[
         "Chatham-Kent"
     ],
     "name:nob_x_preferred":[
@@ -99,9 +99,6 @@
     ],
     "name:oci_x_preferred":[
         "Chatham-Kent"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u062a\u0647\u0627\u0645-\u06a9\u0646\u062a\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u062a\u06be\u0645 \u06a9\u06cc\u0646\u0679"
@@ -157,6 +154,9 @@
     "name:war_x_preferred":[
         "Chatham-Kent"
     ],
+    "name:zho_x_preferred":[
+        "\u67e5\u5854\u59c6-\u80af\u7279"
+    ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
     "qs:a1_lc":"ON",
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":101735857,
-    "wof:lastmodified":1527714454,
+    "wof:lastmodified":1561844464,
     "wof:name":"Chatham-Kent",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

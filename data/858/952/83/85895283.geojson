@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000388,
-    "geom:area_square_m":3476506.582299,
+    "geom:area_square_m":3476506.582294,
     "geom:bbox":"-79.526706732,43.586986177,-79.496878702,43.613452637",
     "geom:latitude":43.600589,
     "geom:longitude":-79.510358,
@@ -24,11 +24,11 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u65b0\u591a\u502b\u591a"
-    ],
     "name:eng_x_preferred":[
         "New Toronto"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u591a\u502b\u591a"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -41,13 +41,13 @@
     "wd:longitude":-79.5053,
     "wd:wordcount":3223,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834661,
         85633041,
         101735835,
         1108833313,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272680,
+    "wof:lastmodified":1561844213,
     "wof:name":"New Toronto",
     "wof:parent_id":1108834661,
     "wof:placetype":"neighbourhood",

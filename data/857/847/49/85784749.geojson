@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4043135.80419,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.41606,43.696373,-79.41606,43.696373",
     "geom:latitude":43.696373,
     "geom:longitude":-79.41606,
@@ -28,14 +28,14 @@
     "name:eng_x_preferred":[
         "Forest Hill"
     ],
-    "name:fre_x_preferred":[
-        "Forest Hill"
-    ],
-    "name:may_x_preferred":[
-        "Forest Hill"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0641\u0631\u06cc\u0633\u062a \u0647\u06cc\u0644 \u0648\u06cc\u0644\u06cc\u062c\u060c \u0645\u0648\u0646\u062a\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:msa_x_preferred":[
+        "Forest Hill"
     ],
     "src:geom":"mz",
     "src:geom_alt":[
@@ -44,12 +44,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         1108904959,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860645,
+    "wof:lastmodified":1561844189,
     "wof:name":"Forest Hill",
     "wof:parent_id":1108904959,
     "wof:placetype":"neighbourhood",

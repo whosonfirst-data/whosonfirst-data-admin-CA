@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027856,
-    "geom:area_square_m":247187368.017202,
+    "geom:area_square_m":247187368.017146,
     "geom:bbox":"-79.5317261,44.0635364,-79.2761166,44.2233",
     "geom:latitude":44.139406,
     "geom:longitude":-79.407771,
@@ -22,19 +22,13 @@
     "name:ceb_x_preferred":[
         "East Gwillimbury"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u8cb4\u6797\u4f2f\u91cc"
-    ],
-    "name:dut_x_preferred":[
-        "East Gwillimbury"
-    ],
     "name:eng_x_preferred":[
         "East Gwillimbury"
     ],
     "name:fin_x_preferred":[
         "East Gwillimbury"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "East Gwillimbury"
     ],
     "name:hbs_x_preferred":[
@@ -45,6 +39,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b9\u30c8\u30fb\u30b0\u30a3\u30ea\u30f3\u30d0\u30ea\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "East Gwillimbury"
     ],
     "name:pol_x_preferred":[
         "East Gwillimbury"
@@ -60,6 +57,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0442-\u0413\u0432\u0456\u043b\u043b\u0456\u043c\u0431\u0435\u0440\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u8cb4\u6797\u4f2f\u91cc"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":101735877,
-    "wof:lastmodified":1533277173,
+    "wof:lastmodified":1561844477,
     "wof:name":"East Gwillimbury",
     "wof:parent_id":890458415,
     "wof:placetype":"locality",

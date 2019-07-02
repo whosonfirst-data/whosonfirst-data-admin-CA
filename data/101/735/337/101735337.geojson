@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022913,
-    "geom:area_square_m":193150735.943138,
+    "geom:area_square_m":193150735.943168,
     "geom:bbox":"-65.6174311,46.9246125,-65.3403302,47.1047154",
     "geom:latitude":47.02063,
     "geom:longitude":-65.50382,
@@ -29,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Miramichi"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u62c9\u7c73\u5951"
-    ],
     "name:dan_x_preferred":[
         "Miramichi"
     ],
     "name:deu_x_preferred":[
         "Miramichi"
     ],
-    "name:dut_x_preferred":[
-        "Miramichi"
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c1\u03b1\u03bc\u03af\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Miramichi"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Miramichi"
-    ],
-    "name:fre_x_preferred":[
-        "Miramichi"
-    ],
-    "name:ger_x_preferred":[
-        "Miramichi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03c1\u03b1\u03bc\u03af\u03c4\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac0\u0ab0\u0abe\u0aae\u0abf\u0a9a\u0ac0"
@@ -89,7 +77,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0930\u093e\u092e\u093f\u091a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Miramichi"
+    ],
+    "name:nld_x_preferred":[
         "Miramichi"
     ],
     "name:nob_x_preferred":[
@@ -140,6 +131,9 @@
     "name:vol_x_preferred":[
         "Miramichi"
     ],
+    "name:zho_x_preferred":[
+        "\u7c73\u62c9\u7c73\u5951"
+    ],
     "qs:a0":"Canada",
     "qs:a1":"*New Brunswick",
     "qs:a1_lc":"NB",
@@ -188,7 +182,7 @@
         }
     ],
     "wof:id":101735337,
-    "wof:lastmodified":1532596974,
+    "wof:lastmodified":1561844457,
     "wof:name":"Miramichi",
     "wof:parent_id":890458001,
     "wof:placetype":"locality",

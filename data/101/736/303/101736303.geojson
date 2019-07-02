@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116662,
-    "geom:area_square_m":1063231657.206356,
+    "geom:area_square_m":1063231657.206169,
     "geom:bbox":"-81.2452791,42.1833506,-81.0320278,42.8926837",
     "geom:latitude":42.518995,
     "geom:longitude":-81.132694,
@@ -19,13 +19,10 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u062a\u0631\u0627\u0644 \u0625\u0644\u062c\u064a\u0646\u060c \u0623\u0648\u0646\u062a\u0627\u0631\u064a\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u57c3\u723e\u91d1"
-    ],
     "name:eng_x_preferred":[
         "Central Elgin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Central Elgin"
     ],
     "name:pol_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0440\u0430\u043b \u0415\u043b\u0433\u0438\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u57c3\u723e\u91d1"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":101736303,
-    "wof:lastmodified":1527642109,
+    "wof:lastmodified":1561844337,
     "wof:name":"Central Elgin",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

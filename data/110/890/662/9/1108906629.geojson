@@ -20,22 +20,16 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
-    "name:chi_x_preferred":[
-        "\u7164\u6c23\u93ae"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gastown"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gastown"
     ],
     "name:eng_x_preferred":[
         "Gastown"
     ],
-    "name:fre_x_preferred":[
-        "Gastown"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gastown"
     ],
     "name:ind_x_preferred":[
@@ -47,11 +41,17 @@
     "name:jpn_x_preferred":[
         "\u30ae\u30e3\u30b9\u30bf\u30a6\u30f3"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Gastown"
+    ],
+    "name:slk_x_preferred":[
         "Gastown"
     ],
     "name:spa_x_preferred":[
         "Gastown"
+    ],
+    "name:zho_x_preferred":[
+        "\u7164\u6c23\u93ae"
     ],
     "reversegeo:latitude":49.282933,
     "reversegeo:longitude":-123.105228,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1108906629,
-    "wof:lastmodified":1553816516,
+    "wof:lastmodified":1561844251,
     "wof:name":"Gastown",
     "wof:parent_id":85866519,
     "wof:placetype":"microhood",

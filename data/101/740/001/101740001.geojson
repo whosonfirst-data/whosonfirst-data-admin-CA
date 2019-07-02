@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002357,
-    "geom:area_square_m":18863707.064234,
+    "geom:area_square_m":18863707.06423,
     "geom:bbox":"-103.8863586,49.6390927,-103.8131658,49.690086",
     "geom:latitude":49.66477,
     "geom:longitude":-103.850458,
@@ -21,22 +21,13 @@
     "name:afr_x_preferred":[
         "Weyburn"
     ],
-    "name:alb_x_preferred":[
-        "Weyburn"
-    ],
     "name:ara_x_preferred":[
         "\u0648\u064a\u0628\u0631\u0646"
     ],
     "name:arg_x_preferred":[
         "Weyburn"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0565\u0575\u0562\u0565\u0580\u0576"
-    ],
     "name:ast_x_preferred":[
-        "Weyburn"
-    ],
-    "name:baq_x_preferred":[
         "Weyburn"
     ],
     "name:bar_x_preferred":[
@@ -54,20 +45,26 @@
     "name:ceb_x_preferred":[
         "Weyburn"
     ],
+    "name:ces_x_preferred":[
+        "Weyburn"
+    ],
     "name:cos_x_preferred":[
         "Weyburn"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Weyburn"
     ],
     "name:dan_x_preferred":[
         "Weyburn"
     ],
+    "name:deu_x_preferred":[
+        "Weyburn"
+    ],
     "name:dsb_x_preferred":[
         "Weyburn"
     ],
-    "name:dut_x_preferred":[
-        "Weyburn"
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03b9\u03bc\u03c0\u03b5\u03c1\u03bd"
     ],
     "name:eml_x_preferred":[
         "Weyburn"
@@ -81,6 +78,9 @@
     "name:est_x_preferred":[
         "Weyburn"
     ],
+    "name:eus_x_preferred":[
+        "Weyburn"
+    ],
     "name:fao_x_preferred":[
         "Weyburn"
     ],
@@ -90,23 +90,14 @@
     "name:fra_x_preferred":[
         "Weyburn"
     ],
-    "name:fre_x_preferred":[
-        "Weyburn"
-    ],
     "name:frr_x_preferred":[
         "Weyburn"
     ],
     "name:fry_x_preferred":[
         "Weyburn"
     ],
-    "name:ger_x_preferred":[
-        "Weyburn"
-    ],
     "name:glg_x_preferred":[
         "Weyburn"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03ad\u03b9\u03bc\u03c0\u03b5\u03c1\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Weyburn"
@@ -126,10 +117,13 @@
     "name:hun_x_preferred":[
         "Weyburn"
     ],
-    "name:ice_x_preferred":[
-        "Weyburn"
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0565\u0575\u0562\u0565\u0580\u0576"
     ],
     "name:ind_x_preferred":[
+        "Weyburn"
+    ],
+    "name:isl_x_preferred":[
         "Weyburn"
     ],
     "name:ita_x_preferred":[
@@ -159,16 +153,19 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u092c\u0930\u094d\u0928"
     ],
-    "name:may_x_preferred":[
-        "Weyburn"
-    ],
     "name:min_x_preferred":[
         "Weyburn"
     ],
     "name:mlt_x_preferred":[
         "Weyburn"
     ],
+    "name:msa_x_preferred":[
+        "Weyburn"
+    ],
     "name:nds_x_preferred":[
+        "Weyburn"
+    ],
+    "name:nld_x_preferred":[
         "Weyburn"
     ],
     "name:nno_x_preferred":[
@@ -186,7 +183,7 @@
     "name:roh_x_preferred":[
         "Weyburn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Weyburn"
     ],
     "name:rus_x_preferred":[
@@ -201,13 +198,16 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dd9\u0db6\u0dbb\u0dca\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Weyburn"
     ],
     "name:slv_x_preferred":[
         "Weyburn"
     ],
     "name:spa_x_preferred":[
+        "Weyburn"
+    ],
+    "name:sqi_x_preferred":[
         "Weyburn"
     ],
     "name:srd_x_preferred":[
@@ -247,9 +247,6 @@
         "Weyburn"
     ],
     "name:vol_x_preferred":[
-        "Weyburn"
-    ],
-    "name:wel_x_preferred":[
         "Weyburn"
     ],
     "name:wln_x_preferred":[
@@ -398,7 +395,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531526403,
+    "wof:lastmodified":1561844386,
     "wof:name":"Weyburn",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

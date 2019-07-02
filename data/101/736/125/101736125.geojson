@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027211,
-    "geom:area_square_m":243100603.503937,
+    "geom:area_square_m":243100603.503876,
     "geom:bbox":"-79.08813,43.548356,-78.8602364,43.9223965",
     "geom:latitude":43.741189,
     "geom:longitude":-78.970508,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Ajax"
     ],
-    "name:alb_x_preferred":[
-        "Ajax"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u062c\u0627\u0643\u0633"
     ],
@@ -32,17 +29,17 @@
     "name:cat_x_preferred":[
         "Ajax"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u7a4d\u58eb"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ajax"
     ],
     "name:dan_x_preferred":[
         "Ajax"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ajax"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03b1\u03be"
     ],
     "name:eng_x_preferred":[
         "Ajax"
@@ -53,14 +50,8 @@
     "name:fin_x_preferred":[
         "Ajax"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ajax"
-    ],
-    "name:ger_x_preferred":[
-        "Ajax"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03b1\u03be"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9c\u0ac7\u0a95\u0acd\u0ab8"
@@ -89,13 +80,16 @@
     "name:lit_x_preferred":[
         "Ad\u017eaksas"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u0458\u045f\u0430\u043a\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u091c\u093e\u0915\u094d\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0415\u0458\u045f\u0430\u043a\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Ajax"
+    ],
+    "name:nld_x_preferred":[
         "Ajax"
     ],
     "name:nno_x_preferred":[
@@ -104,16 +98,13 @@
     "name:nob_x_preferred":[
         "Ajax"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062c\u0627\u06a9\u0633\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Ajax"
     ],
     "name:por_x_preferred":[
         "Ajax"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ajax"
     ],
     "name:rus_x_preferred":[
@@ -123,6 +114,9 @@
         "\u0d92\u0da2\u0d9a\u0dca\u0dc3\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Ajax"
+    ],
+    "name:sqi_x_preferred":[
         "Ajax"
     ],
     "name:srp_x_preferred":[
@@ -209,7 +203,7 @@
         }
     ],
     "wof:id":101736125,
-    "wof:lastmodified":1553815393,
+    "wof:lastmodified":1561844350,
     "wof:name":"Ajax",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
-    "geom:area_square_m":3020871.206705,
+    "geom:area_square_m":3020871.2067,
     "geom:bbox":"-79.8884957,47.8197029,-79.8621785,47.8342617",
     "geom:latitude":47.826886,
     "geom:longitude":-79.87596,
@@ -20,16 +20,13 @@
     "name:bul_x_preferred":[
         "\u0415\u043d\u0433\u043b\u0435\u0445\u0430\u0440\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u683c\u723e\u54c8\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Englehart"
-    ],
     "name:eng_x_preferred":[
         "Englehart"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Englehart"
+    ],
+    "name:nld_x_preferred":[
         "Englehart"
     ],
     "name:pol_x_preferred":[
@@ -40,6 +37,9 @@
     ],
     "name:swe_x_preferred":[
         "Englehart"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u683c\u723e\u54c8\u7279"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101735691,
-    "wof:lastmodified":1553815391,
+    "wof:lastmodified":1561844482,
     "wof:name":"Englehart",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

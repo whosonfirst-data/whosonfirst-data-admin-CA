@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008773,
-    "geom:area_square_m":76662509.490481,
+    "geom:area_square_m":76662509.490493,
     "geom:bbox":"-74.8489151,44.9896526,-74.6542125,45.0854301",
     "geom:latitude":45.035736,
     "geom:longitude":-74.744058,
@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Cornwall"
     ],
-    "name:alb_x_preferred":[
-        "Cornwall"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0646\u0648\u0627\u0644"
     ],
@@ -36,13 +33,10 @@
     "name:ceb_x_preferred":[
         "Cornwall"
     ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u6c83\u5c14"
-    ],
-    "name:cor_x_preferred":[
+    "name:ces_x_preferred":[
         "Cornwall"
     ],
-    "name:cze_x_preferred":[
+    "name:cor_x_preferred":[
         "Cornwall"
     ],
     "name:dan_x_preferred":[
@@ -51,8 +45,8 @@
     "name:deu_x_preferred":[
         "Cornwall"
     ],
-    "name:dut_x_preferred":[
-        "Cornwall"
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03bd\u03b3\u03bf\u03c5\u03bf\u03bb"
     ],
     "name:eng_x_preferred":[
         "Cornwall"
@@ -68,15 +62,6 @@
     ],
     "name:fra_x_preferred":[
         "Cornwall"
-    ],
-    "name:fre_x_preferred":[
-        "Cornwall"
-    ],
-    "name:ger_x_preferred":[
-        "Cornwall"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03c1\u03bd\u03b3\u03bf\u03c5\u03bf\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acd\u0aa8\u0ab5\u0acb\u0ab2"
@@ -117,7 +102,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u0930\u094d\u0928\u0935\u093e\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cornwall"
     ],
     "name:nld_x_preferred":[
@@ -125,9 +110,6 @@
     ],
     "name:nob_x_preferred":[
         "Cornwall"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0646\u0648\u0627\u0644\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0631\u0646\u0648\u0627\u0644(\u0627\u0648\u0646\u0679\u0627\u0631\u06cc\u0648)"
@@ -334,7 +316,7 @@
         }
     ],
     "wof:id":101735565,
-    "wof:lastmodified":1533261831,
+    "wof:lastmodified":1561844476,
     "wof:name":"Cornwall",
     "wof:parent_id":890456477,
     "wof:placetype":"locality",

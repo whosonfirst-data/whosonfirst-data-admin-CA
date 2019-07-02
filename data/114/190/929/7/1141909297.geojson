@@ -14,9 +14,6 @@
     "lbl:longitude":-90.700082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Chesterfield Inlet"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0633\u062a\u0631\u0641\u064a\u0644\u062f \u0625\u0646\u0644\u064a\u062a\u060c \u0646\u0648\u0646\u0627\u0641\u0648\u062a"
     ],
@@ -26,8 +23,11 @@
     "name:dan_x_preferred":[
         "Chesterfield Inlet"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chesterfield Inlet"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c3\u03c4\u03b5\u03c1\u03c6\u03b9\u03bb\u03bd\u03c4 \u038a\u03bd\u03bb\u03b5\u03c4"
     ],
     "name:eng_x_preferred":[
         "Chesterfield Inlet"
@@ -35,14 +35,8 @@
     "name:fin_x_preferred":[
         "Chesterfield Inlet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chesterfield Inlet"
-    ],
-    "name:ger_x_preferred":[
-        "Chesterfield Inlet"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ad\u03c3\u03c4\u03b5\u03c1\u03c6\u03b9\u03bb\u03bd\u03c4 \u038a\u03bd\u03bb\u03b5\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0aab\u0abf\u0ab2\u0acd\u0aa1 \u0a87\u0aa8\u0ab2\u0ac7\u0a9f"
@@ -77,7 +71,10 @@
     "name:mar_x_preferred":[
         "\u091a\u0947\u0938\u094d\u091f\u0930\u092b\u093f\u0932\u094d\u0921 \u0907\u0928\u0932\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chesterfield Inlet"
+    ],
+    "name:nld_x_preferred":[
         "Chesterfield Inlet"
     ],
     "name:nob_x_preferred":[
@@ -96,6 +93,9 @@
         "\u0da0\u0dd9\u0dc3\u0dca\u0da7\u0dca\u0dc6\u0dd2\u0dbd\u0dca\u0da9\u0dca \u0d89\u0db1\u0dca\u0dbd\u0dda\u0da7\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Chesterfield Inlet"
+    ],
+    "name:sqi_x_preferred":[
         "Chesterfield Inlet"
     ],
     "name:swe_x_preferred":[
@@ -239,7 +239,7 @@
         }
     ],
     "wof:id":1141909297,
-    "wof:lastmodified":1513923144,
+    "wof:lastmodified":1561844601,
     "wof:name":"Chesterfield Inlet",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

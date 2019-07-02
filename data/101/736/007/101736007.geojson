@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037887,
-    "geom:area_square_m":342468497.353037,
+    "geom:area_square_m":342468497.353022,
     "geom:bbox":"-82.4600224,42.9117137,-82.2263125,43.1627854",
     "geom:latitude":43.028101,
     "geom:longitude":-82.315044,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "name:afr_x_preferred":[
-        "Sarnia"
-    ],
-    "name:alb_x_preferred":[
         "Sarnia"
     ],
     "name:ara_x_preferred":[
@@ -42,14 +39,14 @@
     "name:cat_x_preferred":[
         "Sarnia"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u5c3c\u4e9e\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sarnia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sarnia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c1\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sarnia"
@@ -62,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Sarnia"
-    ],
-    "name:fre_x_preferred":[
-        "Sarnia"
-    ],
-    "name:ger_x_preferred":[
-        "Sarnia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03c1\u03bd\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab0\u0acd\u0aa8\u0abf\u0aaf\u0abe"
@@ -108,7 +96,10 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0930\u094d\u0928\u0940\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sarnia"
+    ],
+    "name:nld_x_preferred":[
         "Sarnia"
     ],
     "name:nob_x_preferred":[
@@ -116,9 +107,6 @@
     ],
     "name:oci_x_preferred":[
         "Sarnia"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0646\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0631\u0646\u06cc\u0627"
@@ -139,6 +127,9 @@
         "Sarnia"
     ],
     "name:spa_x_preferred":[
+        "Sarnia"
+    ],
+    "name:sqi_x_preferred":[
         "Sarnia"
     ],
     "name:srp_x_preferred":[
@@ -321,7 +312,7 @@
         }
     ],
     "wof:id":101736007,
-    "wof:lastmodified":1533262173,
+    "wof:lastmodified":1561844322,
     "wof:name":"Sarnia",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",
