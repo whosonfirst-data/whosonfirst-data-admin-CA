@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Val-David"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb-\u039d\u03c4\u03b1\u03b2\u03af\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Val-David"
     ],
@@ -32,7 +35,13 @@
     "name:fas_x_preferred":[
         "\u0648\u0627\u0644-\u062f\u0627\u0648\u06cc\u062f\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0648\u0627\u0644-\u062f\u0627\u0648\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
+        "Val-David"
+    ],
+    "name:ita_x_preferred":[
         "Val-David"
     ],
     "name:nld_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":101736551,
-    "wof:lastmodified":1561844314,
+    "wof:lastmodified":1563284338,
     "wof:name":"Val-David",
     "wof:parent_id":890456307,
     "wof:placetype":"locality",

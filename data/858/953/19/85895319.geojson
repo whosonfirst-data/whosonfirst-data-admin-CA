@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7747095.915064,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.018672,43.515785,-80.018672,43.515785",
     "geom:latitude":43.515785,
     "geom:longitude":-80.018672,
@@ -23,8 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0633\u0641\u064a\u0644"
+    ],
     "name:eng_x_preferred":[
         "Brookville"
+    ],
+    "name:eng_x_variant":[
+        "Cooksville"
     ],
     "name:unk_x_variant":[
         "Brookville"
@@ -61,7 +67,6 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736383,
         85633041,
@@ -99,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931379,
+    "wof:lastmodified":1563281826,
     "wof:name":"Brookville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

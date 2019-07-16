@@ -31,6 +31,9 @@
     "name:afr_x_preferred":[
         "Nieu-Brunswyk"
     ],
+    "name:amh_x_preferred":[
+        "\u1292\u12cd \u1265\u1228\u1295\u12dd\u12cd\u12ad"
+    ],
     "name:ang_x_preferred":[
         "N\u012bw Brunswic"
     ],
@@ -50,7 +53,8 @@
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u044c\u044e-\u0411\u0440\u0430\u043d\u0441\u0443\u0456\u043a"
     ],
     "name:bel_x_variant":[
-        "\u041d\u044c\u044e-\u0411\u0440\u0430\u043d\u0441\u045e\u0456\u043a"
+        "\u041d\u044c\u044e-\u0411\u0440\u0430\u043d\u0441\u045e\u0456\u043a",
+        "\u041d\u044c\u044e-\u0411\u0440\u0430\u043d\u0441\u0443\u0456\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989 \u09ac\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0989\u0987\u0995"
@@ -60,6 +64,9 @@
     ],
     "name:bre_x_preferred":[
         "New Brunswick"
+    ],
+    "name:bre_x_variant":[
+        "Brunswick Nevez"
     ],
     "name:bul_x_preferred":[
         "\u041d\u044e \u0411\u0440\u044a\u043d\u0437\u0443\u0438\u043a"
@@ -82,6 +89,9 @@
     "name:cor_x_preferred":[
         "Brunswick Nowydh"
     ],
+    "name:cos_x_preferred":[
+        "New Brunswick"
+    ],
     "name:cym_x_preferred":[
         "Brunswick Newydd"
     ],
@@ -89,6 +99,12 @@
         "New Brunswick"
     ],
     "name:deu_x_preferred":[
+        "New Brunswick"
+    ],
+    "name:deu_x_variant":[
+        "Neu-Braunschweig"
+    ],
+    "name:diq_x_preferred":[
         "New Brunswick"
     ],
     "name:div_x_preferred":[
@@ -133,6 +149,9 @@
     "name:fry_x_preferred":[
         "Nij-Breunswyk"
     ],
+    "name:fry_x_variant":[
+        "Nij-Brunswyk"
+    ],
     "name:gla_x_preferred":[
         "Brunswick Nuadh"
     ],
@@ -141,6 +160,9 @@
     ],
     "name:glg_x_preferred":[
         "Novo Brunswick"
+    ],
+    "name:glg_x_variant":[
+        "Nova Brunswick"
     ],
     "name:glv_x_preferred":[
         "New Brunswick"
@@ -196,6 +218,9 @@
     "name:kor_x_preferred":[
         "\ub274\ube0c\ub7f0\uc988\uc705 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub274\ube0c\ub7f0\uc988\uc705\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Muevo Brunzwik"
     ],
@@ -213,6 +238,12 @@
     ],
     "name:ltz_x_preferred":[
         "New Brunswick"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u4e0d\u502b\u745e\u514b"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4d\u0d2f\u0d42 \u0d2c\u0d4d\u0d30\u0d7a\u0d38\u0d4d\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u092c\u094d\u0930\u0941\u0928\u094d\u0938\u0935\u093f\u0915"
@@ -339,6 +370,9 @@
     ],
     "name:uzb_x_preferred":[
         "Nyu-Bransuyk"
+    ],
+    "name:uzb_x_variant":[
+        "Nyu-bransuyk"
     ],
     "name:vie_x_preferred":[
         "New Brunswick"
@@ -488,7 +522,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1561844200,
+    "wof:lastmodified":1563281756,
     "wof:name":"New Brunswick",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

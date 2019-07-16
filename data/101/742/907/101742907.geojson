@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
+    "geom:area_square_m":405032.892519,
     "geom:bbox":"-127.4087523,55.2046301,-127.4001815,55.2137149",
     "geom:latitude":55.209047,
     "geom:longitude":-127.403434,
@@ -18,11 +19,20 @@
     "name:ceb_x_preferred":[
         "Bulkley River"
     ],
+    "name:cym_x_preferred":[
+        "Afon Bulkley"
+    ],
     "name:deu_x_preferred":[
         "Bulkley River"
     ],
     "name:eng_x_preferred":[
         "Bulkley 1"
+    ],
+    "name:eng_x_variant":[
+        "Bulkley River"
+    ],
+    "name:nld_x_preferred":[
+        "Bulkley"
     ],
     "name:pnb_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u0626\u06d2 \u0628\u0644\u06a9\u0644\u06cc"
@@ -33,11 +43,17 @@
     "name:snd_x_preferred":[
         "\u0628\u0644\u06aa\u0644\u064a \u062f\u0631\u064a\u0627\u06be"
     ],
+    "name:spa_x_preferred":[
+        "Bulkley"
+    ],
     "name:swe_x_preferred":[
         "Bulkley River"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u06a9\u0644\u06d2 \u062f\u0631\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u514b\u5229\u6cb3"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -79,7 +95,7 @@
         }
     ],
     "wof:id":101742907,
-    "wof:lastmodified":1533335869,
+    "wof:lastmodified":1563285666,
     "wof:name":"Bulkley 1",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

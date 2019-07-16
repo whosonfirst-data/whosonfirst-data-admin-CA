@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Saint-Michel"
+    ],
     "name:deu_x_preferred":[
         "Saint-Michel"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u039c\u03b9\u03c3\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Saint-Michel"
@@ -30,7 +36,13 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0645\u06cc\u0634\u0644\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u0645\u06cc\u0634\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Saint-Michel"
+    ],
+    "name:ita_x_preferred":[
         "Saint-Michel"
     ],
     "name:nld_x_preferred":[
@@ -47,6 +59,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0645\u0686\u0644\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0645\u0686\u0644"
     ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":"CA",
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1125856451,
-    "wof:lastmodified":1561844571,
+    "wof:lastmodified":1563287100,
     "wof:name":"St.-Michel",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

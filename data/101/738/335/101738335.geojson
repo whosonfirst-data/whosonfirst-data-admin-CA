@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006889,
+    "geom:area_square_m":59992742.428795,
     "geom:bbox":"-73.639277883,45.161246239,-73.510423286,45.295887777",
     "geom:latitude":45.231782,
     "geom:longitude":-73.576203,
@@ -18,6 +19,12 @@
     "name:ceb_x_preferred":[
         "Saint-Michel"
     ],
+    "name:deu_x_preferred":[
+        "Saint-Michel"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u039c\u03b9\u03c3\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Saint-Michel"
     ],
@@ -27,7 +34,19 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0645\u06cc\u0634\u0644\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u0645\u06cc\u0634\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Saint-Michel"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Michel"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Michel"
+    ],
+    "name:por_x_preferred":[
         "Saint-Michel"
     ],
     "name:spa_x_preferred":[
@@ -38,6 +57,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0645\u0686\u0644\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0645\u0686\u0644"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -83,7 +105,7 @@
         }
     ],
     "wof:id":101738335,
-    "wof:lastmodified":1533335637,
+    "wof:lastmodified":1563284672,
     "wof:name":"Saint-Michel",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

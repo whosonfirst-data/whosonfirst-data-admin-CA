@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17226393.237978,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.920024,49.131722,-123.920024,49.131722",
     "geom:latitude":49.131722,
     "geom:longitude":-123.920024,
@@ -26,6 +26,9 @@
     "mz:tier_locality":2,
     "name:ceb_x_preferred":[
         "Chase River"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Chase"
     ],
     "name:eng_x_preferred":[
         "Chase River"
@@ -67,11 +70,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":141,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870986,
+    "wof:lastmodified":1563281934,
     "wof:name":"Chase River",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

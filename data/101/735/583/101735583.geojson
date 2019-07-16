@@ -28,6 +28,9 @@
     "name:bel_x_variant":[
         "\u041f\u0440\u044b\u043d\u0446"
     ],
+    "name:bre_x_preferred":[
+        "Prince"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043d\u0446"
     ],
@@ -40,14 +43,23 @@
     "name:ces_x_preferred":[
         "Princ"
     ],
+    "name:cos_x_preferred":[
+        "Prince"
+    ],
     "name:cym_x_preferred":[
         "Tywysog"
     ],
     "name:dan_x_preferred":[
         "Prins"
     ],
+    "name:dan_x_variant":[
+        "Prince"
+    ],
     "name:deu_x_preferred":[
         "Prinz"
+    ],
+    "name:deu_x_variant":[
+        "Prince"
     ],
     "name:diq_x_preferred":[
         "Prens"
@@ -88,11 +100,17 @@
     "name:ind_x_preferred":[
         "Pangeran"
     ],
+    "name:ind_x_variant":[
+        "Prince"
+    ],
     "name:isl_x_preferred":[
         "Prins"
     ],
     "name:ita_x_preferred":[
         "Principe"
+    ],
+    "name:ita_x_variant":[
+        "Prince"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30f3\u30b9"
@@ -112,6 +130,9 @@
     "name:msa_x_preferred":[
         "Putera"
     ],
+    "name:nds_x_preferred":[
+        "Prince"
+    ],
     "name:nep_x_preferred":[
         "\u0930\u093e\u091c\u0915\u0941\u092e\u093e\u0930"
     ],
@@ -130,11 +151,20 @@
     "name:pol_x_preferred":[
         "Ksi\u0105\u017c\u0119"
     ],
+    "name:pol_x_variant":[
+        "Prince"
+    ],
     "name:por_x_preferred":[
         "Pr\u00edncipe"
     ],
+    "name:por_x_variant":[
+        "Prince"
+    ],
     "name:ron_x_preferred":[
         "Prin\u021b"
+    ],
+    "name:ron_x_variant":[
+        "Prince"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043d\u0446"
@@ -154,8 +184,17 @@
     "name:spa_x_preferred":[
         "Pr\u00edncipe"
     ],
+    "name:spa_x_variant":[
+        "Prince"
+    ],
     "name:swe_x_preferred":[
         "Prins"
+    ],
+    "name:swe_x_variant":[
+        "Prince"
+    ],
+    "name:tah_x_preferred":[
+        "Prince"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e49\u0e32"
@@ -221,7 +260,7 @@
         }
     ],
     "wof:id":101735583,
-    "wof:lastmodified":1561844488,
+    "wof:lastmodified":1563285520,
     "wof:name":"Prince",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

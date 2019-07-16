@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3030624.811511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.925495,43.767795,-79.925495,43.767795",
     "geom:latitude":43.767795,
     "geom:longitude":-79.925495,
@@ -23,8 +23,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:dan_x_preferred":[
+        "Erindale"
+    ],
     "name:eng_x_preferred":[
         "Ferndale"
+    ],
+    "name:eng_x_variant":[
+        "Erindale"
+    ],
+    "name:nld_x_preferred":[
+        "Erindale"
     ],
     "name:unk_x_variant":[
         "Ferndale"
@@ -61,7 +70,6 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736249,
         85633041,
@@ -99,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931424,
+    "wof:lastmodified":1563281864,
     "wof:name":"Ferndale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

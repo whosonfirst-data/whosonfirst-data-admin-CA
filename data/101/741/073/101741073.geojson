@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u064a\u060c \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0631\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09b0\u09b0\u09c7"
     ],
@@ -27,6 +30,9 @@
         "\u0421\u044a\u0440\u0438"
     ],
     "name:cat_x_preferred":[
+        "Surrey"
+    ],
+    "name:ceb_x_preferred":[
         "Surrey"
     ],
     "name:dan_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Surrey"
@@ -134,8 +143,14 @@
     "name:swe_x_preferred":[
         "Surrey"
     ],
+    "name:szl_x_preferred":[
+        "Surrey"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc2\u0bb0\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c30\u0c4d\u0c30\u0c47"
@@ -154,6 +169,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u06d2\u060c \u0628\u0631\u0679\u0634 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0631\u06d2"
     ],
     "name:vie_x_preferred":[
         "Surrey"
@@ -223,7 +241,7 @@
         }
     ],
     "wof:id":101741073,
-    "wof:lastmodified":1561844441,
+    "wof:lastmodified":1563285188,
     "wof:name":"Surrey",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

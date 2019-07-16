@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
+    "geom:area_square_m":2086707.966977,
     "geom:bbox":"-126.981996,52.8052713,-126.9530765,52.8185487",
     "geom:latitude":52.812753,
     "geom:longitude":-126.968335,
@@ -17,6 +18,15 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Kemsquit 1"
+    ],
+    "name:eng_x_variant":[
+        "Kimsquit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05de\u05e1\u05e7\u05d5\u05d5\u05d9\u05d8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30f3\u30b9\u30af\u30a3\u30c3\u30c8"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":101743697,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1563285648,
     "wof:name":"Kemsquit 1",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

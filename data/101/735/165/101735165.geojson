@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003633,
+    "geom:area_square_m":31918824.288379,
     "geom:bbox":"-66.8542065,44.6810304,-66.7338225,44.7558215",
     "geom:latitude":44.728749,
     "geom:longitude":-66.787856,
@@ -30,11 +31,26 @@
     "name:eng_x_preferred":[
         "Grand Manan"
     ],
+    "name:eng_x_variant":[
+        "Grand Manan Island"
+    ],
     "name:fra_x_preferred":[
         "Grand Manan"
     ],
+    "name:ita_x_preferred":[
+        "Grand Manan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30c9\u30de\u30ca\u30f3\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Grand Manan Island"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u043d-\u041c\u0430\u043d\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Grand Manan"
     ],
     "name:swe_x_preferred":[
         "Grand Manan Island"
@@ -84,7 +100,7 @@
         }
     ],
     "wof:id":101735165,
-    "wof:lastmodified":1531527224,
+    "wof:lastmodified":1563285419,
     "wof:name":"Grand Manan",
     "wof:parent_id":1158869023,
     "wof:placetype":"locality",

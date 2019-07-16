@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7084245.957962,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628387,49.234157,-122.628387,49.234157",
     "geom:latitude":49.234157,
     "geom:longitude":-122.628387,
@@ -27,8 +27,35 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0628\u0644 \u0631\u064a\u062f\u062c"
     ],
+    "name:cat_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:ceb_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:deu_x_preferred":[
+        "Maple Ridge"
+    ],
     "name:eng_x_preferred":[
         "West Maple Ridge"
+    ],
+    "name:eng_x_variant":[
+        "Maple Ridge"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u067e\u0644 \u0631\u06cc\u062c"
+    ],
+    "name:fin_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:fra_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:hun_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:ita_x_preferred":[
+        "Maple Ridge"
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30a4\u30d7\u30eb\u30ea\u30c3\u30b8"
@@ -36,8 +63,41 @@
     "name:kor_x_preferred":[
         "\uba54\uc774\ud50c\ub9ac\uc9c0"
     ],
+    "name:nld_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:nob_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:oci_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:pol_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:por_x_preferred":[
+        "Maple Ridge"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u044d\u043f\u043b-\u0420\u0438\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:swa_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:swe_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:szl_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:tgl_x_preferred":[
+        "Maple Ridge"
+    ],
+    "name:tur_x_preferred":[
+        "Maple Ridge"
     ],
     "name:unk_x_variant":[
         "West Maple Ridge"
@@ -82,8 +142,7 @@
         102191575,
         85633041,
         101740773,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931255,
+    "wof:lastmodified":1563281989,
     "wof:name":"West Maple Ridge",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

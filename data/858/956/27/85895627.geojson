@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3218274.375772,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.24375,43.739578,-79.24375,43.739578",
     "geom:latitude":43.739578,
     "geom:longitude":-79.24375,
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Eglington East"
     ],
+    "name:eng_x_variant":[
+        "Eglinton East"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -38,11 +41,12 @@
     "wd:longitude":-79.246,
     "wd:wordcount":560,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931453,
+    "wof:lastmodified":1563282081,
     "wof:name":"Eglington East",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

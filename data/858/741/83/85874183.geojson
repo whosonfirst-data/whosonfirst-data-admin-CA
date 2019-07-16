@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3279942.146891,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.927305,45.378235,-71.927305,45.378235",
     "geom:latitude":45.378235,
     "geom:longitude":-71.927305,
@@ -33,11 +33,15 @@
     "name:eng_x_preferred":[
         "Mont-Bellevue"
     ],
+    "name:eng_x_variant":[
+        "Mont Bellevue"
+    ],
     "name:fra_x_preferred":[
         "Mont Bellevue"
     ],
     "name:fra_x_variant":[
-        "Mont-Bellevue"
+        "Mont-Bellevue",
+        "mont Bellevue"
     ],
     "name:spa_x_preferred":[
         "Monte Bellevue"
@@ -109,7 +113,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871902,
+    "wof:lastmodified":1563282037,
     "wof:name":"Mont-Bellevue",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

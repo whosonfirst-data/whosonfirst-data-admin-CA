@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0633\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0633\u0648\u062a"
+    ],
     "name:ces_x_preferred":[
         "Tissot"
     ],
@@ -42,6 +48,9 @@
     "name:eng_x_preferred":[
         "Tissot"
     ],
+    "name:eus_x_preferred":[
+        "Tissot"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0633\u0648\u062a"
     ],
@@ -50,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "Tissot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05d5"
     ],
     "name:hun_x_preferred":[
         "Tissot"
@@ -69,7 +81,13 @@
     "name:lit_x_preferred":[
         "Tissot"
     ],
+    "name:msa_x_preferred":[
+        "Tissot"
+    ],
     "name:nld_x_preferred":[
+        "Tissot"
+    ],
+    "name:nob_x_preferred":[
         "Tissot"
     ],
     "name:nor_x_preferred":[
@@ -93,7 +111,13 @@
     "name:swe_x_preferred":[
         "Tissot"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0441\u0441\u043e"
+    ],
     "name:unk_x_variant":[
+        "Tissot"
+    ],
+    "name:vie_x_preferred":[
         "Tissot"
     ],
     "name:zho_x_preferred":[
@@ -107,12 +131,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":1455,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968469,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523919,
+    "wof:lastmodified":1563281973,
     "wof:name":"Tissot",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

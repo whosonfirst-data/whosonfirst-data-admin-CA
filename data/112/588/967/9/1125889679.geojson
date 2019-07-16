@@ -21,11 +21,17 @@
     "name:cat_x_preferred":[
         "Saint-Quentin"
     ],
+    "name:ceb_x_preferred":[
+        "Saint-Quentin"
+    ],
     "name:deu_x_preferred":[
         "Saint-Quentin"
     ],
     "name:eng_x_preferred":[
         "Saint-Quentin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u200c\u06a9\u0648\u06cc\u0646\u062a\u0646"
     ],
     "name:fra_x_preferred":[
         "Saint-Quentin"
@@ -44,6 +50,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u0642\u06cc\u0646\u0679\u06cc\u0646\u060c \u0646\u06cc\u0648 \u0628\u0631\u0646\u0633\u0648\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u0642\u06cc\u0646\u0679\u06cc\u0646"
     ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":"CA",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125889679,
-    "wof:lastmodified":1561844554,
+    "wof:lastmodified":1563286807,
     "wof:name":"St.-Quentin",
     "wof:parent_id":890458105,
     "wof:placetype":"locality",

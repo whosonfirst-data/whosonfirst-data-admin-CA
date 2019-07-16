@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004712,
+    "geom:area_square_m":37569615.879811,
     "geom:bbox":"-100.5316572,49.7895657,-100.4628262,49.8866537",
     "geom:latitude":49.848214,
     "geom:longitude":-100.502838,
@@ -18,14 +19,26 @@
     "name:cat_x_preferred":[
         "Primera Naci\u00f3 Sioux Valley"
     ],
+    "name:ceb_x_preferred":[
+        "Sioux Valley Dakota Nation"
+    ],
     "name:eng_x_preferred":[
         "Sioux Valley Dakota Nation"
+    ],
+    "name:eng_x_variant":[
+        "Sioux Valley First Nation"
     ],
     "name:fra_x_preferred":[
         "Sioux Valley First Nation"
     ],
     "name:fry_x_preferred":[
         "Sioux Valley Dakota Naasje"
+    ],
+    "name:nld_x_preferred":[
+        "Sioux Valley First Nation"
+    ],
+    "name:swe_x_preferred":[
+        "Sioux Valley Dakota Nation"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Manitoba",
@@ -70,7 +83,7 @@
         }
     ],
     "wof:id":101741745,
-    "wof:lastmodified":1531523966,
+    "wof:lastmodified":1563285229,
     "wof:name":"Sioux Valley Dakota Nation",
     "wof:parent_id":1158868945,
     "wof:placetype":"locality",

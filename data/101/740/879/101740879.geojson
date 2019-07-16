@@ -24,6 +24,15 @@
     "name:ara_x_preferred":[
         "\u0641\u0643\u062a\u0648\u0631\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0643\u062a\u0648\u0631\u064a\u0627 "
+    ],
+    "name:ast_x_preferred":[
+        "Victoria"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
+    ],
     "name:aze_x_preferred":[
         "Viktoriya"
     ],
@@ -88,6 +97,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627\u060c \u0628\u0631\u06cc\u062a\u06cc\u0634 \u06a9\u0644\u0645\u0628\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Victoria"
@@ -160,6 +172,9 @@
     ],
     "name:lit_x_preferred":[
         "Viktorija"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d3f\u0d15\u0d4d\u0d1f\u0d4b\u0d31\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0915\u094d\u091f\u094b\u0930\u093f\u092f\u093e"
@@ -245,6 +260,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0b95\u0bcd\u0b9f\u0bcb\u0bb0\u0bbf\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c15\u0c4d\u0c1f\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
     ],
@@ -268,6 +286,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u0627\u060c \u0628\u0631\u0679\u0634 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06a9\u0679\u0648\u0631\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Viktoriya"
     ],
     "name:vie_x_preferred":[
         "Victoria"
@@ -434,7 +458,7 @@
         }
     ],
     "wof:id":101740879,
-    "wof:lastmodified":1561844391,
+    "wof:lastmodified":1563284843,
     "wof:megacity":0,
     "wof:name":"Victoria",
     "wof:parent_id":890456487,

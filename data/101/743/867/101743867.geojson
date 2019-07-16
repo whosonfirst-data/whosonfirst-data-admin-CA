@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":227731.205529,
     "geom:bbox":"-123.5884868,49.0020622,-123.58301,49.011641",
     "geom:latitude":49.006067,
     "geom:longitude":-123.584813,
@@ -18,11 +19,17 @@
     "name:ceb_x_preferred":[
         "Galiano Island"
     ],
+    "name:cym_x_preferred":[
+        "Ynys Galiano"
+    ],
     "name:deu_x_preferred":[
         "Galiano Island"
     ],
     "name:eng_x_preferred":[
         "Galiano Island 9"
+    ],
+    "name:eng_x_variant":[
+        "Galiano Island"
     ],
     "name:epo_x_preferred":[
         "Insulo Galiano"
@@ -30,11 +37,29 @@
     "name:fra_x_preferred":[
         "\u00cele Galiano"
     ],
+    "name:fra_x_variant":[
+        "\u00eele Galiano"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d2\u05dc\u05d9\u05dc\u05e0\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30ea\u30a2\u30fc\u30ce\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Galiano Island"
+    ],
+    "name:pol_x_preferred":[
+        "Galiano"
+    ],
     "name:spa_x_preferred":[
         "Isla Galiano"
     ],
     "name:swe_x_preferred":[
         "Galiano Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5229\u4e9e\u8afe\u5cf6"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -80,7 +105,7 @@
         }
     ],
     "wof:id":101743867,
-    "wof:lastmodified":1533335884,
+    "wof:lastmodified":1563285619,
     "wof:name":"Galiano Island 9",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

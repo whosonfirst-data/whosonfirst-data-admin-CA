@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000777,
+    "geom:area_square_m":6685487.769285,
     "geom:bbox":"-73.638930219,45.920576433,-73.591208802,45.953941648",
     "geom:latitude":45.937314,
     "geom:longitude":-73.614972,
@@ -18,13 +19,28 @@
     "name:ceb_x_preferred":[
         "Saint-Alexis"
     ],
+    "name:deu_x_preferred":[
+        "Saint-Alexis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4-\u0391\u03bb\u03b5\u03be\u03af"
+    ],
     "name:eng_x_preferred":[
         "Saint-Alexis"
     ],
     "name:eus_x_preferred":[
         "Saint-Alexis"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u0622\u0644\u06a9\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Saint-Alexis"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Alexis"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Alexis"
     ],
     "name:spa_x_preferred":[
@@ -35,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0656\u06d2\u0634\u062b\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0656\u06d2\u0634\u062b"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -79,7 +98,7 @@
         }
     ],
     "wof:id":101738523,
-    "wof:lastmodified":1533335640,
+    "wof:lastmodified":1563284757,
     "wof:name":"Saint-Alexis",
     "wof:parent_id":890457815,
     "wof:placetype":"locality",

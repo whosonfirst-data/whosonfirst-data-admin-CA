@@ -25,11 +25,20 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Orl\u00e9ans"
+    ],
     "name:eng_x_colloquial":[
         "Orleans"
     ],
     "name:eng_x_preferred":[
         "Orl\u00e9ans"
+    ],
+    "name:eng_x_variant":[
+        "Orleans"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u0626\u0627\u0646\u0632"
     ],
     "name:fra_x_preferred":[
         "Orl\u00e9ans"
@@ -42,6 +51,12 @@
     ],
     "name:swe_x_preferred":[
         "Orleans"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043b\u0435\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u826f"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -82,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844188,
+    "wof:lastmodified":1563281708,
     "wof:name":"Orl\u00e9ans",
     "wof:parent_id":101735873,
     "wof:placetype":"neighbourhood",

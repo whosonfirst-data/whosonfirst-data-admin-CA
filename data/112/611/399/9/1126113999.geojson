@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
-    "geom:area_square_m":3425153.6529,
+    "geom:area_square_m":3425153.652901,
     "geom:bbox":"-106.789825,52.100136,-106.717881,52.10746",
     "geom:latitude":52.103457,
     "geom:longitude":-106.754924,
@@ -23,16 +23,19 @@
     "name:eng_x_preferred":[
         "CN Yards Management Area"
     ],
+    "name:eng_x_variant":[
+        "C.N. Yards Management Area"
+    ],
     "reversegeo:latitude":52.103571,
     "reversegeo:longitude":-106.754927,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1126113999,
-    "wof:lastmodified":1531524184,
+    "wof:lastmodified":1563286598,
     "wof:name":"CN Yards Management Area",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

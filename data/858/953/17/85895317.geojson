@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20188318.721046,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.935269,43.561987,-79.935269,43.561987",
     "geom:latitude":43.561987,
     "geom:longitude":-79.935269,
@@ -23,8 +23,35 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Bolton"
+    ],
+    "name:deu_x_preferred":[
+        "Bolton"
+    ],
     "name:eng_x_preferred":[
         "Boston"
+    ],
+    "name:eng_x_variant":[
+        "Bolton"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bolton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30c8\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Bolton"
+    ],
+    "name:spa_x_preferred":[
+        "Bolton"
+    ],
+    "name:swe_x_preferred":[
+        "Bolton"
     ],
     "name:unk_x_variant":[
         "Boston"
@@ -59,7 +86,6 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736091,
         85633041,
@@ -97,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931379,
+    "wof:lastmodified":1563281826,
     "wof:name":"Boston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

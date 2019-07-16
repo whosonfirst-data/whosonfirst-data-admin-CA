@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007392,
+    "geom:area_square_m":64354433.635553,
     "geom:bbox":"-73.866688824,45.166228026,-73.738148013,45.313842661",
     "geom:latitude":45.245621,
     "geom:longitude":-73.800207,
@@ -19,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Sainte-Martine"
     ],
+    "name:deu_x_preferred":[
+        "Sainte-Martine"
+    ],
     "name:eng_x_preferred":[
         "Sainte-Martine"
     ],
@@ -28,7 +32,16 @@
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a-\u0645\u0627\u0631\u062a\u06cc\u0646\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a-\u0645\u0627\u0631\u062a\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Sainte-Martine"
+    ],
+    "name:ita_x_preferred":[
+        "Sainte-Martine"
+    ],
+    "name:nld_x_preferred":[
         "Sainte-Martine"
     ],
     "name:por_x_preferred":[
@@ -40,8 +53,14 @@
     "name:spa_x_preferred":[
         "Sainte-Martine"
     ],
+    "name:swe_x_preferred":[
+        "Sainte-Martine"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u0645\u0631\u0679\u0646\u06d2\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u0645\u0631\u0679\u0646\u06d2"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -85,7 +104,7 @@
         }
     ],
     "wof:id":101738387,
-    "wof:lastmodified":1533335639,
+    "wof:lastmodified":1563284749,
     "wof:name":"Sainte-Martine",
     "wof:parent_id":890458629,
     "wof:placetype":"locality",

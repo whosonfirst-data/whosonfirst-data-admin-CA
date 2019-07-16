@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047331,
+    "geom:area_square_m":282197987.506289,
     "geom:bbox":"-94.2501092,61.0335992,-93.9671319,61.2989752",
     "geom:latitude":61.172507,
     "geom:longitude":-94.15102,
@@ -16,17 +17,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
+    "name:ara_x_preferred":[
+        "\u0622\u0631\u0641\u064a\u0627\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09ad\u09bf\u09af\u09bc\u09be\u099f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0432\u0438\u0430\u0442"
+    ],
     "name:cat_x_preferred":[
         "Arviat"
     ],
     "name:ceb_x_preferred":[
         "Arviat"
     ],
+    "name:dan_x_preferred":[
+        "Arviat"
+    ],
     "name:deu_x_preferred":[
         "Arviat"
     ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03b2\u03b9\u03b1\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Arviat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0648\u06cc\u0627\u062a"
     ],
     "name:fin_x_preferred":[
         "Arviat"
@@ -34,7 +53,46 @@
     "name:fra_x_preferred":[
         "Arviat"
     ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab0\u0ab5\u0abf\u0a86\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u0935\u093f\u092f\u0924"
+    ],
+    "name:iku_x_preferred":[
+        "\u140a\u1550\u1555\u140a\u1466"
+    ],
+    "name:ind_x_preferred":[
+        "Arviat"
+    ],
     "name:ita_x_preferred":[
+        "Arviat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d3\u30a2\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb0\u0ccd\u0cb5\u0cbf\u0caf\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub9ac\ubc27"
+    ],
+    "name:lav_x_preferred":[
+        "Arviata"
+    ],
+    "name:lit_x_preferred":[
+        "Arvijatas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0930\u0935\u093f\u090f\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Arviat"
+    ],
+    "name:nld_x_preferred":[
+        "Arviat"
+    ],
+    "name:nob_x_preferred":[
         "Arviat"
     ],
     "name:pol_x_preferred":[
@@ -46,11 +104,26 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u0432\u0438\u0430\u0442"
     ],
+    "name:sin_x_preferred":[
+        "\u0d86\u0dc0\u0dd2\u0dba\u0da7\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Arviat"
+    ],
     "name:sqi_x_preferred":[
         "Arviat"
     ],
     "name:swe_x_preferred":[
         "Arviat"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb0\u0bcd\u0bb5\u0bbf\u0baf\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c30\u0c4d\u0c35\u0c3f\u0c2f\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e27\u0e35\u0e22\u0e15"
     ],
     "name:tur_x_preferred":[
         "Arviat"
@@ -60,6 +133,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u06cc\u0627\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Arviat"
     ],
     "name:zho_x_preferred":[
         "\u4e9e\u61f7\u4e9e\u7279"
@@ -205,7 +281,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533332571,
+    "wof:lastmodified":1563285494,
     "wof:name":"Arviat",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

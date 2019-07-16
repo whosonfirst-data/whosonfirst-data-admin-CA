@@ -16,6 +16,12 @@
     "mps:longitude":-79.398992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aeropuertu Toronto City Centre"
+    ],
+    "name:ceb_x_preferred":[
+        "Billy Bishop Toronto City Airport"
+    ],
     "name:deu_x_preferred":[
         "Billy Bishop Toronto City Airport"
     ],
@@ -24,8 +30,7 @@
     ],
     "name:eng_x_variant":[
         "YTZ",
-        "CYTZ",
-        "Billy Bishop Toronto City Airport"
+        "CYTZ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0628\u06cc\u0644\u06cc \u0628\u06cc\u0634\u0627\u067e \u062a\u0648\u0631\u0646\u062a\u0648"
@@ -42,6 +47,9 @@
     "name:kan_x_preferred":[
         "\u0ca6 \u0c9f\u0cca\u0cb0\u0cbe\u0c82\u0c9f\u0ccb \u0c90\u0cb2\u0cc6\u0c82\u0ca1\u0ccd \u0c8f\u0cb0\u0ccd\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd"
     ],
+    "name:kor_x_preferred":[
+        "\ube4c\ub9ac \ube44\uc20d \ud1a0\ub860\ud1a0 \uc2dc\ud2f0 \uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Toronto/City Centre"
     ],
@@ -56,6 +64,9 @@
     ],
     "name:por_x_preferred":[
         "Billy Bishop Toronto City Airport"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Billy Bishop Toronto City"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Toronto City Centre"
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":102555229,
-    "wof:lastmodified":1561844182,
+    "wof:lastmodified":1563281349,
     "wof:name":"Toronto City Centre Airport",
     "wof:parent_id":1108906491,
     "wof:placetype":"campus",

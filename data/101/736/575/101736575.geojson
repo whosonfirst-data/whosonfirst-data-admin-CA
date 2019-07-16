@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057856,
-    "geom:area_square_m":494062163.032814,
+    "geom:area_square_m":494062163.032652,
     "geom:bbox":"-72.6110893,46.194499102,-72.158615991,46.452317527",
     "geom:latitude":46.321683,
     "geom:longitude":-72.371693,
@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0627\u0646\u0643\u0648\u0631\u060c \u0643\u064a\u0628\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0643\u0627\u0646\u0643\u0648\u0631"
+    ],
+    "name:atj_x_preferred":[
+        "B\u00e9cancour"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00e9cancour"
+    ],
     "name:ceb_x_preferred":[
         "B\u00e9cancour"
+    ],
+    "name:cre_x_preferred":[
+        "\u142f\u1472\u14c4\u146f\u1405"
     ],
     "name:deu_x_preferred":[
         "B\u00e9cancour"
@@ -35,6 +47,9 @@
     "name:fas_x_preferred":[
         "\u0628\u06a9\u0627\u0646\u06a9\u0648\u0631\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06a9\u0627\u0646\u06a9\u0648\u0631"
+    ],
     "name:fra_x_colloquial":[
         "Becancour"
     ],
@@ -44,14 +59,32 @@
     "name:hak_x_preferred":[
         "B\u00e9cancour"
     ],
+    "name:hun_x_preferred":[
+        "B\u00e9cancour"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056f\u0561\u0576\u056f\u0578\u0582\u0580"
+    ],
     "name:ita_x_preferred":[
         "B\u00e9cancour"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ad\u30e3\u30f3\u30af\u30fc\u30eb"
     ],
     "name:nld_x_preferred":[
         "B\u00e9cancour"
     ],
+    "name:oci_x_preferred":[
+        "B\u00e9cancour"
+    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u06a9\u0646\u06a9\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00e9cancour"
+    ],
+    "name:por_x_preferred":[
+        "B\u00e9cancour"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043a\u0430\u043d\u043a\u0443\u0440"
@@ -61,6 +94,15 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043a\u0430\u043d\u043a\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e9cancour"
+    ],
+    "name:tur_x_preferred":[
+        "B\u00e9cancour"
+    ],
+    "name:vol_x_preferred":[
+        "B\u00e9cancour"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -114,7 +156,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533335623,
+    "wof:lastmodified":1563284443,
     "wof:name":"B\u00e9cancour",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

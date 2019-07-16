@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5144929.005852,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.652434,50.500356,-104.652434,50.500356",
     "geom:latitude":50.500356,
     "geom:longitude":-104.652434,
@@ -29,7 +29,9 @@
     ],
     "name:eng_x_variant":[
         "Walsh Acres/Lakeridge",
-        "akeridge"
+        "akeridge",
+        "Waterford Valley",
+        "Regina Walsh Acres"
     ],
     "name:fra_x_preferred":[
         "Regina-Walsh Acres"
@@ -43,12 +45,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":219,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113663,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872047,
+    "wof:lastmodified":1563281784,
     "wof:name":"Walsh Acres",
     "wof:parent_id":1126113663,
     "wof:placetype":"neighbourhood",

@@ -31,8 +31,14 @@
     "name:afr_x_preferred":[
         "Nova Scotia"
     ],
+    "name:amh_x_preferred":[
+        "\u1296\u126b \u1235\u12ae\u123b"
+    ],
     "name:ang_x_preferred":[
         "N\u012bwe Scotland"
+    ],
+    "name:ang_x_variant":[
+        "N\u012b\u01bfe Scotland"
     ],
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0633\u0643\u0648\u0634\u0627"
@@ -43,6 +49,9 @@
     "name:ast_x_preferred":[
         "Nueva Escocia"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0627 \u0627\u0633\u06a9\u0648\u0634\u06cc\u0627"
+    ],
     "name:aze_x_preferred":[
         "Yeni \u015eotlandiya"
     ],
@@ -50,13 +59,17 @@
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u043e\u0432\u0430\u044f \u0428\u0430\u0442\u043b\u0430\u043d\u0434\u044b\u044f"
     ],
     "name:bel_x_variant":[
-        "\u041d\u043e\u0432\u0430\u044f \u0428\u0430\u0442\u043b\u044f\u043d\u0434\u044b\u044f"
+        "\u041d\u043e\u0432\u0430\u044f \u0428\u0430\u0442\u043b\u044f\u043d\u0434\u044b\u044f",
+        "\u041d\u043e\u0432\u0430\u044f \u0428\u0430\u0442\u043b\u0430\u043d\u0434\u044b\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09ad\u09be \u09b8\u09cd\u0995\u09b6\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "Nova \u0160kotska"
+    ],
+    "name:bos_x_variant":[
+        "Nova Scotia"
     ],
     "name:bre_x_preferred":[
         "Skos Nevez"
@@ -94,6 +107,9 @@
     "name:diq_x_preferred":[
         "\u0130sko\u00e7yay Newey"
     ],
+    "name:diq_x_variant":[
+        "\u0130sko\u00e7yaya Newiye"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a3\u03ba\u03c9\u03c4\u03af\u03b1"
     ],
@@ -126,6 +142,9 @@
     ],
     "name:fry_x_preferred":[
         "Nij-Skotl\u00e2n"
+    ],
+    "name:fry_x_variant":[
+        "Nij Skotl\u00e2n"
     ],
     "name:gla_x_preferred":[
         "Alba Nuadh"
@@ -193,6 +212,9 @@
     "name:kor_x_preferred":[
         "\ub178\ubc14\uc2a4\ucf54\uc0e4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub178\ubc14\uc2a4\ucf54\uc0e4\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Nova Scotia"
     ],
@@ -210,6 +232,12 @@
     ],
     "name:ltz_x_preferred":[
         "Nova Scotia"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u65af\u9ad8\u6c99"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4b\u0d35 \u0d38\u0d4d\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0928\u094b\u0935\u094d\u0939\u093e \u0938\u094d\u0915\u0949\u0936\u093f\u092f\u093e"
@@ -229,7 +257,13 @@
     "name:nah_x_preferred":[
         "Yancuic Escocia"
     ],
+    "name:nah_x_variant":[
+        "Yancu\u012bc Escocia"
+    ],
     "name:nan_x_preferred":[
+        "Nova Scotia"
+    ],
+    "name:nds_x_preferred":[
         "Nova Scotia"
     ],
     "name:nld_x_preferred":[
@@ -256,6 +290,9 @@
     "name:pan_x_preferred":[
         "\u0a28\u0a4b\u0a35\u0a3e \u0a38\u0a15\u0a4b\u0a38\u0a3c\u0a3e"
     ],
+    "name:pap_x_preferred":[
+        "Nova Scotia"
+    ],
     "name:pdc_x_preferred":[
         "Nei-Schottland"
     ],
@@ -276,6 +313,9 @@
     ],
     "name:ron_x_preferred":[
         "Noua Sco\u021bie"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0428\u043a\u043e\u0446\u0438\u044f"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f"
@@ -316,6 +356,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bcb\u0bb5\u0bbe \u0bb8\u0bcd\u0b95\u0bcb\u0b9a\u0bbf\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4b\u0c35\u0c3e \u0c38\u0c4d\u0c15\u0c4b\u0c1f\u0c3f\u0c2f\u0c3e"
     ],
@@ -351,6 +394,9 @@
     ],
     "name:war_x_preferred":[
         "Nova Scotia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10ee\u10d0\u10da\u10d8 \u10e8\u10dd\u10e2\u10da\u10d0\u10dc\u10d3\u10d8\u10d0"
@@ -488,7 +534,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1561844199,
+    "wof:lastmodified":1563281749,
     "wof:name":"Nova Scotia",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

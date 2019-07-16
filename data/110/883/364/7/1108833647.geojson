@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ckb_x_preferred":[
+        "\u06cc\u06c6\u0631\u06a9 \u06a4\u06cc\u06b5"
+    ],
     "name:deu_x_preferred":[
         "Yorkville"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u06a9\u0648\u06cc\u0644\u060c \u0679\u0648\u0631\u0646\u0679\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0631\u06a9\u0648\u06cc\u0644"
     ],
     "reversegeo:latitude":43.671827,
     "reversegeo:longitude":-79.392825,
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108833647,
-    "wof:lastmodified":1561844247,
+    "wof:lastmodified":1563283375,
     "wof:name":"Yorkville",
     "wof:parent_id":420781871,
     "wof:placetype":"microhood",

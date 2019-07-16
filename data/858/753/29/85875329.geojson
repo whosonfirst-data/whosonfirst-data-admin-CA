@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":48299330.388428,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.185835,49.041381,-122.185835,49.041381",
     "geom:latitude":49.041381,
     "geom:longitude":-122.185835,
@@ -24,7 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Sumas Prairie"
+    ],
+    "name:ces_x_preferred":[
+        "Sumask\u00e1 pr\u00e9rie"
+    ],
     "name:eng_x_preferred":[
+        "Sumas Prairie"
+    ],
+    "name:swe_x_preferred":[
         "Sumas Prairie"
     ],
     "name:unk_x_variant":[
@@ -64,8 +73,7 @@
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872079,
+    "wof:lastmodified":1563281848,
     "wof:name":"Sumas Prairie",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

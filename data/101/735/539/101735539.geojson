@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029001,
-    "geom:area_square_m":237008690.966284,
+    "geom:area_square_m":237008690.966397,
     "geom:bbox":"-93.7178089,48.5153836,-93.5831848,48.737654",
     "geom:latitude":48.629362,
     "geom:longitude":-93.651231,
@@ -28,11 +28,17 @@
     "name:ita_x_preferred":[
         "La Vall\u00e9e"
     ],
+    "name:ita_x_variant":[
+        "La Vallee"
+    ],
     "name:nld_x_preferred":[
         "La Vall\u00e9e"
     ],
     "name:pol_x_preferred":[
         "La Valle"
+    ],
+    "name:pol_x_variant":[
+        "La Vallee"
     ],
     "name:por_x_preferred":[
         "La Vall\u00e9e"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":101735539,
-    "wof:lastmodified":1533270526,
+    "wof:lastmodified":1563285417,
     "wof:name":"La Vallee",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

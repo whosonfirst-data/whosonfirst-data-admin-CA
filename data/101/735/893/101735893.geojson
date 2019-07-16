@@ -26,8 +26,14 @@
     "name:arz_x_preferred":[
         "\u0645\u064a\u0633\u064a\u0633\u0648\u062c\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Mississauga"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0633\u06cc\u0633\u0627\u06af\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0441\u0456\u0441\u043e\u0433\u0430"
     ],
     "name:bel_x_variant":[
         "\u041c\u0456\u0441\u044b\u0441\u0430\u0433\u0430"
@@ -143,6 +149,9 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a3f\u0a38\u0a40\u0a38\u0a3e\u0a17\u0a3e"
     ],
+    "name:pan_x_variant":[
+        "\u0a2e\u0a3f\u0a71\u0a38\u0a3f\u0a71\u0a38\u0a3e\u0a17\u0a3e"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0633\u0633\u0627\u06af\u0627"
     ],
@@ -158,7 +167,13 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0dc3\u0dd2\u0dc3\u0dcf\u0d9c\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Mississauga"
+    ],
     "name:slv_x_preferred":[
+        "Mississauga"
+    ],
+    "name:som_x_preferred":[
         "Mississauga"
     ],
     "name:spa_x_preferred":[
@@ -179,6 +194,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0b9a\u0bbf\u0b9a\u0bb5\u0bc1\u0b95\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0441\u0438\u0441\u043e\u0433\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c38\u0c4d\u0c38\u0c4d\u0c38\u0c3f\u0c38\u0c4d\u0c35\u0c3e\u0c17\u0c3e"
     ],
@@ -193,6 +211,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u0441\u0456\u0441\u043e\u0433\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0456\u0441\u0456\u0441\u0430\u0491\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u0633 \u0633\u0627\u06af\u0627"
@@ -263,7 +284,7 @@
         }
     ],
     "wof:id":101735893,
-    "wof:lastmodified":1561844467,
+    "wof:lastmodified":1563285376,
     "wof:name":"Mississauga",
     "wof:parent_id":890456343,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Saint-Eug\u00e8ne-de-Ladri\u00e8re"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4-\u0395\u03b6\u03ad\u03bd-\u03bd\u03c4\u03b5-\u039b\u03b1\u03bd\u03c4\u03c1\u03b9\u03ad\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Saint-Eug\u00e8ne-de-Ladri\u00e8re"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0627\u0648\u0698\u0646-\u062f\u0648-\u0644\u0627\u062f\u0631\u06cc\u06cc\u0631\u060c \u06a9\u0628\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u0627\u0648\u0698\u0646-\u062f\u0648-\u0644\u0627\u062f\u0631\u06cc\u06cc\u0631"
     ],
     "name:fra_x_preferred":[
         "Saint-Eug\u00e8ne-de-Ladri\u00e8re"
@@ -45,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u06cc\u0648\u062c\u06cc\u0646-\u062f\u06d2-\u0644\u0627\u062f\u0631\u06cc\u0631\u06d2\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u06cc\u0648\u062c\u06cc\u0646-\u062f\u06d2-\u0644\u0627\u062f\u0631\u06cc\u0631\u06d2"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":101737635,
-    "wof:lastmodified":1561844285,
+    "wof:lastmodified":1563284174,
     "wof:name":"Saint-Eug\u00e8ne-de-Ladri\u00e8re",
     "wof:parent_id":890456467,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a-\u062a\u06a9\u0644\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a-\u062a\u06a9\u0644"
+    ],
     "name:fra_x_preferred":[
         "Sainte-Th\u00e8cle"
     ],
@@ -56,8 +59,14 @@
     "name:swe_x_preferred":[
         "Sainte-Th\u00e8cle"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u0422\u0435\u043a\u043b\u044c"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u062a\u06be\u06a9\u0644\u06d2\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u062a\u06be\u06a9\u0644\u06d2"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101737277,
-    "wof:lastmodified":1561844302,
+    "wof:lastmodified":1563284254,
     "wof:name":"Sainte-Th\u00e8cle",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

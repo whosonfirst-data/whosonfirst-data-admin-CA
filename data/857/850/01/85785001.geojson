@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":82518778.614126,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.069264,48.418884,-71.069264,48.418884",
     "geom:latitude":48.418884,
     "geom:longitude":-71.069264,
@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0643\u0648\u062a\u064a\u0645\u064a"
     ],
+    "name:ces_x_preferred":[
+        "Chicoutimi"
+    ],
     "name:deu_x_preferred":[
         "Chicoutimi"
     ],
@@ -40,11 +43,20 @@
     "name:fra_x_preferred":[
         "Chicoutimi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05e7\u05d5\u05d8\u05d9\u05de\u05d9"
+    ],
     "name:ita_x_preferred":[
         "Chicoutimi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30af\u30fc\u30c1\u30df"
+    ],
     "name:lit_x_preferred":[
         "\u0160ikutimis"
+    ],
+    "name:nld_x_preferred":[
+        "Chicoutimi"
     ],
     "name:pol_x_preferred":[
         "Chicoutimi"
@@ -58,6 +70,9 @@
     "name:slv_x_preferred":[
         "Chicoutimi"
     ],
+    "name:spa_x_preferred":[
+        "Chicoutimi"
+    ],
     "name:sqi_x_preferred":[
         "Chicoutimi"
     ],
@@ -66,6 +81,9 @@
     ],
     "name:unk_x_variant":[
         "Chicoutimi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5eab\u8482\u7c73"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -131,7 +149,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531860665,
+    "wof:lastmodified":1563281694,
     "wof:name":"Chicoutimi",
     "wof:parent_id":101737173,
     "wof:placetype":"neighbourhood",

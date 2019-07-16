@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":519644.49956,
+    "geom:area_square_m":519644.499559,
     "geom:bbox":"-106.753548,52.114689,-106.729786,52.118069",
     "geom:latitude":52.116171,
     "geom:longitude":-106.742245,
@@ -23,16 +23,19 @@
     "name:eng_x_preferred":[
         "Agpro Industrial"
     ],
+    "name:eng_x_variant":[
+        "AgPro Industrial"
+    ],
     "reversegeo:latitude":52.116112,
     "reversegeo:longitude":-106.742245,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1126114019,
-    "wof:lastmodified":1531524181,
+    "wof:lastmodified":1563286607,
     "wof:name":"Agpro Industrial",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

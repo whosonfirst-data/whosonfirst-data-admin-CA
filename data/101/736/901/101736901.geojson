@@ -21,8 +21,14 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:atj_x_preferred":[
+        "Rigaud"
+    ],
     "name:ceb_x_preferred":[
         "Rigaud"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b3\u03ba\u03ce"
     ],
     "name:eng_x_preferred":[
         "Rigaud"
@@ -33,7 +39,13 @@
     "name:fas_x_preferred":[
         "\u0631\u06cc\u06af\u0648\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0631\u06cc\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Rigaud"
+    ],
+    "name:ita_x_preferred":[
         "Rigaud"
     ],
     "name:jpn_x_preferred":[
@@ -101,7 +113,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844315,
+    "wof:lastmodified":1563284355,
     "wof:name":"Rigaud",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

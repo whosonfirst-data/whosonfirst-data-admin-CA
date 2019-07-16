@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059789,
-    "geom:area_square_m":478878006.725718,
+    "geom:area_square_m":478878006.725723,
     "geom:bbox":"-96.7761836,49.5320291,-96.365848,49.7082163",
     "geom:latitude":49.628027,
     "geom:longitude":-96.543679,
@@ -16,6 +16,12 @@
     "mps:longitude":-96.54454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ste. Anne"
+    ],
+    "name:ceb_x_preferred":[
+        "Ste. Anne"
+    ],
     "name:eng_x_colloquial":[
         "Sainte Anne-des-Chenes",
         "Ste Anne-des-Chenes",
@@ -29,12 +35,34 @@
         "Ste Anne",
         "Ste Anne des Chenes"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sainte Anne-des-Ch\u00eanes"
     ],
     "name:fra_x_variant":[
         "Ste Anne-des-Ch\u00eanes",
-        "Ste. Anne-des-Ch\u00eanes"
+        "Ste. Anne-des-Ch\u00eanes",
+        "Sainte-Anne"
+    ],
+    "name:nld_x_preferred":[
+        "Ste. Anne"
+    ],
+    "name:nob_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:oci_x_preferred":[
+        "Ste. Anne"
+    ],
+    "name:pol_x_preferred":[
+        "Ste. Anne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u0410\u043d"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Manitoba",
@@ -88,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533071923,
+    "wof:lastmodified":1563285488,
     "wof:name":"Ste. Anne",
     "wof:parent_id":1158869059,
     "wof:placetype":"locality",

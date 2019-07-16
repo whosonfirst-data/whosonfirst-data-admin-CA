@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":4039606.501804,
+    "geom:area_square_m":4039606.501799,
     "geom:bbox":"-123.1588308,49.2897844,-123.1163524,49.3140786",
     "geom:latitude":49.302037,
     "geom:longitude":-123.142005,
@@ -25,6 +25,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0627\u0646\u0644\u064a \u0628\u0627\u0631\u0643"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u043a \u0421\u0442\u044d\u043d\u043b\u0456"
     ],
@@ -49,6 +52,12 @@
     "name:fra_x_preferred":[
         "Parc Stanley"
     ],
+    "name:fra_x_variant":[
+        "parc Stanley"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05e7 \u05e1\u05d8\u05e0\u05dc\u05d9"
+    ],
     "name:ind_x_preferred":[
         "Stanley Park"
     ],
@@ -67,11 +76,17 @@
     "name:nld_x_preferred":[
         "Stanley Park"
     ],
+    "name:pol_x_preferred":[
+        "Vancouver/Stanley Park"
+    ],
     "name:por_x_preferred":[
         "Parque de Stanley"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a \u0421\u0442\u044d\u043d\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u044d\u043d\u043b\u0438-\u043f\u0430\u0440\u043a"
     ],
     "name:slk_x_preferred":[
         "Stanley Park"
@@ -160,7 +175,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335938,
+    "wof:lastmodified":1563281961,
     "wof:name":"Stanley Park",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

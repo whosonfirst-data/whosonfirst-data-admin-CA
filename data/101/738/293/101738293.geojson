@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017894,
-    "geom:area_square_m":155357532.085047,
+    "geom:area_square_m":155357532.085031,
     "geom:bbox":"-72.845889818,45.337558514,-72.663335937,45.457917046",
     "geom:latitude":45.400416,
     "geom:longitude":-72.74549,
@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0646\u0628\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u0628\u06cc"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0440\u0430\u043d\u0431\u0456"
@@ -74,6 +77,9 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0431\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0435\u043d\u0431\u0456"
+    ],
     "name:vol_x_preferred":[
         "Granby"
     ],
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":101738293,
-    "wof:lastmodified":1533335637,
+    "wof:lastmodified":1563284628,
     "wof:name":"Granby",
     "wof:parent_id":890458535,
     "wof:placetype":"locality",

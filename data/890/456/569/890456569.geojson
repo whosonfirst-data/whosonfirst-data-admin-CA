@@ -32,6 +32,9 @@
     "name:ast_x_preferred":[
         "Buxu"
     ],
+    "name:ast_x_variant":[
+        "buxu"
+    ],
     "name:aym_x_preferred":[
         "Uqi"
     ],
@@ -47,11 +50,20 @@
     "name:bel_x_preferred":[
         "\u0428\u044d\u0440\u044b \u043a\u043e\u043b\u0435\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09a7\u09c2\u09b8\u09b0"
+    ],
     "name:bjn_x_preferred":[
         "Habuk"
     ],
+    "name:bjn_x_variant":[
+        "habuk"
+    ],
     "name:bre_x_preferred":[
         "Gris"
+    ],
+    "name:bre_x_variant":[
+        "gris"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u0432 \u0446\u0432\u044f\u0442"
@@ -59,11 +71,20 @@
     "name:cat_x_preferred":[
         "Gris"
     ],
+    "name:cat_x_variant":[
+        "gris"
+    ],
     "name:cdo_x_preferred":[
         "Hu\u014fi-s\u00e1ik"
     ],
+    "name:cdo_x_variant":[
+        "H\u016di-s\u00e1ik"
+    ],
     "name:ces_x_preferred":[
         "\u0160ed\u00e1"
+    ],
+    "name:ces_x_variant":[
+        "\u0161ed\u00e1"
     ],
     "name:che_x_preferred":[
         "\u0421\u0438\u0440\u0430"
@@ -71,8 +92,14 @@
     "name:cym_x_preferred":[
         "Llwyd"
     ],
+    "name:cym_x_variant":[
+        "llwyd"
+    ],
     "name:dan_x_preferred":[
         "Gr\u00e5"
+    ],
+    "name:dan_x_variant":[
+        "gr\u00e5"
     ],
     "name:deu_x_preferred":[
         "Grau"
@@ -83,8 +110,14 @@
     "name:eng_x_preferred":[
         "Grey"
     ],
+    "name:eng_x_variant":[
+        "gray"
+    ],
     "name:epo_x_preferred":[
         "Griza"
+    ],
+    "name:epo_x_variant":[
+        "grizo"
     ],
     "name:est_x_preferred":[
         "Hall"
@@ -92,13 +125,31 @@
     "name:eus_x_preferred":[
         "Gris"
     ],
+    "name:eus_x_variant":[
+        "gris"
+    ],
+    "name:fao_x_preferred":[
+        "gr\u00e1"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u06a9\u0633\u062a\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Harmaa"
     ],
+    "name:fin_x_variant":[
+        "harmaa"
+    ],
     "name:fra_x_preferred":[
+        "Gris"
+    ],
+    "name:fra_x_variant":[
+        "gris"
+    ],
+    "name:gle_x_preferred":[
+        "Liath"
+    ],
+    "name:glg_x_preferred":[
         "Gris"
     ],
     "name:grn_x_preferred":[
@@ -119,23 +170,41 @@
     "name:hrv_x_preferred":[
         "Akromatske boje"
     ],
+    "name:hun_x_preferred":[
+        "sz\u00fcrke"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u056d\u0580\u0561\u0563\u0578\u0582\u0575\u0576"
     ],
     "name:ind_x_preferred":[
         "Abu-abu"
     ],
+    "name:ind_x_variant":[
+        "abu-abu"
+    ],
     "name:ita_x_preferred":[
         "Grigio"
+    ],
+    "name:ita_x_variant":[
+        "grigio"
     ],
     "name:jav_x_preferred":[
         "Klawu"
     ],
+    "name:jav_x_variant":[
+        "klawu"
+    ],
     "name:jpn_x_preferred":[
         "\u7070\u8272"
     ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc2\u0ca6\u0cc1"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u04b1\u0440 \u0442\u04af\u0441"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u04b1\u0440"
     ],
     "name:kor_x_preferred":[
         "\ud68c\uc0c9"
@@ -151,6 +220,12 @@
     ],
     "name:lav_x_preferred":[
         "Pel\u0113k\u0101 kr\u0101sa"
+    ],
+    "name:lav_x_variant":[
+        "pel\u0113k\u0101 kr\u0101sa"
+    ],
+    "name:lfn_x_preferred":[
+        "Gris"
     ],
     "name:lit_x_preferred":[
         "Pilka"
@@ -170,8 +245,20 @@
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0432\u0430 \u0431\u043e\u0458\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0441\u0438\u0432\u0430"
+    ],
     "name:msa_x_preferred":[
         "Kelabu"
+    ],
+    "name:msa_x_variant":[
+        "kelabu"
+    ],
+    "name:nah_x_preferred":[
+        "Nextic"
+    ],
+    "name:nan_x_preferred":[
+        "Ph\u00fa-sek"
     ],
     "name:nep_x_preferred":[
         "\u0916\u0930\u093e\u0928\u0940"
@@ -182,8 +269,17 @@
     "name:nld_x_preferred":[
         "Grijs"
     ],
+    "name:nld_x_variant":[
+        "grijs"
+    ],
     "name:nno_x_preferred":[
         "Gr\u00e5"
+    ],
+    "name:nno_x_variant":[
+        "gr\u00e5"
+    ],
+    "name:nob_x_preferred":[
+        "gr\u00e5"
     ],
     "name:nor_x_preferred":[
         "Gr\u00e5"
@@ -197,14 +293,23 @@
     "name:oci_x_preferred":[
         "Gris"
     ],
+    "name:pam_x_preferred":[
+        "Abu"
+    ],
     "name:pdc_x_preferred":[
         "Groh"
     ],
     "name:pol_x_preferred":[
         "Barwa szara"
     ],
+    "name:pol_x_variant":[
+        "barwa szara"
+    ],
     "name:por_x_preferred":[
         "Cinza"
+    ],
+    "name:por_x_variant":[
+        "cinza"
     ],
     "name:que_x_preferred":[
         "Uqi"
@@ -212,8 +317,20 @@
     "name:ron_x_preferred":[
         "Gri"
     ],
+    "name:rup_x_preferred":[
+        "Grivu"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u044b\u0439 \u0446\u0432\u0435\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0441\u0435\u0440\u044b\u0439"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u04a5"
+    ],
+    "name:scn_x_preferred":[
+        "griciu"
     ],
     "name:sco_x_preferred":[
         "Gray"
@@ -221,20 +338,56 @@
     "name:slk_x_preferred":[
         "Siv\u00e1"
     ],
+    "name:slk_x_variant":[
+        "siv\u00e1"
+    ],
+    "name:slv_x_preferred":[
+        "siva"
+    ],
+    "name:sma_x_preferred":[
+        "kraevies"
+    ],
+    "name:sme_x_preferred":[
+        "r\u00e1nes"
+    ],
+    "name:smj_x_preferred":[
+        "r\u00e1vvat"
+    ],
     "name:som_x_preferred":[
         "Cowl"
     ],
     "name:spa_x_preferred":[
         "Gris"
     ],
+    "name:spa_x_variant":[
+        "gris"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0432\u0430 \u0431\u043e\u0458\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0441\u0438\u0432\u0430"
     ],
     "name:sun_x_preferred":[
         "Kulawu"
     ],
+    "name:sun_x_variant":[
+        "kulawu"
+    ],
     "name:swe_x_preferred":[
         "Gr\u00e5"
+    ],
+    "name:swe_x_variant":[
+        "gr\u00e5"
+    ],
+    "name:tah_x_preferred":[
+        "rehu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0441\u043e\u0440\u044b"
     ],
     "name:tgk_x_preferred":[
         "\u0425\u043e\u043a\u0438\u0441\u0442\u0430\u0440\u04e3"
@@ -251,6 +404,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0440\u0438\u0439 \u043a\u043e\u043b\u0456\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u0441\u0456\u0440\u0438\u0439 \u043a\u043e\u043b\u0456\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u06a9\u0633\u062a\u0631\u06cc"
     ],
@@ -263,8 +419,20 @@
     "name:vie_x_preferred":[
         "M\u00e0u x\u00e1m"
     ],
+    "name:vie_x_variant":[
+        "x\u00e1m"
+    ],
+    "name:vro_x_preferred":[
+        "Hall"
+    ],
     "name:war_x_preferred":[
         "Abuhon"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7070\u8272"
+    ],
+    "name:yue_x_preferred":[
+        "\u7070"
     ],
     "name:zha_x_preferred":[
         "Saekmong"
@@ -323,7 +491,7 @@
         }
     ],
     "wof:id":890456569,
-    "wof:lastmodified":1554759368,
+    "wof:lastmodified":1563286129,
     "wof:name":"Grey",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Armstrong Point"
     ],
+    "name:eng_x_variant":[
+        "Armstrong's Point"
+    ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -40,12 +43,12 @@
     "wd:longitude":-97.1564,
     "wd:wordcount":627,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968923,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523920,
+    "wof:lastmodified":1563282137,
     "wof:name":"Armstrong Point",
     "wof:parent_id":1108968923,
     "wof:placetype":"neighbourhood",

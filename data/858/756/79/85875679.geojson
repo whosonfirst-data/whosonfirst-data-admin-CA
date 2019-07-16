@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4419385.820353,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.608734,45.990282,-66.608734,45.990282",
     "geom:latitude":45.990282,
     "geom:longitude":-66.608734,
@@ -26,6 +26,12 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Marysville District"
+    ],
+    "name:eng_x_variant":[
+        "Marysville School District"
+    ],
+    "name:fra_x_preferred":[
+        "Marysville School District"
     ],
     "name:unk_x_variant":[
         "Marysville District"
@@ -59,11 +65,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":640,
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735269,
-        890458685,
-        85682065
+        890458685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872196,
+    "wof:lastmodified":1563282063,
     "wof:name":"Marysville District",
     "wof:parent_id":101735269,
     "wof:placetype":"neighbourhood",
