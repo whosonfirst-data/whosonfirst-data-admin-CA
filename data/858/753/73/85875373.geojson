@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8354454.819762,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.455592,44.234122,-76.455592,44.234122",
     "geom:latitude":44.234122,
     "geom:longitude":-76.455592,
@@ -35,6 +35,12 @@
     ],
     "name:fra_x_preferred":[
         "Base des Forces canadiennes Kingston"
+    ],
+    "name:fra_x_variant":[
+        "BFC Kingston"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30f3\u30b0\u30b9\u30c8\u30f3\u7a7a\u8ecd\u57fa\u5730"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d"
@@ -107,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872093,
+    "wof:lastmodified":1563281849,
     "wof:name":"CFB Kingston",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

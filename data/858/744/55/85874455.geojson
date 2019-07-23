@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002618,
-    "geom:area_square_m":22786247.071964,
+    "geom:area_square_m":22786247.071938,
     "geom:bbox":"-75.9739880001,45.2406409997,-75.8975499996,45.3035759998",
     "geom:latitude":45.270712,
     "geom:longitude":-75.933697,
@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Stittsville"
     ],
+    "name:fra_x_preferred":[
+        "Stittsville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c6\u30a3\u30c3\u30c4\u30d3\u30eb"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0438\u0442\u0441\u0432\u0438\u043b\u043b"
     ],
@@ -61,12 +67,12 @@
     "wd:longitude":-75.925,
     "wd:wordcount":888,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126017307,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277895,
+    "wof:lastmodified":1563282184,
     "wof:name":"Stittsville",
     "wof:parent_id":1126017307,
     "wof:placetype":"neighbourhood",

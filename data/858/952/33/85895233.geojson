@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000813,
-    "geom:area_square_m":7250783.918802,
+    "geom:area_square_m":7250783.9188,
     "geom:bbox":"-79.29126924,43.789068963,-79.242127455,43.819006775",
     "geom:latitude":43.805441,
     "geom:longitude":-79.266712,
@@ -26,6 +26,18 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Agincourt North"
+    ],
+    "name:eng_x_variant":[
+        "Agincourt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u06cc\u0646\u06a9\u0648\u0631\u062a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0646\u06a9\u0648\u0631\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u611b\u975c\u95a3"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -73,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335741,
+    "wof:lastmodified":1563281856,
     "wof:name":"Agincourt North",
     "wof:parent_id":1108833323,
     "wof:placetype":"neighbourhood",

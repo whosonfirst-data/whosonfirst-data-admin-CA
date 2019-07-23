@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001425,
-    "geom:area_square_m":12323206.501911,
+    "geom:area_square_m":12323206.501907,
     "geom:bbox":"-73.5683493986,45.6104700521,-73.4903626739,45.6482857698",
     "geom:latitude":45.62936,
     "geom:longitude":-73.528679,
@@ -19,6 +19,12 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0631\u064a\u0627\u0644 \u0625\u064a\u0633\u062a"
+    ],
+    "name:atj_x_preferred":[
+        "Wapanok-Moriak"
+    ],
+    "name:cat_x_preferred":[
+        "Montr\u00e9al-Est"
     ],
     "name:ceb_x_preferred":[
         "Montr\u00e9al-Est"
@@ -38,6 +44,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0631\u0626\u0627\u0644-\u0627\u0633\u062a\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0646\u062a\u0631\u0626\u0627\u0644-\u0627\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Montr\u00e9al-Est"
     ],
@@ -47,10 +56,28 @@
     "name:hrv_x_preferred":[
         "Montr\u00e9al-Est"
     ],
+    "name:ita_x_preferred":[
+        "Montr\u00e9al-Est"
+    ],
+    "name:nld_x_preferred":[
+        "Montr\u00e9al-Est"
+    ],
+    "name:oci_x_preferred":[
+        "Montr\u00e9al-Est"
+    ],
     "name:pol_x_preferred":[
         "Montr\u00e9al-Est"
     ],
+    "name:por_x_preferred":[
+        "Montr\u00e9al-Est"
+    ],
     "name:spa_x_preferred":[
+        "Montr\u00e9al-Est"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0440\u0435\u0430\u043b \u0418\u0441\u0442\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
         "Montr\u00e9al-Est"
     ],
     "name:unk_x_variant":[
@@ -105,7 +132,7 @@
         }
     ],
     "wof:id":101736479,
-    "wof:lastmodified":1533335622,
+    "wof:lastmodified":1563284389,
     "wof:name":"Montreal-Est",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

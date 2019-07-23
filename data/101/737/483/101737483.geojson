@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u0646\u062a \u0645\u0627\u062f\u0644\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Sainte-Madeleine"
+    ],
     "name:deu_x_preferred":[
         "Sainte-Madeleine"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4-\u039c\u03b1\u03bd\u03c4\u03bb\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Sainte-Madeleine"
@@ -31,6 +37,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a-\u0645\u0627\u062f\u0644\u0646\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062a-\u0645\u0627\u062f\u0644\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sainte-Madeleine"
     ],
@@ -40,8 +49,14 @@
     "name:spa_x_preferred":[
         "Sainte-Madeleine"
     ],
+    "name:swe_x_preferred":[
+        "Sainte-Madeleine"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u0645\u06cc\u0688\u0644\u06cc\u0646\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u0645\u06cc\u0688\u0644\u06cc\u0646"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":101737483,
-    "wof:lastmodified":1561844281,
+    "wof:lastmodified":1563284146,
     "wof:name":"Sainte-Madeleine",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

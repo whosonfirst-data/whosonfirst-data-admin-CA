@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12054197.48812,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.567172,43.18999,-79.567172,43.18999",
     "geom:latitude":43.18999,
     "geom:longitude":-79.567172,
@@ -33,14 +33,29 @@
     "name:fra_x_preferred":[
         "Escarpement du Niagara"
     ],
+    "name:fra_x_variant":[
+        "escarpement du Niagara"
+    ],
+    "name:hun_x_preferred":[
+        "Niagara Escarpment"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30a4\u30a2\u30ac\u30e9\u65ad\u5d16"
+    ],
     "name:pol_x_preferred":[
         "Kuesta Niagary"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0430\u0433\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0443\u0441\u0442\u0443\u043f"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u0456\u0430\u0433\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u041a\u0443\u0435\u0441\u0442\u0430"
+    ],
     "name:unk_x_variant":[
         "Niagara Escarpment"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u52a0\u62c9\u5ced\u5d16"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -108,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931443,
+    "wof:lastmodified":1563281872,
     "wof:name":"Niagara Escarpment",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

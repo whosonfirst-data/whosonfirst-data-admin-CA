@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032341,
+    "geom:area_square_m":275077466.462715,
     "geom:bbox":"-84.6268691,46.4532,-84.2294522,46.6122858",
     "geom:latitude":46.538954,
     "geom:longitude":-84.399509,
@@ -19,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648 \u0633\u0627\u064a\u0646\u062a \u0645\u0627\u0631\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648 \u0633\u0646\u062a\u200c\u0645\u0627\u0631\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0443-\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u044b"
+    ],
     "name:ceb_x_preferred":[
         "Sault Ste. Marie"
     ],
@@ -29,6 +36,9 @@
         "Sault Ste. Marie"
     ],
     "name:eng_x_preferred":[
+        "Sault Ste. Marie"
+    ],
+    "name:est_x_preferred":[
         "Sault Ste. Marie"
     ],
     "name:fas_x_preferred":[
@@ -43,6 +53,9 @@
     "name:fra_x_variant":[
         "Sault-Sainte-Marie"
     ],
+    "name:fry_x_preferred":[
+        "Sault Ste. Marie"
+    ],
     "name:ita_x_preferred":[
         "Sault Sainte Marie"
     ],
@@ -56,6 +69,9 @@
         "\uc218\uc138\uc778\ud2b8\ub9c8\ub9ac"
     ],
     "name:nld_x_preferred":[
+        "Sault Ste. Marie"
+    ],
+    "name:nob_x_preferred":[
         "Sault Ste. Marie"
     ],
     "name:nor_x_preferred":[
@@ -151,7 +167,7 @@
         }
     ],
     "wof:id":101735641,
-    "wof:lastmodified":1533335617,
+    "wof:lastmodified":1563285464,
     "wof:name":"Sault Ste. Marie",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

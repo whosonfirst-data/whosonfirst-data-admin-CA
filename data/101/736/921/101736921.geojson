@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u064a\u0644\u064a\u0633\u064a\u0627\u0646"
     ],
+    "name:atj_x_preferred":[
+        "Saint-F\u00e9licien"
+    ],
     "name:cat_x_preferred":[
         "Saint-F\u00e9licien"
     ],
@@ -38,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0641\u0644\u06cc\u0633\u06cc\u0646\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u0641\u0644\u06cc\u0633\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Saint-F\u00e9licien"
     ],
@@ -51,6 +57,9 @@
         "Saint-F\u00e9licien"
     ],
     "name:pol_x_preferred":[
+        "Saint-F\u00e9licien"
+    ],
+    "name:por_x_preferred":[
         "Saint-F\u00e9licien"
     ],
     "name:rus_x_preferred":[
@@ -70,6 +79,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0641\u0644\u06cc\u06a9\u06cc\u06ba \u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0641\u0644\u06cc\u06a9\u06cc\u06ba "
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u8d39\u5229\u897f\u5b89"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":101736921,
-    "wof:lastmodified":1561844350,
+    "wof:lastmodified":1563284555,
     "wof:name":"Saint-F\u00e9licien",
     "wof:parent_id":890458021,
     "wof:placetype":"locality",

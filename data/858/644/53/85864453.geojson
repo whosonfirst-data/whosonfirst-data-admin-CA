@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002884,
-    "geom:area_square_m":25021334.643782,
+    "geom:area_square_m":25021334.643761,
     "geom:bbox":"-75.4951710004,45.4141085559,-75.4047154134,45.4736940001",
     "geom:latitude":45.436842,
     "geom:longitude":-75.44735,
@@ -27,6 +27,9 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Navan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Cumberland"
@@ -62,12 +65,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126040691,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277889,
+    "wof:lastmodified":1563281893,
     "wof:name":"Navan",
     "wof:parent_id":1126040691,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3262684.677226,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.247978,43.848763,-79.247978,43.848763",
     "geom:latitude":43.848763,
     "geom:longitude":-79.247978,
@@ -27,11 +27,26 @@
     "name:ara_x_preferred":[
         "\u062e\u0634\u0628 \u0627\u0644\u0627\u0631\u0632"
     ],
+    "name:ces_x_preferred":[
+        "cedrov\u00e9 d\u0159evo"
+    ],
+    "name:deu_x_preferred":[
+        "Zedernholz"
+    ],
     "name:eng_x_preferred":[
         "Cedarwood"
     ],
+    "name:eng_x_variant":[
+        "cedar wood"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30c0\u30fc"
+    ],
+    "name:nob_x_preferred":[
+        "sedertre"
+    ],
+    "name:pol_x_preferred":[
+        "drewno cedru"
     ],
     "qs:gn_id":0,
     "src:geom":"mz",
@@ -81,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931391,
+    "wof:lastmodified":1563281822,
     "wof:name":"Cedarwood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

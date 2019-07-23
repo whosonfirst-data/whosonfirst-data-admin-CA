@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006848,
+    "geom:area_square_m":56529562.934645,
     "geom:bbox":"-65.613420101,48.063538271,-65.492621203,48.168530967",
     "geom:latitude":48.114858,
     "geom:longitude":-65.554493,
@@ -15,14 +16,26 @@
     "mps:longitude":-65.555394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Sant Sime\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Saint-Sim\u00e9on"
+    ],
+    "name:eng_x_variant":[
+        "Saint Simeon"
     ],
     "name:fra_x_preferred":[
         "Saint Sim\u00e9on"
     ],
+    "name:ron_x_preferred":[
+        "Sf\u00e2ntul Simeon"
+    ],
     "name:sco_x_preferred":[
         "Saunt Simeon"
+    ],
+    "name:sco_x_variant":[
+        "Saint Simeon"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u0421\u0438\u043c\u0435\u043e\u043d"
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":101738683,
-    "wof:lastmodified":1533335641,
+    "wof:lastmodified":1563284711,
     "wof:name":"Saint-Sim\u00e9on",
     "wof:parent_id":890456501,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "St. Hilaire"
     ],
+    "name:eng_x_variant":[
+        "Saint-Hilaire"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0647\u06cc\u0644\u0631"
+    ],
     "name:fra_x_preferred":[
         "Saint-Hilaire"
     ],
@@ -79,6 +85,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u06c1\u0644\u06cc\u0631\u06cc\u060c \u0646\u06cc\u0648 \u0628\u0631\u0646\u0633\u0648\u06a9"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u06c1\u0644\u06cc\u0631\u06cc"
+    ],
     "qs:a0":"Canada",
     "qs:a1":"*New Brunswick",
     "qs:a1_lc":"NB",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101735201,
-    "wof:lastmodified":1561844483,
+    "wof:lastmodified":1563285485,
     "wof:name":"St. Hilaire",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

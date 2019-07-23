@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15340005.769143,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.217069,43.218462,-79.217069,43.218462",
     "geom:latitude":43.218462,
     "geom:longitude":-79.217069,
@@ -26,6 +26,15 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
+        "Port Weller"
+    ],
+    "name:fra_x_preferred":[
+        "Port Weller"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30a6\u30a7\u30e9\u30fc"
+    ],
+    "name:nld_x_preferred":[
         "Port Weller"
     ],
     "name:unk_x_variant":[
@@ -62,7 +71,6 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736345,
         85633041,
@@ -100,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860657,
+    "wof:lastmodified":1563281708,
     "wof:name":"Port Weller",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

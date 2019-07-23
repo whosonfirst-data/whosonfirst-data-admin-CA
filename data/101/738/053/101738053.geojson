@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0639\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0627\u064a\u0633"
+    ],
     "name:atj_x_preferred":[
         "Price"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:cat_x_preferred":[
         "Preu"
+    ],
+    "name:ceb_x_preferred":[
+        "Price"
     ],
     "name:ces_x_preferred":[
         "Cena"
@@ -74,7 +80,8 @@
         "\u0642\u06cc\u0645\u062a"
     ],
     "name:fas_x_variant":[
-        "\u067e\u0631\u06cc\u0633\u060c \u06a9\u0628\u06a9"
+        "\u067e\u0631\u06cc\u0633\u060c \u06a9\u0628\u06a9",
+        "\u067e\u0631\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "Hinta"
@@ -154,6 +161,9 @@
     "name:por_x_preferred":[
         "Pre\u00e7o"
     ],
+    "name:por_x_variant":[
+        "Price"
+    ],
     "name:ron_x_preferred":[
         "Pre\u021b"
     ],
@@ -169,11 +179,17 @@
     "name:spa_x_preferred":[
         "Precio"
     ],
+    "name:spa_x_variant":[
+        "Price"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0435\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Pris"
+    ],
+    "name:swe_x_variant":[
+        "Price"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0bb2\u0bc8"
@@ -231,7 +247,7 @@
         }
     ],
     "wof:id":101738053,
-    "wof:lastmodified":1561844359,
+    "wof:lastmodified":1563284618,
     "wof:name":"Price",
     "wof:parent_id":890457735,
     "wof:placetype":"locality",

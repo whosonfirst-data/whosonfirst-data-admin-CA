@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":377031.773856,
+    "geom:area_square_m":377031.773855,
     "geom:bbox":"-97.153064,49.881273,-97.143194,49.88916",
     "geom:latitude":49.884722,
     "geom:longitude":-97.148311,
@@ -27,6 +27,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:afr_x_preferred":[
+        "Wetgewer"
+    ],
     "name:als_x_preferred":[
         "Legislative"
     ],
@@ -42,11 +45,17 @@
     "name:ast_x_preferred":[
         "Poder llexislativu"
     ],
+    "name:aze_x_preferred":[
+        "Qanunverici hakimiyy\u0259t"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043a\u0430\u043d\u0430\u0434\u0430\u045e\u0447\u0430\u044f \u045e\u043b\u0430\u0434\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0417\u0430\u043a\u0430\u043d\u0430\u0434\u0430\u045e\u0447\u0430\u044f \u045e\u043b\u0430\u0434\u0430"
+        "\u0437\u0430\u043a\u0430\u043d\u0430\u0434\u0430\u045e\u0447\u0430\u044f \u045e\u043b\u0430\u0434\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09a7\u09be\u09a8\u09ae\u09a3\u09cd\u09a1\u09b2"
     ],
     "name:bos_x_preferred":[
         "Zakonodavna vlast"
@@ -57,20 +66,41 @@
     "name:cat_x_preferred":[
         "Poder legislatiu"
     ],
+    "name:cat_x_variant":[
+        "poder legislatiu"
+    ],
     "name:ces_x_preferred":[
         "Z\u00e1konod\u00e1rn\u00e1 moc"
+    ],
+    "name:ces_x_variant":[
+        "z\u00e1konod\u00e1rn\u00e1 moc"
+    ],
+    "name:cym_x_preferred":[
+        "deddfwrfa"
     ],
     "name:dan_x_preferred":[
         "Lovgivende magt"
     ],
+    "name:dan_x_variant":[
+        "lovgivende magt"
+    ],
     "name:deu_x_preferred":[
         "Legislative"
+    ],
+    "name:ell_x_preferred":[
+        "\u03bd\u03bf\u03bc\u03bf\u03b8\u03b5\u03c4\u03b9\u03ba\u03cc \u03c3\u03ce\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Legislature"
     ],
+    "name:eng_x_variant":[
+        "legislature"
+    ],
     "name:epo_x_preferred":[
         "Le\u011ddona povo"
+    ],
+    "name:epo_x_variant":[
+        "le\u011ddona povo"
     ],
     "name:est_x_preferred":[
         "Seadusandlik v\u00f5im"
@@ -78,23 +108,44 @@
     "name:eus_x_preferred":[
         "Botere legegile"
     ],
+    "name:eus_x_variant":[
+        "botere legegile"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0648\u0647 \u0645\u0642\u0646\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0648\u0647 \u0642\u0627\u0646\u0648\u0646\u200c\u06af\u0630\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Lains\u00e4\u00e4d\u00e4nt\u00f6elin"
     ],
+    "name:fin_x_variant":[
+        "lains\u00e4\u00e4d\u00e4nt\u00f6elin"
+    ],
     "name:fra_x_preferred":[
         "Pouvoir l\u00e9gislatif"
+    ],
+    "name:fra_x_variant":[
+        "pouvoir l\u00e9gislatif"
     ],
     "name:fry_x_preferred":[
         "Wetjouwende macht"
     ],
+    "name:fry_x_variant":[
+        "wetjouwende macht"
+    ],
     "name:glg_x_preferred":[
         "Poder lexislativo"
     ],
+    "name:glg_x_variant":[
+        "poder lexislativo"
+    ],
     "name:glv_x_preferred":[
         "Quaiyl slattyssagh"
+    ],
+    "name:gsw_x_preferred":[
+        "Legislative"
     ],
     "name:hbs_x_preferred":[
         "Zakonodavna vlast"
@@ -108,6 +159,12 @@
     "name:hrv_x_preferred":[
         "Zakonodavna vlast"
     ],
+    "name:hsb_x_preferred":[
+        "legislatiwa"
+    ],
+    "name:hun_x_preferred":[
+        "t\u00f6rv\u00e9nyhoz\u00f3 szerv"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0580\u0565\u0576\u057d\u0564\u056b\u0580 \u056b\u0577\u056d\u0561\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
@@ -117,11 +174,17 @@
     "name:ind_x_preferred":[
         "Legislatif"
     ],
+    "name:ind_x_variant":[
+        "Lembaga legislatif"
+    ],
     "name:isl_x_preferred":[
         "L\u00f6ggjafarvald"
     ],
     "name:ita_x_preferred":[
         "Potere legislativo"
+    ],
+    "name:ita_x_variant":[
+        "potere legislativo"
     ],
     "name:jav_x_preferred":[
         "Legislatif"
@@ -131,6 +194,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb6\u0cbe\u0cb8\u0c95\u0cbe\u0c82\u0c97"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d9\u10d0\u10dc\u10dd\u10dc\u10db\u10d3\u10d4\u10d1\u10da\u10dd \u10ee\u10d4\u10da\u10d8\u10e1\u10e3\u10e4\u10da\u10d4\u10d1\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0417\u0430\u04a3 \u0448\u044b\u0493\u0430\u0440\u0443\u0448\u044b \u0431\u0438\u043b\u0456\u043a"
@@ -150,8 +216,14 @@
     "name:lav_x_preferred":[
         "Likumdo\u0161anas vara"
     ],
+    "name:lav_x_variant":[
+        "likumdo\u0161anas vara"
+    ],
     "name:lit_x_preferred":[
         "\u012estatym\u0173 leid\u017eiamoji vald\u017eia"
+    ],
+    "name:lmo_x_preferred":[
+        "Poder legislativ"
     ],
     "name:ltz_x_preferred":[
         "Legislativ"
@@ -165,8 +237,17 @@
     "name:mkd_x_preferred":[
         "\u0417\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u043d\u0430 \u0432\u043b\u0430\u0441\u0442"
     ],
+    "name:mkd_x_variant":[
+        "\u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u0435\u043d \u043e\u0440\u0433\u0430\u043d"
+    ],
     "name:msa_x_preferred":[
         "Badan perundangan"
+    ],
+    "name:msa_x_variant":[
+        "badan perundangan"
+    ],
+    "name:nan_x_preferred":[
+        "Li\u030dp-hoat"
     ],
     "name:nds_x_preferred":[
         "Gesettgevend Macht"
@@ -177,8 +258,17 @@
     "name:nld_x_preferred":[
         "Wetgevende macht"
     ],
+    "name:nld_x_variant":[
+        "wetgevende macht"
+    ],
     "name:nno_x_preferred":[
         "Den lovgjevande makta"
+    ],
+    "name:nno_x_variant":[
+        "lovgjevande forsamling"
+    ],
+    "name:nob_x_preferred":[
+        "lovgivende makt"
     ],
     "name:nor_x_preferred":[
         "Lovgivende makt"
@@ -186,17 +276,29 @@
     "name:oci_x_preferred":[
         "Poder legislatiu"
     ],
+    "name:oci_x_variant":[
+        "poder legislatiu"
+    ],
     "name:pan_x_preferred":[
         "\u0a35\u0a3f\u0a27\u0a3e\u0a28 \u0a38\u0a2d\u0a3e"
     ],
     "name:pol_x_preferred":[
         "W\u0142adza ustawodawcza"
     ],
+    "name:pol_x_variant":[
+        "w\u0142adza ustawodawcza"
+    ],
     "name:por_x_preferred":[
         "Poder Legislativo"
     ],
+    "name:por_x_variant":[
+        "poder legislativo"
+    ],
     "name:pus_x_preferred":[
         "\u0642\u0627\u0646\u0648\u0646 \u0633\u0627\u0632\u064a"
+    ],
+    "name:pus_x_variant":[
+        "\u0645\u0642\u0646\u0646\u0647 \u0642\u0648\u0647"
     ],
     "name:que_x_preferred":[
         "Kamachi quq atiy"
@@ -204,11 +306,17 @@
     "name:ron_x_preferred":[
         "Legislativ"
     ],
+    "name:ron_x_variant":[
+        "Putere legislativ\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0432\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:sco_x_preferred":[
         "Legislatur"
+    ],
+    "name:sco_x_variant":[
+        "legislatur"
     ],
     "name:sin_x_preferred":[
         "\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0daf\u0dcf\u0dba\u0d9a\u0dba"
@@ -222,8 +330,14 @@
     "name:som_x_preferred":[
         "Sharcidajin"
     ],
+    "name:som_x_variant":[
+        "Sharci dajinta"
+    ],
     "name:spa_x_preferred":[
         "Poder legislativo"
+    ],
+    "name:spa_x_variant":[
+        "poder legislativo"
     ],
     "name:sqi_x_preferred":[
         "Legjislatura"
@@ -231,8 +345,17 @@
     "name:srp_x_preferred":[
         "\u0417\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u043d\u0430 \u0432\u043b\u0430\u0441\u0442"
     ],
+    "name:srp_x_variant":[
+        "\u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u043d\u0430 \u0432\u043b\u0430\u0441\u0442"
+    ],
+    "name:sun_x_preferred":[
+        "L\u00e9gislatip"
+    ],
     "name:swe_x_preferred":[
         "Lagstiftande f\u00f6rsamling"
+    ],
+    "name:swe_x_variant":[
+        "lagstiftande makt"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbe\u0b95\u0bcd\u0b95 \u0b85\u0bb5\u0bc8"
@@ -243,6 +366,9 @@
     "name:tgk_x_preferred":[
         "\u04b2\u043e\u043a\u0438\u043c\u0438\u044f\u0442\u0438 \u049b\u043e\u043d\u0443\u043d\u0431\u0430\u0440\u043e\u0440"
     ],
+    "name:tgk_x_variant":[
+        "\u04b2\u043e\u043a\u0438\u043c\u0438\u044f\u0442\u0438 \u049b\u043e\u043d\u0443\u043d\u0433\u0443\u0437\u043e\u0440"
+    ],
     "name:tgl_x_preferred":[
         "Tagapagbatas"
     ],
@@ -252,8 +378,14 @@
     "name:tur_x_preferred":[
         "Yasama organ\u0131"
     ],
+    "name:tur_x_variant":[
+        "yasama organ\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u0447\u0430 \u0432\u043b\u0430\u0434\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u0447\u0430 \u0432\u043b\u0430\u0434\u0430"
     ],
     "name:unk_x_variant":[
         "Legislature"
@@ -264,11 +396,20 @@
     "name:vie_x_preferred":[
         "C\u01a1 quan l\u1eadp ph\u00e1p"
     ],
+    "name:yor_x_preferred":[
+        "\u1eb9\u0300ka a\u1e63oj\u00fa"
+    ],
+    "name:yue_x_preferred":[
+        "\u7acb\u6cd5\u6a5f\u69cb"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Li\u030dp-hoat"
     ],
     "name:zho_x_preferred":[
         "\u7acb\u6cd5\u673a\u6784"
+    ],
+    "name:zho_x_variant":[
+        "\u7acb\u6cd5\u6a5f\u69cb"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -278,12 +419,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":726,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968511,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -309,7 +450,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523916,
+    "wof:lastmodified":1563281970,
     "wof:name":"Legislature",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

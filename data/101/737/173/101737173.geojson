@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u063a\u064a\u0646\u064a\u0647"
     ],
+    "name:atj_x_preferred":[
+        "Saguenay"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0433\u0435\u043d\u0435\u0439"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u0433\u043d\u044d"
     ],
@@ -66,7 +72,8 @@
         "\u0633\u06af\u0646\u0647\u060c \u06a9\u0628\u06a9"
     ],
     "name:fas_x_variant":[
-        "\u0633\u0627\u06af\u0648\u0646\u0647\u060c \u06a9\u0628\u06a9"
+        "\u0633\u0627\u06af\u0648\u0646\u0647\u060c \u06a9\u0628\u06a9",
+        "\u0633\u0627\u06af\u0648\u0646\u0647"
     ],
     "name:fin_x_preferred":[
         "Saguenay"
@@ -158,8 +165,14 @@
     "name:swe_x_preferred":[
         "Saguenay"
     ],
+    "name:szl_x_preferred":[
+        "Saguenay"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0b95\u0bc1\u0baf\u0bc7\u0ba9\u0bc7"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0433\u043d\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c17\u0c4d\u0c35\u0c46\u0c28\u0c2f\u0c4d"
@@ -170,6 +183,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e40\u0e01\u0e41\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e0b\u0e40\u0e01\u0e40\u0e19\u0e22\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Saguenay"
     ],
@@ -178,6 +194,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06af\u06cc\u0646\u06d2\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06af\u06cc\u0646\u06d2"
     ],
     "name:vie_x_preferred":[
         "Saguenay"
@@ -243,7 +262,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844287,
+    "wof:lastmodified":1563284189,
     "wof:name":"Saguenay",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

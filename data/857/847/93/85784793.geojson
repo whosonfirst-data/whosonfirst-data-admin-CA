@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9126900.083602,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.290527,46.224185,-60.290527,46.224185",
     "geom:latitude":46.224185,
     "geom:longitude":-60.290527,
@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:cym_x_preferred":[
+        "Little Bras d'Or"
+    ],
     "name:eng_x_preferred":[
         "Little Bras D'Or"
+    ],
+    "name:eng_x_variant":[
+        "Little Bras d'Or"
     ],
     "name:unk_x_variant":[
         "Little Bras D'Or"
@@ -63,7 +69,6 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
@@ -88,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860651,
+    "wof:lastmodified":1563281719,
     "wof:name":"Little Bras D'Or",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

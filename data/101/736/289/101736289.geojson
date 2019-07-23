@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025128,
-    "geom:area_square_m":227052456.259565,
+    "geom:area_square_m":227052456.259561,
     "geom:bbox":"-79.1772787,42.9595664,-78.9996642,43.1479224",
     "geom:latitude":43.05097,
     "geom:longitude":-79.101703,
@@ -21,6 +21,12 @@
     "name:afr_x_preferred":[
         "Niagara-waterval"
     ],
+    "name:afr_x_variant":[
+        "Niagara-watervalle"
+    ],
+    "name:amh_x_preferred":[
+        "\u1293\u12eb\u130d\u122b \u134f\u134f\u1274\u12ce\u127d"
+    ],
     "name:ara_x_preferred":[
         "\u0634\u0644\u0627\u0644\u0627\u062a \u0646\u064a\u0627\u062c\u0627\u0631\u0627"
     ],
@@ -33,6 +39,9 @@
     "name:ast_x_preferred":[
         "Catarates del Ni\u00e1gara"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0627\u0642\u0627\u0631\u0627 \u0634\u0644\u0627\u0644\u0647 \u0633\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Niaqara \u015f\u0259lal\u0259si"
     ],
@@ -43,9 +52,6 @@
         "Busay Niagara"
     ],
     "name:bel_x_preferred":[
-        "\u041d\u0456\u044f\u0433\u0430\u0440\u0441\u043a\u0456 \u0432\u0430\u0434\u0430\u0441\u043f\u0430\u0434"
-    ],
-    "name:bel_x_variant":[
         "\u041d\u0456\u044f\u0433\u0430\u0440\u0441\u043a\u0456 \u0432\u0430\u0434\u0430\u0441\u043f\u0430\u0434"
     ],
     "name:ben_x_preferred":[
@@ -60,8 +66,14 @@
     "name:bul_x_preferred":[
         "\u041d\u0438\u0430\u0433\u0430\u0440\u0441\u043a\u0438 \u0432\u043e\u0434\u043e\u043f\u0430\u0434"
     ],
+    "name:bul_x_variant":[
+        "\u041d\u0438\u0430\u0433\u0430\u0440\u0430"
+    ],
     "name:cat_x_preferred":[
         "Cascades del Ni\u00e0gara"
+    ],
+    "name:cat_x_variant":[
+        "cascades del Ni\u00e0gara"
     ],
     "name:ceb_x_preferred":[
         "Niagara Falls"
@@ -100,13 +112,17 @@
         "Niagara Akvofalaro"
     ],
     "name:epo_x_variant":[
-        "Niagara Falls"
+        "Niagara Falls",
+        "Niagara Akvofaloj"
     ],
     "name:est_x_preferred":[
         "Niagara juga"
     ],
     "name:eus_x_preferred":[
         "Niagarako ur-jauziak"
+    ],
+    "name:eus_x_variant":[
+        "Niagara ur-jauziak"
     ],
     "name:fao_x_preferred":[
         "Niagarafossur"
@@ -115,7 +131,8 @@
         "\u0622\u0628\u0634\u0627\u0631\u0647\u0627\u06cc \u0646\u06cc\u0627\u06af\u0627\u0631\u0627"
     ],
     "name:fas_x_variant":[
-        "\u0646\u06cc\u0627\u06af\u0627\u0631\u0627 \u0641\u0627\u0644\u0632\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
+        "\u0646\u06cc\u0627\u06af\u0627\u0631\u0627 \u0641\u0627\u0644\u0632\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648",
+        "\u0622\u0628\u0634\u0627\u0631 \u0646\u06cc\u0627\u06af\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Niagaran putoukset"
@@ -124,7 +141,8 @@
         "Chutes du Niagara"
     ],
     "name:fra_x_variant":[
-        "Niagara Falls"
+        "Niagara Falls",
+        "chutes du Niagara"
     ],
     "name:fry_x_preferred":[
         "Niagarawetterfal"
@@ -150,6 +168,9 @@
     "name:hrv_x_preferred":[
         "Slapovi Niagare"
     ],
+    "name:hsb_x_preferred":[
+        "Niagaraske wodopady"
+    ],
     "name:hun_x_preferred":[
         "Niagara-v\u00edzes\u00e9s"
     ],
@@ -169,7 +190,8 @@
         "Cascate del Niagara"
     ],
     "name:ita_x_variant":[
-        "Niagara Falls"
+        "Niagara Falls",
+        "cascate del Niagara"
     ],
     "name:jam_x_preferred":[
         "Nayagra Faalz"
@@ -189,6 +211,15 @@
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d0\u10d2\u10d0\u10e0\u10d8\u10e1 \u10e9\u10d0\u10dc\u10e9\u10e5\u10d4\u10e0\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d8\u10d0\u10d2\u10d0\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0430\u0433\u0430\u0440\u0430 \u0441\u0430\u0440\u049b\u044b\u0440\u0430\u043c\u0430\u0441\u044b"
+    ],
+    "name:kbp_x_preferred":[
+        "Niyagara l\u0269mfal\u0269y\u025b"
+    ],
     "name:kir_x_preferred":[
         "\u041d\u0438\u0430\u0433\u0430\u0440\u0430 \u0448\u0430\u0440\u043a\u044b\u0440\u0430\u0442\u043c\u0430\u0441\u044b"
     ],
@@ -207,11 +238,20 @@
     "name:lav_x_preferred":[
         "Niag\u0101ras \u016bdenskritums"
     ],
+    "name:lfn_x_preferred":[
+        "Cascades Niagara"
+    ],
     "name:lit_x_preferred":[
         "Niagaros krioklys"
     ],
     "name:lit_x_variant":[
         "Niagara Folsas"
+    ],
+    "name:ltz_x_preferred":[
+        "Niagaraf\u00e4ll"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c3c\u4e9e\u52a0\u62c9\u7011\u5e03"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d2f\u0d3e\u0d17\u0d4d\u0d30 \u0d35\u0d46\u0d33\u0d4d\u0d33\u0d1a\u0d4d\u0d1a\u0d3e\u0d1f\u0d4d\u0d1f\u0d02"
@@ -224,6 +264,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0438\u0458\u0430\u0433\u0430\u0440\u0438\u043d\u0438 \u0432\u043e\u0434\u043e\u043f\u0430\u0434\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0438\u0458\u0430\u0433\u0430\u0440\u0438\u043d\u0438 \u0412\u043e\u0434\u043e\u043f\u0430\u0434\u0438"
     ],
     "name:mon_x_preferred":[
         "\u041d\u0438\u0430\u0433\u0430\u0440 \u0445\u04af\u0440\u0445\u0440\u044d\u044d"
@@ -240,6 +283,12 @@
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u0627\u06af\u0627\u0631\u0627"
     ],
+    "name:mzn_x_variant":[
+        "\u0646\u06cc\u0627\u06af\u0627\u0631\u0627(\u0647\u0648\u0631\u0633 \u0634\u0648)"
+    ],
+    "name:nan_x_preferred":[
+        "Niagara Ch\u00fai-chhi\u00e2ng"
+    ],
     "name:nep_x_preferred":[
         "\u0928\u093e\u092f\u0917\u0930\u093e \u092b\u0932\u094d\u0938"
     ],
@@ -251,6 +300,9 @@
     ],
     "name:nno_x_preferred":[
         "Niagarafalla"
+    ],
+    "name:nob_x_preferred":[
+        "Niagarafallene"
     ],
     "name:nor_x_preferred":[
         "Niagarafallene"
@@ -264,11 +316,15 @@
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u0627\u06af\u0631\u0627 \u0641\u0627\u0644\u0632"
     ],
+    "name:pnb_x_variant":[
+        "\u0646\u06cc\u0627\u06af\u0631\u0627"
+    ],
     "name:pol_x_preferred":[
         "Niagara"
     ],
     "name:pol_x_variant":[
-        "Niagara Falls"
+        "Niagara Falls",
+        "Wodospad Niagara"
     ],
     "name:por_x_preferred":[
         "Cataratas do Ni\u00e1gara"
@@ -291,6 +347,9 @@
     "name:sco_x_preferred":[
         "Niagara Faws"
     ],
+    "name:sgs_x_preferred":[
+        "Niagaras kriuokl\u012bs"
+    ],
     "name:slk_x_preferred":[
         "Niagarsk\u00e9 vodop\u00e1dy"
     ],
@@ -299,6 +358,9 @@
     ],
     "name:slv_x_preferred":[
         "Niagarski slapovi"
+    ],
+    "name:snd_x_preferred":[
+        "\u0646\u064a\u0627\u06af\u0631\u0627 \u0622\u0628\u0634\u0627\u0631"
     ],
     "name:spa_x_preferred":[
         "Cataratas del Ni\u00e1gara"
@@ -360,14 +422,23 @@
     "name:vie_x_preferred":[
         "Th\u00e1c Niagara"
     ],
+    "name:vro_x_preferred":[
+        "Niagara viisadang"
+    ],
     "name:war_x_preferred":[
         "Busay Niagara"
     ],
     "name:wuu_x_preferred":[
         "\u5c3c\u4e9a\u52a0\u62c9\u7011\u5e03"
     ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d8\u10d0\u10d2\u10d0\u10e0\u10d0\u10e8 \u10ec\u10e7\u10d0\u10e0\u10d2\u10d4\u10da\u10d0\u10e4\u10e3"
+    ],
     "name:yid_x_preferred":[
         "\u05e0\u05d9\u05d0\u05d2\u05d0\u05e8\u05d0 \u05e4\u05d0\u05dc\u05e1"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c3c\u4e9e\u52a0\u62c9\u7011\u5e03"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u4e9a\u52a0\u62c9\u7011\u5e03"
@@ -518,7 +589,7 @@
         }
     ],
     "wof:id":101736289,
-    "wof:lastmodified":1533335621,
+    "wof:lastmodified":1563284383,
     "wof:name":"Niagara Falls",
     "wof:parent_id":890456991,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013403,
-    "geom:area_square_m":105781032.250748,
+    "geom:area_square_m":105781032.25077,
     "geom:bbox":"-119.459968779,50.212062273,-119.27790901,50.485284626",
     "geom:latitude":50.337245,
     "geom:longitude":-119.358225,
@@ -32,10 +32,16 @@
         "Okanagan Valley",
         "Okanagan Country"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0646\u0627\u06af\u0646"
+    ],
     "name:fin_x_preferred":[
         "Okanagan"
     ],
     "name:fra_x_preferred":[
+        "Okanagan"
+    ],
+    "name:ita_x_preferred":[
         "Okanagan"
     ],
     "name:jpn_x_preferred":[
@@ -49,6 +55,12 @@
     ],
     "name:swe_x_preferred":[
         "Okanagan"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u5361\u7d0d\u6839"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u80af\u7d0d\u6839\u5c71\u8c37"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":101748047,
-    "wof:lastmodified":1533335928,
+    "wof:lastmodified":1563285036,
     "wof:name":"Okanagan",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

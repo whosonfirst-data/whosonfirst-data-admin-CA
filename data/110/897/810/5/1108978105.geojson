@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00065,
-    "geom:area_square_m":5652390.608094,
+    "geom:area_square_m":5652390.608106,
     "geom:bbox":"-75.9177759998,45.293537,-75.8767770004,45.322594",
     "geom:latitude":45.308457,
     "geom:longitude":-75.895848,
@@ -27,16 +27,19 @@
     "name:eng_x_preferred":[
         "Katimavik - Hazeldean"
     ],
+    "name:eng_x_variant":[
+        "Katimavik-Hazeldean"
+    ],
     "reversegeo:latitude":45.306798,
     "reversegeo:longitude":-75.895534,
     "src:geom":"can-ons",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125853993,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108978105,
-    "wof:lastmodified":1533277881,
+    "wof:lastmodified":1563283533,
     "wof:name":"Katimavik - Hazeldean",
     "wof:parent_id":1125853993,
     "wof:placetype":"neighbourhood",

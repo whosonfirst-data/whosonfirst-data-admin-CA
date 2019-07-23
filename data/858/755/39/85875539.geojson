@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15252057.15998,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-59.992612,45.893641,-59.992612,45.893641",
     "geom:latitude":45.893641,
     "geom:longitude":-59.992612,
@@ -27,8 +27,14 @@
     "name:deu_x_preferred":[
         "Louisbourg"
     ],
+    "name:deu_x_variant":[
+        "Festung Louisbourg"
+    ],
     "name:eng_x_preferred":[
         "Fortress Louisburg"
+    ],
+    "name:eng_x_variant":[
+        "Fortress of Louisbourg"
     ],
     "name:fra_x_preferred":[
         "Forteresse de Louisbourg"
@@ -54,11 +60,17 @@
     "name:kor_x_preferred":[
         "\ub8e8\uc774\uc2a4\ubc84\uadf8 \uc694\uc0c8"
     ],
+    "name:lat_x_preferred":[
+        "Castellum Ludoviciburgense"
+    ],
     "name:nld_x_preferred":[
         "Louisbourg"
     ],
     "name:nno_x_preferred":[
         "Festninga Louisbourg"
+    ],
+    "name:nob_x_preferred":[
+        "Festningen Louisbourg"
     ],
     "name:nor_x_preferred":[
         "Festningen Louisbourg"
@@ -83,6 +95,9 @@
     ],
     "name:unk_x_variant":[
         "Fortress Louisburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u8def\u6613\u65af\u5821\u8981\u585e"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -117,7 +132,6 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[
@@ -144,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872150,
+    "wof:lastmodified":1563281808,
     "wof:name":"Fortress Louisburg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117753,
+    "geom:area_square_m":952850315.97085,
     "geom:bbox":"-97.866115,49.0004702,-97.324745,49.2663195",
     "geom:latitude":49.124927,
     "geom:longitude":-97.635737,
@@ -23,6 +24,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u0646\u0644\u0627\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Renania"
     ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0439\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -66,6 +70,9 @@
     "name:fas_x_preferred":[
         "\u0631\u0627\u06cc\u0646\u0644\u0627\u0646\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0631\u0646\u0627\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Reininmaa"
     ],
@@ -81,6 +88,9 @@
     "name:glg_x_preferred":[
         "Renania"
     ],
+    "name:gsw_x_preferred":[
+        "Rhiiland"
+    ],
     "name:hbs_x_preferred":[
         "Porajnje"
     ],
@@ -89,6 +99,15 @@
     ],
     "name:hrv_x_preferred":[
         "Porajnje"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0575\u0576\u056c\u0561\u0576\u0564"
+    ],
+    "name:ina_x_preferred":[
+        "Rhenania"
+    ],
+    "name:ind_x_preferred":[
+        "Rheinland"
     ],
     "name:ita_x_preferred":[
         "Renania"
@@ -117,6 +136,9 @@
     "name:lit_x_preferred":[
         "Reino kra\u0161tas"
     ],
+    "name:lmo_x_preferred":[
+        "Renania"
+    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d48\u0d7b\u0d32\u0d3e\u0d7b\u0d21\u0d4d"
     ],
@@ -126,10 +148,16 @@
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0458\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:msa_x_preferred":[
+        "Rhineland"
+    ],
     "name:nld_x_preferred":[
         "Rijnland"
     ],
     "name:nno_x_preferred":[
+        "Rhinland"
+    ],
+    "name:nob_x_preferred":[
         "Rhinland"
     ],
     "name:nor_x_preferred":[
@@ -147,8 +175,14 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0439\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
+    "name:sco_x_preferred":[
+        "Rhineland"
+    ],
     "name:slk_x_preferred":[
         "Por\u00fdnie"
+    ],
+    "name:slv_x_preferred":[
+        "Porenje"
     ],
     "name:spa_x_preferred":[
         "Renania"
@@ -156,14 +190,23 @@
     "name:swe_x_preferred":[
         "Rhenlandet"
     ],
+    "name:tgl_x_preferred":[
+        "Renania"
+    ],
     "name:tha_x_preferred":[
         "\u0e44\u0e23\u0e19\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e23\u0e19\u0e4c\u0e25\u0e31\u0e19\u0e17\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Renanya"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0439\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0626\u0646\u0633\u062a\u0627\u0646"
     ],
     "name:vie_x_preferred":[
         "Rheinland"
@@ -211,7 +254,7 @@
         }
     ],
     "wof:id":101735103,
-    "wof:lastmodified":1531524244,
+    "wof:lastmodified":1563285302,
     "wof:name":"Rhineland",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

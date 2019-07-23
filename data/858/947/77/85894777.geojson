@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9349347.114376,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.602836,49.209219,-122.602836,49.209219",
     "geom:latitude":49.209219,
     "geom:longitude":-122.602836,
@@ -26,6 +26,12 @@
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
         "Port Haney"
+    ],
+    "name:eng_x_variant":[
+        "Haney"
+    ],
+    "name:nld_x_preferred":[
+        "Haney"
     ],
     "name:unk_x_variant":[
         "Port Haney"
@@ -65,8 +71,7 @@
         102191575,
         85633041,
         101740773,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931258,
+    "wof:lastmodified":1563281997,
     "wof:name":"Port Haney",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

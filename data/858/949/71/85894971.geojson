@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15384043.781184,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.643653,43.711257,-79.643653,43.711257",
     "geom:latitude":43.711257,
     "geom:longitude":-79.643653,
@@ -27,6 +27,12 @@
     "name:eng_x_preferred":[
         "Malton"
     ],
+    "name:fra_x_preferred":[
+        "Malton"
+    ],
+    "name:ita_x_preferred":[
+        "Malton"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -34,7 +40,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740755,
         85633041,
@@ -73,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931291,
+    "wof:lastmodified":1563282005,
     "wof:name":"Malton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

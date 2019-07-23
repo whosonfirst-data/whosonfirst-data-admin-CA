@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2576610.093119,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.631639,50.448857,-104.631639,50.448857",
     "geom:latitude":50.448857,
     "geom:longitude":-104.631639,
@@ -33,14 +33,23 @@
     "name:arg_x_preferred":[
         "Seu"
     ],
+    "name:arg_x_variant":[
+        "seu"
+    ],
     "name:ast_x_preferred":[
         "Catedral"
     ],
     "name:aze_x_preferred":[
         "Kafedral"
     ],
+    "name:aze_x_variant":[
+        "kafedral"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0431\u043e\u0440"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u0948\u0925\u0947\u0921\u094d\u0930\u0932"
     ],
     "name:bos_x_preferred":[
         "Katedrala"
@@ -48,20 +57,35 @@
     "name:bre_x_preferred":[
         "Iliz-veur"
     ],
+    "name:bre_x_variant":[
+        "iliz-veur"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0435\u0434\u0440\u0430\u043b\u0430"
     ],
     "name:cat_x_preferred":[
         "Catedral"
     ],
+    "name:cat_x_variant":[
+        "catedral"
+    ],
     "name:ces_x_preferred":[
         "Katedr\u00e1la"
+    ],
+    "name:ces_x_variant":[
+        "katedr\u00e1la"
     ],
     "name:cym_x_preferred":[
         "Eglwys gadeiriol"
     ],
+    "name:cym_x_variant":[
+        "eglwys gadeiriol"
+    ],
     "name:dan_x_preferred":[
         "Domkirke"
+    ],
+    "name:dan_x_variant":[
+        "domkirke"
     ],
     "name:deu_x_preferred":[
         "Kathedrale"
@@ -72,17 +96,27 @@
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b8\u03b5\u03b4\u03c1\u03b9\u03ba\u03cc\u03c2 \u039d\u03b1\u03cc\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03ba\u03b1\u03b8\u03b5\u03b4\u03c1\u03b9\u03ba\u03cc\u03c2 \u03bd\u03b1\u03cc\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Cathedral Area"
     ],
     "name:eng_x_variant":[
-        "Cathedral"
+        "Cathedral",
+        "cathedral"
     ],
     "name:epo_x_preferred":[
         "Katedralo"
     ],
+    "name:epo_x_variant":[
+        "katedralo"
+    ],
     "name:est_x_preferred":[
         "Katedraal"
+    ],
+    "name:est_x_variant":[
+        "katedraal"
     ],
     "name:eus_x_preferred":[
         "Katedral"
@@ -93,20 +127,41 @@
     "name:fin_x_preferred":[
         "Katedraali"
     ],
+    "name:fin_x_variant":[
+        "tuomiokirkko"
+    ],
     "name:fra_x_preferred":[
         "Cath\u00e9drale"
+    ],
+    "name:fra_x_variant":[
+        "cath\u00e9drale"
     ],
     "name:fry_x_preferred":[
         "Katedraal"
     ],
+    "name:fry_x_variant":[
+        "katedraal"
+    ],
     "name:gag_x_preferred":[
         "Katedral"
+    ],
+    "name:gla_x_preferred":[
+        "cathair-eaglais"
     ],
     "name:gle_x_preferred":[
         "Ardeaglais"
     ],
     "name:glg_x_preferred":[
         "Catedral"
+    ],
+    "name:glg_x_variant":[
+        "catedral"
+    ],
+    "name:hat_x_preferred":[
+        "Katedral"
+    ],
+    "name:hau_x_preferred":[
+        "babban coci"
     ],
     "name:hbs_x_preferred":[
         "Katedrala"
@@ -117,11 +172,20 @@
     "name:hrv_x_preferred":[
         "Katedrala"
     ],
+    "name:hsb_x_preferred":[
+        "katedrala"
+    ],
     "name:hun_x_preferred":[
         "Sz\u00e9kesegyh\u00e1z"
     ],
+    "name:hun_x_variant":[
+        "sz\u00e9kesegyh\u00e1z"
+    ],
     "name:hye_x_preferred":[
         "\u0535\u056f\u0565\u0572\u0565\u0581\u056b"
+    ],
+    "name:hye_x_variant":[
+        "\u0574\u0561\u0575\u0580 \u057f\u0561\u0573\u0561\u0580"
     ],
     "name:ido_x_preferred":[
         "Katedralo"
@@ -135,6 +199,9 @@
     "name:ita_x_preferred":[
         "Cattedrale"
     ],
+    "name:ita_x_variant":[
+        "cattedrale"
+    ],
     "name:jpn_x_preferred":[
         "\u5927\u8056\u5802"
     ],
@@ -147,11 +214,17 @@
     "name:kor_x_preferred":[
         "\ub300\uc131\ub2f9"
     ],
+    "name:kor_x_variant":[
+        "\uc8fc\uad50\uc88c \uc131\ub2f9"
+    ],
     "name:lat_x_preferred":[
         "Ecclesia cathedralis"
     ],
     "name:lav_x_preferred":[
         "Katedr\u0101le"
+    ],
+    "name:lav_x_variant":[
+        "katedr\u0101le"
     ],
     "name:lim_x_preferred":[
         "Kathedraal"
@@ -165,6 +238,15 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u092e\u0941\u0916 \u091a\u0930\u094d\u091a"
     ],
+    "name:min_x_preferred":[
+        "Katedral"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0441\u043e\u0431\u043e\u0440\u043d\u0430 \u0446\u0440\u043a\u0432\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "katidral"
+    ],
     "name:msa_x_preferred":[
         "Katedral"
     ],
@@ -177,8 +259,17 @@
     "name:nld_x_preferred":[
         "Kathedraal"
     ],
+    "name:nld_x_variant":[
+        "kathedraal"
+    ],
     "name:nno_x_preferred":[
         "Domkyrkje"
+    ],
+    "name:nno_x_variant":[
+        "domkyrkje"
+    ],
+    "name:nob_x_preferred":[
+        "katedral"
     ],
     "name:nor_x_preferred":[
         "Katedral"
@@ -189,11 +280,23 @@
     "name:oci_x_preferred":[
         "Catedrala"
     ],
+    "name:oci_x_variant":[
+        "catedrala"
+    ],
+    "name:pcd_x_preferred":[
+        "Cat\u00e9drale"
+    ],
     "name:pol_x_preferred":[
         "Katedra"
     ],
+    "name:pol_x_variant":[
+        "katedra"
+    ],
     "name:por_x_preferred":[
         "Catedral"
+    ],
+    "name:por_x_variant":[
+        "catedral"
     ],
     "name:que_x_preferred":[
         "Kathidral"
@@ -201,14 +304,32 @@
     "name:ron_x_preferred":[
         "Catedral\u0103"
     ],
+    "name:ron_x_variant":[
+        "catedral\u0103"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0434\u0440\u0430\u043b\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0431\u043e\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u043a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043e\u0431\u043e\u0440"
     ],
     "name:scn_x_preferred":[
         "Cattidrali"
     ],
+    "name:scn_x_variant":[
+        "cattridali"
+    ],
     "name:sco_x_preferred":[
         "Cathedral"
+    ],
+    "name:sco_x_variant":[
+        "cathedral"
+    ],
+    "name:sgs_x_preferred":[
+        "Suobors"
     ],
     "name:sin_x_preferred":[
         "\u0d86\u0dc3\u0db1 \u0daf\u0dd9\u0dc0\u0dca\u0db8\u0dd0\u0daf\u0dd4\u0dbb\u0dd4"
@@ -219,8 +340,23 @@
     "name:slv_x_preferred":[
         "Stolnica"
     ],
+    "name:slv_x_variant":[
+        "stolnica"
+    ],
+    "name:sme_x_preferred":[
+        "duopmogirku"
+    ],
+    "name:smn_x_preferred":[
+        "tu\u00e1mukirkko"
+    ],
+    "name:sms_x_preferred":[
+        "du\u00f5mmceerkav"
+    ],
     "name:spa_x_preferred":[
         "Catedral"
+    ],
+    "name:spa_x_variant":[
+        "catedral"
     ],
     "name:sqi_x_preferred":[
         "Katedralja"
@@ -228,14 +364,26 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0431\u043e\u0440\u043d\u0430 \u0446\u0440\u043a\u0432\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u0441\u0430\u0431\u043e\u0440\u043d\u0430 \u0446\u0440\u043a\u0432\u0430"
+    ],
     "name:swa_x_preferred":[
         "Kanisa kuu"
     ],
     "name:swe_x_preferred":[
         "Katedral"
     ],
+    "name:swe_x_variant":[
+        "katedral"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0bb0\u0bbe\u0bb2\u0baf\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0ba4\u0bcd\u0ba4\u0bc0\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0497\u04d9\u043c\u0438\u0433\u044a"
     ],
     "name:tgl_x_preferred":[
         "Katedral"
@@ -246,8 +394,14 @@
     "name:tur_x_preferred":[
         "Katedral"
     ],
+    "name:tur_x_variant":[
+        "katedral"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u043e\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0441\u043e\u0431\u043e\u0440"
     ],
     "name:unk_x_variant":[
         "Cathedral"
@@ -264,6 +418,15 @@
     "name:war_x_preferred":[
         "Catedral"
     ],
+    "name:wln_x_preferred":[
+        "Catedr\u00e5le"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e3b\u6559\u5ea7\u5802"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e3b\u6559\u5ea7\u5802"
+    ],
     "name:zho_x_preferred":[
         "\u4e3b\u6559\u5ea7\u5802"
     ],
@@ -276,12 +439,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":7396,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113675,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -307,7 +470,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872050,
+    "wof:lastmodified":1563281789,
     "wof:name":"Cathedral",
     "wof:parent_id":1126113675,
     "wof:placetype":"neighbourhood",

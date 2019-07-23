@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":3237663.638587,
+    "geom:area_square_m":3237663.638582,
     "geom:bbox":"-79.422217816,43.703029031,-79.388293696,43.727682159",
     "geom:latitude":43.717212,
     "geom:longitude":-79.406038,
@@ -27,6 +27,12 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Lawrence Park South"
+    ],
+    "name:eng_x_variant":[
+        "Lawrence Park"
+    ],
+    "name:msa_x_preferred":[
+        "Lawrence Park"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -73,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335730,
+    "wof:lastmodified":1563282205,
     "wof:name":"Lawrence Park South",
     "wof:parent_id":1108905207,
     "wof:placetype":"neighbourhood",

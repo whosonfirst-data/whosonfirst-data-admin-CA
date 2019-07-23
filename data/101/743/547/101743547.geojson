@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":26467.217244,
     "geom:bbox":"-129.8920952,54.6263589,-129.8889702,54.62823",
     "geom:latitude":54.627536,
     "geom:longitude":-129.890892,
@@ -15,8 +16,20 @@
     "mps:longitude":-129.891328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Khutzeymateen River"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Khutzeymateen"
+    ],
     "name:eng_x_preferred":[
         "Khutzemateen 49"
+    ],
+    "name:eng_x_variant":[
+        "Khutzeymateen River"
+    ],
+    "name:swe_x_preferred":[
+        "Khutzeymateen River"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":101743547,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1563285657,
     "wof:name":"Khutzemateen 49",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

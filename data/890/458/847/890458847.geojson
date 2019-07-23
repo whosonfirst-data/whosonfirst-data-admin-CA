@@ -34,6 +34,9 @@
     "name:aze_x_preferred":[
         "Letbric"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u0442\u0431\u0440\u044b\u0434\u0436"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09a5\u09ac\u09cd\u09b0\u09bf\u099c"
     ],
@@ -41,6 +44,9 @@
         "\u041b\u0435\u0442\u0445\u0431\u0440\u0438\u0434\u0433\u0435"
     ],
     "name:cat_x_preferred":[
+        "Lethbridge"
+    ],
+    "name:ceb_x_preferred":[
         "Lethbridge"
     ],
     "name:ces_x_preferred":[
@@ -76,11 +82,17 @@
     "name:fra_x_preferred":[
         "Lethbridge"
     ],
+    "name:gle_x_preferred":[
+        "Lethbridge"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aa5\u0aac\u0acd\u0ab0\u0ac0\u0a9c"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05ea\u05d1\u05e8\u05d9\u05d3\u05d2"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05ea'\u05d1\u05e8\u05d9\u05d3\u05d2'"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0947\u0925\u092c\u094d\u0930\u093f\u091c"
@@ -160,6 +172,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bc7\u0ba4\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u0442\u0431\u0440\u0438\u0497"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c47\u0c24\u0c4d  \u0c2c\u0c4d\u0c30\u0c3f\u0c21\u0c4d\u0c1c\u0c4d"
     ],
@@ -183,6 +198,12 @@
     ],
     "name:vol_x_preferred":[
         "Lethbridge"
+    ],
+    "name:war_x_preferred":[
+        "Lethbridge"
+    ],
+    "name:yue_x_preferred":[
+        "\u5217\u5fc5\u73e0"
     ],
     "name:zho_x_preferred":[
         "\u840a\u65af\u5e03\u91cc\u5947"
@@ -327,7 +348,7 @@
         }
     ],
     "wof:id":890458847,
-    "wof:lastmodified":1561844512,
+    "wof:lastmodified":1563286065,
     "wof:name":"Lethbridge",
     "wof:parent_id":1158863203,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1009386.053918,
+    "geom:area_square_m":1009386.053919,
     "geom:bbox":"-97.161412,49.862164,-97.140812,49.874578",
     "geom:latitude":49.868161,
     "geom:longitude":-97.150711,
@@ -45,6 +45,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30ec\u30a4\u4f2f\u7235"
     ],
+    "name:nob_x_preferred":[
+        "Earl Grey"
+    ],
     "name:pol_x_preferred":[
         "Hrabia Grey"
     ],
@@ -65,12 +68,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":1145,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108969341,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523919,
+    "wof:lastmodified":1563282173,
     "wof:name":"Earl Grey",
     "wof:parent_id":1108969341,
     "wof:placetype":"neighbourhood",

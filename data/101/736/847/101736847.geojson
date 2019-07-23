@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Saint-Mathieu-de-Beloeil"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u039c\u03b1\u03c4\u03b9\u03ad-\u03bd\u03c4\u03b5-\u039c\u03c0\u03b5\u03bb\u03ad\u03b9\u03b3"
+    ],
     "name:eng_x_preferred":[
         "Saint-Mathieu-de-Beloeil"
     ],
@@ -31,8 +34,14 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0645\u0627\u062a\u06cc\u0648-\u062f\u0648-\u0628\u0644\u0648\u06cc\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u0645\u0627\u062a\u06cc\u0648-\u062f\u0648-\u0628\u0644\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Saint-Mathieu-de-Bel\u0153il"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Mathieu-de-Beloeil"
     ],
     "name:nld_x_preferred":[
         "Saint-Mathieu-de-Beloeil"
@@ -48,6 +57,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0645\u062a\u06be\u06cc\u0648-\u062f\u06d2-\u0628\u06cc\u0644\u0648\u06cc\u0644\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0645\u062a\u06be\u06cc\u0648-\u062f\u06d2-\u0628\u06cc\u0644\u0648\u06cc\u0644"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":101736847,
-    "wof:lastmodified":1561844343,
+    "wof:lastmodified":1563284506,
     "wof:name":"Saint-Mathieu-de-Beloeil",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

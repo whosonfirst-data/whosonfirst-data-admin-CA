@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
+    "geom:area_square_m":448288.610475,
     "geom:bbox":"-122.4243138,49.1839109,-122.4133101,49.1910841",
     "geom:latitude":49.188221,
     "geom:longitude":-122.419573,
@@ -17,6 +18,12 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Langley 2"
+    ],
+    "name:eng_x_variant":[
+        "Langley Twin"
+    ],
+    "name:tgk_x_preferred":[
+        "Langley Twin"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":101745461,
-    "wof:lastmodified":1533335911,
+    "wof:lastmodified":1563285793,
     "wof:name":"Langley 2",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":885875.189338,
+    "geom:area_square_m":885875.189336,
     "geom:bbox":"-97.164547,49.827865,-97.150211,49.841662",
     "geom:latitude":49.835339,
     "geom:longitude":-97.156107,
@@ -29,6 +29,9 @@
     "mz:tier_metro":15,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0628\u0627\u0646\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u06cc\u0628\u0627\u0646\u06a9"
     ],
     "name:deu_x_preferred":[
         "Maybank"
@@ -54,17 +57,26 @@
     "name:msa_x_preferred":[
         "Maybank"
     ],
+    "name:nld_x_preferred":[
+        "Maybank"
+    ],
     "name:spa_x_preferred":[
         "Maybank"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bb2\u0bbe\u0baf\u0bbe \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd"
     ],
+    "name:tur_x_preferred":[
+        "Maybank"
+    ],
     "name:unk_x_variant":[
         "Maybank"
     ],
     "name:wuu_x_preferred":[
         "\u9a6c\u6765\u4e9a\u94f6\u884c"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u4f86\u4e9e\u9280\u884c"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u4f86\u4e9e\u9280\u884c"
@@ -77,12 +89,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":1436,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523921,
+    "wof:lastmodified":1563282137,
     "wof:name":"Maybank",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

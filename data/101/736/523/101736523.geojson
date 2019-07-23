@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Montpellier"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c0\u03b5\u03bb\u03b9\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Montpellier"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u067e\u0648\u0644\u06cc\u0647\u060c \u06a9\u0628\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0646\u067e\u0648\u0644\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
         "Montpellier"
@@ -54,6 +60,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u067e\u06cc\u0644\u06cc\u06d2\u060c \u06a9\u06cc\u0648\u0628\u06cc\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0646\u067e\u06cc\u0644\u06cc\u06d2"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":101736523,
-    "wof:lastmodified":1561844350,
+    "wof:lastmodified":1563284559,
     "wof:name":"Montpellier",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

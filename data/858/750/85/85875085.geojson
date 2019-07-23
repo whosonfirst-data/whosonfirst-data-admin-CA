@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":745028.844457,
+    "geom:area_square_m":745028.844459,
     "geom:bbox":"-123.390197755,48.420998726,-123.370600807,48.4292005556",
     "geom:latitude":48.424727,
     "geom:longitude":-123.379917,
@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Songhees"
     ],
+    "name:cat_x_variant":[
+        "songhees"
+    ],
     "name:deu_x_preferred":[
         "Songhees"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6851\u5409\u65af\u4eba"
+    ],
+    "name:zho_x_variant":[
+        "\u6851\u5409\u65af\u65cf\u570b"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -103,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335938,
+    "wof:lastmodified":1563282107,
     "wof:name":"Songhees",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

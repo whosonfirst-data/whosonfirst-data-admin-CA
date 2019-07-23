@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7364521.539718,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.617502,43.590774,-79.617502,43.590774",
     "geom:latitude":43.590774,
     "geom:longitude":-79.617502,
@@ -26,6 +26,12 @@
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Mississauga Valleys"
+    ],
+    "name:eng_x_variant":[
+        "Mississauga Centre"
+    ],
+    "name:fra_x_preferred":[
+        "Mississauga Centre"
     ],
     "name:unk_x_variant":[
         "Mississauga Valleys"
@@ -62,7 +68,6 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":445,
     "wof:belongsto":[
-        85682057,
         102191575,
         101740755,
         85633041,
@@ -99,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931356,
+    "wof:lastmodified":1563281864,
     "wof:name":"Mississauga Valleys",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

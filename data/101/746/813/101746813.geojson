@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
+    "geom:area_square_m":153261.220963,
     "geom:bbox":"-121.903553,50.9107439,-121.8978031,50.9143785",
     "geom:latitude":50.912566,
     "geom:longitude":-121.900563,
@@ -17,6 +18,12 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Pavilion 1A"
+    ],
+    "name:eng_x_variant":[
+        "Pavilion"
+    ],
+    "name:nld_x_preferred":[
+        "Pavilion"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":101746813,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1563285100,
     "wof:name":"Pavilion 1A",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

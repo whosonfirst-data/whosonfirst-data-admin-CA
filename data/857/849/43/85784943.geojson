@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2137520.360386,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.604967,52.139302,-106.604967,52.139302",
     "geom:latitude":52.139302,
     "geom:longitude":-106.604967,
@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Sutherland"
     ],
+    "name:nld_x_preferred":[
+        "Sutherland"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -36,12 +39,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":2208,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115071,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860661,
+    "wof:lastmodified":1563281715,
     "wof:name":"Sutherland",
     "wof:parent_id":1126115071,
     "wof:placetype":"neighbourhood",

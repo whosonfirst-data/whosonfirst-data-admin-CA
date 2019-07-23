@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003637,
-    "geom:area_square_m":31523140.050672,
+    "geom:area_square_m":31523140.050674,
     "geom:bbox":"-73.7741707888,45.4606621826,-73.6738776797,45.5267442987",
     "geom:latitude":45.492198,
     "geom:longitude":-73.725072,
@@ -31,16 +31,19 @@
     "name:fra_x_preferred":[
         "Bois-Francs"
     ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u862d\u6797"
+    ],
     "reversegeo:latitude":45.499954,
     "reversegeo:longitude":-73.721655,
     "src:geom":"can-mtlsmvt",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736545,
         1108955739,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108959341,
-    "wof:lastmodified":1533277831,
+    "wof:lastmodified":1563283320,
     "wof:name":"Bois-Francs",
     "wof:parent_id":1108955739,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,12 @@
     "mps:longitude":-125.197334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Regional District of Comox-Strathcona"
+    ],
+    "name:deu_x_preferred":[
+        "Regional District of Comox-Strathcona"
+    ],
     "name:eng_x_official":[
         "Comox Valley Regional District"
     ],
@@ -40,7 +46,14 @@
         "CMXRD"
     ],
     "name:eng_x_variant":[
-        "Comox Valley Regional District"
+        "Comox Valley Regional District",
+        "Comox-Strathcona Regional District"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e2\u30c3\u30af\u30b9\u30fb\u30b9\u30c8\u30e9\u30b9\u30b3\u30fc\u30ca\u5730\u57df"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u83ab\u514b\u65af-\u58eb\u9054\u5b54\u62ff\u5340\u57df\u5c40"
     ],
     "qs:name":"Comox-Strathcona",
     "qs:name_adm0":"Canada",
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":890458565,
-    "wof:lastmodified":1554759448,
+    "wof:lastmodified":1563286045,
     "wof:name":"Comox Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

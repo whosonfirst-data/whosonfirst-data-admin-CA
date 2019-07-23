@@ -31,6 +31,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u067e\u06cc\u0631-\u0628\u0627\u062a\u06cc\u0633\u062a\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u067e\u06cc\u0631-\u0628\u0627\u062a\u06cc\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Saint-Pierre-Baptiste"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u067e\u06cc\u0631\u06cc-\u0628\u067e\u062a\u06cc\u0633\u062a\u06d2\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u067e\u06cc\u0631\u06cc-\u0628\u067e\u062a\u06cc\u0633\u062a\u06d2"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101738553,
-    "wof:lastmodified":1561844369,
+    "wof:lastmodified":1563284686,
     "wof:name":"Saint-Pierre-Baptiste",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

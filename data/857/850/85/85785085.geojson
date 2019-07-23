@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9884324.004344,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.089971,46.253948,-60.089971,46.253948",
     "geom:latitude":46.253948,
     "geom:longitude":-60.089971,
@@ -30,6 +30,9 @@
     ],
     "name:gla_x_preferred":[
         "Port Lairge \u00d9r"
+    ],
+    "name:gla_x_variant":[
+        "Portlairge \u00d9r"
     ],
     "name:unk_x_variant":[
         "New Waterford"
@@ -68,7 +71,6 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860671,
+    "wof:lastmodified":1563281695,
     "wof:name":"New Waterford",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

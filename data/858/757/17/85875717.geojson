@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3972206.375468,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.511653,45.537203,-73.511653,45.537203",
     "geom:latitude":45.537203,
     "geom:longitude":-73.511653,
@@ -25,14 +25,36 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u0392\u03b9\u03ad-\u039b\u03bf\u03bd\u03b3\u03ba\u03ad\u03b9\u03b3"
+    ],
     "name:eng_x_preferred":[
         "Vieux Longueuil"
+    ],
+    "name:eng_x_variant":[
+        "Le Vieux-Longueuil"
     ],
     "name:fra_x_preferred":[
         "Vieux Longueuil"
     ],
     "name:fra_x_variant":[
-        "Quartier Vieux Longueuil"
+        "Quartier Vieux Longueuil",
+        "Le Vieux-Longueuil"
+    ],
+    "name:nld_x_preferred":[
+        "Le Vieux-Longueuil"
+    ],
+    "name:pol_x_preferred":[
+        "Le Vieux-Longueuil"
+    ],
+    "name:por_x_preferred":[
+        "Le Vieux-Longueuil"
+    ],
+    "name:spa_x_preferred":[
+        "Le Vieux-Longueuil"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u6717\u57fa\u723e\u5340"
     ],
     "qs:gn_id":0,
     "src:geom":"mz",
@@ -43,11 +65,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":541,
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961051
+        1108961051,
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872210,
+    "wof:lastmodified":1563282111,
     "wof:name":"Quartier Vieux Longueuil",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

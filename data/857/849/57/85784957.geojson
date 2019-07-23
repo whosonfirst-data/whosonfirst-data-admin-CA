@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
-    "geom:area_square_m":5685228.090331,
+    "geom:area_square_m":5685228.090333,
     "geom:bbox":"-97.030984,49.870934,-96.98107,49.886018",
     "geom:latitude":49.878585,
     "geom:longitude":-97.00485,
@@ -28,8 +28,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0627\u0646\u0633\u0643\u0648\u0646\u0629"
+    ],
     "name:eng_x_preferred":[
         "Transcona South"
+    ],
+    "name:eng_x_variant":[
+        "Transcona"
+    ],
+    "name:fra_x_preferred":[
+        "Transcona"
     ],
     "name:unk_x_variant":[
         "Transcona"
@@ -67,12 +76,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968467,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523913,
+    "wof:lastmodified":1563281712,
     "wof:name":"Transcona South",
     "wof:parent_id":1108968467,
     "wof:placetype":"neighbourhood",

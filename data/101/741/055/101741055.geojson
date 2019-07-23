@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0631\u0646\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0646\u0627\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Burnaby"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0646\u0627\u0628\u06cc"
     ],
@@ -110,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ubc84\ub108\ube44"
     ],
+    "name:kor_x_variant":[
+        "\ubc84\ub098\ube44"
+    ],
     "name:lav_x_preferred":[
         "B\u0113rnabija"
     ],
@@ -188,6 +197,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bb0\u0bcd\u0ba9\u0baa\u0bbf\u0baf"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u04e9\u0440\u043d\u0430\u0431\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c30\u0c4d\u0c28\u0c2c\u0c3f"
     ],
@@ -215,6 +227,9 @@
     "name:war_x_preferred":[
         "Burnaby"
     ],
+    "name:wuu_x_preferred":[
+        "\u672c\u62ff\u6bd4\u5e02"
+    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d4\u10e0\u10dc\u10d0\u10d1\u10d8"
     ],
@@ -223,6 +238,9 @@
     ],
     "name:zho_x_preferred":[
         "\u672c\u90a3\u6bd4"
+    ],
+    "name:zho_x_variant":[
+        "\u672c\u62ff\u6bd4\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u672c\u62ff\u6bd4"
@@ -280,7 +298,7 @@
         }
     ],
     "wof:id":101741055,
-    "wof:lastmodified":1561844437,
+    "wof:lastmodified":1563285156,
     "wof:name":"Burnaby",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

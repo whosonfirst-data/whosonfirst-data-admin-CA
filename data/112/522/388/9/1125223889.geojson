@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":445787.371615,
+    "geom:area_square_m":445787.371616,
     "geom:bbox":"-75.6557540271,45.3739277687,-75.6375680003,45.3808490002",
     "geom:latitude":45.377989,
     "geom:longitude":-75.649344,
@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Heron Gate"
+    ],
     "name:eng_x_preferred":[
         "Heron Gate"
     ],
@@ -30,12 +33,12 @@
     "reversegeo:longitude":-75.650861,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1125223889,
-    "wof:lastmodified":1533277874,
+    "wof:lastmodified":1563287130,
     "wof:name":"Heron Gate",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

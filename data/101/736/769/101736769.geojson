@@ -40,6 +40,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0627\u062f\u0648\u0645\u0648\u0646-\u0644\u0647-\u067e\u0644\u0646\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u0627\u062f\u0648\u0645\u0648\u0646-\u0644\u0647-\u067e\u0644\u0646"
+    ],
     "name:fra_x_preferred":[
         "Saint-Edmond-les-Plaines"
     ],
@@ -67,11 +70,17 @@
     "name:swe_x_preferred":[
         "Saint-Edmond-les-Plaines"
     ],
+    "name:swe_x_variant":[
+        "Grande-Vall\u00e9e"
+    ],
     "name:tah_x_preferred":[
         "Saint-Edmond-les-Plaines"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u06cc\u062f\u0645\u0648\u0646\u062f-\u0644\u06cc\u0633-\u067e\u0644\u0627\u0626\u0646\u0633\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u06cc\u062f\u0645\u0648\u0646\u062f-\u0644\u06cc\u0633-\u067e\u0644\u0627\u0626\u0646\u0633"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":101736769,
-    "wof:lastmodified":1561844337,
+    "wof:lastmodified":1563284475,
     "wof:name":"Saint-Edmond-les-Plaines",
     "wof:parent_id":890458633,
     "wof:placetype":"locality",

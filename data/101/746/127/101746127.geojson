@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16051.897958,
     "geom:bbox":"-120.121549,51.1918266,-120.1189888,51.1938484",
     "geom:latitude":51.192465,
     "geom:longitude":-120.119834,
@@ -15,11 +16,29 @@
     "mps:longitude":-120.119668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u064a\u0631 \u0631\u064a\u0641\u064a\u0631"
+    ],
     "name:ceb_x_preferred":[
+        "Barri\u00e8re River"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Barri\u00e8re"
+    ],
+    "name:deu_x_preferred":[
         "Barri\u00e8re River"
     ],
     "name:eng_x_preferred":[
         "Barriere River 3A"
+    ],
+    "name:eng_x_variant":[
+        "Barri\u00e8re River"
+    ],
+    "name:fra_x_preferred":[
+        "rivi\u00e8re Barri\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Barri\u00e8re River"
     ],
     "name:swe_x_preferred":[
         "Barri\u00e8re River"
@@ -65,7 +84,7 @@
         }
     ],
     "wof:id":101746127,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1563285075,
     "wof:name":"Barriere River 3A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

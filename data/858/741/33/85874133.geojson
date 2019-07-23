@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7091807.496416,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.965942,45.403465,-71.965942,45.403465",
     "geom:latitude":45.403465,
     "geom:longitude":-71.965942,
@@ -30,6 +30,15 @@
     "name:arz_x_preferred":[
         "\u0643\u0627\u0631\u0641\u0648\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0631\u0641\u0648\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0444\u0443\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Carrefour"
+    ],
     "name:ces_x_preferred":[
         "Carrefour"
     ],
@@ -38,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "Carrefour"
+    ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03b1\u03c1\u03c6\u03bf\u03c5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Carrefour"
@@ -81,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cb0\u0cc0\u0cab\u0cc2\u0cb0\u0ccd\u200c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10e4\u10e3\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uae4c\ub974\ud478"
     ],
@@ -88,6 +103,9 @@
         "Carrefour"
     ],
     "name:msa_x_preferred":[
+        "Carrefour"
+    ],
+    "name:nan_x_preferred":[
         "Carrefour"
     ],
     "name:nld_x_preferred":[
@@ -129,8 +147,17 @@
     "name:vie_x_preferred":[
         "Carrefour"
     ],
+    "name:wuu_x_preferred":[
+        "\u5bb6\u4e50\u798f"
+    ],
+    "name:yue_x_preferred":[
+        "\u5bb6\u6a02\u798f"
+    ],
     "name:zho_x_preferred":[
         "\u5bb6\u6a02\u798f"
+    ],
+    "name:zho_x_variant":[
+        "\u5bb6\u4e50\u798f"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -193,7 +220,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871891,
+    "wof:lastmodified":1563282032,
     "wof:name":"Carrefour",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13514483.140997,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.93366,43.873622,-79.93366,43.873622",
     "geom:latitude":43.873622,
     "geom:longitude":-79.93366,
@@ -27,6 +27,12 @@
     "name:afr_x_preferred":[
         "Ster"
     ],
+    "name:afr_x_variant":[
+        "ster"
+    ],
+    "name:aka_x_preferred":[
+        "Nsroma"
+    ],
     "name:als_x_preferred":[
         "Stern"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:arz_x_preferred":[
         "\u0646\u062c\u0645\u0647"
+    ],
+    "name:asm_x_preferred":[
+        "\u09a4\u09f0\u09be"
     ],
     "name:ast_x_preferred":[
         "Estrella"
@@ -67,10 +76,13 @@
         "\u0417\u043e\u0440\u043a\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0417\u043e\u0440\u043a\u0430"
+        "\u0437\u043e\u0440\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0924\u093e\u0930\u093e"
     ],
     "name:bjn_x_preferred":[
         "Bintang"
@@ -90,14 +102,26 @@
     "name:cat_x_preferred":[
         "Estrella"
     ],
+    "name:cat_x_variant":[
+        "estrella"
+    ],
     "name:cdo_x_preferred":[
         "H\u00e8ng-s\u012dng"
+    ],
+    "name:ceb_x_preferred":[
+        "Bitoon"
     ],
     "name:ces_x_preferred":[
         "Hv\u011bzda"
     ],
+    "name:ces_x_variant":[
+        "hv\u011bzda"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u0434\u0430"
+    ],
+    "name:che_x_variant":[
+        "Seda"
     ],
     "name:chr_x_preferred":[
         "\u13c3\u13c8\u13cf"
@@ -120,17 +144,35 @@
     "name:dan_x_preferred":[
         "Stjerne"
     ],
+    "name:dan_x_variant":[
+        "stjerne"
+    ],
     "name:deu_x_preferred":[
         "Stern"
+    ],
+    "name:diq_x_preferred":[
+        "Estare"
+    ],
+    "name:dty_x_preferred":[
+        "\u0924\u093e\u0930\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03ad\u03c1\u03b1\u03c2"
     ],
+    "name:eml_x_preferred":[
+        "Str\u00e8la"
+    ],
     "name:eng_x_preferred":[
         "Star"
     ],
+    "name:eng_x_variant":[
+        "star"
+    ],
     "name:epo_x_preferred":[
         "Stelo"
+    ],
+    "name:epo_x_variant":[
+        "stelo"
     ],
     "name:est_x_preferred":[
         "T\u00e4ht"
@@ -138,11 +180,20 @@
     "name:eus_x_preferred":[
         "Izar"
     ],
+    "name:eus_x_variant":[
+        "izar"
+    ],
+    "name:ewe_x_preferred":[
+        "Xletivi"
+    ],
     "name:ext_x_preferred":[
         "Estrella"
     ],
     "name:fao_x_preferred":[
         "Stj\u00f8rnur"
+    ],
+    "name:fao_x_variant":[
+        "stj\u00f8rna"
     ],
     "name:fas_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0647"
@@ -150,14 +201,23 @@
     "name:fin_x_preferred":[
         "T\u00e4hti"
     ],
+    "name:fin_x_variant":[
+        "t\u00e4hti"
+    ],
     "name:fra_x_preferred":[
         "\u00c9toile"
+    ],
+    "name:fra_x_variant":[
+        "\u00e9toile"
     ],
     "name:frr_x_preferred":[
         "St\u00e4\u00e4r"
     ],
     "name:fry_x_preferred":[
         "Stjer"
+    ],
+    "name:fry_x_variant":[
+        "stjer"
     ],
     "name:fur_x_preferred":[
         "Stele"
@@ -177,8 +237,17 @@
     "name:grn_x_preferred":[
         "Mbyja"
     ],
+    "name:gsw_x_preferred":[
+        "Stern"
+    ],
+    "name:hak_x_preferred":[
+        "H\u00e8n-s\u00ean"
+    ],
     "name:hat_x_preferred":[
         "Etwal"
+    ],
+    "name:hau_x_preferred":[
+        "tauraro"
     ],
     "name:hbs_x_preferred":[
         "Zvijezda"
@@ -198,8 +267,14 @@
     "name:hun_x_preferred":[
         "Csillag"
     ],
+    "name:hun_x_variant":[
+        "csillag"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u057f\u0572"
+    ],
+    "name:hye_x_variant":[
+        "\u0561\u057d\u057f\u0572"
     ],
     "name:ido_x_preferred":[
         "Stelo"
@@ -210,23 +285,44 @@
     "name:ilo_x_preferred":[
         "Bituen"
     ],
+    "name:ilo_x_variant":[
+        "bituen"
+    ],
     "name:ina_x_preferred":[
         "Stella"
     ],
     "name:ind_x_preferred":[
         "Bintang"
     ],
+    "name:ind_x_variant":[
+        "bintang"
+    ],
+    "name:inh_x_preferred":[
+        "\u0421\u0435\u0434\u043a\u044a\u0430"
+    ],
     "name:isl_x_preferred":[
         "S\u00f3lstjarna"
     ],
+    "name:isl_x_variant":[
+        "s\u00f3lstjarna"
+    ],
     "name:ita_x_preferred":[
         "Stella"
+    ],
+    "name:ita_x_variant":[
+        "stella"
+    ],
+    "name:jam_x_preferred":[
+        "Staar"
     ],
     "name:jav_x_preferred":[
         "Lintang"
     ],
     "name:jbo_x_preferred":[
         "tarci"
+    ],
+    "name:jbo_x_variant":[
+        "lo tarci"
     ],
     "name:jpn_x_preferred":[
         "\u6052\u661f"
@@ -246,6 +342,15 @@
     "name:kaz_x_preferred":[
         "\u0416\u04b1\u043b\u0434\u044b\u0437"
     ],
+    "name:kbp_x_preferred":[
+        "T\u0269\u0269\u014ba"
+    ],
+    "name:kik_x_preferred":[
+        "njata"
+    ],
+    "name:kir_x_preferred":[
+        "\u0416\u044b\u043b\u0434\u044b\u0437\u0434\u0430\u0440"
+    ],
     "name:kor_x_preferred":[
         "\ud56d\uc131"
     ],
@@ -264,11 +369,20 @@
     "name:lat_x_preferred":[
         "Stella"
     ],
+    "name:lat_x_variant":[
+        "stella"
+    ],
     "name:lav_x_preferred":[
         "Zvaigzne"
     ],
+    "name:lav_x_variant":[
+        "zvaigzne"
+    ],
     "name:lez_x_preferred":[
         "\u0413\u044a\u0435\u0434"
+    ],
+    "name:lfn_x_preferred":[
+        "Stela"
     ],
     "name:lim_x_preferred":[
         "Staar"
@@ -285,6 +399,9 @@
     "name:ltz_x_preferred":[
         "St\u00e4r"
     ],
+    "name:lzh_x_preferred":[
+        "\u6046\u661f"
+    ],
     "name:mal_x_preferred":[
         "\u0d28\u0d15\u0d4d\u0d37\u0d24\u0d4d\u0d30\u0d02"
     ],
@@ -293,6 +410,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0405\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0455\u0432\u0435\u0437\u0434\u0430"
     ],
     "name:mlg_x_preferred":[
         "Kintana"
@@ -318,6 +438,12 @@
     "name:mzn_x_preferred":[
         "\u0627\u0633\u0627\u0631\u0647"
     ],
+    "name:nah_x_preferred":[
+        "C\u012btlalli"
+    ],
+    "name:nan_x_preferred":[
+        "Chhe\u207f"
+    ],
     "name:nap_x_preferred":[
         "Stella"
     ],
@@ -339,8 +465,17 @@
     "name:nld_x_preferred":[
         "Ster"
     ],
+    "name:nld_x_variant":[
+        "ster"
+    ],
     "name:nno_x_preferred":[
         "Stjerne"
+    ],
+    "name:nno_x_variant":[
+        "stjerne"
+    ],
+    "name:nob_x_preferred":[
+        "stjerne"
     ],
     "name:nor_x_preferred":[
         "Stjerne"
@@ -354,6 +489,18 @@
     "name:oci_x_preferred":[
         "Estela"
     ],
+    "name:oci_x_variant":[
+        "estela"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b24\u0b3e\u0b30\u0b3e"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0442\u044a\u0430\u043b\u044b"
+    ],
+    "name:pag_x_preferred":[
+        "Bitewen"
+    ],
     "name:pam_x_preferred":[
         "Batuin"
     ],
@@ -363,26 +510,50 @@
     "name:pcd_x_preferred":[
         "\u00c9tole"
     ],
+    "name:pih_x_preferred":[
+        "Sdar"
+    ],
+    "name:pms_x_preferred":[
+        "St\u00e8ila"
+    ],
     "name:pnb_x_preferred":[
         "\u062a\u0627\u0631\u06c1"
     ],
     "name:pol_x_preferred":[
         "Gwiazda"
     ],
+    "name:pol_x_variant":[
+        "gwiazda"
+    ],
     "name:por_x_preferred":[
         "Estrela"
+    ],
+    "name:por_x_variant":[
+        "estrela"
     ],
     "name:que_x_preferred":[
         "Quyllur"
     ],
+    "name:rmy_x_preferred":[
+        "Chexay"
+    ],
     "name:ron_x_preferred":[
         "Stea"
+    ],
+    "name:ron_x_variant":[
+        "stea"
     ],
     "name:rue_x_preferred":[
         "\u0417\u0432\u0456\u0437\u0434\u0430"
     ],
+    "name:rup_x_preferred":[
+        "Steau\u00e2"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0437\u0432\u0435\u0437\u0434\u0430"
     ],
     "name:sah_x_preferred":[
         "\u0421\u0443\u043b\u0443\u0441"
@@ -393,8 +564,17 @@
     "name:scn_x_preferred":[
         "Stidda"
     ],
+    "name:scn_x_variant":[
+        "stidda"
+    ],
     "name:sco_x_preferred":[
         "Starn"
+    ],
+    "name:sco_x_variant":[
+        "starn"
+    ],
+    "name:sgs_x_preferred":[
+        "\u017dvai\u017edie"
     ],
     "name:sin_x_preferred":[
         "\u0dad\u0dbb\u0dd4"
@@ -402,17 +582,35 @@
     "name:slk_x_preferred":[
         "Hviezda"
     ],
+    "name:slk_x_variant":[
+        "hviezda"
+    ],
     "name:slv_x_preferred":[
         "Zvezda"
     ],
+    "name:slv_x_variant":[
+        "zvezda"
+    ],
+    "name:sma_x_preferred":[
+        "naestie"
+    ],
+    "name:sme_x_preferred":[
+        "n\u00e1sti"
+    ],
     "name:sna_x_preferred":[
         "Nyenyedzi"
+    ],
+    "name:snd_x_preferred":[
+        "\u062a\u0627\u0631\u0648"
     ],
     "name:som_x_preferred":[
         "Xidig"
     ],
     "name:spa_x_preferred":[
         "Estrella"
+    ],
+    "name:spa_x_variant":[
+        "estrella"
     ],
     "name:sqi_x_preferred":[
         "Ylli"
@@ -422,6 +620,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0417\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0437\u0432\u0435\u0437\u0434\u0430"
     ],
     "name:stq_x_preferred":[
         "Stiern"
@@ -434,6 +635,9 @@
     ],
     "name:swe_x_preferred":[
         "Stj\u00e4rna"
+    ],
+    "name:swe_x_variant":[
+        "stj\u00e4rna"
     ],
     "name:szl_x_preferred":[
         "Gwjozda"
@@ -468,6 +672,9 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u0440\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u0437\u043e\u0440\u044f"
+    ],
     "name:unk_x_variant":[
         "Star"
     ],
@@ -476,6 +683,9 @@
     ],
     "name:uzb_x_preferred":[
         "Yulduz"
+    ],
+    "name:uzb_x_variant":[
+        "yulduz"
     ],
     "name:vec_x_preferred":[
         "St\u00e9\u0142a"
@@ -486,8 +696,17 @@
     "name:vie_x_preferred":[
         "Sao"
     ],
+    "name:vie_x_variant":[
+        "sao"
+    ],
     "name:vls_x_preferred":[
         "Sterre"
+    ],
+    "name:vol_x_preferred":[
+        "stel"
+    ],
+    "name:vro_x_preferred":[
+        "Taivat\u00e4ht"
     ],
     "name:war_x_preferred":[
         "Bitoon"
@@ -501,6 +720,9 @@
     "name:xal_x_preferred":[
         "\u041e\u0434\u043d"
     ],
+    "name:xho_x_preferred":[
+        "Inkwenkwezi"
+    ],
     "name:xmf_x_preferred":[
         "\u10db\u10e3\u10e0\u10d8\u10ea\u10ee\u10d8"
     ],
@@ -509,6 +731,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccr\u00e0w\u1ecd\u0300"
+    ],
+    "name:yue_x_preferred":[
+        "\u6046\u661f"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chhe\u207f"
@@ -553,7 +778,6 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":13947,
     "wof:belongsto":[
-        85682057,
         102191575,
         101736249,
         85633041,
@@ -589,7 +813,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931401,
+    "wof:lastmodified":1563281831,
     "wof:name":"Star",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

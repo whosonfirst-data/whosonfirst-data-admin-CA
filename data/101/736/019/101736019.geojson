@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u062a \u0625\u062f\u0648\u0627\u0631\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Point Edward"
+    ],
     "name:eng_x_preferred":[
         "Point Edward"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u06cc\u0646\u062a \u0627\u062f\u0648\u0627\u0631\u062f\u060c \u0627\u0646\u062a\u0627\u0631\u06cc\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0648\u06cc\u0646\u062a \u0627\u062f\u0648\u0627\u0631\u062f"
     ],
     "name:fra_x_preferred":[
         "Point Edward"
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Point Edward"
+    ],
+    "name:swe_x_variant":[
+        "Rivi\u00e8re-H\u00e9va"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":101736019,
-    "wof:lastmodified":1561844344,
+    "wof:lastmodified":1563284512,
     "wof:name":"Point Edward",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",
