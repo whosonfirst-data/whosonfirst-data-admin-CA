@@ -29,16 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Parkway"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u200c\u0631\u0627\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Parkway"
+    ],
+    "name:jpn_x_preferred":[
+        "\u516c\u5712\u9053\u8def"
+    ],
     "reversegeo:latitude":49.314209,
     "reversegeo:longitude":-122.974669,
     "src:geom":"can-dnvgov",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108906825,
         85633041,
         101741071,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1108906877,
-    "wof:lastmodified":1531521016,
+    "wof:lastmodified":1564172186,
     "wof:name":"Parkway",
     "wof:parent_id":1108906825,
     "wof:placetype":"neighbourhood",

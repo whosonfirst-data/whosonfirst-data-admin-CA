@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14573765.386581,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.234713,43.539753,-80.234713,43.539753",
     "geom:latitude":43.539753,
     "geom:longitude":-80.234713,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Two Rivers"
+    ],
     "name:deu_x_preferred":[
         "Two Rivers"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0443 \u0420\u0438\u0432\u0435\u0440\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Two Rivers"
     ],
     "name:unk_x_variant":[
         "Two Rivers"
@@ -88,11 +94,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":138,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735553,
-        890456827,
-        85682057
+        890456827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872149,
+    "wof:lastmodified":1564170672,
     "wof:name":"Two Rivers",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

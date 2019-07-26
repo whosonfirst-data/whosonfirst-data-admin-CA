@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2556690.225775,
+    "geom:area_square_m":2556690.225773,
     "geom:bbox":"-73.6543336589,45.5759939307,-73.6287733061,45.5979208347",
     "geom:latitude":45.586086,
     "geom:longitude":-73.642279,
@@ -25,19 +25,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ouest"
+    ],
+    "name:deu_x_preferred":[
+        "Ouest"
+    ],
     "name:fra_x_preferred":[
+        "Ouest"
+    ],
+    "name:ita_x_preferred":[
+        "Ouest"
+    ],
+    "name:nld_x_preferred":[
+        "Ouest"
+    ],
+    "name:swe_x_preferred":[
         "Ouest"
     ],
     "reversegeo:latitude":45.585961,
     "reversegeo:longitude":-73.642478,
     "src:geom":"can-mtlsmvt",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736545,
         1108955731,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1108959451,
-    "wof:lastmodified":1533277836,
+    "wof:lastmodified":1564172082,
     "wof:name":"Ouest",
     "wof:parent_id":1108955731,
     "wof:placetype":"neighbourhood",

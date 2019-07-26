@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2224950.732719,
+    "geom:area_square_m":2224950.732709,
     "geom:bbox":"-123.072204292,49.3355483891,-123.051368996,49.3514530921",
     "geom:latitude":49.342752,
     "geom:longitude":-123.062187,
@@ -29,15 +29,24 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cym_x_preferred":[
+        "Carisbrooke"
+    ],
+    "name:lat_x_preferred":[
+        "Carisbrooke"
+    ],
+    "name:pol_x_preferred":[
+        "Carisbrooke"
+    ],
     "reversegeo:latitude":49.342865,
     "reversegeo:longitude":-123.062182,
     "src:geom":"can-dnvgov",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741071,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1108906845,
-    "wof:lastmodified":1531521014,
+    "wof:lastmodified":1564172196,
     "wof:name":"Carisbrooke",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

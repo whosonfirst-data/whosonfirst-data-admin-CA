@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6335858.577528,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.108913,45.264853,-66.108913,45.264853",
     "geom:latitude":45.264853,
     "geom:longitude":-66.108913,
@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Milford"
     ],
+    "name:ceb_x_preferred":[
+        "Milford"
+    ],
     "name:ces_x_preferred":[
         "Milford"
     ],
@@ -40,6 +43,9 @@
         "Milford"
     ],
     "name:hbs_x_preferred":[
+        "Milford"
+    ],
+    "name:hun_x_preferred":[
         "Milford"
     ],
     "name:ita_x_preferred":[
@@ -123,11 +129,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870879,
+    "wof:lastmodified":1564170724,
     "wof:name":"Milford",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

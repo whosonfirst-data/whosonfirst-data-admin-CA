@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1665011.82618,
+    "geom:area_square_m":1665011.826194,
     "geom:bbox":"-97.297298,49.880507,-97.277032,49.901639",
     "geom:latitude":49.893741,
     "geom:longitude":-97.283979,
@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":15,
+    "name:ceb_x_preferred":[
+        "Heritage Park"
+    ],
     "name:eng_x_preferred":[
+        "Heritage Park"
+    ],
+    "name:swe_x_preferred":[
         "Heritage Park"
     ],
     "reversegeo:latitude":49.894925,
@@ -36,12 +42,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968457,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108937393,
-    "wof:lastmodified":1531523903,
+    "wof:lastmodified":1564172088,
     "wof:name":"Heritage Park",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

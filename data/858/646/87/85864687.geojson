@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16596751.978385,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.304398,43.104866,-79.304398,43.104866",
     "geom:latitude":43.104866,
     "geom:longitude":-79.304398,
@@ -24,8 +24,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Rockaway"
+    ],
     "name:eng_x_preferred":[
         "Rockaway"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06a9\u0627\u0648\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05e7\u05d0\u05d5\u05d5\u05d9"
     ],
     "name:pol_x_preferred":[
         "Rockaway"
@@ -67,8 +76,6 @@
         102191575,
         101736395,
         85633041,
-        101736395,
-        890456991,
         85682057,
         101740727
     ],
@@ -100,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870953,
+    "wof:lastmodified":1564170868,
     "wof:name":"Rockaway",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

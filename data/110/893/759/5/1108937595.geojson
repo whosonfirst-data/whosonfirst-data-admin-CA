@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":846820.802046,
+    "geom:area_square_m":846820.802045,
     "geom:bbox":"-97.025418,49.895069,-97.002569,49.900797",
     "geom:latitude":49.897613,
     "geom:longitude":-97.01257,
@@ -25,8 +25,38 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":15,
+    "name:afr_x_preferred":[
+        "Victoria-Wes"
+    ],
+    "name:deu_x_preferred":[
+        "Victoria West"
+    ],
     "name:eng_x_preferred":[
         "Victoria West"
+    ],
+    "name:est_x_preferred":[
+        "Victoria West"
+    ],
+    "name:fra_x_preferred":[
+        "Victoria West"
+    ],
+    "name:ita_x_preferred":[
+        "Victoria West"
+    ],
+    "name:nld_x_preferred":[
+        "Victoria-Wes"
+    ],
+    "name:nso_x_preferred":[
+        "Victoria West"
+    ],
+    "name:pol_x_preferred":[
+        "Victoria West"
+    ],
+    "name:ron_x_preferred":[
+        "Victoria West"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u7dad\u591a\u5229\u4e9e"
     ],
     "reversegeo:latitude":49.897952,
     "reversegeo:longitude":-97.01257,
@@ -36,12 +66,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968467,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1108937595,
-    "wof:lastmodified":1531523911,
+    "wof:lastmodified":1564172104,
     "wof:name":"Victoria West",
     "wof:parent_id":1108968467,
     "wof:placetype":"neighbourhood",

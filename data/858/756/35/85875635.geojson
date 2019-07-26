@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8532033.48149,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.935839,49.166637,-123.935839,49.166637",
     "geom:latitude":49.166637,
     "geom:longitude":-123.935839,
@@ -26,6 +26,12 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Old City"
+    ],
+    "name:epo_x_preferred":[
+        "Malnova Urbo"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad antigua"
     ],
     "name:unk_x_variant":[
         "Old City"
@@ -62,11 +68,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":94,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872181,
+    "wof:lastmodified":1564170822,
     "wof:name":"Old City",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

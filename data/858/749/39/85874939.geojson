@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7613737.467522,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.26754,43.006774,-81.26754,43.006774",
     "geom:latitude":43.006774,
     "geom:longitude":-81.26754,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "North London"
+    ],
     "name:eng_x_preferred":[
         "North London"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "North London"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u06cc \u0644\u0646\u062f\u0646"
     ],
     "name:vie_x_preferred":[
         "B\u1eafc Lu\u00e2n \u0110\u00f4n"
@@ -85,11 +91,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":753,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871970,
+    "wof:lastmodified":1564170777,
     "wof:name":"North London",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

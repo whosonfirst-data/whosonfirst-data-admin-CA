@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003798,
-    "geom:area_square_m":30697346.6551,
+    "geom:area_square_m":30697346.655097,
     "geom:bbox":"-122.919637022,49.1501275529,-122.812065481,49.2179786",
     "geom:latitude":49.186843,
     "geom:longitude":-122.860085,
@@ -20,15 +20,30 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Whalley"
+    ],
+    "name:deu_x_preferred":[
+        "Whalley"
+    ],
+    "name:nds_x_preferred":[
+        "Whalley"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u043b\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Whalley"
+    ],
     "reversegeo:latitude":49.193213,
     "reversegeo:longitude":-122.87706,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741073,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1108951553,
-    "wof:lastmodified":1531521019,
+    "wof:lastmodified":1564172070,
     "wof:name":"Whalley",
     "wof:parent_id":101741073,
     "wof:placetype":"neighbourhood",

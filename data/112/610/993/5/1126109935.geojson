@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":2588018.851014,
+    "geom:area_square_m":2588018.851012,
     "geom:bbox":"-76.3555857,45.3906299998,-76.3241440003,45.4171809",
     "geom:latitude":45.405289,
     "geom:longitude":-76.339858,
@@ -23,15 +23,21 @@
     "name:eng_x_preferred":[
         "Lake Madawaska"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0439\u043a-\u041c\u0430\u0434\u0430\u0432\u0430\u0441\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lake Madawaska"
+    ],
     "reversegeo:latitude":45.405511,
     "reversegeo:longitude":-76.341157,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735873,
-        890458681,
-        85682057
+        890458681
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1126109935,
-    "wof:lastmodified":1533277899,
+    "wof:lastmodified":1564173452,
     "wof:name":"Lake Madawaska",
     "wof:parent_id":101735873,
     "wof:placetype":"neighbourhood",

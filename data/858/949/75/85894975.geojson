@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27350698.465211,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.699783,43.647712,-79.699783,43.647712",
     "geom:latitude":43.647712,
     "geom:longitude":-79.699783,
@@ -26,6 +26,9 @@
     "mz:note":"no ref",
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Gateway"
+    ],
     "name:deu_x_preferred":[
         "Gateway"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0435\u0458\u0442\u0432\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Gateway"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e15\u0e40\u0e27\u0e22\u0e4c"
@@ -126,8 +132,6 @@
         102191575,
         101740755,
         85633041,
-        101740755,
-        890456343,
         85682057,
         101735893
     ],
@@ -159,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931293,
+    "wof:lastmodified":1564170788,
     "wof:name":"Gateway",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

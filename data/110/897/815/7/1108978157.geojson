@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001116,
-    "geom:area_square_m":9703019.646491,
+    "geom:area_square_m":9703019.646501,
     "geom:bbox":"-75.6413179996,45.2938130002,-75.5858359996,45.3328809996",
     "geom:latitude":45.312432,
     "geom:longitude":-75.612466,
@@ -20,19 +20,34 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Leitrim"
+    ],
+    "name:deu_x_preferred":[
+        "Leitrim"
+    ],
     "name:eng_x_preferred":[
+        "Leitrim"
+    ],
+    "name:pol_x_preferred":[
+        "Leitrim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0440\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
         "Leitrim"
     ],
     "reversegeo:latitude":45.313334,
     "reversegeo:longitude":-75.610584,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126055453,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1108978157,
-    "wof:lastmodified":1533277883,
+    "wof:lastmodified":1564172231,
     "wof:name":"Leitrim",
     "wof:parent_id":1126055453,
     "wof:placetype":"neighbourhood",

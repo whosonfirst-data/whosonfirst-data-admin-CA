@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11319634.593251,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.93998,43.779597,-79.93998,43.779597",
     "geom:latitude":43.779597,
     "geom:longitude":-79.93998,
@@ -47,6 +47,9 @@
     "name:hbs_x_preferred":[
         "Inglvud"
     ],
+    "name:hun_x_preferred":[
+        "Inglewood"
+    ],
     "name:ita_x_preferred":[
         "Inglewood"
     ],
@@ -68,8 +71,14 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0433\u043b\u0432\u0443\u0434"
     ],
+    "name:srp_x_preferred":[
+        "\u0418\u043d\u0433\u043b\u0432\u0443\u0434"
+    ],
     "name:swe_x_preferred":[
         "Inglewood"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0433\u043b\u0432\u0443\u0434"
     ],
     "name:unk_x_variant":[
         "Inglewood"
@@ -107,7 +116,6 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736249,
         85633041,
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":85895553,
-    "wof:lastmodified":1531931435,
+    "wof:lastmodified":1564170715,
     "wof:name":"Inglewood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

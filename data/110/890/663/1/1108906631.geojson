@@ -20,19 +20,40 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Granville Island"
+    ],
+    "name:deu_x_preferred":[
+        "Granville Island"
+    ],
     "name:eng_x_variant":[
         "Granvilleisland"
+    ],
+    "name:epo_x_preferred":[
+        "Granville-Insulo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u06af\u0631\u0646\u0648\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Granville Island"
+    ],
+    "name:swe_x_preferred":[
+        "Granville Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fa\u862d\u6e56\u5cf6"
     ],
     "reversegeo:latitude":49.270708,
     "reversegeo:longitude":-123.134259,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
+        85865005,
         102191575,
         85633041,
         101741075,
         890457467,
-        85865005
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1108906631,
-    "wof:lastmodified":1531521056,
+    "wof:lastmodified":1564172199,
     "wof:name":"Granville Island",
     "wof:parent_id":85865005,
     "wof:placetype":"microhood",

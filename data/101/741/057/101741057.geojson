@@ -20,6 +20,12 @@
     "mps:longitude":-123.07466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0643\u0648\u0641\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0648\u0646\u06a9\u0648\u0648\u0631"
+    ],
     "name:eng_x_preferred":[
         "North Vancouver"
     ],
@@ -30,6 +36,15 @@
     "name:fas_x_preferred":[
         "\u0648\u0646\u06a9\u0648\u0648\u0631 \u0634\u0645\u0627\u0644\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "North Vancouver"
+    ],
+    "name:fra_x_preferred":[
+        "North Vancouver"
+    ],
+    "name:fry_x_preferred":[
+        "North Vancouver"
+    ],
     "name:ind_x_preferred":[
         "Vancouver Utara, British Columbia"
     ],
@@ -39,17 +54,29 @@
     "name:kor_x_preferred":[
         "\ub178\uc2a4\ubc34\ucfe0\ubc84"
     ],
+    "name:pol_x_preferred":[
+        "North Vancouver"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0442-\u0412\u0430\u043d\u043a\u0443\u0432\u0435\u0440"
     ],
+    "name:slk_x_preferred":[
+        "North Vancouver"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0440\u0442 \u0412\u0430\u043d\u043a\u0443\u0432\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "North Vancouver"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u062a\u06be \u0648\u06cc\u0646\u06a9\u0648\u0648\u0631"
     ],
     "name:zho_x_preferred":[
         "\u5317\u6eab\u54e5\u83ef\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u6eab\u54e5\u83ef"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -107,7 +134,7 @@
         }
     ],
     "wof:id":101741057,
-    "wof:lastmodified":1543608023,
+    "wof:lastmodified":1564172798,
     "wof:name":"North Vancouver",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

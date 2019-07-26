@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12605720.698068,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.160127,49.012226,-122.160127,49.012226",
     "geom:latitude":49.012226,
     "geom:longitude":-122.160127,
@@ -24,8 +24,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0646\u0648\u0644\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u043d\u043e\u043b\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Arnold"
+    ],
+    "name:ceb_x_preferred":[
+        "Arnold"
     ],
     "name:ces_x_preferred":[
         "Arnold"
@@ -144,8 +153,7 @@
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +177,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870995,
+    "wof:lastmodified":1564170747,
     "wof:name":"Arnold",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

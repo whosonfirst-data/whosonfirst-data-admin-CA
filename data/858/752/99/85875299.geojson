@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2827496.106723,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.483224,49.884628,-119.483224,49.884628",
     "geom:latitude":49.884628,
     "geom:longitude":-119.483224,
@@ -26,6 +26,9 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "North Central"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u4e2d\u90e8"
     ],
     "name:unk_x_variant":[
         "North Central"
@@ -62,11 +65,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741131,
-        890458697,
-        85682117
+        890458697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872069,
+    "wof:lastmodified":1564170663,
     "wof:name":"North Central",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":653634.35129,
+    "geom:area_square_m":653634.351293,
     "geom:bbox":"-122.927631928,49.2037317649,-122.908519432,49.2163387036",
     "geom:latitude":49.210038,
     "geom:longitude":-122.918575,
@@ -27,6 +27,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Uptown"
+    ],
     "name:eng_x_preferred":[
         "Uptown"
     ],
@@ -79,11 +82,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":276,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741077,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521032,
+    "wof:lastmodified":1564170782,
     "wof:name":"Uptown",
     "wof:parent_id":101741077,
     "wof:placetype":"neighbourhood",

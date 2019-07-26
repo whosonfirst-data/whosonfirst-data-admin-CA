@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":4689836.491172,
+    "geom:area_square_m":4689836.491182,
     "geom:bbox":"-73.6776262096,45.4789526286,-73.6274594132,45.5053941691",
     "geom:latitude":45.4937,
     "geom:longitude":-73.651221,
@@ -25,20 +25,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Savane"
+    ],
     "name:fra_x_preferred":[
+        "Savane"
+    ],
+    "name:spa_x_preferred":[
+        "Savane"
+    ],
+    "name:swe_x_preferred":[
         "Savane"
     ],
     "reversegeo:latitude":45.496619,
     "reversegeo:longitude":-73.640429,
     "src:geom":"can-mtlsmvt",
     "wof:belongsto":[
-        136251273,
         102191575,
         1108955923,
         85633041,
         101736545,
         1108955757,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108959369,
-    "wof:lastmodified":1533277832,
+    "wof:lastmodified":1564172047,
     "wof:name":"Savane",
     "wof:parent_id":1108955923,
     "wof:placetype":"neighbourhood",

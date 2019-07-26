@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2349538.746689,
+    "geom:area_square_m":2349538.74669,
     "geom:bbox":"-97.239199,49.857041,-97.205992,49.867403",
     "geom:latitude":49.862139,
     "geom:longitude":-97.222847,
@@ -30,6 +30,15 @@
     "name:eng_x_preferred":[
         "Central Tuxedo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0648\u0627\u062a \u0633\u06cc\u0627\u0647"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub799 \ud0c0\uc774"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u8272\u9886\u7ed3"
+    ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -37,12 +46,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108969481,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523923,
+    "wof:lastmodified":1564170882,
     "wof:name":"Tuxedo",
     "wof:parent_id":1108969481,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003373,
-    "geom:area_square_m":27151851.227459,
+    "geom:area_square_m":27151851.227526,
     "geom:bbox":"-122.977121605,49.340688566,-122.8824294,49.4138060195",
     "geom:latitude":49.377638,
     "geom:longitude":-122.925708,
@@ -20,15 +20,24 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Mount Seymour Park"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Seymour Provincial Park"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Seymour Park"
+    ],
     "reversegeo:latitude":49.378,
     "reversegeo:longitude":-122.92419,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741071,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1108952805,
-    "wof:lastmodified":1531521028,
+    "wof:lastmodified":1564172056,
     "wof:name":"Mount Seymour Provincial Park",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

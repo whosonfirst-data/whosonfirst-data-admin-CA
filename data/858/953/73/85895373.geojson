@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15274330.713726,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.704739,43.399269,-79.704739,43.399269",
     "geom:latitude":43.399269,
     "geom:longitude":-79.704739,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Bronte"
+    ],
     "name:deu_x_preferred":[
         "Bronte"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:fin_x_preferred":[
         "Bronte"
+    ],
+    "name:fra_x_preferred":[
+        "Bronte"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d5\u05e0\u05d8\u05d4"
     ],
     "name:ita_x_preferred":[
         "Bronte"
@@ -43,6 +52,9 @@
         "Bronte"
     ],
     "name:slk_x_preferred":[
+        "Bronte"
+    ],
+    "name:swe_x_preferred":[
         "Bronte"
     ],
     "name:ukr_x_preferred":[
@@ -83,8 +95,6 @@
         102191575,
         101740713,
         85633041,
-        101740713,
-        890458413,
         85682057,
         101735889
     ],
@@ -116,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931396,
+    "wof:lastmodified":1564170682,
     "wof:name":"Bronte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

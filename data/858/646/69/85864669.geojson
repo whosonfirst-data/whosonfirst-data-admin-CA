@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15562847.123346,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.140233,42.998888,-81.140233,42.998888",
     "geom:latitude":42.998888,
     "geom:longitude":-81.140233,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Crumlin"
+    ],
     "name:cor_x_preferred":[
         "Crymlyn"
     ],
@@ -36,7 +39,13 @@
     "name:gle_x_preferred":[
         "Cromghlinn"
     ],
+    "name:ita_x_preferred":[
+        "Crumlin"
+    ],
     "name:slk_x_preferred":[
+        "Crumlin"
+    ],
+    "name:swe_x_preferred":[
         "Crumlin"
     ],
     "name:unk_x_variant":[
@@ -70,11 +79,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":86,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870949,
+    "wof:lastmodified":1564170867,
     "wof:name":"Crumlin",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

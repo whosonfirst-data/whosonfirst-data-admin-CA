@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":806275.532678,
+    "geom:area_square_m":806275.532676,
     "geom:bbox":"-97.275066,49.871727,-97.229759,49.878538",
     "geom:latitude":49.874863,
     "geom:longitude":-97.255134,
@@ -27,6 +27,9 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0686\u0648\u0648\u062f"
+    ],
     "name:ceb_x_preferred":[
         "Birchwood"
     ],
@@ -54,6 +57,9 @@
     "name:swe_x_preferred":[
         "Birchwood"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u0648\u0688"
+    ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -62,12 +68,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":2297,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968515,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523922,
+    "wof:lastmodified":1564170881,
     "wof:name":"Birchwood",
     "wof:parent_id":1108968515,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002177,
-    "geom:area_square_m":17617780.15942,
+    "geom:area_square_m":17617780.159397,
     "geom:bbox":"-123.203952657,49.0860696107,-122.909531359,49.19559",
     "geom:latitude":49.119679,
     "geom:longitude":-123.101245,
@@ -20,15 +20,21 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "South Arm"
+    ],
+    "name:swe_x_preferred":[
+        "South Arm"
+    ],
     "reversegeo:latitude":49.098684,
     "reversegeo:longitude":-123.136163,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108952743,
         85633041,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108952759,
-    "wof:lastmodified":1531521027,
+    "wof:lastmodified":1564172060,
     "wof:name":"South Arm",
     "wof:parent_id":1108952743,
     "wof:placetype":"neighbourhood",

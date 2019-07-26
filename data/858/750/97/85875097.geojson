@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001555,
-    "geom:area_square_m":12753856.604054,
+    "geom:area_square_m":12753856.604052,
     "geom:bbox":"-123.433156738,48.407861044,-123.373223785,48.4628872507",
     "geom:latitude":48.433721,
     "geom:longitude":-123.40898,
@@ -27,10 +27,19 @@
     "name:afr_x_preferred":[
         "Victoria-Wes"
     ],
+    "name:deu_x_preferred":[
+        "Victoria West"
+    ],
     "name:eng_x_preferred":[
         "Victoria West"
     ],
+    "name:est_x_preferred":[
+        "Victoria West"
+    ],
     "name:fra_x_preferred":[
+        "Victoria West"
+    ],
+    "name:ita_x_preferred":[
         "Victoria West"
     ],
     "name:nld_x_preferred":[
@@ -82,11 +91,11 @@
     "wd:longitude":23.120556,
     "wd:wordcount":283,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740879,
-        890456487,
-        85682117
+        890456487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531520063,
+    "wof:lastmodified":1564170855,
     "wof:name":"Victoria West",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

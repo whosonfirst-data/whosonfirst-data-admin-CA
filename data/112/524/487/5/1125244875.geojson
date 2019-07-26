@@ -23,16 +23,22 @@
     "name:eng_x_preferred":[
         "Algonquin College"
     ],
+    "name:fra_x_preferred":[
+        "Coll\u00e8ge algonquin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u043e\u043d\u043a\u0438\u043d-\u043a\u043e\u043b\u043b\u0435\u0434\u0436"
+    ],
     "reversegeo:latitude":45.351138,
     "reversegeo:longitude":-75.755464,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1125244875,
-    "wof:lastmodified":1533277877,
+    "wof:lastmodified":1564173776,
     "wof:name":"Algonquin College",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

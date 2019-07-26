@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":704271.638539,
+    "geom:area_square_m":704271.638542,
     "geom:bbox":"-123.136644576,49.359666382,-123.117286141,49.3669845811",
     "geom:latitude":49.362351,
     "geom:longitude":-123.125703,
@@ -20,15 +20,33 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Glenmore"
+    ],
+    "name:deu_x_preferred":[
+        "Glenmore"
+    ],
+    "name:fra_x_preferred":[
+        "Glenmore"
+    ],
+    "name:ind_x_preferred":[
+        "Glenmore"
+    ],
+    "name:pol_x_preferred":[
+        "Glenmore"
+    ],
+    "name:swe_x_preferred":[
+        "Glenmore"
+    ],
     "reversegeo:latitude":49.362466,
     "reversegeo:longitude":-123.125703,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741069,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1108952509,
-    "wof:lastmodified":1531521021,
+    "wof:lastmodified":1564172061,
     "wof:name":"Glenmore",
     "wof:parent_id":101741069,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":807998.16912,
+    "geom:area_square_m":807998.169121,
     "geom:bbox":"-104.59519938,50.455602161,-104.583618861,50.4656173229",
     "geom:latitude":50.461075,
     "geom:longitude":-104.589602,
@@ -20,19 +20,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Eastview"
+    ],
     "name:eng_x_preferred":[
+        "Eastview"
+    ],
+    "name:por_x_preferred":[
         "Eastview"
     ],
     "reversegeo:latitude":50.461108,
     "reversegeo:longitude":-104.589602,
     "src:geom":"can-rodca",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113675,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1126113657,
-    "wof:lastmodified":1531524464,
+    "wof:lastmodified":1564173458,
     "wof:name":"Eastview",
     "wof:parent_id":1126113675,
     "wof:placetype":"neighbourhood",

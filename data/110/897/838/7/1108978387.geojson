@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000545,
-    "geom:area_square_m":4732637.562944,
+    "geom:area_square_m":4732637.56295,
     "geom:bbox":"-75.7326459997,45.365282548,-75.6999459999,45.3968020002",
     "geom:latitude":45.381679,
     "geom:longitude":-75.7152,
@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Central Experimental Farm/Ferme exp\u00e9rimentale centrale"
+    ],
     "name:eng_x_preferred":[
         "Central Experimental Farm"
     ],
@@ -27,16 +30,22 @@
         "CEF",
         "Experimental Farm"
     ],
+    "name:fra_x_preferred":[
+        "Ferme exp\u00e9rimentale centrale"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u0444\u0435\u0440\u043c\u0430"
+    ],
     "reversegeo:latitude":45.384318,
     "reversegeo:longitude":-75.712476,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1108978387,
-    "wof:lastmodified":1533277884,
+    "wof:lastmodified":1564172236,
     "wof:name":"Central Experimental Farm",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

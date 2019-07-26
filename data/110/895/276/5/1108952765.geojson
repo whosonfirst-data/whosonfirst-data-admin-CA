@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000855,
-    "geom:area_square_m":6907324.989611,
+    "geom:area_square_m":6907324.989634,
     "geom:bbox":"-123.203121469,49.1791262,-122.919941078,49.2226871731",
     "geom:latitude":49.20106,
     "geom:longitude":-123.069756,
@@ -20,15 +20,24 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:fra_x_preferred":[
+        "North Arm"
+    ],
+    "name:spa_x_preferred":[
+        "Brazo Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5b89"
+    ],
     "reversegeo:latitude":49.200493,
     "reversegeo:longitude":-123.028897,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108952743,
         85633041,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1108952765,
-    "wof:lastmodified":1531521028,
+    "wof:lastmodified":1564172076,
     "wof:name":"North Arm",
     "wof:parent_id":1108952743,
     "wof:placetype":"neighbourhood",

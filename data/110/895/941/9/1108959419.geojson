@@ -25,20 +25,50 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Loyola"
+    ],
+    "name:deu_x_preferred":[
+        "Loyola"
+    ],
+    "name:eus_x_preferred":[
+        "Loiola"
+    ],
     "name:fra_x_preferred":[
+        "Loyola"
+    ],
+    "name:hun_x_preferred":[
+        "Loyola"
+    ],
+    "name:nld_x_preferred":[
+        "Loyola"
+    ],
+    "name:pol_x_preferred":[
+        "Loyola"
+    ],
+    "name:por_x_preferred":[
+        "Loyola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0439\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Loyola"
+    ],
+    "name:swe_x_preferred":[
         "Loyola"
     ],
     "reversegeo:latitude":45.464886,
     "reversegeo:longitude":-73.643383,
     "src:geom":"can-mtlsmvt",
     "wof:belongsto":[
-        136251273,
         102191575,
         1108955927,
         85633041,
         101736545,
         1108955757,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1108959419,
-    "wof:lastmodified":1533277834,
+    "wof:lastmodified":1564172066,
     "wof:name":"Loyola",
     "wof:parent_id":1108955927,
     "wof:placetype":"neighbourhood",

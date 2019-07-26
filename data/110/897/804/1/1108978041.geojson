@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2112420.041423,
+    "geom:area_square_m":2112420.041424,
     "geom:bbox":"-75.7778729998,45.3348820001,-75.7537220004,45.3515020003",
     "geom:latitude":45.342224,
     "geom:longitude":-75.766082,
@@ -27,16 +27,19 @@
     "name:eng_x_preferred":[
         "Centrepointe"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0435\u0440\u043f\u043e\u0439\u043d\u0442"
+    ],
     "reversegeo:latitude":45.342308,
     "reversegeo:longitude":-75.765854,
     "src:geom":"can-ons",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1108978041,
-    "wof:lastmodified":1533277879,
+    "wof:lastmodified":1564172217,
     "wof:name":"Centrepointe",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

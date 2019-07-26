@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4250010.499231,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.092571,45.256516,-66.092571,45.256516",
     "geom:latitude":45.256516,
     "geom:longitude":-66.092571,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Fairville"
+    ],
     "name:eng_x_preferred":[
         "Fairville"
     ],
@@ -61,11 +64,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872109,
+    "wof:lastmodified":1564170689,
     "wof:name":"Fairville",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

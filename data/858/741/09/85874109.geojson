@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5130008.567398,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.568008,46.349198,-72.568008,46.349198",
     "geom:latitude":46.349198,
     "geom:longitude":-72.568008,
@@ -77,6 +77,9 @@
     "name:swe_x_preferred":[
         "Carmel"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0435\u043b"
+    ],
     "name:unk_x_variant":[
         "Carmel"
     ],
@@ -117,11 +120,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":569,
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101738021,
-        1158884881,
-        136251273
+        1158884881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +149,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871883,
+    "wof:lastmodified":1564170803,
     "wof:name":"Carmel",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

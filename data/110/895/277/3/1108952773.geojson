@@ -20,16 +20,43 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "name:deu_x_preferred":[
+        "Canada Place"
+    ],
+    "name:est_x_preferred":[
+        "Canada Place"
+    ],
+    "name:fra_x_preferred":[
+        "Canada Place"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u0561\u0564\u0561 \u0583\u056c\u0565\u0575\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Canada Place"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ca\u30c0\u30d7\u30ec\u30fc\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Canada Place"
+    ],
+    "name:por_x_preferred":[
+        "Canada Place"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u62ff\u5927\u5ee3\u5834"
+    ],
     "reversegeo:latitude":49.28867,
     "reversegeo:longitude":-123.11132,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
+        85866519,
         102191575,
         85633041,
         101741075,
         890457467,
-        85866519
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1108952773,
-    "wof:lastmodified":1531521059,
+    "wof:lastmodified":1564172073,
     "wof:name":"Canada Place",
     "wof:parent_id":85866519,
     "wof:placetype":"microhood",

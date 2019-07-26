@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1225005.786971,
+    "geom:area_square_m":1225005.786972,
     "geom:bbox":"-75.6747118946,45.4826938041,-75.6397777098,45.4930178284",
     "geom:latitude":45.486654,
     "geom:longitude":-75.652373,
@@ -29,22 +29,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Le Moulin"
+    ],
     "name:eng_x_preferred":[
         "Le Moulin"
     ],
     "name:fra_x_preferred":[
         "Le Moulin"
     ],
+    "name:pol_x_preferred":[
+        "Le Moulin"
+    ],
     "reversegeo:latitude":45.487006,
     "reversegeo:longitude":-75.648182,
     "src:geom":"can-gatsudd",
     "wof:belongsto":[
-        136251273,
         102191575,
         1126110337,
         85633041,
         101738041,
-        890456843
+        890456843,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1126110283,
-    "wof:lastmodified":1533270387,
+    "wof:lastmodified":1564173492,
     "wof:name":"Le Moulin",
     "wof:parent_id":1126110337,
     "wof:placetype":"neighbourhood",

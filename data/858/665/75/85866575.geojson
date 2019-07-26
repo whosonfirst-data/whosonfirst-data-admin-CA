@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":651345.031699,
+    "geom:area_square_m":651345.031697,
     "geom:bbox":"-97.169857,49.911779,-97.141685,49.922608",
     "geom:latitude":49.917423,
     "geom:longitude":-97.156131,
@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Dufferin"
     ],
+    "name:fra_x_preferred":[
+        "Dufferin"
+    ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -37,12 +40,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968519,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1564170875,
     "wof:name":"Dufferin",
     "wof:parent_id":1108968519,
     "wof:placetype":"neighbourhood",

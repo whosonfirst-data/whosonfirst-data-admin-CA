@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7255109.985974,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.246243,42.97184,-81.246243,42.97184",
     "geom:latitude":42.97184,
     "geom:longitude":-81.246243,
@@ -54,6 +54,9 @@
     "name:unk_x_variant":[
         "South London"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0644\u0646\u062f\u0646"
+    ],
     "name:vie_x_preferred":[
         "Nam Lu\u00e2n \u0110\u00f4n"
     ],
@@ -88,11 +91,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":772,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871969,
+    "wof:lastmodified":1564170777,
     "wof:name":"South London",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

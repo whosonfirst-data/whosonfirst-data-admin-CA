@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2038043.232533,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.871702,43.239373,-79.871702,43.239373",
     "geom:latitude":43.239373,
     "geom:longitude":-79.871702,
@@ -27,6 +27,15 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648\u062b\u0647\u0627\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0648\u062b\u0647\u0627\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0648\u062a\u0627\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Southam"
+    ],
     "name:cym_x_preferred":[
         "Southam"
     ],
@@ -35,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0648\u062a\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Southam"
     ],
     "name:gle_x_preferred":[
         "Southam"
@@ -57,10 +69,16 @@
     "name:ron_x_preferred":[
         "Southam"
     ],
+    "name:spa_x_preferred":[
+        "Southam"
+    ],
     "name:swe_x_preferred":[
         "Southam"
     ],
     "name:unk_x_variant":[
+        "Southam"
+    ],
+    "name:vol_x_preferred":[
         "Southam"
     ],
     "name:zho_x_preferred":[
@@ -99,11 +117,11 @@
     "wd:longitude":-1.39,
     "wd:wordcount":2211,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735515,
-        890456341,
-        85682057
+        890456341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871951,
+    "wof:lastmodified":1564170794,
     "wof:name":"Southam",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

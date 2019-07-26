@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":756067.726743,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.059665,45.276339,-66.059665,45.276339",
     "geom:latitude":45.276339,
     "geom:longitude":-66.059665,
@@ -24,7 +24,25 @@
     "mz:max_zoom":19.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:bar_x_preferred":[
+        "North End"
+    ],
+    "name:ceb_x_preferred":[
+        "North End"
+    ],
+    "name:ces_x_preferred":[
+        "North End"
+    ],
     "name:eng_x_preferred":[
+        "North End"
+    ],
+    "name:ita_x_preferred":[
+        "North End"
+    ],
+    "name:spa_x_preferred":[
+        "North End"
+    ],
+    "name:swe_x_preferred":[
         "North End"
     ],
     "name:unk_x_variant":[
@@ -63,11 +81,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":230,
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872104,
+    "wof:lastmodified":1564170687,
     "wof:name":"North End",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

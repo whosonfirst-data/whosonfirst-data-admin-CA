@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1118009.381009,
+    "geom:area_square_m":1118009.381007,
     "geom:bbox":"-79.346273565,43.678951974,-79.312778955,43.689184123",
     "geom:latitude":43.684025,
     "geom:longitude":-79.329819,
@@ -20,18 +20,39 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Danforth"
+    ],
+    "name:deu_x_preferred":[
+        "Danforth"
+    ],
+    "name:ita_x_preferred":[
+        "Danforth"
+    ],
+    "name:pol_x_preferred":[
+        "Danforth"
+    ],
+    "name:swe_x_preferred":[
+        "Danforth"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u0444\u043e\u0440\u0442"
+    ],
+    "name:vol_x_preferred":[
+        "Danforth"
+    ],
     "reversegeo:latitude":43.68401,
     "reversegeo:longitude":-79.329821,
     "src:geom":"torsdfa",
     "torsdfa:AREA_NAME":"Danforth (66)",
     "torsdfa:AREA_S_CD":"066",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833321,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1108906377,
-    "wof:lastmodified":1533272666,
+    "wof:lastmodified":1564172199,
     "wof:name":"Danforth",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

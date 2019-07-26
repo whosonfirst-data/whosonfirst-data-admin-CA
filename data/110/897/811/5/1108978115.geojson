@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006708,
-    "geom:area_square_m":58417032.94856,
+    "geom:area_square_m":58417032.94854,
     "geom:bbox":"-75.756893,45.1615439998,-75.6026329999,45.2680930003",
     "geom:latitude":45.225709,
     "geom:longitude":-75.673105,
@@ -27,16 +27,22 @@
     "name:eng_x_preferred":[
         "Manotick"
     ],
+    "name:fra_x_preferred":[
+        "Manotick"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u043e\u0442\u0438\u043a"
+    ],
     "reversegeo:latitude":45.220115,
     "reversegeo:longitude":-75.716767,
     "src:geom":"can-ons",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126023271,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108978115,
-    "wof:lastmodified":1533277882,
+    "wof:lastmodified":1564172211,
     "wof:name":"Manotick",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

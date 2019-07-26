@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005294,
-    "geom:area_square_m":46049775.681647,
+    "geom:area_square_m":46049775.681607,
     "geom:bbox":"-75.4885150002,45.2450650004,-75.3358459997,45.3407019996",
     "geom:latitude":45.298698,
     "geom:longitude":-75.434088,
@@ -20,19 +20,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:dan_x_preferred":[
+        "Russel"
+    ],
     "name:eng_x_preferred":[
         "Russel"
+    ],
+    "name:pol_x_preferred":[
+        "Russel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0441\u0441\u0435\u043b"
     ],
     "reversegeo:latitude":45.292814,
     "reversegeo:longitude":-75.44559,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126032569,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1125764383,
-    "wof:lastmodified":1533277888,
+    "wof:lastmodified":1564173737,
     "wof:name":"Russel",
     "wof:parent_id":1126032569,
     "wof:placetype":"neighbourhood",

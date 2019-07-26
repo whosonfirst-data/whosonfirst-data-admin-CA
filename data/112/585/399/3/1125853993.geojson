@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005618,
-    "geom:area_square_m":48843404.255093,
+    "geom:area_square_m":48843404.255148,
     "geom:bbox":"-75.951655,45.2693919999,-75.8352760003,45.4007020002",
     "geom:latitude":45.32547,
     "geom:longitude":-75.905224,
@@ -144,6 +144,9 @@
     "name:ita_x_preferred":[
         "Ottawa"
     ],
+    "name:ita_x_variant":[
+        "Kanata"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30bf\u30ef"
     ],
@@ -215,6 +218,9 @@
     ],
     "name:pol_x_preferred":[
         "Ottawa"
+    ],
+    "name:pol_x_variant":[
+        "Kanata"
     ],
     "name:por_x_preferred":[
         "Otava"
@@ -298,7 +304,7 @@
         }
     ],
     "wof:id":1125853993,
-    "wof:lastmodified":1533277866,
+    "wof:lastmodified":1564173739,
     "wof:name":"Kanata",
     "wof:parent_id":101735873,
     "wof:placetype":"macrohood",

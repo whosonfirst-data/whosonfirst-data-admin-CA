@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
-    "geom:area_square_m":1184671.340579,
+    "geom:area_square_m":1184671.340575,
     "geom:bbox":"-97.326256,49.880449,-97.314961,49.899202",
     "geom:latitude":49.889553,
     "geom:longitude":-97.320152,
@@ -27,8 +27,80 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:ceb_x_preferred":[
+        "Buchanan"
+    ],
+    "name:ces_x_preferred":[
+        "Buchanan"
+    ],
+    "name:dan_x_preferred":[
+        "Buchanan"
+    ],
+    "name:deu_x_preferred":[
+        "Buchanan"
+    ],
     "name:eng_x_preferred":[
         "Buchanan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u06a9\u0627\u0646\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Buchanan"
+    ],
+    "name:fra_x_preferred":[
+        "Buchanan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d5\u05e7\u05e0\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Buchanan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ad\u30e3\u30ca\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubdf0\uce90\ub10c"
+    ],
+    "name:lav_x_preferred":[
+        "Bj\u016bkenens"
+    ],
+    "name:nld_x_preferred":[
+        "Buchanan"
+    ],
+    "name:nor_x_preferred":[
+        "Buchanan"
+    ],
+    "name:pol_x_preferred":[
+        "Buchanan"
+    ],
+    "name:por_x_preferred":[
+        "Buchanan"
+    ],
+    "name:ron_x_preferred":[
+        "Buchanan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044c\u044e\u043a\u0435\u043d\u0435\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0443\u043a\u0430\u043d\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Buchanan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411'\u044e\u043a\u0435\u043d\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u06a9\u06cc\u0646\u0646"
+    ],
+    "name:vol_x_preferred":[
+        "Buchanan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u574e\u5357"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -37,12 +109,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968457,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523914,
+    "wof:lastmodified":1564170737,
     "wof:name":"Buchanan",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

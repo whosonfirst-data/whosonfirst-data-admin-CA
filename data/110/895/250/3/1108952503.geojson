@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":953539.583799,
+    "geom:area_square_m":953539.5838,
     "geom:bbox":"-123.203205189,49.3350799,-123.190523769,49.3473600196",
     "geom:latitude":49.34209,
     "geom:longitude":-123.196471,
@@ -20,15 +20,60 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Altamont"
+    ],
+    "name:ceb_x_preferred":[
+        "Altamont"
+    ],
+    "name:ces_x_preferred":[
+        "Altamont"
+    ],
+    "name:deu_x_preferred":[
+        "Altamont"
+    ],
+    "name:fra_x_preferred":[
+        "Altamont"
+    ],
+    "name:hun_x_preferred":[
+        "Altamont"
+    ],
+    "name:ita_x_preferred":[
+        "Altamont"
+    ],
+    "name:nld_x_preferred":[
+        "Altamont"
+    ],
+    "name:pol_x_preferred":[
+        "Altamont"
+    ],
+    "name:por_x_preferred":[
+        "Altamont"
+    ],
+    "name:spa_x_preferred":[
+        "Altamont"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u043c\u043e\u043d\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Altamont"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0430\u043c\u043e\u043d\u0442"
+    ],
+    "name:vol_x_preferred":[
+        "Altamont"
+    ],
     "reversegeo:latitude":49.34091,
     "reversegeo:longitude":-123.196632,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741069,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +90,7 @@
         }
     ],
     "wof:id":1108952503,
-    "wof:lastmodified":1531521021,
+    "wof:lastmodified":1564172062,
     "wof:name":"Altamont",
     "wof:parent_id":101741069,
     "wof:placetype":"neighbourhood",

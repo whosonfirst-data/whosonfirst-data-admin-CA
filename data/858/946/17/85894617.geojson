@@ -28,6 +28,9 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Maywood"
+    ],
     "name:deu_x_preferred":[
         "Maywood"
     ],
@@ -70,6 +73,9 @@
     "name:swa_x_preferred":[
         "Maywood"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u0432\u0443\u0434"
+    ],
     "name:unk_x_variant":[
         "Maywood"
     ],
@@ -110,12 +116,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":62,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915095,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521034,
+    "wof:lastmodified":1564170756,
     "wof:name":"Maywood",
     "wof:parent_id":1108915095,
     "wof:placetype":"neighbourhood",
