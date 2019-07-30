@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":490919.035237,
+    "geom:area_square_m":490919.035238,
     "geom:bbox":"-123.091118502,49.3319891887,-123.073610471,49.3356493391",
     "geom:latitude":49.333798,
     "geom:longitude":-123.082663,
@@ -20,15 +20,18 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Westview"
+    ],
     "reversegeo:latitude":49.333854,
     "reversegeo:longitude":-123.082663,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741057,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108914987,
-    "wof:lastmodified":1531521010,
+    "wof:lastmodified":1564172175,
     "wof:name":"Westview",
     "wof:parent_id":101741057,
     "wof:placetype":"neighbourhood",

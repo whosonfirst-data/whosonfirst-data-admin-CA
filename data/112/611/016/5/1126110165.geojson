@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1302518.034448,
+    "geom:area_square_m":1302518.03445,
     "geom:bbox":"-75.8771320474,45.3934614318,-75.8541687168,45.4119871179",
     "geom:latitude":45.403668,
     "geom:longitude":-75.86587,
@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Cedr\u00e9s"
+    ],
     "name:eng_x_preferred":[
         "C\u00e8dres"
     ],
@@ -45,12 +48,12 @@
     "reversegeo:longitude":-75.865876,
     "src:geom":"can-gatsudd",
     "wof:belongsto":[
-        136251273,
         102191575,
         1126110161,
         85633041,
         101738041,
-        890456843
+        890456843,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1126110165,
-    "wof:lastmodified":1533270385,
+    "wof:lastmodified":1564173490,
     "wof:name":"Cedres",
     "wof:parent_id":1126110161,
     "wof:placetype":"neighbourhood",

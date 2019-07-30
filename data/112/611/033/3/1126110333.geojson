@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2886029.865489,
+    "geom:area_square_m":2886029.865486,
     "geom:bbox":"-75.7679761662,45.4217250464,-75.733311347,45.4474371008",
     "geom:latitude":45.439381,
     "geom:longitude":-75.749875,
@@ -29,6 +29,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Gamelin"
+    ],
     "name:eng_x_preferred":[
         "Gamelin"
     ],
@@ -39,12 +42,12 @@
     "reversegeo:longitude":-75.750154,
     "src:geom":"can-gatsudd",
     "wof:belongsto":[
-        136251273,
         102191575,
         1126110335,
         85633041,
         101738041,
-        890456843
+        890456843,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1126110333,
-    "wof:lastmodified":1533270394,
+    "wof:lastmodified":1564173500,
     "wof:name":"Gamelin",
     "wof:parent_id":1126110335,
     "wof:placetype":"neighbourhood",

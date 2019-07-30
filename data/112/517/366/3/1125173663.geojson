@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1182015.727301,
+    "geom:area_square_m":1182015.727307,
     "geom:bbox":"-75.6993530004,45.31175,-75.6866570004,45.3346320003",
     "geom:latitude":45.322049,
     "geom:longitude":-75.693577,
@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Cedardale"
+    ],
     "name:eng_x_preferred":[
         "Cedardale"
     ],
@@ -27,12 +30,12 @@
     "reversegeo:longitude":-75.691558,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126055453,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1125173663,
-    "wof:lastmodified":1533277874,
+    "wof:lastmodified":1564173547,
     "wof:name":"Cedardale",
     "wof:parent_id":1126055453,
     "wof:placetype":"neighbourhood",

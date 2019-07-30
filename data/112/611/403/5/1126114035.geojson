@@ -20,19 +20,37 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Elk Point"
+    ],
+    "name:deu_x_preferred":[
+        "Elk Point"
+    ],
     "name:eng_x_preferred":[
+        "Elk Point"
+    ],
+    "name:ita_x_preferred":[
+        "Elk Point"
+    ],
+    "name:nld_x_preferred":[
+        "Elk Point"
+    ],
+    "name:pol_x_preferred":[
+        "Elk Point"
+    ],
+    "name:swe_x_preferred":[
         "Elk Point"
     ],
     "reversegeo:latitude":52.153802,
     "reversegeo:longitude":-106.74804,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115075,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1126114035,
-    "wof:lastmodified":1531524181,
+    "wof:lastmodified":1564173501,
     "wof:name":"Elk Point",
     "wof:parent_id":1126115075,
     "wof:placetype":"neighbourhood",

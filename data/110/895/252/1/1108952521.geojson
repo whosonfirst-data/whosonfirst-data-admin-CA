@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":620651.264721,
+    "geom:area_square_m":620651.264727,
     "geom:bbox":"-123.2848304,49.3694161074,-123.271086262,49.38078",
     "geom:latitude":49.374196,
     "geom:longitude":-123.277658,
@@ -20,15 +20,30 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Horseshoe Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Horseshoe Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Horseshoe Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30fc\u30b9\u30b7\u30e5\u30fc\u30fb\u30d9\u30a4"
+    ],
+    "name:swe_x_preferred":[
+        "Horseshoe Bay"
+    ],
     "reversegeo:latitude":49.375551,
     "reversegeo:longitude":-123.27571,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741069,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1108952521,
-    "wof:lastmodified":1531521022,
+    "wof:lastmodified":1564172079,
     "wof:name":"Horseshoe Bay",
     "wof:parent_id":101741069,
     "wof:placetype":"neighbourhood",

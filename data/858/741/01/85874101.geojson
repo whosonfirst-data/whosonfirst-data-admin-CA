@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3881500.15929,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.600587,46.349719,-72.600587,46.349719",
     "geom:latitude":46.349719,
     "geom:longitude":-72.600587,
@@ -24,13 +24,31 @@
     "mz:max_zoom":0.0,
     "mz:min_zoom":0.0,
     "mz:tier_locality":2,
+    "name:atj_x_preferred":[
+        "Rigaud"
+    ],
     "name:eng_x_preferred":[
+        "Rigaud"
+    ],
+    "name:eus_x_preferred":[
         "Rigaud"
     ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u06af\u0648\u060c \u06a9\u0628\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0631\u06cc\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Rigaud"
+    ],
+    "name:ita_x_preferred":[
+        "Rigaud"
+    ],
+    "name:spa_x_preferred":[
+        "Rigaud"
+    ],
+    "name:swe_x_preferred":[
         "Rigaud"
     ],
     "name:unk_x_variant":[
@@ -69,11 +87,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101738021,
-        1158884881,
-        136251273
+        1158884881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +114,7 @@
         }
     ],
     "wof:id":85874101,
-    "wof:lastmodified":1531871881,
+    "wof:lastmodified":1564170804,
     "wof:name":"Rigaud",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

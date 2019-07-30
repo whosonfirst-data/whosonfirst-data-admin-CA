@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1100561.814039,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.088121,45.264863,-66.088121,45.264863",
     "geom:latitude":45.264863,
     "geom:longitude":-66.088121,
@@ -24,7 +24,25 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Lorne"
+    ],
+    "name:deu_x_preferred":[
+        "Lorne"
+    ],
     "name:eng_x_preferred":[
+        "Lorne"
+    ],
+    "name:gla_x_preferred":[
+        "Latharna"
+    ],
+    "name:ita_x_preferred":[
+        "Lorne"
+    ],
+    "name:nds_x_preferred":[
+        "Lorne"
+    ],
+    "name:swe_x_preferred":[
         "Lorne"
     ],
     "name:unk_x_variant":[
@@ -61,11 +79,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872103,
+    "wof:lastmodified":1564170686,
     "wof:name":"Lorne",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

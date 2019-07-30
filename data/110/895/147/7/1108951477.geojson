@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001285,
-    "geom:area_square_m":10369955.815392,
+    "geom:area_square_m":10369955.815399,
     "geom:bbox":"-123.2661437,49.2348556518,-123.196548462,49.2799245766",
     "geom:latitude":49.257481,
     "geom:longitude":-123.224739,
@@ -20,18 +20,27 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "University Endowment Lands"
+    ],
     "name:eng_x_variant":[
         "UEL"
+    ],
+    "name:spa_x_preferred":[
+        "University Endowment Lands"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5b78\u4fdd\u7559\u5730"
     ],
     "reversegeo:latitude":49.27043,
     "reversegeo:longitude":-123.24383,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         1108951499,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1108951477,
-    "wof:lastmodified":1531521018,
+    "wof:lastmodified":1564172082,
     "wof:name":"University Endowment Lands",
     "wof:parent_id":1108951499,
     "wof:placetype":"neighbourhood",

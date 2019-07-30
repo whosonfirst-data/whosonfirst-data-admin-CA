@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000537,
-    "geom:area_square_m":4181974.837189,
+    "geom:area_square_m":4181974.837187,
     "geom:bbox":"-113.958513,50.994111,-113.921548,51.008762",
     "geom:latitude":51.001471,
     "geom:longitude":-113.940037,
@@ -27,6 +27,12 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud0c0\ud544\ub4dc"
+    ],
     "reversegeo:latitude":51.001473,
     "reversegeo:longitude":-113.940037,
     "src:geom":"can-calcai",
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108964195,
-    "wof:lastmodified":1507246073,
+    "wof:lastmodified":1564172152,
     "wof:name":"Starfield",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

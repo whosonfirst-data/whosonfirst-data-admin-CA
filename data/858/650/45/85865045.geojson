@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16274260.188396,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.400059,50.712089,-120.400059,50.712089",
     "geom:latitude":50.712089,
     "geom:longitude":-120.400059,
@@ -24,10 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Brocklehurst"
+    ],
     "name:deu_x_preferred":[
         "Brocklehurst"
     ],
     "name:eng_x_preferred":[
+        "Brocklehurst"
+    ],
+    "name:nds_x_preferred":[
         "Brocklehurst"
     ],
     "name:swe_x_preferred":[
@@ -67,11 +73,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":138,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741047,
-        890458465,
-        85682117
+        890458465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870991,
+    "wof:lastmodified":1564170741,
     "wof:name":"Brocklehurst",
     "wof:parent_id":101741047,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":223852.637042,
+    "geom:area_square_m":223852.637043,
     "geom:bbox":"-123.099629818,49.2811604795,-123.089427939,49.2840941359",
     "geom:latitude":49.282622,
     "geom:longitude":-123.094532,
@@ -20,16 +20,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:fra_x_preferred":[
+        "Downtown Eastside"
+    ],
+    "name:ita_x_preferred":[
+        "Downtown Eastside"
+    ],
+    "name:slk_x_preferred":[
+        "Downtown Eastside"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eab\u54e5\u83ef\u5e02\u4e2d\u5fc3\u6771\u7aef"
+    ],
     "reversegeo:latitude":49.282615,
     "reversegeo:longitude":-123.094531,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
+        85865079,
         102191575,
         85633041,
         101741075,
         890457467,
-        85865079
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1108906639,
-    "wof:lastmodified":1531521056,
+    "wof:lastmodified":1564172198,
     "wof:name":"Downtown Eastside",
     "wof:parent_id":85865079,
     "wof:placetype":"microhood",

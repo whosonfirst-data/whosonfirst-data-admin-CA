@@ -20,19 +20,34 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lemieux Island"
+    ],
     "name:eng_x_preferred":[
         "Lemieux Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Lemieux"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Lemieux"
+    ],
+    "name:swe_x_preferred":[
+        "Lemieux Island"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043c'\u0454"
     ],
     "reversegeo:latitude":45.415438,
     "reversegeo:longitude":-75.730012,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1109371847,
-    "wof:lastmodified":1533277877,
+    "wof:lastmodified":1564172045,
     "wof:name":"Lemieux Island",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

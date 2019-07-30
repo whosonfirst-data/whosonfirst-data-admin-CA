@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":2786249.317303,
+    "geom:area_square_m":2786249.317297,
     "geom:bbox":"-79.42185308,43.663584755,-79.386788062,43.681081124",
     "geom:latitude":43.671585,
     "geom:longitude":-79.404,
@@ -23,6 +23,33 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:cat_x_preferred":[
+        "Annex"
+    ],
+    "name:dan_x_preferred":[
+        "Anneks"
+    ],
+    "name:deu_x_preferred":[
+        "Annex"
+    ],
+    "name:fin_x_preferred":[
+        "Anneksi"
+    ],
+    "name:fra_x_preferred":[
+        "Annexe"
+    ],
+    "name:nor_x_preferred":[
+        "Anneks"
+    ],
+    "name:por_x_preferred":[
+        "Anexo"
+    ],
+    "name:spa_x_preferred":[
+        "Anexo"
+    ],
+    "name:swe_x_preferred":[
+        "Annex"
+    ],
     "reversegeo:latitude":43.671376,
     "reversegeo:longitude":-79.404002,
     "src:geom":"torsdfa",
@@ -32,13 +59,13 @@
     "torsdfa:AREA_NAME":"Annex (95)",
     "torsdfa:AREA_S_CD":"095",
     "wof:belongsto":[
-        85682057,
         102191575,
         1108904959,
         85633041,
         101735835,
         1108833321,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":420781871,
-    "wof:lastmodified":1533272674,
+    "wof:lastmodified":1564173202,
     "wof:name":"Annex",
     "wof:parent_id":1108904959,
     "wof:placetype":"neighbourhood",

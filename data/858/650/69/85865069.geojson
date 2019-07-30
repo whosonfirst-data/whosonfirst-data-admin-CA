@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1173444.40186,
+    "geom:area_square_m":1173444.401862,
     "geom:bbox":"-123.352071788,48.4255554541,-123.336913542,48.4383121353",
     "geom:latitude":48.432175,
     "geom:longitude":-123.344348,
@@ -23,7 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:deu_x_preferred":[
+        "Fernwood"
+    ],
     "name:eng_x_preferred":[
+        "Fernwood"
+    ],
+    "name:fra_x_preferred":[
         "Fernwood"
     ],
     "name:unk_x_variant":[
@@ -59,11 +65,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740879,
-        890456487,
-        85682117
+        890456487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531520064,
+    "wof:lastmodified":1564170739,
     "wof:name":"Fernwood",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

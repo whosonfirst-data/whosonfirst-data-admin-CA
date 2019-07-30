@@ -27,8 +27,44 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:bre_x_preferred":[
+        "Montcalm"
+    ],
+    "name:ceb_x_preferred":[
+        "Montcalm"
+    ],
+    "name:deu_x_preferred":[
+        "Montcalm"
+    ],
     "name:eng_x_preferred":[
         "Montcalm"
+    ],
+    "name:fra_x_preferred":[
+        "Montcalm"
+    ],
+    "name:ita_x_preferred":[
+        "Montcalm"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30ab\u30eb\u30e0"
+    ],
+    "name:pol_x_preferred":[
+        "Montcalm"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043a\u0430\u043b\u044c\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Montcalm"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u043a\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Montcalm"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u043a\u0430\u043b\u043c"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -37,12 +73,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523913,
+    "wof:lastmodified":1564170736,
     "wof:name":"Montcalm",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":510335.515176,
+    "geom:area_square_m":510335.515177,
     "geom:bbox":"-75.756620579,45.3391229996,-75.7373873017,45.3488370448",
     "geom:latitude":45.343946,
     "geom:longitude":-75.747357,
@@ -20,19 +20,40 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Meadowlands"
+    ],
     "name:eng_x_preferred":[
         "Meadowlands"
+    ],
+    "name:fin_x_preferred":[
+        "Meadowlands"
+    ],
+    "name:pol_x_preferred":[
+        "Meadowlands"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u043e\u0443\u043b\u0435\u043d\u0434\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Meadowlands"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0434\u043e\u0443\u043b\u0430\u043d\u0434\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u043e\u0432\u043b\u0435\u043d\u0434\u0441"
     ],
     "reversegeo:latitude":45.343228,
     "reversegeo:longitude":-75.748813,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1108978049,
-    "wof:lastmodified":1533277879,
+    "wof:lastmodified":1564172217,
     "wof:name":"Meadowlands",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

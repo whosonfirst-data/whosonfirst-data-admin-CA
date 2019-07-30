@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000495,
-    "geom:area_square_m":4312084.709342,
+    "geom:area_square_m":4312084.709339,
     "geom:bbox":"-75.7380486283,45.2372689998,-75.7056080002,45.2656301206",
     "geom:latitude":45.253806,
     "geom:longitude":-75.722808,
@@ -20,19 +20,28 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Stonebridge"
+    ],
     "name:eng_x_preferred":[
+        "Stonebridge"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u094b\u0928\u092c\u094d\u0930\u093f\u091c"
+    ],
+    "name:pol_x_preferred":[
         "Stonebridge"
     ],
     "reversegeo:latitude":45.255224,
     "reversegeo:longitude":-75.726612,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1125162929,
-    "wof:lastmodified":1533277873,
+    "wof:lastmodified":1564173582,
     "wof:name":"Stonebridge",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

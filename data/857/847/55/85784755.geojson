@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8192285.302073,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.863495,46.554768,-80.863495,46.554768",
     "geom:latitude":46.554768,
     "geom:longitude":-80.863495,
@@ -32,6 +32,12 @@
         "Garson"
     ],
     "name:fra_x_preferred":[
+        "Garson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05e1\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
         "Garson"
     ],
     "name:jpn_x_preferred":[
@@ -71,11 +77,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":16,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735493,
-        890458085,
-        85682057
+        890458085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860646,
+    "wof:lastmodified":1564170657,
     "wof:name":"Garson",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6378884.092842,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.24875,42.986293,-81.24875,42.986293",
     "geom:latitude":42.986293,
     "geom:longitude":-81.24875,
@@ -33,6 +33,9 @@
     "name:eus_x_preferred":[
         "Central London"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u0646 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Central London"
     ],
@@ -45,11 +48,17 @@
     "name:ita_x_preferred":[
         "Central London"
     ],
+    "name:kor_x_preferred":[
+        "\uc13c\ud2b8\ub7f4\ub7f0\ub358"
+    ],
     "name:spa_x_preferred":[
         "Centro de Londres"
     ],
     "name:unk_x_variant":[
         "Central London"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u06a9\u0632\u06cc \u0644\u0646\u062f\u0646"
     ],
     "name:vie_x_preferred":[
         "Trung t\u00e2m Lu\u00e2n \u0110\u00f4n"
@@ -59,6 +68,9 @@
     ],
     "name:zho_x_preferred":[
         "\u502b\u6566\u5e02\u4e2d\u5fc3"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u502b\u6566"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -88,11 +100,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":742,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871974,
+    "wof:lastmodified":1564170771,
     "wof:name":"Central London",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

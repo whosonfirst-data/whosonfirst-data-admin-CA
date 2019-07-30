@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":1869798.827064,
+    "geom:area_square_m":1869798.827065,
     "geom:bbox":"-97.279057,49.875389,-97.261673,49.893858",
     "geom:latitude":49.884632,
     "geom:longitude":-97.270361,
@@ -27,6 +27,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:ceb_x_preferred":[
+        "Booth"
+    ],
     "name:ces_x_preferred":[
         "Booth"
     ],
@@ -48,7 +51,13 @@
     "name:ita_x_preferred":[
         "Booth"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30fc\u30b9"
+    ],
     "name:nld_x_preferred":[
+        "Booth"
+    ],
+    "name:pol_x_preferred":[
         "Booth"
     ],
     "name:rus_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Booth"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442"
@@ -71,12 +83,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":340,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968515,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523914,
+    "wof:lastmodified":1564170735,
     "wof:name":"Booth",
     "wof:parent_id":1108968515,
     "wof:placetype":"neighbourhood",

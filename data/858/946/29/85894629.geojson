@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1468574.159041,
+    "geom:area_square_m":1468574.159038,
     "geom:bbox":"-122.912541912,49.2534218794,-122.892940235,49.2662141094",
     "geom:latitude":49.258575,
     "geom:longitude":-122.901097,
@@ -28,6 +28,9 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Lyndhurst"
+    ],
     "name:deu_x_preferred":[
         "Lyndhurst"
     ],
@@ -54,6 +57,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043d\u0447\u0445\u0435\u0440\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Lyndhurst"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u0434\u0433\u0435\u0440\u0441\u0442"
     ],
     "name:unk_x_variant":[
         "Lyndhurst"
@@ -95,12 +104,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":66,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521037,
+    "wof:lastmodified":1564170755,
     "wof:name":"Lyndhurst",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

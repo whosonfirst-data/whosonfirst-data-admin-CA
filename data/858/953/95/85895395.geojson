@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002233,
-    "geom:area_square_m":19887637.824412,
+    "geom:area_square_m":19887637.824417,
     "geom:bbox":"-79.1619873047,43.9057017993,-79.0768432617,43.9602309152",
     "geom:latitude":43.928755,
     "geom:longitude":-79.122002,
@@ -34,11 +34,20 @@
     "name:fra_x_preferred":[
         "Brougham"
     ],
+    "name:ita_x_preferred":[
+        "Brougham"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ed\u30a2\u30e0"
     ],
+    "name:nds_x_preferred":[
+        "Brougham"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0443\u044d\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Brougham"
     ],
     "name:unk_x_variant":[
         "Brougham"
@@ -71,11 +80,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":172,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101736359,
         890456493,
-        85682057,
         101740717
     ],
     "wof:breaches":[],
@@ -108,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533262255,
+    "wof:lastmodified":1564170680,
     "wof:name":"Brougham",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

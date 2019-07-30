@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5363688.026283,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.985159,42.314956,-82.985159,42.314956",
     "geom:latitude":42.314956,
     "geom:longitude":-82.985159,
@@ -26,7 +26,16 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "East Windsor"
+    ],
     "name:eng_x_preferred":[
+        "East Windsor"
+    ],
+    "name:ita_x_preferred":[
+        "East Windsor"
+    ],
+    "name:pol_x_preferred":[
         "East Windsor"
     ],
     "name:unk_x_variant":[
@@ -65,11 +74,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":35,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735855,
-        890458683,
-        85682057
+        890458683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860645,
+    "wof:lastmodified":1564170656,
     "wof:name":"East Windsor",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":751189.741368,
+    "geom:area_square_m":751189.741371,
     "geom:bbox":"-123.191607241,49.3444310952,-123.179946872,49.3541579531",
     "geom:latitude":49.349702,
     "geom:longitude":-123.185558,
@@ -23,15 +23,18 @@
     "name:eng_x_variant":[
         "Chelsea"
     ],
+    "name:est_x_preferred":[
+        "Chelsea Park"
+    ],
     "reversegeo:latitude":49.349807,
     "reversegeo:longitude":-123.185447,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741069,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108952547,
-    "wof:lastmodified":1531521024,
+    "wof:lastmodified":1564172077,
     "wof:name":"Chelsea Park",
     "wof:parent_id":101741069,
     "wof:placetype":"neighbourhood",

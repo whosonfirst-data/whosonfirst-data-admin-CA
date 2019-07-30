@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1363670.77723,
+    "geom:area_square_m":1363670.777228,
     "geom:bbox":"-97.166759,49.926523,-97.144099,49.94031",
     "geom:latitude":49.933422,
     "geom:longitude":-97.155283,
@@ -25,7 +25,79 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":15,
+    "name:bel_x_preferred":[
+        "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Robertson"
+    ],
+    "name:ceb_x_preferred":[
+        "Robertson"
+    ],
+    "name:ces_x_preferred":[
+        "Robertson"
+    ],
+    "name:deu_x_preferred":[
+        "Robertson"
+    ],
     "name:eng_x_preferred":[
+        "Robertson"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0628\u0631\u062a\u0633\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Robertson"
+    ],
+    "name:fra_x_preferred":[
+        "Robertson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05e8\u05d8\u05e1\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Robertson"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30d0\u30fc\u30c8\u30bd\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ubc84\ud2b8\uc2a8"
+    ],
+    "name:lav_x_preferred":[
+        "Robertsons"
+    ],
+    "name:lit_x_preferred":[
+        "Robertson"
+    ],
+    "name:mlg_x_preferred":[
+        "Robertson"
+    ],
+    "name:nld_x_preferred":[
+        "Robertson"
+    ],
+    "name:pol_x_preferred":[
+        "Robertson"
+    ],
+    "name:por_x_preferred":[
+        "Robertson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Robertson"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Robertson"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u043e\u043d"
+    ],
+    "name:vol_x_preferred":[
         "Robertson"
     ],
     "reversegeo:latitude":49.933515,
@@ -36,12 +108,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968519,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +132,7 @@
         }
     ],
     "wof:id":1108937453,
-    "wof:lastmodified":1531523897,
+    "wof:lastmodified":1564172110,
     "wof:name":"Robertson",
     "wof:parent_id":1108968519,
     "wof:placetype":"neighbourhood",

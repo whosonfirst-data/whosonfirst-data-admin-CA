@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":3502204.585846,
+    "geom:area_square_m":3502204.585855,
     "geom:bbox":"-73.8319160064,45.4493734026,-73.804460932,45.4783407395",
     "geom:latitude":45.465019,
     "geom:longitude":-73.816843,
@@ -20,18 +20,27 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "name:deu_x_preferred":[
+        "Northview"
+    ],
     "name:fra_x_preferred":[
+        "Northview"
+    ],
+    "name:pol_x_preferred":[
+        "Northview"
+    ],
+    "name:vol_x_preferred":[
         "Northview"
     ],
     "reversegeo:latitude":45.467698,
     "reversegeo:longitude":-73.81778,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736487,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108960829,
-    "wof:lastmodified":1533277851,
+    "wof:lastmodified":1564172128,
     "wof:name":"Northview",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

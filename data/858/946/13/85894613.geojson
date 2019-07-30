@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2022802.907972,
+    "geom:area_square_m":2022802.907969,
     "geom:bbox":"-123.00484124,49.220134537,-122.988570609,49.242987496",
     "geom:latitude":49.232808,
     "geom:longitude":-122.99545,
@@ -28,7 +28,19 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:bar_x_preferred":[
+        "Marlborough"
+    ],
+    "name:bre_x_preferred":[
+        "Marlborough"
+    ],
     "name:cat_x_preferred":[
+        "Marlborough"
+    ],
+    "name:ceb_x_preferred":[
+        "Marlborough"
+    ],
+    "name:ces_x_preferred":[
         "Marlborough"
     ],
     "name:dan_x_preferred":[
@@ -88,6 +100,9 @@
     "name:swe_x_preferred":[
         "Marlborough"
     ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e4c\u0e25\u0e1a\u0e30\u0e23\u0e30"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
     ],
@@ -134,12 +149,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":406,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915103,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +179,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521034,
+    "wof:lastmodified":1564170760,
     "wof:name":"Marlborough",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

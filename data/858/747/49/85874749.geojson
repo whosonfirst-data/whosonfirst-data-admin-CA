@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":565504.350284,
+    "geom:area_square_m":565504.350285,
     "geom:bbox":"-97.163307,49.868106,-97.142023,49.879152",
     "geom:latitude":49.873569,
     "geom:longitude":-97.151494,
@@ -27,8 +27,50 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043a-\u041c\u0456\u043b\u0430\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "McMillan"
+    ],
     "name:eng_x_preferred":[
         "McMillan"
+    ],
+    "name:epo_x_preferred":[
+        "McMillan"
+    ],
+    "name:fin_x_preferred":[
+        "McMillan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05de\u05d9\u05dc\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "McMillan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30af\u30df\u30e9\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9e5\ubc00\ub7f0"
+    ],
+    "name:pol_x_preferred":[
+        "McMillan"
+    ],
+    "name:por_x_preferred":[
+        "McMillan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043c\u0438\u043b\u043b\u0430\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u043c\u0438\u043b\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u043c\u0456\u043b\u043b\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea5\u7f8e\u502b"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -38,12 +80,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":135,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108969341,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523916,
+    "wof:lastmodified":1564170768,
     "wof:name":"McMillan",
     "wof:parent_id":1108969341,
     "wof:placetype":"neighbourhood",

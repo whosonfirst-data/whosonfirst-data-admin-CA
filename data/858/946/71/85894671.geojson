@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10958981.486372,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.451716,49.209815,-122.451716,49.209815",
     "geom:latitude":49.209815,
     "geom:longitude":-122.451716,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Iron Mountain"
+    ],
     "name:eng_x_preferred":[
         "Iron Mountain"
     ],
@@ -31,6 +34,9 @@
         "Iron Mountain"
     ],
     "name:spa_x_preferred":[
+        "Iron Mountain"
+    ],
+    "name:swe_x_preferred":[
         "Iron Mountain"
     ],
     "name:unk_x_variant":[
@@ -71,11 +77,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":287,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740773,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931238,
+    "wof:lastmodified":1564170759,
     "wof:name":"Iron Mountain",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

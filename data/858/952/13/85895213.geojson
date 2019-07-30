@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10026681.338005,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.349721,43.739091,-79.349721,43.739091",
     "geom:latitude":43.739091,
     "geom:longitude":-79.349721,
@@ -24,6 +24,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u0628\u0648\u0631\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u0628\u0648\u0631\u0649"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0628\u0631\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0431\u044a\u0440\u0438"
     ],
@@ -66,6 +75,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30f3\u30d9\u30ea\u30fc"
     ],
+    "name:kor_x_preferred":[
+        "\ubc34\ubc84\ub9ac"
+    ],
     "name:lit_x_preferred":[
         "Banberis"
     ],
@@ -89,6 +101,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0431\u0435\u0440\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Banbury"
     ],
     "name:spa_x_preferred":[
         "Banbury"
@@ -116,11 +131,12 @@
     "torsdfa:AREA_S_CD":"042",
     "wd:wordcount":5166,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833315
+        1108833315,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931354,
+    "wof:lastmodified":1564170711,
     "wof:name":"Banbury",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":435382.662984,
+    "geom:area_square_m":435382.662983,
     "geom:bbox":"-97.094446,49.870988,-97.071321,49.873615",
     "geom:latitude":49.872231,
     "geom:longitude":-97.082541,
@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":15,
+    "name:deu_x_preferred":[
+        "Maginot"
+    ],
     "name:eng_x_preferred":[
+        "Maginot"
+    ],
+    "name:fra_x_preferred":[
         "Maginot"
     ],
     "reversegeo:latitude":49.872191,
@@ -36,12 +42,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968469,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108937571,
-    "wof:lastmodified":1531523910,
+    "wof:lastmodified":1564172102,
     "wof:name":"Maginot",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

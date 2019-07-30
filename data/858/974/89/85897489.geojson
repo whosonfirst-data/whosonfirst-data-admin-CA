@@ -27,7 +27,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:ceb_x_preferred":[
+        "Riverbend"
+    ],
     "name:eng_x_preferred":[
+        "Riverbend"
+    ],
+    "name:fra_x_preferred":[
         "Riverbend"
     ],
     "name:hbs_x_preferred":[
@@ -62,12 +68,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":143,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968461,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523923,
+    "wof:lastmodified":1564170881,
     "wof:name":"Riverbend",
     "wof:parent_id":1108968461,
     "wof:placetype":"neighbourhood",

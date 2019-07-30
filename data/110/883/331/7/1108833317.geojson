@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002383,
-    "geom:area_square_m":21299889.963243,
+    "geom:area_square_m":21299889.963242,
     "geom:bbox":"-79.380081528,43.67850922,-79.287756505,43.721711532",
     "geom:latitude":43.700614,
     "geom:longitude":-79.337048,
@@ -20,14 +20,29 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":16.0,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "East York"
+    ],
+    "name:fra_x_preferred":[
+        "East York"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b9\u30c8\u30e8\u30fc\u30af"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0441\u0442 \u0408\u043e\u0440\u043a"
     ],
+    "name:pol_x_preferred":[
+        "East York"
+    ],
+    "name:por_x_preferred":[
+        "East York"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u0408\u043e\u0440\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "East York"
     ],
     "reversegeo:latitude":43.699591,
     "reversegeo:longitude":-79.351742,
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1108833317,
-    "wof:lastmodified":1533272657,
+    "wof:lastmodified":1564172113,
     "wof:name":"East York",
     "wof:parent_id":101735835,
     "wof:placetype":"borough",

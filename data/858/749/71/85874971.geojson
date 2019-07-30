@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":185814.675914,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.517426,43.42799,-80.517426,43.42799",
     "geom:latitude":43.42799,
     "geom:longitude":-80.517426,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Forest Hill"
+    ],
     "name:deu_x_preferred":[
         "Forest Hill"
     ],
@@ -34,6 +37,9 @@
         "Forist Hil"
     ],
     "name:ita_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:mlg_x_preferred":[
         "Forest Hill"
     ],
     "name:nld_x_preferred":[
@@ -50,6 +56,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0424\u043e\u0440\u0438\u0441\u0442 \u0425\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Forest Hill"
     ],
     "name:unk_x_variant":[
         "Forest Hill"
@@ -85,11 +94,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":207,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740709,
         890456483,
-        85682057,
         101735989
     ],
     "wof:breaches":[],
@@ -122,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871980,
+    "wof:lastmodified":1564170779,
     "wof:name":"Forest Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3164809.917592,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.58551,43.569746,-79.58551,43.569746",
     "geom:latitude":43.569746,
     "geom:longitude":-79.58551,
@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Mineola"
+    ],
     "name:deu_x_preferred":[
         "Mineola"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u043d\u0435\u043e\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0435\u043e\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Mineola"
@@ -92,11 +98,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":65,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740755,
         890456343,
-        85682057,
         101735893
     ],
     "wof:breaches":[],
@@ -129,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931293,
+    "wof:lastmodified":1564170789,
     "wof:name":"Mineola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

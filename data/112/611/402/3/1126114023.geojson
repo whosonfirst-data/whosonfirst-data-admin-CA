@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2527283.29132,
+    "geom:area_square_m":2527283.291316,
     "geom:bbox":"-106.754366,52.105698,-106.717874,52.117134",
     "geom:latitude":52.110803,
     "geom:longitude":-106.734614,
@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:deu_x_preferred":[
+        "Montgomery Place"
+    ],
     "name:eng_x_preferred":[
         "Montgomery Place"
     ],
@@ -27,12 +30,12 @@
     "reversegeo:longitude":-106.73461,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1126114023,
-    "wof:lastmodified":1531524181,
+    "wof:lastmodified":1564173497,
     "wof:name":"Montgomery Place",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

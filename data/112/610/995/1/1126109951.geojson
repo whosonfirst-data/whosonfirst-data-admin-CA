@@ -20,19 +20,31 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "name:deu_x_preferred":[
+        "Marshall Bay"
+    ],
     "name:eng_x_preferred":[
         "Marshall Bay"
+    ],
+    "name:nno_x_preferred":[
+        "Marshall Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Marshall"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6b47\u723e\u7063"
     ],
     "reversegeo:latitude":45.439939,
     "reversegeo:longitude":-76.292282,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
+        1126109937,
         102191575,
         85633041,
         101735873,
         890458681,
-        1126109937
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1126109951,
-    "wof:lastmodified":1533277905,
+    "wof:lastmodified":1564173447,
     "wof:name":"Marshall Bay",
     "wof:parent_id":1126109937,
     "wof:placetype":"microhood",

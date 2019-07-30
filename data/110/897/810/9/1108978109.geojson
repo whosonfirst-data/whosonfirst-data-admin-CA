@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":2516954.180575,
+    "geom:area_square_m":2516954.18057,
     "geom:bbox":"-75.7749609996,45.3700890004,-75.748605,45.3921349999",
     "geom:latitude":45.380652,
     "geom:longitude":-75.761603,
@@ -24,19 +24,31 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:bar_x_preferred":[
+        "Laurentides"
+    ],
+    "name:deu_x_preferred":[
+        "Laurentides"
+    ],
     "name:eng_x_preferred":[
         "Laurentian"
+    ],
+    "name:fra_x_preferred":[
+        "Laurentides"
+    ],
+    "name:swe_x_preferred":[
+        "Laurentides"
     ],
     "reversegeo:latitude":45.380934,
     "reversegeo:longitude":-75.761613,
     "src:geom":"can-ons",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1108978109,
-    "wof:lastmodified":1533277881,
+    "wof:lastmodified":1564172213,
     "wof:name":"Laurentian",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

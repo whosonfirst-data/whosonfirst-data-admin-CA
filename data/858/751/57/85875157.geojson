@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001314,
-    "geom:area_square_m":11704378.04631,
+    "geom:area_square_m":11704378.046315,
     "geom:bbox":"-78.9439266049,43.8780975453,-78.8698064483,43.9136747442",
     "geom:latitude":43.894107,
     "geom:longitude":-78.906416,
@@ -25,8 +25,38 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "McLaughlin"
+    ],
+    "name:deu_x_preferred":[
+        "McLaughlin"
+    ],
     "name:eng_x_preferred":[
         "McLaughlin"
+    ],
+    "name:fra_x_preferred":[
+        "McLaughlin"
+    ],
+    "name:ita_x_preferred":[
+        "McLaughlin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30af\u30e9\u30d5\u30ea\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9e4\ud074\ub85c\ud50c\ub9b0"
+    ],
+    "name:nld_x_preferred":[
+        "McLaughlin"
+    ],
+    "name:por_x_preferred":[
+        "McLaughlin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043b\u043e\u0445\u043b\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u043b\u0430\u0444\u043b\u0456\u043d"
     ],
     "name:unk_x_variant":[
         "McLaughlin"
@@ -60,11 +90,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":252,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740717,
         890456493,
-        85682057,
         101735997
     ],
     "wof:breaches":[],
@@ -96,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533262250,
+    "wof:lastmodified":1564170830,
     "wof:name":"McLaughlin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

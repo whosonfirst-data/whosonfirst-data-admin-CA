@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":313066.575092,
+    "geom:area_square_m":313066.575093,
     "geom:bbox":"-97.157788,49.872412,-97.146415,49.881746",
     "geom:latitude":49.877895,
     "geom:longitude":-97.151774,
@@ -27,10 +27,16 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
     "mz:tier_metro":15,
+    "name:ceb_x_preferred":[
+        "Roslyn"
+    ],
     "name:deu_x_preferred":[
         "Roslyn"
     ],
     "name:eng_x_preferred":[
+        "Roslyn"
+    ],
+    "name:fra_x_preferred":[
         "Roslyn"
     ],
     "name:hbs_x_preferred":[
@@ -65,12 +71,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":182,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108969341,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523920,
+    "wof:lastmodified":1564170865,
     "wof:name":"Roslyn",
     "wof:parent_id":1108969341,
     "wof:placetype":"neighbourhood",

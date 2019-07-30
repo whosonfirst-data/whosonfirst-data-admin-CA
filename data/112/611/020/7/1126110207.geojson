@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00071,
-    "geom:area_square_m":6151371.133656,
+    "geom:area_square_m":6151371.133614,
     "geom:bbox":"-75.4773828479,45.5171635749,-75.4042404036,45.5559819603",
     "geom:latitude":45.536828,
     "geom:longitude":-75.438437,
@@ -29,22 +29,52 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ces_x_preferred":[
+        "Masson"
+    ],
+    "name:deu_x_preferred":[
+        "Masson"
+    ],
     "name:eng_x_preferred":[
         "Masson"
     ],
     "name:fra_x_preferred":[
         "Masson"
     ],
+    "name:ita_x_preferred":[
+        "Masson"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c3\u30bd\u30f3"
+    ],
+    "name:lav_x_preferred":[
+        "Masson"
+    ],
+    "name:nld_x_preferred":[
+        "Masson"
+    ],
+    "name:por_x_preferred":[
+        "Masson"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0441\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Masson"
+    ],
+    "name:swe_x_preferred":[
+        "Masson"
+    ],
     "reversegeo:latitude":45.53466,
     "reversegeo:longitude":-75.445173,
     "src:geom":"can-gatsudd",
     "wof:belongsto":[
-        136251273,
         102191575,
         1126110343,
         85633041,
         101738041,
-        890456843
+        890456843,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1126110207,
-    "wof:lastmodified":1533270386,
+    "wof:lastmodified":1564173487,
     "wof:name":"Masson",
     "wof:parent_id":1126110343,
     "wof:placetype":"neighbourhood",

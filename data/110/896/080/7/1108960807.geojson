@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1302054.074069,
+    "geom:area_square_m":1302054.074063,
     "geom:bbox":"-73.900204213,45.435111429,-73.8591862015,45.450538465",
     "geom:latitude":45.442686,
     "geom:longitude":-73.873129,
@@ -20,18 +20,51 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "name:ceb_x_preferred":[
+        "Summerhill"
+    ],
+    "name:cym_x_preferred":[
+        "Summerhill"
+    ],
+    "name:deu_x_preferred":[
+        "Summerhill"
+    ],
     "name:fra_x_preferred":[
+        "Summerhill"
+    ],
+    "name:ita_x_preferred":[
+        "Summerhill"
+    ],
+    "name:kor_x_preferred":[
+        "\uc11c\uba38\ud790"
+    ],
+    "name:mlg_x_preferred":[
+        "Summerhill"
+    ],
+    "name:pol_x_preferred":[
+        "Summerhill"
+    ],
+    "name:por_x_preferred":[
+        "Summerhill"
+    ],
+    "name:slk_x_preferred":[
+        "Summerhill"
+    ],
+    "name:spa_x_preferred":[
+        "Summerhill"
+    ],
+    "name:swe_x_preferred":[
         "Summerhill"
     ],
     "reversegeo:latitude":45.445436,
     "reversegeo:longitude":-73.864313,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736461,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1108960807,
-    "wof:lastmodified":1533277849,
+    "wof:lastmodified":1564172157,
     "wof:name":"Summerhill",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

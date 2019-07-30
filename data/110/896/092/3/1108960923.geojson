@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":2143938.259522,
+    "geom:area_square_m":2143938.259525,
     "geom:bbox":"-73.8376553864,45.4888330349,-73.8090582927,45.5061366807",
     "geom:latitude":45.497303,
     "geom:longitude":-73.822916,
@@ -20,6 +20,9 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "name:deu_x_preferred":[
+        "Westpark"
+    ],
     "name:fra_x_preferred":[
         "Westpark"
     ],
@@ -27,11 +30,11 @@
     "reversegeo:longitude":-73.823133,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736467,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1108960923,
-    "wof:lastmodified":1533277852,
+    "wof:lastmodified":1564172165,
     "wof:name":"Westpark",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

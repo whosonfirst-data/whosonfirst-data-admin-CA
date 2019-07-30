@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":3448975.529204,
+    "geom:area_square_m":3448975.529207,
     "geom:bbox":"-79.534881451,43.754509987,-79.504882558,43.775470748",
     "geom:latitude":43.76489,
     "geom:longitude":-79.52198,
@@ -20,19 +20,49 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Black Creek"
+    ],
+    "name:deu_x_preferred":[
+        "Black Creek"
+    ],
+    "name:ita_x_preferred":[
+        "Black Creek"
+    ],
+    "name:nds_x_preferred":[
+        "Black Creek"
+    ],
+    "name:nld_x_preferred":[
+        "Black Creek"
+    ],
+    "name:pol_x_preferred":[
+        "Black Creek"
+    ],
+    "name:por_x_preferred":[
+        "Black Creek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0435\u043a \u041a\u0440\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Black Creek"
+    ],
+    "name:vol_x_preferred":[
+        "Black Creek"
+    ],
     "reversegeo:latitude":43.76549,
     "reversegeo:longitude":-79.523761,
     "src:geom":"torsdfa",
     "torsdfa:AREA_NAME":"Black Creek (24)",
     "torsdfa:AREA_S_CD":"024",
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834631,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1108906451,
-    "wof:lastmodified":1533272671,
+    "wof:lastmodified":1564172184,
     "wof:name":"Black Creek",
     "wof:parent_id":1108834631,
     "wof:placetype":"neighbourhood",

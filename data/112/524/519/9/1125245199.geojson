@@ -20,19 +20,25 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Woodvale"
+    ],
     "name:eng_x_preferred":[
+        "Woodvale"
+    ],
+    "name:swe_x_preferred":[
         "Woodvale"
     ],
     "reversegeo:latitude":45.325596,
     "reversegeo:longitude":-75.774867,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1125245199,
-    "wof:lastmodified":1533277877,
+    "wof:lastmodified":1564173776,
     "wof:name":"Woodvale",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

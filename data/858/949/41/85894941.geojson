@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":2815735.887128,
+    "geom:area_square_m":2815735.887124,
     "geom:bbox":"-123.003092728,49.2801463842,-122.974352758,49.2952839",
     "geom:latitude":49.286796,
     "geom:longitude":-122.988502,
@@ -28,11 +28,47 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0628\u064a\u062a\u0648\u0644 \u0647\u064a\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Capitol Hill"
+    ],
     "name:eng_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u067e\u06cc\u062a\u0627\u0644 \u0647\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\ud53c\ud2c0\ud790"
+    ],
+    "name:nor_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:sco_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:tur_x_preferred":[
         "Capitol Hill"
     ],
     "name:unk_x_variant":[
         "Capitol Hill"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u067e\u0679\u0644 \u06c1\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:wuu_x_preferred":[
+        "\u56fd\u4f1a\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fd\u4f1a\u5c71"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,12 +104,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":1493,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521039,
+    "wof:lastmodified":1564170789,
     "wof:name":"Capitol Hill",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

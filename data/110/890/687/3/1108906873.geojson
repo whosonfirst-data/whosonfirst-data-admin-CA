@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":287825.176589,
+    "geom:area_square_m":287825.176587,
     "geom:bbox":"-122.976401127,49.3157744669,-122.968946485,49.3219318616",
     "geom:latitude":49.318833,
     "geom:longitude":-122.972253,
@@ -29,16 +29,22 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:nld_x_preferred":[
+        "Parkgate"
+    ],
+    "name:pol_x_preferred":[
+        "Parkgate"
+    ],
     "reversegeo:latitude":49.318668,
     "reversegeo:longitude":-122.971579,
     "src:geom":"can-dnvgov",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108906825,
         85633041,
         101741071,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1108906873,
-    "wof:lastmodified":1531521016,
+    "wof:lastmodified":1564172186,
     "wof:name":"Parkgate",
     "wof:parent_id":1108906825,
     "wof:placetype":"neighbourhood",

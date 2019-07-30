@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1696607.378487,
+    "geom:area_square_m":1696607.378488,
     "geom:bbox":"-123.02358451,49.2314465953,-123.003404201,49.2430211202",
     "geom:latitude":49.237771,
     "geom:longitude":-123.013432,
@@ -23,16 +23,19 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:pol_x_preferred":[
+        "Garden Village"
+    ],
     "reversegeo:latitude":49.237926,
     "reversegeo:longitude":-123.01343,
     "src:geom":"can-bbygov",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915103,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1108916039,
-    "wof:lastmodified":1531521009,
+    "wof:lastmodified":1564172174,
     "wof:name":"Garden Village",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

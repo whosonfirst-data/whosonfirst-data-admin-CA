@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":9086560.32978,
+    "geom:area_square_m":9086560.329772,
     "geom:bbox":"-123.023525291,49.1809164,-122.951893038,49.2092500481",
     "geom:latitude":49.196974,
     "geom:longitude":-122.986936,
@@ -46,6 +46,9 @@
     "name:hbs_x_preferred":[
         "Big Bend"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d2 \u05d1\u05e0\u05d3"
+    ],
     "name:ita_x_preferred":[
         "Big Bend"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Big Bend"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0433-\u0411\u0435\u043d\u0434"
     ],
     "name:unk_x_variant":[
         "Big Bend"
@@ -107,12 +113,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":187,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915095,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521049,
+    "wof:lastmodified":1564170749,
     "wof:name":"Big Bend",
     "wof:parent_id":1108915095,
     "wof:placetype":"neighbourhood",

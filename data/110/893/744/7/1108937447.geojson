@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
-    "geom:area_square_m":2928157.006129,
+    "geom:area_square_m":2928157.006138,
     "geom:bbox":"-97.183938,49.941591,-97.15955,49.963864",
     "geom:latitude":49.952775,
     "geom:longitude":-97.17211,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":15,
+    "name:deu_x_preferred":[
+        "The Maples"
+    ],
     "name:eng_x_preferred":[
         "The Maples"
     ],
@@ -36,12 +39,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968461,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108937447,
-    "wof:lastmodified":1531523905,
+    "wof:lastmodified":1564172107,
     "wof:name":"The Maples",
     "wof:parent_id":1108968461,
     "wof:placetype":"neighbourhood",

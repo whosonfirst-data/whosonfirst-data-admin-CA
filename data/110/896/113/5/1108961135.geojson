@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":2717680.270977,
+    "geom:area_square_m":2717680.270976,
     "geom:bbox":"-73.4939604535,45.5033893586,-73.4660906867,45.5218377717",
     "geom:latitude":45.512016,
     "geom:longitude":-73.481061,
@@ -29,16 +29,19 @@
     "name:fra_x_variant":[
         "Saint Jean Vianney"
     ],
+    "name:swe_x_preferred":[
+        "Saint-Jean-Vianney"
+    ],
     "reversegeo:latitude":45.512081,
     "reversegeo:longitude":-73.481062,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
         1108961051,
-        890456297
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108961135,
-    "wof:lastmodified":1533257003,
+    "wof:lastmodified":1564172171,
     "wof:name":"Saint-Jean-Vianney",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

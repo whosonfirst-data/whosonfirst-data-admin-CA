@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1376022.367669,
+    "geom:area_square_m":1376022.36767,
     "geom:bbox":"-123.118083716,49.3453989517,-123.097492418,49.3561971827",
     "geom:latitude":49.351678,
     "geom:longitude":-123.107601,
@@ -29,15 +29,18 @@
     "mz:is_landuse_aoi":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "name:pol_x_preferred":[
+        "Handsworth"
+    ],
     "reversegeo:latitude":49.352346,
     "reversegeo:longitude":-123.107597,
     "src:geom":"can-dnvgov",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741071,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108906851,
-    "wof:lastmodified":1531521014,
+    "wof:lastmodified":1564172190,
     "wof:name":"Handsworth",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

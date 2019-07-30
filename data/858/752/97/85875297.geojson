@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11209826.398413,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.485826,49.914734,-119.485826,49.914734",
     "geom:latitude":49.914734,
     "geom:longitude":-119.485826,
@@ -24,10 +24,49 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Central City"
+    ],
+    "name:deu_x_preferred":[
+        "Central City"
+    ],
     "name:eng_x_preferred":[
         "Central City"
     ],
+    "name:fra_x_preferred":[
+        "Central City"
+    ],
+    "name:ita_x_preferred":[
+        "Central City"
+    ],
+    "name:kor_x_preferred":[
+        "\uc13c\ud2b8\ub7f4\uc2dc\ud2f0"
+    ],
+    "name:nld_x_preferred":[
+        "Central City"
+    ],
+    "name:pol_x_preferred":[
+        "Central City"
+    ],
+    "name:por_x_preferred":[
+        "Central City"
+    ],
+    "name:spa_x_preferred":[
+        "Central City"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0440\u0430\u043b \u0421\u0438\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Central City"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0440\u0430\u043b-\u0421\u0456\u0442\u0456"
+    ],
     "name:unk_x_variant":[
+        "Central City"
+    ],
+    "name:vol_x_preferred":[
         "Central City"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,11 +101,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":353,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741131,
-        890458697,
-        85682117
+        890458697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872068,
+    "wof:lastmodified":1564170663,
     "wof:name":"Central City",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

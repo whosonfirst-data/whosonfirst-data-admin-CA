@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":1678691.506034,
+    "geom:area_square_m":1678691.506031,
     "geom:bbox":"-97.325898,49.847018,-97.311112,49.865969",
     "geom:latitude":49.856108,
     "geom:longitude":-97.318294,
@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":15,
+    "name:deu_x_preferred":[
+        "Westdale"
+    ],
     "name:eng_x_preferred":[
+        "Westdale"
+    ],
+    "name:ita_x_preferred":[
         "Westdale"
     ],
     "reversegeo:latitude":49.856462,
@@ -36,12 +42,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968509,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108937497,
-    "wof:lastmodified":1531523906,
+    "wof:lastmodified":1564172094,
     "wof:name":"Westdale",
     "wof:parent_id":1108968509,
     "wof:placetype":"neighbourhood",

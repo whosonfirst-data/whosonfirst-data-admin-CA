@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":1980231.302063,
+    "geom:area_square_m":1980231.302062,
     "geom:bbox":"-97.293976,49.859051,-97.277578,49.881729",
     "geom:latitude":49.871179,
     "geom:longitude":-97.285281,
@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Kirkfield"
     ],
+    "name:epo_x_preferred":[
+        "Kirkfield"
+    ],
+    "name:fra_x_preferred":[
+        "Kirkfield"
+    ],
     "reversegeo:latitude":49.871325,
     "reversegeo:longitude":-97.284624,
     "src:geom":"can-wpgppd",
@@ -36,12 +42,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968457,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108937503,
-    "wof:lastmodified":1531523907,
+    "wof:lastmodified":1564172101,
     "wof:name":"Kirkfield",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",
