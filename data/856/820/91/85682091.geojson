@@ -14,11 +14,23 @@
     "geom:longitude":-114.513165,
     "iso:country":"CA",
     "iso:subdivision":"CA-AB",
+    "label:eng_x_preferred_abbreviation":[
+        "Alb."
+    ],
     "label:eng_x_preferred_longname":[
         "Alberta Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "AB"
+    ],
+    "label:eng_x_variant_abbreviation":[
+        "Alta."
+    ],
+    "label:fra_x_preferred_abbreviation":[
+        "Alb."
     ],
     "lbl:latitude":55.44167,
     "lbl:longitude":-114.446928,
@@ -540,7 +552,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1563281753,
+    "wof:lastmodified":1565646055,
     "wof:name":"Alberta",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

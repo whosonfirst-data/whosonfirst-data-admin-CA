@@ -14,11 +14,20 @@
     "geom:longitude":-119.128892,
     "iso:country":"CA",
     "iso:subdivision":"CA-NT",
+    "label:eng_x_preferred_abbreviation":[
+        "N.W.T."
+    ],
     "label:eng_x_preferred_longname":[
         "Northwest Territories Territory"
     ],
     "label:eng_x_preferred_placetype":[
         "territory"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "NT"
+    ],
+    "label:fra_x_preferred_abbreviation":[
+        "T.N.-O."
     ],
     "lbl:latitude":66.146924,
     "lbl:longitude":-125.335712,
@@ -511,7 +520,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1563281744,
+    "wof:lastmodified":1565642888,
     "wof:name":"Northwest Territories",
     "wof:parent_id":85633041,
     "wof:placetype":"region",
