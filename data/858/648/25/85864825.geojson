@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":979448.152785,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.684273,52.131154,-106.684273,52.131154",
     "geom:latitude":52.131154,
     "geom:longitude":-106.684273,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.689273,52.126154,-106.679273,52.136154",
     "lbl:latitude":52.131154,
     "lbl:longitude":-106.684273,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.131802,
     "mps:longitude":-106.684696,
     "mz:hierarchy_label":0,
@@ -33,20 +35,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115063,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403788,
         "qs:id":348106,
-        "qs_pg:id":348106,
         "wd:id":"Q7989318"
     },
     "wof:country":"CA",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870983,
+    "wof:lastmodified":1566424989,
     "wof:name":"Westmount",
     "wof:parent_id":1126115063,
     "wof:placetype":"neighbourhood",

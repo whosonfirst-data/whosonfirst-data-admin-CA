@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":50.288081,
     "lbl:longitude":-107.796267,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.288081,
     "mps:longitude":-107.796267,
     "mz:hierarchy_label":1,
@@ -256,7 +258,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1727,
     "wof:belongsto":[
@@ -271,7 +273,6 @@
         "gn:id":6160603,
         "gp:id":2309,
         "qs:id":224133,
-        "qs_pg:id":224133,
         "wd:id":"Q619937",
         "wk:page":"Swift Current"
     },
@@ -290,7 +291,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844264,
+    "wof:lastmodified":1566425360,
     "wof:name":"Swift Current",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

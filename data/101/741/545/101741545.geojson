@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000382,
+    "geom:area_square_m":2583245.080123,
     "geom:bbox":"-115.4105411,56.8208989,-115.3844425,56.8355364",
     "geom:latitude":56.828218,
     "geom:longitude":-115.397492,
     "iso:country":"CA",
     "lbl:latitude":56.828219,
     "lbl:longitude":-115.397492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.828219,
     "mps:longitude":-115.397492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loon Prairie 237"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741545,
-    "wof:lastmodified":1533250158,
+    "wof:lastmodified":1566425813,
     "wof:name":"Loon Prairie 237",
     "wof:parent_id":1158863303,
     "wof:placetype":"locality",

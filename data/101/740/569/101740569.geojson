@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108635,
+    "geom:area_square_m":840698524.771848,
     "geom:bbox":"-102.8562521,51.1216048,-102.4277703,51.3869714",
     "geom:latitude":51.255567,
     "geom:longitude":-102.645297,
     "iso:country":"CA",
     "lbl:latitude":51.254277,
     "lbl:longitude":-102.645292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.254277,
     "mps:longitude":-102.645292,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orkney No. 244"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740569,
-    "wof:lastmodified":1531525255,
+    "wof:lastmodified":1566425483,
     "wof:name":"Orkney No. 244",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000818,
+    "geom:area_square_m":6506960.952688,
     "geom:bbox":"-120.9953062,49.9748471,-120.9251702,50.0109743",
     "geom:latitude":49.987865,
     "geom:longitude":-120.96238,
     "iso:country":"CA",
     "lbl:latitude":49.982167,
     "lbl:longitude":-120.953814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.982167,
     "mps:longitude":-120.953814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paul'S Basin 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745389,
-    "wof:lastmodified":1533335909,
+    "wof:lastmodified":1566425982,
     "wof:name":"Paul'S Basin 2",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

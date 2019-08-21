@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.371375,
     "lbl:longitude":-104.29776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.371375,
     "mps:longitude":-104.29776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Punnichy"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":425,
     "wof:belongsto":[
         102191575,
@@ -56,7 +59,6 @@
         "gn:id":6114218,
         "gp:id":2448,
         "qs:id":739311,
-        "qs_pg:id":739311,
         "wd:id":"Q2202338",
         "wk:page":"Punnichy, Saskatchewan"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844262,
+    "wof:lastmodified":1566425358,
     "wof:name":"Punnichy",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

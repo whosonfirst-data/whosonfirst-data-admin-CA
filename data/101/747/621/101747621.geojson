@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
+    "geom:area_square_m":321926.607567,
     "geom:bbox":"-62.5733463,44.909274,-62.520038,44.9181856",
     "geom:latitude":44.914147,
     "geom:longitude":-62.547463,
     "iso:country":"CA",
     "lbl:latitude":44.913279,
     "lbl:longitude":-62.556125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.913279,
     "mps:longitude":-62.556125,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sheet Harbour Indian Reserve No. 36"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747621,
-    "wof:lastmodified":1531772487,
+    "wof:lastmodified":1566425554,
     "wof:name":"Sheet Harbour Indian Reserve No. 36",
     "wof:parent_id":890456491,
     "wof:placetype":"locality",

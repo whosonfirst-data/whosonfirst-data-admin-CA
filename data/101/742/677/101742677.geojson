@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003017,
+    "geom:area_square_m":21135908.471016,
     "geom:bbox":"-102.2324951,55.4741101,-102.0888714,55.5189567",
     "geom:latitude":55.495487,
     "geom:longitude":-102.179248,
     "iso:country":"CA",
     "lbl:latitude":55.489805,
     "lbl:longitude":-102.197298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.489805,
     "mps:longitude":-102.197298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kipahigan Sakahikan Indian Reserve No. 222"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742677,
-    "wof:lastmodified":1531525142,
+    "wof:lastmodified":1566425940,
     "wof:name":"Kipahigan Sakahikan Indian Reserve No. 222",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.815763,
     "lbl:longitude":-71.222835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.816631,
     "mps:longitude":-71.230861,
     "mz:hierarchy_label":1,
@@ -141,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":4970,
     "wof:belongsto":[
         102191575,
@@ -155,7 +156,6 @@
     "wof:concordances":{
         "gp:id":26332802,
         "qs:id":368610,
-        "qs_pg:id":368610,
         "wd:id":"Q152457"
     },
     "wof:country":"CA",
@@ -175,7 +175,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563282178,
+    "wof:lastmodified":1566424991,
     "wof:name":"Saint-Roch",
     "wof:parent_id":1126115107,
     "wof:placetype":"neighbourhood",

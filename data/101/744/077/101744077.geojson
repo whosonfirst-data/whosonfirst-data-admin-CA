@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
+    "geom:area_square_m":159012.39765,
     "geom:bbox":"-121.450651,50.6404345,-121.4416488,50.6448094",
     "geom:latitude":50.642963,
     "geom:longitude":-121.445949,
     "iso:country":"CA",
     "lbl:latitude":50.643382,
     "lbl:longitude":-121.446257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.643382,
     "mps:longitude":-121.446257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oregon Jack Creek 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744077,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566425891,
     "wof:name":"Oregon Jack Creek 2",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.194798,
     "lbl:longitude":-81.314959,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.194798,
     "mps:longitude":-81.314959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Bruce"
     ],
@@ -275,7 +278,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Bruce",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"3541",
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":890457581,
-    "wof:lastmodified":1563286412,
+    "wof:lastmodified":1566426128,
     "wof:name":"Bruce",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
+    "geom:area_square_m":153724.255775,
     "geom:bbox":"-123.6793264,48.881622,-123.6730928,48.8854636",
     "geom:latitude":48.883682,
     "geom:longitude":-123.675943,
     "iso:country":"CA",
     "lbl:latitude":48.883616,
     "lbl:longitude":-123.676143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.883616,
     "mps:longitude":-123.676143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsussie 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747883,
-    "wof:lastmodified":1533335927,
+    "wof:lastmodified":1566425655,
     "wof:name":"Tsussie 6",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

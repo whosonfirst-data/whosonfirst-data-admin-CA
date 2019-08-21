@@ -11,8 +11,10 @@
     "geom:longitude":-79.817613,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.822613,43.481242,-79.812613,43.491242",
     "lbl:latitude":43.486242,
     "lbl:longitude":-79.817613,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.475485,
     "mps:longitude":-79.812012,
     "mz:hierarchy_label":0,
@@ -111,9 +113,6 @@
     "name:swe_x_preferred":[
         "Omagh"
     ],
-    "name:unk_x_variant":[
-        "Omagh"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0645\u0627"
     ],
@@ -143,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736383,
@@ -154,8 +153,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999040,
-        "qs:id":231002,
-        "qs_pg:id":231002
+        "qs:id":231002
     },
     "wof:country":"CA",
     "wof:geomhash":"e357965a459ac63174513cc24395874a",
@@ -179,7 +177,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170813,
+    "wof:lastmodified":1566424970,
     "wof:name":"Omagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

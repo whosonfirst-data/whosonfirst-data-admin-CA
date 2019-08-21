@@ -10,8 +10,10 @@
     "geom:latitude":45.899929,
     "geom:longitude":-66.689504,
     "iso:country":"CA",
+    "lbl:bbox":"-66.694504,45.894929,-66.684504,45.904929",
     "lbl:latitude":45.899929,
     "lbl:longitude":-66.689504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.896732,
     "mps:longitude":-66.689278,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "New Maryland"
     ],
-    "name:unk_x_variant":[
-        "New Maryland"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"04",
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -93,7 +92,6 @@
         "gn:id":6087704,
         "gp:id":23392460,
         "qs:id":24399,
-        "qs_pg:id":24399,
         "wd:id":"Q1383701",
         "wk:page":"New Maryland, New Brunswick"
     },
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281881,
+    "wof:lastmodified":1566424940,
     "wof:name":"New Maryland",
     "wof:parent_id":101735331,
     "wof:placetype":"neighbourhood",

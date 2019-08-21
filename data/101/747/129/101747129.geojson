@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
+    "geom:area_square_m":484149.403259,
     "geom:bbox":"-122.6531947,52.4812152,-122.644289,52.4884591",
     "geom:latitude":52.484838,
     "geom:longitude":-122.64874,
     "iso:country":"CA",
     "lbl:latitude":52.484837,
     "lbl:longitude":-122.64874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.484837,
     "mps:longitude":-122.64874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Webster Creek 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747129,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566425597,
     "wof:name":"Webster Creek 5",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

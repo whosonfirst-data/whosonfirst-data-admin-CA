@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.979442,
     "lbl:longitude":-77.243462,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.979442,
     "mps:longitude":-77.243462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0646\u0633 \u0627\u062f\u0648\u0627\u0631\u062f"
     ],
@@ -104,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2640,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "gn:id":6113355,
         "gp:id":29374609,
         "qs:id":1041601,
-        "qs_pg:id":1041601,
         "wd:id":"Q385085",
         "wk:page":"Prince Edward County, Ontario"
     },
@@ -138,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285324,
+    "wof:lastmodified":1566425852,
     "wof:name":"Prince Edward County",
     "wof:parent_id":890457733,
     "wof:placetype":"locality",

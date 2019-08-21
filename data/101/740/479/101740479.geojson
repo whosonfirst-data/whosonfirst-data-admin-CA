@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117466,
+    "geom:area_square_m":878037743.071575,
     "geom:bbox":"-105.4869962,52.6672934,-105.0515379,52.977902",
     "geom:latitude":52.806776,
     "geom:longitude":-105.266371,
     "iso:country":"CA",
     "lbl:latitude":52.801846,
     "lbl:longitude":-105.28089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.801846,
     "mps:longitude":-105.28089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Invergordon No. 430"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740479,
-    "wof:lastmodified":1531524563,
+    "wof:lastmodified":1566425491,
     "wof:name":"Invergordon No. 430",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

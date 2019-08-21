@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001943,
+    "geom:area_square_m":15414487.900427,
     "geom:bbox":"-120.2688995,50.0717554,-120.1907599,50.0988755",
     "geom:latitude":50.086143,
     "geom:longitude":-120.232099,
     "iso:country":"CA",
     "lbl:latitude":50.085319,
     "lbl:longitude":-120.232099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.085319,
     "mps:longitude":-120.232099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spahomin Creek 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744187,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566425895,
     "wof:name":"Spahomin Creek 8",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

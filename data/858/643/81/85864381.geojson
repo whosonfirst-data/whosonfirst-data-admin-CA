@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6455674.704224,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.105488,45.23895,-66.105488,45.23895",
     "geom:latitude":45.23895,
     "geom:longitude":-66.105488,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.110488,45.23395,-66.100488,45.24395",
     "lbl:latitude":45.23895,
     "lbl:longitude":-66.105488,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.251533,
     "mps:longitude":-66.123703,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Quinton Heights"
-    ],
-    "name:unk_x_variant":[
         "Quinton Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,21 +57,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[
         85875419
     ],
     "wof:concordances":{
         "gp:id":23393310,
-        "qs:id":1262938,
-        "qs_pg:id":1262938
+        "qs:id":1262938
     },
     "wof:country":"CA",
     "wof:geomhash":"e41f1fe14912a1ecc595856a7086366e",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870881,
+    "wof:lastmodified":1566424940,
     "wof:name":"Quinton Heights",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

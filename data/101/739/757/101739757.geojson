@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.190299,
     "lbl:longitude":-104.904875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.190299,
     "mps:longitude":-104.904875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0443\u043b\u0435\u0430\u0443"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":580.0,
     "wd:latitude":50.1833,
     "wd:longitude":-104.9,
@@ -71,7 +74,6 @@
         "gn:id":6128122,
         "gp:id":2531,
         "qs:id":160379,
-        "qs_pg:id":160379,
         "wd:id":"Q1916905",
         "wk:page":"Rouleau, Saskatchewan"
     },
@@ -90,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284044,
+    "wof:lastmodified":1566425370,
     "wof:name":"Rouleau",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

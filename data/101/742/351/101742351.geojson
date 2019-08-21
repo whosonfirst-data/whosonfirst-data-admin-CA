@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013497,
+    "geom:area_square_m":95273457.341425,
     "geom:bbox":"-107.6622374,55.0963344,-107.5294823,55.285361",
     "geom:latitude":55.190537,
     "geom:longitude":-107.585549,
     "iso:country":"CA",
     "lbl:latitude":55.125133,
     "lbl:longitude":-107.585231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.125133,
     "mps:longitude":-107.585231,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "La Plonge I.R. 192"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742351,
-    "wof:lastmodified":1531525136,
+    "wof:lastmodified":1566425936,
     "wof:name":"La Plonge I.R. 192",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.799144,
     "lbl:longitude":-104.315423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.799144,
     "mps:longitude":-104.315423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Big Quill No. 308"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101740647,
-    "wof:lastmodified":1561844392,
+    "wof:lastmodified":1566425510,
     "wof:name":"Big Quill No. 308",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

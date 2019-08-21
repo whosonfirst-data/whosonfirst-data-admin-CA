@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
+    "geom:area_square_m":501133.451165,
     "geom:bbox":"-125.3643285,50.5461503,-125.356135,50.5589105",
     "geom:latitude":50.552582,
     "geom:longitude":-125.359332,
     "iso:country":"CA",
     "lbl:latitude":50.552299,
     "lbl:longitude":-125.358842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.552299,
     "mps:longitude":-125.358842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Matsayno 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744011,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566425900,
     "wof:name":"Matsayno 5",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

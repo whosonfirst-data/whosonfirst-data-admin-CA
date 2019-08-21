@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.423581,
     "lbl:longitude":-102.92009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.423581,
     "mps:longitude":-102.92009,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Theodore"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -93,8 +96,7 @@
         "fct:id":"03bffe5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6164443,
         "gp:id":1796,
-        "qs:id":1009099,
-        "qs_pg:id":1009099
+        "qs:id":1009099
     },
     "wof:country":"CA",
     "wof:geomhash":"9f08233e16db2bb7be8518cc39a7ec80",
@@ -111,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564172564,
+    "wof:lastmodified":1566425371,
     "wof:name":"Theodore",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

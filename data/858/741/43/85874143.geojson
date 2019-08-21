@@ -11,8 +11,10 @@
     "geom:longitude":-64.794059,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.799059,46.079097,-64.789059,46.089097",
     "lbl:latitude":46.084097,
     "lbl:longitude":-64.794059,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.083518,
     "mps:longitude":-64.796946,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u043b\u043a\u0440\u0435\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Hillcrest"
-    ],
     "name:vol_x_preferred":[
         "Hillcrest"
     ],
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -102,8 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855698,
-        "qs:id":381129,
-        "qs_pg:id":381129
+        "qs:id":381129
     },
     "wof:country":"CA",
     "wof:geomhash":"bc00ffa82e8baf7a52c0373178900cf3",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170803,
+    "wof:lastmodified":1566424968,
     "wof:name":"Hillcrest",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.470955,
     "lbl:longitude":-100.902805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.470955,
     "mps:longitude":-100.902805,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0440\u0442\u043b\u0435"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.4225,
     "wd:longitude":-101.0475,
     "wd:wordcount":1038,
@@ -76,7 +79,6 @@
         "gn:id":5901898,
         "gp:id":122,
         "qs:id":1053436,
-        "qs_pg:id":1053436,
         "wd:id":"Q86586",
         "wk:page":"Birtle, Manitoba"
     },
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285277,
+    "wof:lastmodified":1566425843,
     "wof:name":"Birtle",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

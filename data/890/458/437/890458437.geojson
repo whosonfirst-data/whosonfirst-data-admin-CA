@@ -14,15 +14,18 @@
     "geom:longitude":-113.95703,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.029067,
     "lbl:longitude":-113.96007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.029067,
     "mps:longitude":-113.96007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Innisfail"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890458437,
-    "wof:lastmodified":1563285979,
+    "wof:lastmodified":1566426012,
     "wof:name":"Innisfail",
     "wof:parent_id":1158863225,
     "wof:placetype":"locality",

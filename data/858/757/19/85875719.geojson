@@ -11,8 +11,10 @@
     "geom:longitude":-73.499724,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.504724,45.520521,-73.494724,45.530521",
     "lbl:latitude":45.525521,
     "lbl:longitude":-73.499724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.518934,
     "mps:longitude":-73.498776,
     "mz:hierarchy_label":0,
@@ -50,7 +52,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -63,7 +65,6 @@
     "wof:concordances":{
         "gp:id":55856781,
         "qs:id":191701,
-        "qs_pg:id":191701,
         "wd:id":"Q3344587"
     },
     "wof:country":"CA",
@@ -83,7 +84,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563282112,
+    "wof:lastmodified":1566424981,
     "wof:name":"Notre-Dame-de-Gr\u00e2ces",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011108,
+    "geom:area_square_m":80921615.337597,
     "geom:bbox":"-94.7182621,53.8154088,-94.4652999,53.9671141",
     "geom:latitude":53.903112,
     "geom:longitude":-94.587686,
     "iso:country":"CA",
     "lbl:latitude":53.918634,
     "lbl:longitude":-94.604448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.918634,
     "mps:longitude":-94.604448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Garden Hill"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747037,
-    "wof:lastmodified":1533069678,
+    "wof:lastmodified":1566425588,
     "wof:name":"Garden Hill",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

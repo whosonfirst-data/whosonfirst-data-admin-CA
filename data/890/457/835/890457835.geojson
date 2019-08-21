@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.375239,
     "lbl:longitude":-72.004248,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.375239,
     "mps:longitude":-72.004248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Sherbrooke"
     ],
@@ -227,7 +230,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Sherbrooke",
     "statcan:cdtype":"TE",
     "statcan:cduid":"2443",
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":890457835,
-    "wof:lastmodified":1563286385,
+    "wof:lastmodified":1566426121,
     "wof:name":"Sherbrooke",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

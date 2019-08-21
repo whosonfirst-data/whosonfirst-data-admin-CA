@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
+    "geom:area_square_m":1633912.939234,
     "geom:bbox":"-125.3012623,48.9658949,-125.2823272,48.9801421",
     "geom:latitude":48.97289,
     "geom:longitude":-125.290713,
     "iso:country":"CA",
     "lbl:latitude":48.97084,
     "lbl:longitude":-125.291481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.97084,
     "mps:longitude":-125.291481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Equis 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743979,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566425912,
     "wof:name":"Equis 8",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

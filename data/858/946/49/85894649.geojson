@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000443,
-    "geom:area_square_m":3577237.254116,
+    "geom:area_square_m":3577237.254118,
     "geom:bbox":"-122.933276772,49.2247423436,-122.892565751,49.2462219217",
     "geom:latitude":49.236516,
     "geom:longitude":-122.910769,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.236469,
     "lbl:longitude":-122.91077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.23374,
     "mps:longitude":-122.920355,
     "mz:hierarchy_label":0,
@@ -33,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Cariboo - Armstrong"
-    ],
-    "name:unk_x_variant":[
-        "Cariboo Heights"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,7 +66,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108915099,
@@ -80,8 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998720,
-        "qs:id":897470,
-        "qs_pg:id":897470
+        "qs:id":897470
     },
     "wof:country":"CA",
     "wof:geomhash":"56459fc09c14f4115fa973070a74d960",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566424954,
     "wof:name":"Cariboo-Armstrong",
     "wof:parent_id":1108915099,
     "wof:placetype":"neighbourhood",

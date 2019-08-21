@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.646108,
     "lbl:longitude":-70.764721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.646108,
     "mps:longitude":-70.764721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Lazare-de-Bellechasse"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101738253,
-    "wof:lastmodified":1563284721,
+    "wof:lastmodified":1566425477,
     "wof:name":"Saint-Lazare-de-Bellechasse",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

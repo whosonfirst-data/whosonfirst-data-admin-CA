@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":54.887734,
     "lbl:longitude":-95.37887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.887734,
     "mps:longitude":-95.37887,
     "mz:hierarchy_label":1,
@@ -145,7 +147,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":471,
     "wof:belongsto":[
         102191575,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":101746095,
-    "wof:lastmodified":1563285105,
+    "wof:lastmodified":1566425775,
     "wof:name":"Oxford House 24",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

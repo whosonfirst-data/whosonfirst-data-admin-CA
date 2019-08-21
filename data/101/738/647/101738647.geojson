@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.079701,
     "lbl:longitude":-70.528899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.079701,
     "mps:longitude":-70.528899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Antoine-de-l'Isle-aux-Grues"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         102191575,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101738647,
-    "wof:lastmodified":1563284697,
+    "wof:lastmodified":1566425473,
     "wof:name":"Saint-Antoine-de-l'Isle-aux-Grues",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

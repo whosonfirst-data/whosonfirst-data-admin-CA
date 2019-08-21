@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.918776,
     "lbl:longitude":-70.723551,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.918776,
     "mps:longitude":-70.723551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062a\u064a\u064a\u0647 \u0633\u0648\u0631 \u0645\u064a\u0631"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":204,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "gn:id":6325480,
         "gp:id":112,
         "qs:id":313092,
-        "qs_pg:id":313092,
         "wd:id":"Q2899316",
         "wk:page":"Berthier-sur-Mer, Quebec"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738113,
-    "wof:lastmodified":1563284755,
+    "wof:lastmodified":1566425482,
     "wof:name":"Berthier-sur-Mer",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.709629,
     "lbl:longitude":-109.245265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.709629,
     "mps:longitude":-109.245265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coleville"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2763,
     "wof:belongsto":[
         102191575,
@@ -56,7 +59,6 @@
         "gn:id":5925240,
         "gp:id":2214,
         "qs:id":433534,
-        "qs_pg:id":433534,
         "wd:id":"Q1999766",
         "wk:page":"Coleville, Saskatchewan"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844363,
+    "wof:lastmodified":1566425466,
     "wof:name":"Coleville",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

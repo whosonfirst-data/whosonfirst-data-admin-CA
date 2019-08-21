@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1882017.389514,
+    "geom:area_square_m":1882017.38951,
     "geom:bbox":"-114.09476,51.134295,-114.063275,51.153256",
     "geom:latitude":51.143871,
     "geom:longitude":-114.076753,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.143754,
     "lbl:longitude":-114.077502,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.145705,
     "mps:longitude":-114.080072,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1105.0,
     "wd:latitude":51.1436,
     "wd:longitude":-114.072,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":26342791,
         "qs:id":899102,
-        "qs_pg:id":899102,
         "wd:id":"Q5177318"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270097,
+    "wof:lastmodified":1566424948,
     "wof:name":"Country Hills",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

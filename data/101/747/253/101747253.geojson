@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":658036.187667,
     "geom:bbox":"-88.2480733,49.0246021,-88.2349816,49.0318948",
     "geom:latitude":49.028089,
     "geom:longitude":-88.24083,
     "iso:country":"CA",
     "lbl:latitude":49.028214,
     "lbl:longitude":-88.239479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.028214,
     "mps:longitude":-88.239479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Helen Indian Reserve No. 53A"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747253,
-    "wof:lastmodified":1533335682,
+    "wof:lastmodified":1566425675,
     "wof:name":"Lake Helen Indian Reserve No. 53A",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

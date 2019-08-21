@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001306,
+    "geom:area_square_m":9328605.777045,
     "geom:bbox":"-122.836386,54.6827789,-122.790428,54.7333074",
     "geom:latitude":54.712837,
     "geom:longitude":-122.811145,
     "iso:country":"CA",
     "lbl:latitude":54.708688,
     "lbl:longitude":-122.812173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.708688,
     "mps:longitude":-122.812173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kerry Lake West 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745337,
-    "wof:lastmodified":1533335907,
+    "wof:lastmodified":1566425947,
     "wof:name":"Kerry Lake West 8",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

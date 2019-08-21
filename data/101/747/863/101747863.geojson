@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
+    "geom:area_square_m":982776.332988,
     "geom:bbox":"-123.9940066,50.2090046,-123.967739,50.2176985",
     "geom:latitude":50.214959,
     "geom:longitude":-123.980226,
     "iso:country":"CA",
     "lbl:latitude":50.215139,
     "lbl:longitude":-123.973652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.215139,
     "mps:longitude":-123.973652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Hunaechin) No 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747863,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566425682,
     "wof:name":"Sechelt Band Lands (Hunaechin) No 11",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

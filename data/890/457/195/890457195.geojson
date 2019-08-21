@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":63.505791,
     "lbl:longitude":-136.093799,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.505791,
     "mps:longitude":-136.093799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Yukon"
     ],
@@ -335,7 +338,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Yukon",
     "statcan:cdtype":"TER",
     "statcan:cduid":"6001",
@@ -362,7 +365,7 @@
         }
     ],
     "wof:id":890457195,
-    "wof:lastmodified":1564173345,
+    "wof:lastmodified":1566426106,
     "wof:name":"Yukon",
     "wof:parent_id":85682095,
     "wof:placetype":"county",

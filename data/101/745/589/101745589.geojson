@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001061,
+    "geom:area_square_m":8273283.725736,
     "geom:bbox":"-119.5119406,50.901472,-119.4603142,50.9346195",
     "geom:latitude":50.918957,
     "geom:longitude":-119.481441,
     "iso:country":"CA",
     "lbl:latitude":50.913041,
     "lbl:longitude":-119.477865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.913041,
     "mps:longitude":-119.477865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scotch Creek 4"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745589,
-    "wof:lastmodified":1533335914,
+    "wof:lastmodified":1566425969,
     "wof:name":"Scotch Creek 4",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":3164578.649499,
+    "geom:area_square_m":3164578.6495,
     "geom:bbox":"-79.1622623565,43.8226373767,-79.1359808652,43.8416460644",
     "geom:latitude":43.832351,
     "geom:longitude":-79.147586,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.830758,
     "lbl:longitude":-79.145208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.830847,
     "mps:longitude":-79.146918,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -45,8 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999571,
-        "qs:id":987002,
-        "qs_pg:id":987002
+        "qs:id":987002
     },
     "wof:controlled":[],
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335745,
+    "wof:lastmodified":1566424939,
     "wof:name":"Highbrush",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -14,10 +14,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.108184,
     "lbl:longitude":-61.918627,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.108184,
     "mps:longitude":-61.918627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0430\u043d\u0438\u0435"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Minganie--Le Golfe-du-Saint-Laurent",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"2498",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890456849,
-    "wof:lastmodified":1563286271,
+    "wof:lastmodified":1566426090,
     "wof:name":"Minganie--Le Golfe-du-Saint-Laurent",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000398,
-    "geom:area_square_m":3550434.473252,
+    "geom:area_square_m":3550434.473253,
     "geom:bbox":"-79.1235382705,43.8304701366,-79.098815918,43.8544320659",
     "geom:latitude":43.844053,
     "geom:longitude":-79.109663,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.828328,
     "lbl:longitude":-79.125075,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.843861,
     "mps:longitude":-79.109668,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Amberlea"
-    ],
-    "name:unk_x_variant":[
         "Amberlea"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335740,
+    "wof:lastmodified":1566424978,
     "wof:name":"Amberlee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

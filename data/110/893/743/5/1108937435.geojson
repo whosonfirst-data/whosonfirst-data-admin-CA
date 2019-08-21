@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1824527.564684,
+    "geom:area_square_m":1824527.564688,
     "geom:bbox":"-97.229993,49.923832,-97.195107,49.945949",
     "geom:latitude":49.933365,
     "geom:longitude":-97.215504,
     "iso:country":"CA",
     "lbl:latitude":49.933718,
     "lbl:longitude":-97.222041,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.934735,
     "mps:longitude":-97.221579,
     "mz:hierarchy_label":1,
@@ -34,14 +35,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968501,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108937435,
-    "wof:lastmodified":1531523904,
+    "wof:lastmodified":1566425232,
     "wof:name":"Oak Point Highway",
     "wof:parent_id":1108968501,
     "wof:placetype":"neighbourhood",

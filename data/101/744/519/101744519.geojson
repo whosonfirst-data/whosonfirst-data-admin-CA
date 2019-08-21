@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":37221.521545,
     "geom:bbox":"-125.4386139,53.8567852,-125.4341505,53.8585763",
     "geom:latitude":53.857863,
     "geom:longitude":-125.435803,
     "iso:country":"CA",
     "lbl:latitude":53.857783,
     "lbl:longitude":-125.435617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.857783,
     "mps:longitude":-125.435617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binta Lake 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744519,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566425895,
     "wof:name":"Binta Lake 2",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

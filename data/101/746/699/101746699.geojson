@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001336,
+    "geom:area_square_m":10386557.881356,
     "geom:bbox":"-103.8010132,50.761355,-103.3052328,51.0558046",
     "geom:latitude":51.034226,
     "geom:longitude":-103.408517,
     "iso:country":"CA",
     "lbl:latitude":51.026339,
     "lbl:longitude":-103.328655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.026339,
     "mps:longitude":-103.328655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Black Bear I.R. 84Sc"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746699,
-    "wof:lastmodified":1531524445,
+    "wof:lastmodified":1566425775,
     "wof:name":"Little Black Bear I.R. 84Sc",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

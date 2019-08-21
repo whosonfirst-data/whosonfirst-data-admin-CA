@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":38107.613421,
     "geom:bbox":"-127.0346867,50.967766,-127.0316189,50.9696494",
     "geom:latitude":50.968708,
     "geom:longitude":-127.032949,
     "iso:country":"CA",
     "lbl:latitude":50.968523,
     "lbl:longitude":-127.032736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.968523,
     "mps:longitude":-127.032736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gleyka 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743055,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566425911,
     "wof:name":"Gleyka 6",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

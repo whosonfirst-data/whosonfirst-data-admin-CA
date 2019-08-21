@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00178,
+    "geom:area_square_m":13048228.796611,
     "geom:bbox":"-102.0066093,53.6289021,-101.9377733,53.6779922",
     "geom:latitude":53.652949,
     "geom:longitude":-101.977304,
     "iso:country":"CA",
     "lbl:latitude":53.650742,
     "lbl:longitude":-101.97263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.650742,
     "mps:longitude":-101.97263,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Opaskwayak C.N. 27A (Carrot River)"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742775,
-    "wof:lastmodified":1531523862,
+    "wof:lastmodified":1566425943,
     "wof:name":"Opaskwayak C.N. 27A (Carrot River)",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

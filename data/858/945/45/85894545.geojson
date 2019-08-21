@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1938708.442804,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.650517,53.653941,-113.650517,53.653941",
     "geom:latitude":53.653941,
     "geom:longitude":-113.650517,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.655517,53.648941,-113.645517,53.658941",
     "lbl:latitude":53.653941,
     "lbl:longitude":-113.650517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.654414,
     "mps:longitude":-113.647335,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1020.0,
     "wd:latitude":50.9264,
     "wd:longitude":-114.014,
@@ -48,8 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998572,
-        "qs:id":179883,
-        "qs_pg:id":179883
+        "qs:id":179883
     },
     "wof:country":"CA",
     "wof:geomhash":"672b6ed4d98f3dc44c9304b36f307c81",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931212,
+    "wof:lastmodified":1566424996,
     "wof:name":"Deer Ridge",
     "wof:parent_id":890458621,
     "wof:placetype":"neighbourhood",

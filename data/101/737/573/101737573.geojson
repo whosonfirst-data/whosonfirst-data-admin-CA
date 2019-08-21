@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.666795,
     "lbl:longitude":-67.523321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.666795,
     "mps:longitude":-67.523321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sainte-Paule"
     ],
@@ -137,7 +140,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191575,
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101737573,
-    "wof:lastmodified":1563284210,
+    "wof:lastmodified":1566425392,
     "wof:name":"Sainte-Paule",
     "wof:parent_id":890456821,
     "wof:placetype":"locality",

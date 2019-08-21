@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9930.980343,
     "geom:bbox":"-121.4433444,49.3971012,-121.4408895,49.3978426",
     "geom:latitude":49.397543,
     "geom:longitude":-121.44237,
     "iso:country":"CA",
     "lbl:latitude":49.397479,
     "lbl:longitude":-121.442536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.397479,
     "mps:longitude":-121.442536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tunnel 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744783,
-    "wof:lastmodified":1533335899,
+    "wof:lastmodified":1566425896,
     "wof:name":"Tunnel 6",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

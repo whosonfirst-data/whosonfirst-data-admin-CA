@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002052,
+    "geom:area_square_m":16640166.57375,
     "geom:bbox":"-95.3085828,48.99914,-95.2176177,49.0370306",
     "geom:latitude":49.016898,
     "geom:longitude":-95.257662,
     "iso:country":"CA",
     "lbl:latitude":49.017791,
     "lbl:longitude":-95.248567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.017791,
     "mps:longitude":-95.248567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buffalo Point 36"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745905,
-    "wof:lastmodified":1531526481,
+    "wof:lastmodified":1566425973,
     "wof:name":"Buffalo Point 36",
     "wof:parent_id":1158869003,
     "wof:placetype":"locality",

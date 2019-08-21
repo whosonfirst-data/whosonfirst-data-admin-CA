@@ -14,16 +14,18 @@
     "geom:longitude":-112.866762,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":2095,
     "gn:population":2095,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":49.416927,
     "lbl:longitude":-112.867107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.416927,
     "mps:longitude":-112.867107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0433\u0440\u0430\u0442\u0445"
     ],
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":983.0,
     "wd:latitude":"49.4239",
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":890456203,
-    "wof:lastmodified":1563286188,
+    "wof:lastmodified":1566426061,
     "wof:name":"Magrath",
     "wof:parent_id":1158863167,
     "wof:placetype":"locality",

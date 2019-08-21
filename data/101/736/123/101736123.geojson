@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":44.575696,
     "lbl:longitude":-80.92712,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.575696,
     "mps:longitude":-80.92712,
     "mz:hierarchy_label":1,
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":44.566667,
     "wd:longitude":-80.933333,
@@ -215,7 +217,6 @@
         "gn:id":6095645,
         "gp:id":4024,
         "qs:id":960358,
-        "qs_pg:id":960358,
         "wd:id":"Q1017735",
         "wk:page":"Owen Sound"
     },
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":101736123,
-    "wof:lastmodified":1563284544,
+    "wof:lastmodified":1566425450,
     "wof:name":"Owen Sound",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",

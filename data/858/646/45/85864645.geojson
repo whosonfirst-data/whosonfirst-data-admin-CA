@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5057740.667226,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.519394,43.433622,-80.519394,43.433622",
     "geom:latitude":43.433622,
     "geom:longitude":-80.519394,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.524394,43.428622,-80.514394,43.438622",
     "lbl:latitude":43.433622,
     "lbl:longitude":-80.519394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.435285,
     "mps:longitude":-80.526121,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Victoria Hills"
-    ],
-    "name:unk_x_variant":[
         "Victoria Hills"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399847,
-        "qs:id":14776,
-        "qs_pg:id":14776
+        "qs:id":14776
     },
     "wof:country":"CA",
     "wof:geomhash":"f3008c24a04054b4c9d517bc5ac9cacd",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870944,
+    "wof:lastmodified":1566424986,
     "wof:name":"Victoria Hills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

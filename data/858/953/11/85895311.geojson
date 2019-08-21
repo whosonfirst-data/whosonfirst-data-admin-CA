@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19982563.934346,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.735659,43.548089,-79.735659,43.548089",
     "geom:latitude":43.548089,
     "geom:longitude":-79.735659,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.740659,43.543089,-79.730659,43.553089",
     "lbl:latitude":43.548089,
     "lbl:longitude":-79.735659,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.542299,
     "mps:longitude":-79.733444,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Churchill Meadows"
-    ],
-    "name:unk_x_variant":[
         "Churchill Meadows"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,9 +59,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740755,
         85633041,
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931377,
+    "wof:lastmodified":1566424931,
     "wof:name":"Churchill Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

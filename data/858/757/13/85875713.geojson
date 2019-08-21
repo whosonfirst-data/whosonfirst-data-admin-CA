@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.34102,
     "lbl:longitude":-123.112679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.366113,
     "mps:longitude":-123.031011,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
         "Capilano"
     ],
     "name:ita_x_preferred":[
-        "Capilano"
-    ],
-    "name:unk_x_variant":[
         "Capilano"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -79,7 +77,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":90,
     "wof:belongsto":[
         85682117,
@@ -91,8 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856778,
-        "qs:id":1089598,
-        "qs_pg:id":1089598
+        "qs:id":1089598
     },
     "wof:country":"CA",
     "wof:geomhash":"5769044da0a2407b999896bec8ceba3e",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170861,
+    "wof:lastmodified":1566424982,
     "wof:name":"Capilano",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

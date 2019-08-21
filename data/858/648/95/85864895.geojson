@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":649942.316416,
+    "geom:area_square_m":649942.316412,
     "geom:bbox":"-113.55532768,53.5357742185,-113.535709892,53.5494485182",
     "geom:latitude":53.540767,
     "geom:longitude":-113.544573,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.542716,
     "lbl:longitude":-113.549496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.541811,
     "mps:longitude":-113.549281,
     "mz:hierarchy_label":1,
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191575,
@@ -50,8 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404816,
-        "qs:id":367405,
-        "qs_pg:id":367405
+        "qs:id":367405
     },
     "wof:country":"CA",
     "wof:geomhash":"d7d8639597adfd2367c57fdbac298fd5",
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270455,
+    "wof:lastmodified":1566424987,
     "wof:name":"River Valley Glenora",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

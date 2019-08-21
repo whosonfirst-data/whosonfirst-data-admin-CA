@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":58.398448,
     "lbl:longitude":-111.499309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.398448,
     "mps:longitude":-111.499309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Old Fort 217"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101747147,
-    "wof:lastmodified":1561844423,
+    "wof:lastmodified":1566425695,
     "wof:name":"Old Fort 217",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

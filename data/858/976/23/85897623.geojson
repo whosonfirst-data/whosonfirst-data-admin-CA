@@ -18,6 +18,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.450552,
     "lbl:longitude":-73.597408,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.45489,
     "mps:longitude":-73.600424,
     "mz:hierarchy_label":1,
@@ -53,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":45.4557,
     "wd:longitude":-73.5926,
     "wd:wordcount":863,
@@ -69,7 +70,6 @@
     "wof:concordances":{
         "gp:id":56022951,
         "qs:id":1090982,
-        "qs_pg:id":1090982,
         "wd:id":"Q3559086"
     },
     "wof:country":"CA",
@@ -89,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563282007,
+    "wof:lastmodified":1566424963,
     "wof:name":"Ville \u00c9mard",
     "wof:parent_id":1108955759,
     "wof:placetype":"neighbourhood",

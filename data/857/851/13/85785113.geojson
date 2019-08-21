@@ -12,8 +12,10 @@
     "gn:latitude":42.33339,
     "gn:longitude":-81.99978,
     "iso:country":"CA",
+    "lbl:bbox":"-82.006801,42.32318,-81.996801,42.33318",
     "lbl:latitude":42.32818,
     "lbl:longitude":-82.001801,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.33653,
     "mps:longitude":-81.998203,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "Blenheim"
     ],
     "name:swe_x_preferred":[
-        "Blenheim"
-    ],
-    "name:unk_x_variant":[
         "Blenheim"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2406,
     "wof:belongsto":[
         102191575,
@@ -92,7 +91,6 @@
         "gn:id":5903742,
         "gp:id":4355,
         "qs:id":1200730,
-        "qs_pg:id":1200730,
         "wd:id":"Q2906399",
         "wk:page":"Blenheim, Ontario"
     },
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281701,
+    "wof:lastmodified":1566424895,
     "wof:name":"Blenheim",
     "wof:parent_id":101735857,
     "wof:placetype":"neighbourhood",

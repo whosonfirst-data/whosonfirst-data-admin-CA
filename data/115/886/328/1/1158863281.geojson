@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.369338,
     "lbl:longitude":-114.967617,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.369338,
     "mps:longitude":-114.967617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bighorn No. 8"
     ],
@@ -28,7 +31,7 @@
     "reversegeo:longitude":-114.967617,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1988-01-01",
     "wd:population":1334,
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1158863281,
-    "wof:lastmodified":1554759648,
+    "wof:lastmodified":1566426329,
     "wof:name":"Bighorn No. 8",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

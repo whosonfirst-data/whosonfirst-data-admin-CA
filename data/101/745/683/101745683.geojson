@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
+    "geom:area_square_m":1890886.109488,
     "geom:bbox":"-88.3241895,49.0608936,-88.2897377,49.0722328",
     "geom:latitude":49.065301,
     "geom:longitude":-88.31174,
     "iso:country":"CA",
     "lbl:latitude":49.06393,
     "lbl:longitude":-88.301171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.06393,
     "mps:longitude":-88.301171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Rock Indian Reserve No. 53"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745683,
-    "wof:lastmodified":1533335674,
+    "wof:lastmodified":1566425977,
     "wof:name":"Red Rock Indian Reserve No. 53",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

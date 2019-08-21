@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":838108.796532,
+    "geom:area_square_m":838108.796531,
     "geom:bbox":"-75.6650509996,45.362474,-75.6501159125,45.3739277687",
     "geom:latitude":45.368138,
     "geom:longitude":-75.657533,
     "iso:country":"CA",
     "lbl:latitude":45.36812,
     "lbl:longitude":-75.657532,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.36812,
     "mps:longitude":-75.657532,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-75.657532,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108978111,
-    "wof:lastmodified":1533277881,
+    "wof:lastmodified":1566425269,
     "wof:name":"Ellwood",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

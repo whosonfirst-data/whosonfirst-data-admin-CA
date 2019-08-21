@@ -11,8 +11,10 @@
     "geom:longitude":-79.454776,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.459776,43.872043,-79.449776,43.882043",
     "lbl:latitude":43.877043,
     "lbl:longitude":-79.454776,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.869957,
     "mps:longitude":-79.463064,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u043c\u043b\u0438\u043d\u043e\u0432\u0438\u0439 \u0441\u0442\u0430\u0432"
     ],
-    "name:unk_x_variant":[
-        "Mill Pond"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6173577,
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":376,
     "wof:belongsto":[
         102191575,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gp:id":55999637,
         "qs:id":1355105,
-        "qs_pg:id":1355105,
         "wd:id":"Q1712253"
     },
     "wof:country":"CA",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282087,
+    "wof:lastmodified":1566424977,
     "wof:name":"Mill Pond",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

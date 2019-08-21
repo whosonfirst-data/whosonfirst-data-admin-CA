@@ -12,8 +12,10 @@
     "gn:latitude":42.43339,
     "gn:longitude":-81.89978,
     "iso:country":"CA",
+    "lbl:bbox":"-81.892393,42.432451,-81.882393,42.442451",
     "lbl:latitude":42.437451,
     "lbl:longitude":-81.887393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.439007,
     "mps:longitude":-81.892883,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Ridgetown"
     ],
     "name:nld_x_preferred":[
-        "Ridgetown"
-    ],
-    "name:unk_x_variant":[
         "Ridgetown"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":886,
     "wof:belongsto":[
         102191575,
@@ -80,7 +79,6 @@
         "gn:id":6122230,
         "gp:id":4354,
         "qs:id":1200729,
-        "qs_pg:id":1200729,
         "wd:id":"Q7332787",
         "wk:page":"Ridgetown"
     },
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281699,
+    "wof:lastmodified":1566424895,
     "wof:name":"Ridgetown",
     "wof:parent_id":101735857,
     "wof:placetype":"neighbourhood",

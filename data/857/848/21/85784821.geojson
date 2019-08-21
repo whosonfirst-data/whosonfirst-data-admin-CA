@@ -12,8 +12,10 @@
     "gn:latitude":46.20787,
     "gn:longitude":-60.25606,
     "iso:country":"CA",
+    "lbl:bbox":"-60.253278,46.205836,-60.243278,46.215836",
     "lbl:latitude":46.210836,
     "lbl:longitude":-60.248278,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.210256,
     "mps:longitude":-60.247457,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:swe_x_preferred":[
         "North Sydney"
     ],
-    "name:unk_x_variant":[
-        "North Sydney"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6354908,
@@ -84,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -94,8 +93,7 @@
     "wof:concordances":{
         "gn:id":6930307,
         "gp:id":1104,
-        "qs:id":895706,
-        "qs_pg:id":895706
+        "qs:id":895706
     },
     "wof:country":"CA",
     "wof:geomhash":"b384fd328ad7c303fecacddd1ceef1a6",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170653,
+    "wof:lastmodified":1566424896,
     "wof:name":"North Sydney",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

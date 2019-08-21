@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
+    "geom:area_square_m":681358.835218,
     "geom:bbox":"-133.2399504,59.2291159,-133.2196418,59.2363559",
     "geom:latitude":59.232569,
     "geom:longitude":-133.227235,
     "iso:country":"CA",
     "lbl:latitude":59.232736,
     "lbl:longitude":-133.226601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.232736,
     "mps:longitude":-133.226601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Silver Salmon Lake 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742799,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425924,
     "wof:name":"Silver Salmon Lake 5",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.671435,
     "lbl:longitude":-72.902088,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.671435,
     "mps:longitude":-72.902088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Les Maskoutains"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Les Maskoutains",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2454",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890457827,
-    "wof:lastmodified":1563286355,
+    "wof:lastmodified":1566426116,
     "wof:name":"Les Maskoutains",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

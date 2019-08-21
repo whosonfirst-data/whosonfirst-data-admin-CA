@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":52417.928119,
     "geom:bbox":"-125.0802554,52.9885514,-125.0763593,52.9903595",
     "geom:latitude":52.989455,
     "geom:longitude":-125.078308,
     "iso:country":"CA",
     "lbl:latitude":52.989455,
     "lbl:longitude":-125.07831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.989455,
     "mps:longitude":-125.07831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cluchuta Lake 10B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747161,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566425531,
     "wof:name":"Cluchuta Lake 10B",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

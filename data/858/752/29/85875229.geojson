@@ -11,8 +11,10 @@
     "geom:longitude":-104.577185,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-104.582185,50.424672,-104.572185,50.434672",
     "lbl:latitude":50.429672,
     "lbl:longitude":-104.577185,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.430375,
     "mps:longitude":-104.574876,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Boot Hill"
     ],
-    "name:unk_x_variant":[
-        "Boothill"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u7279\u5c71"
     ],
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1503,
     "wof:belongsto":[
         85682113,
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gp:id":55856394,
         "qs:id":897378,
-        "qs_pg:id":897378,
         "wd:id":"Q1622967"
     },
     "wof:country":"CA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281787,
+    "wof:lastmodified":1566424926,
     "wof:name":"Boothill",
     "wof:parent_id":101739917,
     "wof:placetype":"neighbourhood",

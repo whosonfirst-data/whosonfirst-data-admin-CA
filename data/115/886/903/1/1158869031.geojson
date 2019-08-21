@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":63.745705,
     "lbl:longitude":-116.362218,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":63.745705,
     "mps:longitude":-116.362218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Region 3"
     ],
@@ -23,7 +26,7 @@
         "Region 3"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Region 3",
     "statcan:cdtype":"REG",
     "statcan:cduid":"6103",
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1158869031,
-    "wof:lastmodified":1554759664,
+    "wof:lastmodified":1566426283,
     "wof:name":"Region 3",
     "wof:parent_id":85682067,
     "wof:placetype":"county",

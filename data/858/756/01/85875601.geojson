@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10197475.72054,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.262128,43.138307,-80.262128,43.138307",
     "geom:latitude":43.138307,
     "geom:longitude":-80.262128,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.267128,43.133307,-80.257128,43.143307",
     "lbl:latitude":43.138307,
     "lbl:longitude":-80.262128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.144633,
     "mps:longitude":-80.250028,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "East Ward"
-    ],
-    "name:unk_x_variant":[
         "East Ward"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856701,
-        "qs:id":1089587,
-        "qs_pg:id":1089587
+        "qs:id":1089587
     },
     "wof:country":"CA",
     "wof:geomhash":"bccae5b964c8460b5fa92ed09b859a56",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872170,
+    "wof:lastmodified":1566424973,
     "wof:name":"East Ward",
     "wof:parent_id":101735567,
     "wof:placetype":"neighbourhood",

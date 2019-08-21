@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.929764,
     "lbl:longitude":-77.968132,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.929764,
     "mps:longitude":-77.968132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alnwick/Haldimand"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1663,
     "wof:belongsto":[
         102191575,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101736263,
-    "wof:lastmodified":1563284536,
+    "wof:lastmodified":1566425449,
     "wof:name":"Alnwick/Haldimand",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

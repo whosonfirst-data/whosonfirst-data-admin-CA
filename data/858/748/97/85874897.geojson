@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1754110.122991,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.898413,43.244725,-79.898413,43.244725",
     "geom:latitude":43.244725,
     "geom:longitude":-79.898413,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.903413,43.239725,-79.893413,43.249725",
     "lbl:latitude":43.244725,
     "lbl:longitude":-79.898413,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.247327,
     "mps:longitude":-79.897577,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Kirkendall South"
-    ],
-    "name:unk_x_variant":[
         "Kirkendall South"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856205,
-        "qs:id":1089518,
-        "qs_pg:id":1089518
+        "qs:id":1089518
     },
     "wof:country":"CA",
     "wof:geomhash":"60c3e1b5fa5503a0c0612ab90ece6377",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871954,
+    "wof:lastmodified":1566424965,
     "wof:name":"Kirkendall South",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

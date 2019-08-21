@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.958739,
     "lbl:longitude":-102.663278,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.958739,
     "mps:longitude":-102.663278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Preeceville"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.965,
     "wd:longitude":-102.667,
@@ -75,7 +78,6 @@
         "gn:id":6112862,
         "gp:id":2411,
         "qs:id":160360,
-        "qs_pg:id":160360,
         "wd:id":"Q1916526",
         "wk:page":"Preeceville"
     },
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284005,
+    "wof:lastmodified":1566425365,
     "wof:name":"Preeceville",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

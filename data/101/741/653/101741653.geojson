@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
+    "geom:area_square_m":4480450.938433,
     "geom:bbox":"-110.5487273,55.5733821,-110.4843454,55.5989875",
     "geom:latitude":55.586671,
     "geom:longitude":-110.516376,
     "iso:country":"CA",
     "lbl:latitude":55.583919,
     "lbl:longitude":-110.526925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.583919,
     "mps:longitude":-110.526925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Winefred Lake 194B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741653,
-    "wof:lastmodified":1533250161,
+    "wof:lastmodified":1566425826,
     "wof:name":"Winefred Lake 194B",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

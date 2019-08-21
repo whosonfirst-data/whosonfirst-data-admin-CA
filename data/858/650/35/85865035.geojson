@@ -11,8 +11,10 @@
     "geom:longitude":-123.959865,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.964865,49.191148,-123.954865,49.201148",
     "lbl:latitude":49.196148,
     "lbl:longitude":-123.959865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.198092,
     "mps:longitude":-123.968512,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Departure Bay"
     ],
     "name:eng_x_preferred":[
-        "Departure Bay"
-    ],
-    "name:unk_x_variant":[
         "Departure Bay"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1281,
     "wof:belongsto":[
         85682117,
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gp:id":23404996,
         "qs:id":1087718,
-        "qs_pg:id":1087718,
         "wd:id":"Q5260580"
     },
     "wof:country":"CA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281932,
+    "wof:lastmodified":1566424949,
     "wof:name":"Departure Bay",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

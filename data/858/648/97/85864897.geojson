@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":863342.00707,
+    "geom:area_square_m":863342.007071,
     "geom:bbox":"-113.565824575,53.5509608442,-113.549796964,53.5589209332",
     "geom:latitude":53.554854,
     "geom:longitude":-113.558224,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.55471,
     "lbl:longitude":-113.558771,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.554994,
     "mps:longitude":-113.556306,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -47,7 +48,6 @@
     "wof:concordances":{
         "gp:id":23404817,
         "qs:id":367403,
-        "qs_pg:id":367403,
         "wd:id":"Q7055493"
     },
     "wof:country":"CA",
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270456,
+    "wof:lastmodified":1566424989,
     "wof:name":"North Glenora",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

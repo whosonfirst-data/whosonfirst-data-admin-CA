@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.353202,
     "lbl:longitude":-122.853263,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.353202,
     "mps:longitude":-122.853263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0645\u0648\u0631"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.3144,
     "wd:longitude":-122.856,
@@ -92,7 +95,6 @@
         "gn:id":5885383,
         "gp:id":23404887,
         "qs:id":244886,
-        "qs_pg:id":244886,
         "wd:id":"Q557967",
         "wk:page":"Anmore"
     },
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101741059,
-    "wof:lastmodified":1563285210,
+    "wof:lastmodified":1566425825,
     "wof:name":"Anmore",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

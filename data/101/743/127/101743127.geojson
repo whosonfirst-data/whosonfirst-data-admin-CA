@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":88939.030421,
     "geom:bbox":"-128.0569134,50.8734333,-128.050534,50.8769742",
     "geom:latitude":50.875008,
     "geom:longitude":-128.054212,
     "iso:country":"CA",
     "lbl:latitude":50.874566,
     "lbl:longitude":-128.054819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.874566,
     "mps:longitude":-128.054819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nahwitti 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743127,
-    "wof:lastmodified":1533335873,
+    "wof:lastmodified":1566425913,
     "wof:name":"Nahwitti 4",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010163,
+    "geom:area_square_m":73561162.626107,
     "geom:bbox":"-110.005306,54.0354152,-109.6280651,54.2531342",
     "geom:latitude":54.171552,
     "geom:longitude":-109.862191,
     "iso:country":"CA",
     "lbl:latitude":54.223869,
     "lbl:longitude":-109.939982,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.223869,
     "mps:longitude":-109.939982,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thunderchild First Nation Ir 115X"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101747899,
-    "wof:lastmodified":1531525193,
+    "wof:lastmodified":1566425679,
     "wof:name":"Thunderchild First Nation Ir 115X",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

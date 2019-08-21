@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":57979.621377,
     "geom:bbox":"-73.2330347,47.7503892,-73.2298137,47.7535167",
     "geom:latitude":47.752238,
     "geom:longitude":-73.231138,
     "iso:country":"CA",
     "lbl:latitude":47.752325,
     "lbl:longitude":-73.231007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.752325,
     "mps:longitude":-73.231007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coucoucache Indian Reserve No. 24A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747663,
-    "wof:lastmodified":1533335685,
+    "wof:lastmodified":1566425675,
     "wof:name":"Coucoucache Indian Reserve No. 24A",
     "wof:parent_id":890456839,
     "wof:placetype":"locality",

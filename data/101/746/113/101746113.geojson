@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
+    "geom:area_square_m":168996.733055,
     "geom:bbox":"-129.1244263,53.0574321,-129.1176082,53.0610621",
     "geom:latitude":53.059171,
     "geom:longitude":-129.121209,
     "iso:country":"CA",
     "lbl:latitude":53.059248,
     "lbl:longitude":-129.121707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.059248,
     "mps:longitude":-129.121707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kahas 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746113,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566425787,
     "wof:name":"Kahas 7",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

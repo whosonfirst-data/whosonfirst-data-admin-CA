@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
+    "geom:area_square_m":2659483.064947,
     "geom:bbox":"-95.2059169,49.359623,-95.1752331,49.3733678",
     "geom:latitude":49.365225,
     "geom:longitude":-95.189425,
     "iso:country":"CA",
     "lbl:latitude":49.364935,
     "lbl:longitude":-95.189131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.364935,
     "mps:longitude":-95.189131,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Northwest Angle Indian Reserve No. 34C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741263,
-    "wof:lastmodified":1531526480,
+    "wof:lastmodified":1566425828,
     "wof:name":"Northwest Angle Indian Reserve No. 34C",
     "wof:parent_id":1158869003,
     "wof:placetype":"locality",

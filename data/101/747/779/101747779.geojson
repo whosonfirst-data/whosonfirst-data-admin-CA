@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5459.956765,
     "geom:bbox":"-124.0535645,49.6295676,-124.0523835,49.6303583",
     "geom:latitude":49.629936,
     "geom:longitude":-124.052961,
     "iso:country":"CA",
     "lbl:latitude":49.629933,
     "lbl:longitude":-124.052868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.629933,
     "mps:longitude":-124.052868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Sekaleton) No 21"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747779,
-    "wof:lastmodified":1533335925,
+    "wof:lastmodified":1566425614,
     "wof:name":"Sechelt Band Lands (Sekaleton) No 21",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9055409.749318,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.962216,45.31408,-73.962216,45.31408",
     "geom:latitude":45.31408,
     "geom:longitude":-73.962216,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.967216,45.30908,-73.957216,45.31908",
     "lbl:latitude":45.31408,
     "lbl:longitude":-73.962216,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.317601,
     "mps:longitude":-73.969159,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Parc archeologique de la Pointe-du-Buisson"
     ],
     "name:fra_x_preferred":[
-        "Parc archeologique de la Pointe-du-Buisson"
-    ],
-    "name:unk_x_variant":[
         "Parc archeologique de la Pointe-du-Buisson"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999736,
-        "qs:id":897499,
-        "qs_pg:id":897499
+        "qs:id":897499
     },
     "wof:country":"CA",
     "wof:geomhash":"4651c8993e14dcd402c9e98ab559499f",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931484,
+    "wof:lastmodified":1566424971,
     "wof:name":"Parc archeologique de la Pointe-du-Buisson",
     "wof:parent_id":101736823,
     "wof:placetype":"neighbourhood",

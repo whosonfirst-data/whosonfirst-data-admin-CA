@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.950659,
     "lbl:longitude":-73.08095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.950659,
     "mps:longitude":-73.08095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Victoire-de-Sorel"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101737649,
-    "wof:lastmodified":1563284259,
+    "wof:lastmodified":1566425404,
     "wof:name":"Sainte-Victoire-de-Sorel",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

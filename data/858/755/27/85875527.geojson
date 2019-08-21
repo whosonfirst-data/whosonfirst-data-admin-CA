@@ -11,8 +11,10 @@
     "geom:longitude":-80.263943,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.268943,43.569481,-80.258943,43.579481",
     "lbl:latitude":43.574481,
     "lbl:longitude":-80.263943,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.577464,
     "mps:longitude":-80.277751,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:swe_x_preferred":[
         "Waverley"
     ],
-    "name:unk_x_variant":[
-        "Waverley"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5967629,
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -103,8 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856648,
-        "qs:id":1089579,
-        "qs_pg:id":1089579
+        "qs:id":1089579
     },
     "wof:country":"CA",
     "wof:geomhash":"694d1cd99fa6289f5bb687b284c5d556",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170667,
+    "wof:lastmodified":1566424927,
     "wof:name":"Waverley",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.784015,
     "lbl:longitude":-64.824464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.784015,
     "mps:longitude":-64.824464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633 \u0643\u0627\u0631\u0627\u0643\u0648\u062a"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.7859,
     "wd:longitude":-64.8188,
     "wd:wordcount":116,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101735179,
-    "wof:lastmodified":1563285512,
+    "wof:lastmodified":1566425885,
     "wof:name":"Bas-Caraquet",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

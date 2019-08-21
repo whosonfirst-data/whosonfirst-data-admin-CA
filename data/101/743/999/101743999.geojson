@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":87128.069693,
     "geom:bbox":"-125.5513794,50.5035486,-125.5466353,50.5074051",
     "geom:latitude":50.506086,
     "geom:longitude":-125.548684,
     "iso:country":"CA",
     "lbl:latitude":50.506019,
     "lbl:longitude":-125.548163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.506019,
     "mps:longitude":-125.548163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loughborough 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743999,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566425907,
     "wof:name":"Loughborough 3",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

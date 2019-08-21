@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":677819.036471,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.326328,53.526732,-113.326328,53.526732",
     "geom:latitude":53.526732,
     "geom:longitude":-113.326328,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.331328,53.521732,-113.321328,53.531732",
     "lbl:latitude":53.526732,
     "lbl:longitude":-113.326328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.537506,
     "mps:longitude":-113.330573,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -45,8 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998568,
-        "qs:id":1306512,
-        "qs_pg:id":1306512
+        "qs:id":1306512
     },
     "wof:country":"CA",
     "wof:geomhash":"7be01caa4c60541e7338570f6cbf68f1",
@@ -64,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250199,
+    "wof:lastmodified":1566424997,
     "wof:name":"Woodbridge Farms",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
+    "geom:area_square_m":420497.849763,
     "geom:bbox":"-124.2063239,54.461455,-124.1969076,54.4677262",
     "geom:latitude":54.464567,
     "geom:longitude":-124.201587,
     "iso:country":"CA",
     "lbl:latitude":54.464588,
     "lbl:longitude":-124.201588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.464588,
     "mps:longitude":-124.201588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Road 19"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745253,
-    "wof:lastmodified":1533335905,
+    "wof:lastmodified":1566425979,
     "wof:name":"North Road 19",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

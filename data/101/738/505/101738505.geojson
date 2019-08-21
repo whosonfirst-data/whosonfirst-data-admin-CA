@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.381524,
     "lbl:longitude":-71.602065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.381524,
     "mps:longitude":-71.602065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u062a\u0631"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101738505,
-    "wof:lastmodified":1563284573,
+    "wof:lastmodified":1566425455,
     "wof:name":"Lyster",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

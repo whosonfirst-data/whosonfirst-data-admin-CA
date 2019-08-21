@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":45717.092044,
     "geom:bbox":"-94.3549549,55.5545719,-94.3499946,55.5571922",
     "geom:latitude":55.555912,
     "geom:longitude":-94.352479,
     "iso:country":"CA",
     "lbl:latitude":55.555872,
     "lbl:longitude":-94.35248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.555872,
     "mps:longitude":-94.35248,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oxford House 24D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101746523,
-    "wof:lastmodified":1533070064,
+    "wof:lastmodified":1566425787,
     "wof:name":"Oxford House 24D",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

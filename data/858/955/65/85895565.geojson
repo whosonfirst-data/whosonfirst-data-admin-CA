@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12568658.869725,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.902509,43.656443,-79.902509,43.656443",
     "geom:latitude":43.656443,
     "geom:longitude":-79.902509,
     "iso:country":"CA",
+    "lbl:bbox":"-79.907509,43.651443,-79.897509,43.661443",
     "lbl:latitude":43.656443,
     "lbl:longitude":-79.902509,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.656019,
     "mps:longitude":-79.892491,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Georgetown South"
     ],
     "name:eng_x_variant":[
-        "Georgetown South"
-    ],
-    "name:unk_x_variant":[
         "Georgetown South"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,9 +60,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736091,
         85633041,
@@ -93,7 +91,7 @@
         }
     ],
     "wof:id":85895565,
-    "wof:lastmodified":1531931439,
+    "wof:lastmodified":1566424939,
     "wof:name":"Georgetown South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

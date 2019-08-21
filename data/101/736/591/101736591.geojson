@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.654979,
     "lbl:longitude":-74.94717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.654979,
     "mps:longitude":-74.94717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Montebello"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":562,
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,6 @@
         "gn:id":6076939,
         "gp:id":3525,
         "qs:id":898229,
-        "qs_pg:id":898229,
         "wd:id":"Q1945995",
         "wk:page":"Montebello, Quebec"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101736591,
-    "wof:lastmodified":1563284486,
+    "wof:lastmodified":1566425440,
     "wof:name":"Montebello",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

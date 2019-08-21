@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003214,
+    "geom:area_square_m":22274912.325648,
     "geom:bbox":"-108.8824205,55.8876455,-108.8235565,55.9512717",
     "geom:latitude":55.915331,
     "geom:longitude":-108.851444,
     "iso:country":"CA",
     "lbl:latitude":55.915429,
     "lbl:longitude":-108.851444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.915429,
     "mps:longitude":-108.851444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turnor Lake I.R. 194"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745919,
-    "wof:lastmodified":1531525150,
+    "wof:lastmodified":1566425983,
     "wof:name":"Turnor Lake I.R. 194",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

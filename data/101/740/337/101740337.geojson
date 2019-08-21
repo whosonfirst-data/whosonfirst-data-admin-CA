@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.683424,
     "lbl:longitude":-103.107283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.683424,
     "mps:longitude":-103.107283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "McLeod No. 185"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101740337,
-    "wof:lastmodified":1561844382,
+    "wof:lastmodified":1566425486,
     "wof:name":"McLeod No. 185",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.292692,
     "lbl:longitude":-80.179735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.292692,
     "mps:longitude":-80.179735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parry Island First Nation"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101747237,
-    "wof:lastmodified":1563285010,
+    "wof:lastmodified":1566425677,
     "wof:name":"Parry Island First Nation",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
+    "geom:area_square_m":566842.789585,
     "geom:bbox":"-121.4252341,49.5158414,-121.4149032,49.5296761",
     "geom:latitude":49.521655,
     "geom:longitude":-121.420801,
     "iso:country":"CA",
     "lbl:latitude":49.518393,
     "lbl:longitude":-121.417809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.518393,
     "mps:longitude":-121.417809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Albert Flat 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746885,
-    "wof:lastmodified":1533335922,
+    "wof:lastmodified":1566425774,
     "wof:name":"Albert Flat 5",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

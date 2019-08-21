@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.097351,
     "lbl:longitude":-70.34574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.097351,
     "mps:longitude":-70.34574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0644\u0633\u0644\u064a\u062a"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
         102191575,
@@ -105,7 +108,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284196,
+    "wof:lastmodified":1566425390,
     "wof:name":"L'Islet",
     "wof:parent_id":890458609,
     "wof:placetype":"locality",

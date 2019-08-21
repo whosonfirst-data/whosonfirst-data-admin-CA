@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.806283,
     "lbl:longitude":-79.267077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.827551,
     "mps:longitude":-79.263678,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Agincourt North (129)",
     "torsdfa:AREA_S_CD":"129",
     "wd:latitude":43.79,
@@ -63,7 +64,6 @@
         "gn:id":5882600,
         "gp:id":55999213,
         "qs:id":1311935,
-        "qs_pg:id":1311935,
         "wd:id":"Q4692573"
     },
     "wof:controlled":[],
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281856,
+    "wof:lastmodified":1566424936,
     "wof:name":"Agincourt North",
     "wof:parent_id":1108833323,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
+    "geom:area_square_m":1268006.168419,
     "geom:bbox":"-125.6113218,51.1016052,-125.5966995,51.1234704",
     "geom:latitude":51.112193,
     "geom:longitude":-125.603888,
     "iso:country":"CA",
     "lbl:latitude":51.112067,
     "lbl:longitude":-125.599078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.112067,
     "mps:longitude":-125.599078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsawwati 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744015,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566425891,
     "wof:name":"Tsawwati 1",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

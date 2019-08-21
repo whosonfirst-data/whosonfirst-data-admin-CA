@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.57855,
     "lbl:longitude":-73.614866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.57855,
     "mps:longitude":-73.614866,
     "mz:hierarchy_label":1,
@@ -32,13 +33,13 @@
     "reversegeo:longitude":-73.614866,
     "src:geom":"can-mtlsmvt",
     "wof:belongsto":[
-        136251273,
         102191575,
         1108955949,
         85633041,
         101736545,
         1108955737,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1108959359,
-    "wof:lastmodified":1533277831,
+    "wof:lastmodified":1566425219,
     "wof:name":"Rene-Goupil",
     "wof:parent_id":1108955949,
     "wof:placetype":"neighbourhood",

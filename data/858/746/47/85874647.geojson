@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":917128.141034,
+    "geom:area_square_m":917128.141035,
     "geom:bbox":"-113.578099236,53.5397364701,-113.565666901,53.5510611563",
     "geom:latitude":53.545929,
     "geom:longitude":-113.571606,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.545386,
     "lbl:longitude":-113.571653,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.546835,
     "mps:longitude":-113.572079,
     "mz:hierarchy_label":1,
@@ -44,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +57,6 @@
     "wof:concordances":{
         "gp:id":55856020,
         "qs:id":381294,
-        "qs_pg:id":381294,
         "wd:id":"Q5611497"
     },
     "wof:country":"CA",
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566424967,
     "wof:name":"Grovenor",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-71.965942,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.970942,45.398465,-71.960942,45.408465",
     "lbl:latitude":45.403465,
     "lbl:longitude":-71.965942,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.407696,
     "mps:longitude":-71.96119,
     "mz:hierarchy_label":0,
@@ -141,9 +143,6 @@
     "name:ukr_x_preferred":[
         "Carrefour"
     ],
-    "name:unk_x_variant":[
-        "Carrefour"
-    ],
     "name:vie_x_preferred":[
         "Carrefour"
     ],
@@ -188,7 +187,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":5332,
     "wof:belongsto":[
         136251273,
@@ -201,7 +200,6 @@
     "wof:concordances":{
         "gp:id":55855679,
         "qs:id":774172,
-        "qs_pg:id":774172,
         "wd:id":"Q217599"
     },
     "wof:country":"CA",
@@ -220,7 +218,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563282032,
+    "wof:lastmodified":1566424967,
     "wof:name":"Carrefour",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

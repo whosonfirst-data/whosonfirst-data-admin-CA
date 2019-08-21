@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
+    "geom:area_square_m":8936450.853208,
     "geom:bbox":"-81.5213517,45.1705542,-81.4554699,45.207525",
     "geom:latitude":45.188352,
     "geom:longitude":-81.485928,
     "iso:country":"CA",
     "lbl:latitude":45.194447,
     "lbl:longitude":-81.493669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.194447,
     "mps:longitude":-81.493669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cape Croker Hunting Ground Indian Reserve No. 60B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741181,
-    "wof:lastmodified":1533335658,
+    "wof:lastmodified":1566425813,
     "wof:name":"Cape Croker Hunting Ground Indian Reserve No. 60B",
     "wof:parent_id":890457581,
     "wof:placetype":"locality",

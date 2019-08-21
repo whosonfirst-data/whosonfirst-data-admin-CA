@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.008997,
     "lbl:longitude":-68.678823,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":48.008997,
     "mps:longitude":-68.678823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u062f\u064a\u0633 \u0623\u0646\u062c\u0644\u064a\u0633"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
         "gn:id":6269202,
         "gp:id":23394395,
         "qs:id":617137,
-        "qs_pg:id":617137,
         "wd:id":"Q3214672",
         "wk:page":"Lac-des-Aigles, Quebec"
     },
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737711,
-    "wof:lastmodified":1563284330,
+    "wof:lastmodified":1566425414,
     "wof:name":"Lac-des-Aigles",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

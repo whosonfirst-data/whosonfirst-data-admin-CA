@@ -11,8 +11,10 @@
     "geom:longitude":-77.402598,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-77.407598,44.179809,-77.397598,44.189809",
     "lbl:latitude":44.184809,
     "lbl:longitude":-77.402598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.191386,
     "mps:longitude":-77.405726,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "West Hill"
     ],
     "name:swe_x_preferred":[
-        "West Hill"
-    ],
-    "name:unk_x_variant":[
         "West Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":89,
     "wof:belongsto":[
         85682057,
@@ -81,8 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856683,
-        "qs:id":230705,
-        "qs_pg:id":230705
+        "qs:id":230705
     },
     "wof:country":"CA",
     "wof:geomhash":"3395f93fe732c0fc55b08dfe3c91ece1",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170668,
+    "wof:lastmodified":1566424928,
     "wof:name":"West Hill",
     "wof:parent_id":101735759,
     "wof:placetype":"neighbourhood",

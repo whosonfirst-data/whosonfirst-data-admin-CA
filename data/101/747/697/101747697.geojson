@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.073802,
     "lbl:longitude":-66.757239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.073802,
     "mps:longitude":-66.757239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Listuguj"
     ],
@@ -80,7 +83,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101747697,
-    "wof:lastmodified":1563285005,
+    "wof:lastmodified":1566425674,
     "wof:name":"Listuguj",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",

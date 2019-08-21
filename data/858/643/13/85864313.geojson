@@ -11,8 +11,10 @@
     "geom:longitude":-52.834033,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-52.839033,47.557085,-52.829033,47.567085",
     "lbl:latitude":47.562085,
     "lbl:longitude":-52.834033,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.578842,
     "mps:longitude":-52.83081,
     "mz:hierarchy_label":0,
@@ -627,9 +629,6 @@
     "name:twi_x_preferred":[
         "Thorburn"
     ],
-    "name:unk_x_variant":[
-        "Thorburn"
-    ],
     "name:vec_x_preferred":[
         "Thorburn"
     ],
@@ -700,7 +699,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":203,
     "wof:belongsto":[
         102191575,
@@ -711,7 +710,6 @@
     "wof:concordances":{
         "gp:id":23389405,
         "qs:id":1318919,
-        "qs_pg:id":1318919,
         "wd:id":"Q2428886"
     },
     "wof:country":"CA",
@@ -729,7 +727,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281887,
+    "wof:lastmodified":1566424941,
     "wof:name":"Thorburn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

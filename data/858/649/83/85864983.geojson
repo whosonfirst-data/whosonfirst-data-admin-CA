@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.117669,
     "lbl:longitude":-113.933524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.126591,
     "mps:longitude":-113.937165,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191575,
@@ -52,7 +53,6 @@
     "wof:concordances":{
         "gp:id":23404876,
         "qs:id":482781,
-        "qs_pg:id":482781,
         "wd:id":"Q7685278"
     },
     "wof:country":"CA",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566424983,
     "wof:name":"Taradale",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

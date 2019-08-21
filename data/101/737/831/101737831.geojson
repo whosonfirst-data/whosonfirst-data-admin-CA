@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":48.424607,
     "lbl:longitude":-68.559021,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.424607,
     "mps:longitude":-68.559021,
     "mz:hierarchy_label":1,
@@ -296,7 +298,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.45,
     "wd:longitude":-68.533333,
@@ -313,7 +315,6 @@
         "gn:id":6354895,
         "gp:id":3640,
         "qs:id":224161,
-        "qs_pg:id":224161,
         "wd:id":"Q1336",
         "wk:page":"Rimouski"
     },
@@ -329,7 +330,7 @@
         }
     ],
     "wof:id":101737831,
-    "wof:lastmodified":1563284283,
+    "wof:lastmodified":1566425407,
     "wof:name":"Rimouski",
     "wof:parent_id":890456467,
     "wof:placetype":"locality",

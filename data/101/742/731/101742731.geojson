@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001733,
+    "geom:area_square_m":10937368.319986,
     "geom:bbox":"-107.2628399,59.2923385,-107.1441417,59.3105994",
     "geom:latitude":59.300225,
     "geom:longitude":-107.206195,
     "iso:country":"CA",
     "lbl:latitude":59.299719,
     "lbl:longitude":-107.194344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.299719,
     "mps:longitude":-107.194344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fond Du Lac I.R. 228"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742731,
-    "wof:lastmodified":1531525145,
+    "wof:lastmodified":1566425925,
     "wof:name":"Fond Du Lac I.R. 228",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

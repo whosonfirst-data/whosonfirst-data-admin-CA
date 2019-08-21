@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":50.448205,
     "lbl:longitude":-104.619116,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.448205,
     "mps:longitude":-104.619116,
     "mz:hierarchy_label":1,
@@ -407,7 +409,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":577.0,
     "wd:latitude":50.454722,
@@ -445,7 +447,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284099,
+    "wof:lastmodified":1566425377,
     "wof:megacity":0,
     "wof:name":"Regina",
     "wof:parent_id":1158868963,

@@ -14,10 +14,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.232337,
     "lbl:longitude":-70.770107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.232337,
     "mps:longitude":-70.770107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0641\u064a\u0644"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":230,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "gn:id":6295855,
         "gp:id":3490,
         "qs:id":384966,
-        "qs_pg:id":384966,
         "wd:id":"Q139422",
         "wk:page":"Beauceville, Quebec"
     },
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101737033,
-    "wof:lastmodified":1563284294,
+    "wof:lastmodified":1566425409,
     "wof:name":"Beauceville",
     "wof:parent_id":890457809,
     "wof:placetype":"locality",

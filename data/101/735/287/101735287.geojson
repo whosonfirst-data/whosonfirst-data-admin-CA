@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.816018,
     "lbl:longitude":-65.961266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.816018,
     "mps:longitude":-65.961266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.8285,
     "wd:longitude":-65.9554,
     "wd:wordcount":150,
@@ -70,7 +73,6 @@
         "gn:id":5913708,
         "gp:id":23392454,
         "qs:id":911035,
-        "qs_pg:id":911035,
         "wd:id":"Q977763",
         "wk:page":"Cambridge-Narrows"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101735287,
-    "wof:lastmodified":1563285332,
+    "wof:lastmodified":1566425853,
     "wof:name":"Cambridge-Narrows",
     "wof:parent_id":890457807,
     "wof:placetype":"locality",

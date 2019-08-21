@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.93048,
     "lbl:longitude":-72.415154,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.93048,
     "mps:longitude":-72.415154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saint-Cyrille-de-Wendover"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":243,
     "wof:belongsto":[
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101738321,
-    "wof:lastmodified":1563284755,
+    "wof:lastmodified":1566425482,
     "wof:name":"Saint-Cyrille-de-Wendover",
     "wof:parent_id":890457059,
     "wof:placetype":"locality",

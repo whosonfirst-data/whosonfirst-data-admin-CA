@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
+    "geom:area_square_m":166435.014278,
     "geom:bbox":"-63.2866706,45.32418,-63.2793254,45.3276729",
     "geom:latitude":45.325927,
     "geom:longitude":-63.282981,
     "iso:country":"CA",
     "lbl:latitude":45.325923,
     "lbl:longitude":-63.282982,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.325923,
     "mps:longitude":-63.282982,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Truro Indian Reserve No. 27A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741277,
-    "wof:lastmodified":1532597307,
+    "wof:lastmodified":1566425819,
     "wof:name":"Truro Indian Reserve No. 27A",
     "wof:parent_id":890458099,
     "wof:placetype":"locality",

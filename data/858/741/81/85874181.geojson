@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3763184.185292,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.979675,45.359863,-71.979675,45.359863",
     "geom:latitude":45.359863,
     "geom:longitude":-71.979675,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.984675,45.354863,-71.974675,45.364863",
     "lbl:latitude":45.359863,
     "lbl:longitude":-71.979675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.344403,
     "mps:longitude":-71.990927,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Chateaux-d'Eau"
     ],
     "name:fra_x_preferred":[
-        "Ch\u00e2teaux-d'Eau"
-    ],
-    "name:unk_x_variant":[
         "Ch\u00e2teaux-d'Eau"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -78,8 +77,7 @@
     ],
     "wof:concordances":{
         "gp:id":55855750,
-        "qs:id":774176,
-        "qs_pg:id":774176
+        "qs:id":774176
     },
     "wof:country":"CA",
     "wof:geomhash":"19825839073a5644662da5f95a1e6f5a",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871901,
+    "wof:lastmodified":1566424968,
     "wof:name":"Ch\u00e2teaux-d'Eau",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

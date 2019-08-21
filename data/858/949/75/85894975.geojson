@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.647712,
     "lbl:longitude":-79.699783,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.644096,
     "mps:longitude":-79.68911,
     "mz:hierarchy_label":0,
@@ -86,9 +87,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043b\u044e\u0437"
     ],
-    "name:unk_x_variant":[
-        "Gateway"
-    ],
     "name:vie_x_preferred":[
         "Gateway"
     ],
@@ -126,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":541,
     "wof:belongsto":[
         102191575,
@@ -138,8 +136,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998975,
-        "qs:id":479657,
-        "qs_pg:id":479657
+        "qs:id":479657
     },
     "wof:country":"CA",
     "wof:geomhash":"c904f02bbdc3af0aed24032465289474",
@@ -163,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170788,
+    "wof:lastmodified":1566424962,
     "wof:name":"Gateway",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

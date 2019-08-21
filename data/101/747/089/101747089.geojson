@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":403403.780537,
     "geom:bbox":"-122.5916125,52.657469,-122.5856009,52.6665264",
     "geom:latitude":52.661998,
     "geom:longitude":-122.588606,
     "iso:country":"CA",
     "lbl:latitude":52.661998,
     "lbl:longitude":-122.588606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.661998,
     "mps:longitude":-122.588606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lorin Meadow 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747089,
-    "wof:lastmodified":1533335922,
+    "wof:lastmodified":1566425651,
     "wof:name":"Lorin Meadow 9",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
+    "geom:area_square_m":757733.831764,
     "geom:bbox":"-115.6900787,49.6527705,-115.6751062,49.6619741",
     "geom:latitude":49.657097,
     "geom:longitude":-115.680903,
     "iso:country":"CA",
     "lbl:latitude":49.657121,
     "lbl:longitude":-115.679548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.657121,
     "mps:longitude":-115.679548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bummers Flat 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745637,
-    "wof:lastmodified":1533335915,
+    "wof:lastmodified":1566425978,
     "wof:name":"Bummers Flat 6",
     "wof:parent_id":890456529,
     "wof:placetype":"locality",

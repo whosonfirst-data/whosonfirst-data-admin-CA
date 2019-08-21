@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073509,
+    "geom:area_square_m":578637589.02642,
     "geom:bbox":"-100.5080899,50.3287183,-100.2307329,50.5945417",
     "geom:latitude":50.461614,
     "geom:longitude":-100.369354,
     "iso:country":"CA",
     "lbl:latitude":50.461587,
     "lbl:longitude":-100.369353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.461587,
     "mps:longitude":-100.369353,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Strathclair"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":176,
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,6 @@
         "gn:id":6157988,
         "gp:id":1763,
         "qs:id":71581,
-        "qs_pg:id":71581,
         "wd:id":"Q7622036"
     },
     "wof:country":"CA",
@@ -67,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531526343,
+    "wof:lastmodified":1566425842,
     "wof:name":"Strathclair",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

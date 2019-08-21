@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.488181,
     "lbl:longitude":-103.559169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.488181,
     "mps:longitude":-103.559169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Halbrite"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":111,
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283989,
+    "wof:lastmodified":1566425362,
     "wof:name":"Halbrite",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

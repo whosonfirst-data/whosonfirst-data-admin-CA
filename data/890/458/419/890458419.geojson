@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.706793,
     "lbl:longitude":-60.634305,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.706793,
     "mps:longitude":-60.634305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Richmond"
     ],
@@ -173,7 +176,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Richmond",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1216",
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":890458419,
-    "wof:lastmodified":1564173240,
+    "wof:lastmodified":1566426030,
     "wof:name":"Richmond",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

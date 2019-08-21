@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.549191,
     "lbl:longitude":-76.375472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.549191,
     "mps:longitude":-76.375472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0633\u062a\u0648\u0644"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":503,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "gn:id":5908999,
         "gp:id":23395597,
         "qs:id":1318997,
-        "qs_pg:id":1318997,
         "wd:id":"Q2925666",
         "wk:page":"Bristol, Quebec"
     },
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101737507,
-    "wof:lastmodified":1563284237,
+    "wof:lastmodified":1566425401,
     "wof:name":"Bristol",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

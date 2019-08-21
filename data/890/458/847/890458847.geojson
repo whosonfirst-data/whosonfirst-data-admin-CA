@@ -14,12 +14,13 @@
     "geom:longitude":-112.843978,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":70617,
     "gn:population":70617,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":49.693481,
     "lbl:longitude":-112.826181,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":49.693481,
     "mps:longitude":-112.826181,
     "mz:hierarchy_label":1,
@@ -315,7 +316,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":910.0,
     "wd:latitude":"49.694167",
@@ -348,7 +349,7 @@
         }
     ],
     "wof:id":890458847,
-    "wof:lastmodified":1563286065,
+    "wof:lastmodified":1566426033,
     "wof:name":"Lethbridge",
     "wof:parent_id":1158863203,
     "wof:placetype":"locality",

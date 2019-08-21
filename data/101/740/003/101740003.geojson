@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.305525,
     "lbl:longitude":-107.061911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.305525,
     "mps:longitude":-107.061911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shell Lake"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191575,
@@ -56,7 +59,6 @@
         "gn:id":6145984,
         "gp:id":1683,
         "qs:id":1018440,
-        "qs_pg:id":1018440,
         "wd:id":"Q2204490",
         "wk:page":"Shell Lake, Saskatchewan"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844393,
+    "wof:lastmodified":1566425513,
     "wof:name":"Shell Lake",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

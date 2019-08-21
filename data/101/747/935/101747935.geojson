@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002331,
+    "geom:area_square_m":18751482.349138,
     "geom:bbox":"-94.02346,49.3921143,-93.8286519,49.4497339",
     "geom:latitude":49.410115,
     "geom:longitude":-93.907129,
     "iso:country":"CA",
     "lbl:latitude":49.401879,
     "lbl:longitude":-93.893831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.401879,
     "mps:longitude":-93.893831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitefish Bay Indian Reserve No. 32A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747935,
-    "wof:lastmodified":1533335694,
+    "wof:lastmodified":1566425624,
     "wof:name":"Whitefish Bay Indian Reserve No. 32A",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

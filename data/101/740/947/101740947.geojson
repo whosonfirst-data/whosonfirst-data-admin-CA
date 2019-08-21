@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.2486,
     "lbl:longitude":-117.814278,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.2486,
     "mps:longitude":-117.814278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0648\u0633\u0628"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":558,
     "wof:belongsto":[
@@ -69,7 +72,6 @@
         "gn:id":6085665,
         "gp:id":9717,
         "qs:id":898360,
-        "qs_pg:id":898360,
         "wd:id":"Q2957435",
         "wk:page":"Nakusp"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101740947,
-    "wof:lastmodified":1561844387,
+    "wof:lastmodified":1566425500,
     "wof:name":"Nakusp",
     "wof:parent_id":890458089,
     "wof:placetype":"locality",

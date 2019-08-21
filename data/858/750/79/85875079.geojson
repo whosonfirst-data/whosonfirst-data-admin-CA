@@ -11,8 +11,10 @@
     "geom:longitude":-63.599477,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-63.604477,44.656569,-63.594477,44.666569",
     "lbl:latitude":44.661569,
     "lbl:longitude":-63.599477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.666697,
     "mps:longitude":-63.597293,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "\u30cf\u30ea\u30d5\u30a1\u30c3\u30af\u30b9\u534a\u5cf6"
     ],
     "name:nld_x_preferred":[
-        "Halifax Peninsula"
-    ],
-    "name:unk_x_variant":[
         "Halifax Peninsula"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":965,
     "wof:belongsto":[
         85682075,
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282105,
+    "wof:lastmodified":1566424980,
     "wof:name":"Halifax Peninsula",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

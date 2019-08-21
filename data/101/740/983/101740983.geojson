@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.426786,
     "lbl:longitude":-123.482453,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.426786,
     "mps:longitude":-123.482453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0648\u0648\u062f"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":80.0,
     "wd:latitude":48.4236,
@@ -111,7 +114,6 @@
         "gn:id":5926268,
         "gp:id":23404884,
         "qs:id":273680,
-        "qs_pg:id":273680,
         "wd:id":"Q1113057",
         "wk:page":"Colwood, British Columbia"
     },
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101740983,
-    "wof:lastmodified":1563284812,
+    "wof:lastmodified":1566425498,
     "wof:name":"Colwood",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

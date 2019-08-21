@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
+    "geom:area_square_m":994119.408179,
     "geom:bbox":"-128.3126574,55.011088,-128.2934687,55.025564",
     "geom:latitude":55.018343,
     "geom:longitude":-128.302709,
     "iso:country":"CA",
     "lbl:latitude":55.018191,
     "lbl:longitude":-128.301737,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.018191,
     "mps:longitude":-128.301737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koonwats 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742897,
-    "wof:lastmodified":1533335869,
+    "wof:lastmodified":1566425942,
     "wof:name":"Koonwats 7",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

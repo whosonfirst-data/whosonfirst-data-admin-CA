@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.395142,
     "lbl:longitude":-82.409165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.395142,
     "mps:longitude":-82.409165,
     "mz:hierarchy_label":1,
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.416667,
     "wd:longitude":-82.433333,
@@ -213,7 +215,6 @@
         "gn:id":5989403,
         "gp:id":3134,
         "qs:id":246855,
-        "qs_pg:id":246855,
         "wd:id":"Q1027634",
         "wk:page":"Kapuskasing"
     },
@@ -229,7 +230,7 @@
         }
     ],
     "wof:id":101735619,
-    "wof:lastmodified":1563285336,
+    "wof:lastmodified":1566425853,
     "wof:name":"Kapuskasing",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

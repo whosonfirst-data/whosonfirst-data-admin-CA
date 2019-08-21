@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23210363.370492,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.818515,45.52933,-73.818515,45.52933",
     "geom:latitude":45.52933,
     "geom:longitude":-73.818515,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.823515,45.52433,-73.813515,45.53433",
     "lbl:latitude":45.52933,
     "lbl:longitude":-73.818515,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.526693,
     "mps:longitude":-73.817992,
     "mz:hierarchy_label":0,
@@ -44,7 +46,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":322,
     "wof:belongsto":[
         136251273,
@@ -57,7 +59,6 @@
     "wof:concordances":{
         "gp:id":1448,
         "qs:id":264909,
-        "qs_pg:id":264909,
         "wd:id":"Q3464244"
     },
     "wof:country":"CA",
@@ -76,7 +77,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531860659,
+    "wof:lastmodified":1566424898,
     "wof:name":"Sainte-Doroth\u00e9e",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
+    "geom:area_square_m":1937139.825834,
     "geom:bbox":"-106.7540668,52.8857762,-106.7179389,52.8930738",
     "geom:latitude":52.889405,
     "geom:longitude":-106.736042,
     "iso:country":"CA",
     "lbl:latitude":52.889399,
     "lbl:longitude":-106.742145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.889399,
     "mps:longitude":-106.742145,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muskeg Lake I.R. 102H"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742209,
-    "wof:lastmodified":1531523940,
+    "wof:lastmodified":1566425940,
     "wof:name":"Muskeg Lake I.R. 102H",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

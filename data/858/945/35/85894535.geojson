@@ -11,8 +11,10 @@
     "geom:longitude":-113.276094,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.281094,53.510651,-113.271094,53.520651",
     "lbl:latitude":53.515651,
     "lbl:longitude":-113.276094,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.515881,
     "mps:longitude":-113.273651,
     "mz:hierarchy_label":0,
@@ -298,7 +300,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -309,8 +311,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998562,
-        "qs:id":1070820,
-        "qs_pg:id":1070820
+        "qs:id":1070820
     },
     "wof:country":"CA",
     "wof:geomhash":"6f88bbb0393489aa8ef0e6c0270724e8",
@@ -328,7 +329,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170884,
+    "wof:lastmodified":1566424996,
     "wof:name":"Nottingham",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

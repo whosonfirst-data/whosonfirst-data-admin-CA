@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.685907,
     "lbl:longitude":-101.453559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.685907,
     "mps:longitude":-101.453559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kelsey"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101734711,
-    "wof:lastmodified":1561844454,
+    "wof:lastmodified":1566425845,
     "wof:name":"Kelsey",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

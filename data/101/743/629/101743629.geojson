@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":968.508919,
     "geom:bbox":"-129.3050707,53.6492204,-129.3043974,53.6496822",
     "geom:latitude":53.649451,
     "geom:longitude":-129.304729,
     "iso:country":"CA",
     "lbl:latitude":53.649426,
     "lbl:longitude":-129.304797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.649426,
     "mps:longitude":-129.304797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gill Island 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743629,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1566425910,
     "wof:name":"Gill Island 2",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

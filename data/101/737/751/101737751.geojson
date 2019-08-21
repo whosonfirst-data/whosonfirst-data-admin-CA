@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.631746,
     "lbl:longitude":-71.021446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.631746,
     "mps:longitude":-71.021446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0646\u062a\u064a\u0633"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101737751,
-    "wof:lastmodified":1563284234,
+    "wof:lastmodified":1566425401,
     "wof:name":"Nantes",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

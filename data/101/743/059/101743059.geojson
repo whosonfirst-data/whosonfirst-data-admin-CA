@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":23783.589715,
     "geom:bbox":"-126.8228982,50.9228676,-126.8197882,50.9244815",
     "geom:latitude":50.923908,
     "geom:longitude":-126.820992,
     "iso:country":"CA",
     "lbl:latitude":50.923839,
     "lbl:longitude":-126.820568,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.923839,
     "mps:longitude":-126.820568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hopetown 10A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743059,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566425920,
     "wof:name":"Hopetown 10A",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.897495,
     "lbl:longitude":-97.139764,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.897731,
     "mps:longitude":-97.138714,
     "mz:hierarchy_label":1,
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":49.8985,
     "wd:longitude":-97.1403,
     "wd:wordcount":1559,
@@ -54,7 +55,6 @@
     "wof:concordances":{
         "gp:id":26332823,
         "qs:id":368629,
-        "qs_pg:id":368629,
         "wd:id":"Q5419566"
     },
     "wof:country":"CA",
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844223,
+    "wof:lastmodified":1566424992,
     "wof:name":"Exchange District",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

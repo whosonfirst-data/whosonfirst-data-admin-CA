@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.492558,
     "lbl:longitude":-104.482928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.492558,
     "mps:longitude":-104.482928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Choiceland"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.386,
     "wd:longitude":-104.5,
     "wd:wordcount":171,
@@ -81,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284032,
+    "wof:lastmodified":1566425369,
     "wof:name":"Choiceland",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

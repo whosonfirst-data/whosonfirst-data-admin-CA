@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3313709.408981,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59013,44.24545,-76.59013,44.24545",
     "geom:latitude":44.24545,
     "geom:longitude":-76.59013,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.59513,44.24045,-76.58513,44.25045",
     "lbl:latitude":44.24545,
     "lbl:longitude":-76.59013,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.246435,
     "mps:longitude":-76.588546,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Bayridge East"
-    ],
-    "name:unk_x_variant":[
         "Bayridge East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855650,
-        "qs:id":381121,
-        "qs_pg:id":381121
+        "qs:id":381121
     },
     "wof:country":"CA",
     "wof:geomhash":"33c2f80fa914e0dec708dccdb351da62",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871878,
+    "wof:lastmodified":1566424955,
     "wof:name":"Bayridge East",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

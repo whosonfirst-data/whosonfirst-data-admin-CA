@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1114818.245151,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.06358,45.272193,-66.06358,45.272193",
     "geom:latitude":45.272193,
     "geom:longitude":-66.06358,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.06858,45.267193,-66.05858,45.277193",
     "lbl:latitude":45.272193,
     "lbl:longitude":-66.06358,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.268192,
     "mps:longitude":-66.061963,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Uptown CBD"
-    ],
-    "name:unk_x_variant":[
         "Uptown CBD"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855670,
-        "qs:id":135884,
-        "qs_pg:id":135884
+        "qs:id":135884
     },
     "wof:country":"CA",
     "wof:geomhash":"d49fd6d6cd038d5628481b0ee190e962",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871889,
+    "wof:lastmodified":1566424967,
     "wof:name":"Uptown CBD",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

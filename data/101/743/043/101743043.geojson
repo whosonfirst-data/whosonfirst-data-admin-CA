@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":66488.836993,
     "geom:bbox":"-126.8809641,50.9286406,-126.8750955,50.9308683",
     "geom:latitude":50.929954,
     "geom:longitude":-126.878152,
     "iso:country":"CA",
     "lbl:latitude":50.930261,
     "lbl:longitude":-126.878678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.930261,
     "mps:longitude":-126.878678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kunstamis 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743043,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566425918,
     "wof:name":"Kunstamis 2",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

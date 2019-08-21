@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
+    "geom:area_square_m":136578.9526,
     "geom:bbox":"-126.6421765,49.7816783,-126.6358513,49.7853106",
     "geom:latitude":49.783659,
     "geom:longitude":-126.638289,
     "iso:country":"CA",
     "lbl:latitude":49.783495,
     "lbl:longitude":-126.63803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.783495,
     "mps:longitude":-126.63803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsowwin 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743089,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566425916,
     "wof:name":"Tsowwin 10",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

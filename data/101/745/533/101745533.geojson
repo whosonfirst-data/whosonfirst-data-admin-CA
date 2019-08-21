@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004861,
+    "geom:area_square_m":34711196.196872,
     "geom:bbox":"-122.7919075,54.6931195,-122.6737855,54.7559372",
     "geom:latitude":54.726449,
     "geom:longitude":-122.733836,
     "iso:country":"CA",
     "lbl:latitude":54.728625,
     "lbl:longitude":-122.715725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.728625,
     "mps:longitude":-122.715725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kerry Lake East 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745533,
-    "wof:lastmodified":1533335912,
+    "wof:lastmodified":1566425945,
     "wof:name":"Kerry Lake East 9",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
+    "geom:area_square_m":171292.004368,
     "geom:bbox":"-84.3573702,46.5082776,-84.3475885,46.5116722",
     "geom:latitude":46.510042,
     "geom:longitude":-84.351648,
     "iso:country":"CA",
     "lbl:latitude":46.509949,
     "lbl:longitude":-84.351649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.509949,
     "mps:longitude":-84.351649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitefish Island Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741329,
-    "wof:lastmodified":1533335666,
+    "wof:lastmodified":1566425830,
     "wof:name":"Whitefish Island Indian Reserve",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

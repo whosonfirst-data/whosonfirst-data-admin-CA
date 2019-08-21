@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.353328,
     "lbl:longitude":-102.192213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.353328,
     "mps:longitude":-102.192213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rhein"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":121,
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,6 @@
         "gn:id":6121721,
         "gp:id":2451,
         "qs:id":178584,
-        "qs_pg:id":178584,
         "wd:id":"Q2147542",
         "wk:page":"Rhein, Saskatchewan"
     },
@@ -78,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844267,
+    "wof:lastmodified":1566425365,
     "wof:name":"Rhein",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

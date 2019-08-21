@@ -14,12 +14,13 @@
     "geom:longitude":-118.833194,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":41462,
     "gn:population":41462,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":55.16846,
     "lbl:longitude":-118.807618,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.16846,
     "mps:longitude":-118.807618,
     "mz:hierarchy_label":1,
@@ -285,7 +286,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5021,
     "wof:belongsto":[
@@ -315,7 +316,7 @@
         }
     ],
     "wof:id":890458665,
-    "wof:lastmodified":1563286094,
+    "wof:lastmodified":1566426041,
     "wof:name":"Grande Prairie",
     "wof:parent_id":1158863179,
     "wof:placetype":"locality",

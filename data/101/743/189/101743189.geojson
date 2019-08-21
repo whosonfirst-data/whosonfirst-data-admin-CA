@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":64154.406903,
     "geom:bbox":"-126.7868999,49.913165,-126.7831683,49.9167962",
     "geom:latitude":49.915266,
     "geom:longitude":-126.784415,
     "iso:country":"CA",
     "lbl:latitude":49.915323,
     "lbl:longitude":-126.784261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.915323,
     "mps:longitude":-126.784261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hecate 17"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743189,
-    "wof:lastmodified":1533335875,
+    "wof:lastmodified":1566425912,
     "wof:name":"Hecate 17",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

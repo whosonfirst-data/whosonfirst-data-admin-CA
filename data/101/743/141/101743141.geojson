@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":36931.490179,
     "geom:bbox":"-127.9878126,50.6367952,-127.9849575,50.638965",
     "geom:latitude":50.637713,
     "geom:longitude":-127.98638,
     "iso:country":"CA",
     "lbl:latitude":50.637373,
     "lbl:longitude":-127.98674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.637373,
     "mps:longitude":-127.98674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pa-Cat'L-Lin-Ne 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743141,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566425922,
     "wof:name":"Pa-Cat'L-Lin-Ne 3",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

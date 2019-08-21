@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":691626.52666,
+    "geom:area_square_m":691626.526662,
     "geom:bbox":"-122.95487772,49.3154216,-122.937017171,49.3230758154",
     "geom:latitude":49.319222,
     "geom:longitude":-122.94782,
@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.31851,
     "lbl:longitude":-122.94764,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.318855,
     "mps:longitude":-122.943772,
     "mz:hierarchy_label":0,
@@ -35,9 +36,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Cove Cliff"
-    ],
-    "name:unk_x_variant":[
         "Cove Cliff"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -71,7 +69,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -82,8 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998933,
-        "qs:id":1248924,
-        "qs_pg:id":1248924
+        "qs:id":1248924
     },
     "wof:country":"CA",
     "wof:geomhash":"b4de07bb645d71e1d68be0592100ab77",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335943,
+    "wof:lastmodified":1566424963,
     "wof:name":"Cove Cliff",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

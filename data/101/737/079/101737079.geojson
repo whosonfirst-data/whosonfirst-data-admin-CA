@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.091661,
     "lbl:longitude":-71.861064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.091661,
     "mps:longitude":-71.861064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u064a\u0643\u0648\u0643\u060c \u0643\u064a\u0628\u0643"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -109,7 +112,6 @@
         "gn:id":5924500,
         "gp:id":3570,
         "qs:id":453201,
-        "qs_pg:id":453201,
         "wd:id":"Q142053",
         "wk:page":"Coaticook Regional County Municipality"
     },
@@ -128,7 +130,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284137,
+    "wof:lastmodified":1566425381,
     "wof:name":"Coaticook",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

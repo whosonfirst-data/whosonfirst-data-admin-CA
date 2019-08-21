@@ -11,8 +11,10 @@
     "geom:longitude":-81.26754,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.27254,43.001774,-81.26254,43.011774",
     "lbl:latitude":43.006774,
     "lbl:longitude":-81.26754,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.004181,
     "mps:longitude":-81.259696,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:por_x_preferred":[
         "North London"
     ],
-    "name:unk_x_variant":[
-        "North London"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u0644\u0646\u062f\u0646"
     ],
@@ -88,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":753,
     "wof:belongsto":[
         85682057,
@@ -100,8 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856237,
-        "qs:id":1089524,
-        "qs_pg:id":1089524
+        "qs:id":1089524
     },
     "wof:country":"CA",
     "wof:geomhash":"2608d19973a7ba2c26bea18f8bfeed72",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170777,
+    "wof:lastmodified":1566424959,
     "wof:name":"North London",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

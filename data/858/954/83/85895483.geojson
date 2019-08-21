@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4926553.788127,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.360677,43.821086,-79.360677,43.821086",
     "geom:latitude":43.821086,
     "geom:longitude":-79.360677,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.365677,43.816086,-79.355677,43.826086",
     "lbl:latitude":43.821086,
     "lbl:longitude":-79.360677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.816476,
     "mps:longitude":-79.360831,
     "mz:hierarchy_label":0,
@@ -33,7 +35,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -45,8 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999459,
-        "qs:id":384917,
-        "qs_pg:id":384917
+        "qs:id":384917
     },
     "wof:controlled":[],
     "wof:country":"CA",
@@ -73,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931418,
+    "wof:lastmodified":1566424930,
     "wof:name":"German Mills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

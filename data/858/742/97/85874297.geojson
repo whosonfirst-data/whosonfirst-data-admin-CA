@@ -10,8 +10,10 @@
     "geom:latitude":43.681561,
     "geom:longitude":-79.406971,
     "iso:country":"CA",
+    "lbl:bbox":"-79.411971,43.676561,-79.401971,43.686561",
     "lbl:latitude":43.681561,
     "lbl:longitude":-79.406971,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.677804,
     "mps:longitude":-79.413237,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:spa_x_preferred":[
         "Casa Loma"
     ],
-    "name:unk_x_variant":[
-        "Casa Lomo"
-    ],
     "name:zho_x_preferred":[
         "\u5361\u8428\u7f57\u9a6c\u57ce\u5821"
     ],
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Casa Loma (96)",
     "torsdfa:AREA_S_CD":"096",
     "wd:wordcount":1981,
@@ -98,7 +97,6 @@
         "gn:id":7870864,
         "gp:id":55855828,
         "qs:id":359935,
-        "qs_pg:id":359935,
         "wd:id":"Q5047848",
         "wk:page":"Casa Loma"
     },
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844224,
+    "wof:lastmodified":1566424998,
     "wof:name":"Casa Lomo",
     "wof:parent_id":1108904959,
     "wof:placetype":"neighbourhood",

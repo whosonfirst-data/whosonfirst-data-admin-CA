@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.165625,
     "lbl:longitude":-103.526487,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.165625,
     "mps:longitude":-103.526487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0432\u0438\u043d\u0433\u0442\u043e\u043d"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.1667,
     "wd:longitude":-103.533,
@@ -81,7 +84,6 @@
         "gn:id":5990669,
         "gp:id":2393,
         "qs:id":1189554,
-        "qs_pg:id":1189554,
         "wd:id":"Q1914814",
         "wk:page":"Kelvington, Saskatchewan"
     },
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284012,
+    "wof:lastmodified":1566425366,
     "wof:name":"Kelvington",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

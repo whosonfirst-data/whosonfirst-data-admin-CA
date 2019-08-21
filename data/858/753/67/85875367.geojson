@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6356184.482282,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460631,44.243483,-76.460631,44.243483",
     "geom:latitude":44.243483,
     "geom:longitude":-76.460631,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.465631,44.238483,-76.455631,44.248483",
     "lbl:latitude":44.243483,
     "lbl:longitude":-76.460631,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.250429,
     "mps:longitude":-76.459883,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Cataraqui River East"
-    ],
-    "name:unk_x_variant":[
         "Cataraqui River East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856478,
-        "qs:id":230696,
-        "qs_pg:id":230696
+        "qs:id":230696
     },
     "wof:country":"CA",
     "wof:geomhash":"a29318ca91d102d1045098fedd059ebf",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872091,
+    "wof:lastmodified":1566424934,
     "wof:name":"Cataraqui River East",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

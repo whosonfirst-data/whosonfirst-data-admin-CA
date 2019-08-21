@@ -11,8 +11,10 @@
     "geom:longitude":-89.279829,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-89.284829,48.386289,-89.274829,48.396289",
     "lbl:latitude":48.391289,
     "lbl:longitude":-89.279829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.395109,
     "mps:longitude":-89.287197,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:swe_x_preferred":[
         "Northwood"
     ],
-    "name:unk_x_variant":[
-        "Northwood"
-    ],
     "name:vol_x_preferred":[
         "Northwood"
     ],
@@ -107,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -118,8 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856528,
-        "qs:id":230699,
-        "qs_pg:id":230699
+        "qs:id":230699
     },
     "wof:country":"CA",
     "wof:geomhash":"0ac5378c15d7e20f26572ff61d313436",
@@ -137,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170694,
+    "wof:lastmodified":1566424934,
     "wof:name":"Northwood",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023931,
+    "geom:area_square_m":192266586.031805,
     "geom:bbox":"-119.7763442,49.3601677,-119.5915416,49.5979698",
     "geom:latitude":49.47719,
     "geom:longitude":-119.685137,
     "iso:country":"CA",
     "lbl:latitude":49.469104,
     "lbl:longitude":-119.687653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.469104,
     "mps:longitude":-119.687653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Penticton 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745605,
-    "wof:lastmodified":1533335914,
+    "wof:lastmodified":1566425964,
     "wof:name":"Penticton 1",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

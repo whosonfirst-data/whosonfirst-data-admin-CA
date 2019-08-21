@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":54.123642,
     "lbl:longitude":-108.441386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.123642,
     "mps:longitude":-108.441386,
     "mz:hierarchy_label":1,
@@ -241,7 +243,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2404,
     "wof:belongsto":[
@@ -256,7 +258,6 @@
         "gn:id":6071421,
         "gp:id":2063,
         "qs:id":274721,
-        "qs_pg:id":274721,
         "wd:id":"Q1904178",
         "wk:page":"Meadow Lake, Saskatchewan"
     },
@@ -275,7 +276,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283959,
+    "wof:lastmodified":1566425358,
     "wof:name":"Meadow Lake",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7268706.46274,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.346477,43.85161,-79.346477,43.85161",
     "geom:latitude":43.85161,
     "geom:longitude":-79.346477,
     "iso:country":"CA",
+    "lbl:bbox":"-79.351477,43.84661,-79.341477,43.85661",
     "lbl:latitude":43.85161,
     "lbl:longitude":-79.346477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.847566,
     "mps:longitude":-79.352406,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Browns Corner"
     ],
     "name:eng_x_preferred":[
-        "Brown's Corners"
-    ],
-    "name:unk_x_variant":[
         "Brown's Corners"
     ],
     "qs:gn_fcode":"PPL",
@@ -60,14 +59,12 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191575,
         101736035,
         85633041,
-        101736035,
-        890458415,
         85682057,
         101740741
     ],
@@ -76,7 +73,6 @@
         "gn:id":5909974,
         "gp:id":55999012,
         "qs:id":75966,
-        "qs_pg:id":75966,
         "wd:id":"Q4975928"
     },
     "wof:country":"CA",
@@ -101,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931303,
+    "wof:lastmodified":1566424970,
     "wof:name":"Brown's Corners",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

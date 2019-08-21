@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":718315.431824,
+    "geom:area_square_m":718315.431823,
     "geom:bbox":"-114.08138,51.008708,-114.065861,51.017871",
     "geom:latitude":51.012326,
     "geom:longitude":-114.074382,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.012612,
     "lbl:longitude":-114.073475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.013816,
     "mps:longitude":-114.069836,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1075.0,
     "wd:latitude":51.0097,
     "wd:longitude":-114.076,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":23404852,
         "qs:id":1087707,
-        "qs_pg:id":1087707,
         "wd:id":"Q5353806"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566424984,
     "wof:name":"Elboya",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

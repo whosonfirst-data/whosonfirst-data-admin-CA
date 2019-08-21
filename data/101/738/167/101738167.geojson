@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.859878,
     "lbl:longitude":-72.982688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.859878,
     "mps:longitude":-72.982688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Louis"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":141,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101738167,
-    "wof:lastmodified":1563284582,
+    "wof:lastmodified":1566425456,
     "wof:name":"Saint-Louis",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

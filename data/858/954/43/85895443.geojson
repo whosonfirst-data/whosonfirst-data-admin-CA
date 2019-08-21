@@ -11,8 +11,10 @@
     "geom:longitude":-79.70343,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.70843,43.881279,-79.69843,43.891279",
     "lbl:latitude":43.886279,
     "lbl:longitude":-79.70343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.880078,
     "mps:longitude":-79.696773,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0443\u0442 \u0425\u0438\u043b"
     ],
-    "name:unk_x_variant":[
-        "South Hill"
-    ],
     "name:vol_x_preferred":[
         "South Hill"
     ],
@@ -87,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736003,
@@ -98,8 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999427,
-        "qs:id":214899,
-        "qs_pg:id":214899
+        "qs:id":214899
     },
     "wof:country":"CA",
     "wof:geomhash":"5b9a29e719b8457076125e49b67a0b6a",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170676,
+    "wof:lastmodified":1566424929,
     "wof:name":"South Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

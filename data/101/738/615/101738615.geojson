@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.741358,
     "lbl:longitude":-70.536334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.741358,
     "mps:longitude":-70.536334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Robert-Bellarmin"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":142,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101738615,
-    "wof:lastmodified":1563284705,
+    "wof:lastmodified":1566425474,
     "wof:name":"Saint-Robert-Bellarmin",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

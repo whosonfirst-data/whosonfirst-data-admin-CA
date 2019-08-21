@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.445831,
     "lbl:longitude":-123.32785,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.449393,
     "mps:longitude":-123.328193,
     "mz:hierarchy_label":1,
@@ -102,9 +103,6 @@
     "name:tur_x_preferred":[
         "Sears"
     ],
-    "name:unk_x_variant":[
-        "Sears"
-    ],
     "name:zho_x_preferred":[
         "\u897f\u723e\u65af\u767e\u8ca8"
     ],
@@ -134,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":4925,
     "wof:belongsto":[
         85682117,
@@ -147,7 +145,6 @@
     "wof:concordances":{
         "gp:id":55856324,
         "qs:id":1290813,
-        "qs_pg:id":1290813,
         "wd:id":"Q6499202"
     },
     "wof:country":"CA",
@@ -166,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282068,
+    "wof:lastmodified":1566424973,
     "wof:name":"Sears",
     "wof:parent_id":101741111,
     "wof:placetype":"neighbourhood",

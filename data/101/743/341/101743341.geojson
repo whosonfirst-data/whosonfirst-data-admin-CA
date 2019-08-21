@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
+    "geom:area_square_m":590518.261271,
     "geom:bbox":"-126.094527,55.5977686,-126.0618618,55.6260206",
     "geom:latitude":55.609119,
     "geom:longitude":-126.082113,
     "iso:country":"CA",
     "lbl:latitude":55.602995,
     "lbl:longitude":-126.089959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.602995,
     "mps:longitude":-126.089959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cheztainya Lake 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743341,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566425912,
     "wof:name":"Cheztainya Lake 11",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

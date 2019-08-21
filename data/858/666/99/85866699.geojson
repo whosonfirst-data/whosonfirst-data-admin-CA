@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000553,
-    "geom:area_square_m":4290698.750299,
+    "geom:area_square_m":4290698.750304,
     "geom:bbox":"-114.14073,51.142376,-114.092538,51.161498",
     "geom:latitude":51.151019,
     "geom:longitude":-114.112177,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.150763,
     "lbl:longitude":-114.112001,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.149202,
     "mps:longitude":-114.125428,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -51,7 +52,6 @@
     "wof:concordances":{
         "gp:id":26342804,
         "qs:id":899103,
-        "qs_pg:id":899103,
         "wd:id":"Q5751967"
     },
     "wof:country":"CA",
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270097,
+    "wof:lastmodified":1566424948,
     "wof:name":"Hidden Valley",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.74797,
     "lbl:longitude":-93.373493,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.74797,
     "mps:longitude":-93.373493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ear Falls"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2317,
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101735499,
-    "wof:lastmodified":1563285363,
+    "wof:lastmodified":1566425858,
     "wof:name":"Ear Falls",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

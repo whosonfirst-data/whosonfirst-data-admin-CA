@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006123,
+    "geom:area_square_m":40227653.043565,
     "geom:bbox":"-115.4792619,57.8728394,-115.3297663,57.937387",
     "geom:latitude":57.907497,
     "geom:longitude":-115.413022,
     "iso:country":"CA",
     "lbl:latitude":57.909255,
     "lbl:longitude":-115.423267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.909255,
     "mps:longitude":-115.423267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tall Cree 173"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747707,
-    "wof:lastmodified":1533250167,
+    "wof:lastmodified":1566425552,
     "wof:name":"Tall Cree 173",
     "wof:parent_id":1158863313,
     "wof:placetype":"locality",

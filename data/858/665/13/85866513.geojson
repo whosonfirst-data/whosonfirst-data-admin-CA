@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001178,
-    "geom:area_square_m":9947074.160993,
+    "geom:area_square_m":9947074.160996,
     "geom:bbox":"-71.1953344606,46.8852104885,-71.1183776699,46.9471362479",
     "geom:latitude":46.910639,
     "geom:longitude":-71.153727,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.891271,
     "lbl:longitude":-71.149004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.894176,
     "mps:longitude":-71.157387,
     "mz:hierarchy_label":1,
@@ -47,7 +48,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -58,8 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332804,
-        "qs:id":237818,
-        "qs_pg:id":237818
+        "qs:id":237818
     },
     "wof:country":"CA",
     "wof:geomhash":"2ef1a9c2f876e7d2527c7ef54cdcaba7",
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335729,
+    "wof:lastmodified":1566424992,
     "wof:name":"La Cote-de-Beaupre",
     "wof:parent_id":101736835,
     "wof:placetype":"neighbourhood",

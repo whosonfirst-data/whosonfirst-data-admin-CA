@@ -11,8 +11,10 @@
     "geom:longitude":-64.771712,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.776712,46.084992,-64.766712,46.094992",
     "lbl:latitude":46.089992,
     "lbl:longitude":-64.771712,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.083814,
     "mps:longitude":-64.764521,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0435\u0440\u0433\u044e\u0441\u0441\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Fergusson"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":140,
     "wof:belongsto":[
         85682065,
@@ -82,8 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856542,
-        "qs:id":888338,
-        "qs_pg:id":888338
+        "qs:id":888338
     },
     "wof:country":"CA",
     "wof:geomhash":"da9e95ea0e15fb34c6d0ff1c233e356f",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170685,
+    "wof:lastmodified":1566424932,
     "wof:name":"Fergusson",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

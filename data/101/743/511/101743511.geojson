@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
+    "geom:area_square_m":213425.614502,
     "geom:bbox":"-130.9725649,54.4528688,-130.752283,54.6013731",
     "geom:latitude":54.542767,
     "geom:longitude":-130.915693,
     "iso:country":"CA",
     "lbl:latitude":54.511223,
     "lbl:longitude":-130.969062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.511223,
     "mps:longitude":-130.969062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dundas Island 32B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743511,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566425914,
     "wof:name":"Dundas Island 32B",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

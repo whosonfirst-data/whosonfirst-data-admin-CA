@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
+    "geom:area_square_m":89364.053124,
     "geom:bbox":"-132.9756612,54.2301908,-132.9715104,54.2337814",
     "geom:latitude":54.231927,
     "geom:longitude":-132.9739,
     "iso:country":"CA",
     "lbl:latitude":54.231752,
     "lbl:longitude":-132.974107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.231752,
     "mps:longitude":-132.974107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cohoe Point 20"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742811,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425926,
     "wof:name":"Cohoe Point 20",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

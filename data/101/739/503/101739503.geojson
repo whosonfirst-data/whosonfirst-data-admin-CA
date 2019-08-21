@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.69864,
     "lbl:longitude":-101.935643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.69864,
     "mps:longitude":-101.935643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarbo"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844263,
+    "wof:lastmodified":1566425359,
     "wof:name":"Yarbo",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

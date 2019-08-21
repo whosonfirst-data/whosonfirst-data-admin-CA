@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022366,
+    "geom:area_square_m":134960918.972342,
     "geom:bbox":"-115.8368487,60.7335295,-115.5474144,60.8645967",
     "geom:latitude":60.790539,
     "geom:longitude":-115.687666,
     "iso:country":"CA",
     "lbl:latitude":60.796219,
     "lbl:longitude":-115.689822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.796219,
     "mps:longitude":-115.689822,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hay River 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741457,
-    "wof:lastmodified":1533069055,
+    "wof:lastmodified":1566425826,
     "wof:name":"Hay River 1",
     "wof:parent_id":1158869037,
     "wof:placetype":"locality",

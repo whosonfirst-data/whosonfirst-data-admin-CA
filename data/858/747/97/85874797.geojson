@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.894393,
     "lbl:longitude":-97.107253,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.894634,
     "mps:longitude":-97.100389,
     "mz:hierarchy_label":1,
@@ -114,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0441\u0441\u043e"
     ],
-    "name:unk_x_variant":[
-        "Tissot"
-    ],
     "name:vie_x_preferred":[
         "Tissot"
     ],
@@ -128,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1455,
     "wof:belongsto":[
         102191575,
@@ -142,7 +140,6 @@
     "wof:concordances":{
         "gp:id":55856123,
         "qs:id":214209,
-        "qs_pg:id":214209,
         "wd:id":"Q659530"
     },
     "wof:country":"CA",
@@ -162,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281973,
+    "wof:lastmodified":1566424957,
     "wof:name":"Tissot",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

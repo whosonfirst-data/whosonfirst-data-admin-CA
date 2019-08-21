@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.873606,
     "lbl:longitude":-97.301051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.887148,
     "mps:longitude":-97.288683,
     "mz:hierarchy_label":1,
@@ -93,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0432\u0443\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Westwood Crestview"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968457,
@@ -144,8 +145,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856102,
-        "qs:id":899245,
-        "qs_pg:id":899245
+        "qs:id":899245
     },
     "wof:country":"CA",
     "wof:geomhash":"2ca217c9c1b365945a61a01361a8e3ab",
@@ -164,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170768,
+    "wof:lastmodified":1566424957,
     "wof:name":"Westwood",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

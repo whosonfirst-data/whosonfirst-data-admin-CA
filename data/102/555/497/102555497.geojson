@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001109,
-    "geom:area_square_m":9642652.583113,
+    "geom:area_square_m":9642652.583102,
     "geom:bbox":"-75.6940709997,45.2978839999,-75.6410734613,45.3378071346",
     "geom:latitude":45.318703,
     "geom:longitude":-75.670006,
@@ -16,6 +16,7 @@
     "mps:longitude":-75.662695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "Macdonald-Cartier Int'l Airport",
         "Ottawa/Macdonald-Cartier International Airport",
@@ -26,7 +27,7 @@
     "src:geom_alt":[
         "woedb"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375164,
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":102555497,
-    "wof:lastmodified":1533335696,
+    "wof:lastmodified":1566424823,
     "wof:name":"Macdonald-Cartier International Airport",
     "wof:parent_id":1125162937,
     "wof:placetype":"campus",

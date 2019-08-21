@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
+    "geom:area_square_m":2573798.689301,
     "geom:bbox":"-121.8104029,50.6159526,-121.7950332,50.6554414",
     "geom:latitude":50.636149,
     "geom:longitude":-121.800955,
     "iso:country":"CA",
     "lbl:latitude":50.635965,
     "lbl:longitude":-121.799787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.635965,
     "mps:longitude":-121.799787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chilhil 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745967,
-    "wof:lastmodified":1533335918,
+    "wof:lastmodified":1566425972,
     "wof:name":"Chilhil 6",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

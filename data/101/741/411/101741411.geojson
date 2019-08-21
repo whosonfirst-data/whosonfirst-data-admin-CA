@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002584,
+    "geom:area_square_m":19064177.560873,
     "geom:bbox":"-91.9039591,53.311443,-91.6856668,53.4346693",
     "geom:latitude":53.372326,
     "geom:longitude":-91.820613,
     "iso:country":"CA",
     "lbl:latitude":53.351327,
     "lbl:longitude":-91.864888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.351327,
     "mps:longitude":-91.864888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muskrat Dam Lake Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741411,
-    "wof:lastmodified":1533335670,
+    "wof:lastmodified":1566425821,
     "wof:name":"Muskrat Dam Lake Indian Reserve",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

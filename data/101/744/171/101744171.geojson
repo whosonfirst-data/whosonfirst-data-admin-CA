@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
+    "geom:area_square_m":562910.757324,
     "geom:bbox":"-121.3297367,50.3244022,-121.3180188,50.3319972",
     "geom:latitude":50.328572,
     "geom:longitude":-121.323535,
     "iso:country":"CA",
     "lbl:latitude":50.328815,
     "lbl:longitude":-121.322474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.328815,
     "mps:longitude":-121.322474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Enhalt 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744171,
-    "wof:lastmodified":1533335889,
+    "wof:lastmodified":1566425905,
     "wof:name":"Enhalt 11",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

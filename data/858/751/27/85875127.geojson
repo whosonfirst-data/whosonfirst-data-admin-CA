@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11019626.575491,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.982109,42.267708,-82.982109,42.267708",
     "geom:latitude":42.267708,
     "geom:longitude":-82.982109,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.987109,42.262708,-82.977109,42.272708",
     "lbl:latitude":42.267708,
     "lbl:longitude":-82.982109,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.267826,
     "mps:longitude":-82.983736,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Devonshire"
-    ],
-    "name:unk_x_variant":[
         "Devonshire"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856336,
-        "qs:id":381507,
-        "qs_pg:id":381507
+        "qs:id":381507
     },
     "wof:country":"CA",
     "wof:geomhash":"73ca1857956dd26dda2b3d54b654e28e",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872022,
+    "wof:lastmodified":1566424974,
     "wof:name":"Devonshire",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

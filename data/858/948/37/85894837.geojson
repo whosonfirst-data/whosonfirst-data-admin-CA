@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004592,
-    "geom:area_square_m":37127754.830178,
+    "geom:area_square_m":37127754.830189,
     "geom:bbox":"-123.114193529,49.1260709783,-122.979579442,49.2028763",
     "geom:latitude":49.169331,
     "geom:longitude":-123.050796,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.181981,
     "lbl:longitude":-123.042745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.148105,
     "mps:longitude":-123.026284,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "East Richmond"
-    ],
-    "name:unk_x_variant":[
         "East Richmond"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,20 +60,19 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":24,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741081,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998879,
-        "qs:id":899535,
-        "qs_pg:id":899535
+        "qs:id":899535
     },
     "wof:country":"CA",
     "wof:geomhash":"cb2a81c0757a580d5e24000efdede750",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521038,
+    "wof:lastmodified":1566424952,
     "wof:name":"East Richmond",
     "wof:parent_id":101741081,
     "wof:placetype":"neighbourhood",

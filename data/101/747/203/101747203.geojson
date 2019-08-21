@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001532,
+    "geom:area_square_m":11734558.750875,
     "geom:bbox":"-98.3999188,51.6883339,-98.3103902,51.7550049",
     "geom:latitude":51.725116,
     "geom:longitude":-98.36608,
     "iso:country":"CA",
     "lbl:latitude":51.725764,
     "lbl:longitude":-98.369185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.725764,
     "mps:longitude":-98.369185,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Narrows 49A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747203,
-    "wof:lastmodified":1533069119,
+    "wof:lastmodified":1566425575,
     "wof:name":"The Narrows 49A",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

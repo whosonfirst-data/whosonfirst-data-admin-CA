@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.764636,
     "lbl:longitude":-119.756615,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.764636,
     "mps:longitude":-119.756615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peachland"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.773611,
     "wd:longitude":-119.736944,
@@ -74,7 +77,6 @@
         "gn:id":6100086,
         "gp:id":9866,
         "qs:id":965555,
-        "qs_pg:id":965555,
         "wd:id":"Q1718869",
         "wk:page":"Peachland, British Columbia"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101740997,
-    "wof:lastmodified":1563284775,
+    "wof:lastmodified":1566425487,
     "wof:name":"Peachland",
     "wof:parent_id":890458697,
     "wof:placetype":"locality",

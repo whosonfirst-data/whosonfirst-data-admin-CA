@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5133466.024908,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.639435,43.474514,-79.639435,43.474514",
     "geom:latitude":43.474514,
     "geom:longitude":-79.639435,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.644435,43.469514,-79.634435,43.479514",
     "lbl:latitude":43.474514,
     "lbl:longitude":-79.639435,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.474419,
     "mps:longitude":-79.636146,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Southeast Oakville"
-    ],
-    "name:unk_x_variant":[
         "Southeast Oakville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735889,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999612,
-        "qs:id":69001,
-        "qs_pg:id":69001
+        "qs:id":69001
     },
     "wof:country":"CA",
     "wof:geomhash":"4249c9ff21702b73537b1de4ef36a4cd",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931458,
+    "wof:lastmodified":1566424976,
     "wof:name":"Southeast Oakville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

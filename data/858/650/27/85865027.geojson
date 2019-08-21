@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2171228.929037,
+    "geom:area_square_m":2171228.929039,
     "geom:bbox":"-123.128044128,49.2334899902,-123.11504364,49.2570991516",
     "geom:latitude":49.245556,
     "geom:longitude":-123.121801,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.248159,
     "lbl:longitude":-123.12145,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.246292,
     "mps:longitude":-123.118306,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "South Cambie"
-    ],
-    "name:unk_x_variant":[
         "South Cambie"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +59,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"SC",
     "vanpds:NAME":"South Cambie",
     "wd:wordcount":487,
@@ -76,7 +74,6 @@
     "wof:concordances":{
         "gp:id":23404979,
         "qs:id":585062,
-        "qs_pg:id":585062,
         "wd:id":"Q7566477"
     },
     "wof:country":"CA",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335937,
+    "wof:lastmodified":1566424949,
     "wof:name":"South Cambie",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

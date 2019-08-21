@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":54099.739455,
     "geom:bbox":"-104.6085165,55.2800009,-104.6032584,55.2828656",
     "geom:latitude":55.28146,
     "geom:longitude":-104.605857,
     "iso:country":"CA",
     "lbl:latitude":55.281475,
     "lbl:longitude":-104.605818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.281475,
     "mps:longitude":-104.605818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Old Fort I.R. 157B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742233,
-    "wof:lastmodified":1531525132,
+    "wof:lastmodified":1566425931,
     "wof:name":"Old Fort I.R. 157B",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

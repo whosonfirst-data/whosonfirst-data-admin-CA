@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006775,
+    "geom:area_square_m":53460971.090557,
     "geom:bbox":"-96.6519283,50.3089455,-96.5541168,50.4069319",
     "geom:latitude":50.345745,
     "geom:longitude":-96.604968,
     "iso:country":"CA",
     "lbl:latitude":50.331693,
     "lbl:longitude":-96.609447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.331693,
     "mps:longitude":-96.609447,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brokenhead 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741849,
-    "wof:lastmodified":1533067994,
+    "wof:lastmodified":1566425821,
     "wof:name":"Brokenhead 4",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",

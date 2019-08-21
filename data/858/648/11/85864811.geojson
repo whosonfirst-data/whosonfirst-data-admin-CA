@@ -11,8 +11,10 @@
     "geom:longitude":-104.691467,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-104.696467,50.471152,-104.686467,50.481152",
     "lbl:latitude":50.476152,
     "lbl:longitude":-104.691467,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.466246,
     "mps:longitude":-104.691574,
     "mz:hierarchy_label":0,
@@ -69,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191575,
@@ -82,8 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403625,
-        "qs:id":509126,
-        "qs_pg:id":509126
+        "qs:id":509126
     },
     "wof:country":"CA",
     "wof:geomhash":"01e5d4b176051d9e2c5c802a7ed80b64",
@@ -102,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170871,
+    "wof:lastmodified":1566424988,
     "wof:name":"Prairie View",
     "wof:parent_id":1126113663,
     "wof:placetype":"neighbourhood",

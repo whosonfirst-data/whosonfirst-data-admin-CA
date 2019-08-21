@@ -9,14 +9,17 @@
     "geom:bbox":"-80.82692,46.38148,-80.82692,46.38148",
     "geom:latitude":46.38148,
     "geom:longitude":-80.82692,
-    "gn:gn_country":"CA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CA",
+    "lbl:bbox":"-80.83192,46.37648,-80.82192,46.38648",
     "lbl:latitude":46.38148,
     "lbl:longitude":-80.82692,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Wanup"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424775,
     "qs_pg:woe_id":3204,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424775,
     "woe:name_adm0":"Canada",
     "woe:name_adm1":"Ontario",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735493,
-        890458085,
-        85682057
+        890458085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1126073245,
-    "wof:lastmodified":1533276743,
+    "wof:lastmodified":1566426222,
     "wof:name":"Wanup",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

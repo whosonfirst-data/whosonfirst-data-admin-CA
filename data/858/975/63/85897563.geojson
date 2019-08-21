@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21533648.736987,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.865437,45.645421,-73.865437,45.645421",
     "geom:latitude":45.645421,
     "geom:longitude":-73.865437,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.870437,45.640421,-73.860437,45.650421",
     "lbl:latitude":45.645421,
     "lbl:longitude":-73.865437,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.648386,
     "mps:longitude":-73.871842,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Domaine Vert Sud"
     ],
     "name:fra_x_preferred":[
-        "Domaine Vert Sud"
-    ],
-    "name:unk_x_variant":[
         "Domaine Vert Sud"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022883,
-        "qs:id":385101,
-        "qs_pg:id":385101
+        "qs:id":385101
     },
     "wof:country":"CA",
     "wof:geomhash":"0b75e65c7b834e8d6e5bcfd28d67106b",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931897,
+    "wof:lastmodified":1566425002,
     "wof:name":"Domaine Vert Sud",
     "wof:parent_id":101737605,
     "wof:placetype":"neighbourhood",

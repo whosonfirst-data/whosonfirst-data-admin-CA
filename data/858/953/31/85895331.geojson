@@ -11,8 +11,10 @@
     "geom:longitude":-79.654182,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.659182,43.52774,-79.649182,43.53774",
     "lbl:latitude":43.53274,
     "lbl:longitude":-79.654182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.529815,
     "mps:longitude":-79.647759,
     "mz:hierarchy_label":0,
@@ -88,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0440\u0456\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Sheridan"
-    ],
     "name:vol_x_preferred":[
         "Sheridan"
     ],
@@ -123,7 +122,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -135,8 +134,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999310,
-        "qs:id":111164,
-        "qs_pg:id":111164
+        "qs:id":111164
     },
     "wof:country":"CA",
     "wof:geomhash":"19859d148b4a957e2cc1e6bbd2937c38",
@@ -162,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170683,
+    "wof:lastmodified":1566424931,
     "wof:name":"Sheridan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

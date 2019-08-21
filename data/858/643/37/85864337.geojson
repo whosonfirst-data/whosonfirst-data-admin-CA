@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9678260.668986,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.28595,46.30267,-60.28595,46.30267",
     "geom:latitude":46.30267,
     "geom:longitude":-60.28595,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-60.29095,46.29767,-60.28095,46.30767",
     "lbl:latitude":46.30267,
     "lbl:longitude":-60.28595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.290982,
     "mps:longitude":-60.285957,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Alder Point"
-    ],
-    "name:unk_x_variant":[
-        "Adler Point"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23391740,
-        "qs:id":990037,
-        "qs_pg:id":990037
+        "qs:id":990037
     },
     "wof:country":"CA",
     "wof:geomhash":"20653ee0d321dc3399efe6027879ef35",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870863,
+    "wof:lastmodified":1566424941,
     "wof:name":"Adler Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

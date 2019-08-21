@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":63.152373,
     "lbl:longitude":-117.223262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.152373,
     "mps:longitude":-117.223262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "What\u00ec"
     ],
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "What\u00ec"
     ],
-    "name:unk_x_variant":[
-        "What\u00ec"
-    ],
     "name:zho_x_preferred":[
         "\u83ef\u63d0"
     ],
@@ -71,7 +71,7 @@
     "qs:type":"Community Government",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":269.0,
     "wd:latitude":63.1444,
     "wd:longitude":-117.273,
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101735427,
-    "wof:lastmodified":1563285462,
+    "wof:lastmodified":1566425876,
     "wof:name":"Whati",
     "wof:parent_id":1158869031,
     "wof:placetype":"locality",

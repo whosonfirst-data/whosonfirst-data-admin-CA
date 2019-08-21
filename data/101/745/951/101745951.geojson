@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
+    "geom:area_square_m":2413828.214985,
     "geom:bbox":"-123.4033488,48.5832478,-123.3702746,48.5941507",
     "geom:latitude":48.588053,
     "geom:longitude":-123.387982,
     "iso:country":"CA",
     "lbl:latitude":48.588253,
     "lbl:longitude":-123.389322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.588253,
     "mps:longitude":-123.389322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Saanich 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101745951,
-    "wof:lastmodified":1533335918,
+    "wof:lastmodified":1566425973,
     "wof:name":"East Saanich 2",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

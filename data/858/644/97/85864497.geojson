@@ -11,8 +11,10 @@
     "geom:longitude":-78.294897,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-78.299897,44.32442,-78.289897,44.33442",
     "lbl:latitude":44.32942,
     "lbl:longitude":-78.294897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.310796,
     "mps:longitude":-78.294486,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Ashburnham"
     ],
     "name:swe_x_preferred":[
-        "Ashburnham"
-    ],
-    "name:unk_x_variant":[
         "Ashburnham"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191575,
@@ -85,8 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399435,
-        "qs:id":1085724,
-        "qs_pg:id":1085724
+        "qs:id":1085724
     },
     "wof:country":"CA",
     "wof:geomhash":"9c128b1efa90bdeed14497cdbedc7421",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170727,
+    "wof:lastmodified":1566424943,
     "wof:name":"Ashburnham",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

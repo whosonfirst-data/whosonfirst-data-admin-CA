@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.001448,
     "lbl:longitude":-104.739118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.001448,
     "mps:longitude":-104.739118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leroy"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.002,
     "wd:longitude":-104.735,
     "wd:wordcount":168,
@@ -67,7 +70,6 @@
         "gn:id":6052683,
         "gp:id":2408,
         "qs:id":1053513,
-        "qs_pg:id":1053513,
         "wd:id":"Q1915203",
         "wk:page":"Leroy, Saskatchewan"
     },
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284049,
+    "wof:lastmodified":1566425371,
     "wof:name":"Leroy",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

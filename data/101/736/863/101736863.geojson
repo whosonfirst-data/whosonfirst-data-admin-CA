@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.045442,
     "lbl:longitude":-73.006718,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.045442,
     "mps:longitude":-73.006718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Armand"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191575,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101736863,
-    "wof:lastmodified":1563284539,
+    "wof:lastmodified":1566425450,
     "wof:name":"Saint-Armand",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

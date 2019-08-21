@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
+    "geom:area_square_m":614045.393477,
     "geom:bbox":"-111.1840134,56.4376104,-111.1690637,56.4520435",
     "geom:latitude":56.443614,
     "geom:longitude":-111.178008,
     "iso:country":"CA",
     "lbl:latitude":56.443157,
     "lbl:longitude":-111.179763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.443157,
     "mps:longitude":-111.179763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gregoire Lake 176A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747099,
-    "wof:lastmodified":1533250165,
+    "wof:lastmodified":1566425575,
     "wof:name":"Gregoire Lake 176A",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.680303,
     "lbl:longitude":-75.31503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.680303,
     "mps:longitude":-75.31503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0648"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":488,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "gn:id":6068414,
         "gp:id":23394426,
         "qs:id":1237513,
-        "qs_pg:id":1237513,
         "wd:id":"Q3302996",
         "wk:page":"Mayo, Quebec"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738467,
-    "wof:lastmodified":1563284715,
+    "wof:lastmodified":1566425476,
     "wof:name":"Mayo",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

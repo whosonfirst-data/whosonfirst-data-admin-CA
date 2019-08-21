@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4777583.332563,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.008892,51.288265,-114.008892,51.288265",
     "geom:latitude":51.288265,
     "geom:longitude":-114.008892,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-114.013892,51.283265,-114.003892,51.293265",
     "lbl:latitude":51.288265,
     "lbl:longitude":-114.008892,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.290512,
     "mps:longitude":-114.004891,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Aidrie Meadows"
-    ],
-    "name:unk_x_variant":[
         "Aidrie Meadows"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998830,
-        "qs:id":19546,
-        "qs_pg:id":19546
+        "qs:id":19546
     },
     "wof:country":"CA",
     "wof:geomhash":"314b6b1d681de152c86dce3bbd995ac1",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250199,
+    "wof:lastmodified":1566424959,
     "wof:name":"Aidrie Meadows",
     "wof:parent_id":890456719,
     "wof:placetype":"neighbourhood",

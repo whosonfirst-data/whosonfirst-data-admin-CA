@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.35386,
     "lbl:longitude":-73.598192,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.35386,
     "mps:longitude":-73.598192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0643\u0648\u0646\u0633\u062a\u0627\u0646\u062a"
     ],
@@ -105,7 +108,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":502,
     "wof:belongsto":[
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101738869,
-    "wof:lastmodified":1563284626,
+    "wof:lastmodified":1566425462,
     "wof:name":"Saint-Constant",
     "wof:parent_id":890457731,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000746,
+    "geom:area_square_m":5266190.262486,
     "geom:bbox":"-102.9440208,55.1604683,-102.8851191,55.1829904",
     "geom:latitude":55.174971,
     "geom:longitude":-102.909309,
     "iso:country":"CA",
     "lbl:latitude":55.175143,
     "lbl:longitude":-102.898981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.175143,
     "mps:longitude":-102.898981,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pelican Narrows I.R. 184B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742257,
-    "wof:lastmodified":1531525134,
+    "wof:lastmodified":1566425929,
     "wof:name":"Pelican Narrows I.R. 184B",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

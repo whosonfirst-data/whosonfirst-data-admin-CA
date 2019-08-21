@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.510532,
     "lbl:longitude":-106.416102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.510532,
     "mps:longitude":-106.416102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0433\u0443\u0435"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.5,
     "wd:longitude":-106.417,
     "wd:wordcount":205,
@@ -73,7 +76,6 @@
         "gn:id":5968919,
         "gp:id":2155,
         "qs:id":958887,
-        "qs_pg:id":958887,
         "wd:id":"Q1911281",
         "wk:page":"Hague, Saskatchewan"
     },
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284052,
+    "wof:lastmodified":1566425371,
     "wof:name":"Hague",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

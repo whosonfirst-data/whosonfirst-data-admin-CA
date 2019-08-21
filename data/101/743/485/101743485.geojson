@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
+    "geom:area_square_m":84514.722568,
     "geom:bbox":"-129.9866728,54.5119644,-129.9803047,54.5155813",
     "geom:latitude":54.514446,
     "geom:longitude":-129.983867,
     "iso:country":"CA",
     "lbl:latitude":54.514674,
     "lbl:longitude":-129.982543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.514674,
     "mps:longitude":-129.982543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toon 15"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743485,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566425908,
     "wof:name":"Toon 15",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

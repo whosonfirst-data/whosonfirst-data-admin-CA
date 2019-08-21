@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.649918,
     "lbl:longitude":-87.099367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.649918,
     "mps:longitude":-87.099367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Terrace Bay"
     ],
@@ -53,7 +56,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.8,
     "wd:longitude":-87.1,
     "wd:wordcount":1142,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101735535,
-    "wof:lastmodified":1563285319,
+    "wof:lastmodified":1566425851,
     "wof:name":"Terrace Bay",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

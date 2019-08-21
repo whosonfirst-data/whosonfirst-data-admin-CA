@@ -11,8 +11,10 @@
     "geom:longitude":-72.600587,
     "gn:population":2525,
     "iso:country":"CA",
+    "lbl:bbox":"-72.605587,46.344719,-72.595587,46.354719",
     "lbl:latitude":46.349719,
     "lbl:longitude":-72.600587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.349719,
     "mps:longitude":-72.600587,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:swe_x_preferred":[
         "Rigaud"
     ],
-    "name:unk_x_variant":[
-        "Rigaud"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6169141,
@@ -84,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         136251273,
@@ -98,7 +97,6 @@
         "gn:id":6122288,
         "gp:id":55855658,
         "qs:id":1053560,
-        "qs_pg:id":1053560,
         "wk:page":"Rigaud, Quebec"
     },
     "wof:country":"CA",
@@ -114,7 +112,7 @@
         }
     ],
     "wof:id":85874101,
-    "wof:lastmodified":1564170804,
+    "wof:lastmodified":1566424968,
     "wof:name":"Rigaud",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
+    "geom:area_square_m":646629.81383,
     "geom:bbox":"-102.3197355,50.7526417,-102.3081597,50.7598379",
     "geom:latitude":50.75623,
     "geom:longitude":-102.313926,
     "iso:country":"CA",
     "lbl:latitude":50.756235,
     "lbl:longitude":-102.313926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.756235,
     "mps:longitude":-102.313926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ochapowace I.R. 71-33"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742221,
-    "wof:lastmodified":1531525447,
+    "wof:lastmodified":1566425927,
     "wof:name":"Ochapowace I.R. 71-33",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

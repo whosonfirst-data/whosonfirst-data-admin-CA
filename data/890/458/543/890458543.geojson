@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.476481,
     "lbl:longitude":-73.022575,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.476481,
     "mps:longitude":-73.022575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Maskinong\u00e9"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Maskinonge",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2451",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890458543,
-    "wof:lastmodified":1564173231,
+    "wof:lastmodified":1566426021,
     "wof:name":"Maskinonge",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

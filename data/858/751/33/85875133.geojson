@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3408197.9282,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.045391,42.284172,-83.045391,42.284172",
     "geom:latitude":42.284172,
     "geom:longitude":-83.045391,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-83.050391,42.279172,-83.040391,42.289172",
     "lbl:latitude":42.284172,
     "lbl:longitude":-83.045391,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.27412,
     "mps:longitude":-83.044711,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "South Cameron"
-    ],
-    "name:unk_x_variant":[
         "South Cameron"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856338,
-        "qs:id":381503,
-        "qs_pg:id":381503
+        "qs:id":381503
     },
     "wof:country":"CA",
     "wof:geomhash":"1902c538803217131781bb384d11a5e8",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872024,
+    "wof:lastmodified":1566424974,
     "wof:name":"South Cameron",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

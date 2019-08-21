@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":103300.491213,
     "geom:bbox":"-121.335747,50.4257232,-121.332912,50.4305145",
     "geom:latitude":50.428196,
     "geom:longitude":-121.334347,
     "iso:country":"CA",
     "lbl:latitude":50.428191,
     "lbl:longitude":-121.33433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.428191,
     "mps:longitude":-121.33433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spences Bridge 4C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744099,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566425894,
     "wof:name":"Spences Bridge 4C",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6582364.51115,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.504028,45.380231,-73.504028,45.380231",
     "geom:latitude":45.380231,
     "geom:longitude":-73.504028,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.509028,45.375231,-73.499028,45.385231",
     "lbl:latitude":45.380231,
     "lbl:longitude":-73.504028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.378674,
     "mps:longitude":-73.500547,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Parc Laurier"
     ],
     "name:fra_x_preferred":[
-        "Parc Laurier"
-    ],
-    "name:unk_x_variant":[
         "Parc Laurier"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,8 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999765,
-        "qs:id":966425,
-        "qs_pg:id":966425
+        "qs:id":966425
     },
     "wof:country":"CA",
     "wof:geomhash":"a6e9f82bc35ed383ba7237a4743ca168",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931489,
+    "wof:lastmodified":1566424971,
     "wof:name":"Parc Laurier",
     "wof:parent_id":101738229,
     "wof:placetype":"neighbourhood",

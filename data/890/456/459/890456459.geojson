@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.32415,
     "lbl:longitude":-62.519525,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.32415,
     "mps:longitude":-62.519525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kings"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kings",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1101",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890456459,
-    "wof:lastmodified":1564173334,
+    "wof:lastmodified":1566426101,
     "wof:name":"Kings",
     "wof:parent_id":85682081,
     "wof:placetype":"county",

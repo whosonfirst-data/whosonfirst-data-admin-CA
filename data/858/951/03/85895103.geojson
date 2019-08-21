@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22166790.375471,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.758609,43.588956,-79.758609,43.588956",
     "geom:latitude":43.588956,
     "geom:longitude":-79.758609,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.763609,43.583956,-79.753609,43.593956",
     "lbl:latitude":43.588956,
     "lbl:longitude":-79.758609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.592637,
     "mps:longitude":-79.753626,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Meadowvale"
-    ],
-    "name:unk_x_variant":[
         "Meadowvale"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,21 +58,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":53,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740755,
         890456343,
-        85682057,
         101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999103,
-        "qs:id":995244,
-        "qs_pg:id":995244
+        "qs:id":995244
     },
     "wof:country":"CA",
     "wof:geomhash":"1bbe705f4529fbb2196db668a0056f56",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931325,
+    "wof:lastmodified":1566424977,
     "wof:name":"Meadowvale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

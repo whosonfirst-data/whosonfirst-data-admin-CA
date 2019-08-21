@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9835155.677172,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.61088,46.326558,-72.61088,46.326558",
     "geom:latitude":46.326558,
     "geom:longitude":-72.61088,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.61588,46.321558,-72.60588,46.331558",
     "lbl:latitude":46.326558,
     "lbl:longitude":-72.61088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.308866,
     "mps:longitude":-72.647892,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Trois-Rivieres-Ouest",
         "Trois-Rivi\u00e8res Ouest",
         "Trois-Rivi\u00e8res-Ouest"
-    ],
-    "name:unk_x_variant":[
-        "Trois-Rivi\u00e8res Ouest"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":44,
     "wof:belongsto":[
         136251273,
@@ -80,7 +79,6 @@
     "wof:concordances":{
         "gp:id":23394701,
         "qs:id":8227,
-        "qs_pg:id":8227,
         "wd:id":"Q7845052"
     },
     "wof:country":"CA",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870887,
+    "wof:lastmodified":1566424942,
     "wof:name":"Trois-Rivi\u00e8res Ouest",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

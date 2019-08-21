@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7670532.371761,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.804573,46.066918,-64.804573,46.066918",
     "geom:latitude":46.066918,
     "geom:longitude":-64.804573,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.809573,46.061918,-64.799573,46.071918",
     "lbl:latitude":46.066918,
     "lbl:longitude":-64.804573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.060768,
     "mps:longitude":-64.80574,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Mount Royal West"
-    ],
-    "name:unk_x_variant":[
         "Mount Royal West"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,12 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
-        890456457,
-        85682065
+        890456457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872137,
+    "wof:lastmodified":1566424933,
     "wof:name":"Mount Royal West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

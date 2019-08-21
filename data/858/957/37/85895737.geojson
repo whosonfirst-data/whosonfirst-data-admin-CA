@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7489360.172464,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.853857,45.366593,-73.853857,45.366593",
     "geom:latitude":45.366593,
     "geom:longitude":-73.853857,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.858857,45.361593,-73.848857,45.371593",
     "lbl:latitude":45.366593,
     "lbl:longitude":-73.853857,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.367986,
     "mps:longitude":-73.859045,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Parc historique de la Pointe-du-Moulin"
     ],
     "name:fra_x_preferred":[
-        "Parc historique de la Pointe-du-Moulin"
-    ],
-    "name:unk_x_variant":[
         "Parc historique de la Pointe-du-Moulin"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999706,
-        "qs:id":479717,
-        "qs_pg:id":479717
+        "qs:id":479717
     },
     "wof:country":"CA",
     "wof:geomhash":"50455173a5967dbee5320f86c05a62ed",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931480,
+    "wof:lastmodified":1566424971,
     "wof:name":"Parc historique de la Pointe-du-Moulin",
     "wof:parent_id":101736443,
     "wof:placetype":"neighbourhood",

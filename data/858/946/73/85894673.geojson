@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.321549,
     "lbl:longitude":-122.961012,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.323331,
     "mps:longitude":-122.969317,
     "mz:hierarchy_label":0,
@@ -61,9 +62,6 @@
     "name:swe_x_preferred":[
         "Indian River"
     ],
-    "name:unk_x_variant":[
-        "Indian River"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6090786,
@@ -95,7 +93,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108906825,
@@ -107,8 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998746,
-        "qs:id":986983,
-        "qs_pg:id":986983
+        "qs:id":986983
     },
     "wof:country":"CA",
     "wof:geomhash":"b187fa880322e7bd5442e80df368ac10",
@@ -127,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170755,
+    "wof:lastmodified":1566424953,
     "wof:name":"Indian River",
     "wof:parent_id":1108906825,
     "wof:placetype":"neighbourhood",

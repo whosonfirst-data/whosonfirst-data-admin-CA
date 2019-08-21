@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":511468.42369,
     "geom:bbox":"-129.0388092,59.3132654,-129.0213976,59.3210935",
     "geom:latitude":59.317719,
     "geom:longitude":-129.028435,
     "iso:country":"CA",
     "lbl:latitude":59.317301,
     "lbl:longitude":-129.027398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.317301,
     "mps:longitude":-129.027398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dease River 3 (Liard)"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743759,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566425916,
     "wof:name":"Dease River 3 (Liard)",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

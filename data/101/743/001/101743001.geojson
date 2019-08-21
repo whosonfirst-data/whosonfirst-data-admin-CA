@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":211.512076,
     "geom:bbox":"-127.5001055,51.0969487,-127.4997655,51.0970831",
     "geom:latitude":51.097017,
     "geom:longitude":-127.499932,
     "iso:country":"CA",
     "lbl:latitude":51.096628,
     "lbl:longitude":-127.49896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.096628,
     "mps:longitude":-127.49896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khazisela 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743001,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566425912,
     "wof:name":"Khazisela 7",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

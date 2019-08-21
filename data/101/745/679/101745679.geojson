@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001024,
+    "geom:area_square_m":7036734.903082,
     "geom:bbox":"-98.4071371,56.2151339,-98.3641068,56.2456519",
     "geom:latitude":56.232868,
     "geom:longitude":-98.384197,
     "iso:country":"CA",
     "lbl:latitude":56.23768,
     "lbl:longitude":-98.395574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.23768,
     "mps:longitude":-98.395574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Opekunosakakanihk"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745679,
-    "wof:lastmodified":1533069733,
+    "wof:lastmodified":1566425976,
     "wof:name":"Opekunosakakanihk",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

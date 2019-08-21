@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.711158,
     "lbl:longitude":-79.695284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.711158,
     "mps:longitude":-79.695284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hilliard"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191575,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101735867,
-    "wof:lastmodified":1561844467,
+    "wof:lastmodified":1566425860,
     "wof:name":"Hilliard",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
+    "geom:area_square_m":204892.231356,
     "geom:bbox":"-121.4077626,49.6890179,-121.40217,49.694741",
     "geom:latitude":49.691717,
     "geom:longitude":-121.404571,
     "iso:country":"CA",
     "lbl:latitude":49.691631,
     "lbl:longitude":-121.404465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.691631,
     "mps:longitude":-121.404465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Papsilqua 2B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744409,
-    "wof:lastmodified":1533335893,
+    "wof:lastmodified":1566425894,
     "wof:name":"Papsilqua 2B",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
+    "geom:area_square_m":2924931.933716,
     "geom:bbox":"-120.0812617,50.2076842,-120.0544398,50.2259342",
     "geom:latitude":50.217915,
     "geom:longitude":-120.070136,
     "iso:country":"CA",
     "lbl:latitude":50.218292,
     "lbl:longitude":-120.070136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.218292,
     "mps:longitude":-120.070136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chapperon Lake 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744183,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566425904,
     "wof:name":"Chapperon Lake 5",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

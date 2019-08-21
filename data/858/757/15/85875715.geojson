@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3301147.661495,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.455317,45.527144,-73.455317,45.527144",
     "geom:latitude":45.527144,
     "geom:longitude":-73.455317,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.460317,45.522144,-73.450317,45.532144",
     "lbl:latitude":45.527144,
     "lbl:longitude":-73.455317,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.53425,
     "mps:longitude":-73.458118,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
     "name:fra_x_variant":[
         "Quartier Sacr\u00e9 Coeur",
         "Sacr\u00e9 Coeur"
-    ],
-    "name:unk_x_variant":[
-        "Quartier Sacr\u00e9 Coeur"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -68,19 +67,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961051
+        1108961051,
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856779,
-        "qs:id":922997,
-        "qs_pg:id":922997
+        "qs:id":922997
     },
     "wof:country":"CA",
     "wof:geomhash":"9d2587884409d026e6bbb81b604968dd",
@@ -99,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872209,
+    "wof:lastmodified":1566424981,
     "wof:name":"Quartier Sacr\u00e9 Coeur",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

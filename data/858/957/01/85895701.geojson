@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5242050.646335,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.42511,43.906431,-79.42511,43.906431",
     "geom:latitude":43.906431,
     "geom:longitude":-79.42511,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.43011,43.901431,-79.42011,43.911431",
     "lbl:latitude":43.906431,
     "lbl:longitude":-79.42511,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.91048,
     "mps:longitude":-79.424385,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Richmond Hill North"
-    ],
-    "name:unk_x_variant":[
         "Richmond Hill North"
     ],
     "name:vol_x_preferred":[
@@ -63,21 +62,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":211,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101736179,
         890458415,
-        85682057,
         101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999656,
-        "qs:id":1001083,
-        "qs_pg:id":1001083
+        "qs:id":1001083
     },
     "wof:country":"CA",
     "wof:geomhash":"58a60543816e20c9f02419f392056618",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931472,
+    "wof:lastmodified":1566424971,
     "wof:name":"Richmond Hill North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

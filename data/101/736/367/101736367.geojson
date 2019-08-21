@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049216,
-    "geom:area_square_m":425679649.661571,
+    "geom:area_square_m":425679649.661506,
     "geom:bbox":"-77.4545417,45.4984529,-76.971308,45.7184844",
     "geom:latitude":45.614985,
     "geom:longitude":-77.192274,
     "iso:country":"CA",
     "lbl:latitude":45.628846,
     "lbl:longitude":-77.128426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.628846,
     "mps:longitude":-77.128426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Algona Wilberforce"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":239,
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
         "gn:id":6181662,
         "gp:id":1946,
         "qs:id":246072,
-        "qs_pg:id":246072,
         "wd:id":"Q7053695"
     },
     "wof:country":"CA",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101736367,
-    "wof:lastmodified":1533257568,
+    "wof:lastmodified":1566425440,
     "wof:name":"North Algona Wilberforce",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

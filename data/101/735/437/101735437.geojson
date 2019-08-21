@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":62.213237,
     "lbl:longitude":-92.557374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.213237,
     "mps:longitude":-92.557374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Whale Cove"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":40.0,
     "wd:latitude":62.1728,
     "wd:longitude":-92.5794,
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285358,
+    "wof:lastmodified":1566425857,
     "wof:name":"Whale Cove",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

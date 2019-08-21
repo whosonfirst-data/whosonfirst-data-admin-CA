@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001269,
+    "geom:area_square_m":11092657.581218,
     "geom:bbox":"-75.4457073,44.7459053,-74.4750664,45.1218912",
     "geom:latitude":45.002141,
     "geom:longitude":-74.722404,
     "iso:country":"CA",
     "lbl:latitude":45.009681,
     "lbl:longitude":-74.686229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.009681,
     "mps:longitude":-74.686229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Akwesasne Reserve No. 59"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747865,
-    "wof:lastmodified":1533335690,
+    "wof:lastmodified":1566425675,
     "wof:name":"Akwesasne Reserve No. 59",
     "wof:parent_id":890456477,
     "wof:placetype":"locality",

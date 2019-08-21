@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.844995,
     "lbl:longitude":-97.160454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.841739,
     "mps:longitude":-97.164039,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968781,
@@ -155,8 +156,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402378,
-        "qs:id":986201,
-        "qs_pg:id":986201
+        "qs:id":986201
     },
     "wof:country":"CA",
     "wof:geomhash":"b42a0dc5ae7d92073dd1c118ed5aba3e",
@@ -175,7 +175,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170864,
+    "wof:lastmodified":1566424985,
     "wof:name":"Beaumont",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

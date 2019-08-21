@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":525409.359271,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.504878,44.222598,-76.504878,44.222598",
     "geom:latitude":44.222598,
     "geom:longitude":-76.504878,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.509878,44.217598,-76.499878,44.227598",
     "lbl:latitude":44.222598,
     "lbl:longitude":-76.504878,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.22021,
     "mps:longitude":-76.506141,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Alwington"
     ],
     "name:swe_x_preferred":[
-        "Alwington"
-    ],
-    "name:unk_x_variant":[
         "Alwington"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -73,22 +72,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":51.0,
     "wd:longitude":-4.266667,
     "wd:wordcount":148,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735601,
-        890457247,
-        85682057
+        890457247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856482,
-        "qs:id":899263,
-        "qs_pg:id":899263
+        "qs:id":899263
     },
     "wof:country":"CA",
     "wof:geomhash":"ef7570e12f16142765177c82f150490b",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872094,
+    "wof:lastmodified":1566424935,
     "wof:name":"Alwington",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

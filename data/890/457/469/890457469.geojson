@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.031992,
     "lbl:longitude":-81.457125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.031992,
     "mps:longitude":-81.457125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Middlesex"
     ],
@@ -191,7 +194,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Middlesex",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"3539",
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890457469,
-    "wof:lastmodified":1564173399,
+    "wof:lastmodified":1566426148,
     "wof:name":"Middlesex",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

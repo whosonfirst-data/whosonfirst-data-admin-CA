@@ -9,15 +9,17 @@
     "geom:bbox":"-76.94424,44.25122,-76.94424,44.25122",
     "geom:latitude":44.25122,
     "geom:longitude":-76.94424,
-    "gn:gn_country":"CA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1500,
+    "gn:country":"CA",
+    "gn:fcode":"PPLX",
     "gn:population":1500,
     "iso:country":"CA",
+    "lbl:bbox":"-76.94924,44.24622,-76.93924,44.25622",
     "lbl:latitude":44.25122,
     "lbl:longitude":-76.94424,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u043a\u0435\u0439\u0442 \u043f\u0430\u0440\u043a"
@@ -82,7 +84,7 @@
     "qs_pg:qs_id":743264,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85682057,
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":1126060879,
-    "wof:lastmodified":1564173696,
+    "wof:lastmodified":1566426218,
     "wof:name":"Skatepark",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

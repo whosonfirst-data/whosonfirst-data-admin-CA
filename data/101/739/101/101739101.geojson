@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.529271,
     "lbl:longitude":-107.243622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.529271,
     "mps:longitude":-107.243622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0648\u064a\u0633\u062a"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":437,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "gn:id":5926901,
         "gp:id":2223,
         "qs:id":22784,
-        "qs_pg:id":22784,
         "wd:id":"Q1999784"
     },
     "wof:country":"CA",
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844271,
+    "wof:lastmodified":1566425370,
     "wof:name":"Conquest",
     "wof:parent_id":1158868955,
     "wof:placetype":"locality",

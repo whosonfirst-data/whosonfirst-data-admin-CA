@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.658097,
     "lbl:longitude":-102.074036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.658097,
     "mps:longitude":-102.074036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Denare Beach"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Northern Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":447,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844264,
+    "wof:lastmodified":1566425362,
     "wof:name":"Denare Beach",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

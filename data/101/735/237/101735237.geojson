@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.087332,
     "lbl:longitude":-64.713891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.087332,
     "mps:longitude":-64.713891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Dieppe"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.098889,
     "wd:longitude":-64.724167,
@@ -117,7 +120,6 @@
         "gn:id":5939219,
         "gp:id":402,
         "qs:id":236329,
-        "qs_pg:id":236329,
         "wd:id":"Q264075",
         "wk:page":"Dieppe, New Brunswick"
     },
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101735237,
-    "wof:lastmodified":1563285489,
+    "wof:lastmodified":1566425881,
     "wof:name":"Dieppe",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",

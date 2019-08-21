@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
+    "geom:area_square_m":2937073.224396,
     "geom:bbox":"-121.2804344,50.6478474,-121.2519652,50.6708062",
     "geom:latitude":50.660612,
     "geom:longitude":-121.26533,
     "iso:country":"CA",
     "lbl:latitude":50.663867,
     "lbl:longitude":-121.258974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.663867,
     "mps:longitude":-121.258974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Nepa 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744083,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566425892,
     "wof:name":"Upper Nepa 6",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

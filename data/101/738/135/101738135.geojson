@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.596742,
     "lbl:longitude":-73.426916,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.596742,
     "mps:longitude":-73.426916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0634\u064a\u0641\u064a\u0644\u060c \u0643\u064a\u0628\u0643"
     ],
@@ -132,7 +135,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101738135,
-    "wof:lastmodified":1563284564,
+    "wof:lastmodified":1566425454,
     "wof:name":"Boucherville",
     "wof:parent_id":890456297,
     "wof:placetype":"locality",

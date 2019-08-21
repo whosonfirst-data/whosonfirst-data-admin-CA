@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.275894,
     "lbl:longitude":-113.920343,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":54.275894,
     "mps:longitude":-113.920343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Westlock"
     ],
@@ -55,7 +58,7 @@
     "reversegeo:longitude":-113.920343,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1943-02-01",
     "wd:population":7220,
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1158863263,
-    "wof:lastmodified":1564173854,
+    "wof:lastmodified":1566426332,
     "wof:name":"Westlock",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

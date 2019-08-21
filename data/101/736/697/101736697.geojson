@@ -9,14 +9,17 @@
     "geom:bbox":"-73.639818381,46.186332167,-73.443552666,46.302488178",
     "geom:latitude":46.246979,
     "geom:longitude":-73.533171,
-    "geonames:id":"6138472,6138474",
+    "gn:id":"6138472,6138474",
     "iso:country":"CA",
     "lbl:latitude":46.239746,
     "lbl:longitude":-73.531692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.239746,
     "mps:longitude":-73.531692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Jean-de-Matha"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":353,
     "wof:belongsto":[
         102191575,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101736697,
-    "wof:lastmodified":1563284519,
+    "wof:lastmodified":1566425446,
     "wof:name":"Saint-Jean-de-Matha",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

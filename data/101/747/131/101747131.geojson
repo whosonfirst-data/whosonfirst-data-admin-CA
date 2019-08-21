@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001002,
+    "geom:area_square_m":7732030.127934,
     "geom:bbox":"-97.5556319,51.3916609,-97.5090291,51.4134325",
     "geom:latitude":51.402548,
     "geom:longitude":-97.532338,
     "iso:country":"CA",
     "lbl:latitude":51.402565,
     "lbl:longitude":-97.543975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.402565,
     "mps:longitude":-97.543975,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fisher River 44A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101747131,
-    "wof:lastmodified":1533069118,
+    "wof:lastmodified":1566425623,
     "wof:name":"Fisher River 44A",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

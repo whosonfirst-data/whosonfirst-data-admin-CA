@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
+    "geom:area_square_m":2305687.295835,
     "geom:bbox":"-111.1243213,59.7358722,-111.0881037,59.750236",
     "geom:latitude":59.74218,
     "geom:longitude":-111.106363,
     "iso:country":"CA",
     "lbl:latitude":59.741075,
     "lbl:longitude":-111.096351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.741075,
     "mps:longitude":-111.096351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsu K'Adhe Tue 196F"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741667,
-    "wof:lastmodified":1533250161,
+    "wof:lastmodified":1566425802,
     "wof:name":"Tsu K'Adhe Tue 196F",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

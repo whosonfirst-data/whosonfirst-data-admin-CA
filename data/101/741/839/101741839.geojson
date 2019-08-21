@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002154,
+    "geom:area_square_m":15714212.511877,
     "geom:bbox":"-96.6024105,53.7993582,-96.3578367,53.8730422",
     "geom:latitude":53.837298,
     "geom:longitude":-96.49274,
     "iso:country":"CA",
     "lbl:latitude":53.826746,
     "lbl:longitude":-96.51015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.826746,
     "mps:longitude":-96.51015,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ponask Lake"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741839,
-    "wof:lastmodified":1533069828,
+    "wof:lastmodified":1566425827,
     "wof:name":"Ponask Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

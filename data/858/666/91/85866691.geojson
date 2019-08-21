@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.984299,
     "lbl:longitude":-114.061045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.986097,
     "mps:longitude":-114.051399,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -57,7 +58,6 @@
     "wof:concordances":{
         "gp:id":26342800,
         "qs:id":230559,
-        "qs_pg:id":230559,
         "wd:id":"Q5430737"
     },
     "wof:country":"CA",
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281924,
+    "wof:lastmodified":1566424948,
     "wof:name":"Fairview",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

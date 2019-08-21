@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003606,
+    "geom:area_square_m":27739603.419379,
     "geom:bbox":"-122.2910587,51.5152095,-122.17959,51.5530269",
     "geom:latitude":51.532911,
     "geom:longitude":-122.235857,
     "iso:country":"CA",
     "lbl:latitude":51.53356,
     "lbl:longitude":-122.235856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.53356,
     "mps:longitude":-122.235856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canoe Creek 3"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746131,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566425767,
     "wof:name":"Canoe Creek 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
+    "geom:area_square_m":738176.392559,
     "geom:bbox":"-129.5659825,53.5546036,-129.5537312,53.5655012",
     "geom:latitude":53.559889,
     "geom:longitude":-129.558857,
     "iso:country":"CA",
     "lbl:latitude":53.557375,
     "lbl:longitude":-129.558757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.557375,
     "mps:longitude":-129.558757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kumowdah 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743743,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566425921,
     "wof:name":"Kumowdah 3",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

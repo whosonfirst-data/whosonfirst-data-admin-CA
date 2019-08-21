@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.426475,
     "lbl:longitude":-107.223693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.426475,
     "mps:longitude":-107.223693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Herbert"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.427,
     "wd:longitude":-107.227,
     "wd:wordcount":345,
@@ -73,7 +76,6 @@
         "gn:id":5974093,
         "gp:id":2301,
         "qs:id":32941,
-        "qs_pg:id":32941,
         "wd:id":"Q1911442",
         "wk:page":"Herbert, Saskatchewan"
     },
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283973,
+    "wof:lastmodified":1566425360,
     "wof:name":"Herbert",
     "wof:parent_id":1158868947,
     "wof:placetype":"locality",

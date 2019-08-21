@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":22226.62857,
     "geom:bbox":"-130.7913995,54.1419455,-130.7882273,54.1445042",
     "geom:latitude":54.1434,
     "geom:longitude":-130.789822,
     "iso:country":"CA",
     "lbl:latitude":54.143737,
     "lbl:longitude":-130.789962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.143737,
     "mps:longitude":-130.789962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Squaderee 91"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743471,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566425908,
     "wof:name":"Squaderee 91",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

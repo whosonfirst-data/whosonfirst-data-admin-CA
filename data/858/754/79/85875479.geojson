@@ -11,8 +11,10 @@
     "geom:longitude":-64.805603,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.810603,46.108228,-64.800603,46.118228",
     "lbl:latitude":46.113228,
     "lbl:longitude":-64.805603,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.11323,
     "mps:longitude":-64.806296,
     "mz:hierarchy_label":0,
@@ -78,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0443\u043d\u0442\u0435\u043d-\u0412'\u044e"
     ],
-    "name:unk_x_variant":[
-        "Mountain View"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0624\u0646\u0679\u06cc\u0646 \u0648\u06cc\u0648"
     ],
@@ -119,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -130,8 +129,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856587,
-        "qs:id":986481,
-        "qs_pg:id":986481
+        "qs:id":986481
     },
     "wof:country":"CA",
     "wof:geomhash":"158ffec49db3d502f5c55f89e54f26fa",
@@ -149,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170693,
+    "wof:lastmodified":1566424934,
     "wof:name":"Mountain View",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

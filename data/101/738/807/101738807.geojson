@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.425144,
     "lbl:longitude":-74.038497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.425144,
     "mps:longitude":-74.038497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u062f\u0631\u064a\u0648\u0644"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":388,
     "wof:belongsto":[
         102191575,
@@ -85,7 +88,6 @@
         "gn:id":6173574,
         "gp:id":23394694,
         "qs:id":394424,
-        "qs_pg:id":394424,
         "wd:id":"Q3555064",
         "wk:page":"Vaudreuil-sur-le-Lac, Quebec"
     },
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101738807,
-    "wof:lastmodified":1563284715,
+    "wof:lastmodified":1566425476,
     "wof:name":"Vaudreuil-sur-le-Lac",
     "wof:parent_id":136251273,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.25774,
     "lbl:longitude":-68.226596,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.25774,
     "mps:longitude":-68.226596,
     "mz:hierarchy_label":1,
@@ -275,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.216667,
     "wd:longitude":-68.15,
@@ -292,7 +294,6 @@
         "gn:id":5889745,
         "gp:id":3626,
         "qs:id":959573,
-        "qs_pg:id":959573,
         "wd:id":"Q139654",
         "wk:page":"Baie-Comeau"
     },
@@ -308,7 +309,7 @@
         }
     ],
     "wof:id":101737479,
-    "wof:lastmodified":1563284148,
+    "wof:lastmodified":1566425383,
     "wof:name":"Baie-Comeau",
     "wof:parent_id":890457997,
     "wof:placetype":"locality",

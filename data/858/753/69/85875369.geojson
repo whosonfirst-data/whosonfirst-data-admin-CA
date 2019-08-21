@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":80464901.774257,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.3291,44.271397,-76.3291,44.271397",
     "geom:latitude":44.271397,
     "geom:longitude":-76.3291,
     "gn:elevation":107,
     "iso:country":"CA",
+    "lbl:bbox":"-76.3341,44.266397,-76.3241,44.276397",
     "lbl:latitude":44.271397,
     "lbl:longitude":-76.3291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.287195,
     "mps:longitude":-76.328418,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "St. Lawrence"
-    ],
-    "name:unk_x_variant":[
         "St. Lawrence"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740705,
         85633041,
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872092,
+    "wof:lastmodified":1566424934,
     "wof:name":"St. Lawrence",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

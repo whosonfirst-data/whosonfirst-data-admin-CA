@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.369684,
     "lbl:longitude":-80.984035,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.369684,
     "mps:longitude":-80.984035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Stratford"
     ],
@@ -188,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2751,
     "wof:belongsto":[
@@ -202,7 +205,6 @@
         "gn:id":6157977,
         "gp:id":4054,
         "qs:id":160419,
-        "qs_pg:id":160419,
         "wd:id":"Q740756",
         "wk:page":"Stratford, Ontario"
     },
@@ -218,7 +220,7 @@
         }
     ],
     "wof:id":101735651,
-    "wof:lastmodified":1563285360,
+    "wof:lastmodified":1566425857,
     "wof:name":"Stratford",
     "wof:parent_id":890456811,
     "wof:placetype":"locality",

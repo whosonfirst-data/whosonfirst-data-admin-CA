@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
+    "geom:area_square_m":973453.464944,
     "geom:bbox":"-98.4253881,51.6311758,-98.4049662,51.662182",
     "geom:latitude":51.646757,
     "geom:longitude":-98.414581,
     "iso:country":"CA",
     "lbl:latitude":51.656226,
     "lbl:longitude":-98.408768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.656226,
     "mps:longitude":-98.408768,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Saskatchewan 48B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741719,
-    "wof:lastmodified":1533069140,
+    "wof:lastmodified":1566425830,
     "wof:name":"Little Saskatchewan 48B",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

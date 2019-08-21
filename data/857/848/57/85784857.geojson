@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9869177.783177,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-59.871643,46.128078,-59.871643,46.128078",
     "geom:latitude":46.128078,
     "geom:longitude":-59.871643,
     "gn:latitude":46.13344,
     "gn:longitude":-59.86514,
     "iso:country":"CA",
+    "lbl:bbox":"-59.876643,46.123078,-59.866643,46.133078",
     "lbl:latitude":46.128078,
     "lbl:longitude":-59.871643,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.129165,
     "mps:longitude":-59.874129,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Port Morien"
-    ],
-    "name:unk_x_variant":[
         "Port Morien"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":708,
     "wof:belongsto":[
         102191575,
@@ -72,7 +71,6 @@
         "gn:id":6111963,
         "gp:id":1262,
         "qs:id":493936,
-        "qs_pg:id":493936,
         "wd:id":"Q7230810",
         "wk:page":"Port Morien"
     },
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860655,
+    "wof:lastmodified":1566424896,
     "wof:name":"Port Morien",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

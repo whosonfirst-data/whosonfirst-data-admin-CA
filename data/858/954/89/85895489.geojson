@@ -11,8 +11,10 @@
     "geom:longitude":-79.383251,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.388251,43.845454,-79.378251,43.855454",
     "lbl:latitude":43.850454,
     "lbl:longitude":-79.383251,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.851365,
     "mps:longitude":-79.38385,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0432\u0435\u0440-\u041a\u0440\u0456\u043a"
     ],
-    "name:unk_x_variant":[
-        "Beaver Creek"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u0631 \u06a9\u0631\u06cc\u06a9"
     ],
@@ -101,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736179,
@@ -112,8 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999463,
-        "qs:id":384918,
-        "qs_pg:id":384918
+        "qs:id":384918
     },
     "wof:country":"CA",
     "wof:geomhash":"fe0ff15563549147885cb5636907fbc4",
@@ -137,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170676,
+    "wof:lastmodified":1566424929,
     "wof:name":"Beaver Creek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

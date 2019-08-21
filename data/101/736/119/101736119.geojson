@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.49447,
     "lbl:longitude":-76.868773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.49447,
     "mps:longitude":-76.868773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Admaston/Bromley"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":273,
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101736119,
-    "wof:lastmodified":1563284459,
+    "wof:lastmodified":1566425437,
     "wof:name":"Admaston/Bromley",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

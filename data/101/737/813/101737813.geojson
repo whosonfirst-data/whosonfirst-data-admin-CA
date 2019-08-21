@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.579393,
     "lbl:longitude":-79.434649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.579393,
     "mps:longitude":-79.434649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a \u062f\u0627\u0645 \u062f\u0648 \u0646\u0648\u0631\u062f"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":438,
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "gn:id":6091458,
         "gp:id":3286,
         "qs:id":480684,
-        "qs_pg:id":480684,
         "wd:id":"Q4137819",
         "wk:page":"Notre-Dame-du-Nord, Quebec"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737813,
-    "wof:lastmodified":1563284273,
+    "wof:lastmodified":1566425406,
     "wof:name":"Notre-Dame-du-Nord",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

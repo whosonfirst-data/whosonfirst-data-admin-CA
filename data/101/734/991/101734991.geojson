@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.646747,
     "lbl:longitude":-100.667684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.646747,
     "mps:longitude":-100.667684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sifton"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101734991,
-    "wof:lastmodified":1561844447,
+    "wof:lastmodified":1566425835,
     "wof:name":"Sifton",
     "wof:parent_id":1158868945,
     "wof:placetype":"locality",

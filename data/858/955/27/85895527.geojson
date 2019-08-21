@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4584957.178154,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.263062,43.965883,-79.263062,43.965883",
     "geom:latitude":43.965883,
     "geom:longitude":-79.263062,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.268062,43.960883,-79.258062,43.970883",
     "lbl:latitude":43.965883,
     "lbl:longitude":-79.263062,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.963287,
     "mps:longitude":-79.269037,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Wheler's Mill"
-    ],
-    "name:unk_x_variant":[
         "Wheler's Mill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999501,
-        "qs:id":973505,
-        "qs_pg:id":973505
+        "qs:id":973505
     },
     "wof:country":"CA",
     "wof:geomhash":"064486cee35e558c57fd577a55da2f5c",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931427,
+    "wof:lastmodified":1566424938,
     "wof:name":"Wheler's Mill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

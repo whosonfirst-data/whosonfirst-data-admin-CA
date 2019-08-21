@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.297958,
     "lbl:longitude":-65.973251,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.297958,
     "mps:longitude":-65.973251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Saint John"
     ],
@@ -237,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":45.2796,
     "wd:longitude":-66.0628,
@@ -273,7 +276,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285388,
+    "wof:lastmodified":1566425863,
     "wof:name":"Saint John",
     "wof:parent_id":890458005,
     "wof:placetype":"locality",

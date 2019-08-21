@@ -5,7 +5,7 @@
     "edtf:cessation":"2006-11-01",
     "edtf:inception":"uuuu",
     "geom:area":0.006386,
-    "geom:area_square_m":54097746.749821,
+    "geom:area_square_m":54097746.749819,
     "geom:bbox":"-71.5776879882,46.7100931837,-71.3387597867,46.8156996064",
     "geom:latitude":46.75995,
     "geom:longitude":-71.462612,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.73775,
     "lbl:longitude":-71.437325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.765327,
     "mps:longitude":-71.408755,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "Laurentides"
-    ],
-    "name:unk_x_variant":[
-        "Laurentien"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191575,
@@ -82,8 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856063,
-        "qs:id":381334,
-        "qs_pg:id":381334
+        "qs:id":381334
     },
     "wof:country":"CA",
     "wof:geomhash":"3f0a8eeec34553d88413d120df98630c",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527270167,
+    "wof:lastmodified":1566424957,
     "wof:name":"Laurentien",
     "wof:parent_id":101737245,
     "wof:placetype":"neighbourhood",

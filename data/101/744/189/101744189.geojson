@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001241,
+    "geom:area_square_m":9789392.580695,
     "geom:bbox":"-121.203672,50.3326353,-121.1586416,50.3617835",
     "geom:latitude":50.347681,
     "geom:longitude":-121.180216,
     "iso:country":"CA",
     "lbl:latitude":50.347252,
     "lbl:longitude":-121.180216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.347252,
     "mps:longitude":-121.180216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Soldatquo 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744189,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566425895,
     "wof:name":"Soldatquo 12",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

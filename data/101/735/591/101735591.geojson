@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":48.432556,
     "lbl:longitude":-89.311192,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.432556,
     "mps:longitude":-89.311192,
     "mz:hierarchy_label":1,
@@ -346,7 +348,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":199.0,
     "wd:latitude":48.3822,
@@ -365,7 +367,6 @@
         "gn:id":6166142,
         "gp:id":4043,
         "qs:id":355774,
-        "qs_pg:id":355774,
         "wd:id":"Q34116",
         "wk:page":"Thunder Bay"
     },
@@ -384,7 +385,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285438,
+    "wof:lastmodified":1566425872,
     "wof:megacity":0,
     "wof:name":"Thunder Bay",
     "wof:parent_id":890458687,

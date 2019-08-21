@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
+    "geom:area_square_m":255923.032355,
     "geom:bbox":"-124.5896229,50.2421001,-124.5830893,50.247532",
     "geom:latitude":50.244952,
     "geom:longitude":-124.586224,
     "iso:country":"CA",
     "lbl:latitude":50.245553,
     "lbl:longitude":-124.586595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.245553,
     "mps:longitude":-124.586595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ahpokum 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744651,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566425893,
     "wof:name":"Ahpokum 9",
     "wof:parent_id":890456815,
     "wof:placetype":"locality",

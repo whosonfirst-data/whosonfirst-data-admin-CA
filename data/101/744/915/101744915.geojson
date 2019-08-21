@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
+    "geom:area_square_m":2156925.811927,
     "geom:bbox":"-124.1990739,53.9158361,-124.17446,53.9293408",
     "geom:latitude":53.923232,
     "geom:longitude":-124.186446,
     "iso:country":"CA",
     "lbl:latitude":53.923164,
     "lbl:longitude":-124.185462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.923164,
     "mps:longitude":-124.185462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Laketown 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744915,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566425896,
     "wof:name":"Laketown 3",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

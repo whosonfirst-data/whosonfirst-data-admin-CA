@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":30618363.397037,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.27249,45.357562,-73.27249,45.357562",
     "geom:latitude":45.357562,
     "geom:longitude":-73.27249,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.27749,45.352562,-73.26749,45.362562",
     "lbl:latitude":45.357562,
     "lbl:longitude":-73.27249,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.365363,
     "mps:longitude":-73.27352,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "St-Luc"
     ],
     "name:fra_x_preferred":[
-        "St-Luc"
-    ],
-    "name:unk_x_variant":[
         "St-Luc"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394315,
-        "qs:id":1085710,
-        "qs_pg:id":1085710
+        "qs:id":1085710
     },
     "wof:country":"CA",
     "wof:geomhash":"25d1d94944c7cd767085c8c4680aea7f",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870884,
+    "wof:lastmodified":1566424940,
     "wof:name":"St-Luc",
     "wof:parent_id":101738721,
     "wof:placetype":"neighbourhood",

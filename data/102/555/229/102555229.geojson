@@ -16,6 +16,7 @@
     "mps:longitude":-79.398992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeropuertu Toronto City Centre"
     ],
@@ -91,7 +92,7 @@
     "src:geom_alt":[
         "woedb"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375205,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":102555229,
-    "wof:lastmodified":1563281349,
+    "wof:lastmodified":1566424822,
     "wof:name":"Toronto City Centre Airport",
     "wof:parent_id":1108906491,
     "wof:placetype":"campus",

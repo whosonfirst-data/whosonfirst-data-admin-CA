@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":34590.354392,
     "geom:bbox":"-132.2244782,53.6682243,-132.2210612,53.6714616",
     "geom:latitude":53.670268,
     "geom:longitude":-132.22321,
     "iso:country":"CA",
     "lbl:latitude":53.670232,
     "lbl:longitude":-132.223472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.670232,
     "mps:longitude":-132.223472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Satunquin 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742839,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425941,
     "wof:name":"Satunquin 5",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

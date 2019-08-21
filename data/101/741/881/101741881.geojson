@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1202.979912,
     "geom:bbox":"-106.6946661,52.1256996,-106.6942206,52.1260573",
     "geom:latitude":52.125878,
     "geom:longitude":-106.694443,
     "iso:country":"CA",
     "lbl:latitude":52.125861,
     "lbl:longitude":-106.694381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.125861,
     "mps:longitude":-106.694381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sounding Sky"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741881,
-    "wof:lastmodified":1531524173,
+    "wof:lastmodified":1566425798,
     "wof:name":"Sounding Sky",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

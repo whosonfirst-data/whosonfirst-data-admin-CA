@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.518287,
     "lbl:longitude":-113.308851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.517445,
     "mps:longitude":-113.312864,
     "mz:hierarchy_label":1,
@@ -32,7 +33,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1108936383,
-    "wof:lastmodified":1533250169,
+    "wof:lastmodified":1566425231,
     "wof:name":"Sherwood Heights",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.954176,
     "lbl:longitude":-79.443927,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.954176,
     "mps:longitude":-79.443927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:atj_x_preferred":[
         "Saint-Lambert"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":252,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
         "gn:id":6138599,
         "gp:id":29374135,
         "qs:id":279537,
-        "qs_pg:id":279537,
         "wd:id":"Q3462683"
     },
     "wof:country":"CA",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101738125,
-    "wof:lastmodified":1563284752,
+    "wof:lastmodified":1566425482,
     "wof:name":"Saint-Lambert",
     "wof:parent_id":890457577,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20404645.981128,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.697089,43.856661,-79.697089,43.856661",
     "geom:latitude":43.856661,
     "geom:longitude":-79.697089,
     "iso:country":"CA",
+    "lbl:bbox":"-79.702089,43.851661,-79.692089,43.861661",
     "lbl:latitude":43.856661,
     "lbl:longitude":-79.697089,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.849693,
     "mps:longitude":-79.699677,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Tormore"
-    ],
-    "name:unk_x_variant":[
         "Tormore"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -72,8 +71,7 @@
     "wof:concordances":{
         "gn:id":6167848,
         "gp:id":55999264,
-        "qs:id":424738,
-        "qs_pg:id":424738
+        "qs:id":424738
     },
     "wof:country":"CA",
     "wof:geomhash":"69b91bd26c561822814f43b4a8fc8e18",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931370,
+    "wof:lastmodified":1566424937,
     "wof:name":"Tormore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

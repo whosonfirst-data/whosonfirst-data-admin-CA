@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000482,
-    "geom:area_square_m":4185438.581077,
+    "geom:area_square_m":4185438.58108,
     "geom:bbox":"-75.6725859999,45.3984889998,-75.6258880003,45.4177078515",
     "geom:latitude":45.405946,
     "geom:longitude":-75.653303,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.408119,
     "lbl:longitude":-75.651957,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.409376,
     "mps:longitude":-75.64804,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1126058431,
@@ -49,7 +50,6 @@
     "wof:concordances":{
         "gp:id":55855631,
         "qs:id":220541,
-        "qs_pg:id":220541,
         "wd:id":"Q4394348"
     },
     "wof:controlled":[],
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553814909,
+    "wof:lastmodified":1566424955,
     "wof:name":"Riverview",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

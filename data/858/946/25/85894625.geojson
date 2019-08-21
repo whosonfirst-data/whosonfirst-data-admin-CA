@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1364751.3335,
+    "geom:area_square_m":1364751.333501,
     "geom:bbox":"-122.978273346,49.2011438084,-122.956738837,49.2151213418",
     "geom:latitude":49.208654,
     "geom:longitude":-122.965585,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.20923,
     "lbl:longitude":-122.965421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.208761,
     "mps:longitude":-122.961744,
     "mz:hierarchy_label":0,
@@ -29,9 +30,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Stride Hill"
-    ],
-    "name:unk_x_variant":[
         "Stride Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +63,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108915095,
@@ -77,8 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998705,
-        "qs:id":897467,
-        "qs_pg:id":897467
+        "qs:id":897467
     },
     "wof:country":"CA",
     "wof:geomhash":"db3b524f67f3b13fe5a8ea16d5912452",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566424955,
     "wof:name":"Stride Hill",
     "wof:parent_id":1108915095,
     "wof:placetype":"neighbourhood",

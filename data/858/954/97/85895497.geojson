@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2808672.804084,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.725037,43.307194,-79.725037,43.307194",
     "geom:latitude":43.307194,
     "geom:longitude":-79.725037,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.730037,43.302194,-79.720037,43.312194",
     "lbl:latitude":43.307194,
     "lbl:longitude":-79.725037,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.307192,
     "mps:longitude":-79.725037,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "East Burlington"
-    ],
-    "name:unk_x_variant":[
         "East Burlington"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735965,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999471,
-        "qs:id":19606,
-        "qs_pg:id":19606
+        "qs:id":19606
     },
     "wof:country":"CA",
     "wof:geomhash":"f98ad2856ecae4912c3e4073c05a43ed",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931422,
+    "wof:lastmodified":1566424930,
     "wof:name":"East Burlington",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

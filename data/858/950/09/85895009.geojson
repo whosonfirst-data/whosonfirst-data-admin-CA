@@ -11,8 +11,10 @@
     "geom:longitude":-79.326333,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.331333,43.927004,-79.321333,43.937004",
     "lbl:latitude":43.932004,
     "lbl:longitude":-79.326333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.940153,
     "mps:longitude":-79.333985,
     "mz:hierarchy_label":0,
@@ -78,9 +80,6 @@
     "name:swe_x_preferred":[
         "Almira"
     ],
-    "name:unk_x_variant":[
-        "Almira"
-    ],
     "name:vie_x_preferred":[
         "Almira"
     ],
@@ -113,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1215,
     "wof:belongsto":[
         102191575,
@@ -126,7 +125,6 @@
     "wof:concordances":{
         "gp:id":55999009,
         "qs:id":1090812,
-        "qs_pg:id":1090812,
         "wd:id":"Q1547158"
     },
     "wof:country":"CA",
@@ -151,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282044,
+    "wof:lastmodified":1566424970,
     "wof:name":"Almira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

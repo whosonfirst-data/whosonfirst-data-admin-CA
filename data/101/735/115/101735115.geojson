@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.192331,
     "lbl:longitude":-98.108521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.192331,
     "mps:longitude":-98.108521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Morden"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1626,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
         "gn:id":6078447,
         "gp:id":3033,
         "qs:id":1252224,
-        "qs_pg:id":1252224,
         "wd:id":"Q579689",
         "wk:page":"Morden, Manitoba"
     },
@@ -131,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285501,
+    "wof:lastmodified":1566425883,
     "wof:name":"Morden",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

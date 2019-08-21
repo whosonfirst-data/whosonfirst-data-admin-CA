@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16724.396518,
     "geom:bbox":"-125.0851924,50.3261866,-125.0831879,50.3276977",
     "geom:latitude":50.327029,
     "geom:longitude":-125.084283,
     "iso:country":"CA",
     "lbl:latitude":50.327004,
     "lbl:longitude":-125.084282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.327004,
     "mps:longitude":-125.084282,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bartlett Island 7"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":9093
     },
     "wof:country":"CA",
-    "wof:geomhash":"3f208f5ced31e691cba588289f3cb8ce",
+    "wof:geomhash":"9f5d3fec945d3fd3cc24db5c09193cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101744633,
-    "wof:lastmodified":1493163512,
+    "wof:lastmodified":1566425893,
     "wof:name":"Bartlett Island 7",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

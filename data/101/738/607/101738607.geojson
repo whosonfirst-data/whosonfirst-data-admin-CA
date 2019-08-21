@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.47943,
     "lbl:longitude":-71.620114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.47943,
     "mps:longitude":-71.620114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Westbury"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"Canton",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191575,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101738607,
-    "wof:lastmodified":1563284733,
+    "wof:lastmodified":1566425479,
     "wof:name":"Westbury",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

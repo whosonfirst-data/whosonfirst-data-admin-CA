@@ -12,8 +12,10 @@
     "gn:latitude":43.69711,
     "gn:longitude":-79.40839,
     "iso:country":"CA",
+    "lbl:bbox":"-79.42106,43.691373,-79.41106,43.701373",
     "lbl:latitude":43.696373,
     "lbl:longitude":-79.41606,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.700363,
     "mps:longitude":-79.417173,
     "mz:hierarchy_label":0,
@@ -45,7 +47,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         1108904959,
@@ -60,7 +62,6 @@
         "gn:id":5955534,
         "gp:id":519,
         "qs:id":1113254,
-        "qs_pg:id":1113254,
         "wd:id":"Q3077160",
         "wk:page":"Forest Hill, Toronto"
     },
@@ -83,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281722,
+    "wof:lastmodified":1566424900,
     "wof:name":"Forest Hill",
     "wof:parent_id":1108904959,
     "wof:placetype":"neighbourhood",

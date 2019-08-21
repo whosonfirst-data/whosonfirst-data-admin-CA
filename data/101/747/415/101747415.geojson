@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
+    "geom:area_square_m":2714543.24289,
     "geom:bbox":"-94.7587153,54.7443093,-94.7146764,54.7625133",
     "geom:latitude":54.75305,
     "geom:longitude":-94.734692,
     "iso:country":"CA",
     "lbl:latitude":54.7518,
     "lbl:longitude":-94.736128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.7518,
     "mps:longitude":-94.736128,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hawkins Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747415,
-    "wof:lastmodified":1533069715,
+    "wof:lastmodified":1566425557,
     "wof:name":"Hawkins Indian Reserve",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

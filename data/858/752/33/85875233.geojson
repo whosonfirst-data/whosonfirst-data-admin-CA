@@ -11,8 +11,10 @@
     "geom:longitude":-104.599041,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-104.604041,50.474325,-104.594041,50.484325",
     "lbl:latitude":50.479325,
     "lbl:longitude":-104.599041,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.484323,
     "mps:longitude":-104.587818,
     "mz:hierarchy_label":0,
@@ -156,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         1126113661,
@@ -168,8 +170,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856396,
-        "qs:id":897381,
-        "qs_pg:id":897381
+        "qs:id":897381
     },
     "wof:country":"CA",
     "wof:geomhash":"278a8bbe7aad30e1d8363287b637a7ec",
@@ -188,7 +189,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170661,
+    "wof:lastmodified":1566424925,
     "wof:name":"Northeast",
     "wof:parent_id":1126113661,
     "wof:placetype":"neighbourhood",

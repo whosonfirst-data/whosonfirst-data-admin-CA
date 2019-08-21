@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.13946,
     "lbl:longitude":-71.715934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.13946,
     "mps:longitude":-71.715934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Sophie-d'Halifax"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101736989,
-    "wof:lastmodified":1563284551,
+    "wof:lastmodified":1566425451,
     "wof:name":"Sainte-Sophie-d'Halifax",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

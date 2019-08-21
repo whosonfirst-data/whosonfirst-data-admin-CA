@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.201433,
     "lbl:longitude":-122.952902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.19709,
     "mps:longitude":-122.95643,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Connaught Heights"
-    ],
-    "name:unk_x_variant":[
         "Connaught Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +62,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -75,8 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998891,
-        "qs:id":888522,
-        "qs_pg:id":888522
+        "qs:id":888522
     },
     "wof:country":"CA",
     "wof:geomhash":"824c5803e9bd0d73ac8727478072d430",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335943,
+    "wof:lastmodified":1566424952,
     "wof:name":"Connaught Heights",
     "wof:parent_id":101741077,
     "wof:placetype":"neighbourhood",

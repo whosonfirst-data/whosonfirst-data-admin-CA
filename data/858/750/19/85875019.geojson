@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1091814.807877,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.458878,43.421008,-80.458878,43.421008",
     "geom:latitude":43.421008,
     "geom:longitude":-80.458878,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.463878,43.416008,-80.453878,43.426008",
     "lbl:latitude":43.421008,
     "lbl:longitude":-80.458878,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.418093,
     "mps:longitude":-80.458357,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Country Hills East"
-    ],
-    "name:unk_x_variant":[
         "Country Hills East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856282,
-        "qs:id":1000970,
-        "qs_pg:id":1000970
+        "qs:id":1000970
     },
     "wof:country":"CA",
     "wof:geomhash":"ab2e1ad1e2f98f7a906fd72f82dfabf1",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871996,
+    "wof:lastmodified":1566424979,
     "wof:name":"Country Hills East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

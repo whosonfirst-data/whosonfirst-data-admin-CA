@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17089085.540904,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.77434,53.867856,-122.77434,53.867856",
     "geom:latitude":53.867856,
     "geom:longitude":-122.77434,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.77934,53.862856,-122.76934,53.872856",
     "lbl:latitude":53.867856,
     "lbl:longitude":-122.77434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.864285,
     "mps:longitude":-122.771707,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "College Heights"
-    ],
-    "name:unk_x_variant":[
         "College Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,20 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":186,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405276,
-        "qs:id":367487,
-        "qs_pg:id":367487
+        "qs:id":367487
     },
     "wof:country":"CA",
     "wof:geomhash":"8daa39f75ec0d34f9b78438a10d8c3be",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870997,
+    "wof:lastmodified":1566424949,
     "wof:name":"College Heights",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

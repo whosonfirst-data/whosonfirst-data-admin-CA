@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.749698,
     "lbl:longitude":-64.740163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.749698,
     "mps:longitude":-64.740163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u0631\u0633\u0627\u064a\u062f \u0623\u0644\u0628\u0631\u062a"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.75,
     "wd:longitude":-64.7167,
     "wd:wordcount":128,
@@ -76,7 +79,6 @@
         "gn:id":6122725,
         "gp:id":23392483,
         "qs:id":192200,
-        "qs_pg:id":192200,
         "wd:id":"Q3433517",
         "wk:page":"Riverside-Albert, New Brunswick"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735367,
-    "wof:lastmodified":1563285431,
+    "wof:lastmodified":1566425871,
     "wof:name":"Riverside-Albert",
     "wof:parent_id":890456457,
     "wof:placetype":"locality",

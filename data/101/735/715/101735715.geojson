@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.651483,
     "lbl:longitude":-88.688782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.651483,
     "mps:longitude":-88.688782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shuniah"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101735715,
-    "wof:lastmodified":1561844471,
+    "wof:lastmodified":1566425865,
     "wof:name":"Shuniah",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

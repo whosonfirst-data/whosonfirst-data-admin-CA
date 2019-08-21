@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
+    "geom:area_square_m":1289657.35804,
     "geom:bbox":"-123.5645632,53.2537574,-123.5404435,53.2610004",
     "geom:latitude":53.257376,
     "geom:longitude":-123.552507,
     "iso:country":"CA",
     "lbl:latitude":53.257376,
     "lbl:longitude":-123.552506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.257376,
     "mps:longitude":-123.552506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Euchinico Creek 19"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745167,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566425949,
     "wof:name":"Euchinico Creek 19",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

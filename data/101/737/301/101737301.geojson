@@ -9,14 +9,17 @@
     "geom:bbox":"-73.592358555,45.042958526,-73.578646911,45.051092319",
     "geom:latitude":45.04693,
     "geom:longitude":-73.585685,
-    "geonames:id":"5973740,5973741",
+    "gn:id":"5973740,5973741",
     "iso:country":"CA",
     "lbl:latitude":45.046854,
     "lbl:longitude":-73.585682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.046854,
     "mps:longitude":-73.585682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hemmingford"
     ],
@@ -231,7 +234,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191575,
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":101737301,
-    "wof:lastmodified":1563284122,
+    "wof:lastmodified":1566425380,
     "wof:name":"Hemmingford",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

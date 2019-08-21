@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20255664.358194,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.915628,42.259291,-81.915628,42.259291",
     "geom:latitude":42.259291,
     "geom:longitude":-81.915628,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.920628,42.254291,-81.910628,42.264291",
     "lbl:latitude":42.259291,
     "lbl:longitude":-81.915628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.25844,
     "mps:longitude":-81.909492,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Erieau"
-    ],
-    "name:unk_x_variant":[
         "Erieau"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735857,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":4402,
-        "qs:id":1060981,
-        "qs_pg:id":1060981
+        "qs:id":1060981
     },
     "wof:country":"CA",
     "wof:geomhash":"fea266feb65188d25edbe92ae416032a",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860676,
+    "wof:lastmodified":1566424895,
     "wof:name":"Erieau",
     "wof:parent_id":101735857,
     "wof:placetype":"neighbourhood",

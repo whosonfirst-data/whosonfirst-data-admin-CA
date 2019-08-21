@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001399,
-    "geom:area_square_m":12465903.541173,
+    "geom:area_square_m":12465903.541178,
     "geom:bbox":"-78.9495141601,43.8909456683,-78.8872249438,43.9354836859",
     "geom:latitude":43.913614,
     "geom:longitude":-78.916888,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.919614,
     "lbl:longitude":-78.90058,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.916666,
     "mps:longitude":-78.909578,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Northglen"
-    ],
-    "name:unk_x_variant":[
         "Northglen"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856355,
-        "qs:id":1089543,
-        "qs_pg:id":1089543
+        "qs:id":1089543
     },
     "wof:country":"CA",
     "wof:geomhash":"1701791adb2165385ca8c058798eb3f5",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335735,
+    "wof:lastmodified":1566424973,
     "wof:name":"Northglen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

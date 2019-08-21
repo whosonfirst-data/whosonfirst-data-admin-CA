@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
+    "geom:area_square_m":127337.42265,
     "geom:bbox":"-127.0562528,49.9393059,-127.0507868,49.9429259",
     "geom:latitude":49.940991,
     "geom:longitude":-127.053988,
     "iso:country":"CA",
     "lbl:latitude":49.941117,
     "lbl:longitude":-127.054406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.941117,
     "mps:longitude":-127.054406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Occosh 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743239,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566425920,
     "wof:name":"Occosh 8",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

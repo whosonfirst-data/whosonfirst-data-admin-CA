@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3808599.098203,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-63.60059,44.629825,-63.60059,44.629825",
     "geom:latitude":44.629825,
     "geom:longitude":-63.60059,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-63.60559,44.624825,-63.59559,44.634825",
     "lbl:latitude":44.629825,
     "lbl:longitude":-63.60059,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.626125,
     "mps:longitude":-63.603881,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Jollimore"
-    ],
-    "name:unk_x_variant":[
         "Jollimore"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682075,
         102191575,
         85633041,
-        890456491,
-        85682075
+        890456491
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23390182,
-        "qs:id":347453,
-        "qs_pg:id":347453
+        "qs:id":347453
     },
     "wof:country":"CA",
     "wof:geomhash":"205707792213eba99359db66513b0834",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870859,
+    "wof:lastmodified":1566424941,
     "wof:name":"Jollimore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

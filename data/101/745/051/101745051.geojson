@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":413019.31336,
     "geom:bbox":"-121.9824468,51.4724945,-121.9669275,51.4778959",
     "geom:latitude":51.475621,
     "geom:longitude":-121.977068,
     "iso:country":"CA",
     "lbl:latitude":51.475193,
     "lbl:longitude":-121.978472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.475193,
     "mps:longitude":-121.978472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fish Lake 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745051,
-    "wof:lastmodified":1533335903,
+    "wof:lastmodified":1566425980,
     "wof:name":"Fish Lake 5",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

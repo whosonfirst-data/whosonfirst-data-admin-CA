@@ -11,8 +11,10 @@
     "geom:longitude":-79.888029,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.893029,43.212096,-79.883029,43.222096",
     "lbl:latitude":43.217096,
     "lbl:longitude":-79.888029,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.215289,
     "mps:longitude":-79.881279,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Yeoville"
     ],
     "name:eng_x_preferred":[
-        "Yeoville"
-    ],
-    "name:unk_x_variant":[
         "Yeoville"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -76,8 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856155,
-        "qs:id":486009,
-        "qs_pg:id":486009
+        "qs:id":486009
     },
     "wof:country":"CA",
     "wof:geomhash":"959e284b64d8259a5fdec0c0f6efe4a7",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170795,
+    "wof:lastmodified":1566424965,
     "wof:name":"Yeoville",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

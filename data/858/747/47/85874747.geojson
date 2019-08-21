@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.891061,
     "lbl:longitude":-97.153051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.889804,
     "mps:longitude":-97.153141,
     "mz:hierarchy_label":1,
@@ -228,9 +229,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Colony"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0622\u0628\u0627\u062f\u06cc"
     ],
@@ -257,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968511,
@@ -269,8 +267,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856081,
-        "qs:id":899238,
-        "qs_pg:id":899238
+        "qs:id":899238
     },
     "wof:country":"CA",
     "wof:geomhash":"8dc53db38ef94007dd343bd4ec8624b9",
@@ -289,7 +286,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170769,
+    "wof:lastmodified":1566424957,
     "wof:name":"Colony",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

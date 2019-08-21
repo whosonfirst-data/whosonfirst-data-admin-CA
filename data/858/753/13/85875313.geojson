@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8714591.077401,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.395275,49.868036,-119.395275,49.868036",
     "geom:latitude":49.868036,
     "geom:longitude":-119.395275,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.400275,49.863036,-119.390275,49.873036",
     "lbl:latitude":49.868036,
     "lbl:longitude":-119.395275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.865418,
     "mps:longitude":-119.39138,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Rutland South"
-    ],
-    "name:unk_x_variant":[
         "Rutland South"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":96,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741131,
-        890458697,
-        85682117
+        890458697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856447,
-        "qs:id":381574,
-        "qs_pg:id":381574
+        "qs:id":381574
     },
     "wof:country":"CA",
     "wof:geomhash":"e259ec34c1c1aeb864e614d7884251ab",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872074,
+    "wof:lastmodified":1566424936,
     "wof:name":"Rutland South",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.676807,
     "lbl:longitude":-72.041333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.676807,
     "mps:longitude":-72.041333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:atj_x_preferred":[
         "Saint-Marc-des-Carri\u00e8res"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":46.6833,
     "wd:longitude":-72.05,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101738269,
-    "wof:lastmodified":1563284630,
+    "wof:lastmodified":1566425463,
     "wof:name":"Saint-Marc-des-Carri\u00e8res",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

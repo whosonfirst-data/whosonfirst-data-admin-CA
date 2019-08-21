@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":50.930489,
     "lbl:longitude":-102.808409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.930489,
     "mps:longitude":-102.808409,
     "mz:hierarchy_label":1,
@@ -250,7 +252,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1235,
     "wof:belongsto":[
@@ -265,7 +267,6 @@
         "gn:id":6071971,
         "gp:id":2479,
         "qs:id":1238481,
-        "qs_pg:id":1238481,
         "wd:id":"Q605427",
         "wk:page":"Melville, Saskatchewan"
     },
@@ -284,7 +285,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283999,
+    "wof:lastmodified":1566425364,
     "wof:name":"Melville",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

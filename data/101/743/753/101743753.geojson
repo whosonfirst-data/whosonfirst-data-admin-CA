@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":23773.535198,
     "geom:bbox":"-128.4514521,53.8116247,-128.4476851,53.8130468",
     "geom:latitude":53.812492,
     "geom:longitude":-128.449992,
     "iso:country":"CA",
     "lbl:latitude":53.812334,
     "lbl:longitude":-128.450515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.812334,
     "mps:longitude":-128.450515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ja We Yah'S 99"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743753,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566425907,
     "wof:name":"Ja We Yah'S 99",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

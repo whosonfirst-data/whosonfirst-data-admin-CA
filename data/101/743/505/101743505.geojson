@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
+    "geom:area_square_m":419147.844217,
     "geom:bbox":"-130.356328,54.6196947,-130.3438656,54.6251217",
     "geom:latitude":54.622105,
     "geom:longitude":-130.350379,
     "iso:country":"CA",
     "lbl:latitude":54.621638,
     "lbl:longitude":-130.351128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.621638,
     "mps:longitude":-130.351128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Union Bay 31"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101743505,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566425907,
     "wof:name":"Union Bay 31",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

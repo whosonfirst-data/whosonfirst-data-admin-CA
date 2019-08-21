@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3357396.343167,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.440717,43.902007,-79.440717,43.902007",
     "geom:latitude":43.902007,
     "geom:longitude":-79.440717,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.445717,43.897007,-79.435717,43.907007",
     "lbl:latitude":43.902007,
     "lbl:longitude":-79.440717,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.900877,
     "mps:longitude":-79.441318,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Elgin Mills"
-    ],
-    "name:unk_x_variant":[
         "Elgin Mills"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999003,
-        "qs:id":1190711,
-        "qs_pg:id":1190711
+        "qs:id":1190711
     },
     "wof:country":"CA",
     "wof:geomhash":"6aea3af41a14a7089806f6e44c6d40e8",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931299,
+    "wof:lastmodified":1566424969,
     "wof:name":"Elgin Mills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

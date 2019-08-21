@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011623,
+    "geom:area_square_m":92061199.808721,
     "geom:bbox":"-120.3364804,50.0986336,-120.2239727,50.2428477",
     "geom:latitude":50.165812,
     "geom:longitude":-120.281047,
     "iso:country":"CA",
     "lbl:latitude":50.179815,
     "lbl:longitude":-120.287747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.179815,
     "mps:longitude":-120.287747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Douglas Lake 3"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746587,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566425765,
     "wof:name":"Douglas Lake 3",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

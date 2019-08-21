@@ -14,15 +14,18 @@
     "geom:longitude":-110.48464,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.350602,
     "lbl:longitude":-110.484643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.350602,
     "mps:longitude":-110.484643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oyen"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":770.0,
     "wd:latitude":"51.3522",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890458787,
-    "wof:lastmodified":1563286115,
+    "wof:lastmodified":1566426045,
     "wof:name":"Oyen",
     "wof:parent_id":1158863289,
     "wof:placetype":"locality",

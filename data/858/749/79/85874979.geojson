@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1781143.908388,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.470655,43.473643,-80.470655,43.473643",
     "geom:latitude":43.473643,
     "geom:longitude":-80.470655,
     "iso:country":"CA",
+    "lbl:bbox":"-80.475655,43.468643,-80.465655,43.478643",
     "lbl:latitude":43.473643,
     "lbl:longitude":-80.470655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.474068,
     "mps:longitude":-80.46873,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Bridgeport East"
-    ],
-    "name:unk_x_variant":[
         "Bridgeport East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -72,8 +71,7 @@
     "wof:concordances":{
         "gn:id":5908691,
         "gp:id":55856259,
-        "qs:id":488916,
-        "qs_pg:id":488916
+        "qs:id":488916
     },
     "wof:country":"CA",
     "wof:geomhash":"76d48a7fce80fc2ebd20e3e3ee1ba739",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871983,
+    "wof:lastmodified":1566424959,
     "wof:name":"Bridgeport East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

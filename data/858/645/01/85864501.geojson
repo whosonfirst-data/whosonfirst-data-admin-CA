@@ -11,8 +11,10 @@
     "geom:longitude":-79.614295,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.619295,44.359572,-79.609295,44.369572",
     "lbl:latitude":44.364572,
     "lbl:longitude":-79.614295,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.354552,
     "mps:longitude":-79.615214,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Bayshore"
     ],
     "name:por_x_preferred":[
-        "Bayshore"
-    ],
-    "name:unk_x_variant":[
         "Bayshore"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191575,
@@ -76,8 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399441,
-        "qs:id":985319,
-        "qs_pg:id":985319
+        "qs:id":985319
     },
     "wof:country":"CA",
     "wof:geomhash":"6daa3052ee5a4a45559220591c76e439",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170732,
+    "wof:lastmodified":1566424944,
     "wof:name":"Bayshore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

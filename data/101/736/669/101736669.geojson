@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.80517,
     "lbl:longitude":-67.320305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.80517,
     "mps:longitude":-67.320305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Adelme"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         102191575,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101736669,
-    "wof:lastmodified":1563284407,
+    "wof:lastmodified":1566425424,
     "wof:name":"Saint-Adelme",
     "wof:parent_id":890456821,
     "wof:placetype":"locality",

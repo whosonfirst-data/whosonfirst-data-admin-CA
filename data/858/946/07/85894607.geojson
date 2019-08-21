@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1153373.1704,
+    "geom:area_square_m":1153373.170397,
     "geom:bbox":"-122.951654502,49.2134574226,-122.927586863,49.2263066011",
     "geom:latitude":49.219725,
     "geom:longitude":-122.938384,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.219802,
     "lbl:longitude":-122.937564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.218295,
     "mps:longitude":-122.957022,
     "mz:hierarchy_label":1,
@@ -49,9 +50,6 @@
     "name:rus_x_preferred":[
         "\u042d\u0434\u043c\u043e\u043d\u0434\u0441"
     ],
-    "name:unk_x_variant":[
-        "Edmonds Town Centre"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":145,
@@ -80,21 +78,20 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":46,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915099,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998696,
-        "qs:id":230987,
-        "qs_pg:id":230987
+        "qs:id":230987
     },
     "wof:country":"CA",
     "wof:geomhash":"06767179778c7e563e6d6c86f1a61341",
@@ -113,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521033,
+    "wof:lastmodified":1566424954,
     "wof:name":"Edmonds",
     "wof:parent_id":1108915099,
     "wof:placetype":"neighbourhood",

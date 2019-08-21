@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6201298.5318,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.272046,49.043957,-122.272046,49.043957",
     "geom:latitude":49.043957,
     "geom:longitude":-122.272046,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.277046,49.038957,-122.267046,49.048957",
     "lbl:latitude":49.043957,
     "lbl:longitude":-122.272046,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.040844,
     "mps:longitude":-122.268717,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u043c\u0456\u043b\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "McMillan"
-    ],
     "name:zho_x_preferred":[
         "\u9ea5\u7f8e\u502b"
     ],
@@ -101,20 +100,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":135,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856467,
-        "qs:id":230694,
-        "qs_pg:id":230694
+        "qs:id":230694
     },
     "wof:country":"CA",
     "wof:geomhash":"c3485743c1b985674bb60f04b0feb60f",
@@ -132,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872085,
+    "wof:lastmodified":1566424936,
     "wof:name":"McMillan",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

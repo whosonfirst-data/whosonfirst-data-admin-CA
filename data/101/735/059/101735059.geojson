@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.507765,
     "lbl:longitude":-98.005308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.507765,
     "mps:longitude":-98.005308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Carman"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.4992,
     "wd:longitude":-98.0008,
@@ -87,7 +90,6 @@
         "gn:id":5917275,
         "gp:id":2991,
         "qs:id":1053449,
-        "qs_pg:id":1053449,
         "wd:id":"Q2450462",
         "wk:page":"Carman, Manitoba"
     },
@@ -106,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285479,
+    "wof:lastmodified":1566425879,
     "wof:name":"Carman",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00074,
+    "geom:area_square_m":5648198.526989,
     "geom:bbox":"-122.0611796,51.8514951,-122.0201858,51.8696669",
     "geom:latitude":51.860582,
     "geom:longitude":-122.040687,
     "iso:country":"CA",
     "lbl:latitude":51.860582,
     "lbl:longitude":-122.040687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.860582,
     "mps:longitude":-122.040687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cludolicum 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744969,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566425899,
     "wof:name":"Cludolicum 9",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

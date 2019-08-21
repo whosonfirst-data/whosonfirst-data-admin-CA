@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.878389,
     "lbl:longitude":-97.005245,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.871628,
     "mps:longitude":-96.99558,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
         "Transcona"
     ],
     "name:fra_x_preferred":[
-        "Transcona"
-    ],
-    "name:unk_x_variant":[
         "Transcona"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -74,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968467,
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281712,
+    "wof:lastmodified":1566424897,
     "wof:name":"Transcona South",
     "wof:parent_id":1108968467,
     "wof:placetype":"neighbourhood",

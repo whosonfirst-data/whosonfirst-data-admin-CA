@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.878192,
     "lbl:longitude":-97.112961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.875168,
     "mps:longitude":-97.116099,
     "mz:hierarchy_label":1,
@@ -35,20 +36,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968469,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402444,
-        "qs:id":367348,
-        "qs_pg:id":367348
+        "qs:id":367348
     },
     "wof:country":"CA",
     "wof:geomhash":"e675e0489d95cf5b1988de745ceb669b",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523920,
+    "wof:lastmodified":1566424984,
     "wof:name":"Norwood East",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

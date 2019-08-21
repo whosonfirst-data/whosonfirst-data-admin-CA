@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.562527,
     "lbl:longitude":-70.086238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.562527,
     "mps:longitude":-70.086238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Just-de-Breteni\u00e8res"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101738117,
-    "wof:lastmodified":1563284660,
+    "wof:lastmodified":1566425467,
     "wof:name":"Saint-Just-de-Breteni\u00e8res",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

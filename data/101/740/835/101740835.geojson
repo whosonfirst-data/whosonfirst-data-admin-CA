@@ -9,14 +9,17 @@
     "geom:bbox":"-119.389036,50.6343016089,-119.1813687,50.7712104483",
     "geom:latitude":50.700708,
     "geom:longitude":-119.287654,
-    "geonames:id":"6139416,6139417",
+    "gn:id":"6139416,6139417",
     "iso:country":"CA",
     "lbl:latitude":50.694716,
     "lbl:longitude":-119.300113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.694716,
     "mps:longitude":-119.300113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0645\u0648\u0646 \u0622\u0631\u0645"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":415.0,
     "wd:latitude":50.702222,
     "wd:longitude":-119.272222,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101740835,
-    "wof:lastmodified":1563284802,
+    "wof:lastmodified":1566425495,
     "wof:name":"Salmon Arm",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2077949.688848,
+    "geom:area_square_m":2077949.688846,
     "geom:bbox":"-113.440176864,53.4377654286,-113.418201685,53.4547584567",
     "geom:latitude":53.445498,
     "geom:longitude":-113.428034,
     "iso:country":"CA",
     "lbl:latitude":53.445827,
     "lbl:longitude":-113.427441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.445749,
     "mps:longitude":-113.428034,
     "mz:hierarchy_label":1,
@@ -32,7 +33,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108973843,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108936303,
-    "wof:lastmodified":1513924044,
+    "wof:lastmodified":1566425231,
     "wof:name":"Millhurst",
     "wof:parent_id":1108973843,
     "wof:placetype":"neighbourhood",

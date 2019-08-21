@@ -14,16 +14,18 @@
     "geom:longitude":-113.602198,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":1091,
     "gn:population":1091,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.321985,
     "lbl:longitude":-113.599635,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.321985,
     "mps:longitude":-113.599635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Irricana"
     ],
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":935.0,
     "wd:latitude":"51.3189",
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":890457261,
-    "wof:lastmodified":1563286382,
+    "wof:lastmodified":1566426121,
     "wof:name":"Irricana",
     "wof:parent_id":1158863227,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5526662.553887,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.801414,53.935669,-122.801414,53.935669",
     "geom:latitude":53.935669,
     "geom:longitude":-122.801414,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.806414,53.930669,-122.796414,53.940669",
     "lbl:latitude":53.935669,
     "lbl:longitude":-122.801414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.935621,
     "mps:longitude":-122.80949,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Parkhill"
-    ],
-    "name:unk_x_variant":[
         "Parkhill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856723,
-        "qs:id":986493,
-        "qs_pg:id":986493
+        "qs:id":986493
     },
     "wof:country":"CA",
     "wof:geomhash":"f8d75a7626e5ee6cae445b23aab5cda0",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872184,
+    "wof:lastmodified":1566424972,
     "wof:name":"Parkhill",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

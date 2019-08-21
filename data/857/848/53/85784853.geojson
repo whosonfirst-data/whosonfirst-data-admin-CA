@@ -12,8 +12,10 @@
     "gn:latitude":43.20011,
     "gn:longitude":-79.26629,
     "iso:country":"CA",
+    "lbl:bbox":"-79.272807,43.195383,-79.262807,43.205383",
     "lbl:latitude":43.200383,
     "lbl:longitude":-79.267807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.195929,
     "mps:longitude":-79.261186,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Port Dalhousie"
     ],
     "name:nld_x_preferred":[
-        "Port Dalhousie"
-    ],
-    "name:unk_x_variant":[
         "Port Dalhousie"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":338,
     "wof:belongsto":[
         102191575,
@@ -79,7 +78,6 @@
         "gn:id":6111712,
         "gp:id":1251,
         "qs:id":1193102,
-        "qs_pg:id":1193102,
         "wd:id":"Q7230573",
         "wk:page":"Port Dalhousie, Ontario"
     },
@@ -105,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281709,
+    "wof:lastmodified":1566424897,
     "wof:name":"Port Dalhousie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":3502345.041138,
+    "geom:area_square_m":3502345.041137,
     "geom:bbox":"-79.508246471,43.692984928,-79.467102401,43.710804383",
     "geom:latitude":43.701326,
     "geom:longitude":-79.485589,
     "iso:country":"CA",
     "lbl:latitude":43.701141,
     "lbl:longitude":-79.485589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.701141,
     "mps:longitude":-79.485589,
     "mz:hierarchy_label":1,
@@ -36,12 +37,12 @@
     "torsdfa:AREA_NAME":"Brookhaven-Amesbury (30)",
     "torsdfa:AREA_S_CD":"030",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":420781927,
-    "wof:lastmodified":1533272674,
+    "wof:lastmodified":1566426001,
     "wof:name":"Brookhaven-Amesbury",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012934,
+    "geom:area_square_m":99578950.49753,
     "geom:bbox":"-104.4909999,51.4167558,-104.176307,51.5383093",
     "geom:latitude":51.490966,
     "geom:longitude":-104.381541,
     "iso:country":"CA",
     "lbl:latitude":51.491806,
     "lbl:longitude":-104.366649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.491806,
     "mps:longitude":-104.366649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poorman I.R. 88"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746703,
-    "wof:lastmodified":1531525306,
+    "wof:lastmodified":1566425769,
     "wof:name":"Poorman I.R. 88",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

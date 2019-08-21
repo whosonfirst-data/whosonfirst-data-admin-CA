@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.893673,
     "lbl:longitude":-97.146982,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.892865,
     "mps:longitude":-97.146123,
     "mz:hierarchy_label":1,
@@ -35,20 +36,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968511,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856086,
-        "qs:id":899239,
-        "qs_pg:id":899239
+        "qs:id":899239
     },
     "wof:country":"CA",
     "wof:geomhash":"23c53cefda4b0b319149ae02214a097d",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1566424957,
     "wof:name":"Portage-Ellice",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

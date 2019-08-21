@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001676,
-    "geom:area_square_m":14971033.476442,
+    "geom:area_square_m":14971033.476451,
     "geom:bbox":"-79.532251132,43.714904618,-79.452729265,43.755536774",
     "geom:latitude":43.733292,
     "geom:longitude":-79.490494,
@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.734119,
     "lbl:longitude":-79.483284,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.729471,
     "mps:longitude":-79.480446,
     "mz:hierarchy_label":1,
@@ -36,26 +37,25 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Downsview-Roding-CFB (26)",
     "torsdfa:AREA_S_CD":"026",
     "wd:latitude":43.7429,
     "wd:longitude":-79.467,
     "wd:wordcount":922,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7871305,
         "gp:id":421,
         "qs:id":1191600,
-        "qs_pg:id":1191600,
         "wd:id":"Q5303305"
     },
     "wof:controlled":[],
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272675,
+    "wof:lastmodified":1566424899,
     "wof:name":"Downsview",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

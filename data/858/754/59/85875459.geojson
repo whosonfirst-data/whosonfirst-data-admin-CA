@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5906938.871016,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.726868,46.098757,-64.726868,46.098757",
     "geom:latitude":46.098757,
     "geom:longitude":-64.726868,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.731868,46.093757,-64.721868,46.103757",
     "lbl:latitude":46.098757,
     "lbl:longitude":-64.726868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.099957,
     "mps:longitude":-64.723672,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Savanah Heights"
-    ],
-    "name:unk_x_variant":[
         "Savanah Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735237,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856540,
-        "qs:id":991289,
-        "qs_pg:id":991289
+        "qs:id":991289
     },
     "wof:country":"CA",
     "wof:geomhash":"49108621489aed231206e5d9d535f1d1",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872123,
+    "wof:lastmodified":1566424932,
     "wof:name":"Savanah Heights",
     "wof:parent_id":101735237,
     "wof:placetype":"neighbourhood",

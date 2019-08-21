@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1284946.718591,
+    "geom:area_square_m":1284946.718595,
     "geom:bbox":"-123.107417806,49.3321316568,-123.087276777,49.3460334391",
     "geom:latitude":49.339812,
     "geom:longitude":-123.098107,
@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.340214,
     "lbl:longitude":-123.098792,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.337651,
     "mps:longitude":-123.096616,
     "mz:hierarchy_label":0,
@@ -38,9 +39,6 @@
         "Capilano Highlands"
     ],
     "name:eng_x_variant":[
-        "Capilano Highlands"
-    ],
-    "name:unk_x_variant":[
         "Capilano Highlands"
     ],
     "qs:gn_id":0,
@@ -71,7 +69,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -82,8 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998759,
-        "qs:id":242221,
-        "qs_pg:id":242221
+        "qs:id":242221
     },
     "wof:country":"CA",
     "wof:geomhash":"7c171a2be61f0cd0a64deb8d3a9ad5d0",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566424953,
     "wof:name":"Capilano Highlands",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

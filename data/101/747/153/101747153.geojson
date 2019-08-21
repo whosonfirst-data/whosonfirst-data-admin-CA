@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
+    "geom:area_square_m":645508.179119,
     "geom:bbox":"-124.181116,52.2645325,-124.1693113,52.2717757",
     "geom:latitude":52.268154,
     "geom:longitude":-124.175214,
     "iso:country":"CA",
     "lbl:latitude":52.268154,
     "lbl:longitude":-124.175214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.268154,
     "mps:longitude":-124.175214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toby Helenes Meadow 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747153,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566425619,
     "wof:name":"Toby Helenes Meadow 9",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

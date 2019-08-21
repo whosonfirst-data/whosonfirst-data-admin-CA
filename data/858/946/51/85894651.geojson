@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":2393202.987506,
+    "geom:area_square_m":2393202.987509,
     "geom:bbox":"-123.023665224,49.2429648559,-123.003404201,49.2609306128",
     "geom:latitude":49.250517,
     "geom:longitude":-123.014075,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.250317,
     "lbl:longitude":-123.01406,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.247144,
     "mps:longitude":-123.016611,
     "mz:hierarchy_label":0,
@@ -33,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Cascade - Schou"
-    ],
-    "name:unk_x_variant":[
-        "Cascade Heights"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,7 +66,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108915103,
@@ -80,8 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998722,
-        "qs:id":212682,
-        "qs_pg:id":212682
+        "qs:id":212682
     },
     "wof:country":"CA",
     "wof:geomhash":"22c41e849a5ea4dc4ecc6c9293123836",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566424953,
     "wof:name":"Cascade-Schou",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

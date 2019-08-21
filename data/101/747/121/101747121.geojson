@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
+    "geom:area_square_m":483940.352425,
     "geom:bbox":"-124.3324566,53.0872113,-124.3234398,53.094446",
     "geom:latitude":53.090829,
     "geom:longitude":-124.327949,
     "iso:country":"CA",
     "lbl:latitude":53.090829,
     "lbl:longitude":-124.327949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.090829,
     "mps:longitude":-124.327949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bishop Bluffs 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747121,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566425613,
     "wof:name":"Bishop Bluffs 10",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

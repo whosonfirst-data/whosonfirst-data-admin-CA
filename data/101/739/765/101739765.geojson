@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.220337,
     "lbl:longitude":-106.38951,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.220337,
     "mps:longitude":-106.38951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0428\u0435\u043b\u0431\u0440\u043e\u043a"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.2167,
     "wd:longitude":-106.4,
@@ -75,7 +78,6 @@
         "gn:id":6145951,
         "gp:id":2099,
         "qs:id":341682,
-        "qs_pg:id":341682,
         "wd:id":"Q1916980",
         "wk:page":"Shellbrook, Saskatchewan"
     },
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283961,
+    "wof:lastmodified":1566425358,
     "wof:name":"Shellbrook",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

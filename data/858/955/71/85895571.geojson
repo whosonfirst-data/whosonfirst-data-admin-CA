@@ -10,8 +10,10 @@
     "geom:latitude":43.931177,
     "geom:longitude":-79.49548,
     "iso:country":"CA",
+    "lbl:bbox":"-79.50048,43.926177,-79.49048,43.936177",
     "lbl:latitude":43.931177,
     "lbl:longitude":-79.49548,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.919659,
     "mps:longitude":-79.499792,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Temperanceville"
     ],
     "name:nld_x_preferred":[
-        "Temperanceville"
-    ],
-    "name:unk_x_variant":[
         "Temperanceville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":280,
     "wof:belongsto":[
         102191575,
@@ -76,7 +75,6 @@
         "gn:id":6162664,
         "gp:id":55999552,
         "qs:id":1101961,
-        "qs_pg:id":1101961,
         "wd:id":"Q7698322",
         "wk:page":"Temperanceville, Ontario"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281873,
+    "wof:lastmodified":1566424939,
     "wof:name":"Temperanceville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

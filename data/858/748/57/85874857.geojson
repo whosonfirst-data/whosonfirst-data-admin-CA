@@ -10,8 +10,10 @@
     "geom:latitude":43.234677,
     "geom:longitude":-79.808389,
     "iso:country":"CA",
+    "lbl:bbox":"-79.813389,43.229677,-79.803389,43.239677",
     "lbl:latitude":43.234677,
     "lbl:longitude":-79.808389,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.231659,
     "mps:longitude":-79.807603,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u0440\u0442\u043e\u043d\u0432\u0438\u043b"
     ],
-    "name:unk_x_variant":[
-        "Bartonville"
-    ],
     "name:vol_x_preferred":[
         "Bartonville"
     ],
@@ -85,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":10,
     "wof:belongsto":[
         85682057,
@@ -98,8 +97,7 @@
     "wof:concordances":{
         "gn:id":7871295,
         "gp:id":55856170,
-        "qs:id":985800,
-        "qs_pg:id":985800
+        "qs:id":985800
     },
     "wof:country":"CA",
     "wof:geomhash":"7497eac244bb630fc8ccfe5b92e90bfe",
@@ -117,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170791,
+    "wof:lastmodified":1566424964,
     "wof:name":"Bartonville",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

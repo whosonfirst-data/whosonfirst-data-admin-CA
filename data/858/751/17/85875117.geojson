@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":681204.890447,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.016528,42.321431,-83.016528,42.321431",
     "geom:latitude":42.321431,
     "geom:longitude":-83.016528,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-83.021528,42.316431,-83.011528,42.326431",
     "lbl:latitude":42.321431,
     "lbl:longitude":-83.016528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.322697,
     "mps:longitude":-83.019504,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Wyandotte Town Center"
-    ],
-    "name:unk_x_variant":[
         "Wyandotte Town Center"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856330,
-        "qs:id":890964,
-        "qs_pg:id":890964
+        "qs:id":890964
     },
     "wof:country":"CA",
     "wof:geomhash":"24f8caa42d588163b9825b60ef80923b",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872018,
+    "wof:lastmodified":1566424974,
     "wof:name":"Wyandotte Town Centre",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

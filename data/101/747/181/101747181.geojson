@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":76413.031231,
     "geom:bbox":"-127.6453246,55.4863867,-127.6405266,55.4896913",
     "geom:latitude":55.487594,
     "geom:longitude":-127.643241,
     "iso:country":"CA",
     "lbl:latitude":55.487591,
     "lbl:longitude":-127.643245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.487591,
     "mps:longitude":-127.643245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waulp 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747181,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566425613,
     "wof:name":"Waulp 10",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

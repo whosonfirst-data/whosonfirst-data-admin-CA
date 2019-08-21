@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000982,
+    "geom:area_square_m":8709488.636817,
     "geom:bbox":"-78.2401851,44.1668545,-78.151121,44.213875",
     "geom:latitude":44.189081,
     "geom:longitude":-78.212583,
     "iso:country":"CA",
     "lbl:latitude":44.183164,
     "lbl:longitude":-78.216758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.183164,
     "mps:longitude":-78.216758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hiawatha First Nation"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":312,
     "wof:belongsto":[
         102191575,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746707,
-    "wof:lastmodified":1533335677,
+    "wof:lastmodified":1566425743,
     "wof:name":"Hiawatha First Nation",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",

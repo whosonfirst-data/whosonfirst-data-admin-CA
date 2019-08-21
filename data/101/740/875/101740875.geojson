@@ -9,14 +9,17 @@
     "geom:bbox":"-122.424639752,49.1094163717,-122.224902064,49.3531299564",
     "geom:latitude":49.23213,
     "geom:longitude":-122.342235,
-    "geonames:id":"6075292,6075293",
+    "gn:id":"6075292,6075293",
     "iso:country":"CA",
     "lbl:latitude":49.23139,
     "lbl:longitude":-122.342238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.23139,
     "mps:longitude":-122.342238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0634\u0646\u060c \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629"
     ],
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101740875,
-    "wof:lastmodified":1563284794,
+    "wof:lastmodified":1566425492,
     "wof:name":"Mission",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

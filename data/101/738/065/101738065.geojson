@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.187937,
     "lbl:longitude":-73.403218,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.187937,
     "mps:longitude":-73.403218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0628\u064a\u0631\u0641\u064a\u0644"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "gn:id":6085960,
         "gp:id":1057,
         "qs:id":160320,
-        "qs_pg:id":160320,
         "wd:id":"Q3335889",
         "wk:page":"Napierville, Quebec"
     },
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101738065,
-    "wof:lastmodified":1563284613,
+    "wof:lastmodified":1566425461,
     "wof:name":"Napierville",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.009231,
     "lbl:longitude":-118.799177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.009231,
     "mps:longitude":-118.799177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0648\u0627\u064a"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":583,
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,6 @@
         "gn:id":6073409,
         "gp:id":9941,
         "qs:id":71988,
-        "qs_pg:id":71988,
         "wd:id":"Q1932065",
         "wk:page":"Midway, British Columbia"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101740829,
-    "wof:lastmodified":1563284783,
+    "wof:lastmodified":1566425489,
     "wof:name":"Midway",
     "wof:parent_id":890457249,
     "wof:placetype":"locality",

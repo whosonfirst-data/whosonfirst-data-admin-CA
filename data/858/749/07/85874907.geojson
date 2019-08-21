@@ -11,8 +11,10 @@
     "geom:longitude":-79.852565,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.857565,43.206218,-79.847565,43.216218",
     "lbl:latitude":43.211218,
     "lbl:longitude":-79.852565,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.203697,
     "mps:longitude":-79.852908,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043d\u0434\u0430\u043b\u043b"
     ],
-    "name:unk_x_variant":[
-        "Randall"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0646\u0688\u0644"
     ],
@@ -103,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -114,8 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856214,
-        "qs:id":1089479,
-        "qs_pg:id":1089479
+        "qs:id":1089479
     },
     "wof:country":"CA",
     "wof:geomhash":"a882695bf3b4be0795ec09bccf6db297",
@@ -133,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170776,
+    "wof:lastmodified":1566424958,
     "wof:name":"Randall",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

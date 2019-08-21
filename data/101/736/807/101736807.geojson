@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.456176,
     "lbl:longitude":-71.76189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.456176,
     "mps:longitude":-71.76189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0643\u0648\u062a \u0643\u0648\u0631\u0646\u0631"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "gn:id":5887483,
         "gp:id":4390,
         "qs:id":336334,
-        "qs_pg:id":336334,
         "wd:id":"Q2866424",
         "wk:page":"Ascot Corner, Quebec"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101736807,
-    "wof:lastmodified":1563284517,
+    "wof:lastmodified":1566425446,
     "wof:name":"Ascot Corner",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

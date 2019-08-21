@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1740238.759493,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.894426,43.213217,-79.894426,43.213217",
     "geom:latitude":43.213217,
     "geom:longitude":-79.894426,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.899426,43.208217,-79.889426,43.218217",
     "lbl:latitude":43.213217,
     "lbl:longitude":-79.894426,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.213183,
     "mps:longitude":-79.898837,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Kernighan"
-    ],
-    "name:unk_x_variant":[
         "Kernighan"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856148,
-        "qs:id":381410,
-        "qs_pg:id":381410
+        "qs:id":381410
     },
     "wof:country":"CA",
     "wof:geomhash":"43cf5af5d9bf044b1517fedbd3b28793",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871931,
+    "wof:lastmodified":1566424964,
     "wof:name":"Kernighan",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

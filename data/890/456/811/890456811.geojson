@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.471562,
     "lbl:longitude":-81.043132,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.471562,
     "mps:longitude":-81.043132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Perth"
     ],
@@ -374,7 +377,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statcan:cdname":"Perth",
     "statcan:cdtype":"CTY",
@@ -407,7 +410,7 @@
         }
     ],
     "wof:id":890456811,
-    "wof:lastmodified":1564173279,
+    "wof:lastmodified":1566426054,
     "wof:name":"Perth",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

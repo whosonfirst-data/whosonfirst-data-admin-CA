@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":58.473073,
     "lbl:longitude":-130.025541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.473073,
     "mps:longitude":-130.025541,
     "mz:hierarchy_label":1,
@@ -160,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":101743397,
-    "wof:lastmodified":1563285603,
+    "wof:lastmodified":1566425907,
     "wof:name":"Dease Lake 9",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-113.31534,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.32034,53.524597,-113.31034,53.534597",
     "lbl:latitude":53.529597,
     "lbl:longitude":-113.31534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.526387,
     "mps:longitude":-113.309258,
     "mz:hierarchy_label":0,
@@ -43,7 +45,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":158,
     "wof:belongsto":[
         85682091,
@@ -55,8 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998550,
-        "qs:id":384867,
-        "qs_pg:id":384867
+        "qs:id":384867
     },
     "wof:country":"CA",
     "wof:geomhash":"c694825ab6eb6323dbe8fad02f3962a2",
@@ -74,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170886,
+    "wof:lastmodified":1566424997,
     "wof:name":"Broadmoor",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

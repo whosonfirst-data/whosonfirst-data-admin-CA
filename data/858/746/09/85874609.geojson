@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000632,
-    "geom:area_square_m":4899425.9398,
+    "geom:area_square_m":4899425.939807,
     "geom:bbox":"-114.132636,51.156778,-114.092266,51.183351",
     "geom:latitude":51.172557,
     "geom:longitude":-114.112774,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.172883,
     "lbl:longitude":-114.112738,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.178261,
     "mps:longitude":-114.112589,
     "mz:hierarchy_label":1,
@@ -89,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0432\u0430\u043d\u0441\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Evanston"
-    ],
     "name:vol_x_preferred":[
         "Evanston"
     ],
@@ -100,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":41,
     "wof:belongsto":[
         85682091,
@@ -113,7 +111,6 @@
     "wof:concordances":{
         "gp:id":55856000,
         "qs:id":381269,
-        "qs_pg:id":381269,
         "wd:id":"Q5415989"
     },
     "wof:country":"CA",
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566424966,
     "wof:name":"Evanston",
     "wof:parent_id":1108963895,
     "wof:placetype":"neighbourhood",

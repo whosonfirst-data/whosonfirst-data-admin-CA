@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11274216.659075,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.196589,43.154277,-79.196589,43.154277",
     "geom:latitude":43.154277,
     "geom:longitude":-79.196589,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.201589,43.149277,-79.191589,43.159277",
     "lbl:latitude":43.154277,
     "lbl:longitude":-79.196589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.159694,
     "mps:longitude":-79.193245,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Secord Woods"
-    ],
-    "name:unk_x_variant":[
         "Secord Woods"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856289,
-        "qs:id":1089530,
-        "qs_pg:id":1089530
+        "qs:id":1089530
     },
     "wof:country":"CA",
     "wof:geomhash":"c222e8850c90e9cd7d14c24c45abd6ac",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872001,
+    "wof:lastmodified":1566424979,
     "wof:name":"Secord Woods",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

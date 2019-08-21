@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.866352,
     "lbl:longitude":-78.826165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.87424,
     "mps:longitude":-78.82615,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
     ],
     "name:tur_x_preferred":[
         "Elveda"
-    ],
-    "name:unk_x_variant":[
-        "Farewell"
     ],
     "name:zho_x_preferred":[
         "\u9a6a\u6b4c"
@@ -72,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":301,
     "wof:belongsto":[
         85682057,
@@ -85,8 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856350,
-        "qs:id":381515,
-        "qs_pg:id":381515
+        "qs:id":381515
     },
     "wof:country":"CA",
     "wof:geomhash":"61ad95c12be5d400408882d7120f1931",
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170831,
+    "wof:lastmodified":1566424974,
     "wof:name":"Farewell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

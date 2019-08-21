@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
+    "geom:area_square_m":123645.982347,
     "geom:bbox":"-122.2961013,49.8738914,-122.2907998,49.8795301",
     "geom:latitude":49.87772,
     "geom:longitude":-122.292744,
     "iso:country":"CA",
     "lbl:latitude":49.877832,
     "lbl:longitude":-122.292555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.877832,
     "mps:longitude":-122.292555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perrets 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745753,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566425947,
     "wof:name":"Perrets 11",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

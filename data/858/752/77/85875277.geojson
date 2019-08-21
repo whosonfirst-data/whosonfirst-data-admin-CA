@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10249154.131316,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.684417,44.374322,-79.684417,44.374322",
     "geom:latitude":44.374322,
     "geom:longitude":-79.684417,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.689417,44.369322,-79.679417,44.379322",
     "lbl:latitude":44.374322,
     "lbl:longitude":-79.684417,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.369246,
     "mps:longitude":-79.678914,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Allandale"
     ],
     "name:eng_x_preferred":[
-        "Allandale"
-    ],
-    "name:unk_x_variant":[
         "Allandale"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -72,8 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856427,
-        "qs:id":890968,
-        "qs_pg:id":890968
+        "qs:id":890968
     },
     "wof:country":"CA",
     "wof:geomhash":"26a25a7d8e596459e445727c9fc10120",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872062,
+    "wof:lastmodified":1566424926,
     "wof:name":"Allandale",
     "wof:parent_id":101735527,
     "wof:placetype":"neighbourhood",

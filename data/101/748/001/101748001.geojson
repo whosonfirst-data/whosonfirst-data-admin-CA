@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
+    "geom:area_square_m":888223.064617,
     "geom:bbox":"-121.4310987,49.4196162,-121.415271,49.4315215",
     "geom:latitude":49.424774,
     "geom:longitude":-121.422587,
     "iso:country":"CA",
     "lbl:latitude":49.424506,
     "lbl:longitude":-121.419038,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.424506,
     "mps:longitude":-121.419038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swahliseah 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101748001,
-    "wof:lastmodified":1533335927,
+    "wof:lastmodified":1566425720,
     "wof:name":"Swahliseah 14",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

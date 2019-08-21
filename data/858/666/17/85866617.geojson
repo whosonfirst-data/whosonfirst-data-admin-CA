@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.884568,
     "lbl:longitude":-97.270303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.888384,
     "mps:longitude":-97.262764,
     "mz:hierarchy_label":1,
@@ -80,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":340,
     "wof:belongsto":[
         102191575,
@@ -93,8 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332861,
-        "qs:id":368219,
-        "qs_pg:id":368219
+        "qs:id":368219
     },
     "wof:country":"CA",
     "wof:geomhash":"4018338cafc1a0a6a647f28a70968ea8",
@@ -113,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170735,
+    "wof:lastmodified":1566424947,
     "wof:name":"Booth",
     "wof:parent_id":1108968515,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8386842.542958,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.784148,49.273448,-122.784148,49.273448",
     "geom:latitude":49.273448,
     "geom:longitude":-122.784148,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.789148,49.268448,-122.779148,49.278448",
     "lbl:latitude":49.273448,
     "lbl:longitude":-122.784148,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.285815,
     "mps:longitude":-122.788255,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Woodland Acres"
-    ],
-    "name:unk_x_variant":[
         "Woodland Acres"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741061,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998857,
-        "qs:id":1354745,
-        "qs_pg:id":1354745
+        "qs:id":1354745
     },
     "wof:country":"CA",
     "wof:geomhash":"1fbb619aeada09067accd1f3ebbbf5ed",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931261,
+    "wof:lastmodified":1566424960,
     "wof:name":"Woodland Acres",
     "wof:parent_id":101741061,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.629701,
     "lbl:longitude":-109.195017,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.629701,
     "mps:longitude":-109.195017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "St. Walburg"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.65,
     "wd:longitude":-109.2,
     "wd:wordcount":595,
@@ -77,7 +80,6 @@
         "gn:id":6158673,
         "gp:id":2072,
         "qs:id":341683,
-        "qs_pg:id":341683,
         "wd:id":"Q1917214",
         "wk:page":"St. Walburg, Saskatchewan"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284026,
+    "wof:lastmodified":1566425368,
     "wof:name":"St. Walburg",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

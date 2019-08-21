@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":68.338485,
     "lbl:longitude":-133.661328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":68.338485,
     "mps:longitude":-133.661328,
     "mz:hierarchy_label":1,
@@ -224,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":15.0,
     "wd:latitude":68.361667,
@@ -242,7 +244,6 @@
         "gn:id":5983607,
         "gp:id":4251,
         "qs:id":965408,
-        "qs_pg:id":965408,
         "wd:id":"Q338686",
         "wk:page":"Inuvik"
     },
@@ -261,7 +262,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285374,
+    "wof:lastmodified":1566425859,
     "wof:name":"Inuvik",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

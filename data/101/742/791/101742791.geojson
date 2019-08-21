@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
+    "geom:area_square_m":839124.968657,
     "geom:bbox":"-132.2925727,59.7900171,-132.2768161,59.8044637",
     "geom:latitude":59.795768,
     "geom:longitude":-132.286461,
     "iso:country":"CA",
     "lbl:latitude":59.792981,
     "lbl:longitude":-132.282971,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.792981,
     "mps:longitude":-132.282971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teslin Lake 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742791,
-    "wof:lastmodified":1533335867,
+    "wof:lastmodified":1566425925,
     "wof:name":"Teslin Lake 9",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

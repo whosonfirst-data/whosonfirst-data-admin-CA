@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.071653,
     "lbl:longitude":-122.269288,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.071653,
     "mps:longitude":-122.269288,
     "mz:hierarchy_label":1,
@@ -307,7 +309,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":38.0,
     "wd:latitude":49.054611,
@@ -325,7 +327,6 @@
         "gn:id":5881791,
         "gp:id":9827,
         "qs:id":355712,
-        "qs_pg:id":355712,
         "wd:id":"Q271730",
         "wk:page":"Abbotsford, British Columbia"
     },
@@ -341,7 +342,7 @@
         }
     ],
     "wof:id":101740961,
-    "wof:lastmodified":1563284828,
+    "wof:lastmodified":1566425504,
     "wof:name":"Abbotsford",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

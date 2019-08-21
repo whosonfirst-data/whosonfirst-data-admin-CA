@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
+    "geom:area_square_m":161023.69371,
     "geom:bbox":"-126.1398946,54.326986,-126.1337038,54.3306014",
     "geom:latitude":54.328794,
     "geom:longitude":-126.136799,
     "iso:country":"CA",
     "lbl:latitude":54.328794,
     "lbl:longitude":-126.1368,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.328794,
     "mps:longitude":-126.1368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Foxy Creek 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743267,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566425911,
     "wof:name":"Foxy Creek 6",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

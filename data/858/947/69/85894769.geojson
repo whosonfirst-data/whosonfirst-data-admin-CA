@@ -11,8 +11,10 @@
     "geom:longitude":-122.628387,
     "gn:population":70000,
     "iso:country":"CA",
+    "lbl:bbox":"-122.633387,49.229157,-122.623387,49.239157",
     "lbl:latitude":49.234157,
     "lbl:longitude":-122.628387,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.23587,
     "mps:longitude":-122.624024,
     "mz:hierarchy_label":0,
@@ -99,9 +101,6 @@
     "name:tur_x_preferred":[
         "Maple Ridge"
     ],
-    "name:unk_x_variant":[
-        "West Maple Ridge"
-    ],
     "name:zho_x_preferred":[
         "\u6953\u6a39\u5dba"
     ],
@@ -135,7 +134,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85682117,
@@ -149,7 +148,6 @@
         "gn:id":6065686,
         "gp:id":55998840,
         "qs:id":160302,
-        "qs_pg:id":160302,
         "wd:id":"Q16740",
         "wk:page":"Maple Ridge, British Columbia"
     },
@@ -169,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281989,
+    "wof:lastmodified":1566424959,
     "wof:name":"West Maple Ridge",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

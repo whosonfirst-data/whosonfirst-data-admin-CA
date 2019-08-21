@@ -11,7 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000568,
-    "geom:area_square_m":4405969.919144,
+    "geom:area_square_m":4405969.919136,
     "geom:bbox":"-114.227754,51.120579,-114.181908,51.144687",
     "geom:latitude":51.133516,
     "geom:longitude":-114.203647,
@@ -19,6 +19,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.133427,
     "lbl:longitude":-114.20402,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.133678,
     "mps:longitude":-114.203033,
     "mz:hierarchy_label":1,
@@ -39,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1215.0,
     "wd:latitude":51.1333,
     "wd:longitude":-114.204,
@@ -54,7 +55,6 @@
     "wof:concordances":{
         "gp:id":26342781,
         "qs:id":220297,
-        "qs_pg:id":220297,
         "wd:id":"Q4784923"
     },
     "wof:country":"CA",
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270095,
+    "wof:lastmodified":1566424947,
     "wof:name":"Arbour Lake",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

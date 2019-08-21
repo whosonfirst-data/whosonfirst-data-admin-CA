@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.181523,
     "lbl:longitude":-73.051325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.181523,
     "mps:longitude":-73.051325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a \u062f\u0627\u0645 \u062f\u064a \u0633\u062a\u0627\u0646\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101738145,
-    "wof:lastmodified":1563284640,
+    "wof:lastmodified":1566425464,
     "wof:name":"Notre-Dame-de-Stanbridge",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

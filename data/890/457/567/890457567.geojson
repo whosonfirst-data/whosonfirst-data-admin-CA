@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.141131,
     "lbl:longitude":-72.403093,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.141131,
     "mps:longitude":-72.403093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nicolet-Yamaska"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Nicolet-Yamaska",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2450",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890457567,
-    "wof:lastmodified":1563286335,
+    "wof:lastmodified":1566426105,
     "wof:name":"Nicolet-Yamaska",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

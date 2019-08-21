@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":1964606.530129,
+    "geom:area_square_m":1964606.53013,
     "geom:bbox":"-97.130293,49.881238,-97.103298,49.895306",
     "geom:latitude":49.88723,
     "geom:longitude":-97.116144,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.887321,
     "lbl:longitude":-97.116683,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.890343,
     "mps:longitude":-97.111243,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "name:eng_x_preferred":[
         "Central St. Boniface"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Central Boniface"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -63,20 +64,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968469,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856072,
-        "qs:id":899234,
-        "qs_pg:id":899234
+        "qs:id":899234
     },
     "wof:country":"CA",
     "wof:geomhash":"2cd81cb00c1e25841b41c273ca17b9e5",
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523915,
+    "wof:lastmodified":1566424956,
     "wof:name":"Central St. Boniface",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

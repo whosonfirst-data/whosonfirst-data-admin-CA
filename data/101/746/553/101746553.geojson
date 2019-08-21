@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000441,
+    "geom:area_square_m":3193058.319966,
     "geom:bbox":"-96.2940269,54.1640797,-96.1785233,54.2020635",
     "geom:latitude":54.185594,
     "geom:longitude":-96.210354,
     "iso:country":"CA",
     "lbl:latitude":54.196388,
     "lbl:longitude":-96.19108,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.196388,
     "mps:longitude":-96.19108,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Norway House 17D-5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746553,
-    "wof:lastmodified":1533069705,
+    "wof:lastmodified":1566425770,
     "wof:name":"Norway House 17D-5",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

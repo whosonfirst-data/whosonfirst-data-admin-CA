@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
+    "geom:area_square_m":120291.246888,
     "geom:bbox":"-122.8868172,54.8476234,-122.8817984,54.8530007",
     "geom:latitude":54.849999,
     "geom:longitude":-122.884378,
     "iso:country":"CA",
     "lbl:latitude":54.849598,
     "lbl:longitude":-122.884081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.849598,
     "mps:longitude":-122.884081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tom Cook 26"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745355,
-    "wof:lastmodified":1533335908,
+    "wof:lastmodified":1566425949,
     "wof:name":"Tom Cook 26",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1446767.904778,
+    "geom:area_square_m":1446767.904781,
     "geom:bbox":"-114.125703,51.06697,-114.104555,51.083604",
     "geom:latitude":51.074153,
     "geom:longitude":-114.11326,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.074291,
     "lbl:longitude":-114.11316,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.075057,
     "mps:longitude":-114.119167,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1105.0,
     "wd:latitude":51.0753,
     "wd:longitude":-114.113,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":23404865,
         "qs:id":236929,
-        "qs_pg:id":236929,
         "wd:id":"Q4854871"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566424983,
     "wof:name":"Banff Trail",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

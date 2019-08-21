@@ -10,8 +10,10 @@
     "geom:latitude":43.93751,
     "geom:longitude":-79.38447,
     "iso:country":"CA",
+    "lbl:bbox":"-79.38947,43.93251,-79.37947,43.94251",
     "lbl:latitude":43.93751,
     "lbl:longitude":-79.38447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.934654,
     "mps:longitude":-79.399352,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u043c\u043b\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Gormley"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -70,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":582,
     "wof:belongsto":[
         102191575,
@@ -102,7 +101,7 @@
         }
     ],
     "wof:id":85895629,
-    "wof:lastmodified":1564170837,
+    "wof:lastmodified":1566424976,
     "wof:name":"Gormley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

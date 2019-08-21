@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2636976.45831,
+    "geom:area_square_m":2636976.458306,
     "geom:bbox":"-113.981761,51.081492,-113.958386,51.096055",
     "geom:latitude":51.088776,
     "geom:longitude":-113.970073,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.089049,
     "lbl:longitude":-113.970052,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.085409,
     "mps:longitude":-113.970911,
     "mz:hierarchy_label":1,
@@ -49,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191575,
@@ -61,7 +62,6 @@
     "wof:concordances":{
         "gp:id":23404877,
         "qs:id":986207,
-        "qs_pg:id":986207,
         "wd:id":"Q7996066"
     },
     "wof:country":"CA",
@@ -79,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566424983,
     "wof:name":"Whitehorn",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

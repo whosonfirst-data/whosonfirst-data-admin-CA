@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
+    "geom:area_square_m":637365.628439,
     "geom:bbox":"-123.0052405,52.2569197,-122.9934363,52.2641654",
     "geom:latitude":52.260506,
     "geom:longitude":-122.999277,
     "iso:country":"CA",
     "lbl:latitude":52.260543,
     "lbl:longitude":-122.999277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.260543,
     "mps:longitude":-122.999277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anahim 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745021,
-    "wof:lastmodified":1533335902,
+    "wof:lastmodified":1566425977,
     "wof:name":"Anahim 13",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

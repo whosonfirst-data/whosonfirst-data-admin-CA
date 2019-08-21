@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.270188,
     "lbl:longitude":-75.3137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.270188,
     "mps:longitude":-75.3137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u0441\u0435\u043b"
     ],
@@ -128,7 +131,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101736277,
-    "wof:lastmodified":1564172580,
+    "wof:lastmodified":1566425442,
     "wof:name":"Russell",
     "wof:parent_id":890456257,
     "wof:placetype":"locality",

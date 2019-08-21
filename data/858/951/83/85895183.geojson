@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7862923.554585,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.692511,43.428727,-79.692511,43.428727",
     "geom:latitude":43.428727,
     "geom:longitude":-79.692511,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.697511,43.423727,-79.687511,43.433727",
     "lbl:latitude":43.428727,
     "lbl:longitude":-79.692511,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.426882,
     "mps:longitude":-79.696114,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Southwest Oakville"
-    ],
-    "name:unk_x_variant":[
         "Southwest Oakville"
     ],
     "qs:gn_id":0,
@@ -56,9 +55,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740713,
         85633041,
@@ -68,8 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999163,
-        "qs:id":1090816,
-        "qs_pg:id":1090816
+        "qs:id":1090816
     },
     "wof:country":"CA",
     "wof:geomhash":"e5c21992046648b15f83ded81f527b27",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931347,
+    "wof:lastmodified":1566424978,
     "wof:name":"Southwest Oakville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.400198,
     "lbl:longitude":-108.594061,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.400198,
     "mps:longitude":-108.594061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hazlet"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1527,
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,6 @@
         "gn:id":5972930,
         "gp:id":2304,
         "qs:id":32940,
-        "qs_pg:id":32940,
         "wd:id":"Q2003823",
         "wk:page":"Hazlet, Saskatchewan"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284007,
+    "wof:lastmodified":1566425365,
     "wof:name":"Hazlet",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

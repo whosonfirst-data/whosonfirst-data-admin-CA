@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2983248.030365,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.266128,43.158447,-80.266128,43.158447",
     "geom:latitude":43.158447,
     "geom:longitude":-80.266128,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.271128,43.153447,-80.261128,43.163447",
     "lbl:latitude":43.158447,
     "lbl:longitude":-80.266128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.155282,
     "mps:longitude":-80.266167,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Terrace Hill"
-    ],
-    "name:unk_x_variant":[
         "Terrace Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,20 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1231,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735567,
-        890456825,
-        85682057
+        890456825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399819,
-        "qs:id":1080127,
-        "qs_pg:id":1080127
+        "qs:id":1080127
     },
     "wof:country":"CA",
     "wof:geomhash":"f261797d5af6e802167a126167f09758",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870941,
+    "wof:lastmodified":1566424986,
     "wof:name":"Terrace Hill",
     "wof:parent_id":101735567,
     "wof:placetype":"neighbourhood",

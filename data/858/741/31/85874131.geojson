@@ -11,8 +11,10 @@
     "geom:longitude":-71.938733,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.943733,45.396689,-71.933733,45.406689",
     "lbl:latitude":45.401689,
     "lbl:longitude":-71.938733,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.400181,
     "mps:longitude":-71.937407,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u043a\u0430\u043b\u043c"
     ],
-    "name:unk_x_variant":[
-        "Montcalm"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6146143,
@@ -95,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -106,8 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855678,
-        "qs:id":897359,
-        "qs_pg:id":897359
+        "qs:id":897359
     },
     "wof:country":"CA",
     "wof:geomhash":"7e16ee623984be81c115420f38511362",
@@ -125,7 +123,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170803,
+    "wof:lastmodified":1566424968,
     "wof:name":"Montcalm",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

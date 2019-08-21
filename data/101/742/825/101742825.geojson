@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
+    "geom:area_square_m":176574.810463,
     "geom:bbox":"-132.2742441,53.2350875,-132.2657028,53.2399607",
     "geom:latitude":53.237523,
     "geom:longitude":-132.269973,
     "iso:country":"CA",
     "lbl:latitude":53.237524,
     "lbl:longitude":-132.269974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.237524,
     "mps:longitude":-132.269974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Black Slate 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742825,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425940,
     "wof:name":"Black Slate 11",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

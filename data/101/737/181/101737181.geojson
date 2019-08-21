@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.0553,
     "lbl:longitude":-74.09905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.0553,
     "mps:longitude":-74.09905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Sainte-Marguerite-du-Lac-Masson"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101737181,
-    "wof:lastmodified":1563284201,
+    "wof:lastmodified":1566425391,
     "wof:name":"Sainte-Marguerite-du-Lac-Masson",
     "wof:parent_id":890458097,
     "wof:placetype":"locality",

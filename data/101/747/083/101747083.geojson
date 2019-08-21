@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
+    "geom:area_square_m":161295.643632,
     "geom:bbox":"-124.6507513,53.0862025,-124.6447275,53.0898293",
     "geom:latitude":53.088016,
     "geom:longitude":-124.64774,
     "iso:country":"CA",
     "lbl:latitude":53.088016,
     "lbl:longitude":-124.64774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.088016,
     "mps:longitude":-124.64774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kushya Creek 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747083,
-    "wof:lastmodified":1533335922,
+    "wof:lastmodified":1566425555,
     "wof:name":"Kushya Creek 12",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

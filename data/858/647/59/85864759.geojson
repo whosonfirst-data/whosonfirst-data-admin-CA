@@ -11,8 +11,10 @@
     "geom:longitude":-106.652282,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.657282,52.091956,-106.647282,52.101956",
     "lbl:latitude":52.096956,
     "lbl:longitude":-106.652282,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.095637,
     "mps:longitude":-106.656009,
     "mz:hierarchy_label":0,
@@ -138,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         1126115069,
@@ -150,8 +152,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403184,
-        "qs:id":995425,
-        "qs_pg:id":995425
+        "qs:id":995425
     },
     "wof:country":"CA",
     "wof:geomhash":"c1c87c56944a3d3720b6a09f5d9dcbfa",
@@ -170,7 +171,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170862,
+    "wof:lastmodified":1566424984,
     "wof:name":"Avalon",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

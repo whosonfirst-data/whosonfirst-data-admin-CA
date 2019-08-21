@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00067,
+    "geom:area_square_m":4789976.814931,
     "geom:bbox":"-95.0659695,54.6267855,-94.9171898,54.674559",
     "geom:latitude":54.649273,
     "geom:longitude":-95.010323,
     "iso:country":"CA",
     "lbl:latitude":54.643099,
     "lbl:longitude":-95.033993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.643099,
     "mps:longitude":-95.033993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Esker Ridge A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746661,
-    "wof:lastmodified":1533069727,
+    "wof:lastmodified":1566425758,
     "wof:name":"Esker Ridge A",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

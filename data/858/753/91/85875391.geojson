@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2912006.731279,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536202,44.219487,-76.536202,44.219487",
     "geom:latitude":44.219487,
     "geom:longitude":-76.536202,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.541202,44.214487,-76.531202,44.224487",
     "lbl:latitude":44.219487,
     "lbl:longitude":-76.536202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.220501,
     "mps:longitude":-76.538788,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Fairway Hills"
-    ],
-    "name:unk_x_variant":[
         "Fairway Hills"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856489,
-        "qs:id":381603,
-        "qs_pg:id":381603
+        "qs:id":381603
     },
     "wof:country":"CA",
     "wof:geomhash":"a4d4e22c1489ddb21d73f80c95bbfdc0",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872099,
+    "wof:lastmodified":1566424935,
     "wof:name":"Fairway Hills",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

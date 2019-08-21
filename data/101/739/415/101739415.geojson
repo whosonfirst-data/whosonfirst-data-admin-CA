@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.731573,
     "lbl:longitude":-103.203349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.731573,
     "mps:longitude":-103.203349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lemberg"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":614.0,
     "wd:latitude":50.732,
     "wd:longitude":-103.195,
@@ -71,7 +74,6 @@
         "gn:id":6052153,
         "gp:id":2494,
         "qs:id":347221,
-        "qs_pg:id":347221,
         "wd:id":"Q1909185",
         "wk:page":"Lemberg, Saskatchewan"
     },
@@ -90,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283984,
+    "wof:lastmodified":1566425362,
     "wof:name":"Lemberg",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

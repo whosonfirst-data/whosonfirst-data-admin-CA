@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2423756.045247,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.701248,50.046976,-110.701248,50.046976",
     "geom:latitude":50.046976,
     "geom:longitude":-110.701248,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-110.706248,50.041976,-110.696248,50.051976",
     "lbl:latitude":50.046976,
     "lbl:longitude":-110.701248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.049054,
     "mps:longitude":-110.702489,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "West Crescent Heights"
-    ],
-    "name:unk_x_variant":[
         "West Crescent Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856760,
-        "qs:id":991296,
-        "qs_pg:id":991296
+        "qs:id":991296
     },
     "wof:country":"CA",
     "wof:geomhash":"64edcc7b8b64530ed4c5848e60bd6466",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250198,
+    "wof:lastmodified":1566424973,
     "wof:name":"West Crescent Heights",
     "wof:parent_id":890456255,
     "wof:placetype":"neighbourhood",

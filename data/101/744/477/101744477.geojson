@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
+    "geom:area_square_m":1830303.397585,
     "geom:bbox":"-125.9366217,53.790133,-125.912093,53.8018638",
     "geom:latitude":53.795473,
     "geom:longitude":-125.923237,
     "iso:country":"CA",
     "lbl:latitude":53.795998,
     "lbl:longitude":-125.922583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.795998,
     "mps:longitude":-125.922583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skins Lake 15"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744477,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566425892,
     "wof:name":"Skins Lake 15",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

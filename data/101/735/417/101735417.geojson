@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":67.421366,
     "lbl:longitude":-133.667092,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.421366,
     "mps:longitude":-133.667092,
     "mz:hierarchy_label":1,
@@ -166,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":6.0,
     "wd:latitude":67.4406,
     "wd:longitude":-133.745,
@@ -201,7 +203,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285447,
+    "wof:lastmodified":1566425873,
     "wof:name":"Tsiigehtchic",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

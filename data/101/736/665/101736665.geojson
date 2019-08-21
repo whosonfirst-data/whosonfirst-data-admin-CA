@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.582176,
     "lbl:longitude":-69.889734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.582176,
     "mps:longitude":-69.889734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0648\u0631\u0627\u0633\u0643\u0627"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":436,
     "wof:belongsto":[
         102191575,
@@ -113,7 +116,6 @@
         "gn:id":6325493,
         "gp:id":23394386,
         "qs:id":1112323,
-        "qs_pg:id":1112323,
         "wd:id":"Q1103923",
         "wk:page":"Kamouraska, Quebec"
     },
@@ -131,7 +133,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284530,
+    "wof:lastmodified":1566425447,
     "wof:name":"Kamouraska",
     "wof:parent_id":136251273,
     "wof:placetype":"locality",

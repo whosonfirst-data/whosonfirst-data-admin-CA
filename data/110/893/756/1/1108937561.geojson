@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000367,
-    "geom:area_square_m":2927102.825166,
+    "geom:area_square_m":2927102.825165,
     "geom:bbox":"-97.213978,49.768105,-97.182523,49.78492",
     "geom:latitude":49.774613,
     "geom:longitude":-97.199145,
     "iso:country":"CA",
     "lbl:latitude":49.777818,
     "lbl:longitude":-97.195835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.775412,
     "mps:longitude":-97.198845,
     "mz:hierarchy_label":1,
@@ -34,14 +35,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108937561,
-    "wof:lastmodified":1531523909,
+    "wof:lastmodified":1566425229,
     "wof:name":"South Pointe West",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

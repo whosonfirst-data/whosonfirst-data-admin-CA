@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
+    "geom:area_square_m":128270.87777,
     "geom:bbox":"-126.0636729,49.3697671,-126.0553685,49.3733883",
     "geom:latitude":49.371816,
     "geom:longitude":-126.058252,
     "iso:country":"CA",
     "lbl:latitude":49.372331,
     "lbl:longitude":-126.056465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.372331,
     "mps:longitude":-126.056465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seektukis 24"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742917,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566425944,
     "wof:name":"Seektukis 24",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

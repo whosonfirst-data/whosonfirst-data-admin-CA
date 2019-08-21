@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.491468,
     "lbl:longitude":-104.265913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.491468,
     "mps:longitude":-104.265913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balgonie"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.2919,
     "wd:longitude":-104.156,
     "wd:wordcount":383,
@@ -64,7 +67,6 @@
         "gn:id":5892190,
         "gp:id":23402829,
         "qs:id":245321,
-        "qs_pg:id":245321,
         "wd:id":"Q1909256"
     },
     "wof:country":"CA",
@@ -82,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284064,
+    "wof:lastmodified":1566425372,
     "wof:name":"Balgonie",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.034488,
     "lbl:longitude":-81.452071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.034488,
     "mps:longitude":-81.452071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0644\u064a\u0633\u0643\u0633 \u0633\u064a\u0646\u062a\u0631"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2909,
     "wof:belongsto":[
         102191575,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101736165,
-    "wof:lastmodified":1563284467,
+    "wof:lastmodified":1566425438,
     "wof:name":"Middlesex Centre",
     "wof:parent_id":890457469,
     "wof:placetype":"locality",

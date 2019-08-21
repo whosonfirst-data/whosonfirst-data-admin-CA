@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20039116.825567,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.077456,43.934308,-80.077456,43.934308",
     "geom:latitude":43.934308,
     "geom:longitude":-80.077456,
     "iso:country":"CA",
+    "lbl:bbox":"-80.082456,43.929308,-80.072456,43.939308",
     "lbl:latitude":43.934308,
     "lbl:longitude":-80.077456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.935516,
     "mps:longitude":-80.075209,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Purple Hill"
-    ],
-    "name:unk_x_variant":[
         "Purple Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736109,
         85633041,
@@ -71,8 +69,7 @@
     "wof:concordances":{
         "gn:id":7871319,
         "gp:id":55999437,
-        "qs:id":230291,
-        "qs_pg:id":230291
+        "qs:id":230291
     },
     "wof:country":"CA",
     "wof:geomhash":"d21215fd4a5e7bf71e2a668d78e9c96f",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931411,
+    "wof:lastmodified":1566424929,
     "wof:name":"Purple Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

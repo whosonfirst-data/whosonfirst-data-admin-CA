@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.903712,
     "lbl:longitude":-67.396799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.903712,
     "mps:longitude":-67.396799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0633\u062a\u0631 \u0631\u0648\u0643"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.9,
     "wd:longitude":-67.3833,
     "wd:wordcount":652,
@@ -76,7 +79,6 @@
         "gn:id":7290171,
         "gp:id":3679,
         "qs:id":1185802,
-        "qs_pg:id":1185802,
         "wd:id":"Q3391733",
         "wk:page":"Plaster Rock, New Brunswick"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735357,
-    "wof:lastmodified":1563285419,
+    "wof:lastmodified":1566425869,
     "wof:name":"Plaster Rock",
     "wof:parent_id":890456465,
     "wof:placetype":"locality",

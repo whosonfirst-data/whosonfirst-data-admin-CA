@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.547853,
     "lbl:longitude":-80.730264,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.547853,
     "mps:longitude":-80.730264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u064a\u0633\u0644\u064a"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1740,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101736385,
-    "wof:lastmodified":1561844333,
+    "wof:lastmodified":1566425435,
     "wof:name":"Wellesley",
     "wof:parent_id":890456483,
     "wof:placetype":"locality",

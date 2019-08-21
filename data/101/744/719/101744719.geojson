@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
+    "geom:area_square_m":280840.657514,
     "geom:bbox":"-122.7246605,50.3103322,-122.7178889,50.3240132",
     "geom:latitude":50.319897,
     "geom:longitude":-122.720988,
     "iso:country":"CA",
     "lbl:latitude":50.318204,
     "lbl:longitude":-122.721437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.318204,
     "mps:longitude":-122.721437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Currie 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744719,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566425904,
     "wof:name":"Mount Currie 10",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

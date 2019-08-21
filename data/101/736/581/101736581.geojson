@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.99504,
     "lbl:longitude":-77.768393,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.99504,
     "mps:longitude":-77.768393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644 \u062f\u0648\u0631"
     ],
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -130,7 +133,6 @@
         "gp:id":3277,
         "loc:id":"n83010216",
         "qs:id":965378,
-        "qs_pg:id":965378,
         "wd:id":"Q141937",
         "wk:page":"Val-d'Or"
     },
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101736581,
-    "wof:lastmodified":1563284441,
+    "wof:lastmodified":1566425434,
     "wof:name":"Val-d'Or",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

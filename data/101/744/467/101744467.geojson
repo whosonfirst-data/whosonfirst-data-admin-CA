@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
+    "geom:area_square_m":1408552.792956,
     "geom:bbox":"-125.9664518,54.0019404,-125.9397505,54.016637",
     "geom:latitude":54.008944,
     "geom:longitude":-125.956643,
     "iso:country":"CA",
     "lbl:latitude":54.008373,
     "lbl:longitude":-125.957958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.008373,
     "mps:longitude":-125.957958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Francois Lake 7"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101744467,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566425901,
     "wof:name":"Francois Lake 7",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

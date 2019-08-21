@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
-    "geom:area_square_m":3489892.31962,
+    "geom:area_square_m":3489892.319615,
     "geom:bbox":"-114.16797,51.137676,-114.123743,51.15251",
     "geom:latitude":51.145131,
     "geom:longitude":-114.149047,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.144941,
     "lbl:longitude":-114.147949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.147478,
     "mps:longitude":-114.143122,
     "mz:hierarchy_label":1,
@@ -67,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2526,
     "wof:belongsto":[
         102191575,
@@ -79,7 +80,6 @@
     "wof:concordances":{
         "gp:id":55855980,
         "qs:id":1000968,
-        "qs_pg:id":1000968,
         "wd:id":"Q5646347"
     },
     "wof:country":"CA",
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270640,
+    "wof:lastmodified":1566424999,
     "wof:name":"Hamptons",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

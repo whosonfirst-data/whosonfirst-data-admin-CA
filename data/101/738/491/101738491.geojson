@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.369578,
     "lbl:longitude":-78.737825,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.369578,
     "mps:longitude":-78.737825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644 \u062a\u064a\u0631"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":217,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "gn:id":5897874,
         "gp:id":3293,
         "qs:id":1189742,
-        "qs_pg:id":1189742,
         "wd:id":"Q139094",
         "wk:page":"Belleterre, Quebec"
     },
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101738491,
-    "wof:lastmodified":1563284636,
+    "wof:lastmodified":1566425463,
     "wof:name":"Belleterre",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

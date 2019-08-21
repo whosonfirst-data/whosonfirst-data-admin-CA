@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10729646.659635,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.886959,43.622917,-79.886959,43.622917",
     "geom:latitude":43.622917,
     "geom:longitude":-79.886959,
     "iso:country":"CA",
+    "lbl:bbox":"-79.891959,43.617917,-79.881959,43.627917",
     "lbl:latitude":43.622917,
     "lbl:longitude":-79.886959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.620424,
     "mps:longitude":-79.89069,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Delrex"
-    ],
-    "name:unk_x_variant":[
         "Delrex"
     ],
     "qs:gn_fcode":"PPLX",
@@ -56,10 +55,9 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":77,
     "wof:belongsto":[
-        85682057,
         102191575,
         101736091,
         85633041,
@@ -71,7 +69,6 @@
         "gn:id":5937610,
         "gp:id":55999205,
         "qs:id":238908,
-        "qs_pg:id":238908,
         "wd:id":"Q5254500"
     },
     "wof:country":"CA",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931355,
+    "wof:lastmodified":1566424937,
     "wof:name":"Delrex",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

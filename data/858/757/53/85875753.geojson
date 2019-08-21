@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3402402.169715,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.436962,45.582017,-73.436962,45.582017",
     "geom:latitude":45.582017,
     "geom:longitude":-73.436962,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.582017,
     "lbl:longitude":-73.436962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.56969,
     "mps:longitude":-73.44636,
     "mz:hierarchy_label":0,
@@ -38,7 +39,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -49,8 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856801,
-        "qs:id":959633,
-        "qs_pg:id":959633
+        "qs:id":959633
     },
     "wof:country":"CA",
     "wof:geomhash":"ed4a33a2e1d2e87b9814a423fbdfc0a1",
@@ -68,7 +68,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872220,
+    "wof:lastmodified":1566424981,
     "wof:name":"Du Perche",
     "wof:parent_id":101738135,
     "wof:placetype":"neighbourhood",

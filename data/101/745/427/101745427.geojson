@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00264,
+    "geom:area_square_m":21261751.478567,
     "geom:bbox":"-120.1225558,49.3023079,-120.0284179,49.3901716",
     "geom:latitude":49.353548,
     "geom:longitude":-120.077662,
     "iso:country":"CA",
     "lbl:latitude":49.340625,
     "lbl:longitude":-120.048206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.340625,
     "mps:longitude":-120.048206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chuchuwayha 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745427,
-    "wof:lastmodified":1533335910,
+    "wof:lastmodified":1566425976,
     "wof:name":"Chuchuwayha 2",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

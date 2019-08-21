@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":193090.862425,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.747498,53.905956,-122.747498,53.905956",
     "geom:latitude":53.905956,
     "geom:longitude":-122.747498,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.752498,53.900956,-122.742498,53.910956",
     "lbl:latitude":53.905956,
     "lbl:longitude":-122.747498,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.905147,
     "mps:longitude":-122.747499,
     "mz:hierarchy_label":0,
@@ -186,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0430\u0445\u0442"
     ],
-    "name:unk_x_variant":[
-        "Connaught"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0646\u0627\u06a9\u0679"
     ],
@@ -226,20 +225,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":4440,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856740,
-        "qs:id":381692,
-        "qs_pg:id":381692
+        "qs:id":381692
     },
     "wof:country":"CA",
     "wof:geomhash":"3928936700a5ea7a3a6aca4a58a771a6",
@@ -257,7 +255,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872190,
+    "wof:lastmodified":1566424973,
     "wof:name":"Connaught",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

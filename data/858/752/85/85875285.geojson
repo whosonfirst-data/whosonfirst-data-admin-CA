@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":851511.140226,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.462663,49.886638,-119.462663,49.886638",
     "geom:latitude":49.886638,
     "geom:longitude":-119.462663,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.467663,49.881638,-119.457663,49.891638",
     "lbl:latitude":49.886638,
     "lbl:longitude":-119.462663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.888883,
     "mps:longitude":-119.460937,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Ambrosi"
     ],
     "name:slv_x_preferred":[
-        "Ambrosi"
-    ],
-    "name:unk_x_variant":[
         "Ambrosi"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -71,20 +70,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":69,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741131,
-        890458697,
-        85682117
+        890458697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856433,
-        "qs:id":230693,
-        "qs_pg:id":230693
+        "qs:id":230693
     },
     "wof:country":"CA",
     "wof:geomhash":"d457e08d246f38e688397028f21984a3",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872065,
+    "wof:lastmodified":1566424927,
     "wof:name":"Ambrosi",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
+    "geom:area_square_m":1067964.910543,
     "geom:bbox":"-119.3185184,50.6934484,-119.291693,50.7027221",
     "geom:latitude":50.697839,
     "geom:longitude":-119.305609,
     "iso:country":"CA",
     "lbl:latitude":50.697263,
     "lbl:longitude":-119.308395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.697263,
     "mps:longitude":-119.308395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Switsemalph 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101745581,
-    "wof:lastmodified":1533335913,
+    "wof:lastmodified":1566425967,
     "wof:name":"Switsemalph 7",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

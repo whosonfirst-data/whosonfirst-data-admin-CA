@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5026291.982028,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.487846,44.046012,-79.487846,44.046012",
     "geom:latitude":44.046012,
     "geom:longitude":-79.487846,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.492846,44.041012,-79.482846,44.051012",
     "lbl:latitude":44.046012,
     "lbl:longitude":-79.487846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.039634,
     "mps:longitude":-79.518869,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Summerhill North"
-    ],
-    "name:unk_x_variant":[
         "Summerhill North"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999232,
-        "qs:id":19584,
-        "qs_pg:id":19584
+        "qs:id":19584
     },
     "wof:country":"CA",
     "wof:geomhash":"79caa1eb766c87d12f1104345206de36",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931363,
+    "wof:lastmodified":1566424937,
     "wof:name":"Summerhill North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

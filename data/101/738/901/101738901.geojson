@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.232069,
     "lbl:longitude":-74.273018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.232069,
     "mps:longitude":-74.273018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Zotique"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":316,
     "wof:belongsto":[
         102191575,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101738901,
-    "wof:lastmodified":1563284574,
+    "wof:lastmodified":1566425455,
     "wof:name":"Saint-Zotique",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

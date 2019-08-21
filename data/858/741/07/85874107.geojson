@@ -10,8 +10,10 @@
     "geom:latitude":46.339503,
     "geom:longitude":-72.585122,
     "iso:country":"CA",
+    "lbl:bbox":"-72.590122,46.334503,-72.580122,46.344503",
     "lbl:latitude":46.339503,
     "lbl:longitude":-72.585122,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.337446,
     "mps:longitude":-72.582726,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:swe_x_preferred":[
         "Sainte-Marguerite-Marie"
     ],
-    "name:unk_x_variant":[
-        "Sainte-Marguerite"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u0645\u0631\u06af\u06cc\u0631\u0679\u06d2-\u0645\u0631\u06d2"
     ],
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -113,7 +112,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170803,
+    "wof:lastmodified":1566424968,
     "wof:name":"Sainte-Marguerite",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

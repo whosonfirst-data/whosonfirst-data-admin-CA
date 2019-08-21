@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":69.433306,
     "lbl:longitude":-133.002747,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":69.433306,
     "mps:longitude":-133.002747,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":69.4428,
     "wd:longitude":-133.031,
@@ -202,7 +204,6 @@
         "gn:id":6170031,
         "gp:id":28752680,
         "qs:id":103071,
-        "qs_pg:id":103071,
         "wd:id":"Q719547",
         "wk:page":"Tuktoyaktuk"
     },
@@ -221,7 +222,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285442,
+    "wof:lastmodified":1566425872,
     "wof:name":"Tuktoyaktuk",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

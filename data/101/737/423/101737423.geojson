@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.66764,
     "lbl:longitude":-74.304018,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.66764,
     "mps:longitude":-74.304018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0634\u0648\u062a"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1158,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
         "gn:id":6024829,
         "gp:id":3526,
         "qs:id":898234,
-        "qs_pg:id":898234,
         "wd:id":"Q142250",
         "wk:page":"Lachute"
     },
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737423,
-    "wof:lastmodified":1563284155,
+    "wof:lastmodified":1566425384,
     "wof:name":"Lachute",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

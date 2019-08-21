@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
+    "geom:area_square_m":1911524.047067,
     "geom:bbox":"-109.2644444,51.8818668,-109.2412059,51.8962249",
     "geom:latitude":51.890231,
     "geom:longitude":-109.254739,
     "iso:country":"CA",
     "lbl:latitude":51.89037,
     "lbl:longitude":-109.258446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.89037,
     "mps:longitude":-109.258446,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poundmaker Indian Reserve No. 114-28"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746677,
-    "wof:lastmodified":1531524362,
+    "wof:lastmodified":1566425774,
     "wof:name":"Poundmaker Indian Reserve No. 114-28",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

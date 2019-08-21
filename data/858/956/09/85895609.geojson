@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2905104.340018,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.396841,43.82263,-79.396841,43.82263",
     "geom:latitude":43.82263,
     "geom:longitude":-79.396841,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.401841,43.81763,-79.391841,43.82763",
     "lbl:latitude":43.82263,
     "lbl:longitude":-79.396841,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.822637,
     "mps:longitude":-79.396181,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Thornlea"
-    ],
-    "name:unk_x_variant":[
         "Thornlea"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,9 +58,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736035,
         85633041,
@@ -71,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999581,
-        "qs:id":987003,
-        "qs_pg:id":987003
+        "qs:id":987003
     },
     "wof:country":"CA",
     "wof:geomhash":"44ab6cb04750da01313e967046a14f85",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931450,
+    "wof:lastmodified":1566424976,
     "wof:name":"Thornlea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
+    "geom:area_square_m":644578.708126,
     "geom:bbox":"-105.7087638,53.2343525,-105.6966989,53.2415989",
     "geom:latitude":53.237976,
     "geom:longitude":-105.702729,
     "iso:country":"CA",
     "lbl:latitude":53.237976,
     "lbl:longitude":-105.70273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.237976,
     "mps:longitude":-105.70273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wahpaton I.R. 94B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742275,
-    "wof:lastmodified":1531524557,
+    "wof:lastmodified":1566425928,
     "wof:name":"Wahpaton I.R. 94B",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

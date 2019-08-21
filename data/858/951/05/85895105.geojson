@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14928882.19717,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.666959,43.615409,-79.666959,43.615409",
     "geom:latitude":43.615409,
     "geom:longitude":-79.666959,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.671959,43.610409,-79.661959,43.620409",
     "lbl:latitude":43.615409,
     "lbl:longitude":-79.666959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.615486,
     "mps:longitude":-79.658007,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Hurontario"
-    ],
-    "name:unk_x_variant":[
         "Hurontario"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,9 +58,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740755,
         85633041,
@@ -71,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999104,
-        "qs:id":1306570,
-        "qs_pg:id":1306570
+        "qs:id":1306570
     },
     "wof:country":"CA",
     "wof:geomhash":"0533d6501739c416a33f775cc07a03b1",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931326,
+    "wof:lastmodified":1566424977,
     "wof:name":"Hurontario",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

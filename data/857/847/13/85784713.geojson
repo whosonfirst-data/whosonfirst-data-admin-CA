@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8082726.551571,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.246826,46.120464,-60.246826,46.120464",
     "geom:latitude":46.120464,
     "geom:longitude":-60.246826,
     "gn:latitude":46.11684,
     "gn:longitude":-60.23175,
     "iso:country":"CA",
+    "lbl:bbox":"-60.251826,46.115464,-60.241826,46.125464",
     "lbl:latitude":46.120464,
     "lbl:longitude":-60.246826,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.12846,
     "mps:longitude":-60.26001,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Coxheath"
-    ],
-    "name:unk_x_variant":[
         "Coxheath"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,12 +59,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":488,
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
@@ -73,7 +71,6 @@
         "gn:id":5931287,
         "gp:id":342,
         "qs:id":1328113,
-        "qs_pg:id":1328113,
         "wd:id":"Q5179950",
         "wk:page":"Coxheath, Nova Scotia"
     },
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860643,
+    "wof:lastmodified":1566424900,
     "wof:name":"Coxheath",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

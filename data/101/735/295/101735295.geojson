@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.064711,
     "lbl:longitude":-66.774398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.064711,
     "mps:longitude":-66.774398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0643\u0633 \u0647\u0627\u0631\u0628\u0648\u0631"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.058911,
     "wd:longitude":-66.784945,
     "wd:wordcount":393,
@@ -70,7 +73,6 @@
         "gn:id":5903322,
         "gp:id":29374486,
         "qs:id":1337632,
-        "qs_pg:id":1337632,
         "wd:id":"Q2905583",
         "wk:page":"Blacks Harbour, New Brunswick"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101735295,
-    "wof:lastmodified":1563285359,
+    "wof:lastmodified":1566425857,
     "wof:name":"Blacks Harbour",
     "wof:parent_id":1158869023,
     "wof:placetype":"locality",

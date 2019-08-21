@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3280251.236595,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.825649,43.240111,-79.825649,43.240111",
     "geom:latitude":43.240111,
     "geom:longitude":-79.825649,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.830649,43.235111,-79.820649,43.245111",
     "lbl:latitude":43.240111,
     "lbl:longitude":-79.825649,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.236903,
     "mps:longitude":-79.823002,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Delta West"
-    ],
-    "name:unk_x_variant":[
         "Delta West"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856149,
-        "qs:id":1089473,
-        "qs_pg:id":1089473
+        "qs:id":1089473
     },
     "wof:country":"CA",
     "wof:geomhash":"d1721c7536fed6e65d0514ef753e221a",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871932,
+    "wof:lastmodified":1566424964,
     "wof:name":"Delta West",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":63.328285,
     "lbl:longitude":-90.789723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":63.328285,
     "mps:longitude":-90.789723,
     "mz:hierarchy_label":1,
@@ -252,7 +254,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":11.0,
     "wd:latitude":63.3408,
     "wd:longitude":-90.7061,
@@ -286,7 +288,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285372,
+    "wof:lastmodified":1566425859,
     "wof:name":"Chesterfield Inlet",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

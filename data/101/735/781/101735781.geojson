@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.253008,
     "lbl:longitude":-84.782356,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.253008,
     "mps:longitude":-84.782356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u043d\u0435\u043f\u0430\u0439\u043d\u0435"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":493,
     "wof:belongsto":[
@@ -70,7 +73,6 @@
         "gn:id":5977046,
         "gp:id":3113,
         "qs:id":160274,
-        "qs_pg:id":160274,
         "wd:id":"Q729585",
         "wk:page":"Hornepayne"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101735781,
-    "wof:lastmodified":1561844485,
+    "wof:lastmodified":1566425883,
     "wof:name":"Hornepayne",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.015109,
     "lbl:longitude":-79.215319,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.015109,
     "mps:longitude":-79.215319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0633\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.033333,
     "wd:longitude":-79.3,
@@ -95,7 +98,6 @@
         "gn:id":5907092,
         "gp:id":3333,
         "qs:id":453168,
-        "qs_pg:id":453168,
         "wd:id":"Q896553",
         "wk:page":"Bracebridge, Ontario"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101736267,
-    "wof:lastmodified":1563284411,
+    "wof:lastmodified":1566425424,
     "wof:name":"Bracebridge",
     "wof:parent_id":890458545,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.823912,
     "lbl:longitude":-97.107565,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.822115,
     "mps:longitude":-97.118963,
     "mz:hierarchy_label":1,
@@ -116,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":474,
     "wof:belongsto":[
         102191575,
@@ -129,8 +130,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332855,
-        "qs:id":900353,
-        "qs_pg:id":900353
+        "qs:id":900353
     },
     "wof:country":"CA",
     "wof:geomhash":"9d2a7d68148bd457ed23760b7dea4db3",
@@ -149,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170734,
+    "wof:lastmodified":1566424947,
     "wof:name":"Vista",
     "wof:parent_id":1108968473,
     "wof:placetype":"neighbourhood",

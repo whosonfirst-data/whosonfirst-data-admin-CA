@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1409296.20593,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.888924,43.256766,-79.888924,43.256766",
     "geom:latitude":43.256766,
     "geom:longitude":-79.888924,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.893924,43.251766,-79.883924,43.261766",
     "lbl:latitude":43.256766,
     "lbl:longitude":-79.888924,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.257192,
     "mps:longitude":-79.893121,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Kirkendall North"
-    ],
-    "name:unk_x_variant":[
         "Kirkendall North"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856161,
-        "qs:id":48857,
-        "qs_pg:id":48857
+        "qs:id":48857
     },
     "wof:country":"CA",
     "wof:geomhash":"f67a4fa60edd34601c5dcdc5a4335349",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871937,
+    "wof:lastmodified":1566424965,
     "wof:name":"Kirkendall North",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":45.55008,
     "gn:longitude":-73.86589,
     "iso:country":"CA",
+    "lbl:bbox":"-73.876367,45.539556,-73.866367,45.549556",
     "lbl:latitude":45.544556,
     "lbl:longitude":-73.871367,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.546735,
     "mps:longitude":-73.875047,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     ],
     "name:nld_x_preferred":[
         "Laval-Ouest"
-    ],
-    "name:unk_x_variant":[
-        "Laval Ouest"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":130,
     "wof:belongsto":[
         136251273,
@@ -89,7 +88,6 @@
         "gn:id":6050647,
         "gp:id":837,
         "qs:id":1191828,
-        "qs_pg:id":1191828,
         "wd:id":"Q3219742",
         "wk:page":"Laval-Ouest"
     },
@@ -109,7 +107,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281721,
+    "wof:lastmodified":1566424899,
     "wof:name":"Laval Ouest",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

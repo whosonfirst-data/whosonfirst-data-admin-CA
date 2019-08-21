@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":870530.056018,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.672965,52.126355,-106.672965,52.126355",
     "geom:latitude":52.126355,
     "geom:longitude":-106.672965,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.677965,52.121355,-106.667965,52.131355",
     "lbl:latitude":52.126355,
     "lbl:longitude":-106.672965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.126609,
     "mps:longitude":-106.678562,
     "mz:hierarchy_label":0,
@@ -33,20 +35,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115063,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403653,
         "qs:id":1085731,
-        "qs_pg:id":1085731,
         "wd:id":"Q7338356"
     },
     "wof:country":"CA",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870981,
+    "wof:lastmodified":1566424988,
     "wof:name":"Riversdale",
     "wof:parent_id":1126115063,
     "wof:placetype":"neighbourhood",

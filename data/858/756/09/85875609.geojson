@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9668023.639424,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.942549,49.207853,-123.942549,49.207853",
     "geom:latitude":49.207853,
     "geom:longitude":-123.942549,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.947549,49.202853,-123.937549,49.212853",
     "lbl:latitude":49.207853,
     "lbl:longitude":-123.942549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.211569,
     "mps:longitude":-123.926675,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Stephenson Point"
-    ],
-    "name:unk_x_variant":[
         "Stephenson Point"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856706,
-        "qs:id":230712,
-        "qs_pg:id":230712
+        "qs:id":230712
     },
     "wof:country":"CA",
     "wof:geomhash":"31ea4e29214941e19c85efedfccaaad1",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872173,
+    "wof:lastmodified":1566424972,
     "wof:name":"Stephenson Point",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001193,
+    "geom:area_square_m":8873763.074416,
     "geom:bbox":"-95.0272094,53.0131759,-94.8901981,53.0673225",
     "geom:latitude":53.036365,
     "geom:longitude":-94.962346,
     "iso:country":"CA",
     "lbl:latitude":53.02999,
     "lbl:longitude":-94.944911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.02999,
     "mps:longitude":-94.944911,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mukwa Narrows"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745985,
-    "wof:lastmodified":1533069144,
+    "wof:lastmodified":1566425968,
     "wof:name":"Mukwa Narrows",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

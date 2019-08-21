@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001999,
+    "geom:area_square_m":16577398.646438,
     "geom:bbox":"-55.7959672,47.8542753,-55.618524,47.9164352",
     "geom:latitude":47.876067,
     "geom:longitude":-55.706337,
     "iso:country":"CA",
     "lbl:latitude":47.883308,
     "lbl:longitude":-55.682127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.883308,
     "mps:longitude":-55.682127,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samiajij Miawpukek"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747607,
-    "wof:lastmodified":1531526631,
+    "wof:lastmodified":1566425679,
     "wof:name":"Samiajij Miawpukek",
     "wof:parent_id":1158869005,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
+    "geom:area_square_m":438050.737841,
     "geom:bbox":"-122.3103568,49.8860913,-122.2949122,49.8918706",
     "geom:latitude":49.889416,
     "geom:longitude":-122.300629,
     "iso:country":"CA",
     "lbl:latitude":49.888875,
     "lbl:longitude":-122.298459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.888875,
     "mps:longitude":-122.298459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Franks 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745751,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566425972,
     "wof:name":"Franks 10",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

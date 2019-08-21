@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.669439,
     "lbl:longitude":-79.376453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.670619,
     "mps:longitude":-79.375972,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Saint James Town",
         "St James Town",
         "St. James Town"
-    ],
-    "name:unk_x_variant":[
-        "St Jamestown"
     ],
     "name:zho_x_preferred":[
         "\u8056\u8a79\u59c6\u65af\u6566"
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"North St.James Town (74)",
     "torsdfa:AREA_S_CD":"074",
     "wd:latitude":43.669167,
@@ -88,7 +86,6 @@
         "gn:id":6156873,
         "gp:id":23399785,
         "qs:id":1086092,
-        "qs_pg:id":1086092,
         "wd:id":"Q7588527",
         "wk:page":"St. James Town"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844221,
+    "wof:lastmodified":1566424986,
     "wof:name":"St James Town",
     "wof:parent_id":1108833551,
     "wof:placetype":"neighbourhood",

@@ -14,15 +14,18 @@
     "geom:longitude":-112.346639,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.588751,
     "lbl:longitude":-112.348125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.588751,
     "mps:longitude":-112.348125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mundare"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":678.0,
     "wd:latitude":"53.5911",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":890458295,
-    "wof:lastmodified":1563285979,
+    "wof:lastmodified":1566426012,
     "wof:name":"Mundare",
     "wof:parent_id":1158863199,
     "wof:placetype":"locality",

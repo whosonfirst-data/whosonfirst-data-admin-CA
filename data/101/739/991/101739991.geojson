@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.460987,
     "lbl:longitude":-104.298933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.460987,
     "mps:longitude":-104.298933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0432\u0438\u043b\u0435"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.4667,
     "wd:longitude":-104.283,
     "wd:wordcount":1731,
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283957,
+    "wof:lastmodified":1566425358,
     "wof:name":"Radville",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

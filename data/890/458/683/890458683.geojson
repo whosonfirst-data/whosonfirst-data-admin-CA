@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":42.157,
     "lbl:longitude":-82.833252,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.157,
     "mps:longitude":-82.833252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Essex"
     ],
@@ -270,7 +273,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Francheville",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"3537",
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":890458683,
-    "wof:lastmodified":1564173248,
+    "wof:lastmodified":1566426037,
     "wof:name":"Essex",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

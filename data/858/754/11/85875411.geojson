@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2322866.387838,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.075738,45.260724,-66.075738,45.260724",
     "geom:latitude":45.260724,
     "geom:longitude":-66.075738,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.080738,45.255724,-66.070738,45.265724",
     "lbl:latitude":45.260724,
     "lbl:longitude":-66.075738,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.261244,
     "mps:longitude":-66.073719,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Trinity Royal Heritage District"
-    ],
-    "name:unk_x_variant":[
         "Trinity Royal Heritage District"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856505,
-        "qs:id":986472,
-        "qs_pg:id":986472
+        "qs:id":986472
     },
     "wof:country":"CA",
     "wof:geomhash":"6e81865f8761d02a5f6fd038a5289124",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872107,
+    "wof:lastmodified":1566424933,
     "wof:name":"Trinity Royal Heritage District",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

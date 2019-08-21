@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
-    "geom:area_square_m":8446273.069425,
+    "geom:area_square_m":8446273.069421,
     "geom:bbox":"-106.733456,52.158412,-106.670279,52.187552",
     "geom:latitude":52.173749,
     "geom:longitude":-106.699812,
@@ -16,6 +16,7 @@
     "mps:longitude":-106.675995,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "John G Diefenbaker International Airport"
     ],
@@ -29,7 +30,7 @@
     "src:geom_alt":[
         "woedb"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375232,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":102555161,
-    "wof:lastmodified":1531524191,
+    "wof:lastmodified":1566424822,
     "wof:name":"John G Diefenbaker International Airport",
     "wof:parent_id":1126114033,
     "wof:placetype":"campus",

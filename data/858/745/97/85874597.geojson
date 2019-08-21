@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.036815,
     "lbl:longitude":-114.08567,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.036269,
     "mps:longitude":-114.084604,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -50,8 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855995,
-        "qs:id":16836,
-        "qs_pg:id":16836
+        "qs:id":16836
     },
     "wof:country":"CA",
     "wof:geomhash":"b0e70a6b384441f731676f9cd85f6ac8",
@@ -68,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270641,
+    "wof:lastmodified":1566425000,
     "wof:name":"Lower Mount Royal",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

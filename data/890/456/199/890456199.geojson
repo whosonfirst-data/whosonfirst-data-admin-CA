@@ -14,16 +14,18 @@
     "geom:longitude":-114.231612,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":3663,
     "gn:population":3663,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.688607,
     "lbl:longitude":-114.229521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.688607,
     "mps:longitude":-114.229521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Black Diamond"
     ],
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":429,
     "wof:belongsto":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":890456199,
-    "wof:lastmodified":1563286253,
+    "wof:lastmodified":1566426087,
     "wof:name":"Black Diamond",
     "wof:parent_id":1158863173,
     "wof:placetype":"locality",

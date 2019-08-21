@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
-    "geom:area_square_m":530658.094341,
+    "geom:area_square_m":530658.094342,
     "geom:bbox":"-97.099035,49.838257,-97.085818,49.849975",
     "geom:latitude":49.84391,
     "geom:longitude":-97.092639,
     "iso:country":"CA",
     "lbl:latitude":49.844209,
     "lbl:longitude":-97.092494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.843786,
     "mps:longitude":-97.092741,
     "mz:hierarchy_label":1,
@@ -34,14 +35,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968473,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108937575,
-    "wof:lastmodified":1531523910,
+    "wof:lastmodified":1566425230,
     "wof:name":"Lavalee",
     "wof:parent_id":1108968473,
     "wof:placetype":"neighbourhood",

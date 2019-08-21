@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.534457,
     "lbl:longitude":-103.668061,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.534457,
     "mps:longitude":-103.668061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Indian Head"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":199,
     "wof:belongsto":[
@@ -76,7 +79,6 @@
         "gn:id":5982839,
         "gp:id":2508,
         "qs:id":905985,
-        "qs_pg:id":905985,
         "wd:id":"Q1911671"
     },
     "wof:country":"CA",
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284009,
+    "wof:lastmodified":1566425365,
     "wof:name":"Indian Head",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

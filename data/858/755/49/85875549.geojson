@@ -11,8 +11,10 @@
     "geom:longitude":-78.319714,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-78.324714,44.297629,-78.314714,44.307629",
     "lbl:latitude":44.302629,
     "lbl:longitude":-78.319714,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.301244,
     "mps:longitude":-78.323609,
     "mz:hierarchy_label":0,
@@ -312,9 +314,6 @@
     "name:ukr_x_preferred":[
         "\u043c\u0456\u0441\u0442\u0435\u0447\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "Town"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0628\u06c1"
     ],
@@ -370,7 +369,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":9081,
     "wof:belongsto":[
         85682057,
@@ -383,7 +382,6 @@
     "wof:concordances":{
         "gp:id":55856662,
         "qs:id":381645,
-        "qs_pg:id":381645,
         "wd:id":"Q3957"
     },
     "wof:country":"CA",
@@ -402,7 +400,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281813,
+    "wof:lastmodified":1566424928,
     "wof:name":"Town",
     "wof:parent_id":101735747,
     "wof:placetype":"neighbourhood",

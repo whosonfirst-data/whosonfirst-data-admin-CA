@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13340019.875731,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.064221,46.474269,-81.064221,46.474269",
     "geom:latitude":46.474269,
     "geom:longitude":-81.064221,
     "gn:latitude":46.46678,
     "gn:longitude":-81.06644,
     "iso:country":"CA",
+    "lbl:bbox":"-81.069221,46.469269,-81.059221,46.479269",
     "lbl:latitude":46.474269,
     "lbl:longitude":-81.064221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.475699,
     "mps:longitude":-81.059654,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Copper Cliff"
-    ],
-    "name:unk_x_variant":[
         "Copper Cliff"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:concordances":{
         "gn:id":5927547,
         "gp:id":323,
-        "qs:id":1218874,
-        "qs_pg:id":1218874
+        "qs:id":1218874
     },
     "wof:country":"CA",
     "wof:geomhash":"2a7d5b6062b730cd43e5e5cd7fcedbc0",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860642,
+    "wof:lastmodified":1566424899,
     "wof:name":"Copper Cliff",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

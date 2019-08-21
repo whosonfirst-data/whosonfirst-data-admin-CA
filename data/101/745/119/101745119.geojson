@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
+    "geom:area_square_m":486079.922482,
     "geom:bbox":"-122.0151847,52.14375,-122.0063053,52.1510491",
     "geom:latitude":52.147389,
     "geom:longitude":-122.01074,
     "iso:country":"CA",
     "lbl:latitude":52.147392,
     "lbl:longitude":-122.01074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.147392,
     "mps:longitude":-122.01074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Asahal Lake 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745119,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566425969,
     "wof:name":"Asahal Lake 2",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

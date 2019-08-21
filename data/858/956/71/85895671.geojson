@@ -11,8 +11,10 @@
     "geom:longitude":-79.79191,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.79691,43.390416,-79.78691,43.400416",
     "lbl:latitude":43.395416,
     "lbl:longitude":-79.79191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.395133,
     "mps:longitude":-79.787195,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:swe_x_preferred":[
         "Tansley"
     ],
-    "name:unk_x_variant":[
-        "Tansley"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":69,
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1145,
     "wof:belongsto":[
         102191575,
@@ -83,8 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999627,
-        "qs:id":987006,
-        "qs_pg:id":987006
+        "qs:id":987006
     },
     "wof:country":"CA",
     "wof:geomhash":"287def0f0e9eb370c3323f80476fa420",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170844,
+    "wof:lastmodified":1566424977,
     "wof:name":"Tansley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

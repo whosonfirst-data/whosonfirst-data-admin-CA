@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10243771.246606,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.535323,43.349982,-80.535323,43.349982",
     "geom:latitude":43.349982,
     "geom:longitude":-80.535323,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.540323,43.344982,-80.530323,43.354982",
     "lbl:latitude":43.349982,
     "lbl:longitude":-80.535323,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.350958,
     "mps:longitude":-80.533102,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "South Plains"
     ],
     "name:ita_x_preferred":[
-        "South Plains"
-    ],
-    "name:unk_x_variant":[
         "South Plains"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,21 +63,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":340,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101736097,
         890456483,
-        85682057,
         101740709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856246,
-        "qs:id":381443,
-        "qs_pg:id":381443
+        "qs:id":381443
     },
     "wof:country":"CA",
     "wof:geomhash":"dfdf9d5078ed4bf6ee6b1c4c6e39d5ef",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871977,
+    "wof:lastmodified":1566424958,
     "wof:name":"South Plains",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

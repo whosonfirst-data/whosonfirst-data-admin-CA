@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":2927162.898759,
+    "geom:area_square_m":2927162.898762,
     "geom:bbox":"-79.562131979,43.709469281,-79.537824971,43.732870858",
     "geom:latitude":43.721519,
     "geom:longitude":-79.548983,
     "iso:country":"CA",
     "lbl:latitude":43.722454,
     "lbl:longitude":-79.550179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.717874,
     "mps:longitude":-79.544345,
     "mz:hierarchy_label":1,
@@ -34,24 +35,23 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Elms-Old Rexdale (5)",
     "torsdfa:AREA_S_CD":"005",
     "wd:wordcount":219,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833313,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7871296,
         "gp:id":55999573,
         "qs:id":1101962,
-        "qs_pg:id":1101962,
         "wd:id":"Q7731829"
     },
     "wof:controlled":[],
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272679,
+    "wof:lastmodified":1566424976,
     "wof:name":"The Elms",
     "wof:parent_id":1108833313,
     "wof:placetype":"neighbourhood",

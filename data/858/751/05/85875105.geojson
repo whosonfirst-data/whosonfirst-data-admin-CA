@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":931364.10307,
+    "geom:area_square_m":931364.103074,
     "geom:bbox":"-123.338012695,48.4317275041,-123.321533203,48.4416248003",
     "geom:latitude":48.436279,
     "geom:longitude":-123.329125,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.435466,
     "lbl:longitude":-123.329923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.436668,
     "mps:longitude":-123.329282,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "North Jubileee"
-    ],
-    "name:unk_x_variant":[
         "North Jubileee"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -67,8 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856325,
-        "qs:id":1290814,
-        "qs_pg:id":1290814
+        "qs:id":1290814
     },
     "wof:country":"CA",
     "wof:geomhash":"c26089c187728a1c1522e6282cf1cdbb",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335939,
+    "wof:lastmodified":1566424974,
     "wof:name":"North Jubileee",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

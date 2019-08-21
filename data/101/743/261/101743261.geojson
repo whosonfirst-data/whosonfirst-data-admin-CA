@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":662105.751392,
     "geom:bbox":"-126.120994,54.3165258,-126.1026305,54.3237846",
     "geom:latitude":54.319888,
     "geom:longitude":-126.114341,
     "iso:country":"CA",
     "lbl:latitude":54.32015,
     "lbl:longitude":-126.116912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.32015,
     "mps:longitude":-126.116912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maxan Lake 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743261,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566425910,
     "wof:name":"Maxan Lake 4",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

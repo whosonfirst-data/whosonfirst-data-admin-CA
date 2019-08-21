@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1610936.727939,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.66284,52.152037,-106.66284,52.152037",
     "geom:latitude":52.152037,
     "geom:longitude":-106.66284,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.66784,52.147037,-106.65784,52.157037",
     "lbl:latitude":52.152037,
     "lbl:longitude":-106.66284,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.156861,
     "mps:longitude":-106.663813,
     "mz:hierarchy_label":0,
@@ -33,23 +35,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.1508,
     "wd:longitude":-106.655,
     "wd:wordcount":626,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115077,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856375,
         "qs:id":890965,
-        "qs_pg:id":890965,
         "wd:id":"Q12060978"
     },
     "wof:country":"CA",
@@ -69,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872034,
+    "wof:lastmodified":1566424975,
     "wof:name":"Kelsey-Woodlawn",
     "wof:parent_id":1126115077,
     "wof:placetype":"neighbourhood",

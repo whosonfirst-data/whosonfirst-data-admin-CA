@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":923492.649795,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.465543,43.997935,-79.465543,43.997935",
     "geom:latitude":43.997935,
     "geom:longitude":-79.465543,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.470543,43.992935,-79.460543,44.002935",
     "lbl:latitude":43.997935,
     "lbl:longitude":-79.465543,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.997927,
     "mps:longitude":-79.466596,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Southeast Old Aurora"
-    ],
-    "name:unk_x_variant":[
         "Southeast Old Aurora"
     ],
     "qs:gn_id":0,
@@ -56,9 +55,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736049,
         85633041,
@@ -68,8 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999528,
-        "qs:id":1190787,
-        "qs_pg:id":1190787
+        "qs:id":1190787
     },
     "wof:country":"CA",
     "wof:geomhash":"be262d962ee31c4632b810841c750ac1",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931435,
+    "wof:lastmodified":1566424938,
     "wof:name":"Southeast Old Aurora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

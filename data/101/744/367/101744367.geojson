@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2466.131455,
     "geom:bbox":"-121.5650719,50.1317957,-121.5642416,50.132351",
     "geom:latitude":50.132075,
     "geom:longitude":-121.564659,
     "iso:country":"CA",
     "lbl:latitude":50.132085,
     "lbl:longitude":-121.564596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.132085,
     "mps:longitude":-121.564596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moosh 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744367,
-    "wof:lastmodified":1533335892,
+    "wof:lastmodified":1566425899,
     "wof:name":"Moosh 4",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

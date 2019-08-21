@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3194068.360835,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.663265,50.452493,-104.663265,50.452493",
     "geom:latitude":50.452493,
     "geom:longitude":-104.663265,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-104.668265,50.447493,-104.658265,50.457493",
     "lbl:latitude":50.452493,
     "lbl:longitude":-104.663265,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.452833,
     "mps:longitude":-104.669228,
     "mz:hierarchy_label":0,
@@ -45,21 +47,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":248,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113663,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856403,
-        "qs:id":230689,
-        "qs_pg:id":230689
+        "qs:id":230689
     },
     "wof:country":"CA",
     "wof:geomhash":"73949ff008dd4cf1716c7348b733b9d8",
@@ -78,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872051,
+    "wof:lastmodified":1566424927,
     "wof:name":"McNab",
     "wof:parent_id":1126113663,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
+    "geom:area_square_m":751581.010415,
     "geom:bbox":"-122.3484736,49.9173488,-122.3243615,49.9244634",
     "geom:latitude":49.921085,
     "geom:longitude":-122.335587,
     "iso:country":"CA",
     "lbl:latitude":49.920076,
     "lbl:longitude":-122.335386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.920076,
     "mps:longitude":-122.335386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sklahhesten 5A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745745,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566425984,
     "wof:name":"Sklahhesten 5A",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

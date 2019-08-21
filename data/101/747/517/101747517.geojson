@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007544,
+    "geom:area_square_m":64390325.5562,
     "geom:bbox":"-79.8839558,46.3017742,-79.5031441,46.4194409",
     "geom:latitude":46.351262,
     "geom:longitude":-79.772779,
     "iso:country":"CA",
     "lbl:latitude":46.335883,
     "lbl:longitude":-79.847569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.335883,
     "mps:longitude":-79.847569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nipissing Indian Reserve No. 10"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747517,
-    "wof:lastmodified":1533335682,
+    "wof:lastmodified":1566425592,
     "wof:name":"Nipissing Indian Reserve No. 10",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

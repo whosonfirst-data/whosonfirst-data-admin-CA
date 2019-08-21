@@ -12,8 +12,10 @@
     "gn:elevation":106,
     "gn:population":224,
     "iso:country":"CA",
+    "lbl:bbox":"-76.586573,44.223624,-76.576573,44.233624",
     "lbl:latitude":44.228624,
     "lbl:longitude":-76.581573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.20336,
     "mps:longitude":-76.589281,
     "mz:hierarchy_label":0,
@@ -73,9 +75,8 @@
     "name:srp_x_preferred":[
         "\u0425\u0435\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Salisbury Mills",
-        "Henderson"
+    "name:und_x_variant":[
+        "Salisbury Mills"
     ],
     "name:uzb_x_preferred":[
         "Henderson"
@@ -109,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"gn",
     "wof:belongsto":[
         85682057,
@@ -143,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281888,
+    "wof:lastmodified":1566424942,
     "wof:name":"Henderson",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

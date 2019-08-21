@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8678217.208022,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.644798,43.559042,-79.644798,43.559042",
     "geom:latitude":43.559042,
     "geom:longitude":-79.644798,
     "iso:country":"CA",
+    "lbl:bbox":"-79.649798,43.554042,-79.639798,43.564042",
     "lbl:latitude":43.559042,
     "lbl:longitude":-79.644798,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.551525,
     "mps:longitude":-79.634713,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Erindale"
-    ],
-    "name:unk_x_variant":[
         "Erindale"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -72,8 +71,7 @@
     "wof:concordances":{
         "gn:id":7839040,
         "gp:id":55999301,
-        "qs:id":1311937,
-        "qs_pg:id":1311937
+        "qs:id":1311937
     },
     "wof:country":"CA",
     "wof:geomhash":"824c25242188652fcfa3c1e126e6e041",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931377,
+    "wof:lastmodified":1566424932,
     "wof:name":"Erindale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

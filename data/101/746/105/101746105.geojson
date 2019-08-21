@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
+    "geom:area_square_m":306261.261354,
     "geom:bbox":"-119.7859994,51.0758635,-119.7733566,51.0804967",
     "geom:latitude":51.078635,
     "geom:longitude":-119.778814,
     "iso:country":"CA",
     "lbl:latitude":51.07759,
     "lbl:longitude":-119.77747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.07759,
     "mps:longitude":-119.77747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Squaam 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746105,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566425742,
     "wof:name":"Squaam 2",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

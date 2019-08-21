@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.503565,
     "lbl:longitude":-119.561133,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.503565,
     "mps:longitude":-119.561133,
     "mz:hierarchy_label":1,
@@ -262,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":385.0,
     "wd:latitude":49.491111,
@@ -279,7 +281,6 @@
         "gn:id":6101141,
         "gp:id":9889,
         "qs:id":965740,
-        "qs_pg:id":965740,
         "wd:id":"Q935519",
         "wk:page":"Penticton"
     },
@@ -295,7 +296,7 @@
         }
     ],
     "wof:id":101740921,
-    "wof:lastmodified":1563284891,
+    "wof:lastmodified":1566425522,
     "wof:name":"Penticton",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

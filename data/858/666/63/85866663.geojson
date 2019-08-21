@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.885563,
     "lbl:longitude":-114.029064,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.873869,
     "mps:longitude":-114.037267,
     "mz:hierarchy_label":1,
@@ -101,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0440\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Chapparal"
-    ],
     "name:vie_x_preferred":[
         "Chaparral"
     ],
@@ -112,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -123,7 +121,6 @@
     "wof:concordances":{
         "gp:id":26342784,
         "qs:id":220298,
-        "qs_pg:id":220298,
         "wd:id":"Q5072927"
     },
     "wof:country":"CA",
@@ -141,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281928,
+    "wof:lastmodified":1566424948,
     "wof:name":"Chaparral",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

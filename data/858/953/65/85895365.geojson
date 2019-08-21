@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3692268.642718,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.475098,44.205836,-79.475098,44.205836",
     "geom:latitude":44.205836,
     "geom:longitude":-79.475098,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.480098,44.200836,-79.470098,44.210836",
     "lbl:latitude":44.205836,
     "lbl:longitude":-79.475098,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.214469,
     "mps:longitude":-79.483803,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Youngs Harbour"
-    ],
-    "name:unk_x_variant":[
         "Youngs Harbour"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -68,8 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999337,
-        "qs:id":1111770,
-        "qs_pg:id":1111770
+        "qs:id":1111770
     },
     "wof:country":"CA",
     "wof:geomhash":"353737c64b757313760c2da0ef672cc8",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931393,
+    "wof:lastmodified":1566424931,
     "wof:name":"Youngs Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

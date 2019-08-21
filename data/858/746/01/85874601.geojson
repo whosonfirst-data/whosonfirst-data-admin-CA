@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.137376,
     "lbl:longitude":-114.114473,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.132281,
     "mps:longitude":-114.115152,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1150.0,
     "wd:latitude":51.1369,
     "wd:longitude":-114.114,
@@ -58,7 +59,6 @@
     "wof:concordances":{
         "gp:id":55855997,
         "qs:id":485981,
-        "qs_pg:id":485981,
         "wd:id":"Q6721875"
     },
     "wof:country":"CA",
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282026,
+    "wof:lastmodified":1566424966,
     "wof:name":"MacEwan Glen",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2802078.304499,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.792865,43.260894,-79.792865,43.260894",
     "geom:latitude":43.260894,
     "geom:longitude":-79.792865,
     "iso:country":"CA",
+    "lbl:bbox":"-79.797865,43.255894,-79.787865,43.265894",
     "lbl:latitude":43.260894,
     "lbl:longitude":-79.792865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.258674,
     "mps:longitude":-79.787409,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Hamilton-Est\u2014Stoney Creek"
-    ],
-    "name:unk_x_variant":[
-        "Parkview West"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -73,8 +72,7 @@
     "wof:concordances":{
         "gn:id":6098654,
         "gp:id":55856177,
-        "qs:id":230236,
-        "qs_pg:id":230236
+        "qs:id":230236
     },
     "wof:country":"CA",
     "wof:geomhash":"89cea0d1bc9bde4894920a2b6d9d108d",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871944,
+    "wof:lastmodified":1566424964,
     "wof:name":"Parkview West",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

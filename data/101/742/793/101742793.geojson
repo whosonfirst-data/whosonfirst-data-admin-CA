@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001394,
+    "geom:area_square_m":8752646.422026,
     "geom:bbox":"-133.6816938,59.4768056,-133.6100855,59.5184639",
     "geom:latitude":59.494825,
     "geom:longitude":-133.647896,
     "iso:country":"CA",
     "lbl:latitude":59.490803,
     "lbl:longitude":-133.648436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.490803,
     "mps:longitude":-133.648436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Five Mile Point 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742793,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425936,
     "wof:name":"Five Mile Point 3",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

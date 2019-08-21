@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000339,
+    "geom:area_square_m":2573918.148105,
     "geom:bbox":"-123.2495661,52.1022946,-123.2259945,52.1168412",
     "geom:latitude":52.109546,
     "geom:longitude":-123.237749,
     "iso:country":"CA",
     "lbl:latitude":52.109587,
     "lbl:longitude":-123.237749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.109587,
     "mps:longitude":-123.237749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anahim'S Meadow 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744995,
-    "wof:lastmodified":1533335902,
+    "wof:lastmodified":1566425897,
     "wof:name":"Anahim'S Meadow 2",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

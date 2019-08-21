@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.646345,
     "lbl:longitude":-122.896141,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.646345,
     "mps:longitude":-122.896141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Squamish-Lillooet Regional District"
     ],
@@ -69,7 +72,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Squamish-Lillooet",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5931",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890456953,
-    "wof:lastmodified":1563286137,
+    "wof:lastmodified":1566426049,
     "wof:name":"Squamish-Lillooet",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

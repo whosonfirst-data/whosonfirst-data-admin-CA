@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.212047,
     "lbl:longitude":-112.572841,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.212047,
     "mps:longitude":-112.572841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Stettler No. 6"
     ],
@@ -28,7 +31,7 @@
     "reversegeo:longitude":-112.572841,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1943-03-01",
     "wd:population":5322,
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1158863241,
-    "wof:lastmodified":1554759645,
+    "wof:lastmodified":1566426276,
     "wof:name":"Stettler No. 6",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

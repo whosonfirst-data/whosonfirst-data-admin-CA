@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
+    "geom:area_square_m":648555.048889,
     "geom:bbox":"-116.5902518,49.1316861,-116.5755293,49.1426588",
     "geom:latitude":49.136424,
     "geom:longitude":-116.58153,
     "iso:country":"CA",
     "lbl:latitude":49.135361,
     "lbl:longitude":-116.579788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.135361,
     "mps:longitude":-116.579788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lower Kootenay 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745655,
-    "wof:lastmodified":1533335915,
+    "wof:lastmodified":1566425977,
     "wof:name":"Lower Kootenay 3",
     "wof:parent_id":890458089,
     "wof:placetype":"locality",

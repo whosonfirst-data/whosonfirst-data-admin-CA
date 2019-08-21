@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.539947,
     "lbl:longitude":-105.7832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.539947,
     "mps:longitude":-105.7832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Christopher Lake"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,6 @@
         "gn:id":5921946,
         "gp:id":23402843,
         "qs:id":309526,
-        "qs_pg:id":309526,
         "wd:id":"Q1999613"
     },
     "wof:country":"CA",
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283986,
+    "wof:lastmodified":1566425362,
     "wof:name":"Christopher Lake",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

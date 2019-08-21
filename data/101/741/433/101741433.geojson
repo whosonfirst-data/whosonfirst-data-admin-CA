@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025807,
+    "geom:area_square_m":235188339.722925,
     "geom:bbox":"-82.6864961,42.4298743,-82.4024356,42.6373306",
     "geom:latitude":42.528188,
     "geom:longitude":-82.524212,
     "iso:country":"CA",
     "lbl:latitude":42.522517,
     "lbl:longitude":-82.518113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.522517,
     "mps:longitude":-82.518113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Walpole Island Indian Reserve No. 46"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101741433,
-    "wof:lastmodified":1533335671,
+    "wof:lastmodified":1566425826,
     "wof:name":"Walpole Island Indian Reserve No. 46",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

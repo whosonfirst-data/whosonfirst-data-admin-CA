@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.168663,
     "lbl:longitude":-123.133913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.176285,
     "mps:longitude":-123.134738,
     "mz:hierarchy_label":1,
@@ -85,9 +86,6 @@
     "name:srp_x_preferred":[
         "\u0446\u0435\u043d\u0442\u0430\u0440 \u0433\u0440\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "City Centre"
-    ],
     "name:zho_x_preferred":[
         "\u5e02\u4e2d\u5fc3"
     ],
@@ -122,7 +120,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":610,
     "wof:belongsto":[
         85682117,
@@ -135,7 +133,6 @@
     "wof:concordances":{
         "gp:id":55998901,
         "qs:id":220635,
-        "qs_pg:id":220635,
         "wd:id":"Q1468524"
     },
     "wof:country":"CA",
@@ -154,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281950,
+    "wof:lastmodified":1566424952,
     "wof:name":"City Centre",
     "wof:parent_id":101741081,
     "wof:placetype":"neighbourhood",

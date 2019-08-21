@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7048531.512315,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.394722,45.495983,-73.394722,45.495983",
     "geom:latitude":45.495983,
     "geom:longitude":-73.394722,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.399722,45.490983,-73.389722,45.500983",
     "lbl:latitude":45.495983,
     "lbl:longitude":-73.394722,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.518578,
     "mps:longitude":-73.407718,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Laurendeau"
     ],
     "name:fra_x_preferred":[
-        "Laurendeau"
-    ],
-    "name:unk_x_variant":[
         "Laurendeau"
     ],
     "qs:gn_id":0,
@@ -64,20 +63,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":120,
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961057
+        1108961057,
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022875,
-        "qs:id":238178,
-        "qs_pg:id":238178
+        "qs:id":238178
     },
     "wof:country":"CA",
     "wof:geomhash":"ce268e5294ddfd8c7148615f1512ce24",
@@ -96,7 +95,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931892,
+    "wof:lastmodified":1566425001,
     "wof:name":"Laurendeau",
     "wof:parent_id":1108961057,
     "wof:placetype":"neighbourhood",

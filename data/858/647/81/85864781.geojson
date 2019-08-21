@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1601671.434794,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.583497,52.148336,-106.583497,52.148336",
     "geom:latitude":52.148336,
     "geom:longitude":-106.583497,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.588497,52.143336,-106.578497,52.153336",
     "lbl:latitude":52.148336,
     "lbl:longitude":-106.583497,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.148876,
     "mps:longitude":-106.593703,
     "mz:hierarchy_label":0,
@@ -33,21 +35,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":78,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115071,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403359,
         "qs:id":1087687,
-        "qs_pg:id":1087687,
         "wd:id":"Q5468886"
     },
     "wof:country":"CA",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870965,
+    "wof:lastmodified":1566424985,
     "wof:name":"Forest Grove",
     "wof:parent_id":1126115071,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-76.500072,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.505072,44.234735,-76.495072,44.244735",
     "lbl:latitude":44.239735,
     "lbl:longitude":-76.500072,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.240484,
     "mps:longitude":-76.501831,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u043b\u0438\u0458\u0430\u043c\u0441\u0432\u0438\u043b"
     ],
-    "name:unk_x_variant":[
-        "Williamsville"
-    ],
     "name:vol_x_preferred":[
         "Williamsville"
     ],
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -102,8 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856474,
-        "qs:id":381583,
-        "qs_pg:id":381583
+        "qs:id":381583
     },
     "wof:country":"CA",
     "wof:geomhash":"75978bcb7dfab5185e8879bc1703134e",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170697,
+    "wof:lastmodified":1566424934,
     "wof:name":"Williamsville",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

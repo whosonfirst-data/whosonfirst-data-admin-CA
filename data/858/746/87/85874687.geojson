@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":899575.520702,
+    "geom:area_square_m":899575.520703,
     "geom:bbox":"-113.50292306,53.5266641544,-113.48696078,53.5396453147",
     "geom:latitude":53.532534,
     "geom:longitude":-113.494446,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.533112,
     "lbl:longitude":-113.495868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.534594,
     "mps:longitude":-113.491882,
     "mz:hierarchy_label":1,
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191575,
@@ -52,7 +53,6 @@
     "wof:concordances":{
         "gp:id":55856045,
         "qs:id":1292822,
-        "qs_pg:id":1292822,
         "wd:id":"Q7369756"
     },
     "wof:country":"CA",
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566424966,
     "wof:name":"Rossdale",
     "wof:parent_id":1108970679,
     "wof:placetype":"neighbourhood",

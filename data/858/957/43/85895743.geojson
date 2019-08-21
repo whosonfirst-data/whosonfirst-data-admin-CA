@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1427236.465539,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.995667,45.377232,-73.995667,45.377232",
     "geom:latitude":45.377232,
     "geom:longitude":-73.995667,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-74.000667,45.372232,-73.990667,45.382232",
     "lbl:latitude":45.377232,
     "lbl:longitude":-73.995667,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.375015,
     "mps:longitude":-73.994535,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Faubourg de l'Ile"
     ],
     "name:fra_x_preferred":[
-        "Faubourg de l'\u00cele"
-    ],
-    "name:unk_x_variant":[
         "Faubourg de l'\u00cele"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":186,
     "wof:belongsto":[
         102191575,
@@ -76,7 +75,6 @@
     "wof:concordances":{
         "gp:id":55999709,
         "qs:id":479718,
-        "qs_pg:id":479718,
         "wd:id":"Q6506896"
     },
     "wof:country":"CA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931482,
+    "wof:lastmodified":1566424971,
     "wof:name":"Faubourg de l'\u00cele",
     "wof:parent_id":101737343,
     "wof:placetype":"neighbourhood",

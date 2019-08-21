@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
+    "geom:area_square_m":134863.716326,
     "geom:bbox":"-128.2608198,52.3025243,-128.2549173,52.3061426",
     "geom:latitude":52.30431,
     "geom:longitude":-128.257877,
     "iso:country":"CA",
     "lbl:latitude":52.303707,
     "lbl:longitude":-128.256055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.303707,
     "mps:longitude":-128.256055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tankeah 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743683,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1566425918,
     "wof:name":"Tankeah 5",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

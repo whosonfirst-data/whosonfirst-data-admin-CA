@@ -11,8 +11,10 @@
     "geom:longitude":-66.619491,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.624491,45.966976,-66.614491,45.976976",
     "lbl:latitude":45.971976,
     "lbl:longitude":-66.619491,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.970394,
     "mps:longitude":-66.625718,
     "mz:hierarchy_label":0,
@@ -231,9 +233,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0432\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Devon"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0648\u0646"
     ],
@@ -281,7 +280,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -292,8 +291,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23393174,
-        "qs:id":1262937,
-        "qs_pg:id":1262937
+        "qs:id":1262937
     },
     "wof:country":"CA",
     "wof:geomhash":"d6b10c98d053d75c575c1199bd068ca8",
@@ -311,7 +309,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170721,
+    "wof:lastmodified":1566424940,
     "wof:name":"Devon",
     "wof:parent_id":101735269,
     "wof:placetype":"neighbourhood",

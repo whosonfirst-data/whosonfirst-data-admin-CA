@@ -11,8 +11,10 @@
     "geom:longitude":-79.860287,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.865287,43.239653,-79.855287,43.249653",
     "lbl:latitude":43.244653,
     "lbl:longitude":-79.860287,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.247203,
     "mps:longitude":-79.856755,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Stinson"
     ],
     "name:nds_x_preferred":[
-        "Stinson"
-    ],
-    "name:unk_x_variant":[
         "Stinson"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":65,
     "wof:belongsto":[
         85682057,
@@ -79,8 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856126,
-        "qs:id":225542,
-        "qs_pg:id":225542
+        "qs:id":225542
     },
     "wof:country":"CA",
     "wof:geomhash":"0cbf691c078bb3f119ab1d728a267362",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170791,
+    "wof:lastmodified":1566424964,
     "wof:name":"Stinson",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

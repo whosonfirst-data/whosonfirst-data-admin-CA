@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":60.174713,
     "lbl:longitude":-132.71985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.174713,
     "mps:longitude":-132.71985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Teslin"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":60.1672,
     "wd:longitude":-132.722,
     "wd:wordcount":597,
@@ -80,7 +83,6 @@
         "gn:id":6163081,
         "gp:id":4245,
         "qs:id":1053590,
-        "qs_pg:id":1053590,
         "wd:id":"Q2406227",
         "wk:page":"Teslin, Yukon"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284791,
+    "wof:lastmodified":1566425492,
     "wof:name":"Teslin",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",

@@ -9,13 +9,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2532316.995938,
+    "geom:area_square_m":2532316.99594,
     "geom:bbox":"-75.5764280002,45.4270310003,-75.5398870004,45.4416439997",
     "geom:latitude":45.434765,
     "geom:longitude":-75.562104,
     "iso:country":"CA",
     "lbl:latitude":45.431781,
     "lbl:longitude":-75.560176,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.436689,
     "mps:longitude":-75.533348,
     "mz:hierarchy_label":1,
@@ -31,7 +32,7 @@
     "name:eng_x_preferred":[
         "Blackburn Hamlet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Innes"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,14 +66,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126055453,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277895,
+    "wof:lastmodified":1566424992,
     "wof:name":"Blackburn Hamlet",
     "wof:parent_id":1126055453,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1330251.159016,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.326831,49.040156,-122.326831,49.040156",
     "geom:latitude":49.040156,
     "geom:longitude":-122.326831,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.331831,49.035156,-122.321831,49.045156",
     "lbl:latitude":49.040156,
     "lbl:longitude":-122.326831,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.037889,
     "mps:longitude":-122.328581,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "South Clearbrook"
-    ],
-    "name:unk_x_variant":[
         "South Clearbrook"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,20 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856454,
-        "qs:id":471971,
-        "qs_pg:id":471971
+        "qs:id":471971
     },
     "wof:country":"CA",
     "wof:geomhash":"2df299675513232383ebfd0a9cf78e9c",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872077,
+    "wof:lastmodified":1566424936,
     "wof:name":"South Clearbrook",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

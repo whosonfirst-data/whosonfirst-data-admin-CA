@@ -11,8 +11,10 @@
     "geom:longitude":-79.294094,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.299094,43.888209,-79.289094,43.898209",
     "lbl:latitude":43.893209,
     "lbl:longitude":-79.294094,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.898942,
     "mps:longitude":-79.295669,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Wismer Commons"
     ],
     "name:nld_x_preferred":[
-        "Wismer Commons"
-    ],
-    "name:unk_x_variant":[
         "Wismer Commons"
     ],
     "qs:gn_adm0_cc":"US",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":230,
     "wof:belongsto":[
         102191575,
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gp:id":55999558,
         "qs:id":19640,
-        "qs_pg:id":19640,
         "wd:id":"Q8027673"
     },
     "wof:country":"CA",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281867,
+    "wof:lastmodified":1566424938,
     "wof:name":"Wismer Commons",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

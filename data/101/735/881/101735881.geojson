@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.162309,
     "lbl:longitude":-78.036777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.162309,
     "mps:longitude":-78.036777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Head, Clara and Maria"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":354,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101735881,
-    "wof:lastmodified":1561844463,
+    "wof:lastmodified":1566425855,
     "wof:name":"Head, Clara and Maria",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

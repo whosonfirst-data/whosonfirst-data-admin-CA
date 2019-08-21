@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":12198.834263,
     "geom:bbox":"-126.2363027,55.7059109,-126.2336063,55.706954",
     "geom:latitude":55.706506,
     "geom:longitude":-126.234584,
     "iso:country":"CA",
     "lbl:latitude":55.70647,
     "lbl:longitude":-126.234585,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.70647,
     "mps:longitude":-126.234585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Tacla Lake 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743339,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566425907,
     "wof:name":"North Tacla Lake 10",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

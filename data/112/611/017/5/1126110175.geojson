@@ -21,6 +21,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.406241,
     "lbl:longitude":-75.814257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.406241,
     "mps:longitude":-75.814257,
     "mz:hierarchy_label":1,
@@ -39,12 +40,12 @@
     "reversegeo:longitude":-75.814257,
     "src:geom":"can-gatsudd",
     "wof:belongsto":[
-        136251273,
         102191575,
         1126110161,
         85633041,
         101738041,
-        890456843
+        890456843,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1126110175,
-    "wof:lastmodified":1533270385,
+    "wof:lastmodified":1566426173,
     "wof:name":"Rivermead",
     "wof:parent_id":1126110161,
     "wof:placetype":"neighbourhood",

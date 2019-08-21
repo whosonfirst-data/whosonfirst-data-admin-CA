@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1718223.923012,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.859161,46.116085,-64.859161,46.116085",
     "geom:latitude":46.116085,
     "geom:longitude":-64.859161,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.864161,46.111085,-64.854161,46.121085",
     "lbl:latitude":46.116085,
     "lbl:longitude":-64.859161,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.113253,
     "mps:longitude":-64.860018,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Meadoview"
-    ],
-    "name:unk_x_variant":[
         "Meadoview"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856602,
-        "qs:id":381624,
-        "qs_pg:id":381624
+        "qs:id":381624
     },
     "wof:country":"CA",
     "wof:geomhash":"4f22ae9d457375899aa7130d131f1408",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872134,
+    "wof:lastmodified":1566424933,
     "wof:name":"Meadoview",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

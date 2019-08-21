@@ -14,15 +14,18 @@
     "geom:longitude":-113.509197,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.496019,
     "lbl:longitude":-113.509206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.496019,
     "mps:longitude":-113.509206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0645\u064a"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":507,
     "wof:belongsto":[
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890457157,
-    "wof:lastmodified":1563286338,
+    "wof:lastmodified":1566426106,
     "wof:name":"Acme",
     "wof:parent_id":1158863191,
     "wof:placetype":"locality",

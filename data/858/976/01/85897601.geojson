@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":407904.396294,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.516836,45.509082,-73.516836,45.509082",
     "geom:latitude":45.509082,
     "geom:longitude":-73.516836,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.521836,45.504082,-73.511836,45.514082",
     "lbl:latitude":45.509082,
     "lbl:longitude":-73.516836,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.509839,
     "mps:longitude":-73.519341,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -47,8 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022938,
-        "qs:id":1291260,
-        "qs_pg:id":1291260
+        "qs:id":1291260
     },
     "wof:country":"CA",
     "wof:geomhash":"8430c7551f9bfc32f3663f8e062c2741",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931904,
+    "wof:lastmodified":1566424963,
     "wof:name":"Parc de la Voie Maritime",
     "wof:parent_id":101736449,
     "wof:placetype":"neighbourhood",

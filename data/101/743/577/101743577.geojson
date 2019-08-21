@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":30746.581809,
     "geom:bbox":"-129.7898408,54.2694658,-129.7865818,54.2712771",
     "geom:latitude":54.270256,
     "geom:longitude":-129.787819,
     "iso:country":"CA",
     "lbl:latitude":54.270372,
     "lbl:longitude":-129.787643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.270372,
     "mps:longitude":-129.787643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kyex 64"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743577,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425923,
     "wof:name":"Kyex 64",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.62099,
     "lbl:longitude":-75.193615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.62099,
     "mps:longitude":-75.193615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u062a\u0634\u0627\u0628\u064a\u0631"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Canton",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":139,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101738469,
-    "wof:lastmodified":1563284717,
+    "wof:lastmodified":1566425476,
     "wof:name":"Lochaber",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

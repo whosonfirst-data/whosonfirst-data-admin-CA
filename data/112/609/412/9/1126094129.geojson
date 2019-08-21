@@ -9,15 +9,17 @@
     "geom:bbox":"-122.64042,49.16473,-122.64042,49.16473",
     "geom:latitude":49.16473,
     "geom:longitude":-122.64042,
-    "gn:gn_country":"CA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":25683,
+    "gn:country":"CA",
+    "gn:fcode":"PPLX",
     "gn:population":25683,
     "iso:country":"CA",
+    "lbl:bbox":"-122.64542,49.15973,-122.63542,49.16973",
     "lbl:latitude":49.16473,
     "lbl:longitude":-122.64042,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Walnut Grove"
@@ -76,7 +78,7 @@
     "qs_pg:qs_id":1041848,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85682117,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1126094129,
-    "wof:lastmodified":1564173723,
+    "wof:lastmodified":1566426222,
     "wof:name":"Walnut Grove",
     "wof:parent_id":101740805,
     "wof:placetype":"neighbourhood",

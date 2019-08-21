@@ -11,8 +11,10 @@
     "geom:longitude":-79.944241,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.949241,43.397864,-79.939241,43.407864",
     "lbl:latitude":43.402864,
     "lbl:longitude":-79.944241,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.400083,
     "mps:longitude":-79.939302,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0434\u0430\u0440 \u0421\u043f\u0440\u0438\u043d\u0433\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Cedar Springs"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -82,8 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999033,
-        "qs:id":965100,
-        "qs_pg:id":965100
+        "qs:id":965100
     },
     "wof:country":"CA",
     "wof:geomhash":"f7a537fce0a7d11b42d88206d27ca958",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170810,
+    "wof:lastmodified":1566424970,
     "wof:name":"Cedar Springs",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

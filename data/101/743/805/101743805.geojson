@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
+    "geom:area_square_m":1115307.654759,
     "geom:bbox":"-127.6869054,55.2865693,-127.6696667,55.299201",
     "geom:latitude":55.293084,
     "geom:longitude":-127.67716,
     "iso:country":"CA",
     "lbl:latitude":55.293026,
     "lbl:longitude":-127.677165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.293026,
     "mps:longitude":-127.677165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anlaw 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743805,
-    "wof:lastmodified":1533335883,
+    "wof:lastmodified":1566425912,
     "wof:name":"Anlaw 4",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
+    "geom:area_square_m":585909.435137,
     "geom:bbox":"-64.6601734,45.063933,-64.641322,45.0718256",
     "geom:latitude":45.06777,
     "geom:longitude":-64.651496,
     "iso:country":"CA",
     "lbl:latitude":45.067307,
     "lbl:longitude":-64.651842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.067307,
     "mps:longitude":-64.651842,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cambridge Indian Reserve No. 32"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747561,
-    "wof:lastmodified":1532596894,
+    "wof:lastmodified":1566425543,
     "wof:name":"Cambridge Indian Reserve No. 32",
     "wof:parent_id":890457745,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
+    "geom:area_square_m":1227555.951113,
     "geom:bbox":"-66.4064233,48.0244586,-66.3705899,48.0380779",
     "geom:latitude":48.031658,
     "geom:longitude":-66.38285,
     "iso:country":"CA",
     "lbl:latitude":48.030327,
     "lbl:longitude":-66.377042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.030327,
     "mps:longitude":-66.377042,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eel River Indian Reserve No. 3"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":101747491,
-    "wof:lastmodified":1532597324,
+    "wof:lastmodified":1566425589,
     "wof:name":"Eel River Indian Reserve No. 3",
     "wof:parent_id":890458105,
     "wof:placetype":"locality",

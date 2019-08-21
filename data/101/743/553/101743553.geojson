@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":44713.729872,
     "geom:bbox":"-130.3618399,54.6152222,-130.3587201,54.6179347",
     "geom:latitude":54.61689,
     "geom:longitude":-130.360099,
     "iso:country":"CA",
     "lbl:latitude":54.616899,
     "lbl:longitude":-130.359815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.616899,
     "mps:longitude":-130.359815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ktamgaodzen 51"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743553,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425916,
     "wof:name":"Ktamgaodzen 51",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

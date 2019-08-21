@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2620242.20504,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.40506,43.851474,-79.40506,43.851474",
     "geom:latitude":43.851474,
     "geom:longitude":-79.40506,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.41006,43.846474,-79.40006,43.856474",
     "lbl:latitude":43.851474,
     "lbl:longitude":-79.40506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.856282,
     "mps:longitude":-79.409693,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Doncrest"
-    ],
-    "name:unk_x_variant":[
         "Doncrest"
     ],
     "qs:gn_id":0,
@@ -56,9 +55,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736179,
         85633041,
@@ -68,8 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999514,
-        "qs:id":384922,
-        "qs_pg:id":384922
+        "qs:id":384922
     },
     "wof:country":"CA",
     "wof:geomhash":"e7bf63ec8e1630a92e11b4d595363187",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931431,
+    "wof:lastmodified":1566424939,
     "wof:name":"Doncrest",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

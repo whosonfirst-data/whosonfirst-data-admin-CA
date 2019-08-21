@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000604,
-    "geom:area_square_m":5387455.395151,
+    "geom:area_square_m":5387455.395146,
     "geom:bbox":"-79.371846294,43.790012097,-79.335535581,43.815650752",
     "geom:latitude":43.802988,
     "geom:longitude":-79.354803,
     "iso:country":"CA",
     "lbl:latitude":43.802603,
     "lbl:longitude":-79.354799,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.802603,
     "mps:longitude":-79.354799,
     "mz:hierarchy_label":1,
@@ -29,12 +30,12 @@
     "torsdfa:AREA_NAME":"Hillcrest Village (48)",
     "torsdfa:AREA_S_CD":"048",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1108906421,
-    "wof:lastmodified":1533272669,
+    "wof:lastmodified":1566425258,
     "wof:name":"Hillcrest Village",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

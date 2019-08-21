@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.870521,
     "lbl:longitude":-97.199821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.874381,
     "mps:longitude":-97.197008,
     "mz:hierarchy_label":1,
@@ -222,9 +223,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u043d \u0424\u0440\u0430\u043d\u043a\u043b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Sir John Franklin"
-    ],
     "name:vec_x_preferred":[
         "John Franklin"
     ],
@@ -242,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":4870,
     "wof:belongsto":[
         102191575,
@@ -256,7 +254,6 @@
     "wof:concordances":{
         "gp:id":26332852,
         "qs:id":368652,
-        "qs_pg:id":368652,
         "wd:id":"Q2655"
     },
     "wof:country":"CA",
@@ -276,7 +273,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281926,
+    "wof:lastmodified":1566424948,
     "wof:name":"Sir John Franklin",
     "wof:parent_id":1108968513,
     "wof:placetype":"neighbourhood",

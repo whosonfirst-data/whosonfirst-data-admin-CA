@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.745244,
     "lbl:longitude":-109.019277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.745244,
     "mps:longitude":-109.019277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cut Knife"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.75,
     "wd:longitude":-109.017,
     "wd:wordcount":377,
@@ -70,7 +73,6 @@
         "gn:id":5934305,
         "gp:id":2137,
         "qs:id":1209117,
-        "qs_pg:id":1209117,
         "wd:id":"Q1427945",
         "wk:page":"Cut Knife, Saskatchewan"
     },
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284652,
+    "wof:lastmodified":1566425466,
     "wof:name":"Cut Knife",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

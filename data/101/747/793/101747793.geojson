@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":17143.74282,
     "geom:bbox":"-123.7490819,49.5028512,-123.7456893,49.5039307",
     "geom:latitude":49.50352,
     "geom:longitude":-123.746879,
     "iso:country":"CA",
     "lbl:latitude":49.503479,
     "lbl:longitude":-123.746746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.503479,
     "mps:longitude":-123.746746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Klaalth) No 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747793,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566425623,
     "wof:name":"Sechelt Band Lands (Klaalth) No 5",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

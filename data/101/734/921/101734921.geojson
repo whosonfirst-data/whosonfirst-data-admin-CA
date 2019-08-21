@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.133887,
     "lbl:longitude":-97.32768,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.133887,
     "mps:longitude":-97.32768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stonewall"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1220,
     "wof:belongsto":[
@@ -76,7 +79,6 @@
         "gn:id":6157355,
         "gp:id":2594,
         "qs:id":241671,
-        "qs_pg:id":241671,
         "wd:id":"Q393324",
         "wk:page":"Stonewall, Manitoba"
     },
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285291,
+    "wof:lastmodified":1566425845,
     "wof:name":"Stonewall",
     "wof:parent_id":1158868965,
     "wof:placetype":"locality",

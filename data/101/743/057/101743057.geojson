@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":39013.554302,
     "geom:bbox":"-126.7853924,50.9095939,-126.7824402,50.9114426",
     "geom:latitude":50.910511,
     "geom:longitude":-126.783856,
     "iso:country":"CA",
     "lbl:latitude":50.91052,
     "lbl:longitude":-126.783841,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.91052,
     "mps:longitude":-126.783841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magwekstala 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743057,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566425920,
     "wof:name":"Magwekstala 10",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

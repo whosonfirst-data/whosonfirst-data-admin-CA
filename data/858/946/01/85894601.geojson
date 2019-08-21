@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4289363.522669,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.21004,45.545521,-73.21004,45.545521",
     "geom:latitude":45.545521,
     "geom:longitude":-73.21004,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.21504,45.540521,-73.20504,45.550521",
     "lbl:latitude":45.545521,
     "lbl:longitude":-73.21004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.543169,
     "mps:longitude":-73.207958,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Colonie de Vacance Les Bosquest Albert Hudon"
     ],
     "name:fra_x_preferred":[
-        "Colonie de Vacance Les Bosquest Albert Hudon"
-    ],
-    "name:unk_x_variant":[
         "Colonie de Vacance Les Bosquest Albert Hudon"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,8 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998691,
-        "qs:id":959721,
-        "qs_pg:id":959721
+        "qs:id":959721
     },
     "wof:country":"CA",
     "wof:geomhash":"5ca13acc9fd544336517ae51e59ffc28",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931230,
+    "wof:lastmodified":1566424954,
     "wof:name":"Colonie de Vacance Les Bosquest Albert Hudon",
     "wof:parent_id":101737777,
     "wof:placetype":"neighbourhood",

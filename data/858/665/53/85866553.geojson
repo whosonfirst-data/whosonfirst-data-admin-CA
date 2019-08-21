@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.901765,
     "lbl:longitude":-97.138086,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.903861,
     "mps:longitude":-97.138531,
     "mz:hierarchy_label":1,
@@ -41,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":8212,
     "wof:belongsto":[
         102191575,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":26332825,
         "qs:id":368630,
-        "qs_pg:id":368630,
         "wd:id":"Q5100157"
     },
     "wof:country":"CA",
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282178,
+    "wof:lastmodified":1566424991,
     "wof:name":"China Town",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

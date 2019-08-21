@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":58397812.255605,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.09422,43.586759,-80.09422,43.586759",
     "geom:latitude":43.586759,
     "geom:longitude":-80.09422,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.09922,43.581759,-80.08922,43.591759",
     "lbl:latitude":43.586759,
     "lbl:longitude":-80.09422,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.581954,
     "mps:longitude":-80.107798,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Nassagaweya"
-    ],
-    "name:unk_x_variant":[
         "Nassagaweya"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,9 +58,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736383,
         85633041,
@@ -71,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999422,
-        "qs:id":1306592,
-        "qs_pg:id":1306592
+        "qs:id":1306592
     },
     "wof:country":"CA",
     "wof:geomhash":"aabec93c24a46c941fe1efb483c5eb96",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931409,
+    "wof:lastmodified":1566424929,
     "wof:name":"Nassagaweya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

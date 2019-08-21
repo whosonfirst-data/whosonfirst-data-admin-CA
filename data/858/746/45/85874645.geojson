@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1231115.919041,
+    "geom:area_square_m":1231115.919043,
     "geom:bbox":"-113.512044225,53.5063385258,-113.497571143,53.5181009115",
     "geom:latitude":53.512291,
     "geom:longitude":-113.504799,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.512326,
     "lbl:longitude":-113.505182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.51296,
     "mps:longitude":-113.508485,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -47,7 +48,6 @@
     "wof:concordances":{
         "gp:id":55856019,
         "qs:id":890956,
-        "qs_pg:id":890956,
         "wd:id":"Q7270178"
     },
     "wof:country":"CA",
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566424966,
     "wof:name":"Queen Alexandra",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

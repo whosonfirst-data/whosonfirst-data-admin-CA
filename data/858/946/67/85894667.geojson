@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1826297.168046,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.558899,49.199653,-122.558899,49.199653",
     "geom:latitude":49.199653,
     "geom:longitude":-122.558899,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.563899,49.194653,-122.553899,49.204653",
     "lbl:latitude":49.199653,
     "lbl:longitude":-122.558899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.20209,
     "mps:longitude":-122.557539,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Maple Woods"
-    ],
-    "name:unk_x_variant":[
         "Maple Woods"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740773,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998741,
-        "qs:id":267540,
-        "qs_pg:id":267540
+        "qs:id":267540
     },
     "wof:country":"CA",
     "wof:geomhash":"415cf9cd2f1d9349c827567af02f0035",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931237,
+    "wof:lastmodified":1566424953,
     "wof:name":"Maple Woods",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

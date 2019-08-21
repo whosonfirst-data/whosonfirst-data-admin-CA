@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
+    "geom:area_square_m":820332.628427,
     "geom:bbox":"-108.9799115,55.8773144,-108.9479355,55.8826972",
     "geom:latitude":55.880651,
     "geom:longitude":-108.962716,
     "iso:country":"CA",
     "lbl:latitude":55.880567,
     "lbl:longitude":-108.962716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.880567,
     "mps:longitude":-108.962716,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. George's Hill"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Northern Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -65,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531525130,
+    "wof:lastmodified":1566425363,
     "wof:name":"St. George's Hill",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

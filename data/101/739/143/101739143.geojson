@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.872886,
     "lbl:longitude":-106.55758,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.872886,
     "mps:longitude":-106.55758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0432\u0435\u043b\u0431\u043e\u0443\u0440\u0433"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.874,
     "wd:longitude":-106.555,
@@ -84,7 +87,6 @@
         "gn:id":5965462,
         "gp:id":2815,
         "qs:id":160256,
-        "qs_pg:id":160256,
         "wd:id":"Q994920",
         "wk:page":"Gravelbourg"
     },
@@ -103,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284020,
+    "wof:lastmodified":1566425367,
     "wof:name":"Gravelbourg",
     "wof:parent_id":1158868987,
     "wof:placetype":"locality",

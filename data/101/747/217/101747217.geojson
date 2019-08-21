@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001849,
+    "geom:area_square_m":15582068.374986,
     "geom:bbox":"-65.8382206,47.010922,-65.7528519,47.0527915",
     "geom:latitude":47.030436,
     "geom:longitude":-65.793005,
     "iso:country":"CA",
     "lbl:latitude":47.037426,
     "lbl:longitude":-65.778825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.037426,
     "mps:longitude":-65.778825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Big Hole Tract Indian Reserve No. 8 (South Half)"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747217,
-    "wof:lastmodified":1532596973,
+    "wof:lastmodified":1566425556,
     "wof:name":"Big Hole Tract Indian Reserve No. 8 (South Half)",
     "wof:parent_id":890458001,
     "wof:placetype":"locality",

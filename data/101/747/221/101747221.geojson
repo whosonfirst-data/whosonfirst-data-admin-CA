@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
+    "geom:area_square_m":2769712.764493,
     "geom:bbox":"-103.2752683,56.3020052,-103.2482322,56.3358696",
     "geom:latitude":56.319585,
     "geom:longitude":-103.263785,
     "iso:country":"CA",
     "lbl:latitude":56.316791,
     "lbl:longitude":-103.265318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.316791,
     "mps:longitude":-103.265318,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Southend I.R. 200A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747221,
-    "wof:lastmodified":1531525132,
+    "wof:lastmodified":1566425556,
     "wof:name":"Southend I.R. 200A",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

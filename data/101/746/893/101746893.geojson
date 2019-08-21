@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001172,
+    "geom:area_square_m":10304144.140412,
     "geom:bbox":"-79.3948024,44.6182602,-79.2828345,44.7431223",
     "geom:latitude":44.685313,
     "geom:longitude":-79.326032,
     "iso:country":"CA",
     "lbl:latitude":44.70482,
     "lbl:longitude":-79.313238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.70482,
     "mps:longitude":-79.313238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mnjikaning First Nation Indian Reserve No. 32"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746893,
-    "wof:lastmodified":1533335678,
+    "wof:lastmodified":1566425755,
     "wof:name":"Mnjikaning First Nation Indian Reserve No. 32",
     "wof:parent_id":890456339,
     "wof:placetype":"locality",

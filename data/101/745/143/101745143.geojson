@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":26583.164632,
     "geom:bbox":"-123.7819506,52.9542134,-123.7788869,52.9560214",
     "geom:latitude":52.955267,
     "geom:longitude":-123.779957,
     "iso:country":"CA",
     "lbl:latitude":52.955293,
     "lbl:longitude":-123.779912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.955293,
     "mps:longitude":-123.779912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fishpot Lake 24"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745143,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566425968,
     "wof:name":"Fishpot Lake 24",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

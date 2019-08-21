@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9249860.677631,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.389085,43.412044,-80.389085,43.412044",
     "geom:latitude":43.412044,
     "geom:longitude":-80.389085,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.394085,43.407044,-80.384085,43.417044",
     "lbl:latitude":43.412044,
     "lbl:longitude":-80.389085,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.418319,
     "mps:longitude":-80.383245,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Pioneer Tower East"
-    ],
-    "name:unk_x_variant":[
         "Pioneer Tower East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740709,
         85633041,
@@ -70,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856270,
-        "qs:id":268852,
-        "qs_pg:id":268852
+        "qs:id":268852
     },
     "wof:country":"CA",
     "wof:geomhash":"d23644213a477854fcfc3ffbb4bfcfa8",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871989,
+    "wof:lastmodified":1566424959,
     "wof:name":"Pioneer Tower East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

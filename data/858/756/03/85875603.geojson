@@ -11,8 +11,10 @@
     "geom:longitude":-80.282414,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.287414,43.166611,-80.277414,43.176611",
     "lbl:latitude":43.171611,
     "lbl:longitude":-80.282414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.177117,
     "mps:longitude":-80.29749,
     "mz:hierarchy_label":0,
@@ -123,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u0444\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Mayfair"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06d2 \u0641\u06cc\u0626\u0631"
     ],
@@ -160,7 +159,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -171,8 +170,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856703,
-        "qs:id":986488,
-        "qs_pg:id":986488
+        "qs:id":986488
     },
     "wof:country":"CA",
     "wof:geomhash":"7e8d38417c9cefdef6c3c7927d56b00b",
@@ -190,7 +188,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170822,
+    "wof:lastmodified":1566424972,
     "wof:name":"Mayfair",
     "wof:parent_id":101735567,
     "wof:placetype":"neighbourhood",

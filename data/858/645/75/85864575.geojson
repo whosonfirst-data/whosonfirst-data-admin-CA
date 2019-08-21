@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18981596.248955,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.9325,46.492383,-80.9325,46.492383",
     "geom:latitude":46.492383,
     "geom:longitude":-80.9325,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.9375,46.487383,-80.9275,46.497383",
     "lbl:latitude":46.492383,
     "lbl:longitude":-80.9325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.49461,
     "mps:longitude":-80.94211,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Minnow Lake"
     ],
     "name:swe_x_preferred":[
-        "Minnow Lake"
-    ],
-    "name:unk_x_variant":[
         "Minnow Lake"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,14 +61,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735493,
-        890458085,
-        85682057
+        890458085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870925,
+    "wof:lastmodified":1566424944,
     "wof:name":"Minnow Lake",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

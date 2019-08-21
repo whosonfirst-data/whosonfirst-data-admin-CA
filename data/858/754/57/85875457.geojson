@@ -11,8 +11,10 @@
     "geom:longitude":-64.78195,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.78695,46.105302,-64.77695,46.115302",
     "lbl:latitude":46.110302,
     "lbl:longitude":-64.78195,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.113476,
     "mps:longitude":-64.777196,
     "mz:hierarchy_label":0,
@@ -87,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u0440\u0456\u043d\u0432\u0443\u0434"
     ],
-    "name:unk_x_variant":[
-        "Greenwood"
-    ],
     "name:vol_x_preferred":[
         "Greenwood"
     ],
@@ -121,7 +120,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -132,8 +131,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856539,
-        "qs:id":888340,
-        "qs_pg:id":888340
+        "qs:id":888340
     },
     "wof:country":"CA",
     "wof:geomhash":"8eed8a5ceea4574a7cc8d74ad7a9dce8",
@@ -151,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170686,
+    "wof:lastmodified":1566424932,
     "wof:name":"Greenwood",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":52.987299,
     "lbl:longitude":-122.477011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.987299,
     "mps:longitude":-122.477011,
     "mz:hierarchy_label":1,
@@ -244,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":474.0,
     "wd:latitude":52.9784,
@@ -261,7 +263,6 @@
         "gn:id":6115187,
         "gp:id":9565,
         "qs:id":453284,
-        "qs_pg:id":453284,
         "wd:id":"Q2067514",
         "wk:page":"Quesnel, British Columbia"
     },
@@ -277,7 +278,7 @@
         }
     ],
     "wof:id":101741107,
-    "wof:lastmodified":1563285179,
+    "wof:lastmodified":1566425816,
     "wof:name":"Quesnel",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

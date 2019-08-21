@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
+    "geom:area_square_m":954667.383076,
     "geom:bbox":"-125.1654582,52.9643224,-125.1414863,52.9788573",
     "geom:latitude":52.970443,
     "geom:longitude":-125.154285,
     "iso:country":"CA",
     "lbl:latitude":52.968009,
     "lbl:longitude":-125.159326,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.968009,
     "mps:longitude":-125.159326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salmon River Meadow 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745197,
-    "wof:lastmodified":1533335905,
+    "wof:lastmodified":1566425972,
     "wof:name":"Salmon River Meadow 7",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2348831.735713,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.834195,46.114889,-64.834195,46.114889",
     "geom:latitude":46.114889,
     "geom:longitude":-64.834195,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.839195,46.109889,-64.829195,46.119889",
     "lbl:latitude":46.114889,
     "lbl:longitude":-64.834195,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.111672,
     "mps:longitude":-64.837854,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Annie Kelly"
-    ],
-    "name:unk_x_variant":[
         "Annie Kelly"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856595,
-        "qs:id":469566,
-        "qs_pg:id":469566
+        "qs:id":469566
     },
     "wof:country":"CA",
     "wof:geomhash":"47d84758da4e930327c0ce3d98b549c6",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872133,
+    "wof:lastmodified":1566424933,
     "wof:name":"Annie Kelly",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

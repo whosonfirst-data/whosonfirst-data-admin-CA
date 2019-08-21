@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":103172.225502,
     "geom:bbox":"-122.2788548,49.1413694,-122.2717377,49.1449128",
     "geom:latitude":49.143016,
     "geom:longitude":-122.275239,
     "iso:country":"CA",
     "lbl:latitude":49.143383,
     "lbl:longitude":-122.274403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.143383,
     "mps:longitude":-122.274403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pekw'Xe:Yles (Peckquaylis) Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746815,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566425771,
     "wof:name":"Pekw'Xe:Yles (Peckquaylis) Indian Reserve",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

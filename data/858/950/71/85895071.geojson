@@ -10,8 +10,10 @@
     "geom:latitude":43.859678,
     "geom:longitude":-80.071406,
     "iso:country":"CA",
+    "lbl:bbox":"-80.076406,43.854678,-80.066406,43.864678",
     "lbl:latitude":43.859678,
     "lbl:longitude":-80.071406,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.855203,
     "mps:longitude":-80.067469,
     "mz:hierarchy_label":0,
@@ -80,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Alton"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0679\u0646"
     ],
@@ -118,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":243,
     "wof:belongsto":[
         102191575,
@@ -131,8 +130,7 @@
     "wof:concordances":{
         "gn:id":5884257,
         "gp:id":55999061,
-        "qs:id":886273,
-        "qs_pg:id":886273
+        "qs:id":886273
     },
     "wof:country":"CA",
     "wof:geomhash":"aae7b4d8fc2c084d976b18c6c956e2d5",
@@ -156,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170812,
+    "wof:lastmodified":1566424970,
     "wof:name":"Alton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

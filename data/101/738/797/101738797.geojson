@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.697751,
     "lbl:longitude":-71.319805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.697751,
     "mps:longitude":-71.319805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0627\u0646"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191575,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101738797,
-    "wof:lastmodified":1563284563,
+    "wof:lastmodified":1566425453,
     "wof:name":"B\u00e9gin",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

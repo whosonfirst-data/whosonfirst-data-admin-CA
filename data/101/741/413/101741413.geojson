@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001175,
+    "geom:area_square_m":10148380.646524,
     "geom:bbox":"-80.5059609,45.6522179,-80.464631,45.6978185",
     "geom:latitude":45.674922,
     "geom:longitude":-80.485511,
     "iso:country":"CA",
     "lbl:latitude":45.672002,
     "lbl:longitude":-80.49474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.672002,
     "mps:longitude":-80.49474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naiscoutaing Indian Reserve No. 17A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741413,
-    "wof:lastmodified":1533335670,
+    "wof:lastmodified":1566425795,
     "wof:name":"Naiscoutaing Indian Reserve No. 17A",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

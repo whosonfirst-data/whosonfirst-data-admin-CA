@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
+    "geom:area_square_m":288333.740068,
     "geom:bbox":"-127.8589397,50.4956884,-127.8326177,50.5038159",
     "geom:latitude":50.49939,
     "geom:longitude":-127.836898,
     "iso:country":"CA",
     "lbl:latitude":50.498698,
     "lbl:longitude":-127.835134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.498698,
     "mps:longitude":-127.835134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clatux 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743153,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566425914,
     "wof:name":"Clatux 9",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9244210.802555,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.237307,43.116191,-79.237307,43.116191",
     "geom:latitude":43.116191,
     "geom:longitude":-79.237307,
     "iso:country":"CA",
+    "lbl:bbox":"-79.242307,43.111191,-79.232307,43.121191",
     "lbl:latitude":43.116191,
     "lbl:longitude":-79.237307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.112077,
     "mps:longitude":-79.224069,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Barbican Heights"
-    ],
-    "name:unk_x_variant":[
         "Barbican Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736127,
         85633041,
@@ -71,8 +69,7 @@
     "wof:concordances":{
         "gn:id":6067306,
         "gp:id":55856293,
-        "qs:id":70947,
-        "qs_pg:id":70947
+        "qs:id":70947
     },
     "wof:country":"CA",
     "wof:geomhash":"69956c176c4265f2f19b326e2a94f69d",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872004,
+    "wof:lastmodified":1566424979,
     "wof:name":"Barbican Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

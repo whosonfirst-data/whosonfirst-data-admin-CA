@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27473082.597478,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.081591,49.122142,-122.081591,49.122142",
     "geom:latitude":49.122142,
     "geom:longitude":-122.081591,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.086591,49.117142,-122.076591,49.127142",
     "lbl:latitude":49.122142,
     "lbl:longitude":-122.081591,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.127812,
     "mps:longitude":-122.088464,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Barrowtown"
-    ],
-    "name:unk_x_variant":[
         "Barrowtown"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,20 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740939,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405022,
-        "qs:id":485105,
-        "qs_pg:id":485105
+        "qs:id":485105
     },
     "wof:country":"CA",
     "wof:geomhash":"898531f9ab7bb946c9b5c390e43c6c19",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870989,
+    "wof:lastmodified":1566424950,
     "wof:name":"Barrowtown",
     "wof:parent_id":101740939,
     "wof:placetype":"neighbourhood",

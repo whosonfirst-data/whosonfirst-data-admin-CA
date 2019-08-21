@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.638502,
     "lbl:longitude":-79.597227,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.638502,
     "mps:longitude":-79.597227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nipissing"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Nipissing",
     "statcan:cdtype":"DIS",
     "statcan:cduid":"3548",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890456313,
-    "wof:lastmodified":1564173307,
+    "wof:lastmodified":1566426075,
     "wof:name":"Nipissing",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

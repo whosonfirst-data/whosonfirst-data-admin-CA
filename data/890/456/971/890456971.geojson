@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.691161,
     "lbl:longitude":-92.152048,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.691161,
     "mps:longitude":-92.152048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Rainy River"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Rainy River",
     "statcan:cdtype":"DIS",
     "statcan:cduid":"3559",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890456971,
-    "wof:lastmodified":1564173304,
+    "wof:lastmodified":1566426074,
     "wof:name":"Rainy River",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4640109.897996,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.227892,43.56574,-80.227892,43.56574",
     "geom:latitude":43.56574,
     "geom:longitude":-80.227892,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.232892,43.56074,-80.222892,43.57074",
     "lbl:latitude":43.56574,
     "lbl:longitude":-80.227892,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.572253,
     "mps:longitude":-80.222076,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Grange Hill East"
-    ],
-    "name:unk_x_variant":[
         "Grange Hill East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856646,
-        "qs:id":1089578,
-        "qs_pg:id":1089578
+        "qs:id":1089578
     },
     "wof:country":"CA",
     "wof:geomhash":"15f37bfd6428a29f4c378461056405d3",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872145,
+    "wof:lastmodified":1566424928,
     "wof:name":"Grange Hill East",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

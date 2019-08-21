@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1836873.506541,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.470714,44.00463,-79.470714,44.00463",
     "geom:latitude":44.00463,
     "geom:longitude":-79.470714,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.475714,43.99963,-79.465714,44.00963",
     "lbl:latitude":44.00463,
     "lbl:longitude":-79.470714,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.009103,
     "mps:longitude":-79.475244,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Northeast Old Aurora"
-    ],
-    "name:unk_x_variant":[
         "Northeast Old Aurora"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,9 +58,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736049,
         85633041,
@@ -71,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999171,
-        "qs:id":212713,
-        "qs_pg:id":212713
+        "qs:id":212713
     },
     "wof:country":"CA",
     "wof:geomhash":"30dccd84079f86700b8c2b10ab6f7075",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931350,
+    "wof:lastmodified":1566424978,
     "wof:name":"Northeast Old Aurora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

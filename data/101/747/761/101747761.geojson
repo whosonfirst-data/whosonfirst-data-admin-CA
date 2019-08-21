@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.818183,
     "lbl:longitude":-121.666654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.818183,
     "mps:longitude":-121.666654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marble Canyon 3"
     ],
@@ -35,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101747761,
-    "wof:lastmodified":1535390459,
+    "wof:lastmodified":1566425646,
     "wof:name":"Marble Canyon 3",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

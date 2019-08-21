@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.619734,
     "lbl:longitude":-96.54454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.619734,
     "mps:longitude":-96.54454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ste. Anne"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.6697,
     "wd:longitude":-96.6494,
     "wd:wordcount":1407,
@@ -97,7 +100,6 @@
         "gn:id":6155866,
         "gp:id":1438,
         "qs:id":245186,
-        "qs_pg:id":245186,
         "wd:id":"Q138973",
         "wk:page":"Ste. Anne"
     },
@@ -116,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285488,
+    "wof:lastmodified":1566425881,
     "wof:name":"Ste. Anne",
     "wof:parent_id":1158869059,
     "wof:placetype":"locality",

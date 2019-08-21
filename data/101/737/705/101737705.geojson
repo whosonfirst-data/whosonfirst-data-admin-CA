@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.298218,
     "lbl:longitude":-73.328613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.298218,
     "mps:longitude":-73.328613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Gabriel-de-Brandon"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":336,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101737705,
-    "wof:lastmodified":1563284223,
+    "wof:lastmodified":1566425399,
     "wof:name":"Saint-Gabriel-de-Brandon",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

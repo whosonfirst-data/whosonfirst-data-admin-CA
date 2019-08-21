@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.031947,
     "lbl:longitude":-80.881819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.031947,
     "mps:longitude":-80.881819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u062c\u0631\u0633\u0648\u0644"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2426,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
         "gn:id":5983175,
         "gp:id":4062,
         "qs:id":220043,
-        "qs_pg:id":220043,
         "wd:id":"Q594706",
         "wk:page":"Ingersoll, Ontario"
     },
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101735975,
-    "wof:lastmodified":1561844489,
+    "wof:lastmodified":1566425888,
     "wof:name":"Ingersoll",
     "wof:parent_id":890458399,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":45946.70493,
     "geom:bbox":"-121.3974108,50.3110223,-121.39368,50.3148843",
     "geom:latitude":50.312667,
     "geom:longitude":-121.395169,
     "iso:country":"CA",
     "lbl:latitude":50.312401,
     "lbl:longitude":-121.394964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.312401,
     "mps:longitude":-121.394964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sackum 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745397,
-    "wof:lastmodified":1533335909,
+    "wof:lastmodified":1566425949,
     "wof:name":"Sackum 3",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
+    "geom:area_square_m":2519534.403667,
     "geom:bbox":"-80.0481807,45.0630608,-79.9977356,45.0909586",
     "geom:latitude":45.076715,
     "geom:longitude":-80.02552,
     "iso:country":"CA",
     "lbl:latitude":45.082604,
     "lbl:longitude":-80.038306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.082604,
     "mps:longitude":-80.038306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Point Indian Reserve No. 79"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101741425,
-    "wof:lastmodified":1533335670,
+    "wof:lastmodified":1566425794,
     "wof:name":"Moose Point Indian Reserve No. 79",
     "wof:parent_id":890458545,
     "wof:placetype":"locality",

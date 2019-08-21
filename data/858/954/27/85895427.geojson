@@ -11,8 +11,10 @@
     "geom:longitude":-79.466647,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.471647,43.886407,-79.461647,43.896407",
     "lbl:latitude":43.891407,
     "lbl:longitude":-79.466647,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.890068,
     "mps:longitude":-79.470789,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0431\u0440\u0443\u043a"
     ],
-    "name:unk_x_variant":[
-        "Westbrook"
-    ],
     "name:vol_x_preferred":[
         "Westbrook"
     ],
@@ -104,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736179,
@@ -115,8 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999409,
-        "qs:id":212724,
-        "qs_pg:id":212724
+        "qs:id":212724
     },
     "wof:country":"CA",
     "wof:geomhash":"dcbd4a29fc65b50bac27a55849256e06",
@@ -140,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170675,
+    "wof:lastmodified":1566424929,
     "wof:name":"Westbrook",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

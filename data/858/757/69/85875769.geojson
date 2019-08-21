@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3080868.218426,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.500167,45.479217,-73.500167,45.479217",
     "geom:latitude":45.479217,
     "geom:longitude":-73.500167,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.505167,45.474217,-73.495167,45.484217",
     "lbl:latitude":45.479217,
     "lbl:longitude":-73.500167,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.480088,
     "mps:longitude":-73.502217,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Pr\u00e9ville"
     ],
     "name:fra_x_variant":[
-        "Preville en bas"
-    ],
-    "name:unk_x_variant":[
         "Preville en bas"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -75,8 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856811,
-        "qs:id":888342,
-        "qs_pg:id":888342
+        "qs:id":888342
     },
     "wof:country":"CA",
     "wof:geomhash":"ceb3c3d8edc8398bc6462da8ebb9f63d",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872225,
+    "wof:lastmodified":1566424980,
     "wof:name":"Preville en bas",
     "wof:parent_id":101736449,
     "wof:placetype":"neighbourhood",

@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":514333.119961,
+    "geom:area_square_m":514333.119962,
     "geom:bbox":"-114.083399,51.050412,-114.067459,51.056802",
     "geom:latitude":51.053078,
     "geom:longitude":-114.07345,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.05302,
     "lbl:longitude":-114.073588,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.053348,
     "mps:longitude":-114.073584,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -54,7 +55,6 @@
     "wof:concordances":{
         "gp:id":26342767,
         "qs:id":897097,
-        "qs_pg:id":897097,
         "wd:id":"Q5331424"
     },
     "wof:country":"CA",
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270096,
+    "wof:lastmodified":1566424947,
     "wof:name":"Eau Claire",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

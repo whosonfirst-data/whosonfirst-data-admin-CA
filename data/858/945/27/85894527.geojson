@@ -11,8 +11,10 @@
     "geom:longitude":-113.2875,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.2925,53.527794,-113.2825,53.537794",
     "lbl:latitude":53.532794,
     "lbl:longitude":-113.2875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.52888,
     "mps:longitude":-113.287778,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0435\u043d-\u0410\u043b\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Glen Allen"
-    ],
     "name:vol_x_preferred":[
         "Glen Allen"
     ],
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -84,8 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998555,
-        "qs:id":1306520,
-        "qs_pg:id":1306520
+        "qs:id":1306520
     },
     "wof:country":"CA",
     "wof:geomhash":"cc5cefc59365502108531c90acd0fa6e",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170885,
+    "wof:lastmodified":1566424996,
     "wof:name":"Glen Allen",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

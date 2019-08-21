@@ -11,8 +11,10 @@
     "geom:longitude":-73.651672,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.656672,45.605785,-73.646672,45.615785",
     "lbl:latitude":45.610785,
     "lbl:longitude":-73.651672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.63691,
     "mps:longitude":-73.611551,
     "mz:hierarchy_label":0,
@@ -54,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -66,7 +68,6 @@
     "wof:concordances":{
         "gp:id":1626,
         "qs:id":451025,
-        "qs_pg:id":451025,
         "wd:id":"Q3463505"
     },
     "wof:country":"CA",
@@ -85,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844189,
+    "wof:lastmodified":1566424898,
     "wof:name":"Saint Vincent de Paul",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

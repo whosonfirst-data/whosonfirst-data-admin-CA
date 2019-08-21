@@ -11,8 +11,10 @@
     "geom:longitude":-79.877546,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.882546,43.755028,-79.872546,43.765028",
     "lbl:latitude":43.760028,
     "lbl:longitude":-79.877546,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.766127,
     "mps:longitude":-79.879793,
     "mz:hierarchy_label":0,
@@ -207,9 +209,6 @@
     "name:ukr_x_preferred":[
         "Victoria"
     ],
-    "name:unk_x_variant":[
-        "Victoria"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
     ],
@@ -254,7 +253,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736249,
@@ -265,8 +264,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999592,
-        "qs:id":1355096,
-        "qs_pg:id":1355096
+        "qs:id":1355096
     },
     "wof:country":"CA",
     "wof:geomhash":"1a1edb82a1414a8159e4845eb573dd6f",
@@ -290,7 +288,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170839,
+    "wof:lastmodified":1566424976,
     "wof:name":"Victoria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

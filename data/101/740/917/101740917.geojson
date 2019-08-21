@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.107185,
     "lbl:longitude":-116.516586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.107185,
     "mps:longitude":-116.516586,
     "mz:hierarchy_label":1,
@@ -163,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.06,
     "wd:longitude":-116.31,
@@ -179,7 +181,6 @@
         "gn:id":5932311,
         "gp:id":9925,
         "qs:id":965835,
-        "qs_pg:id":965835,
         "wd:id":"Q1139747",
         "wk:page":"Creston, British Columbia"
     },
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":101740917,
-    "wof:lastmodified":1563284892,
+    "wof:lastmodified":1566425523,
     "wof:name":"Creston",
     "wof:parent_id":890458089,
     "wof:placetype":"locality",

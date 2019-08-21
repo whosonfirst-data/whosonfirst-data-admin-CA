@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.60615,
     "lbl:longitude":-82.054909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.60615,
     "mps:longitude":-82.054909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0445\u043a\u0443\u043c\u0430\u0445"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101735599,
-    "wof:lastmodified":1561844474,
+    "wof:lastmodified":1566425869,
     "wof:name":"Tehkummah",
     "wof:parent_id":890458809,
     "wof:placetype":"locality",

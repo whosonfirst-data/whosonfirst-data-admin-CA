@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
+    "geom:area_square_m":2173464.838058,
     "geom:bbox":"-60.2313801,46.0424299,-60.2044569,46.0613807",
     "geom:latitude":46.052012,
     "geom:longitude":-60.217969,
     "iso:country":"CA",
     "lbl:latitude":46.051772,
     "lbl:longitude":-60.218005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.051772,
     "mps:longitude":-60.218005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Caribou Marsh Indian Reserve No. 29"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741239,
-    "wof:lastmodified":1532596901,
+    "wof:lastmodified":1566425826,
     "wof:name":"Caribou Marsh Indian Reserve No. 29",
     "wof:parent_id":890457747,
     "wof:placetype":"locality",

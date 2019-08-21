@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2593832.698191,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.486571,43.403339,-80.486571,43.403339",
     "geom:latitude":43.403339,
     "geom:longitude":-80.486571,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.491571,43.398339,-80.481571,43.408339",
     "lbl:latitude":43.403339,
     "lbl:longitude":-80.486571,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.401965,
     "mps:longitude":-80.485041,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Country Hills West"
-    ],
-    "name:unk_x_variant":[
         "Country Hills West"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,24 +57,23 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:elevation":1105.0,
     "wd:latitude":51.1436,
     "wd:longitude":-114.072,
     "wd:wordcount":362,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740709,
         890456483,
-        85682057,
         101735989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856273,
-        "qs:id":1089528,
-        "qs_pg:id":1089528
+        "qs:id":1089528
     },
     "wof:country":"CA",
     "wof:geomhash":"fb3b33aff3b62a70fef6c476a2729fcd",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871991,
+    "wof:lastmodified":1566424979,
     "wof:name":"Country Hills West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

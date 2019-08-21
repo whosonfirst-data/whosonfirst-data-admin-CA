@@ -11,8 +11,10 @@
     "geom:longitude":-82.399597,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.404597,42.958704,-82.394597,42.968704",
     "lbl:latitude":42.963704,
     "lbl:longitude":-82.399597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.957144,
     "mps:longitude":-82.395502,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:spa_x_preferred":[
         "Viejo Sur"
     ],
-    "name:unk_x_variant":[
-        "Old South"
-    ],
     "name:zho_x_preferred":[
         "\u8001\u5357\u90e8"
     ],
@@ -89,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":427,
     "wof:belongsto":[
         102191575,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gp:id":55856668,
         "qs:id":1000972,
-        "qs_pg:id":1000972,
         "wd:id":"Q729469"
     },
     "wof:country":"CA",
@@ -127,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281795,
+    "wof:lastmodified":1566424927,
     "wof:name":"Old South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

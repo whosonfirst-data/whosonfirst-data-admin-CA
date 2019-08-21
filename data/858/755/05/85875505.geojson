@@ -11,8 +11,10 @@
     "geom:longitude":-64.826855,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.831855,46.110132,-64.821855,46.120132",
     "lbl:latitude":46.115132,
     "lbl:longitude":-64.826855,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.114672,
     "mps:longitude":-64.822233,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:ukr_x_preferred":[
         "Imperial Oil"
     ],
-    "name:unk_x_variant":[
-        "Imperial Oil"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6076211,
@@ -89,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":640,
     "wof:belongsto":[
         85682065,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gp:id":55856634,
         "qs:id":381641,
-        "qs_pg:id":381641,
         "wd:id":"Q40650"
     },
     "wof:country":"CA",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281797,
+    "wof:lastmodified":1566424927,
     "wof:name":"Imperial Oil",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

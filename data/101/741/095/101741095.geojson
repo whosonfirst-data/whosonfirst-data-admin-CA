@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.05579,
     "lbl:longitude":-114.862171,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.05579,
     "mps:longitude":-114.862171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043b\u043a\u0444\u043e\u0440\u0434"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.0214,
     "wd:longitude":-114.916,
@@ -77,7 +80,6 @@
         "gn:id":5947708,
         "gp:id":56619317,
         "qs:id":1053471,
-        "qs_pg:id":1053471,
         "wd:id":"Q338360",
         "wk:page":"Elkford"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101741095,
-    "wof:lastmodified":1563285208,
+    "wof:lastmodified":1566425825,
     "wof:name":"Elkford",
     "wof:parent_id":890456529,
     "wof:placetype":"locality",

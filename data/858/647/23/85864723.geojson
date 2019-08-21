@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":3602048.388469,
+    "geom:area_square_m":3602048.388465,
     "geom:bbox":"-97.207003,49.821236,-97.179307,49.84689",
     "geom:latitude":49.834043,
     "geom:longitude":-97.191969,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.833963,
     "lbl:longitude":-97.192446,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.832436,
     "mps:longitude":-97.200483,
     "mz:hierarchy_label":1,
@@ -35,20 +36,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402420,
         "qs:id":367336,
-        "qs_pg:id":367336,
         "wd:id":"Q14875043"
     },
     "wof:country":"CA",
@@ -68,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523920,
+    "wof:lastmodified":1566424985,
     "wof:name":"Linden Woods",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21022369.456858,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.350215,44.272175,-78.350215,44.272175",
     "geom:latitude":44.272175,
     "geom:longitude":-78.350215,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-78.355215,44.267175,-78.345215,44.277175",
     "lbl:latitude":44.272175,
     "lbl:longitude":-78.350215,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.267202,
     "mps:longitude":-78.345237,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Otonabee"
-    ],
-    "name:unk_x_variant":[
         "Otonabee"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856664,
-        "qs:id":1063760,
-        "qs_pg:id":1063760
+        "qs:id":1063760
     },
     "wof:country":"CA",
     "wof:geomhash":"2b75f5494005ed2a80e6da812c93fe1b",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872154,
+    "wof:lastmodified":1566424928,
     "wof:name":"Otonabee",
     "wof:parent_id":101735747,
     "wof:placetype":"neighbourhood",

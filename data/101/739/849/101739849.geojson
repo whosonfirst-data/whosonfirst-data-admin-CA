@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.333506,
     "lbl:longitude":-109.939688,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.333506,
     "mps:longitude":-109.939688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Macklin"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
         "gn:id":6063429,
         "gp:id":2170,
         "qs:id":529799,
-        "qs_pg:id":529799,
         "wd:id":"Q1915322"
     },
     "wof:country":"CA",
@@ -127,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284059,
+    "wof:lastmodified":1566425372,
     "wof:name":"Macklin",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

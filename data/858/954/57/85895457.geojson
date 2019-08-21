@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.827592,
     "lbl:longitude":-79.071762,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.825127,
     "mps:longitude":-79.07027,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "East Shore"
     ],
     "name:eng_x_preferred":[
-        "East Shore"
-    ],
-    "name:unk_x_variant":[
         "East Shore"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -63,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":42,
     "wof:belongsto":[
         85682057,
@@ -76,8 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999439,
-        "qs:id":1355011,
-        "qs_pg:id":1355011
+        "qs:id":1355011
     },
     "wof:country":"CA",
     "wof:geomhash":"4dfb3e87850fe4033b02050b27133dce",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170674,
+    "wof:lastmodified":1566424928,
     "wof:name":"East Shore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

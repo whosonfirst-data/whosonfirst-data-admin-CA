@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7791311.948184,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.409663,45.584074,-73.409663,45.584074",
     "geom:latitude":45.584074,
     "geom:longitude":-73.409663,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.414663,45.579074,-73.404663,45.589074",
     "lbl:latitude":45.584074,
     "lbl:longitude":-73.409663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.593852,
     "mps:longitude":-73.400994,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Le Bois\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Du Boise"
-    ],
-    "name:unk_x_variant":[
         "Du Boise"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856795,
-        "qs:id":990130,
-        "qs_pg:id":990130
+        "qs:id":990130
     },
     "wof:country":"CA",
     "wof:geomhash":"76a417068bd4cd78690216a505d79de5",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872216,
+    "wof:lastmodified":1566424981,
     "wof:name":"Le Bois\u00e9",
     "wof:parent_id":101738135,
     "wof:placetype":"neighbourhood",

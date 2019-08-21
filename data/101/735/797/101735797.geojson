@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.143921,
     "lbl:longitude":-80.305764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.143921,
     "mps:longitude":-80.305764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "The Archipelago"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":701,
     "wof:belongsto":[
         102191575,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101735797,
-    "wof:lastmodified":1563285295,
+    "wof:lastmodified":1566425845,
     "wof:name":"The Archipelago",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

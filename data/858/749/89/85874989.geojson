@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14330088.610973,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.397845,43.389697,-80.397845,43.389697",
     "geom:latitude":43.389697,
     "geom:longitude":-80.397845,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.402845,43.384697,-80.392845,43.394697",
     "lbl:latitude":43.389697,
     "lbl:longitude":-80.397845,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.393594,
     "mps:longitude":-80.372836,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Lower Doon"
-    ],
-    "name:unk_x_variant":[
         "Lower Doon"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856265,
-        "qs:id":381453,
-        "qs_pg:id":381453
+        "qs:id":381453
     },
     "wof:country":"CA",
     "wof:geomhash":"3853c1582c51423850c9b5399bf83e05",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871986,
+    "wof:lastmodified":1566424958,
     "wof:name":"Lower Doon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-73.678935,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.683935,45.57114,-73.673935,45.58114",
     "lbl:latitude":45.57614,
     "lbl:longitude":-73.678935,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.589055,
     "mps:longitude":-73.696948,
     "mz:hierarchy_label":0,
@@ -39,7 +41,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":45.5608,
     "wd:longitude":-73.6817,
     "wd:wordcount":144,
@@ -54,7 +56,6 @@
     "wof:concordances":{
         "gp:id":56022912,
         "qs:id":1090974,
-        "qs_pg:id":1090974,
         "wd:id":"Q3396344"
     },
     "wof:country":"CA",
@@ -73,7 +74,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844225,
+    "wof:lastmodified":1566425002,
     "wof:name":"Pont-Viau",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

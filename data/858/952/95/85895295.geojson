@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000891,
-    "geom:area_square_m":7955791.490841,
+    "geom:area_square_m":7955791.490846,
     "geom:bbox":"-79.585211732,43.746247698,-79.530563953,43.77268813",
     "geom:latitude":43.758919,
     "geom:longitude":-79.556174,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.758716,
     "lbl:longitude":-79.556174,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.761848,
     "mps:longitude":-79.556816,
     "mz:hierarchy_label":1,
@@ -33,25 +34,24 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Humber Summit (21)",
     "torsdfa:AREA_S_CD":"021",
     "wd:latitude":43.757,
     "wd:longitude":-79.572,
     "wd:wordcount":345,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999281,
         "qs:id":216308,
-        "qs_pg:id":216308,
         "wd:id":"Q5939833"
     },
     "wof:controlled":[],
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272684,
+    "wof:lastmodified":1566424936,
     "wof:name":"Humber Summit",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

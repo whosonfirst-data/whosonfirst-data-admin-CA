@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2829310.149105,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.56992,53.260286,-113.56992,53.260286",
     "geom:latitude":53.260286,
     "geom:longitude":-113.56992,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.57492,53.255286,-113.56492,53.265286",
     "lbl:latitude":53.260286,
     "lbl:longitude":-113.56992,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.260833,
     "mps:longitude":-113.574849,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Windrose"
     ],
     "name:eng_x_preferred":[
-        "Windrose"
-    ],
-    "name:unk_x_variant":[
         "Windrose"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":48,
     "wof:belongsto":[
         85682091,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998797,
-        "qs:id":525727,
-        "qs_pg:id":525727
+        "qs:id":525727
     },
     "wof:country":"CA",
     "wof:geomhash":"ec727d22ad20812f5decb6420dddcab4",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250199,
+    "wof:lastmodified":1566424960,
     "wof:name":"Windrose",
     "wof:parent_id":890456995,
     "wof:placetype":"neighbourhood",

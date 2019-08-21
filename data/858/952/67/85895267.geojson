@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2844837.426679,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.885307,43.513195,-79.885307,43.513195",
     "geom:latitude":43.513195,
     "geom:longitude":-79.885307,
     "iso:country":"CA",
+    "lbl:bbox":"-79.890307,43.508195,-79.880307,43.518195",
     "lbl:latitude":43.513195,
     "lbl:longitude":-79.885307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.513659,
     "mps:longitude":-79.892088,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Mountain View"
-    ],
-    "name:unk_x_variant":[
         "Mountain View"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,13 +57,11 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736383,
         85633041,
-        101736383,
-        890458413,
         85682057,
         101740713
     ],
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931367,
+    "wof:lastmodified":1566424936,
     "wof:name":"Mountain View",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

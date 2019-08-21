@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4092.518663,
     "geom:bbox":"-125.0923337,54.5329451,-125.0910004,54.5337213",
     "geom:latitude":54.533333,
     "geom:longitude":-125.091667,
     "iso:country":"CA",
     "lbl:latitude":54.533334,
     "lbl:longitude":-125.091663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.533334,
     "mps:longitude":-125.091663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tse Bay Ha Tine A 34"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745287,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566425960,
     "wof:name":"Tse Bay Ha Tine A 34",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

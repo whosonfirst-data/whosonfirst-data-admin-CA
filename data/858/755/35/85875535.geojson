@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22737720.063747,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.228151,43.494556,-80.228151,43.494556",
     "geom:latitude":43.494556,
     "geom:longitude":-80.228151,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.233151,43.489556,-80.223151,43.499556",
     "lbl:latitude":43.494556,
     "lbl:longitude":-80.228151,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.486793,
     "mps:longitude":-80.230252,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Kortright Hills"
-    ],
-    "name:unk_x_variant":[
         "Kortright Hills"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856652,
-        "qs:id":1089580,
-        "qs_pg:id":1089580
+        "qs:id":1089580
     },
     "wof:country":"CA",
     "wof:geomhash":"7520b0a71455024e10af1bcd17cc60ec",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872148,
+    "wof:lastmodified":1566424927,
     "wof:name":"Kortright Hills",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
+    "geom:area_square_m":295113.848495,
     "geom:bbox":"-116.1630574,55.5473514,-116.1367918,55.5490196",
     "geom:latitude":55.548188,
     "geom:longitude":-116.149675,
     "iso:country":"CA",
     "lbl:latitude":55.548188,
     "lbl:longitude":-116.149526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.548188,
     "mps:longitude":-116.149526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kapawe'No First Nation No. 150B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747261,
-    "wof:lastmodified":1533250165,
+    "wof:lastmodified":1566425575,
     "wof:name":"Kapawe'No First Nation No. 150B",
     "wof:parent_id":1158863315,
     "wof:placetype":"locality",

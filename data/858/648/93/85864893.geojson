@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":501478.830008,
+    "geom:area_square_m":501478.830006,
     "geom:bbox":"-114.092917,51.008707,-114.0784,51.016642",
     "geom:latitude":51.012747,
     "geom:longitude":-114.084761,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.012819,
     "lbl:longitude":-114.08532,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.013843,
     "mps:longitude":-114.087199,
     "mz:hierarchy_label":1,
@@ -104,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Britannia"
-    ],
     "name:zho_x_preferred":[
         "\u4e0d\u5217\u98a0\u5c3c\u4e9a"
     ],
@@ -115,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2983,
     "wof:belongsto":[
         102191575,
@@ -127,7 +125,6 @@
     "wof:concordances":{
         "gp:id":23404815,
         "qs:id":367404,
-        "qs_pg:id":367404,
         "wd:id":"Q4969268"
     },
     "wof:country":"CA",
@@ -145,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270455,
+    "wof:lastmodified":1566424987,
     "wof:name":"Britannia",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

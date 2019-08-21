@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.481616,
     "lbl:longitude":-78.039661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.481616,
     "mps:longitude":-78.039661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "South Algonquin"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":539,
     "wof:belongsto":[
         102191575,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101735745,
-    "wof:lastmodified":1563285519,
+    "wof:lastmodified":1566425888,
     "wof:name":"South Algonquin",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

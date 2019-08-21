@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.658315,
     "lbl:longitude":-72.144538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.658315,
     "mps:longitude":-72.144538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Casimir"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":533,
     "wof:belongsto":[
         102191575,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101738815,
-    "wof:lastmodified":1563284699,
+    "wof:lastmodified":1566425473,
     "wof:name":"Saint-Casimir",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

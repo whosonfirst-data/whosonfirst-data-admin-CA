@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":39272.574328,
     "geom:bbox":"-129.226578,54.3189686,-129.2234806,54.3208105",
     "geom:latitude":54.319854,
     "geom:longitude":-129.224999,
     "iso:country":"CA",
     "lbl:latitude":54.319874,
     "lbl:longitude":-129.225008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.319874,
     "mps:longitude":-129.225008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gitandoiks 75"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743599,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425915,
     "wof:name":"Gitandoiks 75",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

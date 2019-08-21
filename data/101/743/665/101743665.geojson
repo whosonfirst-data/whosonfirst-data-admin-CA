@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
+    "geom:area_square_m":673869.335932,
     "geom:bbox":"-128.4661385,51.9256665,-128.4468088,51.9346537",
     "geom:latitude":51.931505,
     "geom:longitude":-128.458378,
     "iso:country":"CA",
     "lbl:latitude":51.931497,
     "lbl:longitude":-128.459037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.931497,
     "mps:longitude":-128.459037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yellertlee 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743665,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1566425920,
     "wof:name":"Yellertlee 12",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

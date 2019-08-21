@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.984833,
     "lbl:longitude":-77.913835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.984833,
     "mps:longitude":-77.913835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0434\u0435\u0439"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":331,
     "wof:belongsto":[
         102191575,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101736401,
-    "wof:lastmodified":1563284399,
+    "wof:lastmodified":1566425423,
     "wof:name":"Faraday",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",

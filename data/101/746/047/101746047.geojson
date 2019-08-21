@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":27371.563269,
     "geom:bbox":"-129.5994886,54.1761936,-129.5964027,54.1780022",
     "geom:latitude":54.177217,
     "geom:longitude":-129.597523,
     "iso:country":"CA",
     "lbl:latitude":54.177098,
     "lbl:longitude":-129.597333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.177098,
     "mps:longitude":-129.597333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khtahda 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746047,
-    "wof:lastmodified":1533335919,
+    "wof:lastmodified":1566425748,
     "wof:name":"Khtahda 10",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

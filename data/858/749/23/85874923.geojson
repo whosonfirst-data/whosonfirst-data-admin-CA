@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9349851.524825,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.284634,42.987938,-81.284634,42.987938",
     "geom:latitude":42.987938,
     "geom:longitude":-81.284634,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.289634,42.982938,-81.279634,42.992938",
     "lbl:latitude":42.987938,
     "lbl:longitude":-81.284634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.99106,
     "mps:longitude":-81.286999,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "West London"
-    ],
-    "name:unk_x_variant":[
         "West London"
     ],
     "name:vie_x_preferred":[
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":29,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856230,
-        "qs:id":381430,
-        "qs_pg:id":381430
+        "qs:id":381430
     },
     "wof:country":"CA",
     "wof:geomhash":"f342bd3eaafc8a1446d75b0923a9d88f",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871964,
+    "wof:lastmodified":1566424959,
     "wof:name":"West London",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1975035.778537,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.707331,52.132186,-106.707331,52.132186",
     "geom:latitude":52.132186,
     "geom:longitude":-106.707331,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.712331,52.127186,-106.702331,52.137186",
     "lbl:latitude":52.132186,
     "lbl:longitude":-106.707331,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.128122,
     "mps:longitude":-106.709167,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:swe_x_preferred":[
         "Mont Royal"
     ],
-    "name:unk_x_variant":[
-        "Mount Royal"
-    ],
     "name:zho_x_preferred":[
         "\u7687\u5bb6\u5c71"
     ],
@@ -72,21 +71,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2529,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403550,
         "qs:id":367388,
-        "qs_pg:id":367388,
         "wd:id":"Q12062123"
     },
     "wof:country":"CA",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870975,
+    "wof:lastmodified":1566424988,
     "wof:name":"Mount Royal",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

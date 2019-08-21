@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4229959.06113,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.716691,45.377645,-73.716691,45.377645",
     "geom:latitude":45.377645,
     "geom:longitude":-73.716691,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.721691,45.372645,-73.711691,45.382645",
     "lbl:latitude":45.377645,
     "lbl:longitude":-73.716691,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.382145,
     "mps:longitude":-73.709874,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Les Hauts Boises de Chateauguay"
     ],
     "name:fra_x_preferred":[
-        "Les Hauts Bois\u00e9s de Ch\u00e2teauguay"
-    ],
-    "name:unk_x_variant":[
         "Les Hauts Bois\u00e9s de Ch\u00e2teauguay"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -75,8 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999767,
-        "qs:id":1249033,
-        "qs_pg:id":1249033
+        "qs:id":1249033
     },
     "wof:country":"CA",
     "wof:geomhash":"97332f87cdc945828b8cb612bdd6adec",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931490,
+    "wof:lastmodified":1566424971,
     "wof:name":"Les Hauts Bois\u00e9s de Ch\u00e2teauguay",
     "wof:parent_id":101747739,
     "wof:placetype":"neighbourhood",

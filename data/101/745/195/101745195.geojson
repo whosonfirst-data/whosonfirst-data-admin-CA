@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000142,
+    "geom:area_square_m":1067872.531287,
     "geom:bbox":"-125.4204568,52.5667174,-125.3918389,52.5760441",
     "geom:latitude":52.570277,
     "geom:longitude":-125.406176,
     "iso:country":"CA",
     "lbl:latitude":52.570356,
     "lbl:longitude":-125.406176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.570356,
     "mps:longitude":-125.406176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abuntlet Lake 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745195,
-    "wof:lastmodified":1533335905,
+    "wof:lastmodified":1566425947,
     "wof:name":"Abuntlet Lake 4",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

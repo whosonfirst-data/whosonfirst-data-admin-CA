@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5497252.071004,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.725416,43.416728,-79.725416,43.416728",
     "geom:latitude":43.416728,
     "geom:longitude":-79.725416,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.730416,43.411728,-79.720416,43.421728",
     "lbl:latitude":43.416728,
     "lbl:longitude":-79.725416,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.422537,
     "mps:longitude":-79.723168,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "West Oakville"
-    ],
-    "name:unk_x_variant":[
         "West Oakville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101740713,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999641,
-        "qs:id":1355120,
-        "qs_pg:id":1355120
+        "qs:id":1355120
     },
     "wof:country":"CA",
     "wof:geomhash":"27bf027a470d96a12191a972c6982321",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931469,
+    "wof:lastmodified":1566424976,
     "wof:name":"West Oakville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

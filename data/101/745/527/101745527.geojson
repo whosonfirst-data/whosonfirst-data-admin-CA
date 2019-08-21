@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
+    "geom:area_square_m":1601376.544734,
     "geom:bbox":"-123.2212861,49.2209667,-123.1910978,49.2396133",
     "geom:latitude":49.230399,
     "geom:longitude":-123.202941,
     "iso:country":"CA",
     "lbl:latitude":49.232611,
     "lbl:longitude":-123.205884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.232611,
     "mps:longitude":-123.205884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Musqueam 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745527,
-    "wof:lastmodified":1533335912,
+    "wof:lastmodified":1566425968,
     "wof:name":"Musqueam 2",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

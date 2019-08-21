@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":658637.49748,
+    "geom:area_square_m":658637.497481,
     "geom:bbox":"-97.150866,49.886435,-97.133857,49.895023",
     "geom:latitude":49.890614,
     "geom:longitude":-97.141957,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.890357,
     "lbl:longitude":-97.141701,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.891538,
     "mps:longitude":-97.140372,
     "mz:hierarchy_label":1,
@@ -35,20 +36,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968511,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856118,
-        "qs:id":381388,
-        "qs_pg:id":381388
+        "qs:id":381388
     },
     "wof:country":"CA",
     "wof:geomhash":"858be6f5805f3b1637a4614d1fb67546",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523914,
+    "wof:lastmodified":1566424956,
     "wof:name":"South Portage",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

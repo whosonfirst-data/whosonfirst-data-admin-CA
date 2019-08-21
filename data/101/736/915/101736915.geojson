@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.410234,
     "lbl:longitude":-70.718473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.410234,
     "mps:longitude":-70.718473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0647 \u0633\u0627\u0646 \u0628\u0648\u0644"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.45,
     "wd:longitude":-70.5,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101736915,
-    "wof:lastmodified":1563284441,
+    "wof:lastmodified":1566425434,
     "wof:name":"Baie-Saint-Paul",
     "wof:parent_id":890458115,
     "wof:placetype":"locality",

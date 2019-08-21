@@ -11,8 +11,10 @@
     "geom:longitude":-120.07296,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-120.07796,50.64954,-120.06796,50.65954",
     "lbl:latitude":50.65454,
     "lbl:longitude":-120.07296,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.654685,
     "mps:longitude":-120.064396,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Campbell Creek"
     ],
     "name:swe_x_preferred":[
-        "Campbell Creek"
-    ],
-    "name:unk_x_variant":[
         "Campbell Creek"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":38,
     "wof:belongsto":[
         85682117,
@@ -79,8 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":9636,
-        "qs:id":1073249,
-        "qs_pg:id":1073249
+        "qs:id":1073249
     },
     "wof:country":"CA",
     "wof:geomhash":"4cdbb8503ad6561c636de0d781cd28c0",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170649,
+    "wof:lastmodified":1566424894,
     "wof:name":"Campbell Creek",
     "wof:parent_id":101741047,
     "wof:placetype":"neighbourhood",

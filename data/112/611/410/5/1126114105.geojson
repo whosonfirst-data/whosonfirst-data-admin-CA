@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1775414.844515,
+    "geom:area_square_m":1775414.844516,
     "geom:bbox":"-106.607768,52.114711,-106.585403,52.129349",
     "geom:latitude":52.121432,
     "geom:longitude":-106.596057,
     "iso:country":"CA",
     "lbl:latitude":52.1212,
     "lbl:longitude":-106.596054,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.1212,
     "mps:longitude":-106.596054,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-106.596054,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115067,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1126114105,
-    "wof:lastmodified":1531524184,
+    "wof:lastmodified":1566426171,
     "wof:name":"College Park",
     "wof:parent_id":1126115067,
     "wof:placetype":"neighbourhood",

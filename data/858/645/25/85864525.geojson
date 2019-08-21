@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2231793.773177,
+    "geom:area_square_m":2231793.773179,
     "geom:bbox":"-75.6421399998,45.4202010001,-75.605716,45.4352449996",
     "geom:latitude":45.427888,
     "geom:longitude":-75.62634,
@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.421922,
     "lbl:longitude":-75.630461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.415764,
     "mps:longitude":-75.624522,
     "mz:hierarchy_label":1,
@@ -37,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":295,
     "wof:belongsto":[
         102191575,
@@ -51,7 +52,6 @@
     "wof:concordances":{
         "gp:id":23399512,
         "qs:id":367260,
-        "qs_pg:id":367260,
         "wd:id":"Q16890744"
     },
     "wof:controlled":[],
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335728,
+    "wof:lastmodified":1566424945,
     "wof:name":"Cyrville",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

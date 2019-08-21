@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000861,
+    "geom:area_square_m":7450903.767373,
     "geom:bbox":"-77.2720268,45.5513154,-77.2104433,45.57684",
     "geom:latitude":45.564976,
     "geom:longitude":-77.244751,
     "iso:country":"CA",
     "lbl:latitude":45.564422,
     "lbl:longitude":-77.247889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.564422,
     "mps:longitude":-77.247889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pikwakanagan"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747891,
-    "wof:lastmodified":1533335691,
+    "wof:lastmodified":1566425675,
     "wof:name":"Pikwakanagan",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

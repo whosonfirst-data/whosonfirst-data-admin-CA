@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00291,
+    "geom:area_square_m":20607807.924872,
     "geom:bbox":"-95.2601854,54.9933802,-95.1271914,55.1198755",
     "geom:latitude":55.058815,
     "geom:longitude":-95.173882,
     "iso:country":"CA",
     "lbl:latitude":55.074937,
     "lbl:longitude":-95.168677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.074937,
     "mps:longitude":-95.168677,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitemud Lake"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746079,
-    "wof:lastmodified":1533069680,
+    "wof:lastmodified":1566425744,
     "wof:name":"Whitemud Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

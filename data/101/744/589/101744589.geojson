@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":201071.698687,
     "geom:bbox":"-124.914733,54.8104176,-124.9082162,54.8157674",
     "geom:latitude":54.813456,
     "geom:longitude":-124.91132,
     "iso:country":"CA",
     "lbl:latitude":54.813439,
     "lbl:longitude":-124.911318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.813439,
     "mps:longitude":-124.911318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsay Cho 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744589,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566425897,
     "wof:name":"Tsay Cho 4",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

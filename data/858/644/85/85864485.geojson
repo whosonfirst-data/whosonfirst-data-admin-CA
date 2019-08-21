@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10841713.639797,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.423083,44.23895,-76.423083,44.23895",
     "geom:latitude":44.23895,
     "geom:longitude":-76.423083,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.428083,44.23395,-76.418083,44.24395",
     "lbl:latitude":44.23895,
     "lbl:longitude":-76.423083,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.231885,
     "mps:longitude":-76.416448,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Ravensview"
-    ],
-    "name:unk_x_variant":[
         "Ravensview"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":26,
     "wof:belongsto":[
         85682057,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gp:id":23399052,
         "qs:id":896335,
-        "qs_pg:id":896335,
         "wd:id":"Q7296557"
     },
     "wof:country":"CA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870900,
+    "wof:lastmodified":1566424943,
     "wof:name":"Ravensview",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

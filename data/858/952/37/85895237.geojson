@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7444964.728837,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.257672,43.760575,-79.257672,43.760575",
     "geom:latitude":43.760575,
     "geom:longitude":-79.257672,
     "iso:country":"CA",
+    "lbl:bbox":"-79.262672,43.755575,-79.252672,43.765575",
     "lbl:latitude":43.760575,
     "lbl:longitude":-79.257672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.754484,
     "mps:longitude":-79.247961,
     "mz:hierarchy_label":0,
@@ -31,25 +33,25 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Bendale (127)",
     "torsdfa:AREA_S_CD":"127",
     "wd:latitude":43.755,
     "wd:longitude":-79.252,
     "wd:wordcount":437,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5898265,
         "gp:id":55999214,
         "qs:id":1311936,
-        "qs_pg:id":1311936,
         "wd:id":"Q4887018",
         "wk:page":"Bendale"
     },
@@ -71,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931358,
+    "wof:lastmodified":1566424937,
     "wof:name":"Bendale",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

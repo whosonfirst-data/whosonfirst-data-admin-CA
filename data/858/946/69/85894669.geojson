@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3099340.999773,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.572147,49.206354,-122.572147,49.206354",
     "geom:latitude":49.206354,
     "geom:longitude":-122.572147,
     "iso:country":"CA",
+    "lbl:bbox":"-122.577147,49.201354,-122.567147,49.211354",
     "lbl:latitude":49.206354,
     "lbl:longitude":-122.572147,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.205528,
     "mps:longitude":-122.576739,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Cottonwood"
-    ],
-    "name:unk_x_variant":[
         "Cottonwood"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":273,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740773,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931238,
+    "wof:lastmodified":1566424953,
     "wof:name":"Cottonwood",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

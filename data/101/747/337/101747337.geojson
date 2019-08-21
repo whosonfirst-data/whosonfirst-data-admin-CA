@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00264,
+    "geom:area_square_m":18322705.23843,
     "geom:bbox":"-99.0785802,55.8395441,-99.0090703,55.8876372",
     "geom:latitude":55.860666,
     "geom:longitude":-99.039702,
     "iso:country":"CA",
     "lbl:latitude":55.864556,
     "lbl:longitude":-99.042071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.864556,
     "mps:longitude":-99.042071,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wapisu Lake Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747337,
-    "wof:lastmodified":1533070093,
+    "wof:lastmodified":1566425543,
     "wof:name":"Wapisu Lake Indian Reserve",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

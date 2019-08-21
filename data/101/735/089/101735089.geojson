@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.132986,
     "lbl:longitude":-99.680316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.132986,
     "mps:longitude":-99.680316,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Killarney-Turtle Mountain"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":207,
     "wof:belongsto":[
         102191575,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101735089,
-    "wof:lastmodified":1563285443,
+    "wof:lastmodified":1566425872,
     "wof:name":"Killarney-Turtle Mountain",
     "wof:parent_id":1158868991,
     "wof:placetype":"locality",

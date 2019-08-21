@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.257458,
     "lbl:longitude":-72.551568,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.257458,
     "mps:longitude":-72.551568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u0628\u0631\u0648\u0645\u064a"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -103,7 +106,6 @@
         "gn:id":6002133,
         "gp:id":23394307,
         "qs:id":1041375,
-        "qs_pg:id":1041375,
         "wd:id":"Q142246",
         "wk:page":"Brome Lake, Quebec"
     },
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101738559,
-    "wof:lastmodified":1563284575,
+    "wof:lastmodified":1566425455,
     "wof:name":"Lac-Brome",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

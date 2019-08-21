@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10025916.38167,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.955934,49.228381,-123.955934,49.228381",
     "geom:latitude":49.228381,
     "geom:longitude":-123.955934,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.960934,49.223381,-123.950934,49.233381",
     "lbl:latitude":49.228381,
     "lbl:longitude":-123.955934,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.230574,
     "mps:longitude":-123.959577,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Hammond Bay"
-    ],
-    "name:unk_x_variant":[
         "Hammond Bay"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856714,
-        "qs:id":1293047,
-        "qs_pg:id":1293047
+        "qs:id":1293047
     },
     "wof:country":"CA",
     "wof:geomhash":"ff31aa4deed2daf73c62b08777e70244",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872178,
+    "wof:lastmodified":1566424973,
     "wof:name":"Hammond Bay",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

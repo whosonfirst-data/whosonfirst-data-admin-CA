@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4661529.033597,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.895563,43.524048,-79.895563,43.524048",
     "geom:latitude":43.524048,
     "geom:longitude":-79.895563,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.900563,43.519048,-79.890563,43.529048",
     "lbl:latitude":43.524048,
     "lbl:longitude":-79.895563,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.52759,
     "mps:longitude":-79.901752,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:swe_x_preferred":[
         "New Milton"
     ],
-    "name:unk_x_variant":[
-        "Old Milton"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":383,
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":50.758619,
     "wd:longitude":-1.6682,
     "wd:wordcount":1991,
@@ -100,16 +99,13 @@
         102191575,
         101736383,
         85633041,
-        101736383,
-        890458413,
         85682057,
         101740713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999343,
-        "qs:id":68969,
-        "qs_pg:id":68969
+        "qs:id":68969
     },
     "wof:country":"CA",
     "wof:geomhash":"a1c654e1a65698496d9c5dd779eeabb0",
@@ -133,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931395,
+    "wof:lastmodified":1566424932,
     "wof:name":"Old Milton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

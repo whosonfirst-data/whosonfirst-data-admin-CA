@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.772451,
     "lbl:longitude":-79.146765,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.772451,
     "mps:longitude":-79.146765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Abitibi-Ouest"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Abitibi-Ouest",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2487",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890457577,
-    "wof:lastmodified":1554759414,
+    "wof:lastmodified":1566426153,
     "wof:name":"Abitibi-Ouest",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

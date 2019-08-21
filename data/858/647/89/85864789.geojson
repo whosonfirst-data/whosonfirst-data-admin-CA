@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1036513.066381,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.647664,52.110589,-106.647664,52.110589",
     "geom:latitude":52.110589,
     "geom:longitude":-106.647664,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.652664,52.105589,-106.642664,52.115589",
     "lbl:latitude":52.110589,
     "lbl:longitude":-106.647664,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.111698,
     "mps:longitude":-106.649207,
     "mz:hierarchy_label":0,
@@ -33,21 +35,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":34,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115069,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403405,
         "qs:id":485095,
-        "qs_pg:id":485095,
         "wd:id":"Q5682560"
     },
     "wof:country":"CA",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870970,
+    "wof:lastmodified":1566424984,
     "wof:name":"Haultain",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-82.67375,41.6766087,-82.4578408,42.1716704",
     "geom:latitude":41.934242,
     "geom:longitude":-82.55901,
-    "geonames:id":"6051122,6051123",
+    "gn:id":"6051122,6051123",
     "iso:country":"CA",
     "lbl:latitude":41.935172,
     "lbl:longitude":-82.56099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.935172,
     "mps:longitude":-82.56099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1951,
     "wof:belongsto":[
         102191575,
@@ -100,7 +103,6 @@
         "gn:id":6051122,
         "gp:id":4080,
         "qs:id":899691,
-        "qs_pg:id":899691,
         "wd:id":"Q2566566",
         "wk:page":"Leamington, Ontario"
     },
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101736355,
-    "wof:lastmodified":1563284364,
+    "wof:lastmodified":1566425417,
     "wof:name":"Leamington",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

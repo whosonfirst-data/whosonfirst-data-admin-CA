@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5059400.797042,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.834401,49.279241,-122.834401,49.279241",
     "geom:latitude":49.279241,
     "geom:longitude":-122.834401,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.839401,49.274241,-122.829401,49.284241",
     "lbl:latitude":49.279241,
     "lbl:longitude":-122.834401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.264251,
     "mps:longitude":-122.835825,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Klahanie"
-    ],
-    "name:unk_x_variant":[
         "Klahanie"
     ],
     "qs:gn_id":0,
@@ -57,20 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741063,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998934,
-        "qs:id":888528,
-        "qs_pg:id":888528
+        "qs:id":888528
     },
     "wof:country":"CA",
     "wof:geomhash":"4f6cb9d3e355ba4c020fc57b7dfb1708",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931284,
+    "wof:lastmodified":1566424961,
     "wof:name":"Klahanie",
     "wof:parent_id":101741063,
     "wof:placetype":"neighbourhood",

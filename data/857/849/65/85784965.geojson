@@ -12,8 +12,10 @@
     "gn:latitude":42.31678,
     "gn:longitude":-82.99984,
     "iso:country":"CA",
+    "lbl:bbox":"-83.020807,42.309574,-83.010807,42.319574",
     "lbl:latitude":42.314574,
     "lbl:longitude":-83.015807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.312875,
     "mps:longitude":-83.011404,
     "mz:hierarchy_label":0,
@@ -40,7 +42,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":42.3167,
     "wd:longitude":-83.0,
     "wd:wordcount":700,
@@ -56,7 +58,6 @@
         "gn:id":6175358,
         "gp:id":1886,
         "qs:id":1113269,
-        "qs_pg:id":1113269,
         "wd:id":"Q3565412",
         "wk:page":"Walkerville, Ontario"
     },
@@ -76,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281716,
+    "wof:lastmodified":1566424898,
     "wof:name":"Walkerville",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

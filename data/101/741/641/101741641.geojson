@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":59.899287,
     "lbl:longitude":-110.587884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.899287,
     "mps:longitude":-110.587884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Charles Lake 225"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101741641,
-    "wof:lastmodified":1561844443,
+    "wof:lastmodified":1566425822,
     "wof:name":"Charles Lake 225",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

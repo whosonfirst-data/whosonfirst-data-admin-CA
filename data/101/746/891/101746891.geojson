@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003001,
+    "geom:area_square_m":25783554.355666,
     "geom:bbox":"-80.5672726,45.9548516,-80.477957,46.0326253",
     "geom:latitude":45.991957,
     "geom:longitude":-80.525653,
     "iso:country":"CA",
     "lbl:latitude":46.001979,
     "lbl:longitude":-80.513155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.001979,
     "mps:longitude":-80.513155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "French River Indian Reserve No. 13"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746891,
-    "wof:lastmodified":1533335678,
+    "wof:lastmodified":1566425776,
     "wof:name":"French River Indian Reserve No. 13",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

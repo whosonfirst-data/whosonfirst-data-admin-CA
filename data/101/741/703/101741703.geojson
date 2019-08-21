@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000342,
+    "geom:area_square_m":2591668.519988,
     "geom:bbox":"-97.0088057,52.2182426,-96.9497178,52.2545632",
     "geom:latitude":52.234975,
     "geom:longitude":-96.97512,
     "iso:country":"CA",
     "lbl:latitude":52.228771,
     "lbl:longitude":-96.965659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.228771,
     "mps:longitude":-96.965659,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pigeon River 13A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741703,
-    "wof:lastmodified":1533069139,
+    "wof:lastmodified":1566425817,
     "wof:name":"Pigeon River 13A",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-73.879286,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.884286,45.521039,-73.874286,45.531039",
     "lbl:latitude":45.526039,
     "lbl:longitude":-73.879286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.522993,
     "mps:longitude":-73.883317,
     "mz:hierarchy_label":0,
@@ -48,7 +50,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":187,
     "wof:belongsto":[
         136251273,
@@ -61,7 +63,6 @@
     "wof:concordances":{
         "gp:id":23396738,
         "qs:id":1080122,
-        "qs_pg:id":1080122,
         "wd:id":"Q3219751"
     },
     "wof:country":"CA",
@@ -80,7 +81,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844214,
+    "wof:lastmodified":1566424942,
     "wof:name":"Laval sur le Lac",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
+    "geom:area_square_m":106248.31227,
     "geom:bbox":"-130.1135342,54.7700897,-130.1056902,54.7734831",
     "geom:latitude":54.771205,
     "geom:longitude":-130.109349,
     "iso:country":"CA",
     "lbl:latitude":54.771056,
     "lbl:longitude":-130.109287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.771056,
     "mps:longitude":-130.109287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knames 46"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743541,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566425922,
     "wof:name":"Knames 46",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

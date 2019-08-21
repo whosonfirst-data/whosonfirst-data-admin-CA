@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.826342,
     "lbl:longitude":-124.047122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.826342,
     "mps:longitude":-124.047122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lake Cowichan"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.8258,
     "wd:longitude":-124.054,
@@ -71,7 +74,6 @@
         "gn:id":6048316,
         "gp:id":9836,
         "qs:id":1249119,
-        "qs_pg:id":1249119,
         "wd:id":"Q6475523",
         "wk:page":"Lake Cowichan"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101741093,
-    "wof:lastmodified":1563285217,
+    "wof:lastmodified":1566425828,
     "wof:name":"Lake Cowichan",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5989734.876081,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.432728,45.626407,-73.432728,45.626407",
     "geom:latitude":45.626407,
     "geom:longitude":-73.432728,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.626407,
     "lbl:longitude":-73.432728,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.634376,
     "mps:longitude":-73.426223,
     "mz:hierarchy_label":0,
@@ -29,9 +30,6 @@
         "Des Trois-Fr\u00eanes"
     ],
     "name:fra_x_preferred":[
-        "Des Trois Frenes"
-    ],
-    "name:unk_x_variant":[
         "Des Trois Frenes"
     ],
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -70,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856792,
-        "qs:id":1246255,
-        "qs_pg:id":1246255
+        "qs:id":1246255
     },
     "wof:country":"CA",
     "wof:geomhash":"36be61b4673b566abe3e4fdc32a41662",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872214,
+    "wof:lastmodified":1566424980,
     "wof:name":"Des Trois-Fr\u00eanes",
     "wof:parent_id":101738135,
     "wof:placetype":"neighbourhood",

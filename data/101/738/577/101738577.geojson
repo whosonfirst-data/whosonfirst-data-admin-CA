@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.337013,
     "lbl:longitude":-72.528406,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.337013,
     "mps:longitude":-72.528406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:atj_x_preferred":[
         "Waterloo"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":359,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
         "gn:id":6176821,
         "gp:id":3552,
         "qs:id":1053614,
-        "qs_pg:id":1053614,
         "wd:id":"Q142289",
         "wk:page":"Waterloo, Quebec"
     },
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101738577,
-    "wof:lastmodified":1563284756,
+    "wof:lastmodified":1566425482,
     "wof:name":"Waterloo",
     "wof:parent_id":890458535,
     "wof:placetype":"locality",

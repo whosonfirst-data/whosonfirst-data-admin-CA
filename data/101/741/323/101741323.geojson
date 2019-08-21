@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
+    "geom:area_square_m":146743.74866,
     "geom:bbox":"-85.6467503,48.6839181,-85.638019,48.6936421",
     "geom:latitude":48.688395,
     "geom:longitude":-85.642818,
     "iso:country":"CA",
     "lbl:latitude":48.690235,
     "lbl:longitude":-85.641386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.690235,
     "mps:longitude":-85.641386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pic Mobert Reserve South"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741323,
-    "wof:lastmodified":1533335666,
+    "wof:lastmodified":1566425812,
     "wof:name":"Pic Mobert Reserve South",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

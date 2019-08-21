@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.619566,
     "lbl:longitude":-108.463181,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.619566,
     "mps:longitude":-108.463181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cabri"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.62,
     "wd:longitude":-108.46,
     "wd:wordcount":333,
@@ -70,7 +73,6 @@
         "gn:id":5913030,
         "gp:id":2291,
         "qs:id":1249334,
-        "qs_pg:id":1249334,
         "wd:id":"Q855643",
         "wk:page":"Cabri, Saskatchewan"
     },
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284000,
+    "wof:lastmodified":1566425364,
     "wof:name":"Cabri",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

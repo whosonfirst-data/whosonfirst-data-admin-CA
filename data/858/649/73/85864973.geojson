@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.092225,
     "lbl:longitude":-114.078415,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.08886,
     "mps:longitude":-114.075422,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191575,
@@ -52,7 +53,6 @@
     "wof:concordances":{
         "gp:id":23404871,
         "qs:id":8348,
-        "qs_pg:id":8348,
         "wd:id":"Q14874803"
     },
     "wof:country":"CA",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566424982,
     "wof:name":"Highwood",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

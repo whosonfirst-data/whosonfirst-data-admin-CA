@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
-    "geom:area_square_m":1572766.676916,
+    "geom:area_square_m":1572766.676917,
     "geom:bbox":"-73.8662175506,45.4389850327,-73.8392388005,45.456247067",
     "geom:latitude":45.449333,
     "geom:longitude":-73.852339,
     "iso:country":"CA",
     "lbl:latitude":45.449821,
     "lbl:longitude":-73.85234,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.449821,
     "mps:longitude":-73.85234,
     "mz:hierarchy_label":1,
@@ -27,11 +28,11 @@
     "reversegeo:longitude":-73.85234,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736461,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1108960809,
-    "wof:lastmodified":1533277850,
+    "wof:lastmodified":1566425249,
     "wof:name":"Saint-Charles",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2634502.094927,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.510577,43.654064,-79.510577,43.654064",
     "geom:latitude":43.654064,
     "geom:longitude":-79.510577,
     "iso:country":"CA",
+    "lbl:bbox":"-79.515577,43.649064,-79.505577,43.659064",
     "lbl:latitude":43.654064,
     "lbl:longitude":-79.510577,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.653738,
     "mps:longitude":-79.515718,
     "mz:hierarchy_label":0,
@@ -31,26 +33,26 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Kingsway South (15)",
     "torsdfa:AREA_S_CD":"015",
     "wd:latitude":43.653,
     "wd:longitude":-79.511,
     "wd:wordcount":1600,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108833673,
         85633041,
         101735835,
-        1108833313
+        1108833313,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6164097,
         "gp:id":23399827,
         "qs:id":1192559,
-        "qs_pg:id":1192559,
         "wd:id":"Q7744696",
         "wk:page":"The Kingsway"
     },
@@ -73,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870942,
+    "wof:lastmodified":1566424987,
     "wof:name":"The Kingsway",
     "wof:parent_id":1108833673,
     "wof:placetype":"neighbourhood",

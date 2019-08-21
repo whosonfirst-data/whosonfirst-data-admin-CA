@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.060634,
     "lbl:longitude":-72.604663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.060634,
     "mps:longitude":-72.604663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Z\u00e9phirin-de-Courval"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101738789,
-    "wof:lastmodified":1563284753,
+    "wof:lastmodified":1566425482,
     "wof:name":"Saint-Z\u00e9phirin-de-Courval",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4031.843179,
     "geom:bbox":"-125.4110183,55.1793925,-125.4095893,55.1799787",
     "geom:latitude":55.179729,
     "geom:longitude":-125.410269,
     "iso:country":"CA",
     "lbl:latitude":55.179681,
     "lbl:longitude":-125.410284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.179681,
     "mps:longitude":-125.410284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Metso A Choot 23"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745263,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566425980,
     "wof:name":"Metso A Choot 23",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

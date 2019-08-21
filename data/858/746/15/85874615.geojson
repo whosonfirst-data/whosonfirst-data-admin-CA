@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000647,
-    "geom:area_square_m":5046406.094144,
+    "geom:area_square_m":5046406.094148,
     "geom:bbox":"-114.00106,50.896299,-113.975303,50.931932",
     "geom:latitude":50.913333,
     "geom:longitude":-113.985624,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.913621,
     "lbl:longitude":-113.985851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.910396,
     "mps:longitude":-113.989033,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1035.0,
     "wd:latitude":50.9078,
     "wd:longitude":-113.987,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":55856005,
         "qs:id":381267,
-        "qs_pg:id":381267,
         "wd:id":"Q6801832"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566424967,
     "wof:name":"McKenzie Lake",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

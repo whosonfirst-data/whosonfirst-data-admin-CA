@@ -11,8 +11,10 @@
     "geom:longitude":-79.485397,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.490397,44.249544,-79.480397,44.259544",
     "lbl:latitude":44.254544,
     "lbl:longitude":-79.485397,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.257077,
     "mps:longitude":-79.483171,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Orchard Beach"
     ],
     "name:eng_x_preferred":[
-        "Orchard Beach"
-    ],
-    "name:unk_x_variant":[
         "Orchard Beach"
     ],
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":52,
     "wof:belongsto":[
         85682057,
@@ -75,8 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999241,
-        "qs:id":525753,
-        "qs_pg:id":525753
+        "qs:id":525753
     },
     "wof:country":"CA",
     "wof:geomhash":"8c1bb74e73da7e012bcc81f6abb3b117",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170705,
+    "wof:lastmodified":1566424936,
     "wof:name":"Orchard Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097794,
+    "geom:area_square_m":753667987.707891,
     "geom:bbox":"-107.6915081,51.2706947,-107.4100359,51.6198841",
     "geom:latitude":51.445745,
     "geom:longitude":-107.55099,
     "iso:country":"CA",
     "lbl:latitude":51.381337,
     "lbl:longitude":-107.560375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.381337,
     "mps:longitude":-107.560375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milden No. 286"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740219,
-    "wof:lastmodified":1531524267,
+    "wof:lastmodified":1566425491,
     "wof:name":"Milden No. 286",
     "wof:parent_id":1158868955,
     "wof:placetype":"locality",

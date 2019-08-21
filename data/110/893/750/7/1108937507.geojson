@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.876817,
     "lbl:longitude":-97.320575,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.876982,
     "mps:longitude":-97.319098,
     "mz:hierarchy_label":1,
@@ -148,7 +149,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968457,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108937507,
-    "wof:lastmodified":1564172101,
+    "wof:lastmodified":1566425229,
     "wof:name":"Glendale",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

@@ -9,10 +9,12 @@
     "geom:bbox":"-92.86127,49.7421641,-92.6332984,49.8151415",
     "geom:latitude":49.786208,
     "geom:longitude":-92.757673,
-    "geonames:id":"5942911,5942913",
+    "gn:id":"5942911,5942913",
     "iso:country":"CA",
     "lbl:latitude":49.79099,
     "lbl:longitude":-92.768873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.79099,
     "mps:longitude":-92.768873,
     "mz:hierarchy_label":1,
@@ -254,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1300,
     "wof:belongsto":[
         102191575,
@@ -282,7 +284,7 @@
         }
     ],
     "wof:id":101735531,
-    "wof:lastmodified":1563285431,
+    "wof:lastmodified":1566425871,
     "wof:name":"Dryden",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

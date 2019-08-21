@@ -9,14 +9,17 @@
     "geom:bbox":"-122.768631795,49.1960622526,-122.579421341,49.3532550627",
     "geom:latitude":49.27179,
     "geom:longitude":-122.663241,
-    "geonames:id":"6105815,6105816",
+    "gn:id":"6105815,6105816",
     "iso:country":"CA",
     "lbl:latitude":49.251028,
     "lbl:longitude":-122.686787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.251028,
     "mps:longitude":-122.686787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0645\u064a\u062f\u0648\u0632"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":8.0,
     "wd:latitude":49.2333,
     "wd:longitude":-122.683,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101741079,
-    "wof:lastmodified":1563285137,
+    "wof:lastmodified":1566425793,
     "wof:name":"Pitt Meadows",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

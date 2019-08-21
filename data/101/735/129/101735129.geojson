@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.108368,
     "lbl:longitude":-97.563203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.108368,
     "mps:longitude":-97.563203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Altona"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":247.0,
     "wd:latitude":49.1044,
@@ -91,7 +94,6 @@
         "gn:id":5884260,
         "gp:id":3006,
         "qs:id":160218,
-        "qs_pg:id":160218,
         "wd:id":"Q402754",
         "wk:page":"Altona, Manitoba"
     },
@@ -110,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285394,
+    "wof:lastmodified":1566425864,
     "wof:name":"Altona",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

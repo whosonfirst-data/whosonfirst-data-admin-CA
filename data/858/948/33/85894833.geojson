@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000563,
-    "geom:area_square_m":4550814.090893,
+    "geom:area_square_m":4550814.090883,
     "geom:bbox":"-123.196655999,49.1410220717,-123.169067888,49.1629674973",
     "geom:latitude":49.15213,
     "geom:longitude":-123.182723,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.15193,
     "lbl:longitude":-123.18559,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.149836,
     "mps:longitude":-123.202962,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Seafair"
     ],
     "name:epo_x_preferred":[
-        "Seafair"
-    ],
-    "name:unk_x_variant":[
         "Seafair"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +63,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":842,
     "wof:belongsto":[
         85682117,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gp:id":55998877,
         "qs:id":986993,
-        "qs_pg:id":986993,
         "wd:id":"Q7440323"
     },
     "wof:country":"CA",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335943,
+    "wof:lastmodified":1566424951,
     "wof:name":"Seafair",
     "wof:parent_id":101741081,
     "wof:placetype":"neighbourhood",

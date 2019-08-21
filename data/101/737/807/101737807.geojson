@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.431687,
     "lbl:longitude":-73.287785,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.431687,
     "mps:longitude":-73.287785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0645\u0628\u0644\u064a\u0643\u064a\u0628\u0643"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":945,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "gp:id":261,
         "loc:id":"n82249932",
         "qs:id":1191463,
-        "qs_pg:id":1191463,
         "wd:id":"Q142069",
         "wk:page":"Chambly, Quebec"
     },
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101737807,
-    "wof:lastmodified":1563284281,
+    "wof:lastmodified":1566425407,
     "wof:name":"Chambly",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

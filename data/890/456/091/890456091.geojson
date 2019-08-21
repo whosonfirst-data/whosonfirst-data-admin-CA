@@ -14,16 +14,18 @@
     "geom:longitude":-115.398807,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":1900,
     "gn:population":1900,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":54.715942,
     "lbl:longitude":-115.394257,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.715942,
     "mps:longitude":-115.394257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Swan Hills"
     ],
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1113.0,
     "wd:latitude":"54.7106",
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":890456091,
-    "wof:lastmodified":1563286183,
+    "wof:lastmodified":1566426059,
     "wof:name":"Swan Hills",
     "wof:parent_id":1158863315,
     "wof:placetype":"locality",

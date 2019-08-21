@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
+    "geom:area_square_m":806882.53352,
     "geom:bbox":"-124.0998238,52.3427526,-124.0821016,52.3536043",
     "geom:latitude":52.348902,
     "geom:longitude":-124.090962,
     "iso:country":"CA",
     "lbl:latitude":52.350524,
     "lbl:longitude":-124.09687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.350524,
     "mps:longitude":-124.09687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alexis Creek 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747263,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566425679,
     "wof:name":"Alexis Creek 6",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

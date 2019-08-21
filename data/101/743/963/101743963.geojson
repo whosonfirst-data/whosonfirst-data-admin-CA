@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
+    "geom:area_square_m":384779.77818,
     "geom:bbox":"-124.6272615,48.8690235,-124.6161993,48.8766992",
     "geom:latitude":48.871704,
     "geom:longitude":-124.620173,
     "iso:country":"CA",
     "lbl:latitude":48.871981,
     "lbl:longitude":-124.619167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.871981,
     "mps:longitude":-124.619167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chuchummisapo 15"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743963,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566425907,
     "wof:name":"Chuchummisapo 15",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

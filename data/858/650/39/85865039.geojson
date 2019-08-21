@@ -10,8 +10,10 @@
     "geom:latitude":49.085675,
     "geom:longitude":-122.205901,
     "iso:country":"CA",
+    "lbl:bbox":"-122.210901,49.080675,-122.200901,49.090675",
     "lbl:latitude":49.085675,
     "lbl:longitude":-122.205901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.079483,
     "mps:longitude":-122.212641,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     "name:swe_x_preferred":[
         "Straiton"
     ],
-    "name:unk_x_variant":[
-        "Straiton"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5881791,
@@ -71,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":55.3114,
     "wd:longitude":-4.5515,
     "wd:wordcount":188,
@@ -102,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170746,
+    "wof:lastmodified":1566424950,
     "wof:name":"Straiton",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1383494.519327,
+    "geom:area_square_m":1383494.519328,
     "geom:bbox":"-106.663925,52.131044,-106.641891,52.14386",
     "geom:latitude":52.138286,
     "geom:longitude":-106.653375,
     "iso:country":"CA",
     "lbl:latitude":52.13793,
     "lbl:longitude":-106.653378,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.13793,
     "mps:longitude":-106.653378,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-106.653378,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115063,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1126114075,
-    "wof:lastmodified":1531524183,
+    "wof:lastmodified":1566426169,
     "wof:name":"City Park",
     "wof:parent_id":1126115063,
     "wof:placetype":"neighbourhood",

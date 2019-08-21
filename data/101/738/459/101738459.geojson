@@ -9,14 +9,17 @@
     "geom:bbox":"-72.283598621,45.028981567,-72.096869257,45.161304944",
     "geom:latitude":45.113742,
     "geom:longitude":-72.194896,
-    "geonames:id":"6155297,6155298",
+    "gn:id":"6155297,6155298",
     "iso:country":"CA",
     "lbl:latitude":45.123074,
     "lbl:longitude":-72.194909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.123074,
     "mps:longitude":-72.194909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stanstead"
     ],
@@ -231,7 +234,7 @@
     "qs:type":"Canton",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191575,
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":101738459,
-    "wof:lastmodified":1563284730,
+    "wof:lastmodified":1566425479,
     "wof:name":"Stanstead",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

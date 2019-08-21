@@ -11,8 +11,10 @@
     "geom:longitude":-120.028115,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-120.033115,50.721656,-120.023115,50.731656",
     "lbl:latitude":50.726656,
     "lbl:longitude":-120.028115,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.729466,
     "mps:longitude":-120.028237,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "Pinantan Lake"
-    ],
-    "name:unk_x_variant":[
-        "Pinantan"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":109,
     "wof:belongsto":[
         85682117,
@@ -82,7 +81,6 @@
     "wof:concordances":{
         "gp:id":23405185,
         "qs:id":1087721,
-        "qs_pg:id":1087721,
         "wd:id":"Q7194827"
     },
     "wof:country":"CA",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281942,
+    "wof:lastmodified":1566424950,
     "wof:name":"Pinantan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

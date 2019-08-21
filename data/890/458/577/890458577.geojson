@@ -14,15 +14,18 @@
     "geom:longitude":-113.112171,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.12738,
     "lbl:longitude":-113.110867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.12738,
     "mps:longitude":-113.110867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0645\u0627\u0646\u063a\u0627\u064a"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":935.0,
     "wd:latitude":"50.1317",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890458577,
-    "wof:lastmodified":1563286118,
+    "wof:lastmodified":1566426045,
     "wof:name":"Carmangay",
     "wof:parent_id":1158863257,
     "wof:placetype":"locality",

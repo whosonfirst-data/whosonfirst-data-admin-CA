@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12530069.359775,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.565426,46.31922,-72.565426,46.31922",
     "geom:latitude":46.31922,
     "geom:longitude":-72.565426,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.570426,46.31422,-72.560426,46.32422",
     "lbl:latitude":46.31922,
     "lbl:longitude":-72.565426,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.318963,
     "mps:longitude":-72.560487,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Laviolette"
     ],
     "name:fra_x_preferred":[
-        "Laviolette"
-    ],
-    "name:unk_x_variant":[
         "Laviolette"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,20 +64,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":87,
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101738021,
-        1158884881,
-        136251273
+        1158884881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855664,
-        "qs:id":220544,
-        "qs_pg:id":220544
+        "qs:id":220544
     },
     "wof:country":"CA",
     "wof:geomhash":"34d8b4d6276865bb9a31dfc0fac4b064",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871885,
+    "wof:lastmodified":1566424968,
     "wof:name":"Laviolette",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

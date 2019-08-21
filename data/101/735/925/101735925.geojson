@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.481063,
     "lbl:longitude":-75.210613,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.481063,
     "mps:longitude":-75.210613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0627\u0631\u064a\u0646\u0633-\u0631\u0648\u0643\u0644\u0627\u0646\u062f"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.483333,
     "wd:longitude":-75.2,
@@ -107,7 +110,6 @@
         "gn:id":5923101,
         "gp:id":29374720,
         "qs:id":1184819,
-        "qs_pg:id":1184819,
         "wd:id":"Q2364972"
     },
     "wof:country":"CA",
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101735925,
-    "wof:lastmodified":1561844472,
+    "wof:lastmodified":1566425867,
     "wof:name":"Clarence-Rockland",
     "wof:parent_id":890456257,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5396168.146403,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.958355,43.26633,-79.958355,43.26633",
     "geom:latitude":43.26633,
     "geom:longitude":-79.958355,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.963355,43.26133,-79.953355,43.27133",
     "lbl:latitude":43.26633,
     "lbl:longitude":-79.958355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.256103,
     "mps:longitude":-79.975123,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Dundas"
-    ],
-    "name:unk_x_variant":[
         "Downtown Dundas"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -67,8 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999027,
-        "qs:id":1354858,
-        "qs_pg:id":1354858
+        "qs:id":1354858
     },
     "wof:country":"CA",
     "wof:geomhash":"8142da3ecf8d001f8d3d027082f492ad",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931307,
+    "wof:lastmodified":1566424969,
     "wof:name":"Downtown Dundas",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

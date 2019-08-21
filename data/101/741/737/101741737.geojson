@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013235,
+    "geom:area_square_m":103699081.481451,
     "geom:bbox":"-100.9973138,50.62405,-100.8555389,50.7271193",
     "geom:latitude":50.67848,
     "geom:longitude":-100.928973,
     "iso:country":"CA",
     "lbl:latitude":50.675463,
     "lbl:longitude":-100.924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.675463,
     "mps:longitude":-100.924,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waywayseecappo"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741737,
-    "wof:lastmodified":1531524998,
+    "wof:lastmodified":1566425789,
     "wof:name":"Waywayseecappo",
     "wof:parent_id":1158868973,
     "wof:placetype":"locality",

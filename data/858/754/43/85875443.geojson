@@ -11,8 +11,10 @@
     "geom:longitude":-89.235998,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-89.240998,48.408478,-89.230998,48.418478",
     "lbl:latitude":48.413478,
     "lbl:longitude":-89.235998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.412795,
     "mps:longitude":-89.222957,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u043a\u0435\u043b\u043b\u0430\u0440"
-    ],
-    "name:unk_x_variant":[
-        "McKellar"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856529,
-        "qs:id":888339,
-        "qs_pg:id":888339
+        "qs:id":888339
     },
     "wof:country":"CA",
     "wof:geomhash":"5b095130d7e4de4fced1eccea629bebc",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170690,
+    "wof:lastmodified":1566424933,
     "wof:name":"McKellar",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

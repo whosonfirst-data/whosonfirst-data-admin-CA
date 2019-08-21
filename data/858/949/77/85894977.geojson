@@ -11,8 +11,10 @@
     "geom:longitude":-79.58551,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.59051,43.564746,-79.58051,43.574746",
     "lbl:latitude":43.569746,
     "lbl:longitude":-79.58551,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.571917,
     "mps:longitude":-79.586876,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0435\u043e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mineola"
-    ],
     "name:vol_x_preferred":[
         "Mineola"
     ],
@@ -95,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":65,
     "wof:belongsto":[
         85682057,
@@ -108,8 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998979,
-        "qs:id":218374,
-        "qs_pg:id":218374
+        "qs:id":218374
     },
     "wof:country":"CA",
     "wof:geomhash":"7b4edaebf059761ff833ac1494ea8999",
@@ -135,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170789,
+    "wof:lastmodified":1566424962,
     "wof:name":"Mineola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

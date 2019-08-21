@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.373072,
     "lbl:longitude":-99.256068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.373072,
     "mps:longitude":-99.256068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09a8\u09cd\u09b8\u09a6\u09cb\u09f1\u09a8\u09c7"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191575,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101734861,
-    "wof:lastmodified":1563285249,
+    "wof:lastmodified":1566425838,
     "wof:name":"Lansdowne",
     "wof:parent_id":1158868933,
     "wof:placetype":"locality",

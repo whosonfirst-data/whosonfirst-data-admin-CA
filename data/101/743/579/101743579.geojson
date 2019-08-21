@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":49441.712761,
     "geom:bbox":"-129.7325497,54.1888641,-129.7294602,54.1913754",
     "geom:latitude":54.190001,
     "geom:longitude":-129.730982,
     "iso:country":"CA",
     "lbl:latitude":54.190041,
     "lbl:longitude":-129.730958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.190041,
     "mps:longitude":-129.730958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Imkusiyan 65"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743579,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425922,
     "wof:name":"Imkusiyan 65",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":55.117706,
     "lbl:longitude":-105.291325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.117706,
     "mps:longitude":-105.291325,
     "mz:hierarchy_label":1,
@@ -169,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.1,
     "wd:longitude":-105.3,
@@ -186,7 +188,6 @@
         "gn:id":6050066,
         "gp:id":824,
         "qs:id":274718,
-        "qs_pg:id":274718,
         "wd:id":"Q2782497",
         "wk:page":"La Ronge"
     },
@@ -205,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284033,
+    "wof:lastmodified":1566425369,
     "wof:name":"La Ronge",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007732,
+    "geom:area_square_m":63586888.770987,
     "geom:bbox":"-89.3396009,48.2668839,-89.1979709,48.3624404",
     "geom:latitude":48.311528,
     "geom:longitude":-89.27122,
     "iso:country":"CA",
     "lbl:latitude":48.309823,
     "lbl:longitude":-89.272732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.309823,
     "mps:longitude":-89.272732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fort William Indian Reserve No. 52"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747041,
-    "wof:lastmodified":1533335679,
+    "wof:lastmodified":1566425553,
     "wof:name":"Fort William Indian Reserve No. 52",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

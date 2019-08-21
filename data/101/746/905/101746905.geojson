@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031231,
+    "geom:area_square_m":234000992.986689,
     "geom:bbox":"-109.9348157,49.5166275,-106.851082,53.2345479",
     "geom:latitude":52.701931,
     "geom:longitude":-108.40659,
     "iso:country":"CA",
     "lbl:latitude":52.914831,
     "lbl:longitude":-109.11264,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.914831,
     "mps:longitude":-109.11264,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Pine I.R. 116"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746905,
-    "wof:lastmodified":1531524363,
+    "wof:lastmodified":1566425769,
     "wof:name":"Little Pine I.R. 116",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

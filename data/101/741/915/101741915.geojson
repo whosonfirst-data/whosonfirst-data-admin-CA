@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
+    "geom:area_square_m":1797282.847419,
     "geom:bbox":"-103.0601408,55.1991145,-103.0353015,55.2217905",
     "geom:latitude":55.21236,
     "geom:longitude":-103.046867,
     "iso:country":"CA",
     "lbl:latitude":55.207107,
     "lbl:longitude":-103.051245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.207107,
     "mps:longitude":-103.051245,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maskikopawiscikosik Indian Reserve No. 229"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741915,
-    "wof:lastmodified":1531525152,
+    "wof:lastmodified":1566425810,
     "wof:name":"Maskikopawiscikosik Indian Reserve No. 229",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

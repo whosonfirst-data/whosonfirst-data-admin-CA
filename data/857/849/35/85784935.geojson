@@ -12,8 +12,10 @@
     "gn:latitude":42.28318,
     "gn:longitude":-83.05925,
     "iso:country":"CA",
+    "lbl:bbox":"-83.077439,42.286309,-83.067439,42.296309",
     "lbl:latitude":42.291309,
     "lbl:longitude":-83.072439,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.287475,
     "mps:longitude":-83.060111,
     "mz:hierarchy_label":0,
@@ -394,9 +396,6 @@
     "name:ukr_x_variant":[
         "\u0441\u0435\u043d\u0434\u0432\u0456\u0447"
     ],
-    "name:unk_x_variant":[
-        "Sandwich"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0688\u0648\u0686"
     ],
@@ -451,7 +450,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1790,
     "wof:belongsto":[
         85682057,
@@ -465,7 +464,6 @@
         "gn:id":6140561,
         "gp:id":1640,
         "qs:id":906558,
-        "qs_pg:id":906558,
         "wd:id":"Q28803"
     },
     "wof:country":"CA",
@@ -484,7 +482,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281714,
+    "wof:lastmodified":1566424897,
     "wof:name":"Sandwich",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

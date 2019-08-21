@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22697693.140015,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.881859,49.163319,-123.881859,49.163319",
     "geom:latitude":49.163319,
     "geom:longitude":-123.881859,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.886859,49.158319,-123.876859,49.168319",
     "lbl:latitude":49.163319,
     "lbl:longitude":-123.881859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.146458,
     "mps:longitude":-123.885525,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Duke Point"
     ],
     "name:eng_x_preferred":[
-        "Duke Point"
-    ],
-    "name:unk_x_variant":[
         "Duke Point"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":259,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856712,
         "qs:id":381681,
-        "qs_pg:id":381681,
         "wd:id":"Q5312846"
     },
     "wof:country":"CA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872177,
+    "wof:lastmodified":1566424972,
     "wof:name":"Duke Point",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
+    "geom:area_square_m":302775.351614,
     "geom:bbox":"-121.6934346,50.4161843,-121.6868451,50.4234534",
     "geom:latitude":50.419994,
     "geom:longitude":-121.690459,
     "iso:country":"CA",
     "lbl:latitude":50.420382,
     "lbl:longitude":-121.690523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.420382,
     "mps:longitude":-121.690523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lytton 4F"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744293,
-    "wof:lastmodified":1533335891,
+    "wof:lastmodified":1566425894,
     "wof:name":"Lytton 4F",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

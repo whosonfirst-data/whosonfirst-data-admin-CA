@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
+    "geom:area_square_m":645534.158103,
     "geom:bbox":"-123.8494672,52.9856441,-123.8373521,52.9929529",
     "geom:latitude":52.989299,
     "geom:longitude":-123.843408,
     "iso:country":"CA",
     "lbl:latitude":52.989299,
     "lbl:longitude":-123.843408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.989299,
     "mps:longitude":-123.843408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coglistiko River 29"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745155,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566425972,
     "wof:name":"Coglistiko River 29",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-122.185835,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.190835,49.036381,-122.180835,49.046381",
     "lbl:latitude":49.041381,
     "lbl:longitude":-122.185835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.067542,
     "mps:longitude":-122.139055,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Sumas Prairie"
     ],
     "name:swe_x_preferred":[
-        "Sumas Prairie"
-    ],
-    "name:unk_x_variant":[
         "Sumas Prairie"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":117,
     "wof:belongsto":[
         85682117,
@@ -79,7 +78,6 @@
     "wof:concordances":{
         "gp:id":55856457,
         "qs:id":471975,
-        "qs_pg:id":471975,
         "wd:id":"Q7636981"
     },
     "wof:country":"CA",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281848,
+    "wof:lastmodified":1566424935,
     "wof:name":"Sumas Prairie",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

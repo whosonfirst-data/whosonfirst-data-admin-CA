@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":52349.229286,
     "geom:bbox":"-124.9241402,49.6594673,-124.9173589,49.6625216",
     "geom:latitude":49.661346,
     "geom:longitude":-124.920885,
     "iso:country":"CA",
     "lbl:latitude":49.661203,
     "lbl:longitude":-124.920906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.661203,
     "mps:longitude":-124.920906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goose Spit 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744009,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566425894,
     "wof:name":"Goose Spit 3",
     "wof:parent_id":890458565,
     "wof:placetype":"locality",

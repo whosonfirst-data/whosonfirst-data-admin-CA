@@ -11,8 +11,10 @@
     "geom:longitude":-79.420924,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.425924,43.949271,-79.415924,43.959271",
     "lbl:latitude":43.954271,
     "lbl:longitude":-79.420924,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.949327,
     "mps:longitude":-79.42528,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Wilcox Lake"
     ],
     "name:eng_x_preferred":[
-        "Lake Wilcox"
-    ],
-    "name:unk_x_variant":[
         "Lake Wilcox"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999229,
-        "qs:id":212715,
-        "qs_pg:id":212715
+        "qs:id":212715
     },
     "wof:country":"CA",
     "wof:geomhash":"d783744161cb129e4fc1da568d9d3dba",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170705,
+    "wof:lastmodified":1566424936,
     "wof:name":"Lake Wilcox",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

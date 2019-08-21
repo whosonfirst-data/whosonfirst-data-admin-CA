@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6476744.476042,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.564618,45.374899,-73.564618,45.374899",
     "geom:latitude":45.374899,
     "geom:longitude":-73.564618,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.569618,45.369899,-73.559618,45.379899",
     "lbl:latitude":45.374899,
     "lbl:longitude":-73.564618,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.376017,
     "mps:longitude":-73.566304,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Domaine des Cheminots"
     ],
     "name:fra_x_preferred":[
-        "Domaine des Cheminots"
-    ],
-    "name:unk_x_variant":[
         "Domaine des Cheminots"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,20 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        136251273,
         102191575,
         101738869,
         85633041,
-        101738869,
-        890457731
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856820,
-        "qs:id":1332299,
-        "qs_pg:id":1332299
+        "qs:id":1332299
     },
     "wof:country":"CA",
     "wof:geomhash":"91761dd1abb0b049dbd359246dff2304",
@@ -91,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872231,
+    "wof:lastmodified":1566424981,
     "wof:name":"Domaine des Cheminots",
     "wof:parent_id":101738869,
     "wof:placetype":"neighbourhood",

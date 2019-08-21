@@ -10,8 +10,10 @@
     "geom:latitude":43.58945,
     "geom:longitude":-79.569124,
     "iso:country":"CA",
+    "lbl:bbox":"-79.574124,43.58445,-79.564124,43.59445",
     "lbl:latitude":43.58945,
     "lbl:longitude":-79.569124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.586483,
     "mps:longitude":-79.569556,
     "mz:hierarchy_label":0,
@@ -72,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0439\u043a\u0432'\u044e"
     ],
-    "name:unk_x_variant":[
-        "Lakeview"
-    ],
     "name:vol_x_preferred":[
         "Lakeview"
     ],
@@ -107,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         101740755,
@@ -144,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170706,
+    "wof:lastmodified":1566424936,
     "wof:name":"Lakeview",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

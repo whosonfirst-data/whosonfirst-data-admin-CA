@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.445609,
     "lbl:longitude":-123.430926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.445609,
     "mps:longitude":-123.430926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0643\u0648\u064a\u0645\u0627\u0644\u062a"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.430556,
     "wd:longitude":-123.414722,
     "wd:wordcount":1243,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101743837,
-    "wof:lastmodified":1563285651,
+    "wof:lastmodified":1566425920,
     "wof:name":"Esquimalt",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

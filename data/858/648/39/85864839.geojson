@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":997305.215406,
+    "geom:area_square_m":997305.215405,
     "geom:bbox":"-113.565813753,53.570276136,-113.549379174,53.5811768991",
     "geom:latitude":53.57512,
     "geom:longitude":-113.559201,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.57567,
     "lbl:longitude":-113.559325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.582994,
     "mps:longitude":-113.573252,
     "mz:hierarchy_label":1,
@@ -62,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":51.9308,
     "wd:longitude":1.2637,
     "wd:wordcount":448,
@@ -77,7 +78,6 @@
     "wof:concordances":{
         "gp:id":23404169,
         "qs:id":1085735,
-        "qs_pg:id":1085735,
         "wd:id":"Q5302543"
     },
     "wof:country":"CA",
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270456,
+    "wof:lastmodified":1566424989,
     "wof:name":"Dovercourt",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

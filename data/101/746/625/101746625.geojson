@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
+    "geom:area_square_m":3099550.286994,
     "geom:bbox":"-68.3195576,47.3584592,-68.2807761,47.3803246",
     "geom:latitude":47.368411,
     "geom:longitude":-68.301458,
     "iso:country":"CA",
     "lbl:latitude":47.366323,
     "lbl:longitude":-68.302182,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.366323,
     "mps:longitude":-68.302182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Basile Indian Reserve No. 10"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746625,
-    "wof:lastmodified":1532596920,
+    "wof:lastmodified":1566425771,
     "wof:name":"St. Basile Indian Reserve No. 10",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

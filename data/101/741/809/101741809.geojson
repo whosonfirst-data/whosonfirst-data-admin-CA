@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004264,
+    "geom:area_square_m":29334718.670727,
     "geom:bbox":"-96.1428696,56.1668858,-96.0316452,56.2336892",
     "geom:latitude":56.198645,
     "geom:longitude":-96.078042,
     "iso:country":"CA",
     "lbl:latitude":56.204144,
     "lbl:longitude":-96.074264,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.204144,
     "mps:longitude":-96.074264,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Split Lake 171A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741809,
-    "wof:lastmodified":1533069820,
+    "wof:lastmodified":1566425824,
     "wof:name":"Split Lake 171A",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

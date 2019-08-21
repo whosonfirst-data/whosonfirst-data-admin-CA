@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":3946.332341,
     "geom:bbox":"-125.9782477,54.4922115,-125.9770705,54.492815",
     "geom:latitude":54.492517,
     "geom:longitude":-125.977746,
     "iso:country":"CA",
     "lbl:latitude":54.492508,
     "lbl:longitude":-125.977854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.492508,
     "mps:longitude":-125.977854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shas Dzuhl Koh 35"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745289,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566425961,
     "wof:name":"Shas Dzuhl Koh 35",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

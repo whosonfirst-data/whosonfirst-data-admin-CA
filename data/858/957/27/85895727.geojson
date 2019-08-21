@@ -10,7 +10,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":2653365.511563,
+    "geom:area_square_m":2653365.51156,
     "geom:bbox":"-73.5369947829,45.589764685,-73.5122742747,45.6137660713",
     "geom:latitude":45.602008,
     "geom:longitude":-73.524332,
@@ -18,6 +18,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.604479,
     "lbl:longitude":-73.519715,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.602671,
     "mps:longitude":-73.509449,
     "mz:hierarchy_label":1,
@@ -39,7 +40,7 @@
     "name:fra_x_preferred":[
         "T\u00e9treaultville"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "District deT\u00e9treaultville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -69,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108956225,
@@ -82,8 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999682,
-        "qs:id":1090833,
-        "qs_pg:id":1090833
+        "qs:id":1090833
     },
     "wof:country":"CA",
     "wof:geomhash":"177e0f5e7659bc8c395818e0e2819357",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533335746,
+    "wof:lastmodified":1566424971,
     "wof:name":"T\u00e9treaultville",
     "wof:parent_id":1108956225,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
+    "geom:area_square_m":654446.760291,
     "geom:bbox":"-123.4368504,48.4395558,-123.4125773,48.4509021",
     "geom:latitude":48.445474,
     "geom:longitude":-123.423405,
     "iso:country":"CA",
     "lbl:latitude":48.446488,
     "lbl:longitude":-123.422485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.446488,
     "mps:longitude":-123.422485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Songhees 1A"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746725,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566425759,
     "wof:name":"New Songhees 1A",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

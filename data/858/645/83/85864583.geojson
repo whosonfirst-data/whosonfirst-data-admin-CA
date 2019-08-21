@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4732591.950404,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.787487,43.238526,-79.787487,43.238526",
     "geom:latitude":43.238526,
     "geom:longitude":-79.787487,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.792487,43.233526,-79.782487,43.243526",
     "lbl:latitude":43.238526,
     "lbl:longitude":-79.787487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.2402,
     "mps:longitude":-79.788864,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Normanhurst"
-    ],
-    "name:unk_x_variant":[
         "Normanhurst"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399698,
-        "qs:id":902594,
-        "qs_pg:id":902594
+        "qs:id":902594
     },
     "wof:country":"CA",
     "wof:geomhash":"d56824898e5be2252c421d02413cbd8f",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870928,
+    "wof:lastmodified":1566424945,
     "wof:name":"Normanhurst",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

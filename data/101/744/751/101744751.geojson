@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
+    "geom:area_square_m":1492170.836789,
     "geom:bbox":"-122.0088451,49.2320487,-121.9807961,49.2465914",
     "geom:latitude":49.24087,
     "geom:longitude":-122.000418,
     "iso:country":"CA",
     "lbl:latitude":49.242349,
     "lbl:longitude":-122.004841,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.242349,
     "mps:longitude":-122.004841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Squawkum Creek 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744751,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566425898,
     "wof:name":"Squawkum Creek 3",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

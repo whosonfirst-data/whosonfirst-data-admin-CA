@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.211001,
     "lbl:longitude":-66.195422,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.211001,
     "mps:longitude":-66.195422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maliot\u00e9nam Indian Reserve No. 27a"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101747881,
-    "wof:lastmodified":1559860628,
+    "wof:lastmodified":1566425557,
     "wof:name":"Maliot\u00e9nam Indian Reserve No. 27a",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

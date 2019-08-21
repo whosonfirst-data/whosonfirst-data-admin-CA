@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":29146.84503,
     "geom:bbox":"-127.556113,50.5552302,-127.5533958,50.5574095",
     "geom:latitude":50.55638,
     "geom:longitude":-127.554857,
     "iso:country":"CA",
     "lbl:latitude":50.556286,
     "lbl:longitude":-127.555091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.556286,
     "mps:longitude":-127.555091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maquazneecht Island 17"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743169,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566425908,
     "wof:name":"Maquazneecht Island 17",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

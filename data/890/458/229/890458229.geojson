@@ -14,15 +14,18 @@
     "geom:longitude":-111.785647,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.435759,
     "lbl:longitude":-111.785533,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.435759,
     "mps:longitude":-111.785533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0627\u0646\u0633"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":370,
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890458229,
-    "wof:lastmodified":1563285941,
+    "wof:lastmodified":1566426006,
     "wof:name":"Alliance",
     "wof:parent_id":1158863171,
     "wof:placetype":"locality",

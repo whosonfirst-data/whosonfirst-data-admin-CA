@@ -10,8 +10,10 @@
     "geom:latitude":42.264102,
     "geom:longitude":-83.026194,
     "iso:country":"CA",
+    "lbl:bbox":"-83.031194,42.259102,-83.021194,42.269102",
     "lbl:latitude":42.264102,
     "lbl:longitude":-83.026194,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.264802,
     "mps:longitude":-83.023341,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "South Windsor"
     ],
     "name:swe_x_preferred":[
-        "South Windsor"
-    ],
-    "name:unk_x_variant":[
         "South Windsor"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -80,8 +79,7 @@
     "wof:concordances":{
         "gn:id":6153004,
         "gp:id":23399805,
-        "qs:id":1086093,
-        "qs_pg:id":1086093
+        "qs:id":1086093
     },
     "wof:country":"CA",
     "wof:geomhash":"d32b1b94af676eebfefdb3556b8d25d7",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170867,
+    "wof:lastmodified":1566424986,
     "wof:name":"South Windsor",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

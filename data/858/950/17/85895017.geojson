@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5979925.686029,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.233272,43.890685,-79.233272,43.890685",
     "geom:latitude":43.890685,
     "geom:longitude":-79.233272,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.238272,43.885685,-79.228272,43.895685",
     "lbl:latitude":43.890685,
     "lbl:longitude":-79.233272,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.8863,
     "mps:longitude":-79.231917,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Cornell"
-    ],
-    "name:unk_x_variant":[
         "Cornell"
     ],
     "qs:gn_id":0,
@@ -56,9 +55,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736035,
         85633041,
@@ -68,8 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999013,
-        "qs:id":888534,
-        "qs_pg:id":888534
+        "qs:id":888534
     },
     "wof:country":"CA",
     "wof:geomhash":"d5dc1c9d948acf28c2df0ac397c2faaa",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931304,
+    "wof:lastmodified":1566424969,
     "wof:name":"Cornell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

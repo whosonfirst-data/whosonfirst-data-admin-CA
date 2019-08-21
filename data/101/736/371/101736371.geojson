@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.47913,
     "lbl:longitude":-76.951771,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.47913,
     "mps:longitude":-76.951771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stone Mills"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1085,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101736371,
-    "wof:lastmodified":1561844333,
+    "wof:lastmodified":1566425435,
     "wof:name":"Stone Mills",
     "wof:parent_id":890457185,
     "wof:placetype":"locality",

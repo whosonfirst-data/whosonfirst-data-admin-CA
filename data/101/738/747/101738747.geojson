@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.783975,
     "lbl:longitude":-71.297585,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.783975,
     "mps:longitude":-71.297585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stratford"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":158,
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,6 @@
         "gn:id":6157976,
         "gp:id":23396467,
         "qs:id":203103,
-        "qs_pg:id":203103,
         "wd:id":"Q3500095",
         "wk:page":"Stratford, Quebec"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101738747,
-    "wof:lastmodified":1563284646,
+    "wof:lastmodified":1566425465,
     "wof:name":"Stratford",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

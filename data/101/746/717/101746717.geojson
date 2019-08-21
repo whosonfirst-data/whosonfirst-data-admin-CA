@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002227,
+    "geom:area_square_m":17673485.766549,
     "geom:bbox":"-120.5624641,50.0432952,-120.5069094,50.1013401",
     "geom:latitude":50.072997,
     "geom:longitude":-120.534888,
     "iso:country":"CA",
     "lbl:latitude":50.073931,
     "lbl:longitude":-120.535417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.073931,
     "mps:longitude":-120.535417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hamilton Creek 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101746717,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566425786,
     "wof:name":"Hamilton Creek 7",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

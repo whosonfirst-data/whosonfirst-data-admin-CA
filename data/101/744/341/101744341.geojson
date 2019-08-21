@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
+    "geom:area_square_m":760061.578198,
     "geom:bbox":"-121.5965902,50.1867543,-121.5860397,50.1976215",
     "geom:latitude":50.191857,
     "geom:longitude":-121.591895,
     "iso:country":"CA",
     "lbl:latitude":50.191789,
     "lbl:longitude":-121.591965,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.191789,
     "mps:longitude":-121.591965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skwayaynope 26"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744341,
-    "wof:lastmodified":1533335892,
+    "wof:lastmodified":1566425895,
     "wof:name":"Skwayaynope 26",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

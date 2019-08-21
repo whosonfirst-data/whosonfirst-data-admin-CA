@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000662,
+    "geom:area_square_m":4783345.543626,
     "geom:bbox":"-97.462339,54.2317592,-97.4176374,54.2582071",
     "geom:latitude":54.246527,
     "geom:longitude":-97.435615,
     "iso:country":"CA",
     "lbl:latitude":54.250217,
     "lbl:longitude":-97.442686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.250217,
     "mps:longitude":-97.442686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Winnipekosihk Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747289,
-    "wof:lastmodified":1533069690,
+    "wof:lastmodified":1566425555,
     "wof:name":"Winnipekosihk Indian Reserve",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

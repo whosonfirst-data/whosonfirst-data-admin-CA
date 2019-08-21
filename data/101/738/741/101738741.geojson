@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.523887,
     "lbl:longitude":-71.28621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.523887,
     "mps:longitude":-71.28621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Scotstown"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,6 @@
         "gn:id":6142498,
         "gp:id":3535,
         "qs:id":529839,
-        "qs_pg:id":529839,
         "wd:id":"Q142365",
         "wk:page":"Scotstown, Quebec"
     },
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101738741,
-    "wof:lastmodified":1563284660,
+    "wof:lastmodified":1566425467,
     "wof:name":"Scotstown",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

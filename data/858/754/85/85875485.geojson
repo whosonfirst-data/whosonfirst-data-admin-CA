@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3128300.105606,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.787515,46.107583,-64.787515,46.107583",
     "geom:latitude":46.107583,
     "geom:longitude":-64.787515,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.792515,46.102583,-64.782515,46.112583",
     "lbl:latitude":46.107583,
     "lbl:longitude":-64.787515,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.111812,
     "mps:longitude":-64.794604,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Northeast Norwood"
-    ],
-    "name:unk_x_variant":[
         "Northeast Norwood"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856594,
-        "qs:id":381629,
-        "qs_pg:id":381629
+        "qs:id":381629
     },
     "wof:country":"CA",
     "wof:geomhash":"07f34ad5994a0b7e9324a5b3e914c94a",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872132,
+    "wof:lastmodified":1566424934,
     "wof:name":"Northeast Norwood",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

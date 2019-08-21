@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.406449,
     "lbl:longitude":-118.685046,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.406449,
     "mps:longitude":-118.685046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Regional District of Kootenay Boundary"
     ],
@@ -69,7 +72,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kootenay Boundary",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5905",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890457249,
-    "wof:lastmodified":1563286469,
+    "wof:lastmodified":1566426146,
     "wof:name":"Kootenay Boundary",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

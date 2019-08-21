@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.709733,
     "lbl:longitude":-103.012611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.709733,
     "mps:longitude":-103.012611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041d\u044c\u044e\u0434\u0430\u0440\u0444"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284000,
+    "wof:lastmodified":1566425364,
     "wof:name":"Neudorf",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

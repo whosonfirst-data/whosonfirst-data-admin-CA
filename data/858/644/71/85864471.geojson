@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":40277711.94132,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.994285,46.463452,-80.994285,46.463452",
     "geom:latitude":46.463452,
     "geom:longitude":-80.994285,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.999285,46.458452,-80.989285,46.468452",
     "lbl:latitude":46.463452,
     "lbl:longitude":-80.994285,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.451176,
     "mps:longitude":-80.997553,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Lockerby"
-    ],
-    "name:unk_x_variant":[
         "Lockerby"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -56,20 +55,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":20,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735493,
-        890458085,
-        85682057
+        890458085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23397609,
-        "qs:id":1087656,
-        "qs_pg:id":1087656
+        "qs:id":1087656
     },
     "wof:country":"CA",
     "wof:geomhash":"8341865eb1a8ccaa6e5cd3cc5a757180",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870897,
+    "wof:lastmodified":1566424943,
     "wof:name":"Lockerby",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1827702.148013,
+    "geom:area_square_m":1827702.14801,
     "geom:bbox":"-79.467102401,43.692155606,-79.43883363,43.705609818",
     "geom:latitude":43.699024,
     "geom:longitude":-79.452851,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.698988,
     "lbl:longitude":-79.45285,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.711306,
     "mps:longitude":-79.444266,
     "mz:hierarchy_label":1,
@@ -37,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Briar Hill-Belgravia (108)",
     "torsdfa:AREA_S_CD":"108",
     "wof:belongsto":[
@@ -52,8 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855860,
-        "qs:id":381172,
-        "qs_pg:id":381172
+        "qs:id":381172
     },
     "wof:controlled":[],
     "wof:country":"CA",
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335731,
+    "wof:lastmodified":1566424995,
     "wof:name":"Briar Hill-Belgravia",
     "wof:parent_id":1108834637,
     "wof:placetype":"neighbourhood",

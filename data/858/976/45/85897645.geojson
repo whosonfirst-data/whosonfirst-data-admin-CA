@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27681279.004546,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.174772,45.289531,-74.174772,45.289531",
     "geom:latitude":45.289531,
     "geom:longitude":-74.174772,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-74.179772,45.284531,-74.169772,45.294531",
     "lbl:latitude":45.289531,
     "lbl:longitude":-74.174772,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.26421,
     "mps:longitude":-74.195247,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Village Coteau-du-Lac"
     ],
     "name:fra_x_preferred":[
-        "Village C\u00f4teau-du-Lac"
-    ],
-    "name:unk_x_variant":[
         "Village C\u00f4teau-du-Lac"
     ],
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -75,8 +74,7 @@
     ],
     "wof:concordances":{
         "gp:id":56022970,
-        "qs:id":385110,
-        "qs_pg:id":385110
+        "qs:id":385110
     },
     "wof:country":"CA",
     "wof:geomhash":"986dd13034866e51acbcfa9dc52c642a",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931908,
+    "wof:lastmodified":1566424963,
     "wof:name":"Village C\u00f4teau-du-Lac",
     "wof:parent_id":101736785,
     "wof:placetype":"neighbourhood",

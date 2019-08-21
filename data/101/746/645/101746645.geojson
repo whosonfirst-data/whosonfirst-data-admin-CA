@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
+    "geom:area_square_m":259060.987681,
     "geom:bbox":"-122.7018813,54.5028308,-122.6912631,54.5098794",
     "geom:latitude":54.5068,
     "geom:longitude":-122.697526,
     "iso:country":"CA",
     "lbl:latitude":54.507563,
     "lbl:longitude":-122.69789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.507563,
     "mps:longitude":-122.69789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sas Mighe 32"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746645,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566425747,
     "wof:name":"Sas Mighe 32",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

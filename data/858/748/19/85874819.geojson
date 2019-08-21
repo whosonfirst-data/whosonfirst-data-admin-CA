@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1022424.229961,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.864771,43.26147,-79.864771,43.26147",
     "geom:latitude":43.26147,
     "geom:longitude":-79.864771,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.869771,43.25647,-79.859771,43.26647",
     "lbl:latitude":43.26147,
     "lbl:longitude":-79.864771,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.26108,
     "mps:longitude":-79.860286,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0438\u0437\u043b\u0438"
     ],
-    "name:unk_x_variant":[
-        "Beasley"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5969782,
@@ -73,20 +72,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":130,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735515,
-        890456341,
-        85682057
+        890456341
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856135,
         "qs:id":381408,
-        "qs_pg:id":381408,
         "wd:id":"Q4876825"
     },
     "wof:country":"CA",
@@ -105,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871928,
+    "wof:lastmodified":1566424964,
     "wof:name":"Beasley",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

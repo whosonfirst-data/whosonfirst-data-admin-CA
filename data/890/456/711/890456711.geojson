@@ -14,12 +14,13 @@
     "geom:longitude":-112.721451,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":5494,
     "gn:population":5494,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.31882,
     "lbl:longitude":-112.720622,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.31882,
     "mps:longitude":-112.720622,
     "mz:hierarchy_label":1,
@@ -195,7 +196,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":890456711,
-    "wof:lastmodified":1563286327,
+    "wof:lastmodified":1566426104,
     "wof:name":"Stettler",
     "wof:parent_id":1158863241,
     "wof:placetype":"locality",

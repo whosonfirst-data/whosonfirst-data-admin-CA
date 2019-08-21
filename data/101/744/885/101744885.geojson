@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16124.892065,
     "geom:bbox":"-121.9897089,50.6667538,-121.9874493,50.6688468",
     "geom:latitude":50.667833,
     "geom:longitude":-121.988697,
     "iso:country":"CA",
     "lbl:latitude":50.667881,
     "lbl:longitude":-121.988721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.667881,
     "mps:longitude":-121.988721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seton Lake 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744885,
-    "wof:lastmodified":1533335900,
+    "wof:lastmodified":1566425900,
     "wof:name":"Seton Lake 5",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5046.375845,
     "geom:bbox":"-124.0287607,49.6194603,-124.0278431,49.6205",
     "geom:latitude":49.619871,
     "geom:longitude":-124.028322,
     "iso:country":"CA",
     "lbl:latitude":49.619795,
     "lbl:longitude":-124.028356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.619795,
     "mps:longitude":-124.028356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Sallahlus) No 20A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747829,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566425553,
     "wof:name":"Sechelt Band Lands (Sallahlus) No 20A",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

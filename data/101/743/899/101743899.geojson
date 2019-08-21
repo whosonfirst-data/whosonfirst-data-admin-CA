@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
+    "geom:area_square_m":145911.059048,
     "geom:bbox":"-125.733664,49.2607453,-125.7270006,49.2645293",
     "geom:latitude":49.263017,
     "geom:longitude":-125.730285,
     "iso:country":"CA",
     "lbl:latitude":49.262856,
     "lbl:longitude":-125.730223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.262856,
     "mps:longitude":-125.730223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quortsowe 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743899,
-    "wof:lastmodified":1533335885,
+    "wof:lastmodified":1566425921,
     "wof:name":"Quortsowe 13",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

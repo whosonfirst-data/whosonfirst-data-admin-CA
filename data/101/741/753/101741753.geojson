@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000758,
+    "geom:area_square_m":5536500.16054,
     "geom:bbox":"-99.3500745,53.7249996,-99.2658453,53.8245286",
     "geom:latitude":53.775022,
     "geom:longitude":-99.301351,
     "iso:country":"CA",
     "lbl:latitude":53.766812,
     "lbl:longitude":-99.30548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.766812,
     "mps:longitude":-99.30548,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Lake 31J"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741753,
-    "wof:lastmodified":1531523805,
+    "wof:lastmodified":1566425790,
     "wof:name":"Moose Lake 31J",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

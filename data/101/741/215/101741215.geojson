@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021976,
+    "geom:area_square_m":170580225.711567,
     "geom:bbox":"-80.7642935,51.0737347,-80.4867512,51.1608377",
     "geom:latitude":51.115578,
     "geom:longitude":-80.614001,
     "iso:country":"CA",
     "lbl:latitude":51.117372,
     "lbl:longitude":-80.613985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.117372,
     "mps:longitude":-80.613985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Factory Indian Reserve No. 68"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101741215,
-    "wof:lastmodified":1533335660,
+    "wof:lastmodified":1566425819,
     "wof:name":"Moose Factory Indian Reserve No. 68",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

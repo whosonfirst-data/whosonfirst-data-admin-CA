@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.009225,
     "lbl:longitude":-123.976597,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.009225,
     "mps:longitude":-123.976597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u062f\u0631\u0647\u0648\u0641"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.0143,
     "wd:longitude":-124.009,
@@ -89,7 +92,6 @@
         "gn:id":6173361,
         "gp:id":9533,
         "qs:id":160431,
-        "qs_pg:id":160431,
         "wd:id":"Q908439",
         "wk:page":"Vanderhoof, British Columbia"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101740799,
-    "wof:lastmodified":1563284764,
+    "wof:lastmodified":1566425484,
     "wof:name":"Vanderhoof",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

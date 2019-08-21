@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000776,
-    "geom:area_square_m":6272235.465434,
+    "geom:area_square_m":6272235.46543,
     "geom:bbox":"-122.9211052,49.1910232336,-122.729911985,49.2258046",
     "geom:latitude":49.212482,
     "geom:longitude":-122.850738,
     "iso:country":"CA",
     "lbl:latitude":49.218212,
     "lbl:longitude":-122.867777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.218212,
     "mps:longitude":-122.867777,
     "mz:hierarchy_label":1,
@@ -24,11 +25,11 @@
     "reversegeo:longitude":-122.867777,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108952743,
         85633041,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1108952761,
-    "wof:lastmodified":1531521027,
+    "wof:lastmodified":1566425221,
     "wof:name":"Lower Fraser",
     "wof:parent_id":1108952743,
     "wof:placetype":"neighbourhood",

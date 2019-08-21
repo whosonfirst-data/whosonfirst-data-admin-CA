@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1161194.693629,
+    "geom:area_square_m":1161194.693627,
     "geom:bbox":"-123.004179286,49.2576182062,-122.982812644,49.2664110502",
     "geom:latitude":49.261526,
     "geom:longitude":-122.994743,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.261805,
     "lbl:longitude":-122.994946,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.26422,
     "mps:longitude":-122.986394,
     "mz:hierarchy_label":0,
@@ -34,9 +35,6 @@
     ],
     "name:eng_x_variant":[
         "Dawson - Delta"
-    ],
-    "name:unk_x_variant":[
-        "Dawson-Delta"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -69,7 +67,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108915097,
@@ -81,8 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998708,
-        "qs:id":230989,
-        "qs_pg:id":230989
+        "qs:id":230989
     },
     "wof:country":"CA",
     "wof:geomhash":"74436421d2065c3e66aaf88be2e1dec7",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566424954,
     "wof:name":"Dawson-Delta",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

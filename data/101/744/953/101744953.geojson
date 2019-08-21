@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
+    "geom:area_square_m":726772.427223,
     "geom:bbox":"-122.1229757,51.8377701,-122.1054361,51.8432343",
     "geom:latitude":51.840499,
     "geom:longitude":-122.114206,
     "iso:country":"CA",
     "lbl:latitude":51.840499,
     "lbl:longitude":-122.114206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.840499,
     "mps:longitude":-122.114206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swan Lake 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744953,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566425889,
     "wof:name":"Swan Lake 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

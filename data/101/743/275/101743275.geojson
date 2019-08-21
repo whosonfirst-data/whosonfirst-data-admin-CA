@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
+    "geom:area_square_m":791192.558672,
     "geom:bbox":"-126.6616111,55.3374349,-126.6426627,55.3450142",
     "geom:latitude":55.341024,
     "geom:longitude":-126.653537,
     "iso:country":"CA",
     "lbl:latitude":55.341254,
     "lbl:longitude":-126.653538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.341254,
     "mps:longitude":-126.653538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00fcrz\u0259"
     ],
@@ -40,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101743275,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566425910,
     "wof:name":"No-Cut 5",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

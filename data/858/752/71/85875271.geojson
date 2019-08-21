@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11162201.368485,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.722001,44.341611,-79.722001,44.341611",
     "geom:latitude":44.341611,
     "geom:longitude":-79.722001,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.727001,44.336611,-79.717001,44.346611",
     "lbl:latitude":44.341611,
     "lbl:longitude":-79.722001,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.336604,
     "mps:longitude":-79.733497,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Ardaugh Bluffs"
-    ],
-    "name:unk_x_variant":[
         "Ardaugh Bluffs"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856422,
-        "qs:id":230691,
-        "qs_pg:id":230691
+        "qs:id":230691
     },
     "wof:country":"CA",
     "wof:geomhash":"67ec914a302c7c2d9d2fdd24ae53f4db",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872060,
+    "wof:lastmodified":1566424927,
     "wof:name":"Ardaugh Bluffs",
     "wof:parent_id":101735527,
     "wof:placetype":"neighbourhood",

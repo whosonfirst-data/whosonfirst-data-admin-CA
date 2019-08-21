@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.268086,
     "lbl:longitude":-67.237153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.268086,
     "mps:longitude":-67.237153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Sainte-Florence"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101737421,
-    "wof:lastmodified":1563284252,
+    "wof:lastmodified":1566425403,
     "wof:name":"Sainte-Florence",
     "wof:parent_id":890457571,
     "wof:placetype":"locality",

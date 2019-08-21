@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":21454.376409,
     "geom:bbox":"-129.6676774,53.9323658,-129.6658271,53.9341823",
     "geom:latitude":53.933304,
     "geom:longitude":-129.66666,
     "iso:country":"CA",
     "lbl:latitude":53.933311,
     "lbl:longitude":-129.666659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.933311,
     "mps:longitude":-129.666659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knokmolks 67"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743581,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425913,
     "wof:name":"Knokmolks 67",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
+    "geom:area_square_m":645243.079418,
     "geom:bbox":"-124.2299276,53.8752797,-124.2176793,53.8825194",
     "geom:latitude":53.878899,
     "geom:longitude":-124.223804,
     "iso:country":"CA",
     "lbl:latitude":53.878899,
     "lbl:longitude":-124.223804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.878899,
     "mps:longitude":-124.223804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corkscrew Creek 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744535,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566425890,
     "wof:name":"Corkscrew Creek 10",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
+    "geom:area_square_m":120769.972662,
     "geom:bbox":"-121.9349263,49.1814171,-121.9275391,49.1859084",
     "geom:latitude":49.183667,
     "geom:longitude":-121.931231,
     "iso:country":"CA",
     "lbl:latitude":49.183738,
     "lbl:longitude":-121.931228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.183738,
     "mps:longitude":-121.931228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skwahla 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101744761,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566425899,
     "wof:name":"Skwahla 2",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

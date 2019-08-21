@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":21922.434618,
     "geom:bbox":"-130.0643452,53.6216338,-130.061466,53.6237304",
     "geom:latitude":53.622653,
     "geom:longitude":-130.06269,
     "iso:country":"CA",
     "lbl:latitude":53.623046,
     "lbl:longitude":-130.062094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.623046,
     "mps:longitude":-130.062094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pitt Island 27"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743501,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566425914,
     "wof:name":"Pitt Island 27",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

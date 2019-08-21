@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2129656.751465,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.328138,49.057139,-122.328138,49.057139",
     "geom:latitude":49.057139,
     "geom:longitude":-122.328138,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.333138,49.052139,-122.323138,49.062139",
     "lbl:latitude":49.057139,
     "lbl:longitude":-122.328138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.05738,
     "mps:longitude":-122.32829,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Dahlstrom High Density"
-    ],
-    "name:unk_x_variant":[
         "Dahlstrom High Density"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,20 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856464,
-        "qs:id":899257,
-        "qs_pg:id":899257
+        "qs:id":899257
     },
     "wof:country":"CA",
     "wof:geomhash":"f9602053fae03f0730a9f306d8d7da6e",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872083,
+    "wof:lastmodified":1566424935,
     "wof:name":"Dahlstrom High Density",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

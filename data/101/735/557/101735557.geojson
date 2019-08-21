@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.235579,
     "lbl:longitude":-81.7534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.235579,
     "mps:longitude":-81.7534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Espanola"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1378,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
         "gn:id":5949493,
         "gp:id":4379,
         "qs:id":1053475,
-        "qs_pg:id":1053475,
         "wd:id":"Q3058383",
         "wk:page":"Espanola, Ontario"
     },
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101735557,
-    "wof:lastmodified":1563285312,
+    "wof:lastmodified":1566425850,
     "wof:name":"Espanola",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",

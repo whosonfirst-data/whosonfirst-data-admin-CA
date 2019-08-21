@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003423,
+    "geom:area_square_m":27055953.365433,
     "geom:bbox":"-101.2064451,50.2403455,-101.1303517,50.2998915",
     "geom:latitude":50.272374,
     "geom:longitude":-101.161738,
     "iso:country":"CA",
     "lbl:latitude":50.278815,
     "lbl:longitude":-101.155541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.278815,
     "mps:longitude":-101.155541,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birdtail Creek 57"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741731,
-    "wof:lastmodified":1531526340,
+    "wof:lastmodified":1566425791,
     "wof:name":"Birdtail Creek 57",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

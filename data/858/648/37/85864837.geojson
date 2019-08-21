@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000411,
-    "geom:area_square_m":3188787.996415,
+    "geom:area_square_m":3188787.996416,
     "geom:bbox":"-114.106293,51.125057,-114.047813,51.138231",
     "geom:latitude":51.129626,
     "geom:longitude":-114.079216,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.129665,
     "lbl:longitude":-114.07949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.129383,
     "mps:longitude":-114.081777,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1120.0,
     "wd:latitude":51.1275,
     "wd:longitude":-114.077,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":23404055,
         "qs:id":1062867,
-        "qs_pg:id":1062867,
         "wd:id":"Q4879022"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270456,
+    "wof:lastmodified":1566424988,
     "wof:name":"Beddington Heights",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

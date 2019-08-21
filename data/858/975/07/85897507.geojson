@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2233419.856001,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.472676,45.471706,-73.472676,45.471706",
     "geom:latitude":45.471706,
     "geom:longitude":-73.472676,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.477676,45.466706,-73.467676,45.476706",
     "lbl:latitude":45.471706,
     "lbl:longitude":-73.472676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.469028,
     "mps:longitude":-73.476434,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Mail Champlain"
     ],
     "name:fra_x_preferred":[
-        "Mail Champlain"
-    ],
-    "name:unk_x_variant":[
         "Mail Champlain"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,8 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022837,
-        "qs:id":231038,
-        "qs_pg:id":231038
+        "qs:id":231038
     },
     "wof:country":"CA",
     "wof:geomhash":"cdb7f8e96958d17feae6353f01e4d4a3",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931890,
+    "wof:lastmodified":1566425002,
     "wof:name":"Mail Champlain",
     "wof:parent_id":101736555,
     "wof:placetype":"neighbourhood",

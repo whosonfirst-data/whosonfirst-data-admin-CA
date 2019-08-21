@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008202,
+    "geom:area_square_m":64449192.811811,
     "geom:bbox":"-98.7066938,50.5062008,-98.5939136,50.594839",
     "geom:latitude":50.545907,
     "geom:longitude":-98.658315,
     "iso:country":"CA",
     "lbl:latitude":50.545432,
     "lbl:longitude":-98.663053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.545432,
     "mps:longitude":-98.663053,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sandy Bay 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741729,
-    "wof:lastmodified":1531523825,
+    "wof:lastmodified":1566425833,
     "wof:name":"Sandy Bay 5",
     "wof:parent_id":1158868933,
     "wof:placetype":"locality",

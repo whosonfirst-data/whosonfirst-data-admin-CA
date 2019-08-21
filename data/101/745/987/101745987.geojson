@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00057,
+    "geom:area_square_m":3972003.475434,
     "geom:bbox":"-98.2091154,55.692295,-98.1369366,55.7092411",
     "geom:latitude":55.700524,
     "geom:longitude":-98.169964,
     "iso:country":"CA",
     "lbl:latitude":55.703178,
     "lbl:longitude":-98.157935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.703178,
     "mps:longitude":-98.157935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Monahawuhkan"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745987,
-    "wof:lastmodified":1533069810,
+    "wof:lastmodified":1566425982,
     "wof:name":"Monahawuhkan",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

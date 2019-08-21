@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":60.018836,
     "lbl:longitude":-111.967266,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.018836,
     "mps:longitude":-111.967266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0635\u0646 \u0633\u0645\u064a\u062b\u060c \u0627\u0644\u0623\u0642\u0627\u0644\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Fort Smith"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thebacha"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":205.0,
     "wd:latitude":60.0053,
@@ -112,7 +115,6 @@
         "gn:id":5955954,
         "gp:id":4297,
         "qs:id":962251,
-        "qs_pg:id":962251,
         "wd:id":"Q686415",
         "wk:page":"Fort Smith, Northwest Territories"
     },
@@ -131,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285354,
+    "wof:lastmodified":1566425856,
     "wof:name":"Fort Smith",
     "wof:parent_id":1158869055,
     "wof:placetype":"locality",

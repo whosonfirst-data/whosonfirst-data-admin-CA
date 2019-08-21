@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006447,
+    "geom:area_square_m":50094496.833797,
     "geom:bbox":"-90.3168298,51.0322467,-90.2216292,51.1262865",
     "geom:latitude":51.069688,
     "geom:longitude":-90.263347,
     "iso:country":"CA",
     "lbl:latitude":51.055809,
     "lbl:longitude":-90.246966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.055809,
     "mps:longitude":-90.246966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osnaburgh Indian Reserve No. 63A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741213,
-    "wof:lastmodified":1533335660,
+    "wof:lastmodified":1566425823,
     "wof:name":"Osnaburgh Indian Reserve No. 63A",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

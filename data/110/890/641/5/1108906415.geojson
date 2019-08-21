@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":2589310.172121,
+    "geom:area_square_m":2589310.172123,
     "geom:bbox":"-79.364136074,43.76648547,-79.319794152,43.776221883",
     "geom:latitude":43.771144,
     "geom:longitude":-79.34124,
     "iso:country":"CA",
     "lbl:latitude":43.771835,
     "lbl:longitude":-79.341241,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.771835,
     "mps:longitude":-79.341241,
     "mz:hierarchy_label":1,
@@ -29,12 +30,12 @@
     "torsdfa:AREA_NAME":"Henry Farm (53)",
     "torsdfa:AREA_S_CD":"053",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1108906415,
-    "wof:lastmodified":1533272669,
+    "wof:lastmodified":1566425261,
     "wof:name":"Henry Farm",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

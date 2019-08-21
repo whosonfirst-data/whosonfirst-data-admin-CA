@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000516,
-    "geom:area_square_m":4363615.374491,
+    "geom:area_square_m":4363615.374492,
     "geom:bbox":"-71.2374028838,46.8239852197,-71.1957129432,46.8506460348",
     "geom:latitude":46.837045,
     "geom:longitude":-71.218699,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.84148,
     "lbl:longitude":-71.22169,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.839528,
     "mps:longitude":-71.209045,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":272,
     "wof:belongsto":[
         102191575,
@@ -61,7 +62,6 @@
     "wof:concordances":{
         "gp:id":23396759,
         "qs:id":1080123,
-        "qs_pg:id":1080123,
         "wd:id":"Q3034489"
     },
     "wof:country":"CA",
@@ -82,7 +82,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533335727,
+    "wof:lastmodified":1566424942,
     "wof:name":"Maizerets",
     "wof:parent_id":1126128601,
     "wof:placetype":"neighbourhood",

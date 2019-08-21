@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1773738.212019,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.849144,43.219492,-79.849144,43.219492",
     "geom:latitude":43.219492,
     "geom:longitude":-79.849144,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.854144,43.214492,-79.844144,43.224492",
     "lbl:latitude":43.219492,
     "lbl:longitude":-79.849144,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.215615,
     "mps:longitude":-79.843959,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Lawfield"
-    ],
-    "name:unk_x_variant":[
         "Lawfield"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856202,
-        "qs:id":486018,
-        "qs_pg:id":486018
+        "qs:id":486018
     },
     "wof:country":"CA",
     "wof:geomhash":"0b56896dd8bceb4892e4f23026ce070d",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871951,
+    "wof:lastmodified":1566424964,
     "wof:name":"Lawfield",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

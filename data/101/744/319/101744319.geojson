@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":381696.847057,
     "geom:bbox":"-121.6400757,50.2927829,-121.6318149,50.2994758",
     "geom:latitude":50.296323,
     "geom:longitude":-121.635667,
     "iso:country":"CA",
     "lbl:latitude":50.296379,
     "lbl:longitude":-121.635663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.296379,
     "mps:longitude":-121.635663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Halhalaeden 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744319,
-    "wof:lastmodified":1533335892,
+    "wof:lastmodified":1566425905,
     "wof:name":"Halhalaeden 14",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

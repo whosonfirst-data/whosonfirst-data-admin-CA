@@ -11,8 +11,10 @@
     "geom:longitude":-79.881955,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.886955,43.491244,-79.876955,43.501244",
     "lbl:latitude":43.496244,
     "lbl:longitude":-79.881955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.488227,
     "mps:longitude":-79.884122,
     "mz:hierarchy_label":0,
@@ -99,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u0442\u0442"
     ],
-    "name:unk_x_variant":[
-        "Scott"
-    ],
     "name:vie_x_preferred":[
         "Scott"
     ],
@@ -140,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736383,
@@ -151,8 +150,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999563,
-        "qs:id":1249001,
-        "qs_pg:id":1249001
+        "qs:id":1249001
     },
     "wof:country":"CA",
     "wof:geomhash":"611875ed0dcd2382bc8cd6c6c18c7c06",
@@ -176,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170717,
+    "wof:lastmodified":1566424939,
     "wof:name":"Scott",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

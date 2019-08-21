@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.233735,
     "lbl:longitude":-72.052134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.233735,
     "mps:longitude":-72.052134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sainte-Catherine-de-Hatley"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         102191575,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101737265,
-    "wof:lastmodified":1563284291,
+    "wof:lastmodified":1566425408,
     "wof:name":"Sainte-Catherine-de-Hatley",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

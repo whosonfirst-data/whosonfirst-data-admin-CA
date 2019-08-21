@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
+    "geom:area_square_m":186771.079236,
     "geom:bbox":"-125.7884771,54.2226548,-125.7816393,54.2298808",
     "geom:latitude":54.226085,
     "geom:longitude":-125.786303,
     "iso:country":"CA",
     "lbl:latitude":54.224116,
     "lbl:longitude":-125.786924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.224116,
     "mps:longitude":-125.786924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poison Creek 17A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744449,
-    "wof:lastmodified":1533335893,
+    "wof:lastmodified":1566425891,
     "wof:name":"Poison Creek 17A",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

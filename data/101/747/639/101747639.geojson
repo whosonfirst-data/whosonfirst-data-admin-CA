@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":50.332199,
     "lbl:longitude":-64.03052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.332199,
     "mps:longitude":-64.03052,
     "mz:hierarchy_label":1,
@@ -178,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":633,
     "wof:belongsto":[
         102191575,
@@ -193,7 +195,6 @@
         "gn:id":6074639,
         "gp:id":2715,
         "qs:id":1053523,
-        "qs_pg:id":1053523,
         "wd:id":"Q500867",
         "wk:page":"Mingan, Quebec"
     },
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":101747639,
-    "wof:lastmodified":1561844421,
+    "wof:lastmodified":1566425676,
     "wof:name":"Mingan",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

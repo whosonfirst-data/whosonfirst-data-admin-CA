@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000612,
-    "geom:area_square_m":4753154.654485,
+    "geom:area_square_m":4753154.654477,
     "geom:bbox":"-114.097177,51.108914,-114.045844,51.126251",
     "geom:latitude":51.118339,
     "geom:longitude":-114.067655,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.11851,
     "lbl:longitude":-114.06688,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.121624,
     "mps:longitude":-114.056054,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1100.0,
     "wd:latitude":51.1183,
     "wd:longitude":-114.07,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":26342806,
         "qs:id":899104,
-        "qs_pg:id":899104,
         "wd:id":"Q14874816"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270060,
+    "wof:lastmodified":1566424946,
     "wof:name":"Huntington Hills",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

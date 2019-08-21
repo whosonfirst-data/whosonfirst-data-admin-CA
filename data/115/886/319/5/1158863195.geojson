@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.772966,
     "lbl:longitude":-114.608896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.772966,
     "mps:longitude":-114.608896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lac Sainte-Anne"
     ],
@@ -40,7 +43,7 @@
     "reversegeo:longitude":-114.608896,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1944-01-01",
     "wd:population":10899,
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1158863195,
-    "wof:lastmodified":1564173852,
+    "wof:lastmodified":1566426331,
     "wof:name":"Lac Ste. Anne",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

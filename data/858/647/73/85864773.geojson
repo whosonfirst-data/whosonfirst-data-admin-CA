@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1455292.781422,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.615281,52.09277,-106.615281,52.09277",
     "geom:latitude":52.09277,
     "geom:longitude":-106.615281,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.620281,52.08777,-106.610281,52.09777",
     "lbl:latitude":52.09277,
     "lbl:longitude":-106.615281,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.088029,
     "mps:longitude":-106.618738,
     "mz:hierarchy_label":0,
@@ -39,21 +41,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115069,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403320,
         "qs:id":14853,
-        "qs_pg:id":14853,
         "wd:id":"Q5330965"
     },
     "wof:country":"CA",
@@ -73,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870963,
+    "wof:lastmodified":1566424984,
     "wof:name":"Eastview",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

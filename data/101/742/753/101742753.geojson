@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
+    "geom:area_square_m":375667.46402,
     "geom:bbox":"-105.4632646,55.0407691,-105.4475179,55.0461755",
     "geom:latitude":55.044412,
     "geom:longitude":-105.455973,
     "iso:country":"CA",
     "lbl:latitude":55.044562,
     "lbl:longitude":-105.455975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.044562,
     "mps:longitude":-105.455975,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Hills I.R. 158A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742753,
-    "wof:lastmodified":1531525148,
+    "wof:lastmodified":1566425925,
     "wof:name":"Little Hills I.R. 158A",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

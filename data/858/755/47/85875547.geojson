@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":25491193.32312,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.30707,44.346041,-78.30707,44.346041",
     "geom:latitude":44.346041,
     "geom:longitude":-78.30707,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-78.31207,44.341041,-78.30207,44.351041",
     "lbl:latitude":44.346041,
     "lbl:longitude":-78.30707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.333351,
     "mps:longitude":-78.327338,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Northcrest"
-    ],
-    "name:unk_x_variant":[
         "Northcrest"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856661,
-        "qs:id":1246212,
-        "qs_pg:id":1246212
+        "qs:id":1246212
     },
     "wof:country":"CA",
     "wof:geomhash":"8177864f15e289a8422cb9268fb788b6",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872152,
+    "wof:lastmodified":1566424928,
     "wof:name":"Northcrest",
     "wof:parent_id":101735747,
     "wof:placetype":"neighbourhood",

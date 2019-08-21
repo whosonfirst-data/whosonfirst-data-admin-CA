@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":183152.093797,
     "geom:bbox":"-132.663621,54.1432064,-132.6501298,54.1468928",
     "geom:latitude":54.144778,
     "geom:longitude":-132.659533,
     "iso:country":"CA",
     "lbl:latitude":54.145055,
     "lbl:longitude":-132.660099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.145055,
     "mps:longitude":-132.660099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yatze 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742805,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425931,
     "wof:name":"Yatze 13",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

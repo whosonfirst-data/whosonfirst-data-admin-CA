@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185676,
+    "geom:area_square_m":1451221587.861232,
     "geom:bbox":"-109.3530626,50.5720464,-108.9134261,51.0297242",
     "geom:latitude":50.795642,
     "geom:longitude":-109.124505,
     "iso:country":"CA",
     "lbl:latitude":50.760544,
     "lbl:longitude":-109.102946,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.760544,
     "mps:longitude":-109.102946,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clinworth No. 230"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740181,
-    "wof:lastmodified":1531525218,
+    "wof:lastmodified":1566425501,
     "wof:name":"Clinworth No. 230",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

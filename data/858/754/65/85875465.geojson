@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1534558.819911,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.807045,46.101954,-64.807045,46.101954",
     "geom:latitude":46.101954,
     "geom:longitude":-64.807045,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.812045,46.096954,-64.802045,46.106954",
     "lbl:latitude":46.101954,
     "lbl:longitude":-64.807045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.098117,
     "mps:longitude":-64.808267,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Great West Lots"
-    ],
-    "name:unk_x_variant":[
         "Great West Lots"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856555,
-        "qs:id":986474,
-        "qs_pg:id":986474
+        "qs:id":986474
     },
     "wof:country":"CA",
     "wof:geomhash":"393844a2afbc1533c454d685c8223320",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872125,
+    "wof:lastmodified":1566424933,
     "wof:name":"Great West Lots",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

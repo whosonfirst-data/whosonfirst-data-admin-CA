@@ -14,15 +14,18 @@
     "geom:longitude":-110.781243,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.07336,
     "lbl:longitude":-110.781246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.07336,
     "mps:longitude":-110.781246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Redcliff"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890458669,
-    "wof:lastmodified":1563285982,
+    "wof:lastmodified":1566426013,
     "wof:name":"Redcliff",
     "wof:parent_id":1158863277,
     "wof:placetype":"locality",

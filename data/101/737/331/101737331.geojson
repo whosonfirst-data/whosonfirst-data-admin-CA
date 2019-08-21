@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.047414,
     "lbl:longitude":-73.902363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.047414,
     "mps:longitude":-73.902363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0643\u0644\u064a\u0646"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":424,
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "gn:id":5957404,
         "gp:id":23394369,
         "qs:id":1182702,
-        "qs_pg:id":1182702,
         "wd:id":"Q3082928",
         "wk:page":"Franklin, Quebec"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101737331,
-    "wof:lastmodified":1563284112,
+    "wof:lastmodified":1566425378,
     "wof:name":"Franklin",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

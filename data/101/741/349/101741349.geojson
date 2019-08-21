@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":1990.555237,
     "geom:bbox":"-69.5080918,47.9176852,-69.5071493,47.91831",
     "geom:latitude":47.917991,
     "geom:longitude":-69.507614,
     "iso:country":"CA",
     "lbl:latitude":47.917935,
     "lbl:longitude":-69.507528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.917935,
     "mps:longitude":-69.507528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cacouna Indian Reserve No. 22"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191575,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741349,
-    "wof:lastmodified":1533335667,
+    "wof:lastmodified":1566425813,
     "wof:name":"Cacouna Indian Reserve No. 22",
     "wof:parent_id":890456305,
     "wof:placetype":"locality",

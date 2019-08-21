@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.608803,
     "lbl:longitude":-76.49557,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.608803,
     "mps:longitude":-76.49557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Shawville"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":584,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
         "gn:id":6145563,
         "gp:id":1679,
         "qs:id":958622,
-        "qs_pg:id":958622,
         "wd:id":"Q3481643",
         "wk:page":"Shawville, Quebec"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101737505,
-    "wof:lastmodified":1563284117,
+    "wof:lastmodified":1566425379,
     "wof:name":"Shawville",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

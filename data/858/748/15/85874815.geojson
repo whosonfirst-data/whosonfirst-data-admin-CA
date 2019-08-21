@@ -11,8 +11,10 @@
     "geom:longitude":-79.845026,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.850026,43.252288,-79.840026,43.262288",
     "lbl:latitude":43.257288,
     "lbl:longitude":-79.845026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.259256,
     "mps:longitude":-79.843747,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:ukr_x_preferred":[
         "Gibson"
     ],
-    "name:unk_x_variant":[
-        "Gibson"
-    ],
     "name:zho_x_preferred":[
         "\u5409\u666e\u68ee\u54c1\u724c"
     ],
@@ -110,7 +109,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -121,8 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856132,
-        "qs:id":485994,
-        "qs_pg:id":485994
+        "qs:id":485994
     },
     "wof:country":"CA",
     "wof:geomhash":"35bb7904e338bcb63a66cbab230d188e",
@@ -140,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170797,
+    "wof:lastmodified":1566424965,
     "wof:name":"Gibson",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

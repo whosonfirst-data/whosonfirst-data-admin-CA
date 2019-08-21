@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
+    "geom:area_square_m":2582598.714241,
     "geom:bbox":"-130.8091329,58.054852,-130.7818166,58.0693799",
     "geom:latitude":58.062129,
     "geom:longitude":-130.79548,
     "iso:country":"CA",
     "lbl:latitude":58.062128,
     "lbl:longitude":-130.79548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.062128,
     "mps:longitude":-130.79548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tahltan 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743399,
-    "wof:lastmodified":1533335878,
+    "wof:lastmodified":1566425907,
     "wof:name":"Tahltan 10",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

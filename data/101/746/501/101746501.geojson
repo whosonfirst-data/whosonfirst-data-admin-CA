@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000382,
+    "geom:area_square_m":2705663.47843,
     "geom:bbox":"-92.7810812,55.0713353,-92.7442564,55.088494",
     "geom:latitude":55.078983,
     "geom:longitude":-92.757854,
     "iso:country":"CA",
     "lbl:latitude":55.077218,
     "lbl:longitude":-92.759092,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.077218,
     "mps:longitude":-92.759092,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Cross Lake East"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746501,
-    "wof:lastmodified":1533069692,
+    "wof:lastmodified":1566425766,
     "wof:name":"Red Cross Lake East",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

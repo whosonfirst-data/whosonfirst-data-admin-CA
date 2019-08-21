@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10527424.095211,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.752329,43.441883,-79.752329,43.441883",
     "geom:latitude":43.441883,
     "geom:longitude":-79.752329,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.757329,43.436883,-79.747329,43.446883",
     "lbl:latitude":43.441883,
     "lbl:longitude":-79.752329,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.442898,
     "mps:longitude":-79.757132,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "West Oak Trails"
-    ],
-    "name:unk_x_variant":[
         "West Oak Trails"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101740713,
@@ -67,8 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999425,
-        "qs:id":1306593,
-        "qs_pg:id":1306593
+        "qs:id":1306593
     },
     "wof:country":"CA",
     "wof:geomhash":"6ed8c320b27b61d76410729bc705a5b2",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931409,
+    "wof:lastmodified":1566424930,
     "wof:name":"West Oak Trails",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15179,
+    "geom:area_square_m":1199257072.87967,
     "geom:bbox":"-97.4605725,50.0636428,-97.1130475,50.5068975",
     "geom:latitude":50.286155,
     "geom:longitude":-97.287127,
     "iso:country":"CA",
     "lbl:latitude":50.262689,
     "lbl:longitude":-97.313573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.262689,
     "mps:longitude":-97.313573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rockwood"
     ],
@@ -72,7 +76,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531524478,
+    "wof:lastmodified":1566425843,
     "wof:name":"Rockwood",
     "wof:parent_id":1158868965,
     "wof:placetype":"locality",

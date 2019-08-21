@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.895933,
     "lbl:longitude":-97.149658,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.895866,
     "mps:longitude":-97.149992,
     "mz:hierarchy_label":1,
@@ -226,7 +227,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968511,
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":1108937399,
-    "wof:lastmodified":1564172087,
+    "wof:lastmodified":1566425225,
     "wof:name":"Central Park",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

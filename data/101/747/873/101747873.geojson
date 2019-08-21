@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":20645.397656,
     "geom:bbox":"-123.7099417,49.8218374,-123.7089112,49.8254549",
     "geom:latitude":49.823734,
     "geom:longitude":-123.709536,
     "iso:country":"CA",
     "lbl:latitude":49.824488,
     "lbl:longitude":-123.70955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.824488,
     "mps:longitude":-123.70955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Chickwat) No 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747873,
-    "wof:lastmodified":1533335927,
+    "wof:lastmodified":1566425555,
     "wof:name":"Sechelt Band Lands (Chickwat) No 9",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

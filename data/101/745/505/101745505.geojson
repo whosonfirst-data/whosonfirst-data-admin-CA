@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000474,
+    "geom:area_square_m":3715526.301819,
     "geom:bbox":"-121.969433,50.6705941,-121.940323,50.7091275",
     "geom:latitude":50.690364,
     "geom:longitude":-121.954597,
     "iso:country":"CA",
     "lbl:latitude":50.696992,
     "lbl:longitude":-121.957183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.696992,
     "mps:longitude":-121.957183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lillooet 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745505,
-    "wof:lastmodified":1533335912,
+    "wof:lastmodified":1566425947,
     "wof:name":"Lillooet 1",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

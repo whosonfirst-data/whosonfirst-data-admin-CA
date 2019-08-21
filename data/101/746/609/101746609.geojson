@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001583,
+    "geom:area_square_m":12657603.947615,
     "geom:bbox":"-87.4391498,49.6991193,-87.3243884,49.7303578",
     "geom:latitude":49.713349,
     "geom:longitude":-87.375111,
     "iso:country":"CA",
     "lbl:latitude":49.717005,
     "lbl:longitude":-87.341177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.717005,
     "mps:longitude":-87.341177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Nipigon Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746609,
-    "wof:lastmodified":1533335675,
+    "wof:lastmodified":1566425778,
     "wof:name":"Lake Nipigon Reserve",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

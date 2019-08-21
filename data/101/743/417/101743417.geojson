@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
+    "geom:area_square_m":262679.224109,
     "geom:bbox":"-131.6201176,52.7604115,-131.6135441,52.7686728",
     "geom:latitude":52.763726,
     "geom:longitude":-131.6174,
     "iso:country":"CA",
     "lbl:latitude":52.763274,
     "lbl:longitude":-131.617466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.763274,
     "mps:longitude":-131.617466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanoo 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743417,
-    "wof:lastmodified":1533335878,
+    "wof:lastmodified":1566425917,
     "wof:name":"Tanoo 9",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

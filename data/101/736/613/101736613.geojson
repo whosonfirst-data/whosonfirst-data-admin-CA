@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.912629,
     "lbl:longitude":-72.453632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.912629,
     "mps:longitude":-72.453632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u0627\u0648 \u0633\u0627\u0628\u0644"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1828,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "gn:id":5999042,
         "gp:id":3442,
         "qs:id":529824,
-        "qs_pg:id":529824,
         "wd:id":"Q3214670"
     },
     "wof:country":"CA",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101736613,
-    "wof:lastmodified":1563284490,
+    "wof:lastmodified":1566425441,
     "wof:name":"Lac-aux-Sables",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

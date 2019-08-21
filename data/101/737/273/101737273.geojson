@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.085441,
     "lbl:longitude":-73.231068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.085441,
     "mps:longitude":-73.231068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Genevi\u00e8ve-de-Berthier"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         102191575,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101737273,
-    "wof:lastmodified":1563284137,
+    "wof:lastmodified":1566425381,
     "wof:name":"Sainte-Genevi\u00e8ve-de-Berthier",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

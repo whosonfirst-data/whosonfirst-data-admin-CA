@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.278884,
     "lbl:longitude":-66.737661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.278884,
     "mps:longitude":-66.737661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0646\u0644\u064a"
     ],
@@ -149,7 +152,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101735233,
-    "wof:lastmodified":1563285382,
+    "wof:lastmodified":1566425861,
     "wof:name":"Stanley",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

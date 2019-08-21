@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.677439,
     "lbl:longitude":-76.400873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.677439,
     "mps:longitude":-76.400873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0633\u062a\u0628\u0648\u0631\u062a"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":44.683333,
     "wd:longitude":-76.399167,
     "wd:wordcount":954,
@@ -102,7 +105,6 @@
         "gn:id":6179363,
         "gp:id":4136,
         "qs:id":961934,
-        "qs_pg:id":961934,
         "wd:id":"Q34184",
         "wk:page":"Westport, Ontario"
     },
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101736201,
-    "wof:lastmodified":1563284529,
+    "wof:lastmodified":1566425447,
     "wof:name":"Westport",
     "wof:parent_id":890457573,
     "wof:placetype":"locality",

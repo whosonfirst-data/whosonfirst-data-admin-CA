@@ -10,8 +10,10 @@
     "geom:latitude":43.637899,
     "geom:longitude":-79.977839,
     "iso:country":"CA",
+    "lbl:bbox":"-79.982839,43.632899,-79.972839,43.642899",
     "lbl:latitude":43.637899,
     "lbl:longitude":-79.977839,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.634839,
     "mps:longitude":-79.975649,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:tur_x_preferred":[
         "Limehouse"
     ],
-    "name:unk_x_variant":[
-        "Limehouse"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0626\u0645 \u06c1\u0627\u0624\u0633"
     ],
@@ -96,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":3033,
     "wof:belongsto":[
         102191575,
@@ -128,7 +127,7 @@
         }
     ],
     "wof:id":85895187,
-    "wof:lastmodified":1564170846,
+    "wof:lastmodified":1566424978,
     "wof:name":"Limehouse",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

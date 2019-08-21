@@ -10,8 +10,10 @@
     "geom:latitude":43.739578,
     "geom:longitude":-79.24375,
     "iso:country":"CA",
+    "lbl:bbox":"-79.24875,43.734578,-79.23875,43.744578",
     "lbl:latitude":43.739578,
     "lbl:longitude":-79.24375,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.73836,
     "mps:longitude":-79.235379,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Eglinton East (138)",
     "torsdfa:AREA_S_CD":"138",
     "wd:latitude":43.74,
@@ -53,7 +55,6 @@
         "gn:id":7871311,
         "gp:id":55999600,
         "qs:id":1205724,
-        "qs_pg:id":1205724,
         "wd:id":"Q5348073",
         "wk:page":"Eglinton East"
     },
@@ -75,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282081,
+    "wof:lastmodified":1566424975,
     "wof:name":"Eglington East",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

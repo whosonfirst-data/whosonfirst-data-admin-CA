@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.443663,
     "lbl:longitude":-123.378626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.452446,
     "mps:longitude":-123.397947,
     "mz:hierarchy_label":1,
@@ -75,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u043d\u0441\u0430\u0439\u0434"
     ],
-    "name:unk_x_variant":[
-        "Burnside"
-    ],
     "name:vol_x_preferred":[
         "Burnside"
     ],
@@ -107,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -118,8 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856323,
-        "qs:id":1290812,
-        "qs_pg:id":1290812
+        "qs:id":1290812
     },
     "wof:country":"CA",
     "wof:geomhash":"225af233c902b2a786c6203d2525df0b",
@@ -137,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170834,
+    "wof:lastmodified":1566424974,
     "wof:name":"Burnside",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

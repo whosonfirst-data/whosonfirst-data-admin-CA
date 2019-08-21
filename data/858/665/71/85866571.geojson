@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2000791.798233,
+    "geom:area_square_m":2000791.79823,
     "geom:bbox":"-97.002647,49.893398,-96.978806,49.908266",
     "geom:latitude":49.902268,
     "geom:longitude":-96.989158,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.903298,
     "lbl:longitude":-96.988626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.907017,
     "mps:longitude":-97.002487,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "name:eng_x_preferred":[
         "Kildare-Redonda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kildare Redonda"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,20 +63,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968467,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332836,
-        "qs:id":239111,
-        "qs_pg:id":239111
+        "qs:id":239111
     },
     "wof:country":"CA",
     "wof:geomhash":"290fdaf28da33c18bc882811f93478b6",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1566424992,
     "wof:name":"Kildare-Redonda",
     "wof:parent_id":1108968467,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.787406,
     "lbl:longitude":-88.650385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.787406,
     "mps:longitude":-88.650385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0440\u0438\u043e\u043d"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":230,
     "wof:belongsto":[
         102191575,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101735789,
-    "wof:lastmodified":1563285514,
+    "wof:lastmodified":1566425886,
     "wof:name":"Dorion",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":43.824553,
     "geom:longitude":-79.423947,
     "iso:country":"CA",
+    "lbl:bbox":"-79.428947,43.819553,-79.418947,43.829553",
     "lbl:latitude":43.824553,
     "lbl:longitude":-79.423947,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.825743,
     "mps:longitude":-79.424421,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u043d\u0445\u0438\u043b\u043b"
     ],
-    "name:unk_x_variant":[
-        "Thornhill"
-    ],
     "name:zho_x_preferred":[
         "\u6e6f\u5c71"
     ],
@@ -86,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736035,
@@ -99,7 +98,6 @@
         "gn:id":6165683,
         "gp:id":55999402,
         "qs:id":1152527,
-        "qs_pg:id":1152527,
         "wd:id":"Q3525848",
         "wk:page":"Thornhill, Ontario"
     },
@@ -125,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281817,
+    "wof:lastmodified":1566424929,
     "wof:name":"Thornhill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

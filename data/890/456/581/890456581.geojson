@@ -14,16 +14,18 @@
     "geom:longitude":-113.783754,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":3198,
     "gn:population":3198,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.379636,
     "lbl:longitude":-113.78664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.379636,
     "mps:longitude":-113.78664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blackfalds"
     ],
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":880.0,
     "wd:latitude":"52.3833",
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":890456581,
-    "wof:lastmodified":1563286219,
+    "wof:lastmodified":1566426073,
     "wof:name":"Blackfalds",
     "wof:parent_id":1158863197,
     "wof:placetype":"locality",

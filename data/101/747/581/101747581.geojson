@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
+    "geom:area_square_m":1708478.915751,
     "geom:bbox":"-64.2521467,45.034823,-64.2240535,45.0496667",
     "geom:latitude":45.041616,
     "geom:longitude":-64.238289,
     "iso:country":"CA",
     "lbl:latitude":45.043385,
     "lbl:longitude":-64.236342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.043385,
     "mps:longitude":-64.236342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glooscap Indian Reserve No. 35"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747581,
-    "wof:lastmodified":1532596894,
+    "wof:lastmodified":1566425599,
     "wof:name":"Glooscap Indian Reserve No. 35",
     "wof:parent_id":890457745,
     "wof:placetype":"locality",

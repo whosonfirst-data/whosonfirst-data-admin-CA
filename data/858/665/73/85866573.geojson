@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":682922.821004,
+    "geom:area_square_m":682922.821002,
     "geom:bbox":"-97.195112,49.926893,-97.181324,49.938552",
     "geom:latitude":49.933201,
     "geom:longitude":-97.189489,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.933293,
     "lbl:longitude":-97.189773,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.936543,
     "mps:longitude":-97.187819,
     "mz:hierarchy_label":1,
@@ -35,20 +36,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968501,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332839,
-        "qs:id":1087879,
-        "qs_pg:id":1087879
+        "qs:id":1087879
     },
     "wof:country":"CA",
     "wof:geomhash":"7f1d095254e9f06340c62d55bd90393d",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1566424991,
     "wof:name":"Burrows-Keewatin",
     "wof:parent_id":1108968501,
     "wof:placetype":"neighbourhood",

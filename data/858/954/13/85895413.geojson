@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000803,
-    "geom:area_square_m":7180427.151716,
+    "geom:area_square_m":7180427.151725,
     "geom:bbox":"-79.254275364,43.700341564,-79.213857854,43.741475787",
     "geom:latitude":43.721122,
     "geom:longitude":-79.235529,
     "iso:country":"CA",
     "lbl:latitude":43.722604,
     "lbl:longitude":-79.235844,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.715299,
     "mps:longitude":-79.240748,
     "mz:hierarchy_label":1,
@@ -31,26 +32,25 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Cliffcrest (123)",
     "torsdfa:AREA_S_CD":"123",
     "wd:latitude":43.722,
     "wd:longitude":-79.231,
     "wd:wordcount":152,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5923921,
         "gp:id":55999399,
         "qs:id":1101955,
-        "qs_pg:id":1101955,
         "wd:id":"Q5132820",
         "wk:page":"Cliffcrest"
     },
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272680,
+    "wof:lastmodified":1566424930,
     "wof:name":"Cliffcrest",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1233478.085361,
+    "geom:area_square_m":1233478.085359,
     "geom:bbox":"-122.988974178,49.228782064,-122.968868906,49.2386333237",
     "geom:latitude":49.234114,
     "geom:longitude":-122.980295,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.233839,
     "lbl:longitude":-122.977276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.231947,
     "mps:longitude":-122.976769,
     "mz:hierarchy_label":0,
@@ -33,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "OaklandsL"
-    ],
-    "name:unk_x_variant":[
-        "Oaklands"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -67,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108915103,
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566424954,
     "wof:name":"Oakalla",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
+    "geom:area_square_m":1289886.538686,
     "geom:bbox":"-125.643865,53.0400997,-125.6198432,53.0473619",
     "geom:latitude":53.043731,
     "geom:longitude":-125.631855,
     "iso:country":"CA",
     "lbl:latitude":53.043731,
     "lbl:longitude":-125.631855,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.043731,
     "mps:longitude":-125.631855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ulkatcho 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745997,
-    "wof:lastmodified":1533335918,
+    "wof:lastmodified":1566425949,
     "wof:name":"Ulkatcho 6",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

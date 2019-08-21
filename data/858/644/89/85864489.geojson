@@ -11,8 +11,10 @@
     "geom:longitude":-79.819097,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.824097,43.195348,-79.814097,43.205348",
     "lbl:latitude":43.200348,
     "lbl:longitude":-79.819097,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.196275,
     "mps:longitude":-79.825922,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:tgk_x_preferred":[
         "\u0428\u0430\u0440\u0448\u0430\u0440\u0438 \u0410\u043b\u0431\u0438\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Albion Falls"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0628\u06cc\u0648\u0646 \u0622\u0628\u0634\u0627\u0631"
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":524,
     "wof:belongsto":[
         85682057,
@@ -84,7 +83,6 @@
     "wof:concordances":{
         "gp:id":23399425,
         "qs:id":1087660,
-        "qs_pg:id":1087660,
         "wd:id":"Q37889"
     },
     "wof:country":"CA",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281891,
+    "wof:lastmodified":1566424942,
     "wof:name":"Albion Falls",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

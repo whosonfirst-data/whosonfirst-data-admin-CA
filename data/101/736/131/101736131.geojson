@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.904794,
     "lbl:longitude":-77.673513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.904794,
     "mps:longitude":-77.673513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Limerick"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":10.0,
     "wd:latitude":52.666667,
     "wd:longitude":-8.633333,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101736131,
-    "wof:lastmodified":1563284471,
+    "wof:lastmodified":1566425439,
     "wof:name":"Limerick",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",

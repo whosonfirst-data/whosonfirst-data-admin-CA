@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":54.834477,
     "lbl:longitude":-66.820298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.834477,
     "mps:longitude":-66.820298,
     "mz:hierarchy_label":1,
@@ -202,7 +204,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.8,
     "wd:longitude":-66.833333,
     "wd:wordcount":1047,
@@ -217,7 +219,6 @@
         "gn:id":6142001,
         "gp:id":2688,
         "qs:id":959152,
-        "qs_pg:id":959152,
         "wd:id":"Q141693",
         "wk:page":"Schefferville"
     },
@@ -233,7 +234,7 @@
         }
     ],
     "wof:id":101738667,
-    "wof:lastmodified":1563284623,
+    "wof:lastmodified":1566425462,
     "wof:name":"Schefferville",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
+    "geom:area_square_m":995223.19161,
     "geom:bbox":"-122.524048,50.0029604,-122.5041659,50.014059",
     "geom:latitude":50.007752,
     "geom:longitude":-122.515757,
     "iso:country":"CA",
     "lbl:latitude":50.006045,
     "lbl:longitude":-122.520989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.006045,
     "mps:longitude":-122.520989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samahquam 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745465,
-    "wof:lastmodified":1533335911,
+    "wof:lastmodified":1566425966,
     "wof:name":"Samahquam 1",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

@@ -14,12 +14,13 @@
     "geom:longitude":-110.70184,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":63138,
     "gn:population":63138,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.041089,
     "lbl:longitude":-110.700063,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.041089,
     "mps:longitude":-110.700063,
     "mz:hierarchy_label":1,
@@ -312,7 +313,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5336,
     "wof:belongsto":[
@@ -342,7 +343,7 @@
         }
     ],
     "wof:id":890456255,
-    "wof:lastmodified":1563286303,
+    "wof:lastmodified":1566426102,
     "wof:name":"Medicine Hat",
     "wof:parent_id":1158863277,
     "wof:placetype":"locality",

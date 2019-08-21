@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":11010.539339,
     "geom:bbox":"-125.9383627,50.6364965,-125.9360796,50.6372279",
     "geom:latitude":50.636879,
     "geom:longitude":-125.937058,
     "iso:country":"CA",
     "lbl:latitude":50.636861,
     "lbl:longitude":-125.937025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.636861,
     "mps:longitude":-125.937025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pawala 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744031,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566425894,
     "wof:name":"Pawala 5",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

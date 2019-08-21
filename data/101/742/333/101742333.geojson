@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002921,
+    "geom:area_square_m":22813665.291731,
     "geom:bbox":"-103.9465309,50.7988286,-103.8544303,50.8483352",
     "geom:latitude":50.829596,
     "geom:longitude":-103.892318,
     "iso:country":"CA",
     "lbl:latitude":50.827673,
     "lbl:longitude":-103.889138,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.827673,
     "mps:longitude":-103.889138,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Standing Buffalo I.R. 78"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742333,
-    "wof:lastmodified":1531524424,
+    "wof:lastmodified":1566425937,
     "wof:name":"Standing Buffalo I.R. 78",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

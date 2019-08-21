@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
+    "geom:area_square_m":1854591.396302,
     "geom:bbox":"-121.3961825,50.605082,-121.373121,50.6196847",
     "geom:latitude":50.613914,
     "geom:longitude":-121.383074,
     "iso:country":"CA",
     "lbl:latitude":50.615527,
     "lbl:longitude":-121.381932,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.615527,
     "mps:longitude":-121.381932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peq-Paq 22"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745323,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566425967,
     "wof:name":"Peq-Paq 22",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

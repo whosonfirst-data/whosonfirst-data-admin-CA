@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000644,
+    "geom:area_square_m":4699114.948922,
     "geom:bbox":"-96.1484377,53.8271156,-96.0639443,53.8582555",
     "geom:latitude":53.841775,
     "geom:longitude":-96.096799,
     "iso:country":"CA",
     "lbl:latitude":53.839313,
     "lbl:longitude":-96.097431,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.839313,
     "mps:longitude":-96.097431,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Feather Rapids"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745877,
-    "wof:lastmodified":1533069764,
+    "wof:lastmodified":1566425974,
     "wof:name":"Feather Rapids",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

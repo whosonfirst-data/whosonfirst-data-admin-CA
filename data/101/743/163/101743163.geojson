@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
+    "geom:area_square_m":205768.748381,
     "geom:bbox":"-128.0032644,50.5383299,-127.9946445,50.5427635",
     "geom:latitude":50.541126,
     "geom:longitude":-127.99955,
     "iso:country":"CA",
     "lbl:latitude":50.541251,
     "lbl:longitude":-127.99955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.541251,
     "mps:longitude":-127.99955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clienna 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743163,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566425915,
     "wof:name":"Clienna 14",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

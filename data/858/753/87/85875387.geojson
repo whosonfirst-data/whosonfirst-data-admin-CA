@@ -11,8 +11,10 @@
     "geom:longitude":-76.513921,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.518921,44.228551,-76.508921,44.238551",
     "lbl:latitude":44.233551,
     "lbl:longitude":-76.513921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.23344,
     "mps:longitude":-76.510076,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:swe_x_preferred":[
         "Sunnyside"
     ],
-    "name:unk_x_variant":[
-        "Sunnyside"
-    ],
     "name:vol_x_preferred":[
         "Sunnyside"
     ],
@@ -103,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -114,8 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856487,
-        "qs:id":17042,
-        "qs_pg:id":17042
+        "qs:id":17042
     },
     "wof:country":"CA",
     "wof:geomhash":"a7e440f5eb601f477ee512312ef187f0",
@@ -133,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170699,
+    "wof:lastmodified":1566424935,
     "wof:name":"Sunnyside",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

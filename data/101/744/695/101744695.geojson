@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":90126.496081,
     "geom:bbox":"-122.4980694,50.5265154,-122.4908228,50.5283994",
     "geom:latitude":50.527439,
     "geom:longitude":-122.494282,
     "iso:country":"CA",
     "lbl:latitude":50.527464,
     "lbl:longitude":-122.49448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.527464,
     "mps:longitude":-122.49448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nequatque 3A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744695,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566425895,
     "wof:name":"Nequatque 3A",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

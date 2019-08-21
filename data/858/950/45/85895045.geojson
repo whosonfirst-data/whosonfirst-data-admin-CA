@@ -11,8 +11,10 @@
     "geom:longitude":-80.049133,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.054133,43.49243,-80.044133,43.50243",
     "lbl:latitude":43.49743,
     "lbl:longitude":-80.049133,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.48708,
     "mps:longitude":-80.050336,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:swe_x_preferred":[
         "Moffat"
     ],
-    "name:unk_x_variant":[
-        "Moffat"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1738,
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736383,
@@ -103,8 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999039,
-        "qs:id":1283471,
-        "qs_pg:id":1283471
+        "qs:id":1283471
     },
     "wof:country":"CA",
     "wof:geomhash":"369cdb7897b658deee26bb413feccdfc",
@@ -128,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170809,
+    "wof:lastmodified":1566424969,
     "wof:name":"Moffat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16261.039493,
     "geom:bbox":"-129.8275924,53.3099258,-129.8246234,53.3111238",
     "geom:latitude":53.310413,
     "geom:longitude":-129.825793,
     "iso:country":"CA",
     "lbl:latitude":53.31051,
     "lbl:longitude":-129.825729,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.31051,
     "mps:longitude":-129.825729,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keecha 11"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":12523263
     },
     "wof:country":"CA",
-    "wof:geomhash":"76bfcf9370adde58db7d6e011e6773d5",
+    "wof:geomhash":"ba090a8e768832b6ea7d65699f2a09bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743437,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566425910,
     "wof:name":"Keecha 11",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

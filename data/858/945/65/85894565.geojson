@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.647452,
     "lbl:longitude":-113.601172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.652471,
     "mps:longitude":-113.597975,
     "mz:hierarchy_label":0,
@@ -54,9 +55,6 @@
     "name:swe_x_preferred":[
         "Woodlands"
     ],
-    "name:unk_x_variant":[
-        "Woodlands"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:id":0,
@@ -85,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458621,
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170887,
+    "wof:lastmodified":1566424997,
     "wof:name":"Woodlands",
     "wof:parent_id":890458621,
     "wof:placetype":"neighbourhood",

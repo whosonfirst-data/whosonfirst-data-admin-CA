@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.664665,
     "lbl:longitude":-70.75199,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.664665,
     "mps:longitude":-70.75199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Bellechasse"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Bellechasse",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2419",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890457821,
-    "wof:lastmodified":1564173365,
+    "wof:lastmodified":1566426119,
     "wof:name":"Bellechasse",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

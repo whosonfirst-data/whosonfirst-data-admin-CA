@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":1265090.898932,
+    "geom:area_square_m":1265090.89893,
     "geom:bbox":"-113.493817938,53.508481922,-113.466646842,53.5180682807",
     "geom:latitude":53.513045,
     "geom:longitude":-113.48094,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.513376,
     "lbl:longitude":-113.482783,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.511897,
     "mps:longitude":-113.477006,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -47,7 +48,6 @@
     "wof:concordances":{
         "gp:id":55856033,
         "qs:id":381283,
-        "qs_pg:id":381283,
         "wd:id":"Q7336651"
     },
     "wof:country":"CA",
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566424966,
     "wof:name":"Ritchie",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

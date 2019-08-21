@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
+    "geom:area_square_m":262517.90381,
     "geom:bbox":"-126.8051962,50.5842688,-126.793146,50.5919326",
     "geom:latitude":50.588138,
     "geom:longitude":-126.798107,
     "iso:country":"CA",
     "lbl:latitude":50.588983,
     "lbl:longitude":-126.797511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.588983,
     "mps:longitude":-126.797511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ksui-La-Das 6"
     ],
@@ -40,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101743117,
-    "wof:lastmodified":1533335873,
+    "wof:lastmodified":1566425914,
     "wof:name":"Ksui-La-Das 6",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

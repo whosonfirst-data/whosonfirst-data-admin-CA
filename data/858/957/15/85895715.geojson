@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3504396.263841,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.638709,45.693238,-73.638709,45.693238",
     "geom:latitude":45.693238,
     "geom:longitude":-73.638709,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.643709,45.688238,-73.633709,45.698238",
     "lbl:latitude":45.693238,
     "lbl:longitude":-73.638709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.695689,
     "mps:longitude":-73.635385,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -47,8 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999665,
-        "qs:id":897479,
-        "qs_pg:id":897479
+        "qs:id":897479
     },
     "wof:country":"CA",
     "wof:geomhash":"df533c60ec3be4a23fc3ef56d3859343",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931476,
+    "wof:lastmodified":1566424971,
     "wof:name":"Vieux Terrebonne",
     "wof:parent_id":101737337,
     "wof:placetype":"neighbourhood",

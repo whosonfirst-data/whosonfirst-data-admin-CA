@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":56.046828,
     "lbl:longitude":-79.734496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.046828,
     "mps:longitude":-79.734496,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nunavut Land Claims Agreement \u2013 Sanikiluaq Inuit Owned Land"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"Land Claim",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101748025,
-    "wof:lastmodified":1559860658,
+    "wof:lastmodified":1566425716,
     "wof:name":"Nunavut Land Claims Agreement \u2013 Sanikiluaq Inuit Owned Land",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.495763,
     "lbl:longitude":-104.652351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.495763,
     "mps:longitude":-104.652351,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mount Hope No. 279"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101740273,
-    "wof:lastmodified":1535390437,
+    "wof:lastmodified":1566425490,
     "wof:name":"Mount Hope No. 279",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

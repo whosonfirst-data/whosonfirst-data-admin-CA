@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.889459,
     "lbl:longitude":-97.319333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.896064,
     "mps:longitude":-97.328498,
     "mz:hierarchy_label":1,
@@ -107,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968457,
@@ -119,8 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332860,
-        "qs:id":210247,
-        "qs_pg:id":210247
+        "qs:id":210247
     },
     "wof:country":"CA",
     "wof:geomhash":"2a90e755351fe8db3fee3573fb05298a",
@@ -139,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170737,
+    "wof:lastmodified":1566424949,
     "wof:name":"Buchanan",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

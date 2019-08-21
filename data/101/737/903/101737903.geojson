@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.374178,
     "lbl:longitude":-79.463926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.374178,
     "mps:longitude":-79.463926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0647\u0627\u0645\u0644 \u0648\u0633\u062a"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":172,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101737903,
-    "wof:lastmodified":1563284231,
+    "wof:lastmodified":1566425401,
     "wof:name":"Duhamel-Ouest",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

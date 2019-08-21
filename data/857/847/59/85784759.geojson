@@ -12,8 +12,10 @@
     "gn:latitude":45.48649,
     "gn:longitude":-73.46223,
     "iso:country":"CA",
+    "lbl:bbox":"-73.485819,45.483214,-73.475819,45.493214",
     "lbl:latitude":45.488214,
     "lbl:longitude":-73.480819,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.492521,
     "mps:longitude":-73.491335,
     "mz:hierarchy_label":0,
@@ -67,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1487,
     "wof:belongsto":[
         136251273,
@@ -83,7 +85,6 @@
         "gn:id":5966078,
         "gp:id":602,
         "qs:id":353311,
-        "qs_pg:id":353311,
         "wd:id":"Q959858",
         "wk:page":"Greenfield Park, Quebec"
     },
@@ -103,7 +104,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281718,
+    "wof:lastmodified":1566424899,
     "wof:name":"Old Greenfield Park",
     "wof:parent_id":101738793,
     "wof:placetype":"neighbourhood",

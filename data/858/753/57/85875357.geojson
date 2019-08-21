@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2393817.432698,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6008,44.261266,-76.6008,44.261266",
     "geom:latitude":44.261266,
     "geom:longitude":-76.6008,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.6058,44.256266,-76.5958,44.266266",
     "lbl:latitude":44.261266,
     "lbl:longitude":-76.6008,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.263812,
     "mps:longitude":-76.600456,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Westwoods"
-    ],
-    "name:unk_x_variant":[
         "Westwoods"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856473,
-        "qs:id":381594,
-        "qs_pg:id":381594
+        "qs:id":381594
     },
     "wof:country":"CA",
     "wof:geomhash":"2b1864d72afc96b50bd00062db884d00",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872088,
+    "wof:lastmodified":1566424934,
     "wof:name":"Westwoods",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

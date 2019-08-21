@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.819936,
     "lbl:longitude":-74.209008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.819936,
     "mps:longitude":-74.209008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0647 \u0644\u0633\u0644\u064a\u0633"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":311,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "gn:id":6073907,
         "gp:id":23394428,
         "qs:id":353570,
-        "qs_pg:id":353570,
         "wd:id":"Q3314262",
         "wk:page":"Mille-Isles, Quebec"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738761,
-    "wof:lastmodified":1563284685,
+    "wof:lastmodified":1566425471,
     "wof:name":"Mille-Isles",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

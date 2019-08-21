@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11666626.098394,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.774324,49.248845,-122.774324,49.248845",
     "geom:latitude":49.248845,
     "geom:longitude":-122.774324,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.779324,49.243845,-122.769324,49.253845",
     "lbl:latitude":49.248845,
     "lbl:longitude":-122.774324,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.246505,
     "mps:longitude":-122.753343,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Mary Hill"
     ],
     "name:swe_x_preferred":[
-        "Mary Hill"
-    ],
-    "name:unk_x_variant":[
         "Mary Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -66,20 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":175,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741061,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998863,
-        "qs:id":1090801,
-        "qs_pg:id":1090801
+        "qs:id":1090801
     },
     "wof:country":"CA",
     "wof:geomhash":"8fa2660f12fe60d5fb58024bb25b2f4b",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931264,
+    "wof:lastmodified":1566424951,
     "wof:name":"Mary Hill",
     "wof:parent_id":101741061,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":37814.963294,
     "geom:bbox":"-125.5021222,54.16512,-125.4970579,54.1679426",
     "geom:latitude":54.166747,
     "geom:longitude":-125.499893,
     "iso:country":"CA",
     "lbl:latitude":54.167011,
     "lbl:longitude":-125.499728,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.167011,
     "mps:longitude":-125.499728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chapel Park 28"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745247,
-    "wof:lastmodified":1533335905,
+    "wof:lastmodified":1566425975,
     "wof:name":"Chapel Park 28",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

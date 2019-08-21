@@ -11,8 +11,10 @@
     "geom:longitude":-63.590963,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-63.595963,44.677376,-63.585963,44.687376",
     "lbl:latitude":44.682376,
     "lbl:longitude":-63.590963,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.689192,
     "mps:longitude":-63.598837,
     "mz:hierarchy_label":0,
@@ -39,7 +41,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":44.6617,
     "wd:longitude":-63.5994,
     "wd:wordcount":530,
@@ -53,7 +55,6 @@
     "wof:concordances":{
         "gp:id":23390180,
         "qs:id":1188189,
-        "qs_pg:id":1188189,
         "wd:id":"Q7741200"
     },
     "wof:country":"CA",
@@ -72,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281886,
+    "wof:lastmodified":1566424941,
     "wof:name":"The Hydrostone",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

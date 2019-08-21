@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.312895,
     "lbl:longitude":-70.437548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.312895,
     "mps:longitude":-70.437548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sainte-Rose-de-Watford"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191575,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101737589,
-    "wof:lastmodified":1563284208,
+    "wof:lastmodified":1566425392,
     "wof:name":"Sainte-Rose-de-Watford",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

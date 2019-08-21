@@ -11,8 +11,10 @@
     "geom:longitude":-79.699696,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.704696,43.461912,-79.694696,43.471912",
     "lbl:latitude":43.466912,
     "lbl:longitude":-79.699696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.461474,
     "mps:longitude":-79.70283,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Castle Green"
     ],
     "name:pol_x_preferred":[
-        "Castle Green"
-    ],
-    "name:unk_x_variant":[
         "Castle Green"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191575,
@@ -74,8 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999042,
-        "qs:id":231003,
-        "qs_pg:id":231003
+        "qs:id":231003
     },
     "wof:country":"CA",
     "wof:geomhash":"57993873346b176dac568702539d3db4",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170812,
+    "wof:lastmodified":1566424970,
     "wof:name":"Castle Green",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

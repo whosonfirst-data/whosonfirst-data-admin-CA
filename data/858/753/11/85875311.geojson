@@ -11,8 +11,10 @@
     "geom:longitude":-119.490806,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.495806,49.898436,-119.485806,49.908436",
     "lbl:latitude":49.903436,
     "lbl:longitude":-119.490806,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.904451,
     "mps:longitude":-119.49038,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:swe_x_preferred":[
         "North End"
     ],
-    "name:unk_x_variant":[
-        "North End"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5990579,
@@ -77,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":230,
     "wof:belongsto":[
         85682117,
@@ -89,8 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856445,
-        "qs:id":899254,
-        "qs_pg:id":899254
+        "qs:id":899254
     },
     "wof:country":"CA",
     "wof:geomhash":"3d27cf5ee3ec3de9e7654f3442ee91de",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170699,
+    "wof:lastmodified":1566424935,
     "wof:name":"North End",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4874489.449434,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.825967,49.282935,-122.825967,49.282935",
     "geom:latitude":49.282935,
     "geom:longitude":-122.825967,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.830967,49.277935,-122.820967,49.287935",
     "lbl:latitude":49.282935,
     "lbl:longitude":-122.825967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.281286,
     "mps:longitude":-122.823175,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Inlet Centre"
-    ],
-    "name:unk_x_variant":[
         "Inlet Centre"
     ],
     "qs:gn_id":0,
@@ -57,20 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741063,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998935,
-        "qs:id":212703,
-        "qs_pg:id":212703
+        "qs:id":212703
     },
     "wof:country":"CA",
     "wof:geomhash":"3eaadcc16fe863a35e1307614565a387",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931285,
+    "wof:lastmodified":1566424962,
     "wof:name":"Inlet Centre",
     "wof:parent_id":101741063,
     "wof:placetype":"neighbourhood",

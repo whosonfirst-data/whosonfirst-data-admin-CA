@@ -9,10 +9,12 @@
     "geom:bbox":"-81.2668305,48.9714256,-80.8761982,49.3193632",
     "geom:latitude":49.147971,
     "geom:longitude":-81.044547,
-    "geonames:id":"5924614,5924617",
+    "gn:id":"5924614,5924617",
     "iso:country":"CA",
     "lbl:latitude":49.137077,
     "lbl:longitude":-81.047454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.137077,
     "mps:longitude":-81.047454,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.066667,
     "wd:longitude":-81.016667,
     "wd:wordcount":1302,
@@ -200,7 +202,6 @@
         "gn:id":5924614,
         "gp:id":3145,
         "qs:id":274926,
-        "qs_pg:id":274926,
         "wd:id":"Q2273431",
         "wk:page":"Cochrane, Ontario"
     },
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":101735731,
-    "wof:lastmodified":1563285316,
+    "wof:lastmodified":1566425850,
     "wof:name":"Cochrane",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

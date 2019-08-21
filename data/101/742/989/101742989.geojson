@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":412.466704,
     "geom:bbox":"-127.4659704,51.0907094,-127.4652354,51.0909407",
     "geom:latitude":51.090824,
     "geom:longitude":-127.465542,
     "iso:country":"CA",
     "lbl:latitude":51.091311,
     "lbl:longitude":-127.466579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.091311,
     "mps:longitude":-127.466579,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Na-Kwockto 2"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":56121071
     },
     "wof:country":"CA",
-    "wof:geomhash":"b9937ab5f62af9393a23f3d123413f01",
+    "wof:geomhash":"bbc4a968c433613b49eeee3b8359a5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101742989,
-    "wof:lastmodified":1493163505,
+    "wof:lastmodified":1566425943,
     "wof:name":"Na-Kwockto 2",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

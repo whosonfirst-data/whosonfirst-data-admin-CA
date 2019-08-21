@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
+    "geom:area_square_m":10275353.109629,
     "geom:bbox":"-92.7750399,48.8287591,-92.7324005,48.8691203",
     "geom:latitude":48.849915,
     "geom:longitude":-92.753895,
     "iso:country":"CA",
     "lbl:latitude":48.856761,
     "lbl:longitude":-92.74375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.856761,
     "mps:longitude":-92.74375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rainy Lake Indian Reserve No. 26C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747209,
-    "wof:lastmodified":1533335681,
+    "wof:lastmodified":1566425674,
     "wof:name":"Rainy Lake Indian Reserve No. 26C",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

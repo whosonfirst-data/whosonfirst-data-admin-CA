@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20112928.758668,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-52.792333,47.512434,-52.792333,47.512434",
     "geom:latitude":47.512434,
     "geom:longitude":-52.792333,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-52.797333,47.507434,-52.787333,47.517434",
     "lbl:latitude":47.512434,
     "lbl:longitude":-52.792333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.514348,
     "mps:longitude":-52.789727,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Waterford Valley"
-    ],
-    "name:unk_x_variant":[
         "Waterford Valley"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191575,
         85633041,
-        1158869009,
         85682123
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856408,
         "qs:id":1089556,
-        "qs_pg:id":1089556,
         "wd:id":"Q24190858"
     },
     "wof:country":"CA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872055,
+    "wof:lastmodified":1566424925,
     "wof:name":"Waterford Valley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

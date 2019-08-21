@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":1861982.469517,
+    "geom:area_square_m":1861982.469536,
     "geom:bbox":"-114.02185,50.90747,-113.996325,50.93846",
     "geom:latitude":50.920807,
     "geom:longitude":-114.00912,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.920803,
     "lbl:longitude":-114.008851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.925795,
     "mps:longitude":-114.007458,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191575,
@@ -52,7 +53,6 @@
     "wof:concordances":{
         "gp:id":23404827,
         "qs:id":1087700,
-        "qs_pg:id":1087700,
         "wd:id":"Q5250839"
     },
     "wof:country":"CA",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566424983,
     "wof:name":"Deer Run",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

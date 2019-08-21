@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001155,
+    "geom:area_square_m":8030368.413479,
     "geom:bbox":"-101.5359234,55.7645335,-101.4399987,55.8005479",
     "geom:latitude":55.783798,
     "geom:longitude":-101.490778,
     "iso:country":"CA",
     "lbl:latitude":55.79078,
     "lbl:longitude":-101.514615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.79078,
     "mps:longitude":-101.514615,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moosowhapihsk Sakahegan Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747311,
-    "wof:lastmodified":1533070056,
+    "wof:lastmodified":1566425684,
     "wof:name":"Moosowhapihsk Sakahegan Indian Reserve",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

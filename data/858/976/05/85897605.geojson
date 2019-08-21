@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4005556.446035,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.512711,45.497995,-73.512711,45.497995",
     "geom:latitude":45.497995,
     "geom:longitude":-73.512711,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.517711,45.492995,-73.507711,45.502995",
     "lbl:latitude":45.497995,
     "lbl:longitude":-73.512711,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.489626,
     "mps:longitude":-73.524375,
     "mz:hierarchy_label":0,
@@ -39,7 +41,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -50,8 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022942,
-        "qs:id":482334,
-        "qs_pg:id":482334
+        "qs:id":482334
     },
     "wof:country":"CA",
     "wof:geomhash":"ded667f1b491997ce40c1ccd5ef39cdb",
@@ -69,7 +70,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931905,
+    "wof:lastmodified":1566424963,
     "wof:name":"\u00c9cluse Saint Lambert",
     "wof:parent_id":101736449,
     "wof:placetype":"neighbourhood",

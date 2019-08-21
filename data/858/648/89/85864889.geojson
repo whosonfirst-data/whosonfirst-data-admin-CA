@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":864127.197763,
+    "geom:area_square_m":864127.197765,
     "geom:bbox":"-113.541042976,53.5052704265,-113.524594323,53.5183207799",
     "geom:latitude":53.51096,
     "geom:longitude":-113.533809,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.511731,
     "lbl:longitude":-113.532472,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.511673,
     "mps:longitude":-113.537228,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -47,7 +48,6 @@
     "wof:concordances":{
         "gp:id":23404813,
         "qs:id":1087696,
-        "qs_pg:id":1087696,
         "wd:id":"Q4882693"
     },
     "wof:country":"CA",
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270456,
+    "wof:lastmodified":1566424988,
     "wof:name":"Belgravia",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

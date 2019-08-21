@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.825138,
     "lbl:longitude":-71.229144,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.825435,
     "mps:longitude":-71.217321,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1126128601,
@@ -53,8 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396763,
-        "qs:id":1262998,
-        "qs_pg:id":1262998
+        "qs:id":1262998
     },
     "wof:country":"CA",
     "wof:geomhash":"625dad43a57d4cf72dd83e48012dcbb0",
@@ -74,7 +74,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533335727,
+    "wof:lastmodified":1566424942,
     "wof:name":"Vieux-Limoilou",
     "wof:parent_id":1126128601,
     "wof:placetype":"neighbourhood",

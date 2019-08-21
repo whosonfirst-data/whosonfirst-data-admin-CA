@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.98955,
     "lbl:longitude":-97.014363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.98955,
     "mps:longitude":-97.014363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East St. Paul"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101734957,
-    "wof:lastmodified":1561844450,
+    "wof:lastmodified":1566425839,
     "wof:name":"East St. Paul",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",

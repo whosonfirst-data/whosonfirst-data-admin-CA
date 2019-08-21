@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":28628.935837,
     "geom:bbox":"-123.6016293,48.3145829,-123.5982691,48.316065",
     "geom:latitude":48.315276,
     "geom:longitude":-123.600097,
     "iso:country":"CA",
     "lbl:latitude":48.315288,
     "lbl:longitude":-123.600078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.315288,
     "mps:longitude":-123.600078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Long Neck Island 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745797,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566425945,
     "wof:name":"Long Neck Island 9",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

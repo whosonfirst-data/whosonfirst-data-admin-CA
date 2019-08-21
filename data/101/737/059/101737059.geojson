@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":46.8235,
     "lbl:longitude":-73.010251,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.8235,
     "mps:longitude":-73.010251,
     "mz:hierarchy_label":1,
@@ -286,7 +288,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2741,
     "wof:belongsto":[
@@ -301,7 +303,6 @@
         "gn:id":6145489,
         "gp:id":3458,
         "qs:id":274734,
-        "qs_pg:id":274734,
         "wd:id":"Q141980",
         "wk:page":"Shawinigan"
     },
@@ -320,7 +321,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284288,
+    "wof:lastmodified":1566425408,
     "wof:name":"Shawinigan",
     "wof:parent_id":890456471,
     "wof:placetype":"locality",

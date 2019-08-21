@@ -9,14 +9,17 @@
     "geom:bbox":"-64.6960895,45.868714,-64.4859807,46.0760499",
     "geom:latitude":45.994838,
     "geom:longitude":-64.589375,
-    "geonames:id":"6072045,6072046",
+    "gn:id":"6072045,6072046",
     "iso:country":"CA",
     "lbl:latitude":45.994299,
     "lbl:longitude":-64.590894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.994299,
     "mps:longitude":-64.590894,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0645\u0631\u0627\u0645\u0643\u0648\u0643"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4354,
     "wof:belongsto":[
         102191575,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101735143,
-    "wof:lastmodified":1563285402,
+    "wof:lastmodified":1566425865,
     "wof:name":"Memramcook",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":18963.349429,
     "geom:bbox":"-126.9089673,51.1012299,-126.9070189,51.1030376",
     "geom:latitude":51.102331,
     "geom:longitude":-126.907863,
     "iso:country":"CA",
     "lbl:latitude":51.102393,
     "lbl:longitude":-126.907783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.102393,
     "mps:longitude":-126.907783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pel-Looth'L Kai 17"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743023,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566425908,
     "wof:name":"Pel-Looth'L Kai 17",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

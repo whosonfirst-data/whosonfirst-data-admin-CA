@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009316,
+    "geom:area_square_m":79747937.981818,
     "geom:bbox":"-82.7049081,46.157226,-82.4107773,46.219216",
     "geom:latitude":46.189193,
     "geom:longitude":-82.556833,
     "iso:country":"CA",
     "lbl:latitude":46.186955,
     "lbl:longitude":-82.562096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.186955,
     "mps:longitude":-82.562096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Serpent River Indian Reserve No. 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747941,
-    "wof:lastmodified":1533335694,
+    "wof:lastmodified":1566425597,
     "wof:name":"Serpent River Indian Reserve No. 7",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.304398,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.309398,43.099866,-79.299398,43.109866",
     "lbl:latitude":43.104866,
     "lbl:longitude":-79.304398,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.111583,
     "mps:longitude":-79.311885,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "\u05e8\u05d5\u05e7\u05d0\u05d5\u05d5\u05d9"
     ],
     "name:pol_x_preferred":[
-        "Rockaway"
-    ],
-    "name:unk_x_variant":[
         "Rockaway"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191575,
@@ -82,8 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23401223,
-        "qs:id":1065143,
-        "qs_pg:id":1065143
+        "qs:id":1065143
     },
     "wof:country":"CA",
     "wof:geomhash":"40587f3e3125344c78f107f27ebf0d57",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170868,
+    "wof:lastmodified":1566424986,
     "wof:name":"Rockaway",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

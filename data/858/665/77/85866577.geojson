@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1157765.435631,
+    "geom:area_square_m":1157765.435633,
     "geom:bbox":"-97.156739,49.911693,-97.131024,49.92428",
     "geom:latitude":49.91807,
     "geom:longitude":-97.143541,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.917919,
     "lbl:longitude":-97.143674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.919727,
     "mps:longitude":-97.140021,
     "mz:hierarchy_label":1,
@@ -38,21 +39,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":57,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968519,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332841,
-        "qs:id":15267,
-        "qs_pg:id":15267
+        "qs:id":15267
     },
     "wof:country":"CA",
     "wof:geomhash":"0a4446405fddc10e52bfb7ca34909e75",
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1566424992,
     "wof:name":"William Whyte",
     "wof:parent_id":1108968519,
     "wof:placetype":"neighbourhood",

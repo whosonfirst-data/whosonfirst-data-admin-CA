@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4916793.240578,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.571671,44.254828,-76.571671,44.254828",
     "geom:latitude":44.254828,
     "geom:longitude":-76.571671,
     "gn:elevation":110,
     "iso:country":"CA",
+    "lbl:bbox":"-76.576671,44.249828,-76.566671,44.259828",
     "lbl:latitude":44.254828,
     "lbl:longitude":-76.571671,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.259215,
     "mps:longitude":-76.577489,
     "mz:hierarchy_label":0,
@@ -30,9 +32,8 @@
     "name:eng_x_variant":[
         "Stone Mills"
     ],
-    "name:unk_x_variant":[
-        "Collins Mills",
-        "Sutton Mills"
+    "name:und_x_variant":[
+        "Collins Mills"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -62,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -92,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872087,
+    "wof:lastmodified":1566424935,
     "wof:name":"Sutton Mills",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.546728,
     "lbl:longitude":-80.236799,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.546728,
     "mps:longitude":-80.236799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Guelph"
     ],
@@ -230,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2860,
     "wof:belongsto":[
@@ -244,7 +247,6 @@
         "gn:id":5967629,
         "gp:id":4048,
         "qs:id":766989,
-        "qs_pg:id":766989,
         "wd:id":"Q504114",
         "wk:page":"Guelph"
     },
@@ -260,7 +262,7 @@
         }
     ],
     "wof:id":101735553,
-    "wof:lastmodified":1563285440,
+    "wof:lastmodified":1566425872,
     "wof:name":"Guelph",
     "wof:parent_id":890456827,
     "wof:placetype":"locality",

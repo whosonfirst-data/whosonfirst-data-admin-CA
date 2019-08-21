@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.996442,
     "lbl:longitude":-79.447605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.996442,
     "mps:longitude":-79.447605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Aurora"
     ],
@@ -280,7 +283,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":44.0,
     "wd:longitude":-79.466667,
     "wd:wordcount":2158,
@@ -295,7 +298,6 @@
         "gn:id":5888377,
         "gp:id":33,
         "qs:id":1078868,
-        "qs_pg:id":1078868,
         "wd:id":"Q266438",
         "wk:page":"Aurora, Ontario"
     },
@@ -311,7 +313,7 @@
         }
     ],
     "wof:id":101736049,
-    "wof:lastmodified":1563284394,
+    "wof:lastmodified":1566425422,
     "wof:name":"Aurora",
     "wof:parent_id":890458415,
     "wof:placetype":"locality",

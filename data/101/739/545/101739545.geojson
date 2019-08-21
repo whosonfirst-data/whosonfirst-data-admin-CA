@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.411428,
     "lbl:longitude":-102.93344,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.411428,
     "mps:longitude":-102.93344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grenfell"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.4167,
     "wd:longitude":-102.917,
@@ -72,7 +75,6 @@
         "gn:id":5966821,
         "gp:id":2515,
         "qs:id":160258,
-        "qs_pg:id":160258,
         "wd:id":"Q1911166",
         "wk:page":"Grenfell, Saskatchewan"
     },
@@ -91,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284026,
+    "wof:lastmodified":1566425368,
     "wof:name":"Grenfell",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

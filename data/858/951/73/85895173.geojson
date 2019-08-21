@@ -11,8 +11,10 @@
     "geom:longitude":-79.843527,
     "gn:elevation":175,
     "iso:country":"CA",
+    "lbl:bbox":"-79.848527,43.29931,-79.838527,43.30931",
     "lbl:latitude":43.30431,
     "lbl:longitude":-79.843527,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.304183,
     "mps:longitude":-79.837273,
     "mz:hierarchy_label":0,
@@ -78,9 +80,8 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0421\u0430\u043b\u043b"
     ],
-    "name:unk_x_variant":[
-        "Lasalle",
-        "La Salle"
+    "name:und_x_variant":[
+        "Lasalle"
     ],
     "name:vol_x_preferred":[
         "La Salle"
@@ -114,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735965,
@@ -150,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170846,
+    "wof:lastmodified":1566424978,
     "wof:name":"La Salle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

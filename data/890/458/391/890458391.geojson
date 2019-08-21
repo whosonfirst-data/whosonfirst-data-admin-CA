@@ -14,16 +14,18 @@
     "geom:longitude":-110.746391,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":6003,
     "gn:population":6003,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":54.26795,
     "lbl:longitude":-110.739731,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.26795,
     "mps:longitude":-110.739731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043d\u0439\u0432\u0438\u043b\u0435"
     ],
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":564.0,
     "wd:latitude":"54.2667",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":890458391,
-    "wof:lastmodified":1563285923,
+    "wof:lastmodified":1566426002,
     "wof:name":"Bonnyville",
     "wof:parent_id":1158863163,
     "wof:placetype":"locality",

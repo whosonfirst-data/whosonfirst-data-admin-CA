@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.638719,
     "lbl:longitude":-72.549664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.638719,
     "mps:longitude":-72.549664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u062a\u0648\u0646 \u0641\u0627\u0644"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":274,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "gn:id":5882142,
         "gp:id":3527,
         "qs:id":160212,
-        "qs_pg:id":160212,
         "wd:id":"Q141960",
         "wk:page":"Acton Vale, Quebec"
     },
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101736809,
-    "wof:lastmodified":1563284521,
+    "wof:lastmodified":1566425447,
     "wof:name":"Acton Vale",
     "wof:parent_id":890458081,
     "wof:placetype":"locality",

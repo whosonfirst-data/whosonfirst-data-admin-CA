@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001348,
+    "geom:area_square_m":11004614.389113,
     "geom:bbox":"-92.8203484,48.6456802,-92.7084186,48.6772623",
     "geom:latitude":48.666259,
     "geom:longitude":-92.769065,
     "iso:country":"CA",
     "lbl:latitude":48.666355,
     "lbl:longitude":-92.77116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.666355,
     "mps:longitude":-92.77116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seine River Indian Reserve No. 23B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741225,
-    "wof:lastmodified":1533335662,
+    "wof:lastmodified":1566425822,
     "wof:name":"Seine River Indian Reserve No. 23B",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001585,
+    "geom:area_square_m":12260249.603571,
     "geom:bbox":"-120.1730171,51.2419914,-120.1373807,51.3489834",
     "geom:latitude":51.288918,
     "geom:longitude":-120.155013,
     "iso:country":"CA",
     "lbl:latitude":51.25318,
     "lbl:longitude":-120.160287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.25318,
     "mps:longitude":-120.160287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Thompson 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744069,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566425903,
     "wof:name":"North Thompson 1",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

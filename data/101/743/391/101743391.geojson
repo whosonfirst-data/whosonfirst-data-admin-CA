@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":58.138947,
     "lbl:longitude":-131.38537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.138947,
     "mps:longitude":-131.38537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Tahltan 4"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":168,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101743391,
-    "wof:lastmodified":1563285598,
+    "wof:lastmodified":1566425906,
     "wof:name":"Upper Tahltan 4",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

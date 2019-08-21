@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.148775,
     "lbl:longitude":-70.916776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.148775,
     "mps:longitude":-70.916776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Saint-Victor"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":242,
     "wof:belongsto":[
         102191575,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101736939,
-    "wof:lastmodified":1563284356,
+    "wof:lastmodified":1566425416,
     "wof:name":"Saint-Victor",
     "wof:parent_id":890457809,
     "wof:placetype":"locality",

@@ -26,10 +26,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.057668,
     "lbl:longitude":-126.245718,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.057668,
     "mps:longitude":-126.245718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Central Coast Regional District"
     ],
@@ -64,7 +67,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Central Coast",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5945",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890457277,
-    "wof:lastmodified":1564173385,
+    "wof:lastmodified":1566426140,
     "wof:name":"Central Coast",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

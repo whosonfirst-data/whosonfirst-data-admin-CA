@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.475562,
     "lbl:longitude":-70.043227,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.475562,
     "mps:longitude":-70.043227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rivi\u00e8re-Ouelle"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":236,
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101738207,
-    "wof:lastmodified":1563284719,
+    "wof:lastmodified":1566425477,
     "wof:name":"Rivi\u00e8re-Ouelle",
     "wof:parent_id":136251273,
     "wof:placetype":"locality",

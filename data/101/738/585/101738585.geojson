@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.078012,
     "lbl:longitude":-73.567506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.078012,
     "mps:longitude":-73.567506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Ambroise-de-Kildare"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":550,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101738585,
-    "wof:lastmodified":1563284740,
+    "wof:lastmodified":1566425480,
     "wof:name":"Saint-Ambroise-de-Kildare",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

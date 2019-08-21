@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
+    "geom:area_square_m":232305.392891,
     "geom:bbox":"-66.7892756,54.8114939,-66.7768101,54.8172124",
     "geom:latitude":54.8136,
     "geom:longitude":-66.781876,
     "iso:country":"CA",
     "lbl:latitude":54.813779,
     "lbl:longitude":-66.781454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.813779,
     "mps:longitude":-66.781454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lac John Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747649,
-    "wof:lastmodified":1533335685,
+    "wof:lastmodified":1566425655,
     "wof:name":"Lac John Reserve",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

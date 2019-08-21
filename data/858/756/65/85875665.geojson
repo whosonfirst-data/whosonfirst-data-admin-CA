@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1664965.386174,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.733765,53.906543,-122.733765,53.906543",
     "geom:latitude":53.906543,
     "geom:longitude":-122.733765,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.738765,53.901543,-122.728765,53.911543",
     "lbl:latitude":53.906543,
     "lbl:longitude":-122.733765,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.903759,
     "mps:longitude":-122.724096,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Millard Addition"
-    ],
-    "name:unk_x_variant":[
         "Millard Addition"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,20 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856741,
-        "qs:id":1000974,
-        "qs_pg:id":1000974
+        "qs:id":1000974
     },
     "wof:country":"CA",
     "wof:geomhash":"7fe28d70f092f23997c057780f508cd1",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872191,
+    "wof:lastmodified":1566424973,
     "wof:name":"Millard Addition",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

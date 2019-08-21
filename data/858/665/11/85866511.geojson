@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002414,
-    "geom:area_square_m":20405664.714495,
+    "geom:area_square_m":20405664.714503,
     "geom:bbox":"-71.144521972,46.8370429506,-71.0797827148,46.9048189376",
     "geom:latitude":46.867785,
     "geom:longitude":-71.113515,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.875277,
     "lbl:longitude":-71.120138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.872223,
     "mps:longitude":-71.12071,
     "mz:hierarchy_label":0,
@@ -38,7 +39,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -49,8 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332803,
-        "qs:id":368609,
-        "qs_pg:id":368609
+        "qs:id":368609
     },
     "wof:country":"CA",
     "wof:geomhash":"0c9a984990a07417c5dd28a0d881cb85",
@@ -68,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335729,
+    "wof:lastmodified":1566424991,
     "wof:name":"Ile d'Orleans",
     "wof:parent_id":101736959,
     "wof:placetype":"neighbourhood",

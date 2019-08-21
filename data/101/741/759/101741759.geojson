@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
+    "geom:area_square_m":2410399.972365,
     "geom:bbox":"-101.7518256,53.7224305,-101.685709,53.7419815",
     "geom:latitude":53.72961,
     "geom:longitude":-101.719418,
     "iso:country":"CA",
     "lbl:latitude":53.726123,
     "lbl:longitude":-101.725767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.726123,
     "mps:longitude":-101.725767,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Opaskwayak Cree Nation Salt Channel 21D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741759,
-    "wof:lastmodified":1531523806,
+    "wof:lastmodified":1566425818,
     "wof:name":"Opaskwayak Cree Nation Salt Channel 21D",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":67441.567952,
     "geom:bbox":"-95.5998322,56.066751,-95.5898411,56.0713559",
     "geom:latitude":56.069457,
     "geom:longitude":-95.594205,
     "iso:country":"CA",
     "lbl:latitude":56.068324,
     "lbl:longitude":-95.59672,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.068324,
     "mps:longitude":-95.59672,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mooseocoot"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745869,
-    "wof:lastmodified":1533069756,
+    "wof:lastmodified":1566425965,
     "wof:name":"Mooseocoot",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

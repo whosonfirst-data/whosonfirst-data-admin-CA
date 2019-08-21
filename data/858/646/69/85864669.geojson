@@ -11,8 +11,10 @@
     "geom:longitude":-81.140233,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.145233,42.993888,-81.135233,43.003888",
     "lbl:latitude":42.998888,
     "lbl:longitude":-81.140233,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.99405,
     "mps:longitude":-81.142327,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Crumlin"
     ],
-    "name:unk_x_variant":[
-        "Crumlin"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":9600,
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":86,
     "wof:belongsto":[
         85682057,
@@ -88,8 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400302,
-        "qs:id":400594,
-        "qs_pg:id":400594
+        "qs:id":400594
     },
     "wof:country":"CA",
     "wof:geomhash":"2085eda556a8473470db6b3f391c2a3a",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170867,
+    "wof:lastmodified":1566424985,
     "wof:name":"Crumlin",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

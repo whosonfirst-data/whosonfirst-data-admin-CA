@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6378762.154006,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.456581,44.01052,-79.456581,44.01052",
     "geom:latitude":44.01052,
     "geom:longitude":-79.456581,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.461581,44.00552,-79.451581,44.01552",
     "lbl:latitude":44.01052,
     "lbl:longitude":-79.456581,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.010336,
     "mps:longitude":-79.457439,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Wellington Lanes"
-    ],
-    "name:unk_x_variant":[
         "Wellington Lanes"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999614,
-        "qs:id":238108,
-        "qs_pg:id":238108
+        "qs:id":238108
     },
     "wof:country":"CA",
     "wof:geomhash":"4562cddb820f7a8d46832fc0c5c6f4d4",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931460,
+    "wof:lastmodified":1566424975,
     "wof:name":"Wellington Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

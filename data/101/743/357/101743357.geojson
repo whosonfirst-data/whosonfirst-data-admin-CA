@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":47417.235431,
     "geom:bbox":"-129.0895749,53.832545,-129.0864749,53.8348125",
     "geom:latitude":53.833736,
     "geom:longitude":-129.088076,
     "iso:country":"CA",
     "lbl:latitude":53.833716,
     "lbl:longitude":-129.088074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.833716,
     "mps:longitude":-129.088074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Misgatlee 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743357,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566425915,
     "wof:name":"Misgatlee 14",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

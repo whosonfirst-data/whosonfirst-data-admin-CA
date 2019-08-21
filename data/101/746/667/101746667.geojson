@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
+    "geom:area_square_m":1049182.742668,
     "geom:bbox":"-96.8346689,50.2554157,-96.8234037,50.2691169",
     "geom:latitude":50.263159,
     "geom:longitude":-96.828751,
     "iso:country":"CA",
     "lbl:latitude":50.263203,
     "lbl:longitude":-96.829051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.263203,
     "mps:longitude":-96.829051,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peguis 1G"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746667,
-    "wof:lastmodified":1533067992,
+    "wof:lastmodified":1566425754,
     "wof:name":"Peguis 1G",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",

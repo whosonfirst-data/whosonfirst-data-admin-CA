@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":308859.399526,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.255476,53.526106,-113.255476,53.526106",
     "geom:latitude":53.526106,
     "geom:longitude":-113.255476,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.260476,53.521106,-113.250476,53.531106",
     "lbl:latitude":53.526106,
     "lbl:longitude":-113.255476,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.529154,
     "mps:longitude":-113.254321,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -45,8 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998554,
-        "qs:id":991616,
-        "qs_pg:id":991616
+        "qs:id":991616
     },
     "wof:country":"CA",
     "wof:geomhash":"b898ef2027241e0913c30f927fa2caab",
@@ -64,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250198,
+    "wof:lastmodified":1566424998,
     "wof:name":"Foxhaven",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

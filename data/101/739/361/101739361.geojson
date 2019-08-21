@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.945928,
     "lbl:longitude":-103.797805,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.945928,
     "mps:longitude":-103.797805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wadena"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.9458,
     "wd:longitude":-103.801,
@@ -78,7 +81,6 @@
         "gn:id":6174914,
         "gp:id":2412,
         "qs:id":1053609,
-        "qs_pg:id":1053609,
         "wd:id":"Q1917448",
         "wk:page":"Wadena, Saskatchewan"
     },
@@ -97,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284030,
+    "wof:lastmodified":1566425368,
     "wof:name":"Wadena",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

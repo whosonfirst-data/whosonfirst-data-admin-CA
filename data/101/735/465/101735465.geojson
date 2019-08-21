@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":68.712921,
     "lbl:longitude":-81.44833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":68.712921,
     "mps:longitude":-81.44833,
     "mz:hierarchy_label":1,
@@ -246,7 +248,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":8.0,
     "wd:latitude":68.766667,
     "wd:longitude":-81.216667,
@@ -280,7 +282,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285384,
+    "wof:lastmodified":1566425862,
     "wof:name":"Hall Beach",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12976016.951697,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.403549,45.476984,-73.403549,45.476984",
     "geom:latitude":45.476984,
     "geom:longitude":-73.403549,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.408549,45.471984,-73.398549,45.481984",
     "lbl:latitude":45.476984,
     "lbl:longitude":-73.403549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.472285,
     "mps:longitude":-73.400802,
     "mz:hierarchy_label":0,
@@ -97,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0438\u043a\u0443\u0440"
     ],
-    "name:unk_x_variant":[
-        "Maricourt"
-    ],
     "name:uzb_x_preferred":[
         "Maricourt"
     ],
@@ -124,19 +123,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738793,
-        1108961057
+        1108961057,
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022876,
-        "qs:id":231040,
-        "qs_pg:id":231040
+        "qs:id":231040
     },
     "wof:country":"CA",
     "wof:geomhash":"924c5a6e5dc157a21f2cad62a39db27f",
@@ -155,7 +154,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931893,
+    "wof:lastmodified":1566425002,
     "wof:name":"Maricourt",
     "wof:parent_id":1108961057,
     "wof:placetype":"neighbourhood",

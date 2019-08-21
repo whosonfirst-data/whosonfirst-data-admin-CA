@@ -10,8 +10,10 @@
     "geom:latitude":43.225102,
     "geom:longitude":-79.830404,
     "iso:country":"CA",
+    "lbl:bbox":"-79.835404,43.220102,-79.825404,43.230102",
     "lbl:latitude":43.225102,
     "lbl:longitude":-79.830404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.224265,
     "mps:longitude":-79.831658,
     "mz:hierarchy_label":0,
@@ -77,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0440\u0432\u0443\u0434"
     ],
-    "name:unk_x_variant":[
-        "Sherwood"
-    ],
     "name:vol_x_preferred":[
         "Sherwood"
     ],
@@ -111,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -123,8 +122,7 @@
     "wof:concordances":{
         "gn:id":6146254,
         "gp:id":55856185,
-        "qs:id":70949,
-        "qs_pg:id":70949
+        "qs:id":70949
     },
     "wof:country":"CA",
     "wof:geomhash":"d7262b01acab429cbbb1486f6e68009f",
@@ -142,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170795,
+    "wof:lastmodified":1566424964,
     "wof:name":"Sherwood",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.47795,
     "lbl:longitude":-105.423986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.47795,
     "mps:longitude":-105.423986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Jaw No. 161"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101740507,
-    "wof:lastmodified":1561844390,
+    "wof:lastmodified":1566425505,
     "wof:name":"Moose Jaw No. 161",
     "wof:parent_id":1158868947,
     "wof:placetype":"locality",

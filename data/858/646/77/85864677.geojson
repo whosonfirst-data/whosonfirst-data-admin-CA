@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18055915.585354,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.439196,44.29629,-76.439196,44.29629",
     "geom:latitude":44.29629,
     "geom:longitude":-76.439196,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.444196,44.29129,-76.434196,44.30129",
     "lbl:latitude":44.29629,
     "lbl:longitude":-76.439196,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.29784,
     "mps:longitude":-76.439076,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Glenburnie"
     ],
     "name:eng_x_preferred":[
-        "Glenburnie"
-    ],
-    "name:unk_x_variant":[
         "Glenburnie"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":48,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735601,
-        890457247,
-        85682057
+        890457247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400535,
-        "qs:id":14812,
-        "qs_pg:id":14812
+        "qs:id":14812
     },
     "wof:country":"CA",
     "wof:geomhash":"f611972c7004a58df89162d91de61558",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870950,
+    "wof:lastmodified":1566424987,
     "wof:name":"Glenburnie",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

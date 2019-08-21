@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.945627,
     "lbl:longitude":-73.405094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.945627,
     "mps:longitude":-73.405094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Paul"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101738433,
-    "wof:lastmodified":1563284725,
+    "wof:lastmodified":1566425478,
     "wof:name":"Saint-Paul",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

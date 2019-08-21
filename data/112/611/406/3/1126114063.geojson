@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1417944.534067,
+    "geom:area_square_m":1417944.534065,
     "geom:bbox":"-106.598958,52.125821,-106.57523,52.142898",
     "geom:latitude":52.131978,
     "geom:longitude":-106.589993,
     "iso:country":"CA",
     "lbl:latitude":52.132093,
     "lbl:longitude":-106.590777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.132093,
     "mps:longitude":-106.590777,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-106.590777,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115071,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1126114063,
-    "wof:lastmodified":1531524183,
+    "wof:lastmodified":1566426168,
     "wof:name":"Sutherland Industrial",
     "wof:parent_id":1126115071,
     "wof:placetype":"neighbourhood",

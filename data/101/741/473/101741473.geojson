@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":950.755487,
     "geom:bbox":"-115.0274302,52.2034711,-115.0255131,52.2038552",
     "geom:latitude":52.203692,
     "geom:longitude":-115.026576,
     "iso:country":"CA",
     "lbl:latitude":52.203534,
     "lbl:longitude":-115.027298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.203534,
     "mps:longitude":-115.027298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "O'Chiese Cemetery 203A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741473,
-    "wof:lastmodified":1533250156,
+    "wof:lastmodified":1566425822,
     "wof:name":"O'Chiese Cemetery 203A",
     "wof:parent_id":1158863279,
     "wof:placetype":"locality",

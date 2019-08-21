@@ -14,16 +14,18 @@
     "geom:longitude":-114.117124,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":6947,
     "gn:population":6947,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.791431,
     "lbl:longitude":-114.117109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.791431,
     "mps:longitude":-114.117109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Olds"
     ],
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":890456075,
-    "wof:lastmodified":1563286270,
+    "wof:lastmodified":1566426090,
     "wof:name":"Olds",
     "wof:parent_id":1158863207,
     "wof:placetype":"locality",

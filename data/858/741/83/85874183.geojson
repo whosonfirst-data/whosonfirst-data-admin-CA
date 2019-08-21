@@ -11,8 +11,10 @@
     "geom:longitude":-71.927305,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.932305,45.373235,-71.922305,45.383235",
     "lbl:latitude":45.378235,
     "lbl:longitude":-71.927305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.368796,
     "mps:longitude":-71.923737,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:swe_x_preferred":[
         "Mont Bellevue"
     ],
-    "name:unk_x_variant":[
-        "Mont-Bellevue"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6146143,
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1150,
     "wof:belongsto":[
         136251273,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gp:id":55855752,
         "qs:id":1245842,
-        "qs_pg:id":1245842,
         "wd:id":"Q2401339"
     },
     "wof:country":"CA",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563282037,
+    "wof:lastmodified":1566424968,
     "wof:name":"Mont-Bellevue",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

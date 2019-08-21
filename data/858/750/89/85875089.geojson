@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.426236,
     "lbl:longitude":-123.357271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.425496,
     "mps:longitude":-123.355694,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Harris Green"
-    ],
-    "name:unk_x_variant":[
         "Harris Green"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -66,8 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856316,
-        "qs:id":381485,
-        "qs_pg:id":381485
+        "qs:id":381485
     },
     "wof:country":"CA",
     "wof:geomhash":"b2e3556aab5d0f5196acab32196408c3",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335939,
+    "wof:lastmodified":1566424979,
     "wof:name":"Harris Green",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

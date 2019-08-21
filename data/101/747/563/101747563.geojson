@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002903,
+    "geom:area_square_m":23708028.864438,
     "geom:bbox":"-93.9437841,48.6326548,-93.876867,48.678674",
     "geom:latitude":48.656401,
     "geom:longitude":-93.910154,
     "iso:country":"CA",
     "lbl:latitude":48.659329,
     "lbl:longitude":-93.895818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.659329,
     "mps:longitude":-93.895818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manitou Rapids Indian Reserve No. 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747563,
-    "wof:lastmodified":1533335683,
+    "wof:lastmodified":1566425625,
     "wof:name":"Manitou Rapids Indian Reserve No. 11",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

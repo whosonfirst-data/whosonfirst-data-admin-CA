@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3170969.918744,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.696839,43.492355,-79.696839,43.492355",
     "geom:latitude":43.492355,
     "geom:longitude":-79.696839,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.701839,43.487355,-79.691839,43.497355",
     "lbl:latitude":43.492355,
     "lbl:longitude":-79.696839,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.497877,
     "mps:longitude":-79.690934,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Joshua Creek"
-    ],
-    "name:unk_x_variant":[
         "Joshua Creek"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101740713,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999347,
-        "qs:id":19594,
-        "qs_pg:id":19594
+        "qs:id":19594
     },
     "wof:country":"CA",
     "wof:geomhash":"88418cfc4d8b410f172e7bd130036c65",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931396,
+    "wof:lastmodified":1566424931,
     "wof:name":"Joshua Creek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

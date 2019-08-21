@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":49306453.676427,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.314117,49.13023,-122.314117,49.13023",
     "geom:latitude":49.13023,
     "geom:longitude":-122.314117,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.319117,49.12523,-122.309117,49.13523",
     "lbl:latitude":49.13023,
     "lbl:longitude":-122.314117,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.113947,
     "mps:longitude":-122.303259,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Matsqui Prairie"
-    ],
-    "name:unk_x_variant":[
         "Matsqui Prairie"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,20 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740875,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856455,
-        "qs:id":1332160,
-        "qs_pg:id":1332160
+        "qs:id":1332160
     },
     "wof:country":"CA",
     "wof:geomhash":"8ef0bcf8913311a2a6e4b0501911480c",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872078,
+    "wof:lastmodified":1566424936,
     "wof:name":"Matsqui Prairie",
     "wof:parent_id":101740875,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":19330.483288,
     "geom:bbox":"-130.2644651,54.5357456,-130.261335,54.5372872",
     "geom:latitude":54.536785,
     "geom:longitude":-130.262612,
     "iso:country":"CA",
     "lbl:latitude":54.536738,
     "lbl:longitude":-130.262194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.536738,
     "mps:longitude":-130.262194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knamadeek 52"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743555,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425915,
     "wof:name":"Knamadeek 52",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

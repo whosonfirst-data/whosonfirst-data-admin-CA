@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001568,
+    "geom:area_square_m":11210089.949365,
     "geom:bbox":"-92.4524061,54.6402247,-92.4214773,54.6998209",
     "geom:latitude":54.670154,
     "geom:longitude":-92.436645,
     "iso:country":"CA",
     "lbl:latitude":54.669912,
     "lbl:longitude":-92.436851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.669912,
     "mps:longitude":-92.436851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prominent Ridge"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746657,
-    "wof:lastmodified":1533069720,
+    "wof:lastmodified":1566425759,
     "wof:name":"Prominent Ridge",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

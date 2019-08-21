@@ -11,8 +11,10 @@
     "geom:longitude":-72.590817,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.595817,46.313069,-72.585817,46.323069",
     "lbl:latitude":46.318069,
     "lbl:longitude":-72.590817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.321688,
     "mps:longitude":-72.604549,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Trois-Rivi\u00e8res City Council"
     ],
     "name:fra_x_preferred":[
-        "District de Chavigny"
-    ],
-    "name:unk_x_variant":[
         "District de Chavigny"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":184,
     "wof:belongsto":[
         136251273,
@@ -81,7 +80,6 @@
     "wof:concordances":{
         "gp:id":55856493,
         "qs:id":212534,
-        "qs_pg:id":212534,
         "wd:id":"Q7845059"
     },
     "wof:country":"CA",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281852,
+    "wof:lastmodified":1566424935,
     "wof:name":"District de Chavigny",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

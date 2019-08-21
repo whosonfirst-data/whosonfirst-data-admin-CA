@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004836,
+    "geom:area_square_m":38296903.256945,
     "geom:bbox":"-94.116906,50.1354587,-93.97808,50.218629",
     "geom:latitude":50.178648,
     "geom:longitude":-94.039136,
     "iso:country":"CA",
     "lbl:latitude":50.191261,
     "lbl:longitude":-94.008551,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.191261,
     "mps:longitude":-94.008551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "English River Indian Reserve No. 21"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741169,
-    "wof:lastmodified":1533335657,
+    "wof:lastmodified":1566425791,
     "wof:name":"English River Indian Reserve No. 21",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

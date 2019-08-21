@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12897310.166923,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-59.837129,46.180814,-59.837129,46.180814",
     "geom:latitude":46.180814,
     "geom:longitude":-59.837129,
     "gn:latitude":46.18344,
     "gn:longitude":-59.86514,
     "iso:country":"CA",
+    "lbl:bbox":"-59.842129,46.175814,-59.832129,46.185814",
     "lbl:latitude":46.180814,
     "lbl:longitude":-59.837129,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.179831,
     "mps:longitude":-59.834284,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Donkin"
-    ],
-    "name:unk_x_variant":[
         "Donkin"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,12 +59,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1293,
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
@@ -73,7 +71,6 @@
         "gn:id":5941588,
         "gp:id":413,
         "qs:id":71535,
-        "qs_pg:id":71535,
         "wd:id":"Q5296246",
         "wk:page":"Donkin, Nova Scotia"
     },
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860643,
+    "wof:lastmodified":1566424899,
     "wof:name":"Donkin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

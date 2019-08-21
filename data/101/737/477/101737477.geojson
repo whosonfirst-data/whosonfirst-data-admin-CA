@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.567975,
     "lbl:longitude":-79.127087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.567975,
     "mps:longitude":-79.127087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u063a\u0644\u064a\u064a\u0647"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":155,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,6 @@
         "gn:id":5885237,
         "gp:id":3287,
         "qs:id":1328464,
-        "qs_pg:id":1328464,
         "wd:id":"Q2849669",
         "wk:page":"Angliers, Quebec"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101737477,
-    "wof:lastmodified":1563284143,
+    "wof:lastmodified":1566425382,
     "wof:name":"Angliers",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

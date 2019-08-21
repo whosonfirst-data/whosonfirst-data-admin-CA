@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.734985,
     "lbl:longitude":-108.327139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.734985,
     "mps:longitude":-108.327139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u043b\u0435\u0444\u043e\u0440\u0434"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.738333,
     "wd:longitude":-108.315278,
     "wd:wordcount":964,
@@ -82,7 +85,6 @@
         "gn:id":5895070,
         "gp:id":70,
         "qs:id":270595,
-        "qs_pg:id":270595,
         "wd:id":"Q619597",
         "wk:page":"Battleford"
     },
@@ -101,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284104,
+    "wof:lastmodified":1566425377,
     "wof:name":"Battleford",
     "wof:parent_id":1158868955,
     "wof:placetype":"locality",

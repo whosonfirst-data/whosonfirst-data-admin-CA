@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.98954,
     "lbl:longitude":-117.37753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.98954,
     "mps:longitude":-117.37753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "New Denver"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":433,
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
         "gn:id":6087524,
         "gp:id":9853,
         "qs:id":965541,
-        "qs_pg:id":965541,
         "wd:id":"Q2957439",
         "wk:page":"New Denver"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101740949,
-    "wof:lastmodified":1561844388,
+    "wof:lastmodified":1566425501,
     "wof:name":"New Denver",
     "wof:parent_id":890458089,
     "wof:placetype":"locality",

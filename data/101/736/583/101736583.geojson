@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.082976,
     "lbl:longitude":-74.685668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.082976,
     "mps:longitude":-74.685668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0628\u0648\u0641"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101736583,
-    "wof:lastmodified":1563284558,
+    "wof:lastmodified":1566425452,
     "wof:name":"Br\u00e9beuf",
     "wof:parent_id":890456307,
     "wof:placetype":"locality",

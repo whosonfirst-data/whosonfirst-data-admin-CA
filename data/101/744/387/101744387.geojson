@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
+    "geom:area_square_m":107038.249119,
     "geom:bbox":"-121.5804733,50.1923255,-121.5755391,50.1959577",
     "geom:latitude":50.194317,
     "geom:longitude":-121.577547,
     "iso:country":"CA",
     "lbl:latitude":50.194296,
     "lbl:longitude":-121.577348,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.194296,
     "mps:longitude":-121.577348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skuppah 2A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744387,
-    "wof:lastmodified":1533335893,
+    "wof:lastmodified":1566425904,
     "wof:name":"Skuppah 2A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

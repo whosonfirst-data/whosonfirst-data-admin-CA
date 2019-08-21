@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.078736,
     "lbl:longitude":-79.224405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.078736,
     "mps:longitude":-79.224405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062b\u0648\u0631\u0648\u0644\u062f"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":162.0,
     "wd:latitude":43.116667,
@@ -114,7 +117,6 @@
         "gn:id":6165719,
         "gp:id":1800,
         "qs:id":313087,
-        "qs_pg:id":313087,
         "wd:id":"Q448120",
         "wk:page":"Thorold"
     },
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101736127,
-    "wof:lastmodified":1563284445,
+    "wof:lastmodified":1566425434,
     "wof:name":"Thorold",
     "wof:parent_id":890456991,
     "wof:placetype":"locality",

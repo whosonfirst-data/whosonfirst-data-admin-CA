@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.225873,
     "lbl:longitude":-98.950744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.225873,
     "mps:longitude":-98.950744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gladstone"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.2258,
     "wd:longitude":-98.95,
     "wd:wordcount":244,
@@ -82,7 +85,6 @@
         "gn:id":5961655,
         "gp:id":2638,
         "qs:id":1249990,
-        "qs_pg:id":1249990,
         "wd:id":"Q63761",
         "wk:page":"Gladstone, Manitoba"
     },
@@ -101,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285259,
+    "wof:lastmodified":1566425839,
     "wof:name":"Gladstone",
     "wof:parent_id":1158868933,
     "wof:placetype":"locality",

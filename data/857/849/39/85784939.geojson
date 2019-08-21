@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17342869.600381,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.26237,48.514778,-71.26237,48.514778",
     "geom:latitude":48.514778,
     "geom:longitude":-71.26237,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.26737,48.509778,-71.25737,48.519778",
     "lbl:latitude":48.514778,
     "lbl:longitude":-71.26237,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.525856,
     "mps:longitude":-71.281725,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Shipshaw"
     ],
     "name:fra_x_preferred":[
-        "Shipshaw"
-    ],
-    "name:unk_x_variant":[
         "Shipshaw"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -73,8 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1688,
-        "qs:id":1324048,
-        "qs_pg:id":1324048
+        "qs:id":1324048
     },
     "wof:country":"CA",
     "wof:geomhash":"5eef894efe7cc3c3fdaf67fb7b2f96fc",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531860661,
+    "wof:lastmodified":1566424898,
     "wof:name":"Shipshaw",
     "wof:parent_id":101737173,
     "wof:placetype":"neighbourhood",

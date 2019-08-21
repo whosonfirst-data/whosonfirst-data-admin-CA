@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4539954.664262,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.487514,43.479673,-80.487514,43.479673",
     "geom:latitude":43.479673,
     "geom:longitude":-80.487514,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.492514,43.474673,-80.482514,43.484673",
     "lbl:latitude":43.479673,
     "lbl:longitude":-80.487514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.481463,
     "mps:longitude":-80.484259,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Bridgeport West"
-    ],
-    "name:unk_x_variant":[
         "Bridgeport West"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -72,8 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856287,
-        "qs:id":381469,
-        "qs_pg:id":381469
+        "qs:id":381469
     },
     "wof:country":"CA",
     "wof:geomhash":"f2f8b99d53e4bd42333bdd59626ef90b",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871999,
+    "wof:lastmodified":1566424979,
     "wof:name":"Bridgeport West",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

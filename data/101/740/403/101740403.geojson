@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.660568,
     "lbl:longitude":-103.437957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.660568,
     "mps:longitude":-103.437957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abernethy No. 186"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101740403,
-    "wof:lastmodified":1561844396,
+    "wof:lastmodified":1566425518,
     "wof:name":"Abernethy No. 186",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

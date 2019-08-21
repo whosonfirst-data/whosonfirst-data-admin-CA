@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9973.441426,
     "geom:bbox":"-123.8000971,55.9772664,-123.7978339,55.9785388",
     "geom:latitude":55.977902,
     "geom:longitude":-123.798965,
     "iso:country":"CA",
     "lbl:latitude":55.977903,
     "lbl:longitude":-123.798963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.977903,
     "mps:longitude":-123.798963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Finlay Bay 21"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746639,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566425776,
     "wof:name":"Finlay Bay 21",
     "wof:parent_id":890457207,
     "wof:placetype":"locality",

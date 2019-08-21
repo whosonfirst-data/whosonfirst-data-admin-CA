@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.938236,
     "lbl:longitude":-72.574829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.938236,
     "mps:longitude":-72.574829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Edmond-les-Plaines"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":186,
     "wof:belongsto":[
         102191575,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101736769,
-    "wof:lastmodified":1563284475,
+    "wof:lastmodified":1566425439,
     "wof:name":"Saint-Edmond-les-Plaines",
     "wof:parent_id":890458633,
     "wof:placetype":"locality",

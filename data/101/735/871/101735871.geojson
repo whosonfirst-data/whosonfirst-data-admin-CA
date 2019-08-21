@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.243863,
     "lbl:longitude":-79.114679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.243863,
     "mps:longitude":-79.114679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bonfield"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101735871,
-    "wof:lastmodified":1561844479,
+    "wof:lastmodified":1566425875,
     "wof:name":"Bonfield",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

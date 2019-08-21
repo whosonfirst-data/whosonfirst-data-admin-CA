@@ -11,8 +11,10 @@
     "geom:longitude":-83.028372,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-83.033372,42.293386,-83.023372,42.303386",
     "lbl:latitude":42.298386,
     "lbl:longitude":-83.028372,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.295734,
     "mps:longitude":-83.025561,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "South Central"
     ],
     "name:eng_x_preferred":[
-        "South Central"
-    ],
-    "name:unk_x_variant":[
         "South Central"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":125,
     "wof:belongsto":[
         85682057,
@@ -74,8 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856343,
-        "qs:id":1089540,
-        "qs_pg:id":1089540
+        "qs:id":1089540
     },
     "wof:country":"CA",
     "wof:geomhash":"459c4510fe1836ff02bf9c0ec7de1d22",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170834,
+    "wof:lastmodified":1566424975,
     "wof:name":"South Central",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10880419.321471,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.273056,46.163663,-60.273056,46.163663",
     "geom:latitude":46.163663,
     "geom:longitude":-60.273056,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-60.278056,46.158663,-60.268056,46.168663",
     "lbl:latitude":46.163663,
     "lbl:longitude":-60.273056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.166946,
     "mps:longitude":-60.266998,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Point Edward"
     ],
     "name:swe_x_preferred":[
-        "Point Edward"
-    ],
-    "name:unk_x_variant":[
         "Point Edward"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -67,19 +66,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":14,
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23391371,
-        "qs:id":231688,
-        "qs_pg:id":231688
+        "qs:id":231688
     },
     "wof:country":"CA",
     "wof:geomhash":"b902287f794f5731d19d3c64ee648329",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870863,
+    "wof:lastmodified":1566424940,
     "wof:name":"Point Edward",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

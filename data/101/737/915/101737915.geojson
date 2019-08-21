@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.085782,
     "lbl:longitude":-71.642583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.085782,
     "mps:longitude":-71.642583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Herm\u00e9n\u00e9gilde"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191575,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101737915,
-    "wof:lastmodified":1563284193,
+    "wof:lastmodified":1566425390,
     "wof:name":"Saint-Herm\u00e9n\u00e9gilde",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

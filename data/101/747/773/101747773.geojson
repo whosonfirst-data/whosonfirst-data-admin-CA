@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.324933,
     "lbl:longitude":-72.423734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.324933,
     "mps:longitude":-72.423734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "W\u00f4linak"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101747773,
-    "wof:lastmodified":1561844422,
+    "wof:lastmodified":1566425691,
     "wof:name":"R\u00e9serve de W\u00f4linak  No. 11",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

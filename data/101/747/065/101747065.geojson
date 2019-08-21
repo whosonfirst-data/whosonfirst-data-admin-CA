@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001135,
+    "geom:area_square_m":8678798.808007,
     "geom:bbox":"-94.003127,51.7975165,-93.9359227,51.8223856",
     "geom:latitude":51.811837,
     "geom:longitude":-93.969892,
     "iso:country":"CA",
     "lbl:latitude":51.810232,
     "lbl:longitude":-93.973873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.810232,
     "mps:longitude":-93.973873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pikangikum Indian Reserve No. 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101747065,
-    "wof:lastmodified":1533335679,
+    "wof:lastmodified":1566425562,
     "wof:name":"Pikangikum Indian Reserve No. 14",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

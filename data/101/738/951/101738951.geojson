@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.263564,
     "lbl:longitude":-109.823973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.263564,
     "mps:longitude":-109.823973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Primate"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14507,
     "wof:belongsto":[
         102191575,
@@ -56,7 +59,6 @@
         "gn:id":6113294,
         "gp:id":23402867,
         "qs:id":492053,
-        "qs_pg:id":492053,
         "wd:id":"Q2202301"
     },
     "wof:country":"CA",
@@ -74,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844368,
+    "wof:lastmodified":1566425470,
     "wof:name":"Primate",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

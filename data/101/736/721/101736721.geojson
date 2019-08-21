@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.531994,
     "lbl:longitude":-74.194861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.531994,
     "mps:longitude":-74.194861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Placide"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101736721,
-    "wof:lastmodified":1563284549,
+    "wof:lastmodified":1566425451,
     "wof:name":"Saint-Placide",
     "wof:parent_id":890456485,
     "wof:placetype":"locality",

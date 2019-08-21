@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001492,
+    "geom:area_square_m":10886918.718508,
     "geom:bbox":"-100.4306093,53.8199929,-100.3623467,53.8489485",
     "geom:latitude":53.836944,
     "geom:longitude":-100.394864,
     "iso:country":"CA",
     "lbl:latitude":53.837764,
     "lbl:longitude":-100.394868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.837764,
     "mps:longitude":-100.394868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Lake 31G"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746793,
-    "wof:lastmodified":1531523804,
+    "wof:lastmodified":1566425767,
     "wof:name":"Moose Lake 31G",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

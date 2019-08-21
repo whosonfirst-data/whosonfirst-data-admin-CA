@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":52.110604,
     "lbl:longitude":-106.71008,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.110604,
     "mps:longitude":-106.71008,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-106.71008,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1126114049,
-    "wof:lastmodified":1531524182,
+    "wof:lastmodified":1566426176,
     "wof:name":"South West Industrial",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

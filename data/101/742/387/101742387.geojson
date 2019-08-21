@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000232,
+    "geom:area_square_m":1852434.345931,
     "geom:bbox":"-102.9093025,49.8283386,-102.8862448,49.8424764",
     "geom:latitude":49.836523,
     "geom:longitude":-102.899367,
     "iso:country":"CA",
     "lbl:latitude":49.836721,
     "lbl:longitude":-102.902826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.836721,
     "mps:longitude":-102.902826,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ocean Man I.R. 69D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742387,
-    "wof:lastmodified":1531524505,
+    "wof:lastmodified":1566425943,
     "wof:name":"Ocean Man I.R. 69D",
     "wof:parent_id":1158868967,
     "wof:placetype":"locality",

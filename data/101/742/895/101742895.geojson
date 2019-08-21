@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
+    "geom:area_square_m":645069.572305,
     "geom:bbox":"-128.0389842,55.0717199,-128.026336,55.0789781",
     "geom:latitude":55.075349,
     "geom:longitude":-128.03266,
     "iso:country":"CA",
     "lbl:latitude":55.075349,
     "lbl:longitude":-128.03266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.075349,
     "mps:longitude":-128.03266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tum-Bah 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742895,
-    "wof:lastmodified":1533335869,
+    "wof:lastmodified":1566425929,
     "wof:name":"Tum-Bah 5",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.391666,
     "lbl:longitude":-75.684015,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.397928,
     "mps:longitude":-75.681968,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":65.0,
     "wd:latitude":45.391667,
     "wd:longitude":-75.683333,
@@ -63,7 +64,6 @@
     "wof:concordances":{
         "gp:id":55855945,
         "qs:id":890950,
-        "qs_pg:id":890950,
         "wd:id":"Q4333437"
     },
     "wof:controlled":[],
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844224,
+    "wof:lastmodified":1566425001,
     "wof:name":"Old Ottawa South",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

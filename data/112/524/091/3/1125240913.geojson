@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":598955.539083,
+    "geom:area_square_m":598955.53908,
     "geom:bbox":"-75.7991459997,45.338555423,-75.788018,45.3494219997",
     "geom:latitude":45.343885,
     "geom:longitude":-75.792587,
     "iso:country":"CA",
     "lbl:latitude":45.343563,
     "lbl:longitude":-75.792503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.343563,
     "mps:longitude":-75.792503,
     "mz:hierarchy_label":1,
@@ -30,12 +31,12 @@
     "reversegeo:longitude":-75.792503,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1125240913,
-    "wof:lastmodified":1533277876,
+    "wof:lastmodified":1566426233,
     "wof:name":"Redwood",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

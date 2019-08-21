@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.914923,
     "lbl:longitude":-73.698535,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.914923,
     "mps:longitude":-73.698535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Montcalm"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Montcalm",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2463",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890457815,
-    "wof:lastmodified":1564173393,
+    "wof:lastmodified":1566426145,
     "wof:name":"Montcalm",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

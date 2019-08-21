@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":219780.222887,
     "geom:bbox":"-126.9815908,49.8712149,-126.9737673,49.8766316",
     "geom:latitude":49.874462,
     "geom:longitude":-126.976917,
     "iso:country":"CA",
     "lbl:latitude":49.874718,
     "lbl:longitude":-126.976912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.874718,
     "mps:longitude":-126.976912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chenahkint 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743181,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566425913,
     "wof:name":"Chenahkint 12",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

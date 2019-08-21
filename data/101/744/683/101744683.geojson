@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2532.730565,
     "geom:bbox":"-123.4798915,49.4040993,-123.4792542,49.4048415",
     "geom:latitude":49.40451,
     "geom:longitude":-123.479593,
     "iso:country":"CA",
     "lbl:latitude":49.404684,
     "lbl:longitude":-123.479322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.404684,
     "mps:longitude":-123.479322,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Schaltuuch 27"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":23405487
     },
     "wof:country":"CA",
-    "wof:geomhash":"9b24d7d35e087ce44fb9a5bfd0f51300",
+    "wof:geomhash":"d4a4a778e8e7e5a1130d161a958cf76e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101744683,
-    "wof:lastmodified":1493163512,
+    "wof:lastmodified":1566425901,
     "wof:name":"Schaltuuch 27",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

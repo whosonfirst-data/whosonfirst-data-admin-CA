@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":39916.389046,
     "geom:bbox":"-123.0452631,54.6850385,-123.0389888,54.686979",
     "geom:latitude":54.68597,
     "geom:longitude":-123.042589,
     "iso:country":"CA",
     "lbl:latitude":54.685892,
     "lbl:longitude":-123.042595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.685892,
     "mps:longitude":-123.042595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weedon Lake 27"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745357,
-    "wof:lastmodified":1533335908,
+    "wof:lastmodified":1566425971,
     "wof:name":"Weedon Lake 27",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

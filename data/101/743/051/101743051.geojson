@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":41108.833752,
     "geom:bbox":"-126.7159376,50.9524599,-126.7129801,50.9544259",
     "geom:latitude":50.953485,
     "geom:longitude":-126.714429,
     "iso:country":"CA",
     "lbl:latitude":50.9535,
     "lbl:longitude":-126.714436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.9535,
     "mps:longitude":-126.714436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quay 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743051,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566425921,
     "wof:name":"Quay 4",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

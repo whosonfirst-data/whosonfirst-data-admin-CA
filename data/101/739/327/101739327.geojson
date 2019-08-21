@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.863159,
     "lbl:longitude":-104.332002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.863159,
     "mps:longitude":-104.332002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Star City"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.8667,
     "wd:longitude":-104.333,
     "wd:wordcount":216,
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284087,
+    "wof:lastmodified":1566425375,
     "wof:name":"Star City",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.12939,
     "lbl:longitude":-77.362226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.12939,
     "mps:longitude":-77.362226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0428\u0435\u043d\u0431\u043e\u0440\u043e"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":984,
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,6 @@
         "gn:id":7289868,
         "gp:id":23395587,
         "qs:id":1164976,
-        "qs_pg:id":1164976,
         "wd:id":"Q3481704",
         "wk:page":"Sheenboro"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101737513,
-    "wof:lastmodified":1563284318,
+    "wof:lastmodified":1566425412,
     "wof:name":"Sheenboro",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

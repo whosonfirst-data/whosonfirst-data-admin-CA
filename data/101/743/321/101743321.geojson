@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16759.97775,
     "geom:bbox":"-126.8019615,56.0944228,-126.7988072,56.0963366",
     "geom:latitude":56.095316,
     "geom:longitude":-126.800478,
     "iso:country":"CA",
     "lbl:latitude":56.095275,
     "lbl:longitude":-126.800498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.095275,
     "mps:longitude":-126.800498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsaytut Island 1C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743321,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566425923,
     "wof:name":"Tsaytut Island 1C",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

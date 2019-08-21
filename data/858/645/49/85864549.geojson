@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10759866.735178,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.294374,43.139707,-80.294374,43.139707",
     "geom:latitude":43.139707,
     "geom:longitude":-80.294374,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.299374,43.134707,-80.289374,43.144707",
     "lbl:latitude":43.139707,
     "lbl:longitude":-80.294374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.133993,
     "mps:longitude":-80.295006,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Holmedale"
-    ],
-    "name:unk_x_variant":[
         "Holmedale"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399597,
-        "qs:id":367262,
-        "qs_pg:id":367262
+        "qs:id":367262
     },
     "wof:country":"CA",
     "wof:geomhash":"8320e3149558b350652267821eddcd04",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870917,
+    "wof:lastmodified":1566424945,
     "wof:name":"Holmedale",
     "wof:parent_id":101735567,
     "wof:placetype":"neighbourhood",

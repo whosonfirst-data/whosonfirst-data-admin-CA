@@ -14,15 +14,18 @@
     "geom:longitude":-112.425718,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.295969,
     "lbl:longitude":-112.423004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.295969,
     "mps:longitude":-112.423004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0644\u064a"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":"53.289444",
     "wd:longitude":"-112.428333",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890458377,
-    "wof:lastmodified":1563286004,
+    "wof:lastmodified":1566426016,
     "wof:name":"Ryley",
     "wof:parent_id":1158863161,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15076842.575185,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.597523,43.830451,-79.597523,43.830451",
     "geom:latitude":43.830451,
     "geom:longitude":-79.597523,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.602523,43.825451,-79.592523,43.835451",
     "lbl:latitude":43.830451,
     "lbl:longitude":-79.597523,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.830539,
     "mps:longitude":-79.608274,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Sonoma Heights"
-    ],
-    "name:unk_x_variant":[
         "Sonoma Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999443,
-        "qs:id":1355012,
-        "qs_pg:id":1355012
+        "qs:id":1355012
     },
     "wof:country":"CA",
     "wof:geomhash":"0adb33f55c9ed3770cc909205b555088",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931413,
+    "wof:lastmodified":1566424928,
     "wof:name":"Sonoma Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

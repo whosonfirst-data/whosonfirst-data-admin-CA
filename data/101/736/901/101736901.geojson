@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":46.351732,
     "lbl:longitude":-72.596893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.472397,
     "mps:longitude":-74.306699,
     "mz:hierarchy_label":1,
@@ -81,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -113,7 +115,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284355,
+    "wof:lastmodified":1566425416,
     "wof:name":"Rigaud",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

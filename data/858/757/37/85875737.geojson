@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3173906.868504,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.45016,45.589669,-73.45016,45.589669",
     "geom:latitude":45.589669,
     "geom:longitude":-73.45016,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.45516,45.584669,-73.44516,45.594669",
     "lbl:latitude":45.589669,
     "lbl:longitude":-73.45016,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.593168,
     "mps:longitude":-73.446994,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Seigneurie"
     ],
     "name:fra_x_preferred":[
-        "De la Seigneurie"
-    ],
-    "name:unk_x_variant":[
         "De la Seigneurie"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856794,
-        "qs:id":381715,
-        "qs_pg:id":381715
+        "qs:id":381715
     },
     "wof:country":"CA",
     "wof:geomhash":"c803fa413801d50c98bb7b638cbb1db6",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872215,
+    "wof:lastmodified":1566424981,
     "wof:name":"Seigneurie",
     "wof:parent_id":101738135,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.575679,
     "lbl:longitude":-113.49877,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.583646,
     "mps:longitude":-113.50773,
     "mz:hierarchy_label":1,
@@ -41,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -53,7 +54,6 @@
     "wof:concordances":{
         "gp:id":55856038,
         "qs:id":230673,
-        "qs_pg:id":230673,
         "wd:id":"Q7989839"
     },
     "wof:country":"CA",
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282022,
+    "wof:lastmodified":1566424966,
     "wof:name":"Westwood",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.429774,
     "lbl:longitude":-123.413912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.429774,
     "mps:longitude":-123.413912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0643\u0648\u064a\u0645\u0627\u0644\u062a"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.430556,
     "wd:longitude":-123.414722,
     "wd:wordcount":1243,
@@ -78,7 +81,6 @@
         "gn:id":5949512,
         "gp:id":9118,
         "qs:id":1074096,
-        "qs_pg:id":1074096,
         "wd:id":"Q14944797",
         "wk:page":"Esquimalt"
     },
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101741045,
-    "wof:lastmodified":1563285186,
+    "wof:lastmodified":1566425819,
     "wof:name":"Esquimalt",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

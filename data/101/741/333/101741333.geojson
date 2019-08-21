@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10204.678979,
     "geom:bbox":"-79.576074,45.1170814,-79.5733269,45.1188989",
     "geom:latitude":45.117875,
     "geom:longitude":-79.574588,
     "iso:country":"CA",
     "lbl:latitude":45.117513,
     "lbl:longitude":-79.574883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.117513,
     "mps:longitude":-79.574883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Indian River Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191575,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101741333,
-    "wof:lastmodified":1533335666,
+    "wof:lastmodified":1566425818,
     "wof:name":"Indian River Reserve",
     "wof:parent_id":890458545,
     "wof:placetype":"locality",

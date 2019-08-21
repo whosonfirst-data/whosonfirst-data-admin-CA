@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":11424.683874,
     "geom:bbox":"-125.1346117,54.8216526,-125.1322554,54.8229901",
     "geom:latitude":54.822251,
     "geom:longitude":-125.133325,
     "iso:country":"CA",
     "lbl:latitude":54.822134,
     "lbl:longitude":-125.133348,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.822134,
     "mps:longitude":-125.133348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Noo Kat 42"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745303,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566425971,
     "wof:name":"Noo Kat 42",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.756622,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.761622,43.20629,-79.751622,43.21629",
     "lbl:latitude":43.21129,
     "lbl:longitude":-79.756622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.207026,
     "mps:longitude":-79.76497,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Saltfleet"
     ],
     "name:spa_x_preferred":[
-        "Saltfleet"
-    ],
-    "name:unk_x_variant":[
         "Saltfleet"
     ],
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":53.4227,
     "wd:longitude":0.185272,
     "wd:wordcount":499,
@@ -79,8 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999462,
-        "qs:id":384920,
-        "qs_pg:id":384920
+        "qs:id":384920
     },
     "wof:country":"CA",
     "wof:geomhash":"530876818fc81ea8a8f6d6c7f6c69051",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170680,
+    "wof:lastmodified":1566424930,
     "wof:name":"Saltfleet",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

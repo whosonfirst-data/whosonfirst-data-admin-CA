@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":28937.674267,
     "geom:bbox":"-121.5191199,50.2584228,-121.5156158,50.260318",
     "geom:latitude":50.259618,
     "geom:longitude":-121.516919,
     "iso:country":"CA",
     "lbl:latitude":50.259571,
     "lbl:longitude":-121.516807,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.259571,
     "mps:longitude":-121.516807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nocten 19"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101746801,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566425777,
     "wof:name":"Nocten 19",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

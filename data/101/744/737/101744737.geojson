@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":3946.843979,
     "geom:bbox":"-122.6584408,49.2158216,-122.6580714,49.2172691",
     "geom:latitude":49.216531,
     "geom:longitude":-122.658253,
     "iso:country":"CA",
     "lbl:latitude":49.216538,
     "lbl:longitude":-122.658257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.216538,
     "mps:longitude":-122.658257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Graveyard 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101744737,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566425890,
     "wof:name":"Graveyard 5",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

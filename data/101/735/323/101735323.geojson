@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.713984,
     "lbl:longitude":-65.722058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.713984,
     "mps:longitude":-65.722058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beresford"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":5.0,
     "wd:latitude":47.695,
     "wd:longitude":-65.7017,
@@ -77,7 +80,6 @@
         "gn:id":6640171,
         "gp:id":23392450,
         "qs:id":1182675,
-        "qs_pg:id":1182675,
         "wd:id":"Q1994373",
         "wk:page":"Beresford, New Brunswick"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101735323,
-    "wof:lastmodified":1563285395,
+    "wof:lastmodified":1566425864,
     "wof:name":"Beresford",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

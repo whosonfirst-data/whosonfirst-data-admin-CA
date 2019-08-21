@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
+    "geom:area_square_m":1022552.135492,
     "geom:bbox":"-124.9607405,54.8116156,-124.9417821,54.8218513",
     "geom:latitude":54.817811,
     "geom:longitude":-124.950253,
     "iso:country":"CA",
     "lbl:latitude":54.817543,
     "lbl:longitude":-124.947589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.817543,
     "mps:longitude":-124.947589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teeslee 15"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744587,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566425897,
     "wof:name":"Teeslee 15",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

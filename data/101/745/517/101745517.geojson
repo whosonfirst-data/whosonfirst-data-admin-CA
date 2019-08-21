@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
+    "geom:area_square_m":1061183.559464,
     "geom:bbox":"-122.4567412,52.5535188,-122.4381038,52.5660448",
     "geom:latitude":52.560105,
     "geom:longitude":-122.448203,
     "iso:country":"CA",
     "lbl:latitude":52.557109,
     "lbl:longitude":-122.450502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.557109,
     "mps:longitude":-122.450502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alexandria 1A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745517,
-    "wof:lastmodified":1533335912,
+    "wof:lastmodified":1566425966,
     "wof:name":"Alexandria 1A",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.27129,
     "lbl:longitude":-73.307569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.27129,
     "mps:longitude":-73.307569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "D\u2019Autray"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"D'Autray",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2452",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890458107,
-    "wof:lastmodified":1563286035,
+    "wof:lastmodified":1566426029,
     "wof:name":"D'Autray",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005459,
+    "geom:area_square_m":47105440.264654,
     "geom:bbox":"-80.5223102,45.7263706,-80.395875,45.7813589",
     "geom:latitude":45.74986,
     "geom:longitude":-80.460388,
     "iso:country":"CA",
     "lbl:latitude":45.745217,
     "lbl:longitude":-80.460594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.745217,
     "mps:longitude":-80.460594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magnetawan Indian Reserve No. 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741383,
-    "wof:lastmodified":1533335669,
+    "wof:lastmodified":1566425810,
     "wof:name":"Magnetawan Indian Reserve No. 1",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

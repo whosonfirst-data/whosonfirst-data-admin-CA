@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22055645.130347,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.560322,44.300632,-76.560322,44.300632",
     "geom:latitude":44.300632,
     "geom:longitude":-76.560322,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.565322,44.295632,-76.555322,44.305632",
     "lbl:latitude":44.300632,
     "lbl:longitude":-76.560322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.30027,
     "mps:longitude":-76.563739,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Silvers Corners"
-    ],
-    "name:unk_x_variant":[
         "Silvers Corners"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23401332,
-        "qs:id":14821,
-        "qs_pg:id":14821
+        "qs:id":14821
     },
     "wof:country":"CA",
     "wof:geomhash":"a9789d6efae9931f140dd31365ee42d5",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870954,
+    "wof:lastmodified":1566424986,
     "wof:name":"Silvers Corners",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

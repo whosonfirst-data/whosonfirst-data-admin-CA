@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.048126,
     "lbl:longitude":-64.8142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.048126,
     "mps:longitude":-64.8142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Riverview"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.0612,
     "wd:longitude":-64.8052,
     "wd:wordcount":780,
@@ -88,7 +91,6 @@
         "gn:id":6122758,
         "gp:id":23392448,
         "qs:id":1077030,
-        "qs_pg:id":1077030,
         "wd:id":"Q2532991",
         "wk:page":"Riverview, New Brunswick"
     },
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101735169,
-    "wof:lastmodified":1563285320,
+    "wof:lastmodified":1566425851,
     "wof:name":"Riverview",
     "wof:parent_id":890456457,
     "wof:placetype":"locality",

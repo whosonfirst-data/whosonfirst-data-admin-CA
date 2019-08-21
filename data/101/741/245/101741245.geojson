@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.358112,
     "lbl:longitude":-62.706391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.358112,
     "mps:longitude":-62.706391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043b"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101741245,
-    "wof:lastmodified":1561844434,
+    "wof:lastmodified":1566425795,
     "wof:name":"Morell Indian Reserve No. 2",
     "wof:parent_id":890456459,
     "wof:placetype":"locality",

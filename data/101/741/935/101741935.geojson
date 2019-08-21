@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01155,
+    "geom:area_square_m":80024017.979558,
     "geom:bbox":"-109.1366509,55.882655,-108.8823567,55.9917464",
     "geom:latitude":55.923042,
     "geom:longitude":-109.035928,
     "iso:country":"CA",
     "lbl:latitude":55.926286,
     "lbl:longitude":-109.087956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.926286,
     "mps:longitude":-109.087956,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buffalo River Dene Nation I.R. 193"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741935,
-    "wof:lastmodified":1531525153,
+    "wof:lastmodified":1566425816,
     "wof:name":"Buffalo River Dene Nation I.R. 193",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

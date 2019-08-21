@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1404160.215846,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.6286,53.610337,-113.6286,53.610337",
     "geom:latitude":53.610337,
     "geom:longitude":-113.6286,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.6336,53.605337,-113.6236,53.615337",
     "lbl:latitude":53.610337,
     "lbl:longitude":-113.6286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.605567,
     "mps:longitude":-113.635108,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458621,
@@ -44,8 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998577,
-        "qs:id":996345,
-        "qs_pg:id":996345
+        "qs:id":996345
     },
     "wof:country":"CA",
     "wof:geomhash":"ccd3628c2df48f29f2956569aae61da2",
@@ -62,7 +63,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931214,
+    "wof:lastmodified":1566424997,
     "wof:name":"Heritage Lakes",
     "wof:parent_id":890458621,
     "wof:placetype":"neighbourhood",

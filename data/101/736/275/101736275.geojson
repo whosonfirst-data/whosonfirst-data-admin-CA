@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.113417,
     "lbl:longitude":-79.54046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.113417,
     "mps:longitude":-79.54046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Muskoka Lakes"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":442,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101736275,
-    "wof:lastmodified":1563284397,
+    "wof:lastmodified":1566425423,
     "wof:name":"Muskoka Lakes",
     "wof:parent_id":890458545,
     "wof:placetype":"locality",

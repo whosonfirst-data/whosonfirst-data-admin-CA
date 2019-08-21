@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
+    "geom:area_square_m":2520814.395148,
     "geom:bbox":"-126.4824773,55.0562449,-126.4596017,55.0748026",
     "geom:latitude":55.06677,
     "geom:longitude":-126.471015,
     "iso:country":"CA",
     "lbl:latitude":55.066807,
     "lbl:longitude":-126.471014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.066807,
     "mps:longitude":-126.471014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Babine Lake 20"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743303,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566425915,
     "wof:name":"Babine Lake 20",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

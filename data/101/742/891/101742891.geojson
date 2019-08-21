@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
+    "geom:area_square_m":719630.663461,
     "geom:bbox":"-128.0197369,55.0864031,-127.994602,55.0970485",
     "geom:latitude":55.089657,
     "geom:longitude":-128.002662,
     "iso:country":"CA",
     "lbl:latitude":55.08884,
     "lbl:longitude":-127.999107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.08884,
     "mps:longitude":-127.999107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gitwangak 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742891,
-    "wof:lastmodified":1533335869,
+    "wof:lastmodified":1566425941,
     "wof:name":"Gitwangak 2",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

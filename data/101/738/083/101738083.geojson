@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.788409,
     "lbl:longitude":-79.440278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.788409,
     "mps:longitude":-79.440278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u062f\u064a\u0644\u064a\u0643"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Canton",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":282,
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101738083,
-    "wof:lastmodified":1563284597,
+    "wof:lastmodified":1566425458,
     "wof:name":"N\u00e9d\u00e9lec",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

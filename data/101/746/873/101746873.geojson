@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000791,
+    "geom:area_square_m":5504205.70419,
     "geom:bbox":"-100.9923827,55.7570731,-100.9415036,55.791673",
     "geom:latitude":55.77486,
     "geom:longitude":-100.964902,
     "iso:country":"CA",
     "lbl:latitude":55.778597,
     "lbl:longitude":-100.958957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.778597,
     "mps:longitude":-100.958957,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kimosominahk Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746873,
-    "wof:lastmodified":1533070072,
+    "wof:lastmodified":1566425746,
     "wof:name":"Kimosominahk Indian Reserve",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

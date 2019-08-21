@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
+    "geom:area_square_m":564052.344249,
     "geom:bbox":"-124.8529405,48.6678936,-124.8417341,48.6753237",
     "geom:latitude":48.671873,
     "geom:longitude":-124.8466,
     "iso:country":"CA",
     "lbl:latitude":48.671685,
     "lbl:longitude":-124.846583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.671685,
     "mps:longitude":-124.846583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wyah 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745535,
-    "wof:lastmodified":1533335913,
+    "wof:lastmodified":1566425949,
     "wof:name":"Wyah 3",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

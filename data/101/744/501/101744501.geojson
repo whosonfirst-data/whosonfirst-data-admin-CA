@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":46669.924217,
     "geom:bbox":"-123.4189242,54.7811062,-123.4120528,54.7849758",
     "geom:latitude":54.783653,
     "geom:longitude":-123.415844,
     "iso:country":"CA",
     "lbl:latitude":54.784336,
     "lbl:longitude":-123.41515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.784336,
     "mps:longitude":-123.41515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carp Lake 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744501,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566425897,
     "wof:name":"Carp Lake 3",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

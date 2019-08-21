@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5790.917326,
     "geom:bbox":"-104.6194795,50.4599301,-104.6189414,50.4613009",
     "geom:latitude":50.460615,
     "geom:longitude":-104.619211,
     "iso:country":"CA",
     "lbl:latitude":50.460626,
     "lbl:longitude":-104.619208,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.460626,
     "mps:longitude":-104.619208,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Piapot Urban Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746839,
-    "wof:lastmodified":1531524451,
+    "wof:lastmodified":1566425777,
     "wof:name":"Piapot Urban Reserve",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

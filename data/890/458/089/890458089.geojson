@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.856411,
     "lbl:longitude":-117.317474,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.856411,
     "mps:longitude":-117.317474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Regional District of Central Kootenay"
     ],
@@ -75,7 +78,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Central Kootenay",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5903",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890458089,
-    "wof:lastmodified":1563286049,
+    "wof:lastmodified":1566426031,
     "wof:name":"Central Kootenay",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

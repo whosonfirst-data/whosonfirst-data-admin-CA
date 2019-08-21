@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":979693.078907,
+    "geom:area_square_m":979693.078905,
     "geom:bbox":"-114.135292,51.010101,-114.117924,51.021601",
     "geom:latitude":51.017224,
     "geom:longitude":-114.124675,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.01742,
     "lbl:longitude":-114.125103,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.015625,
     "mps:longitude":-114.108916,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
     "name:eng_x_variant":[
         "Currie P.M.Q.",
         "Currie"
-    ],
-    "name:unk_x_variant":[
-        "Currie Barracks"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -81,8 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342794,
-        "qs:id":368702,
-        "qs_pg:id":368702
+        "qs:id":368702
     },
     "wof:country":"CA",
     "wof:geomhash":"6fe244aa22d4707d8e65b868303a7b9c",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270096,
+    "wof:lastmodified":1566424947,
     "wof:name":"Currie Barracks",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

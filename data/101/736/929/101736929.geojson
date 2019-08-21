@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.495626,
     "lbl:longitude":-73.965073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.495626,
     "mps:longitude":-73.965073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u062a\u064a \u0643\u0627\u0644\u0648\u0645\u064a\u062a"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":655,
     "wof:belongsto":[
         102191575,
@@ -82,7 +85,6 @@
         "gn:id":6107272,
         "gp:id":1218,
         "qs:id":1192358,
-        "qs_pg:id":1192358,
         "wd:id":"Q509329",
         "wk:page":"Pointe-Calumet, Quebec"
     },
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101736929,
-    "wof:lastmodified":1563284543,
+    "wof:lastmodified":1566425450,
     "wof:name":"Pointe-Calumet",
     "wof:parent_id":136251273,
     "wof:placetype":"locality",

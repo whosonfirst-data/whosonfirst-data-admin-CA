@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
+    "geom:area_square_m":1238206.071368,
     "geom:bbox":"-123.540553,53.1811223,-123.5163936,53.1883889",
     "geom:latitude":53.184748,
     "geom:longitude":-123.528441,
     "iso:country":"CA",
     "lbl:latitude":53.184756,
     "lbl:longitude":-123.522473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.184756,
     "mps:longitude":-123.522473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trout Lake Alec 16"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745161,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566425947,
     "wof:name":"Trout Lake Alec 16",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

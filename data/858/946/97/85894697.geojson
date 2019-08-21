@@ -11,8 +11,10 @@
     "geom:longitude":-122.68461,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.68961,49.21468,-122.67961,49.22468",
     "lbl:latitude":49.21968,
     "lbl:longitude":-122.68461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.227635,
     "mps:longitude":-122.694951,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0446\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Town Centre"
     ],
     "name:yue_x_preferred":[
         "\u5e02\u4e2d\u5fc3"
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":719,
     "wof:belongsto":[
         85682117,
@@ -89,7 +88,6 @@
     "wof:concordances":{
         "gp:id":55998762,
         "qs:id":1090790,
-        "qs_pg:id":1090790,
         "wd:id":"Q7830048"
     },
     "wof:country":"CA",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281957,
+    "wof:lastmodified":1566424954,
     "wof:name":"Town Centre",
     "wof:parent_id":101741079,
     "wof:placetype":"neighbourhood",

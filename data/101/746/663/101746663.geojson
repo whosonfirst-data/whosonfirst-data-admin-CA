@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002076,
+    "geom:area_square_m":14852224.806344,
     "geom:bbox":"-95.1108436,54.6066585,-94.9081512,54.6828386",
     "geom:latitude":54.648759,
     "geom:longitude":-95.021776,
     "iso:country":"CA",
     "lbl:latitude":54.638482,
     "lbl:longitude":-95.063992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.638482,
     "mps:longitude":-95.063992,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Munro Lake"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746663,
-    "wof:lastmodified":1533069728,
+    "wof:lastmodified":1566425775,
     "wof:name":"Munro Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.916776,
     "lbl:longitude":-72.396954,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.916776,
     "mps:longitude":-72.396954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0628\u0627\u0646\u064a\u0644"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":315,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
         "gn:id":5883074,
         "gp:id":7,
         "qs:id":614426,
-        "qs_pg:id":614426,
         "wd:id":"Q2830791",
         "wk:page":"Albanel, Quebec"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737713,
-    "wof:lastmodified":1563284190,
+    "wof:lastmodified":1566425389,
     "wof:name":"Albanel",
     "wof:parent_id":890458633,
     "wof:placetype":"locality",

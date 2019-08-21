@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
+    "geom:area_square_m":3878594.998774,
     "geom:bbox":"-101.7733931,51.2274926,-101.7268884,51.3013346",
     "geom:latitude":51.274176,
     "geom:longitude":-101.746194,
     "iso:country":"CA",
     "lbl:latitude":51.292426,
     "lbl:longitude":-101.732798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.292426,
     "mps:longitude":-101.732798,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keeseekoose I.R. 66-Ca-05"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101742513,
-    "wof:lastmodified":1531525251,
+    "wof:lastmodified":1566425943,
     "wof:name":"Keeseekoose I.R. 66-Ca-05",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

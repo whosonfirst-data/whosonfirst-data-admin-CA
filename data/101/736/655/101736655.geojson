@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.78005,
     "lbl:longitude":-75.141165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.78005,
     "mps:longitude":-75.141165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Ripon"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "gn:id":6122472,
         "gp:id":1335,
         "qs:id":1196670,
-        "qs_pg:id":1196670,
         "wd:id":"Q3433048",
         "wk:page":"Ripon, Quebec"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101736655,
-    "wof:lastmodified":1563284516,
+    "wof:lastmodified":1566425446,
     "wof:name":"Ripon",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11271022.761352,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-52.75105,47.603519,-52.75105,47.603519",
     "geom:latitude":47.603519,
     "geom:longitude":-52.75105,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-52.75605,47.598519,-52.74605,47.608519",
     "lbl:latitude":47.603519,
     "lbl:longitude":-52.75105,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.604057,
     "mps:longitude":-52.76536,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Airport Heights"
-    ],
-    "name:unk_x_variant":[
         "Airport Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,18 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633041,
-        1158869009,
         85682123
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999858,
-        "qs:id":1355146,
-        "qs_pg:id":1355146
+        "qs:id":1355146
     },
     "wof:country":"CA",
     "wof:geomhash":"0f7ed7a82ee2db9a24ad9583b21e30e5",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931493,
+    "wof:lastmodified":1566424971,
     "wof:name":"Airport Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

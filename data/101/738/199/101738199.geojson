@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.238245,
     "lbl:longitude":-72.15221,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.238245,
     "mps:longitude":-72.15221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0648\u063a\u060c \u0643\u064a\u0628\u0643"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":596,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
         "gn:id":6064180,
         "gp:id":3563,
         "qs:id":160298,
-        "qs_pg:id":160298,
         "wd:id":"Q142004",
         "wk:page":"Magog, Quebec"
     },
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101738199,
-    "wof:lastmodified":1563284679,
+    "wof:lastmodified":1566425470,
     "wof:name":"Magog",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

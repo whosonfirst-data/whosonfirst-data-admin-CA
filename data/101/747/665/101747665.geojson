@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":46117.159574,
     "geom:bbox":"-123.6873968,48.8903015,-123.6854837,48.8947441",
     "geom:latitude":48.89253,
     "geom:longitude":-123.686459,
     "iso:country":"CA",
     "lbl:latitude":48.892672,
     "lbl:longitude":-123.686379,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.892672,
     "mps:longitude":-123.686379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Say-La-Quas 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747665,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566425676,
     "wof:name":"Say-La-Quas 10",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7774389.596088,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.755219,45.963243,-66.755219,45.963243",
     "geom:latitude":45.963243,
     "geom:longitude":-66.755219,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.760219,45.958243,-66.750219,45.968243",
     "lbl:latitude":45.963243,
     "lbl:longitude":-66.755219,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.968414,
     "mps:longitude":-66.760634,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Silverwood"
-    ],
-    "name:unk_x_variant":[
         "Silverwood"
     ],
     "qs:gn_id":0,
@@ -55,19 +54,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735269,
-        890458685,
-        85682065
+        890458685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23393247,
-        "qs:id":990049,
-        "qs_pg:id":990049
+        "qs:id":990049
     },
     "wof:country":"CA",
     "wof:geomhash":"64398d98b08ee56709831d03cfda7b05",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870872,
+    "wof:lastmodified":1566424939,
     "wof:name":"Silverwood",
     "wof:parent_id":101735269,
     "wof:placetype":"neighbourhood",

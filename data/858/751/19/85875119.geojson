@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":42.323342,
     "lbl:longitude":-83.007491,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.323077,
     "mps:longitude":-82.997546,
     "mz:hierarchy_label":0,
@@ -56,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u0434-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Ford City"
-    ],
     "name:vol_x_preferred":[
         "Ford City"
     ],
@@ -91,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":37,
     "wof:belongsto":[
         85682057,
@@ -103,8 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856331,
-        "qs:id":381504,
-        "qs_pg:id":381504
+        "qs:id":381504
     },
     "wof:country":"CA",
     "wof:geomhash":"a598e96d03294f0e1c0b7b7439019221",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170832,
+    "wof:lastmodified":1566424974,
     "wof:name":"Ford City",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

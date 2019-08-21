@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.322016,
     "lbl:longitude":-123.157346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.322016,
     "mps:longitude":-123.157346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mackenzie"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":608,
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
         "gn:id":6063191,
         "gp:id":9389,
         "qs:id":1252671,
-        "qs_pg:id":1252671,
         "wd:id":"Q6724341",
         "wk:page":"Mackenzie, British Columbia"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101740819,
-    "wof:lastmodified":1563284791,
+    "wof:lastmodified":1566425491,
     "wof:name":"Mackenzie",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

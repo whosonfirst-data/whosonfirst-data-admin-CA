@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1961917.904731,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.464938,45.597203,-73.464938,45.597203",
     "geom:latitude":45.597203,
     "geom:longitude":-73.464938,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.469938,45.592203,-73.459938,45.602203",
     "lbl:latitude":45.597203,
     "lbl:longitude":-73.464938,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.596357,
     "mps:longitude":-73.461529,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "De la Broquerie"
     ],
     "name:fra_x_preferred":[
-        "De la Broquerie"
-    ],
-    "name:unk_x_variant":[
         "De la Broquerie"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999760,
-        "qs:id":1090834,
-        "qs_pg:id":1090834
+        "qs:id":1090834
     },
     "wof:country":"CA",
     "wof:geomhash":"2baaeb588896ea422d1a9f1fe3a68e0c",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931488,
+    "wof:lastmodified":1566424970,
     "wof:name":"De la Broquerie",
     "wof:parent_id":101738135,
     "wof:placetype":"neighbourhood",

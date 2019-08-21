@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
+    "geom:area_square_m":324001.208603,
     "geom:bbox":"-124.3401584,53.1190745,-124.3281155,53.1227024",
     "geom:latitude":53.120889,
     "geom:longitude":-124.334136,
     "iso:country":"CA",
     "lbl:latitude":53.120889,
     "lbl:longitude":-124.334137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.120889,
     "mps:longitude":-124.334137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sundayman'S Meadow 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745173,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566425966,
     "wof:name":"Sundayman'S Meadow 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

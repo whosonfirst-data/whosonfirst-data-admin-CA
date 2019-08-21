@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":50.704698,
     "lbl:longitude":-127.446478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.704698,
     "mps:longitude":-127.446478,
     "mz:hierarchy_label":1,
@@ -171,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":422,
     "wof:belongsto":[
         102191575,
@@ -184,7 +186,6 @@
         "gn:id":6111862,
         "gp:id":9479,
         "qs:id":898337,
-        "qs_pg:id":898337,
         "wd:id":"Q655823",
         "wk:page":"Port Hardy"
     },
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":101740801,
-    "wof:lastmodified":1563284873,
+    "wof:lastmodified":1566425517,
     "wof:name":"Port Hardy",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

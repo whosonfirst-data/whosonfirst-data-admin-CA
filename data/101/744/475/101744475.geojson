@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":30675.629644,
     "geom:bbox":"-125.6861212,53.9303334,-125.6821472,53.93186",
     "geom:latitude":53.931132,
     "geom:longitude":-125.684334,
     "iso:country":"CA",
     "lbl:latitude":53.931101,
     "lbl:longitude":-125.684385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.931101,
     "mps:longitude":-125.684385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Western Island 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744475,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566425900,
     "wof:name":"Western Island 14",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

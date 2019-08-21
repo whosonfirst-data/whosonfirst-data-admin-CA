@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.885825,
     "lbl:longitude":-97.139499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.885786,
     "mps:longitude":-97.137541,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "name:eng_x_variant":[
         "Broadway Assiniboine"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Broadway Assimboine"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -66,20 +67,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968511,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856096,
-        "qs:id":899240,
-        "qs_pg:id":899240
+        "qs:id":899240
     },
     "wof:country":"CA",
     "wof:geomhash":"e523ffd85be9bc6324905db306890606",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1566424957,
     "wof:name":"Broadway Assiniboine",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

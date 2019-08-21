@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.653439,
     "lbl:longitude":-100.201088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.653439,
     "mps:longitude":-100.201088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062a\u0646\u0632\u0647"
     ],
@@ -220,7 +223,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":101734815,
-    "wof:lastmodified":1561844452,
+    "wof:lastmodified":1566425842,
     "wof:name":"Park",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
+    "geom:area_square_m":599647.419268,
     "geom:bbox":"-124.0806199,54.0174279,-124.0679867,54.0272843",
     "geom:latitude":54.021328,
     "geom:longitude":-124.075514,
     "iso:country":"CA",
     "lbl:latitude":54.02101,
     "lbl:longitude":-124.076502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.02101,
     "mps:longitude":-124.076502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Noonla 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746013,
-    "wof:lastmodified":1533335919,
+    "wof:lastmodified":1566425747,
     "wof:name":"Noonla 6",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

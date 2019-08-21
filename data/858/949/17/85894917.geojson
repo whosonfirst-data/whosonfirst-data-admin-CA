@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":2245186.937796,
+    "geom:area_square_m":2245186.937795,
     "geom:bbox":"-123.066195625,49.2982245317,-123.038135345,49.3136169836",
     "geom:latitude":49.308201,
     "geom:longitude":-123.05086,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.307664,
     "lbl:longitude":-123.050641,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.29986,
     "mps:longitude":-123.052475,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
         "\u0915\u094d\u0935\u0940\u0928\u094d\u0938\u092c\u0930\u0940"
     ],
     "name:nld_x_preferred":[
-        "Queensbury"
-    ],
-    "name:unk_x_variant":[
         "Queensbury"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -75,20 +73,19 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":14,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741057,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998928,
-        "qs:id":230999,
-        "qs_pg:id":230999
+        "qs:id":230999
     },
     "wof:country":"CA",
     "wof:geomhash":"b05e6b7738cf58baad5d7ee8ab1595bf",
@@ -106,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521044,
+    "wof:lastmodified":1566424962,
     "wof:name":"Moodyville",
     "wof:parent_id":101741057,
     "wof:placetype":"neighbourhood",

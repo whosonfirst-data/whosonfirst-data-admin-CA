@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.177625,
     "lbl:longitude":-108.096572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.177625,
     "mps:longitude":-108.096572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0643\u0646"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284067,
+    "wof:lastmodified":1566425373,
     "wof:name":"Bracken",
     "wof:parent_id":1158868961,
     "wof:placetype":"locality",

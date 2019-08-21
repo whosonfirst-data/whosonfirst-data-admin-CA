@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.609626,
     "lbl:longitude":-71.32225,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.609626,
     "mps:longitude":-71.32225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u063a\u0648\u064a\u0643"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,6 @@
         "gn:id":6054473,
         "gp:id":23395613,
         "qs:id":290598,
-        "qs_pg:id":290598,
         "wd:id":"Q3241567",
         "wk:page":"Lingwick, Quebec"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101738355,
-    "wof:lastmodified":1563284581,
+    "wof:lastmodified":1566425456,
     "wof:name":"Lingwick",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

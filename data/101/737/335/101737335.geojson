@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.392263,
     "lbl:longitude":-73.986244,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.392263,
     "mps:longitude":-73.986244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Terrasse-Vaudreuil"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "gn:id":6163010,
         "gp:id":23394627,
         "qs:id":266205,
-        "qs_pg:id":266205,
         "wd:id":"Q3518578",
         "wk:page":"Terrasse-Vaudreuil, Quebec"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101737335,
-    "wof:lastmodified":1563284232,
+    "wof:lastmodified":1566425401,
     "wof:name":"Terrasse-Vaudreuil",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

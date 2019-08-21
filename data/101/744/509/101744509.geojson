@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":68930.112857,
     "geom:bbox":"-125.6218992,54.4401173,-125.6163401,54.4439779",
     "geom:latitude":54.442633,
     "geom:longitude":-125.620013,
     "iso:country":"CA",
     "lbl:latitude":54.442577,
     "lbl:longitude":-125.620433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.442577,
     "mps:longitude":-125.620433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Augier Lake 22"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744509,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566425899,
     "wof:name":"Augier Lake 22",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

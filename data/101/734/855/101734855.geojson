@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.498283,
     "lbl:longitude":-99.913963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.498283,
     "mps:longitude":-99.913963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Erickson"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.4981,
     "wd:longitude":-99.9114,
     "wd:wordcount":152,
@@ -67,7 +70,6 @@
         "gn:id":5949179,
         "gp:id":2629,
         "qs:id":1189621,
-        "qs_pg:id":1189621,
         "wd:id":"Q312010",
         "wk:page":"Erickson, Manitoba"
     },
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844453,
+    "wof:lastmodified":1566425843,
     "wof:name":"Erickson",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

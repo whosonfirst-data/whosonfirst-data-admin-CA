@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":61949.258168,
     "geom:bbox":"-121.2959892,50.4936989,-121.2844174,50.4971299",
     "geom:latitude":50.495529,
     "geom:longitude":-121.289369,
     "iso:country":"CA",
     "lbl:latitude":50.496251,
     "lbl:longitude":-121.285999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.496251,
     "mps:longitude":-121.285999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsinkahtl 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745393,
-    "wof:lastmodified":1533335909,
+    "wof:lastmodified":1566425972,
     "wof:name":"Tsinkahtl 8",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

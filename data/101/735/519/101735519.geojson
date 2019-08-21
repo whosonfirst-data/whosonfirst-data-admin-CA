@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023104,
-    "geom:area_square_m":200276183.971214,
+    "geom:area_square_m":200276183.971241,
     "geom:bbox":"-79.9698657,45.4081768,-79.7347267,45.5726368",
     "geom:latitude":45.490308,
     "geom:longitude":-79.852432,
     "iso:country":"CA",
     "lbl:latitude":45.490424,
     "lbl:longitude":-79.852439,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.490424,
     "mps:longitude":-79.852439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "McKellar"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101735519,
-    "wof:lastmodified":1533272397,
+    "wof:lastmodified":1566425864,
     "wof:name":"McKellar",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.707131,
     "lbl:longitude":-124.980521,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.707131,
     "mps:longitude":-124.980521,
     "mz:hierarchy_label":1,
@@ -253,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":13.0,
     "wd:latitude":49.6878,
@@ -270,7 +272,6 @@
         "gn:id":5930890,
         "gp:id":9498,
         "qs:id":767635,
-        "qs_pg:id":767635,
         "wd:id":"Q1017477",
         "wk:page":"Courtenay, British Columbia"
     },
@@ -286,7 +287,7 @@
         }
     ],
     "wof:id":101741017,
-    "wof:lastmodified":1563285200,
+    "wof:lastmodified":1566425822,
     "wof:name":"Courtenay",
     "wof:parent_id":890458565,
     "wof:placetype":"locality",

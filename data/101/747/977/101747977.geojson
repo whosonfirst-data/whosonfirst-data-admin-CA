@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.771203,
     "lbl:longitude":-101.237095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.771203,
     "mps:longitude":-101.237095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Opaskwayak Cree Nation 21A"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":474,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101747977,
-    "wof:lastmodified":1563284950,
+    "wof:lastmodified":1566425589,
     "wof:name":"Opaskwayak Cree Nation 21A",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

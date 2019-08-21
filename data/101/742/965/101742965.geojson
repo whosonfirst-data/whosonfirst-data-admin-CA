@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10782.090998,
     "geom:bbox":"-126.1605375,50.7458032,-126.1590853,50.7470826",
     "geom:latitude":50.746516,
     "geom:longitude":-126.159843,
     "iso:country":"CA",
     "lbl:latitude":50.746566,
     "lbl:longitude":-126.159827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.746566,
     "mps:longitude":-126.159827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kyimla 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742965,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566425924,
     "wof:name":"Kyimla 11",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

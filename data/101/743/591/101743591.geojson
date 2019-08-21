@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":37880.15877,
     "geom:bbox":"-129.3976645,54.3027968,-129.3945687,54.3046075",
     "geom:latitude":54.303738,
     "geom:longitude":-129.396202,
     "iso:country":"CA",
     "lbl:latitude":54.303702,
     "lbl:longitude":-129.3962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.303702,
     "mps:longitude":-129.3962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kasika 71"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743591,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566425916,
     "wof:name":"Kasika 71",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

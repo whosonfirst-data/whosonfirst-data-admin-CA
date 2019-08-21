@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
+    "geom:area_square_m":1505027.553942,
     "geom:bbox":"-65.0057608,47.6498112,-64.9923373,47.6657571",
     "geom:latitude":47.656787,
     "geom:longitude":-64.998753,
     "iso:country":"CA",
     "lbl:latitude":47.656456,
     "lbl:longitude":-64.99887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.656456,
     "mps:longitude":-64.99887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pokemouche Indian Reserve No. 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741249,
-    "wof:lastmodified":1531772598,
+    "wof:lastmodified":1566425822,
     "wof:name":"Pokemouche Indian Reserve No. 13",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

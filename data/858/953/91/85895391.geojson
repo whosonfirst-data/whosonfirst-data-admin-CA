@@ -11,8 +11,10 @@
     "geom:longitude":-79.93366,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.93866,43.868622,-79.92866,43.878622",
     "lbl:latitude":43.873622,
     "lbl:longitude":-79.93366,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.867835,
     "mps:longitude":-79.934681,
     "mz:hierarchy_label":0,
@@ -675,9 +677,6 @@
     "name:ukr_x_variant":[
         "\u0437\u043e\u0440\u044f"
     ],
-    "name:unk_x_variant":[
-        "Star"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u062a\u0627\u0631\u06c1"
     ],
@@ -775,7 +774,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":13947,
     "wof:belongsto":[
         102191575,
@@ -788,7 +787,6 @@
     "wof:concordances":{
         "gp:id":55999361,
         "qs:id":1190759,
-        "qs_pg:id":1190759,
         "wd:id":"Q523"
     },
     "wof:country":"CA",
@@ -813,7 +811,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281831,
+    "wof:lastmodified":1566424931,
     "wof:name":"Star",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

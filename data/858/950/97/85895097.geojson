@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11774247.548847,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.250196,43.973967,-79.250196,43.973967",
     "geom:latitude":43.973967,
     "geom:longitude":-79.250196,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.255196,43.968967,-79.245196,43.978967",
     "lbl:latitude":43.973967,
     "lbl:longitude":-79.250196,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.976915,
     "mps:longitude":-79.238805,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Stouffville"
-    ],
-    "name:unk_x_variant":[
         "Downtown Stouffville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999091,
-        "qs:id":218380,
-        "qs_pg:id":218380
+        "qs:id":218380
     },
     "wof:country":"CA",
     "wof:geomhash":"c806ae3834a36310e98d90e394bc09e9",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931323,
+    "wof:lastmodified":1566424970,
     "wof:name":"Downtown Stouffville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

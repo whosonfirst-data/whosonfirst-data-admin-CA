@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2937112.239072,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.026899,45.400042,-74.026899,45.400042",
     "geom:latitude":45.400042,
     "geom:longitude":-74.026899,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-74.031899,45.395042,-74.021899,45.405042",
     "lbl:latitude":45.400042,
     "lbl:longitude":-74.026899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.396962,
     "mps:longitude":-74.029459,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Le Vieux Vaudreuil"
     ],
     "name:fra_x_preferred":[
-        "Le Vieux Vaudreuil"
-    ],
-    "name:unk_x_variant":[
         "Le Vieux Vaudreuil"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999777,
-        "qs:id":897500,
-        "qs_pg:id":897500
+        "qs:id":897500
     },
     "wof:country":"CA",
     "wof:geomhash":"eddf8fe427289ba49e5a1895dcb36af6",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931490,
+    "wof:lastmodified":1566424971,
     "wof:name":"Le Vieux Vaudreuil",
     "wof:parent_id":101736869,
     "wof:placetype":"neighbourhood",

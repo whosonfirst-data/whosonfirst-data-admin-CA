@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.396405,
     "lbl:longitude":-75.643556,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.396405,
     "mps:longitude":-75.643556,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-75.643556,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1108978151,
-    "wof:lastmodified":1533277883,
+    "wof:lastmodified":1566425280,
     "wof:name":"Lynda Park",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

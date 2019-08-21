@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.706965,
     "lbl:longitude":-100.342366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.706965,
     "mps:longitude":-100.342366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Lake 31A"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":466,
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101741749,
-    "wof:lastmodified":1563285169,
+    "wof:lastmodified":1566425812,
     "wof:name":"Moose Lake 31A",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

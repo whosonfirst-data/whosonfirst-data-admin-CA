@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":60.075545,
     "lbl:longitude":-128.755867,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.075545,
     "mps:longitude":-128.755867,
     "mz:hierarchy_label":1,
@@ -186,7 +188,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.1167,
     "wd:longitude":-128.8,
@@ -203,7 +205,6 @@
         "gn:id":6176992,
         "gp:id":4257,
         "qs:id":160437,
-        "qs_pg:id":160437,
         "wd:id":"Q1025947",
         "wk:page":"Watson Lake, Yukon"
     },
@@ -222,7 +223,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284862,
+    "wof:lastmodified":1566425514,
     "wof:name":"Watson Lake",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.8615,
     "lbl:longitude":-71.225866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.86519,
     "mps:longitude":-71.22902,
     "mz:hierarchy_label":1,
@@ -88,7 +89,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":28,
     "wof:belongsto":[
         102191575,
@@ -101,8 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856060,
-        "qs:id":897377,
-        "qs_pg:id":897377
+        "qs:id":897377
     },
     "wof:country":"CA",
     "wof:geomhash":"d875ebc12146ae6fcc811368517c73c6",
@@ -121,7 +121,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170765,
+    "wof:lastmodified":1566424956,
     "wof:name":"Vieux-Moulin",
     "wof:parent_id":1126115113,
     "wof:placetype":"neighbourhood",

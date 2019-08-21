@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
+    "geom:area_square_m":124975.819015,
     "geom:bbox":"-129.5648475,54.2110248,-129.5588523,54.2172137",
     "geom:latitude":54.213151,
     "geom:longitude":-129.560879,
     "iso:country":"CA",
     "lbl:latitude":54.211931,
     "lbl:longitude":-129.56088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.211931,
     "mps:longitude":-129.56088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scuttsap 11A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746039,
-    "wof:lastmodified":1533335919,
+    "wof:lastmodified":1566425759,
     "wof:name":"Scuttsap 11A",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

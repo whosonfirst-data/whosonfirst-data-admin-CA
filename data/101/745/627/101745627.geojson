@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002004,
+    "geom:area_square_m":15763116.164422,
     "geom:bbox":"-119.3504655,50.4707974,-119.2633506,50.5152449",
     "geom:latitude":50.493663,
     "geom:longitude":-119.316663,
     "iso:country":"CA",
     "lbl:latitude":50.487395,
     "lbl:longitude":-119.315996,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.487395,
     "mps:longitude":-119.315996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salmon River 1 (Splatsin)"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745627,
-    "wof:lastmodified":1533335915,
+    "wof:lastmodified":1566425962,
     "wof:name":"Salmon River 1 (Splatsin)",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":6597231.94282,
+    "geom:area_square_m":6597231.942808,
     "geom:bbox":"-114.166665,51.109068,-114.121241,51.142631",
     "geom:latitude":51.12739,
     "geom:longitude":-114.144629,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.128157,
     "lbl:longitude":-114.146066,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.129571,
     "mps:longitude":-114.149268,
     "mz:hierarchy_label":1,
@@ -52,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -63,7 +64,6 @@
     "wof:concordances":{
         "gp:id":26342796,
         "qs:id":897103,
-        "qs_pg:id":897103,
         "wd:id":"Q5337784"
     },
     "wof:country":"CA",
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270097,
+    "wof:lastmodified":1566424948,
     "wof:name":"Edgemont",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":549458.426524,
     "geom:bbox":"-123.8912173,49.1142125,-123.8795627,49.1268062",
     "geom:latitude":49.118549,
     "geom:longitude":-123.885874,
     "iso:country":"CA",
     "lbl:latitude":49.118391,
     "lbl:longitude":-123.886758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.118391,
     "mps:longitude":-123.886758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanaimo River 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743853,
-    "wof:lastmodified":1533335884,
+    "wof:lastmodified":1566425920,
     "wof:name":"Nanaimo River 2",
     "wof:parent_id":890457881,
     "wof:placetype":"locality",

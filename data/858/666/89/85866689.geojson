@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":503689.851633,
+    "geom:area_square_m":503689.851634,
     "geom:bbox":"-114.067306,51.022736,-114.058989,51.035887",
     "geom:latitude":51.029413,
     "geom:longitude":-114.062271,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.029405,
     "lbl:longitude":-114.061635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.028439,
     "mps:longitude":-114.050036,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1060.0,
     "wd:latitude":51.0286,
     "wd:longitude":-114.061,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gp:id":26342798,
         "qs:id":501714,
-        "qs_pg:id":501714,
         "wd:id":"Q5389855"
     },
     "wof:country":"CA",
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270096,
+    "wof:lastmodified":1566424947,
     "wof:name":"Erlton",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

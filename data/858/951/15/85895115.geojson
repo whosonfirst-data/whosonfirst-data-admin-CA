@@ -10,8 +10,10 @@
     "geom:latitude":43.550652,
     "geom:longitude":-79.584709,
     "iso:country":"CA",
+    "lbl:bbox":"-79.589709,43.545652,-79.579709,43.555652",
     "lbl:latitude":43.550652,
     "lbl:longitude":-79.584709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.551467,
     "mps:longitude":-79.584864,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     ],
     "name:pol_x_preferred":[
         "Clearview"
-    ],
-    "name:unk_x_variant":[
-        "Port Credit"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPLX",
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2093,
     "wof:belongsto":[
         102191575,
@@ -89,7 +88,6 @@
         "gn:id":7839042,
         "gp:id":55999108,
         "qs:id":891125,
-        "qs_pg:id":891125,
         "wd:id":"Q7230570"
     },
     "wof:country":"CA",
@@ -114,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282099,
+    "wof:lastmodified":1566424978,
     "wof:name":"Port Credit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

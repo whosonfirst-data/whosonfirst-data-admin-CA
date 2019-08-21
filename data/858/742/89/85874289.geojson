@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.729592,
     "lbl:longitude":-79.403978,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.728633,
     "mps:longitude":-79.402925,
     "mz:hierarchy_label":1,
@@ -37,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Lawrence Park North (105)",
     "torsdfa:AREA_S_CD":"105",
     "wd:latitude":43.722,
@@ -57,7 +58,6 @@
         "gn:id":7870868,
         "gp:id":55855823,
         "qs:id":359934,
-        "qs_pg:id":359934,
         "wd:id":"Q6504455"
     },
     "wof:controlled":[],
@@ -79,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282206,
+    "wof:lastmodified":1566424998,
     "wof:name":"Lawrence Park North",
     "wof:parent_id":1108905207,
     "wof:placetype":"neighbourhood",

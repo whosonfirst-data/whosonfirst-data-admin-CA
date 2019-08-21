@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.257377,
     "lbl:longitude":-72.828736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.257377,
     "mps:longitude":-72.828736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a\u0647\u0627\u0645"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "gn:id":5908802,
         "gp:id":23394336,
         "qs:id":351669,
-        "qs_pg:id":351669,
         "wd:id":"Q2925353",
         "wk:page":"Brigham, Quebec"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101737835,
-    "wof:lastmodified":1563284167,
+    "wof:lastmodified":1566425386,
     "wof:name":"Brigham",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

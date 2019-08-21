@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.925521,
     "lbl:longitude":-66.383072,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.925521,
     "mps:longitude":-66.383072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sunbury"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Sunbury",
     "statcan:cdtype":"CT",
     "statcan:cduid":"1303",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890457251,
-    "wof:lastmodified":1564173367,
+    "wof:lastmodified":1566426122,
     "wof:name":"Sunbury",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

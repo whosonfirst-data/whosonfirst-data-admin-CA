@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
+    "geom:area_square_m":2174171.243384,
     "geom:bbox":"-122.4207669,49.9350535,-122.4016969,49.951411",
     "geom:latitude":49.943644,
     "geom:longitude":-122.410677,
     "iso:country":"CA",
     "lbl:latitude":49.944733,
     "lbl:longitude":-122.408302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.944733,
     "mps:longitude":-122.408302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skookumchuck 4"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745741,
-    "wof:lastmodified":1533335916,
+    "wof:lastmodified":1566425969,
     "wof:name":"Skookumchuck 4",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

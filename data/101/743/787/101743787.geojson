@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
+    "geom:area_square_m":674992.477205,
     "geom:bbox":"-127.3896425,50.7101823,-127.3741232,50.7205703",
     "geom:latitude":50.715866,
     "geom:longitude":-127.382454,
     "iso:country":"CA",
     "lbl:latitude":50.715848,
     "lbl:longitude":-127.383149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.715848,
     "mps:longitude":-127.383149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wazulis 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743787,
-    "wof:lastmodified":1533335883,
+    "wof:lastmodified":1566425922,
     "wof:name":"Wazulis 14",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

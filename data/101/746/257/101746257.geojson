@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000678,
+    "geom:area_square_m":5096643.752267,
     "geom:bbox":"-108.8097183,52.5585165,-108.6661071,52.6240277",
     "geom:latitude":52.584017,
     "geom:longitude":-108.745576,
     "iso:country":"CA",
     "lbl:latitude":52.567244,
     "lbl:longitude":-108.791973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.567244,
     "mps:longitude":-108.791973,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sweetgrass I.R. 113-N27"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746257,
-    "wof:lastmodified":1531524356,
+    "wof:lastmodified":1566425748,
     "wof:name":"Sweetgrass I.R. 113-N27",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

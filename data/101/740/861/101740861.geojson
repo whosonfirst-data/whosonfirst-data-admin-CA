@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.581376,
     "lbl:longitude":-123.416608,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.581376,
     "mps:longitude":-123.416608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u062a\u0631\u0627\u0644 \u0633\u0627\u0646\u064a\u062a\u0634"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.5142,
     "wd:longitude":-123.384,
     "wd:wordcount":241,
@@ -69,7 +72,6 @@
         "gn:id":5919137,
         "gp:id":29372938,
         "qs:id":1048410,
-        "qs_pg:id":1048410,
         "wd:id":"Q1053984",
         "wk:page":"Central Saanich"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101740861,
-    "wof:lastmodified":1563284798,
+    "wof:lastmodified":1566425494,
     "wof:name":"Central Saanich",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

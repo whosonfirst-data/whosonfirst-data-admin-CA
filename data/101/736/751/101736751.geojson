@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.175055,
     "lbl:longitude":-73.700707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.175055,
     "mps:longitude":-73.700707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Alphonse-Rodriguez"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101736751,
-    "wof:lastmodified":1563284476,
+    "wof:lastmodified":1566425439,
     "wof:name":"Saint-Alphonse-Rodriguez",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1286579.646528,
+    "geom:area_square_m":1286579.64653,
     "geom:bbox":"-113.565858211,53.5588231716,-113.549379174,53.5703676765",
     "geom:latitude":53.564743,
     "geom:longitude":-113.55814,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.564385,
     "lbl:longitude":-113.559237,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.565598,
     "mps:longitude":-113.560995,
     "mz:hierarchy_label":1,
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191575,
@@ -51,7 +52,6 @@
     "wof:concordances":{
         "gp:id":23404818,
         "qs:id":1087698,
-        "qs_pg:id":1087698,
         "wd:id":"Q8032543"
     },
     "wof:country":"CA",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270456,
+    "wof:lastmodified":1566424989,
     "wof:name":"Woodcroft",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

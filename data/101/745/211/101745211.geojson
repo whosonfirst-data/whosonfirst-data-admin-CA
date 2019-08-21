@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000473,
+    "geom:area_square_m":3550464.740543,
     "geom:bbox":"-125.4738866,52.5712362,-125.4351971,52.6001756",
     "geom:latitude":52.584496,
     "geom:longitude":-125.45743,
     "iso:country":"CA",
     "lbl:latitude":52.585291,
     "lbl:longitude":-125.459044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.585291,
     "mps:longitude":-125.459044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Louis Squinas Ranch 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745211,
-    "wof:lastmodified":1533335905,
+    "wof:lastmodified":1566425949,
     "wof:name":"Louis Squinas Ranch 14",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

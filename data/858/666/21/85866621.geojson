@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2172904.001019,
+    "geom:area_square_m":2172904.001017,
     "geom:bbox":"-97.312756,49.846192,-97.29274,49.862797",
     "geom:latitude":49.853876,
     "geom:longitude":-97.302922,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.854123,
     "lbl:longitude":-97.30349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.854971,
     "mps:longitude":-97.318193,
     "mz:hierarchy_label":1,
@@ -35,20 +36,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968509,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332863,
-        "qs:id":1184568,
-        "qs_pg:id":1184568
+        "qs:id":1184568
     },
     "wof:country":"CA",
     "wof:geomhash":"dcb9be08c5dac770337f39aa50d0b48b",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523914,
+    "wof:lastmodified":1566424947,
     "wof:name":"Betsworth",
     "wof:parent_id":1108968509,
     "wof:placetype":"neighbourhood",

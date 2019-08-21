@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.853528,
     "lbl:longitude":-100.931811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.853528,
     "mps:longitude":-100.931811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Virden"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":439.0,
     "wd:latitude":49.8508,
@@ -91,7 +94,6 @@
         "gn:id":6174457,
         "gp:id":2884,
         "qs:id":1053607,
-        "qs_pg:id":1053607,
         "wd:id":"Q75861",
         "wk:page":"Virden, Manitoba"
     },
@@ -110,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285294,
+    "wof:lastmodified":1566425845,
     "wof:name":"Virden",
     "wof:parent_id":1158868945,
     "wof:placetype":"locality",

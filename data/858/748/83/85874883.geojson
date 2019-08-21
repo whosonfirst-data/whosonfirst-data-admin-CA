@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1561304.654898,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.830809,43.252178,-79.830809,43.252178",
     "geom:latitude":43.252178,
     "geom:longitude":-79.830809,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.835809,43.247178,-79.825809,43.257178",
     "lbl:latitude":43.252178,
     "lbl:longitude":-79.830809,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.253825,
     "mps:longitude":-79.832148,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Stipley"
-    ],
-    "name:unk_x_variant":[
         "Stipley"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856198,
-        "qs:id":899251,
-        "qs_pg:id":899251
+        "qs:id":899251
     },
     "wof:country":"CA",
     "wof:geomhash":"c29556cc45082040761ab8212c9d226f",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871949,
+    "wof:lastmodified":1566424965,
     "wof:name":"Stipley",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.355405,
     "lbl:longitude":-69.87234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.355405,
     "mps:longitude":-69.87234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Gabriel-Lalemant"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":502,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101738409,
-    "wof:lastmodified":1563284625,
+    "wof:lastmodified":1566425462,
     "wof:name":"Saint-Gabriel-Lalemant",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",

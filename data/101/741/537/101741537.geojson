@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006213,
+    "geom:area_square_m":46403380.210593,
     "geom:bbox":"-117.0599685,52.7996824,-116.967956,52.89437",
     "geom:latitude":52.840045,
     "geom:longitude":-117.02001,
     "iso:country":"CA",
     "lbl:latitude":52.845786,
     "lbl:longitude":-117.026646,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.845786,
     "mps:longitude":-117.026646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alexis Cardinal 234"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741537,
-    "wof:lastmodified":1533250157,
+    "wof:lastmodified":1566425814,
     "wof:name":"Alexis Cardinal 234",
     "wof:parent_id":1158863299,
     "wof:placetype":"locality",

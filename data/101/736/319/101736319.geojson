@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":42.772373,
     "lbl:longitude":-80.988034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.772373,
     "mps:longitude":-80.988034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u0644\u0645\u064a\u0631"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.7667,
     "wd:longitude":-80.9833,
@@ -87,7 +90,6 @@
         "gn:id":5888716,
         "gp:id":4353,
         "qs:id":971336,
-        "qs_pg:id":971336,
         "wd:id":"Q2874907",
         "wk:page":"Aylmer, Ontario"
     },
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101736319,
-    "wof:lastmodified":1563284556,
+    "wof:lastmodified":1566425452,
     "wof:name":"Aylmer",
     "wof:parent_id":890458529,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
+    "geom:area_square_m":468340.228451,
     "geom:bbox":"-122.9753618,52.1820801,-122.9576892,52.1893541",
     "geom:latitude":52.186469,
     "geom:longitude":-122.966743,
     "iso:country":"CA",
     "lbl:latitude":52.18754,
     "lbl:longitude":-122.969471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.18754,
     "mps:longitude":-122.969471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anahim 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745007,
-    "wof:lastmodified":1533335902,
+    "wof:lastmodified":1566425964,
     "wof:name":"Anahim 7",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14417805.619227,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.881043,46.135801,-64.881043,46.135801",
     "geom:latitude":46.135801,
     "geom:longitude":-64.881043,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.886043,46.130801,-64.876043,46.140801",
     "lbl:latitude":46.135801,
     "lbl:longitude":-64.881043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.140602,
     "mps:longitude":-64.874995,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Mountain Woods"
-    ],
-    "name:unk_x_variant":[
         "Mountain Woods"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856570,
-        "qs:id":1089573,
-        "qs_pg:id":1089573
+        "qs:id":1089573
     },
     "wof:country":"CA",
     "wof:geomhash":"c568c82b3bdddaecd1cbc043c11770f6",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872126,
+    "wof:lastmodified":1566424932,
     "wof:name":"Mountain Woods",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

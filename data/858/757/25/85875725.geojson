@@ -10,8 +10,10 @@
     "geom:latitude":45.517219,
     "geom:longitude":-73.45867,
     "iso:country":"CA",
+    "lbl:bbox":"-73.46367,45.512219,-73.45367,45.522219",
     "lbl:latitude":45.517219,
     "lbl:longitude":-73.45867,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.511286,
     "mps:longitude":-73.451462,
     "mz:hierarchy_label":0,
@@ -89,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -103,7 +105,6 @@
         "gn:id":6139004,
         "gp:id":55856786,
         "qs:id":1185086,
-        "qs_pg:id":1185086,
         "wd:id":"Q3463276",
         "wk:page":"Saint-Robert, Quebec"
     },
@@ -124,7 +125,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563282116,
+    "wof:lastmodified":1566424982,
     "wof:name":"Saint Robert",
     "wof:parent_id":1108961051,
     "wof:placetype":"neighbourhood",

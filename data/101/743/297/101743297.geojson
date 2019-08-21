@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
+    "geom:area_square_m":1829807.507402,
     "geom:bbox":"-126.5212582,55.0622317,-126.4961123,55.0764157",
     "geom:latitude":55.069367,
     "geom:longitude":-126.51006,
     "iso:country":"CA",
     "lbl:latitude":55.069423,
     "lbl:longitude":-126.513592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.069423,
     "mps:longitude":-126.513592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tadinlay 15"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743297,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566425921,
     "wof:name":"Tadinlay 15",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

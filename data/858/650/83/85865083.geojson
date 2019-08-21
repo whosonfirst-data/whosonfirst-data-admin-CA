@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000658,
-    "geom:area_square_m":5312125.742987,
+    "geom:area_square_m":5312125.742978,
     "geom:bbox":"-123.077423096,49.2053031557,-123.048751831,49.2328643799",
     "geom:latitude":49.220465,
     "geom:longitude":-123.064053,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.220501,
     "lbl:longitude":-123.064135,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.217526,
     "mps:longitude":-123.066364,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Victoria"
     ],
     "name:eng_x_variant":[
-        "Victoria"
-    ],
-    "name:unk_x_variant":[
         "Victoria"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"VF",
     "vanpds:NAME":"Victoria-Fraserview",
     "wd:wordcount":648,
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335938,
+    "wof:lastmodified":1566424950,
     "wof:name":"Victoria-Fraserview",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001201,
-    "geom:area_square_m":9855094.976801,
+    "geom:area_square_m":9855094.976807,
     "geom:bbox":"-123.340759277,48.3845615894,-123.286813965,48.4237326556",
     "geom:latitude":48.408488,
     "geom:longitude":-123.317341,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.413305,
     "lbl:longitude":-123.324399,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.40883,
     "mps:longitude":-123.319181,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Gonazales"
-    ],
-    "name:unk_x_variant":[
         "Gonazales"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -66,8 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856313,
-        "qs:id":890962,
-        "qs_pg:id":890962
+        "qs:id":890962
     },
     "wof:country":"CA",
     "wof:geomhash":"e76e7c47e6a516005e22bc2953dd8f0e",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335938,
+    "wof:lastmodified":1566424980,
     "wof:name":"Gonazales",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

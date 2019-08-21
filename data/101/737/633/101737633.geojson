@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.526253,
     "lbl:longitude":-79.346092,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.526253,
     "mps:longitude":-79.346092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Eug\u00e8ne-de-Guigues"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":164,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101737633,
-    "wof:lastmodified":1563284159,
+    "wof:lastmodified":1566425384,
     "wof:name":"Saint-Eug\u00e8ne-de-Guigues",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

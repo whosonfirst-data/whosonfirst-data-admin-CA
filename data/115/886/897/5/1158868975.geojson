@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":57.154121,
     "lbl:longitude":-106.075558,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.154121,
     "mps:longitude":-106.075558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Division No. 18"
     ],
@@ -23,7 +26,7 @@
         "Division No. 18"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Division No. 18",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"4718",
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1158868975,
-    "wof:lastmodified":1554759657,
+    "wof:lastmodified":1566426321,
     "wof:name":"Division No. 18",
     "wof:parent_id":85682113,
     "wof:placetype":"county",

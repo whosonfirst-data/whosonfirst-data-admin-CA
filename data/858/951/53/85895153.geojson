@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3844595.880289,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.325177,43.853996,-79.325177,43.853996",
     "geom:latitude":43.853996,
     "geom:longitude":-79.325177,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.330177,43.848996,-79.320177,43.858996",
     "lbl:latitude":43.853996,
     "lbl:longitude":-79.325177,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.854131,
     "mps:longitude":-79.309599,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Markham"
-    ],
-    "name:unk_x_variant":[
         "Downtown Markham"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,14 +58,12 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1114,
     "wof:belongsto":[
         102191575,
         101736035,
         85633041,
-        101736035,
-        890458415,
         85682057,
         101740741
     ],
@@ -76,7 +73,6 @@
     "wof:concordances":{
         "gp:id":55999139,
         "qs:id":1354910,
-        "qs_pg:id":1354910,
         "wd:id":"Q5303500"
     },
     "wof:country":"CA",
@@ -101,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931339,
+    "wof:lastmodified":1566424978,
     "wof:name":"Downtown Markham",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

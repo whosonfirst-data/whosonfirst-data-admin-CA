@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13876988.296333,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.197868,46.211137,-60.197868,46.211137",
     "geom:latitude":46.211137,
     "geom:longitude":-60.197868,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-60.202868,46.206137,-60.192868,46.216137",
     "lbl:latitude":46.211137,
     "lbl:longitude":-60.197868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.211034,
     "mps:longitude":-60.19848,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:gla_x_preferred":[
         "An t-\u00d2s a Deas"
-    ],
-    "name:unk_x_variant":[
-        "South Bar"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -61,19 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23392279,
         "qs:id":229962,
-        "qs_pg:id":229962,
         "wd:id":"Q7566241"
     },
     "wof:country":"CA",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870865,
+    "wof:lastmodified":1566424941,
     "wof:name":"South Bar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

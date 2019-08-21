@@ -9,15 +9,18 @@
     "geom:bbox":"-77.4229476,45.8095212,-77.1603599,45.9831381",
     "geom:latitude":45.8942,
     "geom:longitude":-77.308593,
-    "geonames:id":"6101606,6101607",
+    "gn:id":"6101606,6101607",
     "gn:population":15988,
     "iso:country":"CA",
     "lbl:latitude":45.895581,
     "lbl:longitude":-77.319537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.895581,
     "mps:longitude":-77.319537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0627\u0648\u0627\u0648\u0627"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:latitude":45.9,
     "wd:longitude":-77.283333,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101736059,
-    "wof:lastmodified":1563284524,
+    "wof:lastmodified":1566425447,
     "wof:name":"Petawawa",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

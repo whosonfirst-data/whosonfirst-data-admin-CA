@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.735962,
     "lbl:longitude":-108.757645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.735962,
     "mps:longitude":-108.757645,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u064a"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":481,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,6 @@
         "gn:id":5881774,
         "gp:id":2284,
         "qs:id":1249459,
-        "qs_pg:id":1249459,
         "wd:id":"Q1997661",
         "wk:page":"Abbey, Saskatchewan"
     },
@@ -87,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284760,
+    "wof:lastmodified":1566425483,
     "wof:name":"Abbey",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

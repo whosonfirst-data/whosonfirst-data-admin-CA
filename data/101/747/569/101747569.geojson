@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
+    "geom:area_square_m":185599.756995,
     "geom:bbox":"-63.4870194,44.6463243,-63.4792544,44.6540119",
     "geom:latitude":44.650309,
     "geom:longitude":-63.483202,
     "iso:country":"CA",
     "lbl:latitude":44.651717,
     "lbl:longitude":-63.482163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.651717,
     "mps:longitude":-63.482163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cole Harbour Indian Reserve No. 30"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747569,
-    "wof:lastmodified":1531772487,
+    "wof:lastmodified":1566425526,
     "wof:name":"Cole Harbour Indian Reserve No. 30",
     "wof:parent_id":890456491,
     "wof:placetype":"locality",

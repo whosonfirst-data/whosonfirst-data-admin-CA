@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.600163,
     "lbl:longitude":-70.298639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.600163,
     "mps:longitude":-70.298639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Magloire"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101736637,
-    "wof:lastmodified":1563284522,
+    "wof:lastmodified":1566425447,
     "wof:name":"Saint-Magloire",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

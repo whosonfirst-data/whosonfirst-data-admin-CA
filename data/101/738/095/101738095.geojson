@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.275527,
     "lbl:longitude":-70.895923,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.275527,
     "mps:longitude":-70.895923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Joseph-des-\u00c9rables"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191575,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101738095,
-    "wof:lastmodified":1563284720,
+    "wof:lastmodified":1566425477,
     "wof:name":"Saint-Joseph-des-\u00c9rables",
     "wof:parent_id":890457809,
     "wof:placetype":"locality",

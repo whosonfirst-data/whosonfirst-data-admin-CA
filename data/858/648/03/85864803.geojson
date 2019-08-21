@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1395584.549789,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.611869,52.169728,-106.611869,52.169728",
     "geom:latitude":52.169728,
     "geom:longitude":-106.611869,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.616869,52.164728,-106.606869,52.174728",
     "lbl:latitude":52.169728,
     "lbl:longitude":-106.611869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.173007,
     "mps:longitude":-106.60405,
     "mz:hierarchy_label":0,
@@ -33,21 +35,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":17,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115077,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403478,
         "qs:id":367387,
-        "qs_pg:id":367387,
         "wd:id":"Q6504979"
     },
     "wof:country":"CA",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870975,
+    "wof:lastmodified":1566424987,
     "wof:name":"Lawson Heights",
     "wof:parent_id":1126115077,
     "wof:placetype":"neighbourhood",

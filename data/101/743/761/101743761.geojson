@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
+    "geom:area_square_m":2466802.922898,
     "geom:bbox":"-129.0729882,59.5120488,-129.0444408,59.526554",
     "geom:latitude":59.519027,
     "geom:longitude":-129.058602,
     "iso:country":"CA",
     "lbl:latitude":59.518653,
     "lbl:longitude":-129.056509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.518653,
     "mps:longitude":-129.056509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horse Ranch Pass 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743761,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566425916,
     "wof:name":"Horse Ranch Pass 4",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

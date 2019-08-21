@@ -11,8 +11,10 @@
     "geom:longitude":-89.247408,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-89.252408,48.402622,-89.242408,48.412622",
     "lbl:latitude":48.407622,
     "lbl:longitude":-89.247408,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.406414,
     "mps:longitude":-89.249546,
     "mz:hierarchy_label":0,
@@ -99,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0442\u0435\u0440\u0441\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Intercity"
-    ],
     "name:zho_x_preferred":[
         "\u57ce\u9645\u5217\u8f66"
     ],
@@ -134,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":5013,
     "wof:belongsto":[
         85682057,
@@ -147,7 +146,6 @@
     "wof:concordances":{
         "gp:id":55856526,
         "qs:id":1089572,
-        "qs_pg:id":1089572,
         "wd:id":"Q529938"
     },
     "wof:country":"CA",
@@ -166,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281840,
+    "wof:lastmodified":1566424933,
     "wof:name":"Intercity",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

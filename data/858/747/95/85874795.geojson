@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.885955,
     "lbl:longitude":-97.2045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.888393,
     "mps:longitude":-97.203215,
     "mz:hierarchy_label":1,
@@ -140,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968515,
@@ -152,8 +153,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856121,
-        "qs:id":242122,
-        "qs_pg:id":242122
+        "qs:id":242122
     },
     "wof:country":"CA",
     "wof:geomhash":"2e67f080c61fca9d4411244ecd3ca3d0",
@@ -172,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170763,
+    "wof:lastmodified":1566424956,
     "wof:name":"Kensington",
     "wof:parent_id":1108968515,
     "wof:placetype":"neighbourhood",

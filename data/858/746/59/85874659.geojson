@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.560104,
     "lbl:longitude":-113.584072,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.559875,
     "mps:longitude":-113.587921,
     "mz:hierarchy_label":1,
@@ -53,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191575,
@@ -66,7 +67,6 @@
     "wof:concordances":{
         "gp:id":55856028,
         "qs:id":984621,
-        "qs_pg:id":984621,
         "wd:id":"Q14874863"
     },
     "wof:country":"CA",
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566424965,
     "wof:name":"McQueen",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

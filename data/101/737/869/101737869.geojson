@@ -9,13 +9,15 @@
     "geom:bbox":"-61.902070864,50.127038861,-61.570085515,50.244415046",
     "geom:latitude":50.19826,
     "geom:longitude":-61.726697,
-    "geonames:id":"6086225,6086226",
-    "gn:gn_country":"CA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CA",
+    "gn:fcode":"PPL",
+    "gn:id":"6086225,6086226",
+    "gn:population":0,
     "iso:country":"CA",
     "lbl:latitude":50.191933,
     "lbl:longitude":-61.725777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.191933,
     "mps:longitude":-61.725777,
     "mz:hierarchy_label":1,
@@ -175,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191575,
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":101737869,
-    "wof:lastmodified":1563284172,
+    "wof:lastmodified":1566425386,
     "wof:name":"Natashquan",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

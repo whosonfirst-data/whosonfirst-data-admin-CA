@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.130306,
     "lbl:longitude":-72.7891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.130306,
     "mps:longitude":-72.7891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0646\u0647\u0627\u0645"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "gn:id":5944071,
         "gp:id":23394297,
         "qs:id":246830,
-        "qs_pg:id":246830,
         "wd:id":"Q142229",
         "wk:page":"Dunham, Quebec"
     },
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101738017,
-    "wof:lastmodified":1563284707,
+    "wof:lastmodified":1566425475,
     "wof:name":"Dunham",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

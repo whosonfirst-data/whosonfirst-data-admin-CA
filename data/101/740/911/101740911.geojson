@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.10232,
     "lbl:longitude":-122.9796,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.10232,
     "mps:longitude":-122.9796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Whistler"
     ],
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":670.0,
     "wd:latitude":50.120833,
@@ -176,7 +179,6 @@
         "gn:id":6180144,
         "gp:id":23405148,
         "qs:id":237809,
-        "qs_pg:id":237809,
         "wd:id":"Q203122",
         "wk:page":"Whistler, British Columbia"
     },
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":101740911,
-    "wof:lastmodified":1563284879,
+    "wof:lastmodified":1566425519,
     "wof:name":"Whistler",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

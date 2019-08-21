@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.502777,
     "lbl:longitude":-116.035541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.502777,
     "mps:longitude":-116.035541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u043d\u0432\u0435\u0440\u043c\u0435\u0440\u0435"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":859.0,
     "wd:latitude":50.508333,
@@ -87,7 +90,6 @@
         "gn:id":5983626,
         "gp:id":9703,
         "qs:id":898359,
-        "qs_pg:id":898359,
         "wd:id":"Q282363",
         "wk:page":"Invermere, British Columbia"
     },
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101741039,
-    "wof:lastmodified":1563285162,
+    "wof:lastmodified":1566425809,
     "wof:name":"Invermere",
     "wof:parent_id":890456529,
     "wof:placetype":"locality",

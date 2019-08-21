@@ -9,14 +9,17 @@
     "geom:bbox":"-72.651143463,46.673434256,-72.475316644,46.789277161",
     "geom:latitude":46.730829,
     "geom:longitude":-72.560843,
-    "geonames:id":"6139153,6139154",
+    "gn:id":"6139153,6139154",
     "iso:country":"CA",
     "lbl:latitude":46.736375,
     "lbl:longitude":-72.554844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.736375,
     "mps:longitude":-72.554844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Saint-Tite"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1673,
     "wof:belongsto":[
         102191575,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101737065,
-    "wof:lastmodified":1563284158,
+    "wof:lastmodified":1566425384,
     "wof:name":"Saint-Tite",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

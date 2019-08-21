@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.722431,
     "lbl:longitude":-77.723274,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.722431,
     "mps:longitude":-77.723274,
     "mz:hierarchy_label":1,
@@ -191,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.75,
     "wd:longitude":-77.6333,
@@ -210,7 +212,6 @@
         "gn:id":6067747,
         "gp:id":3239,
         "qs:id":1053517,
-        "qs_pg:id":1053517,
         "wd:id":"Q141430",
         "wk:page":"Matagami"
     },
@@ -226,7 +227,7 @@
         }
     ],
     "wof:id":101738179,
-    "wof:lastmodified":1563284749,
+    "wof:lastmodified":1566425482,
     "wof:name":"Matagami",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

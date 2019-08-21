@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5134783.431493,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.487061,45.436083,-73.487061,45.436083",
     "geom:latitude":45.436083,
     "geom:longitude":-73.487061,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.492061,45.431083,-73.482061,45.441083",
     "lbl:latitude":45.436083,
     "lbl:longitude":-73.487061,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.43508,
     "mps:longitude":-73.485207,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "La Berge"
     ],
     "name:fra_x_preferred":[
-        "La Berge"
-    ],
-    "name:unk_x_variant":[
         "La Berge"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,8 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856816,
-        "qs:id":1332295,
-        "qs_pg:id":1332295
+        "qs:id":1332295
     },
     "wof:country":"CA",
     "wof:geomhash":"be715dc7782ed2dfa4d025dff16b9b84",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872228,
+    "wof:lastmodified":1566424981,
     "wof:name":"La Berge",
     "wof:parent_id":101736555,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03555,
+    "geom:area_square_m":261065241.102009,
     "geom:bbox":"-84.5101743,53.5064642,-84.1101461,53.6386503",
     "geom:latitude":53.56649,
     "geom:longitude":-84.30982,
     "iso:country":"CA",
     "lbl:latitude":53.583455,
     "lbl:longitude":-84.329809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.583455,
     "mps:longitude":-84.329809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Attawapiskat Indian Reserve No. 91"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101741143,
-    "wof:lastmodified":1533335657,
+    "wof:lastmodified":1566425813,
     "wof:name":"Attawapiskat Indian Reserve No. 91",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
+    "geom:area_square_m":449751.920322,
     "geom:bbox":"-129.255084,53.4231407,-129.2429777,53.4303984",
     "geom:latitude":53.427704,
     "geom:longitude":-129.248146,
     "iso:country":"CA",
     "lbl:latitude":53.427838,
     "lbl:longitude":-129.247649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.427838,
     "mps:longitude":-129.247649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kulkayu 4A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747545,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566425614,
     "wof:name":"Kulkayu 4A",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

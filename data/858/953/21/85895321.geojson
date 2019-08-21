@@ -10,8 +10,10 @@
     "geom:latitude":43.51776,
     "geom:longitude":-79.84166,
     "iso:country":"CA",
+    "lbl:bbox":"-79.84666,43.51276,-79.83666,43.52276",
     "lbl:latitude":43.51776,
     "lbl:longitude":-79.84166,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.508185,
     "mps:longitude":-79.839396,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Clarke"
     ],
     "name:slv_x_preferred":[
-        "Clarke"
-    ],
-    "name:unk_x_variant":[
         "Clarke"
     ],
     "qs:gn_fcode":"PPL",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736383,
@@ -75,8 +74,7 @@
     "wof:concordances":{
         "gn:id":5923064,
         "gp:id":55999306,
-        "qs:id":1055376,
-        "qs_pg:id":1055376
+        "qs:id":1055376
     },
     "wof:country":"CA",
     "wof:geomhash":"5726358f4630950197e9495fe31db7ff",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170682,
+    "wof:lastmodified":1566424931,
     "wof:name":"Clarke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

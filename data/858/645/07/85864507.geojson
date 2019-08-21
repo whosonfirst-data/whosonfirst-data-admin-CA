@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1940531.688375,
+    "geom:area_square_m":1940531.688372,
     "geom:bbox":"-75.6882700002,45.3691470001,-75.664904,45.3890529999",
     "geom:latitude":45.379719,
     "geom:longitude":-75.676625,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.383598,
     "lbl:longitude":-75.671806,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.382815,
     "mps:longitude":-75.666158,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1013,
     "wof:belongsto":[
         102191575,
@@ -50,7 +51,6 @@
     "wof:concordances":{
         "gp:id":23399453,
         "qs:id":1085726,
-        "qs_pg:id":1085726,
         "wd:id":"Q4304504"
     },
     "wof:controlled":[],
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335727,
+    "wof:lastmodified":1566424944,
     "wof:name":"Billings Bridge",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

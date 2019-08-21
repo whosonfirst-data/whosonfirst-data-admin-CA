@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":101364.256292,
     "geom:bbox":"-125.7718342,49.3561574,-125.76673,49.3597708",
     "geom:latitude":49.357703,
     "geom:longitude":-125.768615,
     "iso:country":"CA",
     "lbl:latitude":49.357526,
     "lbl:longitude":-125.768157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.357526,
     "mps:longitude":-125.768157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oinimitis 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743901,
-    "wof:lastmodified":1533335885,
+    "wof:lastmodified":1566425907,
     "wof:name":"Oinimitis 14",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

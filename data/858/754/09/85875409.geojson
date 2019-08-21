@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":848318.997087,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.078129,45.271163,-66.078129,45.271163",
     "geom:latitude":45.271163,
     "geom:longitude":-66.078129,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.083129,45.266163,-66.073129,45.276163",
     "lbl:latitude":45.271163,
     "lbl:longitude":-66.078129,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.270896,
     "mps:longitude":-66.078092,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Landsowne"
-    ],
-    "name:unk_x_variant":[
         "Landsowne"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856504,
-        "qs:id":230697,
-        "qs_pg:id":230697
+        "qs:id":230697
     },
     "wof:country":"CA",
     "wof:geomhash":"ff23a98ac16c7308d6bc8827c2efde36",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872106,
+    "wof:lastmodified":1566424933,
     "wof:name":"Landsowne",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

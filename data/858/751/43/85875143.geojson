@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.895894,
     "lbl:longitude":-78.859134,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.89183,
     "mps:longitude":-78.853905,
     "mz:hierarchy_label":1,
@@ -82,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0440\u0430\u043b"
     ],
-    "name:unk_x_variant":[
-        "Central"
-    ],
     "name:vol_x_preferred":[
         "Central"
     ],
@@ -117,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -129,8 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856347,
-        "qs:id":1089542,
-        "qs_pg:id":1089542
+        "qs:id":1089542
     },
     "wof:country":"CA",
     "wof:geomhash":"b99b4b69f87069ba2a71f327d3954494",
@@ -155,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170833,
+    "wof:lastmodified":1566424974,
     "wof:name":"Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

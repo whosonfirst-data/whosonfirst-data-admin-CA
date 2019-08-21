@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1209339.79173,
+    "geom:area_square_m":1209339.791728,
     "geom:bbox":"-123.023591225,49.2081382369,-123.01244751,49.2219677293",
     "geom:latitude":49.215217,
     "geom:longitude":-123.018084,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.215129,
     "lbl:longitude":-123.01801,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.208436,
     "mps:longitude":-123.015622,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Suncrest"
     ],
     "name:eng_x_preferred":[
-        "Suncrest"
-    ],
-    "name:unk_x_variant":[
         "Suncrest"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -68,21 +66,20 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":33,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915095,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998703,
-        "qs:id":212679,
-        "qs_pg:id":212679
+        "qs:id":212679
     },
     "wof:country":"CA",
     "wof:geomhash":"975d0a50af6c4276e41b2f0de6dc0431",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521035,
+    "wof:lastmodified":1566424953,
     "wof:name":"Suncrest",
     "wof:parent_id":1108915095,
     "wof:placetype":"neighbourhood",

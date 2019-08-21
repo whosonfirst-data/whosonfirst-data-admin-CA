@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001267,
+    "geom:area_square_m":10258290.529823,
     "geom:bbox":"-122.679963452,49.0820050785,-122.637659896,49.1154441639",
     "geom:latitude":49.098696,
     "geom:longitude":-122.659671,
     "iso:country":"CA",
     "lbl:latitude":49.098641,
     "lbl:longitude":-122.659679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.098641,
     "mps:longitude":-122.659679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langley (City)"
     ],
@@ -36,7 +40,7 @@
     "qs:type":"MU",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101740867,
-    "wof:lastmodified":1533335865,
+    "wof:lastmodified":1566425496,
     "wof:name":"Langley (City)",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

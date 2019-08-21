@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.63598,
     "lbl:longitude":-73.800275,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.63598,
     "mps:longitude":-73.800275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0632\u0645\u064a\u0631\u064a"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":854,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
         "gn:id":6127681,
         "gp:id":1370,
         "qs:id":224101,
-        "qs_pg:id":224101,
         "wd:id":"Q142196",
         "wk:page":"Rosem\u00e8re, Quebec"
     },
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101737585,
-    "wof:lastmodified":1563284311,
+    "wof:lastmodified":1566425411,
     "wof:name":"Rosem\u00e8re",
     "wof:parent_id":890457823,
     "wof:placetype":"locality",

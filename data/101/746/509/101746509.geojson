@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.879839,
     "lbl:longitude":-93.979483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.879839,
     "mps:longitude":-93.979483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wolf River"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":165,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101746509,
-    "wof:lastmodified":1564172730,
+    "wof:lastmodified":1566425769,
     "wof:name":"Wolf River",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

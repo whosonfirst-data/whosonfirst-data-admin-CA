@@ -10,8 +10,10 @@
     "geom:latitude":43.531157,
     "geom:longitude":-79.690396,
     "iso:country":"CA",
+    "lbl:bbox":"-79.695396,43.526157,-79.685396,43.536157",
     "lbl:latitude":43.531157,
     "lbl:longitude":-79.690396,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.534463,
     "mps:longitude":-79.687529,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Erin Mills"
     ],
     "name:rus_x_preferred":[
-        "Erin Mills"
-    ],
-    "name:unk_x_variant":[
         "Erin Mills"
     ],
     "qs:gn_fcode":"PPL",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1304,
     "wof:belongsto":[
         85682057,
@@ -77,7 +76,6 @@
         "gn:id":5946604,
         "gp:id":55999106,
         "qs:id":891124,
-        "qs_pg:id":891124,
         "wd:id":"Q5389192"
     },
     "wof:country":"CA",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282092,
+    "wof:lastmodified":1566424977,
     "wof:name":"Erin Mills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

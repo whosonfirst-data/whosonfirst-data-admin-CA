@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.094333,
     "lbl:longitude":-114.253646,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.102659,
     "mps:longitude":-114.258085,
     "mz:hierarchy_label":1,
@@ -49,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1030.0,
     "wd:latitude":51.0919,
     "wd:longitude":-114.249,
@@ -64,7 +65,6 @@
     "wof:concordances":{
         "gp:id":23404726,
         "qs:id":236928,
-        "qs_pg:id":236928,
         "wd:id":"Q7912188"
     },
     "wof:country":"CA",
@@ -82,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282169,
+    "wof:lastmodified":1566424989,
     "wof:name":"Valley Ridge",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

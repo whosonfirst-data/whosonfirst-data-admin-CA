@@ -9,14 +9,17 @@
     "geom:bbox":"-71.457626065,48.474603239,-71.232418697,48.642020838",
     "geom:latitude":48.574465,
     "geom:longitude":-71.344498,
-    "geonames:id":"6137381,6137384",
+    "gn:id":"6137381,6137384",
     "iso:country":"CA",
     "lbl:latitude":48.583243,
     "lbl:longitude":-71.333487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.583243,
     "mps:longitude":-71.333487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0623\u0645\u0628\u0631\u0648\u0627\u0632"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101737659,
-    "wof:lastmodified":1563284176,
+    "wof:lastmodified":1566425387,
     "wof:name":"Saint-Ambroise",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

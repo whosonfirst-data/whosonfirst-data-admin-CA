@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
+    "geom:area_square_m":1062805.782082,
     "geom:bbox":"-132.2478594,54.0538182,-132.2376933,54.0737527",
     "geom:latitude":54.063578,
     "geom:longitude":-132.243569,
     "iso:country":"CA",
     "lbl:latitude":54.0635,
     "lbl:longitude":-132.243158,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.0635,
     "mps:longitude":-132.243158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yan 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742833,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566425931,
     "wof:name":"Yan 7",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

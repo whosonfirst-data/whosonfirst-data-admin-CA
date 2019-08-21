@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.917713,
     "lbl:longitude":-126.659258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.917713,
     "mps:longitude":-126.659258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0647\u0633\u064a\u0633"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.9258,
     "wd:longitude":-126.621,
     "wd:wordcount":723,
@@ -77,7 +80,6 @@
         "gn:id":6161139,
         "gp:id":9728,
         "qs:id":1047567,
-        "qs_pg:id":1047567,
         "wd:id":"Q2957646",
         "wk:page":"Tahsis"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101740791,
-    "wof:lastmodified":1563284773,
+    "wof:lastmodified":1566425486,
     "wof:name":"Tahsis",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

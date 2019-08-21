@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5337.454723,
     "geom:bbox":"-123.7147117,49.1319551,-123.7132534,49.1330769",
     "geom:latitude":49.132475,
     "geom:longitude":-123.713933,
     "iso:country":"CA",
     "lbl:latitude":49.132481,
     "lbl:longitude":-123.713966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.132481,
     "mps:longitude":-123.713966,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ma-Guala 6"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -42,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CA",
-    "wof:geomhash":"3af74ce7550f328406972aee7283c19b",
+    "wof:geomhash":"fb9134919e10df1fd41d626aaaf9f333",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":101743863,
-    "wof:lastmodified":1493163509,
+    "wof:lastmodified":1566425921,
     "wof:name":"Ma-Guala 6",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

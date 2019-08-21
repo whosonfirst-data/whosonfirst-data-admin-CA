@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003038,
+    "geom:area_square_m":24770586.581538,
     "geom:bbox":"-92.3961428,48.7262176,-92.2950359,48.7660726",
     "geom:latitude":48.74968,
     "geom:longitude":-92.348547,
     "iso:country":"CA",
     "lbl:latitude":48.752069,
     "lbl:longitude":-92.377641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.752069,
     "mps:longitude":-92.377641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sturgeon Falls Indian Reserve No. 23"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101747731,
-    "wof:lastmodified":1533335686,
+    "wof:lastmodified":1566425546,
     "wof:name":"Sturgeon Falls Indian Reserve No. 23",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

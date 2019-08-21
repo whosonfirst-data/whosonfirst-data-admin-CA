@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1051789.516256,
+    "geom:area_square_m":1051789.516257,
     "geom:bbox":"-75.7303862075,45.3507053652,-75.707774927,45.362631",
     "geom:latitude":45.357033,
     "geom:longitude":-75.717738,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.353394,
     "lbl:longitude":-75.72482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.349151,
     "mps:longitude":-75.732853,
     "mz:hierarchy_label":1,
@@ -33,23 +34,22 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":45.3583,
     "wd:longitude":-75.7231,
     "wd:wordcount":1745,
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399736,
         "qs:id":367276,
-        "qs_pg:id":367276,
         "wd:id":"Q7138839"
     },
     "wof:controlled":[],
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277890,
+    "wof:lastmodified":1566424986,
     "wof:name":"Parkwood Hills",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

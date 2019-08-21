@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00055,
-    "geom:area_square_m":4904543.890246,
+    "geom:area_square_m":4904543.890253,
     "geom:bbox":"-79.0593774414,43.8027292647,-79.0328979492,43.8306565437",
     "geom:latitude":43.817226,
     "geom:longitude":-79.046543,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.816793,
     "lbl:longitude":-79.042374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.816413,
     "mps:longitude":-79.047615,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Squires Beach"
-    ],
-    "name:unk_x_variant":[
         "Squires Beach"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999184,
-        "qs:id":1190748,
-        "qs_pg:id":1190748
+        "qs:id":1190748
     },
     "wof:country":"CA",
     "wof:geomhash":"71272651019dc9f0815e17c9a17746c4",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335741,
+    "wof:lastmodified":1566424936,
     "wof:name":"Squires Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

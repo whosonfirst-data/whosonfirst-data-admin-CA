@@ -9,14 +9,17 @@
     "geom:bbox":"-72.037215403,45.16006715,-71.91728879,45.240352402",
     "geom:latitude":45.196368,
     "geom:longitude":-71.967062,
-    "geonames:id":"5971972,5971973",
+    "gn:id":"5971972,5971973",
     "iso:country":"CA",
     "lbl:latitude":45.199497,
     "lbl:longitude":-71.961079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.199497,
     "mps:longitude":-71.961079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hatley"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101736893,
-    "wof:lastmodified":1563284415,
+    "wof:lastmodified":1566425425,
     "wof:name":"Hatley",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

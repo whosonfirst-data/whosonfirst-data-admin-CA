@@ -11,8 +11,10 @@
     "geom:longitude":-122.602836,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.607836,49.204219,-122.597836,49.214219",
     "lbl:latitude":49.209219,
     "lbl:longitude":-122.602836,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.200345,
     "mps:longitude":-122.600924,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:nld_x_preferred":[
         "Haney"
-    ],
-    "name:unk_x_variant":[
-        "Port Haney"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":188,
     "wof:belongsto":[
         85682117,
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gp:id":55998845,
         "qs:id":230995,
-        "qs_pg:id":230995,
         "wd:id":"Q5647780"
     },
     "wof:country":"CA",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281997,
+    "wof:lastmodified":1566424961,
     "wof:name":"Port Haney",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

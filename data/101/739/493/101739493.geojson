@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.885409,
     "lbl:longitude":-102.089428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.885409,
     "mps:longitude":-102.089428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Norquay"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.908,
     "wd:longitude":-102.089,
     "wd:wordcount":145,
@@ -70,7 +73,6 @@
         "gn:id":6089261,
         "gp:id":2419,
         "qs:id":529800,
-        "qs_pg:id":529800,
         "wd:id":"Q1916300",
         "wk:page":"Norquay, Saskatchewan"
     },
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284067,
+    "wof:lastmodified":1566425373,
     "wof:name":"Norquay",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

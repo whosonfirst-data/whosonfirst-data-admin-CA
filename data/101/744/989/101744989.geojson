@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
+    "geom:area_square_m":2834559.05534,
     "geom:bbox":"-122.1071179,51.8460839,-122.0713691,51.8613117",
     "geom:latitude":51.855284,
     "geom:longitude":-122.089368,
     "iso:country":"CA",
     "lbl:latitude":51.856596,
     "lbl:longitude":-122.089368,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.856596,
     "mps:longitude":-122.089368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Little Springs 18"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744989,
-    "wof:lastmodified":1533335902,
+    "wof:lastmodified":1566425904,
     "wof:name":"Little Springs 18",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

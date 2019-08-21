@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3410888.707473,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.435646,43.819665,-79.435646,43.819665",
     "geom:latitude":43.819665,
     "geom:longitude":-79.435646,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.440646,43.814665,-79.430646,43.824665",
     "lbl:latitude":43.819665,
     "lbl:longitude":-79.435646,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.823156,
     "mps:longitude":-79.440439,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:tgl_x_preferred":[
         "Upland"
     ],
-    "name:unk_x_variant":[
-        "Uplands"
-    ],
     "name:vol_x_preferred":[
         "Upland"
     ],
@@ -104,9 +103,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736093,
         85633041,
@@ -116,8 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999606,
-        "qs:id":506388,
-        "qs_pg:id":506388
+        "qs:id":506388
     },
     "wof:country":"CA",
     "wof:geomhash":"10231a519c9412dce497445b853bd39b",
@@ -141,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931456,
+    "wof:lastmodified":1566424976,
     "wof:name":"Uplands",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

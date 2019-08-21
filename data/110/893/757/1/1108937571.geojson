@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.872023,
     "lbl:longitude":-97.081508,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.872191,
     "mps:longitude":-97.082541,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968469,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108937571,
-    "wof:lastmodified":1564172102,
+    "wof:lastmodified":1566425230,
     "wof:name":"Maginot",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

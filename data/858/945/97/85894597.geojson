@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3598660.630805,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.184588,45.57819,-73.184588,45.57819",
     "geom:latitude":45.57819,
     "geom:longitude":-73.184588,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.189588,45.57319,-73.179588,45.58319",
     "lbl:latitude":45.57819,
     "lbl:longitude":-73.184588,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.584037,
     "mps:longitude":-73.182284,
     "mz:hierarchy_label":0,
@@ -36,19 +38,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101737201,
-        890456835,
-        136251273
+        890456835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998688,
-        "qs:id":384880,
-        "qs_pg:id":384880
+        "qs:id":384880
     },
     "wof:country":"CA",
     "wof:geomhash":"3988c01d2652e3cbac83e87e15fba37c",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931228,
+    "wof:lastmodified":1566424997,
     "wof:name":"Le Village de la Gare",
     "wof:parent_id":101737201,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002985,
+    "geom:area_square_m":20791474.12603,
     "geom:bbox":"-101.8406703,55.6945867,-101.7059821,55.7397322",
     "geom:latitude":55.717446,
     "geom:longitude":-101.76917,
     "iso:country":"CA",
     "lbl:latitude":55.716692,
     "lbl:longitude":-101.779773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.716692,
     "mps:longitude":-101.779773,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sisipuk Sakahegan (A) Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747325,
-    "wof:lastmodified":1533070058,
+    "wof:lastmodified":1566425616,
     "wof:name":"Sisipuk Sakahegan (A) Indian Reserve",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

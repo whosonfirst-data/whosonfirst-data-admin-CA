@@ -11,8 +11,10 @@
     "geom:longitude":-122.758484,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.763484,53.889953,-122.753484,53.899953",
     "lbl:latitude":53.894953,
     "lbl:longitude":-122.758484,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.894292,
     "mps:longitude":-122.758291,
     "mz:hierarchy_label":0,
@@ -339,9 +341,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0441\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "Assam"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0633\u0627\u0645"
     ],
@@ -401,7 +400,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -412,8 +411,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856729,
-        "qs:id":986495,
-        "qs_pg:id":986495
+        "qs:id":986495
     },
     "wof:country":"CA",
     "wof:geomhash":"f3928333bb4c6d82acf588b0430d64d9",
@@ -431,7 +429,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170829,
+    "wof:lastmodified":1566424973,
     "wof:name":"Assam",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

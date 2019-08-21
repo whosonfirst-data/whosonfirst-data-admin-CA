@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
+    "geom:area_square_m":182316.50463,
     "geom:bbox":"-123.7602536,49.5115303,-123.7546734,49.516834",
     "geom:latitude":49.514642,
     "geom:longitude":-123.757059,
     "iso:country":"CA",
     "lbl:latitude":49.514885,
     "lbl:longitude":-123.756731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.514885,
     "mps:longitude":-123.756731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Shannon Creek) No 28"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747821,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566425556,
     "wof:name":"Sechelt Band Lands (Shannon Creek) No 28",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

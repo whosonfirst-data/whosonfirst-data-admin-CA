@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.665,
     "lbl:longitude":-98.931026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.665,
     "mps:longitude":-98.931026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Victoria"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101734999,
-    "wof:lastmodified":1561844448,
+    "wof:lastmodified":1566425836,
     "wof:name":"Victoria",
     "wof:parent_id":1158868933,
     "wof:placetype":"locality",

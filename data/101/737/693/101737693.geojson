@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.465629,
     "lbl:longitude":-69.018854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.465629,
     "mps:longitude":-69.018854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rivi\u00e8re-Bleue"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":360,
     "wof:belongsto":[
         102191575,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101737693,
-    "wof:lastmodified":1563284170,
+    "wof:lastmodified":1566425386,
     "wof:name":"Rivi\u00e8re-Bleue",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

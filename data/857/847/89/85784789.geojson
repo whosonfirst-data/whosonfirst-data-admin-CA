@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7240102.320927,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.39346,46.645767,-81.39346,46.645767",
     "geom:latitude":46.645767,
     "geom:longitude":-81.39346,
     "gn:latitude":46.63338,
     "gn:longitude":-81.38307,
     "iso:country":"CA",
+    "lbl:bbox":"-81.39846,46.640767,-81.38846,46.650767",
     "lbl:latitude":46.645767,
     "lbl:longitude":-81.39346,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.641723,
     "mps:longitude":-81.391199,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Levack"
-    ],
-    "name:unk_x_variant":[
         "Levack"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,8 +70,7 @@
     "wof:concordances":{
         "gn:id":6053216,
         "gp:id":861,
-        "qs:id":1191839,
-        "qs_pg:id":1191839
+        "qs:id":1191839
     },
     "wof:country":"CA",
     "wof:geomhash":"f5432894f0b78779a1c1cc7181df9076",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860650,
+    "wof:lastmodified":1566424899,
     "wof:name":"Levack",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

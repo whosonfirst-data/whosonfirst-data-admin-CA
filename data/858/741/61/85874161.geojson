@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.090331,
     "lbl:longitude":-114.222259,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.091271,
     "mps:longitude":-114.223452,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1120.0,
     "wd:latitude":51.0906,
     "wd:longitude":-114.224,
@@ -58,7 +59,6 @@
     "wof:concordances":{
         "gp:id":55855709,
         "qs:id":381145,
-        "qs_pg:id":381145,
         "wd:id":"Q14252577"
     },
     "wof:country":"CA",
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282031,
+    "wof:lastmodified":1566424967,
     "wof:name":"Greenwood-Greenbriar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":7999.437138,
     "geom:bbox":"-128.0951824,52.1733061,-128.0927322,52.1743552",
     "geom:latitude":52.173766,
     "geom:longitude":-128.093775,
     "iso:country":"CA",
     "lbl:latitude":52.173656,
     "lbl:longitude":-128.093375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.173656,
     "mps:longitude":-128.093375,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pole Island 14"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":9470
     },
     "wof:country":"CA",
-    "wof:geomhash":"a555cd9b028e600d6572c27d84d3005e",
+    "wof:geomhash":"583f99dab896c0afbccd2abeaf6d53e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743669,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566425911,
     "wof:name":"Pole Island 14",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7377116.850371,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.31803,43.867153,-79.31803,43.867153",
     "geom:latitude":43.867153,
     "geom:longitude":-79.31803,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.32303,43.862153,-79.31303,43.872153",
     "lbl:latitude":43.867153,
     "lbl:longitude":-79.31803,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.866891,
     "mps:longitude":-79.328708,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Unionville"
-    ],
-    "name:unk_x_variant":[
-        "Markham Centre"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -62,9 +61,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736035,
         85633041,
@@ -74,8 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999466,
-        "qs:id":1090821,
-        "qs_pg:id":1090821
+        "qs:id":1090821
     },
     "wof:country":"CA",
     "wof:geomhash":"89bdd3b413219e7a445db4f450ae8135",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931421,
+    "wof:lastmodified":1566424929,
     "wof:name":"Markham Centre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

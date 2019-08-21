@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
+    "geom:area_square_m":434830.455901,
     "geom:bbox":"-61.7848822,45.603108,-61.7600635,45.6136987",
     "geom:latitude":45.608319,
     "geom:longitude":-61.772311,
     "iso:country":"CA",
     "lbl:latitude":45.60771,
     "lbl:longitude":-61.770575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.60771,
     "mps:longitude":-61.770575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Welnek Indian Reserve No. 38"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747623,
-    "wof:lastmodified":1532596982,
+    "wof:lastmodified":1566425656,
     "wof:name":"Welnek Indian Reserve No. 38",
     "wof:parent_id":890458003,
     "wof:placetype":"locality",

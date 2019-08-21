@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4697412.357033,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.393023,49.891467,-119.393023,49.891467",
     "geom:latitude":49.891467,
     "geom:longitude":-119.393023,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.398023,49.886467,-119.388023,49.896467",
     "lbl:latitude":49.891467,
     "lbl:longitude":-119.393023,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.888441,
     "mps:longitude":-119.39354,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Rutland Town Centre"
-    ],
-    "name:unk_x_variant":[
         "Rutland Town Centre"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741131,
-        890458697,
-        85682117
+        890458697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856434,
-        "qs:id":425715,
-        "qs_pg:id":425715
+        "qs:id":425715
     },
     "wof:country":"CA",
     "wof:geomhash":"a4cb300697ffe17444decd447e7daaf4",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872065,
+    "wof:lastmodified":1566424926,
     "wof:name":"Rutland Town Centre",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

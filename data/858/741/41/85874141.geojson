@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11600861.461913,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.859985,46.075262,-64.859985,46.075262",
     "geom:latitude":46.075262,
     "geom:longitude":-64.859985,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.864985,46.070262,-64.854985,46.080262",
     "lbl:latitude":46.075262,
     "lbl:longitude":-64.859985,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.072706,
     "mps:longitude":-64.862395,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "M.I.D"
-    ],
-    "name:unk_x_variant":[
-        "MID"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855697,
-        "qs:id":381128,
-        "qs_pg:id":381128
+        "qs:id":381128
     },
     "wof:country":"CA",
     "wof:geomhash":"c4f584bd3327e943fec8ab1831356ddd",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871893,
+    "wof:lastmodified":1566424968,
     "wof:name":"Mid",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

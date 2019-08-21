@@ -11,8 +11,10 @@
     "geom:longitude":-66.108913,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.113913,45.259853,-66.103913,45.269853",
     "lbl:latitude":45.264853,
     "lbl:longitude":-66.108913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.272011,
     "mps:longitude":-66.114704,
     "mz:hierarchy_label":0,
@@ -90,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043b\u0444\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
-        "Milford"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u0641\u0648\u0631\u0688"
     ],
@@ -127,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -138,8 +137,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23393302,
-        "qs:id":892899,
-        "qs_pg:id":892899
+        "qs:id":892899
     },
     "wof:country":"CA",
     "wof:geomhash":"bde7b4f3b2be2cec7f46f46a10dc9ee2",
@@ -157,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170724,
+    "wof:lastmodified":1566424941,
     "wof:name":"Milford",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.820418,
     "lbl:longitude":-65.781413,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.820418,
     "mps:longitude":-65.781413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0435\u043d\u043e\u0443\u0441"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,6 @@
         "gn:id":6119494,
         "gp:id":1321,
         "qs:id":246684,
-        "qs_pg:id":246684,
         "wd:id":"Q3425518",
         "wk:page":"Renous-Quarryville"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101741253,
-    "wof:lastmodified":1561844444,
+    "wof:lastmodified":1566425825,
     "wof:name":"Renous Indian Reserve No. 12",
     "wof:parent_id":890458001,
     "wof:placetype":"locality",

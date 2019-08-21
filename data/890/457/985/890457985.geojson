@@ -14,16 +14,18 @@
     "geom:longitude":-117.198123,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":1166,
     "gn:population":1166,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":55.734056,
     "lbl:longitude":-117.199514,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.734056,
     "mps:longitude":-117.199514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0445\u0435\u0440"
     ],
@@ -71,7 +73,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":587.0,
     "wd:latitude":"55.7231",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":890457985,
-    "wof:lastmodified":1563286424,
+    "wof:lastmodified":1566426131,
     "wof:name":"Falher",
     "wof:parent_id":1158863233,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.811496,
     "lbl:longitude":-97.152214,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.809631,
     "mps:longitude":-97.160203,
     "mz:hierarchy_label":1,
@@ -71,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968781,
@@ -83,8 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332858,
-        "qs:id":368653,
-        "qs_pg:id":368653
+        "qs:id":368653
     },
     "wof:country":"CA",
     "wof:geomhash":"f0cbb8c72fdd4beb9fa2bfffa7d9b355",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170736,
+    "wof:lastmodified":1566424947,
     "wof:name":"Montcalm",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

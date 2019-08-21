@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
+    "geom:area_square_m":94497.447406,
     "geom:bbox":"-119.6626481,50.94323,-119.6578261,50.9469552",
     "geom:latitude":50.944778,
     "geom:longitude":-119.660667,
     "iso:country":"CA",
     "lbl:latitude":50.944265,
     "lbl:longitude":-119.661652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.944265,
     "mps:longitude":-119.661652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toops 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745575,
-    "wof:lastmodified":1533335913,
+    "wof:lastmodified":1566425967,
     "wof:name":"Toops 3",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

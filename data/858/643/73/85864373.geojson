@@ -11,8 +11,10 @@
     "geom:longitude":-66.107655,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.112655,45.25237,-66.102655,45.26237",
     "lbl:latitude":45.25737,
     "lbl:longitude":-66.107655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.256626,
     "mps:longitude":-66.112171,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u043d\u0434\u0435\u0439\u043b"
     ],
-    "name:unk_x_variant":[
-        "Greendale"
-    ],
     "name:vol_x_preferred":[
         "Greendale"
     ],
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":199,
     "wof:belongsto":[
         85682065,
@@ -104,8 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23393288,
-        "qs:id":367032,
-        "qs_pg:id":367032
+        "qs:id":367032
     },
     "wof:country":"CA",
     "wof:geomhash":"628731627e453b6b8490508f8a07b870",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170721,
+    "wof:lastmodified":1566424940,
     "wof:name":"Greendale",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

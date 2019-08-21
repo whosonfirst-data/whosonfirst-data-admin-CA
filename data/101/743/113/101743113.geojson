@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
+    "geom:area_square_m":184565.684822,
     "geom:bbox":"-127.0079156,50.5420307,-127.0017366,50.5489404",
     "geom:latitude":50.54572,
     "geom:longitude":-127.005562,
     "iso:country":"CA",
     "lbl:latitude":50.545872,
     "lbl:longitude":-127.00587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.545872,
     "mps:longitude":-127.00587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ar-Ce-Wy-Ee 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743113,
-    "wof:lastmodified":1533335873,
+    "wof:lastmodified":1566425923,
     "wof:name":"Ar-Ce-Wy-Ee 4",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

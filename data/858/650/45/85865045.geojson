@@ -11,8 +11,10 @@
     "geom:longitude":-120.400059,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-120.405059,50.707089,-120.395059,50.717089",
     "lbl:latitude":50.712089,
     "lbl:longitude":-120.400059,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.69905,
     "mps:longitude":-120.41828,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Brocklehurst"
     ],
     "name:swe_x_preferred":[
-        "Brocklehurst"
-    ],
-    "name:unk_x_variant":[
         "Brocklehurst"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":138,
     "wof:belongsto":[
         85682117,
@@ -82,8 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405048,
-        "qs:id":986208,
-        "qs_pg:id":986208
+        "qs:id":986208
     },
     "wof:country":"CA",
     "wof:geomhash":"64793006ef071ea61ef8378f560fef8c",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170741,
+    "wof:lastmodified":1566424949,
     "wof:name":"Brocklehurst",
     "wof:parent_id":101741047,
     "wof:placetype":"neighbourhood",

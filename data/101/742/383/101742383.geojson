@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":222141.575151,
     "geom:bbox":"-103.7154591,50.7560868,-103.7078828,50.7626284",
     "geom:latitude":50.759847,
     "geom:longitude":-103.711557,
     "iso:country":"CA",
     "lbl:latitude":50.758293,
     "lbl:longitude":-103.711636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.758293,
     "mps:longitude":-103.711636,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wa-Pii-Moos-Toosis I.R. 83A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101742383,
-    "wof:lastmodified":1531524428,
+    "wof:lastmodified":1566425932,
     "wof:name":"Wa-Pii-Moos-Toosis I.R. 83A",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

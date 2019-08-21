@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4290.055496,
     "geom:bbox":"-127.4009511,50.6997103,-127.3990747,50.7002929",
     "geom:latitude":50.699991,
     "geom:longitude":-127.399959,
     "iso:country":"CA",
     "lbl:latitude":50.699977,
     "lbl:longitude":-127.399923,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.699977,
     "mps:longitude":-127.399923,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shell Island 3"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -46,7 +51,7 @@
         "gp:id":29374025
     },
     "wof:country":"CA",
-    "wof:geomhash":"1a694db1e1c9537035cc8e1a5c41efbf",
+    "wof:geomhash":"cd07f06114b0e2f9313c71d72fa7cc9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":101742971,
-    "wof:lastmodified":1493163505,
+    "wof:lastmodified":1566425933,
     "wof:name":"Shell Island 3",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.904368,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.909368,43.221066,-79.899368,43.231066",
     "lbl:latitude":43.226066,
     "lbl:longitude":-79.904368,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.225934,
     "mps:longitude":-79.910649,
     "mz:hierarchy_label":0,
@@ -96,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u044c\u0431\u0435\u0440\u0442"
     ],
-    "name:unk_x_variant":[
-        "Gilbert"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0644\u0628\u0631\u0679"
     ],
@@ -136,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":250,
     "wof:belongsto":[
         85682057,
@@ -148,8 +147,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856152,
-        "qs:id":381411,
-        "qs_pg:id":381411
+        "qs:id":381411
     },
     "wof:country":"CA",
     "wof:geomhash":"66b7f287a247e5659b94c35110f7fb08",
@@ -167,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170793,
+    "wof:lastmodified":1566424964,
     "wof:name":"Gilbert",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

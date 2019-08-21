@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.112347,
     "lbl:longitude":-117.54846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.112347,
     "mps:longitude":-117.54846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fruitvale"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
@@ -69,7 +72,6 @@
         "gn:id":5958590,
         "gp:id":9131,
         "qs:id":71892,
-        "qs_pg:id":71892,
         "wd:id":"Q2956998",
         "wk:page":"Fruitvale, British Columbia"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101740999,
-    "wof:lastmodified":1563284777,
+    "wof:lastmodified":1566425488,
     "wof:name":"Fruitvale",
     "wof:parent_id":890457249,
     "wof:placetype":"locality",

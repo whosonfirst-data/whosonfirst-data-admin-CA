@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001967,
+    "geom:area_square_m":13647398.141042,
     "geom:bbox":"-98.1408222,55.8569298,-98.0889913,55.8972292",
     "geom:latitude":55.877007,
     "geom:longitude":-98.114946,
     "iso:country":"CA",
     "lbl:latitude":55.882986,
     "lbl:longitude":-98.112846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.882986,
     "mps:longitude":-98.112846,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Odei River Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747339,
-    "wof:lastmodified":1533069699,
+    "wof:lastmodified":1566425545,
     "wof:name":"Odei River Indian Reserve",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

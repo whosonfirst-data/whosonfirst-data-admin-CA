@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":37724.441421,
     "geom:bbox":"-104.3698504,55.3971782,-104.3666397,55.4004787",
     "geom:latitude":55.398818,
     "geom:longitude":-104.368152,
     "iso:country":"CA",
     "lbl:latitude":55.398804,
     "lbl:longitude":-104.368143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.398804,
     "mps:longitude":-104.368143,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stanley I.R. 157A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742241,
-    "wof:lastmodified":1531525133,
+    "wof:lastmodified":1566425938,
     "wof:name":"Stanley I.R. 157A",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

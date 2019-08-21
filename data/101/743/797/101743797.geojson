@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
+    "geom:area_square_m":210682.729582,
     "geom:bbox":"-127.8119921,50.2996619,-127.8031253,50.3033771",
     "geom:latitude":50.301427,
     "geom:longitude":-127.807188,
     "iso:country":"CA",
     "lbl:latitude":50.301507,
     "lbl:longitude":-127.807676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.301507,
     "mps:longitude":-127.807676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsowenachs 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743797,
-    "wof:lastmodified":1533335883,
+    "wof:lastmodified":1566425905,
     "wof:name":"Tsowenachs 2",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

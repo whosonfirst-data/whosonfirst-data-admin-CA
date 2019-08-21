@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":675391.556809,
+    "geom:area_square_m":675391.556811,
     "geom:bbox":"-106.696805,52.106408,-106.679679,52.11472",
     "geom:latitude":52.111354,
     "geom:longitude":-106.688491,
     "iso:country":"CA",
     "lbl:latitude":52.111051,
     "lbl:longitude":-106.687798,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.111051,
     "mps:longitude":-106.687798,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-106.687798,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1126114159,
-    "wof:lastmodified":1531524186,
+    "wof:lastmodified":1566426168,
     "wof:name":"Holiday Park",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2068267.108137,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.826324,46.124837,-64.826324,46.124837",
     "geom:latitude":46.124837,
     "geom:longitude":-64.826324,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.831324,46.119837,-64.821324,46.129837",
     "lbl:latitude":46.124837,
     "lbl:longitude":-64.826324,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.12635,
     "mps:longitude":-64.825308,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Erin Ridge"
-    ],
-    "name:unk_x_variant":[
         "Erin Ridge"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856639,
-        "qs:id":381642,
-        "qs_pg:id":381642
+        "qs:id":381642
     },
     "wof:country":"CA",
     "wof:geomhash":"0ff7c1e8fa16d255f4616fe1244894a4",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872140,
+    "wof:lastmodified":1566424927,
     "wof:name":"Erin Ridge",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

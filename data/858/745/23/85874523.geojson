@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":524513.042326,
+    "geom:area_square_m":524513.042323,
     "geom:bbox":"-75.6241819999,45.3929489997,-75.6056149998,45.4024010003",
     "geom:latitude":45.39825,
     "geom:longitude":-75.614607,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.400593,
     "lbl:longitude":-75.614688,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.391698,
     "mps:longitude":-75.603819,
     "mz:hierarchy_label":1,
@@ -33,23 +34,22 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":45.3972,
     "wd:longitude":-75.6139,
     "wd:wordcount":163,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855951,
         "qs:id":890952,
-        "qs_pg:id":890952,
         "wd:id":"Q7492670"
     },
     "wof:controlled":[],
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277893,
+    "wof:lastmodified":1566425000,
     "wof:name":"Sheffield Glen",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

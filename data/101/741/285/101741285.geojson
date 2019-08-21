@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.934199,
     "lbl:longitude":-63.606168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.934199,
     "mps:longitude":-63.606168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Shubenacadie"
     ],
@@ -47,7 +50,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101741285,
-    "wof:lastmodified":1561844442,
+    "wof:lastmodified":1566425822,
     "wof:name":"Shubenacadie Indian Reserve No. 13",
     "wof:parent_id":890456491,
     "wof:placetype":"locality",

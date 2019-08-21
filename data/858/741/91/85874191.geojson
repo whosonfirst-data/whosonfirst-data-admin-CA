@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4684493.273999,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.779423,46.087489,-64.779423,46.087489",
     "geom:latitude":46.087489,
     "geom:longitude":-64.779423,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.784423,46.082489,-64.774423,46.092489",
     "lbl:latitude":46.087489,
     "lbl:longitude":-64.779423,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.07707,
     "mps:longitude":-64.780707,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Centre-Ville"
-    ],
-    "name:unk_x_variant":[
         "Centre-Ville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855757,
-        "qs:id":1331707,
-        "qs_pg:id":1331707
+        "qs:id":1331707
     },
     "wof:country":"CA",
     "wof:geomhash":"b0fba6445073b564df1f66499b0c073f",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871905,
+    "wof:lastmodified":1566424968,
     "wof:name":"Centre-Ville",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

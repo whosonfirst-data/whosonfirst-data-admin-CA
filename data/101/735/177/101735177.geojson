@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.011267,
     "lbl:longitude":-66.404577,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.011267,
     "mps:longitude":-66.404577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644 \u0631\u064a\u0641\u0631 \u0643\u0631\u0648\u0633\u064a\u0646\u063a"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101735177,
-    "wof:lastmodified":1563285506,
+    "wof:lastmodified":1566425884,
     "wof:name":"Eel River Crossing",
     "wof:parent_id":890458105,
     "wof:placetype":"locality",

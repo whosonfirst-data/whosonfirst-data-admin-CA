@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9012347.0392,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964308,42.283602,-82.964308,42.283602",
     "geom:latitude":42.283602,
     "geom:longitude":-82.964308,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.969308,42.278602,-82.959308,42.288602",
     "lbl:latitude":42.283602,
     "lbl:longitude":-82.964308,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.285288,
     "mps:longitude":-82.957868,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Walker Farm"
-    ],
-    "name:unk_x_variant":[
         "Walker Farm"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,8 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856332,
-        "qs:id":273606,
-        "qs_pg:id":273606
+        "qs:id":273606
     },
     "wof:country":"CA",
     "wof:geomhash":"0c1d34b48b907372f58d2f00028d64a9",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872020,
+    "wof:lastmodified":1566424974,
     "wof:name":"Walker Farm",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

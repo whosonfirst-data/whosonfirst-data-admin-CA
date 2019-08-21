@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":43.827693,
     "lbl:longitude":-78.825991,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.827693,
     "mps:longitude":-78.825991,
     "mz:hierarchy_label":1,
@@ -302,7 +304,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":106.0,
     "wd:latitude":43.9,
@@ -320,7 +322,6 @@
         "gn:id":6094578,
         "gp:id":4117,
         "qs:id":1053538,
-        "qs_pg:id":1053538,
         "wd:id":"Q211867",
         "wk:page":"Oshawa"
     },
@@ -335,7 +336,7 @@
         }
     ],
     "wof:id":101735997,
-    "wof:lastmodified":1563285315,
+    "wof:lastmodified":1566425850,
     "wof:name":"Oshawa",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

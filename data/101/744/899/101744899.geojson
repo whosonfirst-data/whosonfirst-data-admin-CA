@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000662,
+    "geom:area_square_m":4972866.341212,
     "geom:bbox":"-122.5045114,52.557355,-122.4719096,52.5940455",
     "geom:latitude":52.575951,
     "geom:longitude":-122.48916,
     "iso:country":"CA",
     "lbl:latitude":52.57581,
     "lbl:longitude":-122.486703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.57581,
     "mps:longitude":-122.486703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alexandria 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744899,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566425903,
     "wof:name":"Alexandria 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

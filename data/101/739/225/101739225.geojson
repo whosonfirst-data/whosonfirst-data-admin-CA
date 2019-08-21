@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.347026,
     "lbl:longitude":-105.440775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.347026,
     "mps:longitude":-105.440775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Imperial"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.344,
     "wd:longitude":-105.443,
     "wd:wordcount":124,
@@ -67,7 +70,6 @@
         "gn:id":5982614,
         "gp:id":23402833,
         "qs:id":354922,
-        "qs_pg:id":354922,
         "wd:id":"Q370771",
         "wk:page":"Imperial, Saskatchewan"
     },
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284063,
+    "wof:lastmodified":1566425372,
     "wof:name":"Imperial",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

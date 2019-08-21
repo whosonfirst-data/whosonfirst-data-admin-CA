@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.547408,
     "lbl:longitude":-73.232805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.547408,
     "mps:longitude":-73.232805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0643 \u0645\u0627\u0633\u062a\u0631\u0641\u064a\u0644"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":258,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,6 @@
         "gn:id":6070782,
         "gp:id":954,
         "qs:id":223982,
-        "qs_pg:id":223982,
         "wd:id":"Q3303708",
         "wk:page":"McMasterville, Quebec"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101736723,
-    "wof:lastmodified":1563284452,
+    "wof:lastmodified":1566425436,
     "wof:name":"McMasterville",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",
