@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.777548,
     "lbl:longitude":-71.693035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.777548,
     "mps:longitude":-71.693035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u062a \u0631\u0648\u062c"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":376,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":8379100,
         "gp:id":3445,
-        "qs:id":358357,
         "qs_pg:id":358357,
         "wd:id":"Q142313",
         "wk:page":"Pont-Rouge"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101736907,
-    "wof:lastmodified":1563284339,
+    "wof:lastmodified":1566519456,
     "wof:name":"Pont-Rouge",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

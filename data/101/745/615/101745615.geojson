@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":28.429508,
     "geom:bbox":"-119.7559157,49.1928602,-119.7558569,49.192931",
     "geom:latitude":49.192896,
     "geom:longitude":-119.755886,
     "iso:country":"CA",
     "lbl:latitude":49.194654,
     "lbl:longitude":-119.760166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.194654,
     "mps:longitude":-119.760166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blind Creek 6A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745615,
-    "wof:lastmodified":1533335914,
+    "wof:lastmodified":1566520064,
     "wof:name":"Blind Creek 6A",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

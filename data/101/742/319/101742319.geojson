@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02089,
+    "geom:area_square_m":164838174.513433,
     "geom:bbox":"-103.5869666,50.2949435,-103.3810857,50.3968104",
     "geom:latitude":50.34595,
     "geom:longitude":-103.484072,
     "iso:country":"CA",
     "lbl:latitude":50.345947,
     "lbl:longitude":-103.527979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.345947,
     "mps:longitude":-103.527979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Assiniboine I.R. 76"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742319,
-    "wof:lastmodified":1531524421,
+    "wof:lastmodified":1566520030,
     "wof:name":"Assiniboine I.R. 76",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

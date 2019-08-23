@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00054,
+    "geom:area_square_m":3883720.723714,
     "geom:bbox":"-124.1541098,54.4474535,-124.128843,54.4693502",
     "geom:latitude":54.4584,
     "geom:longitude":-124.141479,
     "iso:country":"CA",
     "lbl:latitude":54.458402,
     "lbl:longitude":-124.141479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.458402,
     "mps:longitude":-124.141479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uzta 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744547,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566519981,
     "wof:name":"Uzta 4",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

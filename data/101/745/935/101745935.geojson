@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
+    "geom:area_square_m":702574.147666,
     "geom:bbox":"-128.7568341,53.9185895,-128.7389986,53.9288158",
     "geom:latitude":53.925292,
     "geom:longitude":-128.748285,
     "iso:country":"CA",
     "lbl:latitude":53.925626,
     "lbl:longitude":-128.748387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.925626,
     "mps:longitude":-128.748387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bees 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745935,
-    "wof:lastmodified":1533335918,
+    "wof:lastmodified":1566520058,
     "wof:name":"Bees 6",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.18134,
     "lbl:longitude":-97.9386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.18134,
     "mps:longitude":-97.9386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u0643\u0644\u0631"
     ],
@@ -160,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2590,
     "wof:belongsto":[
@@ -174,7 +177,6 @@
         "fct:id":"03c04306-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6183204,
         "gp:id":3003,
-        "qs:id":334409,
         "qs_pg:id":334409,
         "wd:id":"Q1019402",
         "wk:page":"Winkler, Manitoba"
@@ -194,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285503,
+    "wof:lastmodified":1566519957,
     "wof:name":"Winkler",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

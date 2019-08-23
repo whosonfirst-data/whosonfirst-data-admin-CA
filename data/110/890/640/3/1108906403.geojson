@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00041,
-    "geom:area_square_m":3662473.776629,
+    "geom:area_square_m":3662473.776627,
     "geom:bbox":"-79.4685484,43.761202611,-79.439984311,43.792407463",
     "geom:latitude":43.778814,
     "geom:longitude":-79.452419,
     "iso:country":"CA",
     "lbl:latitude":43.77579,
     "lbl:longitude":-79.451017,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.77579,
     "mps:longitude":-79.451017,
     "mz:hierarchy_label":1,
@@ -32,12 +33,12 @@
     "torsdfa:AREA_NAME":"Westminster-Branson (35)",
     "torsdfa:AREA_S_CD":"035",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108906403,
-    "wof:lastmodified":1533272668,
+    "wof:lastmodified":1566519296,
     "wof:name":"Westminster-Branson",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

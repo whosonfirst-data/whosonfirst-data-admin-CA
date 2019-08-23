@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000485,
+    "geom:area_square_m":4035134.083154,
     "geom:bbox":"-66.3841552,47.7280757,-66.3572929,47.7461957",
     "geom:latitude":47.737137,
     "geom:longitude":-66.370727,
     "iso:country":"CA",
     "lbl:latitude":47.737136,
     "lbl:longitude":-66.370727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.737136,
     "mps:longitude":-66.370727,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moose Meadows Indian Reserve No. 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101741353,
-    "wof:lastmodified":1532597323,
+    "wof:lastmodified":1566519855,
     "wof:name":"Moose Meadows Indian Reserve No. 4",
     "wof:parent_id":890458105,
     "wof:placetype":"locality",

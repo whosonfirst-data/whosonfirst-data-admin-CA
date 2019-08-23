@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007959,
-    "geom:area_square_m":69190126.886382,
+    "geom:area_square_m":69190126.886388,
     "geom:bbox":"-75.5952619999,45.2796970003,-75.3825759999,45.3664390003",
     "geom:latitude":45.329511,
     "geom:longitude":-75.514824,
     "iso:country":"CA",
     "lbl:latitude":45.332796,
     "lbl:longitude":-75.522014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.332796,
     "mps:longitude":-75.522014,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-75.522014,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126055453,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1108978163,
-    "wof:lastmodified":1533277883,
+    "wof:lastmodified":1566519304,
     "wof:name":"Edwards",
     "wof:parent_id":1126055453,
     "wof:placetype":"neighbourhood",

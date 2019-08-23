@@ -11,8 +11,10 @@
     "geom:longitude":-80.49545,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.50045,43.45882,-80.49045,43.46882",
     "lbl:latitude":43.46382,
     "lbl:longitude":-80.49545,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.469331,
     "mps:longitude":-80.502847,
     "mz:hierarchy_label":0,
@@ -96,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0439\u0440\u0444\u0456\u043b\u0434"
     ],
-    "name:unk_x_variant":[
-        "Fairfield"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u0626\u0631\u0641\u06cc\u0644\u0688"
     ],
@@ -136,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -148,7 +147,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856261,
-        "qs:id":899253,
         "qs_pg:id":899253
     },
     "wof:country":"CA",
@@ -174,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170778,
+    "wof:lastmodified":1566518977,
     "wof:name":"Fairfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

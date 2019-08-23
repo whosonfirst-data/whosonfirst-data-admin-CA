@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021443,
+    "geom:area_square_m":146730050.605408,
     "geom:bbox":"-115.5823264,56.3338553,-115.3242449,56.4842847",
     "geom:latitude":56.399405,
     "geom:longitude":-115.431192,
     "iso:country":"CA",
     "lbl:latitude":56.435075,
     "lbl:longitude":-115.376755,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.435075,
     "mps:longitude":-115.376755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swampy Lake 236"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746637,
-    "wof:lastmodified":1533250164,
+    "wof:lastmodified":1566519840,
     "wof:name":"Swampy Lake 236",
     "wof:parent_id":1158863303,
     "wof:placetype":"locality",

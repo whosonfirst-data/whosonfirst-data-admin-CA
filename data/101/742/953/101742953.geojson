@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":14921.036059,
     "geom:bbox":"-126.5113308,51.0315176,-126.5088859,51.0324169",
     "geom:latitude":51.031992,
     "geom:longitude":-126.509981,
     "iso:country":"CA",
     "lbl:latitude":51.031967,
     "lbl:longitude":-126.509973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.031967,
     "mps:longitude":-126.509973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dug-Da-Myse 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742953,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566520007,
     "wof:name":"Dug-Da-Myse 12",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

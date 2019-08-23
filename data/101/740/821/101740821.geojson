@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.392579,
     "lbl:longitude":-126.667252,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.392579,
     "mps:longitude":-126.667252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Houston"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.3988,
     "wd:longitude":-126.644,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":5977783,
         "gp:id":24609738,
-        "qs:id":160275,
         "qs_pg:id":160275,
         "wd:id":"Q1257381",
         "wk:page":"Houston, British Columbia"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101740821,
-    "wof:lastmodified":1563284790,
+    "wof:lastmodified":1566519551,
     "wof:name":"Houston",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

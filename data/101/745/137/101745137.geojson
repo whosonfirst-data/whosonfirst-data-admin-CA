@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
+    "geom:area_square_m":483336.461252,
     "geom:bbox":"-123.6276509,52.9304136,-123.6156883,52.9358388",
     "geom:latitude":52.933126,
     "geom:longitude":-123.62167,
     "iso:country":"CA",
     "lbl:latitude":52.933126,
     "lbl:longitude":-123.621669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.933126,
     "mps:longitude":-123.621669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nazco 21"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745137,
-    "wof:lastmodified":1533335904,
+    "wof:lastmodified":1566520060,
     "wof:name":"Nazco 21",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

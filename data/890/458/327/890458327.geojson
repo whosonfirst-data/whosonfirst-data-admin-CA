@@ -14,15 +14,18 @@
     "geom:longitude":-113.639087,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.159346,
     "lbl:longitude":-113.638383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.159346,
     "mps:longitude":-113.638383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u043b\u0439"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1044.0,
     "wd:latitude":"50.165",
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":6155676,
         "gp:id":8800,
-        "qs:id":965297,
+        "qs_pg:id":965297,
         "wd:id":"Q3512252",
         "wk:page":"Stavely"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890458327,
-    "wof:lastmodified":1563286105,
+    "wof:lastmodified":1566520140,
     "wof:name":"Stavely",
     "wof:parent_id":1158863271,
     "wof:placetype":"locality",

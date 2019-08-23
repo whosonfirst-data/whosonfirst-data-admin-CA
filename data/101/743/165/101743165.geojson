@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":6947.495113,
     "geom:bbox":"-127.9974004,50.5377538,-127.9950815,50.5389647",
     "geom:latitude":50.538354,
     "geom:longitude":-127.995782,
     "iso:country":"CA",
     "lbl:latitude":50.538406,
     "lbl:longitude":-127.995532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.538406,
     "mps:longitude":-127.995532,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pulcah 15"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":9487
     },
     "wof:country":"CA",
-    "wof:geomhash":"82b4b7aef54a5c66711221ddf576da49",
+    "wof:geomhash":"dedbee9822e9454af571fabdfee9d920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743165,
-    "wof:lastmodified":1493163506,
+    "wof:lastmodified":1566519995,
     "wof:name":"Pulcah 15",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

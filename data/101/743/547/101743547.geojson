@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.627447,
     "lbl:longitude":-129.891328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.627447,
     "mps:longitude":-129.891328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khutzeymateen River"
     ],
@@ -47,7 +50,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101743547,
-    "wof:lastmodified":1563285657,
+    "wof:lastmodified":1566520004,
     "wof:name":"Khutzemateen 49",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

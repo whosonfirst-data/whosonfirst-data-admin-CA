@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.30243,
     "lbl:longitude":-123.144278,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.301679,
     "mps:longitude":-123.152913,
     "mz:hierarchy_label":1,
@@ -103,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u043a \u0421\u0442\u0435\u043d\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Stanley Park"
-    ],
     "name:vie_x_preferred":[
         "C\u00f4ng vi\u00ean Stanley"
     ],
@@ -143,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":6908,
     "wof:belongsto":[
         85682117,
@@ -155,7 +153,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855620,
-        "qs:id":242988,
         "qs_pg:id":242988,
         "wd:id":"Q1126258"
     },
@@ -175,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281961,
+    "wof:lastmodified":1566518973,
     "wof:name":"Stanley Park",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.262751,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.267751,43.201702,-79.257751,43.211702",
     "lbl:latitude":43.206702,
     "lbl:longitude":-79.262751,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.214121,
     "mps:longitude":-79.26243,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Michigan Beach"
     ],
     "name:swe_x_preferred":[
-        "Michigan Beach"
-    ],
-    "name:unk_x_variant":[
         "Michigan Beach"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191575,
@@ -82,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856294,
-        "qs:id":48874,
         "qs_pg:id":48874,
         "wd:id":"Q6837461"
     },
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282102,
+    "wof:lastmodified":1566519001,
     "wof:name":"Michigan Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":1903557.138476,
+    "geom:area_square_m":1903557.138477,
     "geom:bbox":"-97.194302,49.78492,-97.173649,49.802674",
     "geom:latitude":49.793929,
     "geom:longitude":-97.183501,
     "iso:country":"CA",
     "lbl:latitude":49.793778,
     "lbl:longitude":-97.183704,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.794576,
     "mps:longitude":-97.182469,
     "mz:hierarchy_label":1,
@@ -37,14 +38,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108937557,
-    "wof:lastmodified":1531523909,
+    "wof:lastmodified":1566519257,
     "wof:name":"Waverly West",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

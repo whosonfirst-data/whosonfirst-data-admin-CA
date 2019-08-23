@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.937999,
     "lbl:longitude":-97.127232,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.941824,
     "mps:longitude":-97.123542,
     "mz:hierarchy_label":1,
@@ -119,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968517,
@@ -131,7 +132,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332830,
-        "qs:id":11402,
         "qs_pg:id":11402
     },
     "wof:country":"CA",
@@ -151,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170876,
+    "wof:lastmodified":1566519014,
     "wof:name":"Jefferson",
     "wof:parent_id":1108968517,
     "wof:placetype":"neighbourhood",

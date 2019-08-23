@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.844707,
     "lbl:longitude":-74.006979,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.844707,
     "mps:longitude":-74.006979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "La Rivi\u00e8re-du-Nord"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"La Riviere-du-Nord",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2475",
@@ -76,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375062,
-        "qs:id":1291340,
+        "qs_pg:id":1291340,
         "wd:id":"Q1517943",
         "wk:page":"La Rivi\u00e8re-du-Nord Regional County Municipality"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890458417,
-    "wof:lastmodified":1563286054,
+    "wof:lastmodified":1566520127,
     "wof:name":"La Riviere-du-Nord",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

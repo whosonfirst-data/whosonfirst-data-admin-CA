@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2041422.470421,
+    "geom:area_square_m":2041422.470419,
     "geom:bbox":"-97.176978,49.801468,-97.156681,49.818674",
     "geom:latitude":49.809692,
     "geom:longitude":-97.165416,
     "iso:country":"CA",
     "lbl:latitude":49.81012,
     "lbl:longitude":-97.165679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.809532,
     "mps:longitude":-97.165222,
     "mz:hierarchy_label":1,
@@ -37,14 +38,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108937383,
-    "wof:lastmodified":1531523902,
+    "wof:lastmodified":1566519259,
     "wof:name":"Waverley Heights",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

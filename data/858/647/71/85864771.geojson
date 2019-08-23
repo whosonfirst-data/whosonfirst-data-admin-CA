@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1317590.538445,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.724956,52.146785,-106.724956,52.146785",
     "geom:latitude":52.146785,
     "geom:longitude":-106.724956,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.729956,52.141785,-106.719956,52.151785",
     "lbl:latitude":52.146785,
     "lbl:longitude":-106.724956,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.150766,
     "mps:longitude":-106.733752,
     "mz:hierarchy_label":0,
@@ -63,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403314,
-        "qs:id":485092,
         "qs_pg:id":485092,
         "wd:id":"Q5314881"
     },
@@ -96,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870962,
+    "wof:lastmodified":1566519007,
     "wof:name":"Dundonald",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

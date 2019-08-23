@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":45.041406,
     "lbl:longitude":-74.733993,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.041406,
     "mps:longitude":-74.733993,
     "mz:hierarchy_label":1,
@@ -290,7 +292,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.0275,
     "wd:longitude":-74.74,
@@ -305,7 +307,6 @@
     "wof:concordances":{
         "gn:id":5928065,
         "gp:id":3576,
-        "qs:id":274712,
         "qs_pg:id":274712,
         "wd:id":"Q956690",
         "wk:page":"Cornwall, Ontario"
@@ -322,7 +323,7 @@
         }
     ],
     "wof:id":101735565,
-    "wof:lastmodified":1563285435,
+    "wof:lastmodified":1566519944,
     "wof:name":"Cornwall",
     "wof:parent_id":890456477,
     "wof:placetype":"locality",

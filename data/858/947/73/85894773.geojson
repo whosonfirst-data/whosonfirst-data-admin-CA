@@ -11,8 +11,10 @@
     "geom:longitude":-122.540499,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.545499,49.185327,-122.535499,49.195327",
     "lbl:latitude":49.190327,
     "lbl:longitude":-122.540499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.193601,
     "mps:longitude":-122.539551,
     "mz:hierarchy_label":0,
@@ -117,9 +119,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u0431\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Albion"
-    ],
     "name:uzb_x_preferred":[
         "Albion"
     ],
@@ -158,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -169,7 +168,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998842,
-        "qs:id":19548,
         "qs_pg:id":19548
     },
     "wof:country":"CA",
@@ -188,7 +186,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170783,
+    "wof:lastmodified":1566518979,
     "wof:name":"Albion",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

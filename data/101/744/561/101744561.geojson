@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
+    "geom:area_square_m":110206.355111,
     "geom:bbox":"-124.0952197,54.4495697,-124.0890137,54.4530408",
     "geom:latitude":54.451726,
     "geom:longitude":-124.091784,
     "iso:country":"CA",
     "lbl:latitude":54.451637,
     "lbl:longitude":-124.0911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.451637,
     "mps:longitude":-124.0911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nehounlee Lake 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744561,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566519964,
     "wof:name":"Nehounlee Lake 13",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

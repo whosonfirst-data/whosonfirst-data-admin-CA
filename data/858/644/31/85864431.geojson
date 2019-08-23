@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1700226.316262,
+    "geom:area_square_m":1700226.316256,
     "geom:bbox":"-71.2682649518,46.7862422338,-71.239232066,46.8018368694",
     "geom:latitude":46.794411,
     "geom:longitude":-71.253412,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.798942,
     "lbl:longitude":-71.245685,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.795024,
     "mps:longitude":-71.260076,
     "mz:hierarchy_label":1,
@@ -45,7 +46,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396762,
-        "qs:id":1080125,
         "qs_pg:id":1080125
     },
     "wof:country":"CA",
@@ -77,7 +77,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533335727,
+    "wof:lastmodified":1566518958,
     "wof:name":"Saint-Sacrement",
     "wof:parent_id":1126115107,
     "wof:placetype":"neighbourhood",

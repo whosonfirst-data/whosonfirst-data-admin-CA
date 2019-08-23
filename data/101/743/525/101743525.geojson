@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":15459.089499,
     "geom:bbox":"-129.7890745,54.6142256,-129.7875079,54.6162562",
     "geom:latitude":54.615518,
     "geom:longitude":-129.788183,
     "iso:country":"CA",
     "lbl:latitude":54.61564,
     "lbl:longitude":-129.788124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.61564,
     "mps:longitude":-129.788124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carm Creek 38"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743525,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566520004,
     "wof:name":"Carm Creek 38",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

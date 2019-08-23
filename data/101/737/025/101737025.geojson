@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.375792,
     "lbl:longitude":-67.225391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.375792,
     "mps:longitude":-67.225391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0632\u0627\u0628\u0633\u0643\u0627\u0644"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.3667,
     "wd:longitude":-67.2333,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101737025,
-    "wof:lastmodified":1563284150,
+    "wof:lastmodified":1566519418,
     "wof:name":"Causapscal",
     "wof:parent_id":890457571,
     "wof:placetype":"locality",

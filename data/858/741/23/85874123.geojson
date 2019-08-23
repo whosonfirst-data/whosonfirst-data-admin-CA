@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":123736.1775,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.057999,45.273929,-66.057999,45.273929",
     "geom:latitude":45.273929,
     "geom:longitude":-66.057999,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.062999,45.268929,-66.052999,45.278929",
     "lbl:latitude":45.273929,
     "lbl:longitude":-66.057999,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.27392,
     "mps:longitude":-66.057462,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Saint John Centre"
-    ],
-    "name:unk_x_variant":[
         "Saint John Centre"
     ],
     "qs:gn_id":0,
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855667,
-        "qs:id":1290772,
         "qs_pg:id":1290772
     },
     "wof:country":"CA",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871888,
+    "wof:lastmodified":1566518988,
     "wof:name":"Saint John Centre",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

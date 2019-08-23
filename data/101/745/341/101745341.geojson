@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":19596.951595,
     "geom:bbox":"-122.0911577,54.6316703,-122.0881123,54.6334295",
     "geom:latitude":54.632567,
     "geom:longitude":-122.089657,
     "iso:country":"CA",
     "lbl:latitude":54.632585,
     "lbl:longitude":-122.089649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.632585,
     "mps:longitude":-122.089649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hominka 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745341,
-    "wof:lastmodified":1533335907,
+    "wof:lastmodified":1566520053,
     "wof:name":"Hominka 11",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

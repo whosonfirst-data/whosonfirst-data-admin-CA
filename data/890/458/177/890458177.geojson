@@ -14,15 +14,18 @@
     "geom:longitude":-112.224568,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.670282,
     "lbl:longitude":-112.224691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.670282,
     "mps:longitude":-112.224691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0633\u0644\u0631"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":154,
     "wof:belongsto":[
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":5973455,
         "gp:id":8546,
-        "qs:id":160263,
+        "qs_pg:id":160263,
         "wd:id":"Q5701070",
         "wk:page":"Heisler"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890458177,
-    "wof:lastmodified":1563286109,
+    "wof:lastmodified":1566520141,
     "wof:name":"Heisler",
     "wof:parent_id":1158863171,
     "wof:placetype":"locality",

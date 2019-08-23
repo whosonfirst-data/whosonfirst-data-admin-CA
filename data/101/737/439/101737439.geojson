@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.418293,
     "lbl:longitude":-72.09207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.418293,
     "mps:longitude":-72.09207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0645\u0628\u0648\u0631"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":241,
     "wof:belongsto":[
         102191575,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":5919569,
         "gp:id":3402,
-        "qs:id":358266,
         "qs_pg:id":358266,
         "wd:id":"Q1060726",
         "wk:page":"Chambord, Quebec"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101737439,
-    "wof:lastmodified":1563284160,
+    "wof:lastmodified":1566519420,
     "wof:name":"Chambord",
     "wof:parent_id":890458021,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
+    "geom:area_square_m":233514.008896,
     "geom:bbox":"-122.0586044,49.1411964,-122.0508943,49.1469597",
     "geom:latitude":49.144011,
     "geom:longitude":-122.054315,
     "iso:country":"CA",
     "lbl:latitude":49.144,
     "lbl:longitude":-122.054316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.144,
     "mps:longitude":-122.054316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lackaway 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745555,
-    "wof:lastmodified":1533335913,
+    "wof:lastmodified":1566520058,
     "wof:name":"Lackaway 2",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

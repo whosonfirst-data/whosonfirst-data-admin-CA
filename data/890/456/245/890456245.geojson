@@ -14,15 +14,18 @@
     "geom:longitude":-112.80913,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":54.588103,
     "lbl:longitude":-112.808697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.588103,
     "mps:longitude":-112.808697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0644\u064a"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1544,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":5907019,
         "gp:id":8474,
-        "qs:id":858303,
+        "qs_pg:id":858303,
         "wd:id":"Q4952516",
         "wk:page":"Boyle"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890456245,
-    "wof:lastmodified":1563286165,
+    "wof:lastmodified":1566520154,
     "wof:name":"Boyle",
     "wof:parent_id":1158863155,
     "wof:placetype":"locality",

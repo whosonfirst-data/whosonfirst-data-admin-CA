@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.648453,
     "lbl:longitude":-79.368783,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.648453,
     "mps:longitude":-79.368783,
     "mz:hierarchy_label":1,
@@ -60,11 +61,8 @@
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u039b\u03b1\u03c5\u03c1\u03ad\u03bd\u03c4\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_variant":[
-        "St  Lawrence",
-        "St.  Lawrence",
-        "St Lawrence Market",
-        "St. Lawrence Market",
-        "Saint Lawrence Market"
+        "St Lawrence",
+        "St. Lawrence"
     ],
     "name:est_x_preferred":[
         "Laurentius"
@@ -215,8 +213,8 @@
         }
     ],
     "wof:id":1108905253,
-    "wof:lastmodified":1564172204,
-    "wof:name":"Saint  Lawrence",
+    "wof:lastmodified":1566519299,
+    "wof:name":"Saint Lawrence",
     "wof:parent_id":1108906345,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-ca",

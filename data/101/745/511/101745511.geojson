@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
+    "geom:area_square_m":319355.519076,
     "geom:bbox":"-122.3027697,50.7002421,-122.2941455,50.7057244",
     "geom:latitude":50.702894,
     "geom:longitude":-122.298317,
     "iso:country":"CA",
     "lbl:latitude":50.70223,
     "lbl:longitude":-122.2976,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.70223,
     "mps:longitude":-122.2976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Necait 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745511,
-    "wof:lastmodified":1533335912,
+    "wof:lastmodified":1566520056,
     "wof:name":"Necait 6",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

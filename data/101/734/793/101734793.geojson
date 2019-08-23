@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.714318,
     "lbl:longitude":-101.394686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.714318,
     "mps:longitude":-101.394686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Russell"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.7808,
     "wd:longitude":-101.284,
     "wd:wordcount":649,
@@ -75,7 +78,6 @@
         "fct:id":"03c02484-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6136576,
         "gp:id":2488,
-        "qs:id":160380,
         "qs_pg:id":160380,
         "wd:id":"Q281202",
         "wk:page":"Russell, Manitoba"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285263,
+    "wof:lastmodified":1566519910,
     "wof:name":"Russell",
     "wof:parent_id":1158868973,
     "wof:placetype":"locality",

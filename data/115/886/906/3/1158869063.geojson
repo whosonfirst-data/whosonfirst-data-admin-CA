@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":66.137155,
     "lbl:longitude":-70.101223,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":66.137155,
     "mps:longitude":-70.101223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qikiqtaaluk"
     ],
@@ -34,7 +37,7 @@
     "src:geom_alt":[
         "statcan"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Baffin",
     "statcan:cdtype":"REG",
     "statcan:cduid":"6204",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1158869063,
-    "wof:lastmodified":1555037192,
+    "wof:lastmodified":1566520384,
     "wof:name":"Qikiqtaaluk",
     "wof:parent_id":85682105,
     "wof:placetype":"county",

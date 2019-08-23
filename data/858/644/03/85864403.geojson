@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":36986407.505286,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.352946,45.315139,-73.352946,45.315139",
     "geom:latitude":45.315139,
     "geom:longitude":-73.352946,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.357946,45.310139,-73.347946,45.320139",
     "lbl:latitude":45.315139,
     "lbl:longitude":-73.352946,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.315337,
     "mps:longitude":-73.346863,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "L'Acadie"
     ],
     "name:fra_x_preferred":[
-        "L'Acadie"
-    ],
-    "name:unk_x_variant":[
         "L'Acadie"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394392,
-        "qs:id":1026303,
         "qs_pg:id":1026303
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870886,
+    "wof:lastmodified":1566518957,
     "wof:name":"L'Acadie",
     "wof:parent_id":101738721,
     "wof:placetype":"neighbourhood",

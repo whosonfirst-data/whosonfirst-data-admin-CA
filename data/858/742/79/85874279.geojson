@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.688637,
     "lbl:longitude":-79.439787,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.689722,
     "mps:longitude":-79.439392,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Oakwood Village (107)",
     "torsdfa:AREA_S_CD":"107",
     "wd:latitude":43.6925,
@@ -55,9 +56,11 @@
     "wof:concordances":{
         "gn:id":6126540,
         "gp:id":55999458,
-        "qs:id":1091660,
         "qs_pg:id":384916,
         "wd:id":"Q7074333"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091660
     },
     "wof:controlled":[
         "wof:parent_id"
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282208,
+    "wof:lastmodified":1566519021,
     "wof:name":"Oakwood Vaughan",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

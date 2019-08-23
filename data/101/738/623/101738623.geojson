@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.154427,
     "lbl:longitude":-64.914743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.154427,
     "mps:longitude":-64.914743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0648\u0631\u064a\u062f\u0648\u0631\u0645"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":406,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":5924109,
         "gp:id":3720,
-        "qs:id":960454,
         "qs_pg:id":960454,
         "wd:id":"Q2979590",
         "wk:page":"Cloridorme, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101738623,
-    "wof:lastmodified":1563284700,
+    "wof:lastmodified":1566519529,
     "wof:name":"Cloridorme",
     "wof:parent_id":890456807,
     "wof:placetype":"locality",

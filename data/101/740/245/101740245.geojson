@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112568,
+    "geom:area_square_m":851687290.713357,
     "geom:bbox":"-109.6007444,52.1433313,-109.1456443,52.4059223",
     "geom:latitude":52.274708,
     "geom:longitude":-109.368438,
     "iso:country":"CA",
     "lbl:latitude":52.274544,
     "lbl:longitude":-109.368418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.274544,
     "mps:longitude":-109.368418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grass Lake No. 381"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740245,
-    "wof:lastmodified":1531524355,
+    "wof:lastmodified":1566519550,
     "wof:name":"Grass Lake No. 381",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

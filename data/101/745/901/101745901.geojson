@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
+    "geom:area_square_m":913340.31912,
     "geom:bbox":"-95.3806955,48.9992537,-95.3422863,49.0086455",
     "geom:latitude":49.002627,
     "geom:longitude":-95.364106,
     "iso:country":"CA",
     "lbl:latitude":49.001103,
     "lbl:longitude":-95.34944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.001103,
     "mps:longitude":-95.34944,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buffalo Point 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101745901,
-    "wof:lastmodified":1531526480,
+    "wof:lastmodified":1566520033,
     "wof:name":"Buffalo Point 3",
     "wof:parent_id":1158869003,
     "wof:placetype":"locality",

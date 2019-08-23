@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":83578.331348,
     "geom:bbox":"-121.5613502,50.2483016,-121.5555269,50.2519678",
     "geom:latitude":50.249853,
     "geom:longitude":-121.558097,
     "iso:country":"CA",
     "lbl:latitude":50.250808,
     "lbl:longitude":-121.557638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.250808,
     "mps:longitude":-121.557638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Two Mile Creek 16A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745763,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520031,
     "wof:name":"Two Mile Creek 16A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

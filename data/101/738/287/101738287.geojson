@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.952217,
     "lbl:longitude":-70.667765,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.952217,
     "mps:longitude":-70.667765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saint-Martin"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":6138733,
         "gp:id":23396580,
-        "qs:id":160394,
+        "qs_pg:id":160394,
         "wd:id":"Q3462931",
         "wk:page":"Saint-Martin, Quebec"
     },
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101738287,
-    "wof:lastmodified":1563284595,
+    "wof:lastmodified":1566519510,
     "wof:name":"Saint-Martin",
     "wof:parent_id":890457819,
     "wof:placetype":"locality",

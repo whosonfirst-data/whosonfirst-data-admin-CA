@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7128893.59185,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.304609,46.151026,-60.304609,46.151026",
     "geom:latitude":46.151026,
     "geom:longitude":-60.304609,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-60.309609,46.146026,-60.299609,46.156026",
     "lbl:latitude":46.151026,
     "lbl:longitude":-60.304609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.151297,
     "mps:longitude":-60.305239,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "Balls Creek"
-    ],
-    "name:unk_x_variant":[
-        "Balls Greek"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -61,17 +60,15 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23390620,
-        "qs:id":1262866,
         "qs_pg:id":1262866
     },
     "wof:country":"CA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870861,
+    "wof:lastmodified":1566518956,
     "wof:name":"Balls Greek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

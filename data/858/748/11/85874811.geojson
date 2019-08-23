@@ -11,8 +11,10 @@
     "geom:longitude":-79.875123,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.880123,43.246465,-79.870123,43.256465",
     "lbl:latitude":43.251465,
     "lbl:longitude":-79.875123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.250204,
     "mps:longitude":-79.878449,
     "mz:hierarchy_label":0,
@@ -66,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u044e\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Durand"
-    ],
     "name:vol_x_preferred":[
         "Durand"
     ],
@@ -100,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":138,
     "wof:belongsto":[
         85682057,
@@ -112,7 +111,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856130,
-        "qs:id":1089516,
         "qs_pg:id":1089516
     },
     "wof:country":"CA",
@@ -131,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170793,
+    "wof:lastmodified":1566518983,
     "wof:name":"Durand",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

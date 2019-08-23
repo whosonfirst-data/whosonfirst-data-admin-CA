@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.255837,
     "lbl:longitude":-65.087025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.255837,
     "mps:longitude":-65.087025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u063a\u0627\u0643"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.250572,
     "wd:longitude":-65.075455,
     "wd:wordcount":377,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6943718,
         "gp:id":1065,
-        "qs:id":1165033,
         "qs_pg:id":1165033,
         "wd:id":"Q3347001",
         "wk:page":"Neguac, New Brunswick"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101735173,
-    "wof:lastmodified":1563285390,
+    "wof:lastmodified":1566519935,
     "wof:name":"Neguac",
     "wof:parent_id":890458001,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":18124.395916,
     "geom:bbox":"-127.3506561,50.6775329,-127.3485816,50.6793847",
     "geom:latitude":50.678254,
     "geom:longitude":-127.349924,
     "iso:country":"CA",
     "lbl:latitude":50.678193,
     "lbl:longitude":-127.35002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.678193,
     "mps:longitude":-127.35002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keogh 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742981,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566520031,
     "wof:name":"Keogh 6",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

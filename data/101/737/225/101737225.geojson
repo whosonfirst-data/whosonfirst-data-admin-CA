@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.420973,
     "lbl:longitude":-67.888142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.420973,
     "mps:longitude":-67.888142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0631\u064a\u062f\u0645\u0628\u0634\u0646"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191575,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101737225,
-    "wof:lastmodified":1563284272,
+    "wof:lastmodified":1566519445,
     "wof:name":"La R\u00e9demption",
     "wof:parent_id":890457735,
     "wof:placetype":"locality",

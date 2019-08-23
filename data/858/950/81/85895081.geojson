@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
-    "geom:area_square_m":2949776.021346,
+    "geom:area_square_m":2949776.021341,
     "geom:bbox":"-79.586057097,43.625435089,-79.556768799,43.644432441",
     "geom:latitude":43.633542,
     "geom:longitude":-79.573432,
     "iso:country":"CA",
     "lbl:latitude":43.632829,
     "lbl:longitude":-79.574613,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.63137,
     "mps:longitude":-79.568744,
     "mz:hierarchy_label":1,
@@ -31,25 +32,24 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Markland Wood (12)",
     "torsdfa:AREA_S_CD":"012",
     "wd:latitude":43.6322,
     "wd:longitude":-79.575,
     "wd:wordcount":927,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833313,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6066548,
         "gp:id":55999070,
-        "qs:id":235190,
         "qs_pg:id":235190,
         "wd:id":"Q6771091"
     },
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272681,
+    "wof:lastmodified":1566518989,
     "wof:name":"Markland Wood",
     "wof:parent_id":1108833313,
     "wof:placetype":"neighbourhood",

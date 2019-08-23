@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000432,
+    "geom:area_square_m":3183963.145564,
     "geom:bbox":"-106.3729633,53.3798545,-106.3484235,53.4089663",
     "geom:latitude":53.393497,
     "geom:longitude":-106.36131,
     "iso:country":"CA",
     "lbl:latitude":53.383856,
     "lbl:longitude":-106.363604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.383856,
     "mps:longitude":-106.363604,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sturgeon Lake I.R. 101A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101742285,
-    "wof:lastmodified":1531523943,
+    "wof:lastmodified":1566520024,
     "wof:name":"Sturgeon Lake I.R. 101A",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

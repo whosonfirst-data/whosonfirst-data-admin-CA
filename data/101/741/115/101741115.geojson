@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.308599,
     "lbl:longitude":-121.71726,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.308599,
     "mps:longitude":-121.71726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kent"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101741115,
-    "wof:lastmodified":1563285221,
+    "wof:lastmodified":1566519897,
     "wof:name":"Kent",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

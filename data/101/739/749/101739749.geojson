@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.264318,
     "lbl:longitude":-105.524134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.264318,
     "mps:longitude":-105.524134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bruno"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.2644,
     "wd:longitude":-105.521,
     "wd:wordcount":640,
@@ -72,7 +75,6 @@
         "fct:id":"03c00eea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5910266,
         "gp:id":2174,
-        "qs:id":958998,
         "qs_pg:id":958998,
         "wd:id":"Q855987",
         "wk:page":"Bruno, Saskatchewan"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284018,
+    "wof:lastmodified":1566519400,
     "wof:name":"Bruno",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

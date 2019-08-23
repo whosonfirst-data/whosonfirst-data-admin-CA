@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.508908,
     "lbl:longitude":-123.404044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.508908,
     "mps:longitude":-123.404044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u064a\u062a\u0634"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":23.0,
     "wd:latitude":48.484,
     "wd:longitude":-123.381,
@@ -114,10 +117,12 @@
     "wof:concordances":{
         "gn:id":6136944,
         "gp:id":23405825,
-        "qs:id":24661,
-        "qs_pg:id":1188409,
+        "qs_pg:id":24661,
         "wd:id":"Q179553",
         "wk:page":"Saanich, British Columbia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1188409
     },
     "wof:country":"CA",
     "wof:geomhash":"a7f750af6702a8375151d91db5fe2fee",
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":101741111,
-    "wof:lastmodified":1563285167,
+    "wof:lastmodified":1566519878,
     "wof:name":"Saanich",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.378928,
     "lbl:longitude":-71.836095,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.378928,
     "mps:longitude":-71.836095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0627\u0628\u064a\u062a\u062a\u0634\u0648\u0627\u0646 \u0644\u0627\u0643 \u0622 \u0644\u0627 \u0643\u0631\u0648\u064a\u0643\u0633"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":631,
     "wof:belongsto":[
@@ -102,10 +105,12 @@
     "wof:concordances":{
         "gn:id":7535694,
         "gp:id":974,
-        "qs:id":71879,
-        "qs_pg:id":1073150,
+        "qs_pg:id":71879,
         "wd:id":"Q142325",
         "wk:page":"M\u00e9tabetchouan\u2013Lac-\u00e0-la-Croix, Quebec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073150
     },
     "wof:country":"CA",
     "wof:geomhash":"1aea6e9aba04ae4f12ac1b81da29bd70",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101737075,
-    "wof:lastmodified":1563284265,
+    "wof:lastmodified":1566519444,
     "wof:name":"M\u00e9tabetchouan - Lac-\u00e0-la-Croix",
     "wof:parent_id":890458103,
     "wof:placetype":"locality",

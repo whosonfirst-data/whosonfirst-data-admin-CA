@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
+    "geom:area_square_m":1619639.513315,
     "geom:bbox":"-126.4797896,49.387677,-126.4630573,49.403995",
     "geom:latitude":49.395551,
     "geom:longitude":-126.472939,
     "iso:country":"CA",
     "lbl:latitude":49.391931,
     "lbl:longitude":-126.472769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.391931,
     "mps:longitude":-126.472769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hesquiat 1"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101742937,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566520008,
     "wof:name":"Hesquiat 1",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

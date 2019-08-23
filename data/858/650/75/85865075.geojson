@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.217181,
     "lbl:longitude":-123.037327,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.204376,
     "mps:longitude":-123.036998,
     "mz:hierarchy_label":0,
@@ -127,9 +128,6 @@
     "name:swe_x_preferred":[
         "Killarney"
     ],
-    "name:unk_x_variant":[
-        "Killarney"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0644\u0627\u0631\u0646\u06cc"
     ],
@@ -167,7 +165,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"KIL",
     "vanpds:NAME":"Killarney",
     "wof:belongsto":[
@@ -180,7 +178,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405257,
-        "qs:id":1085750,
         "qs_pg:id":1085750
     },
     "wof:country":"CA",
@@ -199,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170742,
+    "wof:lastmodified":1566518967,
     "wof:name":"Killarney",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

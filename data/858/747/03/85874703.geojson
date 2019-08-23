@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000142,
-    "geom:area_square_m":1040003.449664,
+    "geom:area_square_m":1040003.449663,
     "geom:bbox":"-113.488787141,53.5380041929,-113.462028587,53.5502103879",
     "geom:latitude":53.543433,
     "geom:longitude":-113.472068,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.543986,
     "lbl:longitude":-113.469132,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.546427,
     "mps:longitude":-113.470781,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108970679,
@@ -47,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856054,
-        "qs:id":237985,
         "qs_pg:id":237985,
         "wd:id":"Q7338113"
     },
@@ -68,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270165,
+    "wof:lastmodified":1566518974,
     "wof:name":"Riverdale",
     "wof:parent_id":1108970679,
     "wof:placetype":"neighbourhood",

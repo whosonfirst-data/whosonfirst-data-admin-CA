@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":716146.39132,
+    "geom:area_square_m":716146.391319,
     "geom:bbox":"-97.145429,49.846119,-97.117632,49.855656",
     "geom:latitude":49.851949,
     "geom:longitude":-97.131564,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.85368,
     "lbl:longitude":-97.130791,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.854605,
     "mps:longitude":-97.130526,
     "mz:hierarchy_label":1,
@@ -35,19 +36,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968473,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402412,
-        "qs:id":897030,
         "qs_pg:id":897030
     },
     "wof:country":"CA",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523920,
+    "wof:lastmodified":1566519006,
     "wof:name":"Kingston Crescent",
     "wof:parent_id":1108968473,
     "wof:placetype":"neighbourhood",

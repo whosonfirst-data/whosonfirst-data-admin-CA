@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.630975,
     "lbl:longitude":-64.914285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.630975,
     "mps:longitude":-64.914285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0645\u0627"
     ],
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":519,
     "wof:belongsto":[
         102191575,
@@ -146,7 +149,6 @@
     "wof:concordances":{
         "gn:id":5884081,
         "gp:id":13,
-        "qs:id":906366,
         "qs_pg:id":906366,
         "wd:id":"Q2645708",
         "wk:page":"South Indian Lake Airport"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101735257,
-    "wof:lastmodified":1563285352,
+    "wof:lastmodified":1566519927,
     "wof:name":"Alma",
     "wof:parent_id":890456457,
     "wof:placetype":"locality",

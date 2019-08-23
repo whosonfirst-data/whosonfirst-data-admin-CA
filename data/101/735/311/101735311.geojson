@@ -14,6 +14,8 @@
     "iso:country":"CA",
     "lbl:latitude":47.390448,
     "lbl:longitude":-68.337015,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.390448,
     "mps:longitude":-68.337015,
     "mz:hierarchy_label":1,
@@ -270,7 +272,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.3765,
     "wd:longitude":-68.325347,
@@ -285,10 +287,12 @@
     "wof:concordances":{
         "gn:id":6545023,
         "gp:id":3671,
-        "qs:id":1053794,
         "qs_pg:id":451092,
         "wd:id":"Q991257",
         "wk:page":"Edmundston"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1053794
     },
     "wof:country":"CA",
     "wof:geomhash":"8b39e07f2a48d52318743d5b4910268c",
@@ -302,7 +306,7 @@
         }
     ],
     "wof:id":101735311,
-    "wof:lastmodified":1563285502,
+    "wof:lastmodified":1566519957,
     "wof:name":"Edmundston",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

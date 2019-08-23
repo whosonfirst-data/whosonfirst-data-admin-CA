@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7399964.314169,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.937084,45.370652,-71.937084,45.370652",
     "geom:latitude":45.370652,
     "geom:longitude":-71.937084,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.942084,45.365652,-71.932084,45.375652",
     "lbl:latitude":45.370652,
     "lbl:longitude":-71.937084,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.368377,
     "mps:longitude":-71.941782,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "\u00c9cole polytechnique de l'universit\u00e9 de Nantes"
     ],
     "name:fra_x_variant":[
-        "l'Universit\u00e9"
-    ],
-    "name:unk_x_variant":[
         "l'Universit\u00e9"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -82,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855754,
-        "qs:id":1000965,
         "qs_pg:id":1000965
     },
     "wof:country":"CA",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871903,
+    "wof:lastmodified":1566518987,
     "wof:name":"l'Universit\u00e9",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

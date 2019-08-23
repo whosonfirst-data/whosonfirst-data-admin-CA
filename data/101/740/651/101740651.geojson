@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.046463,
     "lbl:longitude":-106.232513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.046463,
     "mps:longitude":-106.232513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blucher No. 343"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101740651,
-    "wof:lastmodified":1561844385,
+    "wof:lastmodified":1566519555,
     "wof:name":"Blucher No. 343",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

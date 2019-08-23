@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":58105.432828,
     "geom:bbox":"-129.8231176,53.4434474,-129.8168643,53.4452978",
     "geom:latitude":53.444277,
     "geom:longitude":-129.819147,
     "iso:country":"CA",
     "lbl:latitude":53.444378,
     "lbl:longitude":-129.819145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.444378,
     "mps:longitude":-129.819145,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clowel 13"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":12523449
     },
     "wof:country":"CA",
-    "wof:geomhash":"f85484afbd7902aa84c4ab993696da26",
+    "wof:geomhash":"5752fba7b16816ebf6bb82ea64de2cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743441,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566519989,
     "wof:name":"Clowel 13",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

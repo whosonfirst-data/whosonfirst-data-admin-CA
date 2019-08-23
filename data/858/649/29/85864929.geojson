@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":754119.02545,
+    "geom:area_square_m":754119.025451,
     "geom:bbox":"-114.095385,50.985375,-114.083133,50.99417",
     "geom:latitude":50.990045,
     "geom:longitude":-114.088887,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.990246,
     "lbl:longitude":-114.088998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.993882,
     "mps:longitude":-114.088634,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191575,
@@ -51,7 +52,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404839,
-        "qs:id":1109833,
         "qs_pg:id":1109833,
         "wd:id":"Q6386665"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566519004,
     "wof:name":"Kelvin Grove",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

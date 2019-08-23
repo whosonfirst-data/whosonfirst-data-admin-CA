@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":45317333.104722,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.326645,44.407148,-76.326645,44.407148",
     "geom:latitude":44.407148,
     "geom:longitude":-76.326645,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.331645,44.402148,-76.321645,44.412148",
     "lbl:latitude":44.407148,
     "lbl:longitude":-76.326645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.425354,
     "mps:longitude":-76.333752,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Joyceville"
-    ],
-    "name:unk_x_variant":[
         "Joyceville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740705,
         85633041,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400717,
-        "qs:id":896341,
         "qs_pg:id":896341
     },
     "wof:country":"CA",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870952,
+    "wof:lastmodified":1566519008,
     "wof:name":"Joyceville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.83549,
     "lbl:longitude":-97.155816,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.831918,
     "mps:longitude":-97.15723,
     "mz:hierarchy_label":1,
@@ -69,9 +70,6 @@
     "name:tur_x_preferred":[
         "Maybank"
     ],
-    "name:unk_x_variant":[
-        "Maybank"
-    ],
     "name:wuu_x_preferred":[
         "\u9a6c\u6765\u4e9a\u94f6\u884c"
     ],
@@ -86,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1436,
     "wof:belongsto":[
         102191575,
@@ -99,7 +97,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402427,
-        "qs:id":367337,
         "qs_pg:id":367337,
         "wd:id":"Q1364018"
     },
@@ -120,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282137,
+    "wof:lastmodified":1566519006,
     "wof:name":"Maybank",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

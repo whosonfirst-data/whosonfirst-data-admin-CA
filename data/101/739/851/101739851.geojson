@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.283763,
     "lbl:longitude":-109.98586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.283763,
     "mps:longitude":-109.98586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u062f\u0645\u0646\u0633\u062a\u0631"
     ],
@@ -176,7 +179,7 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3496,
     "wof:belongsto":[
@@ -189,7 +192,7 @@
     "wof:concordances":{
         "gn:id":6058024,
         "gp:id":8231,
-        "qs:id":224337,
+        "qs_pg:id":224337,
         "wd:id":"Q985674",
         "wk:page":"Lloydminster"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101739851,
-    "wof:lastmodified":1563283998,
+    "wof:lastmodified":1566519397,
     "wof:name":"Lloydminster",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

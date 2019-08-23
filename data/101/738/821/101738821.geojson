@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.366276,
     "lbl:longitude":-73.055251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.366276,
     "mps:longitude":-73.055251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Ang\u00e8le-de-Pr\u00e9mont"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101738821,
-    "wof:lastmodified":1563284603,
+    "wof:lastmodified":1566519511,
     "wof:name":"Sainte-Ang\u00e8le-de-Pr\u00e9mont",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

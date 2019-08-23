@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9254745.279092,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.649257,50.042819,-110.649257,50.042819",
     "geom:latitude":50.042819,
     "geom:longitude":-110.649257,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-110.654257,50.037819,-110.644257,50.047819",
     "lbl:latitude":50.042819,
     "lbl:longitude":-110.649257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.048011,
     "mps:longitude":-110.646413,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Police Point"
-    ],
-    "name:unk_x_variant":[
         "Police Point"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856774,
-        "qs:id":986500,
         "qs_pg:id":986500
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250198,
+    "wof:lastmodified":1566519002,
     "wof:name":"Police Point",
     "wof:parent_id":890456255,
     "wof:placetype":"neighbourhood",

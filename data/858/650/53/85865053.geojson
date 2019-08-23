@@ -10,8 +10,10 @@
     "geom:latitude":49.901763,
     "geom:longitude":-119.396929,
     "iso:country":"CA",
+    "lbl:bbox":"-119.401929,49.896763,-119.391929,49.906763",
     "lbl:latitude":49.901763,
     "lbl:longitude":-119.396929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.894248,
     "mps:longitude":-119.370468,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Rutland"
     ],
     "name:nld_x_preferred":[
-        "Rutland"
-    ],
-    "name:unk_x_variant":[
         "Rutland"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":227,
     "wof:belongsto":[
         85682117,
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":6136777,
         "gp:id":23405126,
-        "qs:id":58109,
         "qs_pg:id":58109,
         "wd:id":"Q7383454",
         "wk:page":"Rutland, British Columbia"
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281942,
+    "wof:lastmodified":1566518967,
     "wof:name":"Rutland",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

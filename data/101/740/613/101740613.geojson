@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.130002,
     "lbl:longitude":-103.099744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.130002,
     "mps:longitude":-103.099744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Estevan No. 5"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101740613,
-    "wof:lastmodified":1561844391,
+    "wof:lastmodified":1566519571,
     "wof:name":"Estevan No. 5",
     "wof:parent_id":1158868967,
     "wof:placetype":"locality",

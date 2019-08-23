@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002332,
+    "geom:area_square_m":18348325.080611,
     "geom:bbox":"-121.2971776,50.4547481,-121.2387781,50.5250664",
     "geom:latitude":50.486714,
     "geom:longitude":-121.267005,
     "iso:country":"CA",
     "lbl:latitude":50.487581,
     "lbl:longitude":-121.26501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.487581,
     "mps:longitude":-121.26501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pemynoos 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744117,
-    "wof:lastmodified":1533335889,
+    "wof:lastmodified":1566519973,
     "wof:name":"Pemynoos 9",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

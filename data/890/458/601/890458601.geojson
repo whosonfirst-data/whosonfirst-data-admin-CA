@@ -14,15 +14,18 @@
     "geom:longitude":-114.351536,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.676621,
     "lbl:longitude":-114.355584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.676621,
     "mps:longitude":-114.355584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0628\u0631\u062a\u0627 \u0628\u064a\u062a\u0634"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":740.0,
     "wd:latitude":"53.6767",
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":5883105,
         "gp:id":8671,
-        "qs:id":213157,
+        "qs_pg:id":213157,
         "wd:id":"Q2327744",
         "wk:page":"Alberta Beach"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890458601,
-    "wof:lastmodified":1563286090,
+    "wof:lastmodified":1566520136,
     "wof:name":"Alberta Beach",
     "wof:parent_id":1158863195,
     "wof:placetype":"locality",

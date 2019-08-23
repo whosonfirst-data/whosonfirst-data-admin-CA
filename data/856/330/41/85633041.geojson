@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":58.33747,
     "lbl:longitude":-112.384858,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":58.33747,
     "mps:longitude":-112.384858,
     "mz:hierarchy_label":1,
@@ -853,7 +855,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0434\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "K'aenada"
     ],
     "name:urd_x_preferred":[
@@ -983,7 +985,7 @@
         "whosonfirst"
     ],
     "src:geom_via":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"1",
     "statoids:ds":"CDN",
@@ -1028,7 +1030,7 @@
         "mzb:id":"canada",
         "ne:adm0_a3":"CAN",
         "nyt:id":"66238405489982709761",
-        "qs:id":279551,
+        "qs_pg:id":279551,
         "uncrt:id":"CDN",
         "wd:id":"Q16",
         "wk:page":"Canada",
@@ -1054,7 +1056,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1565640673,
+    "wof:lastmodified":1566518914,
     "wof:name":"Canada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

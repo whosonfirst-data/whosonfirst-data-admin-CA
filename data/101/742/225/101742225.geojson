@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
+    "geom:area_square_m":260336.330518,
     "geom:bbox":"-101.8219592,54.2774457,-101.8105299,54.2826147",
     "geom:latitude":54.280332,
     "geom:longitude":-101.815471,
     "iso:country":"CA",
     "lbl:latitude":54.281342,
     "lbl:longitude":-101.814106,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.281342,
     "mps:longitude":-101.814106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sturgeon Weir I.R. 205"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742225,
-    "wof:lastmodified":1531525132,
+    "wof:lastmodified":1566520025,
     "wof:name":"Sturgeon Weir I.R. 205",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

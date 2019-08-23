@@ -10,8 +10,10 @@
     "geom:latitude":43.779597,
     "geom:longitude":-79.93998,
     "iso:country":"CA",
+    "lbl:bbox":"-79.94498,43.774597,-79.93498,43.784597",
     "lbl:latitude":43.779597,
     "lbl:longitude":-79.93998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.785966,
     "mps:longitude":-79.943816,
     "mz:hierarchy_label":0,
@@ -80,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0433\u043b\u0432\u0443\u0434"
     ],
-    "name:unk_x_variant":[
-        "Inglewood"
-    ],
     "name:vol_x_preferred":[
         "Inglewood"
     ],
@@ -114,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736249,
@@ -145,7 +144,7 @@
         }
     ],
     "wof:id":85895553,
-    "wof:lastmodified":1564170715,
+    "wof:lastmodified":1566518954,
     "wof:name":"Inglewood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

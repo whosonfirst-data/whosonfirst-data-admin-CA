@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140782,
+    "geom:area_square_m":1138053618.480325,
     "geom:bbox":"-98.8175696,49.0001434,-98.2676891,49.3550993",
     "geom:latitude":49.174557,
     "geom:longitude":-98.500986,
     "iso:country":"CA",
     "lbl:latitude":49.127644,
     "lbl:longitude":-98.451065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.127644,
     "mps:longitude":-98.451065,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pembina"
     ],
@@ -51,7 +55,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101735093,
-    "wof:lastmodified":1531523887,
+    "wof:lastmodified":1566519955,
     "wof:name":"Pembina",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

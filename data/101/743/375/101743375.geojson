@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":63938.25967,
     "geom:bbox":"-128.5862227,54.4915741,-128.5829428,54.4949582",
     "geom:latitude":54.493074,
     "geom:longitude":-128.584504,
     "iso:country":"CA",
     "lbl:latitude":54.492747,
     "lbl:longitude":-128.584599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.492747,
     "mps:longitude":-128.584599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kulspai 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743375,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566520005,
     "wof:name":"Kulspai 6",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

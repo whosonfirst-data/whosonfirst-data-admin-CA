@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.997842,
     "lbl:longitude":-63.936053,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.997842,
     "mps:longitude":-63.936053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hants"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Hants",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1208",
@@ -52,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375129,
-        "qs:id":890813,
+        "qs_pg:id":890813,
         "wk:page":"Hants"
     },
     "wof:country":"CA",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890458537,
-    "wof:lastmodified":1564173236,
+    "wof:lastmodified":1566520120,
     "wof:name":"Hants",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

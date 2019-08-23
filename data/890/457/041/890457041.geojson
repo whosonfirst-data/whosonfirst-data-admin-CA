@@ -14,16 +14,18 @@
     "geom:longitude":-119.120784,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":4025,
     "gn:population":4025,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.877606,
     "lbl:longitude":-119.138189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.877606,
     "mps:longitude":-119.138189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Grande Cache"
     ],
@@ -102,7 +104,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1220.0,
     "wd:latitude":"53.8747",
@@ -118,7 +120,7 @@
     "wof:concordances":{
         "gn:id":5964304,
         "gp:id":8427,
-        "qs:id":963822,
+        "qs_pg:id":963822,
         "wd:id":"Q1542954",
         "wk:page":"Grande Cache"
     },
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":890457041,
-    "wof:lastmodified":1563286360,
+    "wof:lastmodified":1566520213,
     "wof:name":"Grande Cache",
     "wof:parent_id":1158863297,
     "wof:placetype":"locality",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000494,
-    "geom:area_square_m":4415494.369217,
+    "geom:area_square_m":4415494.369222,
     "geom:bbox":"-79.568621085,43.731443234,-79.526280115,43.754509987",
     "geom:latitude":43.74343,
     "geom:longitude":-79.542367,
     "iso:country":"CA",
     "lbl:latitude":43.743482,
     "lbl:longitude":-79.537394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.746848,
     "mps:longitude":-79.532693,
     "mz:hierarchy_label":1,
@@ -31,25 +32,24 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Humbermede (22)",
     "torsdfa:AREA_S_CD":"022",
     "wd:latitude":43.7463,
     "wd:longitude":-79.5412,
     "wd:wordcount":273,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5978392,
         "gp:id":55999371,
-        "qs:id":1101954,
         "qs_pg:id":1101954,
         "wd:id":"Q5939872"
     },
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272683,
+    "wof:lastmodified":1566518946,
     "wof:name":"Humbermede",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

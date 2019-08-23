@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.16551,
     "lbl:longitude":-60.173398,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.16551,
     "mps:longitude":-60.173398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Sydney"
     ],
@@ -177,7 +180,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -189,7 +192,7 @@
     "wof:concordances":{
         "gn:id":6354908,
         "gp:id":3755,
-        "qs:id":1074086,
+        "qs_pg:id":1074086,
         "wd:id":"Q932261",
         "wk:page":"Sydney, Nova Scotia"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101741255,
-    "wof:lastmodified":1561844445,
+    "wof:lastmodified":1566519897,
     "wof:name":"Sydney Indian Reserve No. 28A",
     "wof:parent_id":890457747,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.570551,
     "lbl:longitude":-102.874069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.570551,
     "mps:longitude":-102.874069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Weekes"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":233,
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
         "fct:id":"03c01a66-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6177617,
         "gp:id":2376,
-        "qs:id":894818,
         "qs_pg:id":894818,
         "wd:id":"Q2205261"
     },
@@ -77,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844270,
+    "wof:lastmodified":1566519402,
     "wof:name":"Weekes",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

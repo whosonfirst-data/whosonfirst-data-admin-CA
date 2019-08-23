@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.823832,
     "lbl:longitude":-97.151173,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.822923,
     "mps:longitude":-97.150755,
     "mz:hierarchy_label":1,
@@ -35,19 +36,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332856,
-        "qs:id":897092,
         "qs_pg:id":897092
     },
     "wof:country":"CA",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523913,
+    "wof:lastmodified":1566518964,
     "wof:name":"Pembina Strip",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

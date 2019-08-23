@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.080943,
     "lbl:longitude":-73.192264,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.080943,
     "mps:longitude":-73.192264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062a\u064a\u0641\u064a\u0644"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":238,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":5899017,
         "gp:id":3494,
-        "qs:id":1249063,
         "qs_pg:id":1249063,
         "wd:id":"Q139046",
         "wk:page":"Berthierville"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101737975,
-    "wof:lastmodified":1563284333,
+    "wof:lastmodified":1566519455,
     "wof:name":"Berthierville",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

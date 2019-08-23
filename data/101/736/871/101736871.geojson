@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.690227,
     "lbl:longitude":-73.226226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.690227,
     "mps:longitude":-73.226226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Marc-sur-Richelieu"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191575,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":6138728,
         "gp:id":23394592,
-        "qs:id":893940,
+        "qs_pg:id":893940,
         "wd:id":"Q3462861",
         "wk:page":"Saint-Marc-sur-Richelieu, Quebec"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101736871,
-    "wof:lastmodified":1563284505,
+    "wof:lastmodified":1566519492,
     "wof:name":"Saint-Marc-sur-Richelieu",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

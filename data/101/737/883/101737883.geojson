@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.722417,
     "lbl:longitude":-72.005417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.722417,
     "mps:longitude":-72.005417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Gilbert"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101737883,
-    "wof:lastmodified":1563284258,
+    "wof:lastmodified":1566519442,
     "wof:name":"Saint-Gilbert",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
+    "geom:area_square_m":389118.329829,
     "geom:bbox":"-130.6302093,53.482369,-130.6196118,53.4915545",
     "geom:latitude":53.488356,
     "geom:longitude":-130.624247,
     "iso:country":"CA",
     "lbl:latitude":53.488946,
     "lbl:longitude":-130.624594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.488946,
     "mps:longitude":-130.624594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kul 18"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743453,
-    "wof:lastmodified":1533335878,
+    "wof:lastmodified":1566519991,
     "wof:name":"Kul 18",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

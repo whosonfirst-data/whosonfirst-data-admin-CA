@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.872731,
     "lbl:longitude":-103.365443,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.872731,
     "mps:longitude":-103.365443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mistatim"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1165,
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
         "fct:id":"03ba6a76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6075447,
         "gp:id":2356,
-        "qs:id":977713,
         "qs_pg:id":977713,
         "wd:id":"Q2201145",
         "wk:page":"Mistatim, Saskatchewan"
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844266,
+    "wof:lastmodified":1566519397,
     "wof:name":"Mistatim",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

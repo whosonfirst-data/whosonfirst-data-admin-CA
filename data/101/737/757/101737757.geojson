@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.432506,
     "lbl:longitude":-74.375929,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.432506,
     "mps:longitude":-74.375929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Tr\u00e8s-Saint-R\u00e9dempteur"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101737757,
-    "wof:lastmodified":1563284245,
+    "wof:lastmodified":1566519441,
     "wof:name":"Tr\u00e8s-Saint-R\u00e9dempteur",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

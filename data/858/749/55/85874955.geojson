@@ -11,8 +11,10 @@
     "geom:longitude":-81.171814,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.176814,42.990979,-81.166814,43.000979",
     "lbl:latitude":42.995979,
     "lbl:longitude":-81.171814,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.999093,
     "mps:longitude":-81.170403,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:swe_x_preferred":[
         "Argyle"
     ],
-    "name:unk_x_variant":[
-        "Argyle"
-    ],
     "name:vol_x_preferred":[
         "Argyle"
     ],
@@ -100,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -111,7 +110,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856244,
-        "qs:id":381441,
         "qs_pg:id":381441
     },
     "wof:country":"CA",
@@ -130,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170777,
+    "wof:lastmodified":1566518977,
     "wof:name":"Argyle",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

@@ -14,16 +14,18 @@
     "geom:longitude":-114.642603,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":2384,
     "gn:population":2384,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.804256,
     "lbl:longitude":-114.648899,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.804256,
     "mps:longitude":-114.648899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u043d\u0434\u0440\u0435"
     ],
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1093.0,
     "wd:latitude":"51.7972",
@@ -82,7 +84,7 @@
     "wof:concordances":{
         "gn:id":6159474,
         "gp:id":8746,
-        "qs:id":898321,
+        "qs_pg:id":898321,
         "wd:id":"Q3243949",
         "wk:page":"Sundre"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":890456645,
-    "wof:lastmodified":1563286167,
+    "wof:lastmodified":1566520155,
     "wof:name":"Sundre",
     "wof:parent_id":1158863207,
     "wof:placetype":"locality",

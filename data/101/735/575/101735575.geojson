@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.150511,
     "lbl:longitude":-83.278989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.150511,
     "mps:longitude":-83.278989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Huron Shores"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":794,
     "wof:belongsto":[
         102191575,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101735575,
-    "wof:lastmodified":1563285396,
+    "wof:lastmodified":1566519936,
     "wof:name":"Huron Shores",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

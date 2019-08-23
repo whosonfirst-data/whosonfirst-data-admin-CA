@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":2139708.521711,
+    "geom:area_square_m":2139708.521715,
     "geom:bbox":"-122.799682617,49.0166110441,-122.779274265,49.0311108947",
     "geom:latitude":49.024144,
     "geom:longitude":-122.78849,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.023851,
     "lbl:longitude":-122.788492,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.034345,
     "mps:longitude":-122.78111,
     "mz:hierarchy_label":0,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "North Bluff East"
-    ],
-    "name:unk_x_variant":[
         "North Bluff East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +59,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101741021,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998781,
-        "qs:id":1090791,
         "qs_pg:id":1090791
     },
     "wof:country":"CA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270202,
+    "wof:lastmodified":1566518978,
     "wof:name":"North Bluff East",
     "wof:parent_id":101741021,
     "wof:placetype":"neighbourhood",

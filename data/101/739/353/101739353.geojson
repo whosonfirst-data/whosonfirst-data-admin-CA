@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.281614,
     "lbl:longitude":-104.029924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.281614,
     "mps:longitude":-104.029924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Codette"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
         "fct:id":"03b9f58c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5924760,
         "gp:id":301,
-        "qs:id":178461,
         "qs_pg:id":178461,
         "wd:id":"Q1999750"
     },
@@ -77,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844262,
+    "wof:lastmodified":1566519391,
     "wof:name":"Codette",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

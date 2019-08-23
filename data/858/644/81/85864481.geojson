@@ -9,7 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015972,
-    "geom:area_square_m":139022518.586956,
+    "geom:area_square_m":139022518.587,
     "geom:bbox":"-76.1765019997,45.1729250003,-75.9698479999,45.3213009997",
     "geom:latitude":45.258004,
     "geom:longitude":-76.069433,
@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.280979,
     "lbl:longitude":-76.105368,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.243075,
     "mps:longitude":-75.984023,
     "mz:hierarchy_label":1,
@@ -41,19 +42,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1125978557,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23398576,
-        "qs:id":1061914,
         "qs_pg:id":1061914,
         "wd:id":"Q5170859"
     },
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277889,
+    "wof:lastmodified":1566518958,
     "wof:name":"Corkery",
     "wof:parent_id":1125978557,
     "wof:placetype":"neighbourhood",

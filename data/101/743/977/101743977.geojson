@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":66176.089307,
     "geom:bbox":"-125.2918681,48.9103377,-125.2859453,48.9132683",
     "geom:latitude":48.911926,
     "geom:longitude":-125.289253,
     "iso:country":"CA",
     "lbl:latitude":48.912146,
     "lbl:longitude":-125.289455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.912146,
     "mps:longitude":-125.289455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keith Island 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743977,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566519992,
     "wof:name":"Keith Island 7",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

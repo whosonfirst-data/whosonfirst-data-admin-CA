@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4262123.544465,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.871542,43.517647,-79.871542,43.517647",
     "geom:latitude":43.517647,
     "geom:longitude":-79.871542,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.876542,43.512647,-79.866542,43.522647",
     "lbl:latitude":43.517647,
     "lbl:longitude":-79.871542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.517181,
     "mps:longitude":-79.868567,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Timberlea"
-    ],
-    "name:unk_x_variant":[
         "Timberlea"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,21 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191575,
         101736383,
         85633041,
-        101736383,
-        890458413,
         85682057,
         101740713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999158,
-        "qs:id":1090815,
         "qs_pg:id":1090815
     },
     "wof:country":"CA",
@@ -98,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931345,
+    "wof:lastmodified":1566518999,
     "wof:name":"Timberlea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

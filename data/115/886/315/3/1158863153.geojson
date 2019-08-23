@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.100924,
     "lbl:longitude":-110.219068,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.100924,
     "mps:longitude":-110.219068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Acadia No. 34"
     ],
@@ -28,7 +31,7 @@
     "reversegeo:longitude":-110.219068,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1913-12-09",
     "wd:population":493,
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1158863153,
-    "wof:lastmodified":1554759636,
+    "wof:lastmodified":1566520405,
     "wof:name":"Acadia No. 34",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000425,
-    "geom:area_square_m":3798399.072204,
+    "geom:area_square_m":3798399.072207,
     "geom:bbox":"-79.211280347,43.73500478,-79.170764699,43.759004995",
     "geom:latitude":43.748829,
     "geom:longitude":-79.195054,
     "iso:country":"CA",
     "lbl:latitude":43.747003,
     "lbl:longitude":-79.1998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.743656,
     "mps:longitude":-79.197201,
     "mz:hierarchy_label":1,
@@ -31,25 +32,24 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Guildwood (140)",
     "torsdfa:AREA_S_CD":"140",
     "wd:latitude":43.745,
     "wd:longitude":-79.196,
     "wd:wordcount":429,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6181931,
         "gp:id":55998986,
-        "qs:id":237200,
         "qs_pg:id":237200,
         "wd:id":"Q5615890"
     },
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272679,
+    "wof:lastmodified":1566518980,
     "wof:name":"Guildwood",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-113.90294,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.90794,53.536211,-113.89794,53.546211",
     "lbl:latitude":53.541211,
     "lbl:longitude":-113.90294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.541939,
     "mps:longitude":-113.902078,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:srp_x_preferred":[
         "\u0446\u0435\u043d\u0442\u0430\u0440 \u0433\u0440\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "City Centre"
-    ],
     "name:zho_x_preferred":[
         "\u5e02\u4e2d\u5fc3"
     ],
@@ -119,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":610,
     "wof:belongsto":[
         85682091,
@@ -131,7 +130,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998528,
-        "qs:id":384866,
         "qs_pg:id":384866,
         "wd:id":"Q1468524"
     },
@@ -151,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282200,
+    "wof:lastmodified":1566519019,
     "wof:name":"City Centre",
     "wof:parent_id":890457029,
     "wof:placetype":"neighbourhood",

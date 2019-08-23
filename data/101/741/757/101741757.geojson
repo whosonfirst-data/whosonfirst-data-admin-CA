@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
+    "geom:area_square_m":1314054.652999,
     "geom:bbox":"-101.5784532,54.0949294,-101.5555838,54.1057734",
     "geom:latitude":54.100377,
     "geom:longitude":-101.56419,
     "iso:country":"CA",
     "lbl:latitude":54.100351,
     "lbl:longitude":-101.564186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.100351,
     "mps:longitude":-101.564186,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Opaskwayak Cree Nation 21L"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741757,
-    "wof:lastmodified":1531523805,
+    "wof:lastmodified":1566519885,
     "wof:name":"Opaskwayak Cree Nation 21L",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

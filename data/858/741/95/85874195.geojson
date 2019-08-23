@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3095717.552306,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.245172,48.382596,-89.245172,48.382596",
     "geom:latitude":48.382596,
     "geom:longitude":-89.245172,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-89.250172,48.377596,-89.240172,48.387596",
     "lbl:latitude":48.382596,
     "lbl:longitude":-89.245172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.378144,
     "mps:longitude":-89.239569,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Downtown Thunder Bay South"
-    ],
-    "name:unk_x_variant":[
         "Downtown Thunder Bay South"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855761,
-        "qs:id":1135777,
         "qs_pg:id":1135777
     },
     "wof:country":"CA",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871905,
+    "wof:lastmodified":1566518987,
     "wof:name":"Downtown Thunder Bay South",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

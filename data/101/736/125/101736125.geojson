@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.740506,
     "lbl:longitude":-78.968709,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.740506,
     "mps:longitude":-78.968709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Ajax"
     ],
@@ -182,7 +185,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":90.0,
     "wd:latitude":43.844167,
@@ -199,7 +202,6 @@
     "wof:concordances":{
         "gn:id":5882873,
         "gp:id":6,
-        "qs:id":1189062,
         "qs_pg:id":1189062,
         "wd:id":"Q386567",
         "wk:page":"Ajax, Ontario"
@@ -215,7 +217,7 @@
         }
     ],
     "wof:id":101736125,
-    "wof:lastmodified":1563284554,
+    "wof:lastmodified":1566519502,
     "wof:name":"Ajax",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.472648,
     "lbl:longitude":-90.148095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.472648,
     "mps:longitude":-90.148095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pickle Lake"
     ],
@@ -53,7 +56,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":707,
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101735807,
-    "wof:lastmodified":1563285471,
+    "wof:lastmodified":1566519951,
     "wof:name":"Pickle Lake",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

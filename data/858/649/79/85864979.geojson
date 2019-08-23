@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1208041.266472,
+    "geom:area_square_m":1208041.266473,
     "geom:bbox":"-113.969816,51.099885,-113.946928,51.110623",
     "geom:latitude":51.106291,
     "geom:longitude":-113.959264,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.106417,
     "lbl:longitude":-113.959856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.10491,
     "mps:longitude":-113.955169,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1090.0,
     "wd:latitude":51.1081,
     "wd:longitude":-113.959,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404874,
-        "qs:id":1031345,
         "qs_pg:id":1031345,
         "wd:id":"Q5050582"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566519005,
     "wof:name":"Castleridge",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

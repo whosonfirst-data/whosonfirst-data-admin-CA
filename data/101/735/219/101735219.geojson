@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.836701,
     "lbl:longitude":-66.501756,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.836701,
     "mps:longitude":-66.501756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oromocto"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.8488,
     "wd:longitude":-66.4788,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":6094407,
         "gp:id":4395,
-        "qs:id":971337,
         "qs_pg:id":971337,
         "wd:id":"Q1966925",
         "wk:page":"Oromocto"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101735219,
-    "wof:lastmodified":1563285342,
+    "wof:lastmodified":1566519926,
     "wof:name":"Oromocto",
     "wof:parent_id":890457251,
     "wof:placetype":"locality",

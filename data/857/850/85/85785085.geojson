@@ -12,8 +12,10 @@
     "gn:latitude":46.25014,
     "gn:longitude":-60.08175,
     "iso:country":"CA",
+    "lbl:bbox":"-60.094971,46.248948,-60.084971,46.258948",
     "lbl:latitude":46.253948,
     "lbl:longitude":-60.089971,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.253947,
     "mps:longitude":-60.085897,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:gla_x_variant":[
         "Portlairge \u00d9r"
-    ],
-    "name:unk_x_variant":[
-        "New Waterford"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":665,
     "wof:belongsto":[
         102191575,
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gn:id":6087843,
         "gp:id":3751,
-        "qs:id":1185803,
         "qs_pg:id":1185803,
         "wd:id":"Q7012317",
         "wk:page":"New Waterford, Nova Scotia"
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281695,
+    "wof:lastmodified":1566518909,
     "wof:name":"New Waterford",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

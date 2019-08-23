@@ -10,8 +10,10 @@
     "geom:latitude":49.330787,
     "geom:longitude":-122.613559,
     "iso:country":"CA",
+    "lbl:bbox":"-122.618559,49.325787,-122.608559,49.335787",
     "lbl:latitude":49.330787,
     "lbl:longitude":-122.613559,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.342403,
     "mps:longitude":-122.62182,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Yennadon"
     ],
     "name:nld_x_preferred":[
-        "Yennadon"
-    ],
-    "name:unk_x_variant":[
         "Yennadon"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":27,
     "wof:belongsto":[
         85682117,
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":6185449,
         "gp:id":55998841,
-        "qs:id":75962,
         "qs_pg:id":75962,
         "wd:id":"Q8052374",
         "wk:page":"Yennadon, British Columbia"
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281997,
+    "wof:lastmodified":1566518980,
     "wof:name":"Yennadon",
     "wof:parent_id":101741079,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000545,
+    "geom:area_square_m":4412235.484383,
     "geom:bbox":"-121.9736023,49.0749418,-121.9404227,49.0930516",
     "geom:latitude":49.083596,
     "geom:longitude":-121.957161,
     "iso:country":"CA",
     "lbl:latitude":49.081606,
     "lbl:longitude":-121.958172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.081606,
     "mps:longitude":-121.958172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Soowahlie 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745953,
-    "wof:lastmodified":1533335918,
+    "wof:lastmodified":1566520032,
     "wof:name":"Soowahlie 14",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

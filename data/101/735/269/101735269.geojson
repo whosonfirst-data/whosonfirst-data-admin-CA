@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":45.975862,
     "lbl:longitude":-66.631682,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.975862,
     "mps:longitude":-66.631682,
     "mz:hierarchy_label":1,
@@ -371,7 +373,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.95,
     "wd:longitude":-66.666667,
@@ -387,10 +389,12 @@
     "wof:concordances":{
         "gn:id":5957776,
         "gp:id":3704,
-        "qs:id":355730,
-        "qs_pg:id":1073204,
+        "qs_pg:id":355730,
         "wd:id":"Q2138",
         "wk:page":"Fredericton"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073204
     },
     "wof:country":"CA",
     "wof:geomhash":"a6da0ba7b721cbe248140d412a7e78ac",
@@ -404,7 +408,7 @@
         }
     ],
     "wof:id":101735269,
-    "wof:lastmodified":1563285378,
+    "wof:lastmodified":1566519932,
     "wof:name":"Fredericton",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

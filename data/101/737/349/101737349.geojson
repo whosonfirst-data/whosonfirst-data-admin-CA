@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.38374,
     "lbl:longitude":-73.543134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.38374,
     "mps:longitude":-73.543134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Damien"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":334,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":6137657,
         "gp:id":23396503,
-        "qs:id":346036,
+        "qs_pg:id":346036,
         "wd:id":"Q1451329",
         "wk:page":"Saint-Damien, Quebec"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101737349,
-    "wof:lastmodified":1563284200,
+    "wof:lastmodified":1566519427,
     "wof:name":"Saint-Damien",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

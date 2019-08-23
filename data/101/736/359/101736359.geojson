@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.929645,
     "lbl:longitude":-79.133051,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.929645,
     "mps:longitude":-79.133051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0631\u064a\u0646\u063a"
     ],
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.8354,
     "wd:longitude":-79.089,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":6104111,
         "gp:id":4364,
-        "qs:id":896940,
         "qs_pg:id":896940,
         "wd:id":"Q386626",
         "wk:page":"Pickering, Ontario"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":101736359,
-    "wof:lastmodified":1563284464,
+    "wof:lastmodified":1566519485,
     "wof:name":"Pickering",
     "wof:parent_id":890456493,
     "wof:placetype":"locality",

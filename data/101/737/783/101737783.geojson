@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.481515,
     "lbl:longitude":-71.660624,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.481515,
     "mps:longitude":-71.660624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u0633\u062a \u0623\u0646\u063a\u0633"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -105,10 +108,12 @@
     "wof:concordances":{
         "gn:id":5885280,
         "gp:id":3538,
-        "qs:id":1036935,
-        "qs_pg:id":1053430,
+        "qs_pg:id":1036935,
         "wd:id":"Q142243",
         "wk:page":"East Angus, Quebec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1053430
     },
     "wof:country":"CA",
     "wof:geomhash":"23beb307bbb860471367ec5d573691ac",
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101737783,
-    "wof:lastmodified":1563284205,
+    "wof:lastmodified":1566519428,
     "wof:name":"East Angus",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

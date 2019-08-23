@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.098421,
     "lbl:longitude":-65.288096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.098421,
     "mps:longitude":-65.288096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Paspepiac"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":881,
     "wof:belongsto":[
         102191575,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":6943824,
         "gp:id":3621,
-        "qs:id":161010,
         "qs_pg:id":161010,
         "wd:id":"Q141663",
         "wk:page":"Pasp\u00e9biac"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101737083,
-    "wof:lastmodified":1563284141,
+    "wof:lastmodified":1566519417,
     "wof:name":"Pasp\u00e9biac",
     "wof:parent_id":890456501,
     "wof:placetype":"locality",

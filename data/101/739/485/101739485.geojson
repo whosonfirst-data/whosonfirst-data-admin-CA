@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.894829,
     "lbl:longitude":-101.893254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.894829,
     "mps:longitude":-101.893254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0443\u0440\u0447\u0431\u0440\u0438\u0434\u0433\u0435"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.9,
     "wd:longitude":-101.9,
     "wd:wordcount":810,
@@ -75,7 +78,6 @@
         "fct:id":"03c02420-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5922073,
         "gp:id":2481,
-        "qs:id":529796,
         "qs_pg:id":529796,
         "wd:id":"Q1382237",
         "wk:page":"Churchbridge, Saskatchewan"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283972,
+    "wof:lastmodified":1566519393,
     "wof:name":"Churchbridge",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

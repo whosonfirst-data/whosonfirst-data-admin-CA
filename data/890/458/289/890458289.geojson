@@ -14,15 +14,18 @@
     "geom:longitude":-112.635263,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.687259,
     "lbl:longitude":-112.632699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.687259,
     "mps:longitude":-112.632699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0628\u0645\u0627\u0646"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":5921530,
         "gp:id":8504,
-        "qs:id":1053456,
+        "qs_pg:id":1053456,
         "wd:id":"Q1959561",
         "wk:page":"Chipman"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890458289,
-    "wof:lastmodified":1563285959,
+    "wof:lastmodified":1566520102,
     "wof:name":"Chipman",
     "wof:parent_id":1158863199,
     "wof:placetype":"locality",

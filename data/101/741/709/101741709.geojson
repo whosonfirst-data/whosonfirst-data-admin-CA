@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007439,
+    "geom:area_square_m":57993230.876619,
     "geom:bbox":"-98.6352042,50.8576434,-98.4584226,50.9713661",
     "geom:latitude":50.916724,
     "geom:longitude":-98.564934,
     "iso:country":"CA",
     "lbl:latitude":50.910204,
     "lbl:longitude":-98.578678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.910204,
     "mps:longitude":-98.578678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dog Creek 46"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741709,
-    "wof:lastmodified":1533070125,
+    "wof:lastmodified":1566519856,
     "wof:name":"Dog Creek 46",
     "wof:parent_id":1158869051,
     "wof:placetype":"locality",

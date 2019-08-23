@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.490208,
     "lbl:longitude":-73.821594,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.490208,
     "mps:longitude":-73.821594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u0627\u0631 \u062f\u064a\u0632\u0648\u0631\u0645\u0648\u060c \u0643\u064a\u0628\u0643"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101736467,
-    "wof:lastmodified":1563284517,
+    "wof:lastmodified":1566519495,
     "wof:name":"Dollard-Des Ormeaux",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

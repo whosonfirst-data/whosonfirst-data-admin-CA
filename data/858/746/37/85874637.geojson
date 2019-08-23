@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":786991.552486,
+    "geom:area_square_m":786991.552485,
     "geom:bbox":"-113.541264332,53.5703121722,-113.53070563,53.5809587321",
     "geom:latitude":53.575459,
     "geom:longitude":-113.536049,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.575077,
     "lbl:longitude":-113.535863,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.584128,
     "mps:longitude":-113.529542,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -46,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856016,
-        "qs:id":1089505,
         "qs_pg:id":1089505,
         "wd:id":"Q7243846"
     },
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566518986,
     "wof:name":"Prince Charles",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

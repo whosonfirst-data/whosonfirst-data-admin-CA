@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.012392,
     "lbl:longitude":-67.23074,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.012392,
     "mps:longitude":-67.23074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nackawic"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.99647,
     "wd:longitude":-67.23948,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":6085444,
         "gp:id":23392447,
-        "qs:id":160319,
         "qs_pg:id":160319,
         "wd:id":"Q835359",
         "wk:page":"Nackawic"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101735283,
-    "wof:lastmodified":1563285443,
+    "wof:lastmodified":1566519945,
     "wof:name":"Nackawic",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

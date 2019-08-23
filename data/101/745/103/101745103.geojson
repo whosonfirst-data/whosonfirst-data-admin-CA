@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
+    "geom:area_square_m":726328.749137,
     "geom:bbox":"-123.299931,51.7648223,-123.2823583,51.7703508",
     "geom:latitude":51.767587,
     "geom:longitude":-123.291145,
     "iso:country":"CA",
     "lbl:latitude":51.767586,
     "lbl:longitude":-123.291145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.767586,
     "mps:longitude":-123.291145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brigham Creek 3"
     ],
@@ -49,7 +53,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101745103,
-    "wof:lastmodified":1533335903,
+    "wof:lastmodified":1566520032,
     "wof:name":"Brigham Creek 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

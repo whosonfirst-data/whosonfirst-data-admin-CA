@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1136235.662286,
+    "geom:area_square_m":1136235.662285,
     "geom:bbox":"-114.027213,51.066958,-114.008701,51.076907",
     "geom:latitude":51.071135,
     "geom:longitude":-114.017861,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.070971,
     "lbl:longitude":-114.018014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.071897,
     "mps:longitude":-114.023539,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1090.0,
     "wd:latitude":51.0711,
     "wd:longitude":-114.013,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342843,
-        "qs:id":897108,
         "qs_pg:id":897108,
         "wd:id":"Q7936444"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270060,
+    "wof:lastmodified":1566518963,
     "wof:name":"Vista Heights",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000575,
+    "geom:area_square_m":4270596.139342,
     "geom:bbox":"-124.5124256,53.0835498,-124.4639646,53.0981678",
     "geom:latitude":53.09176,
     "geom:longitude":-124.491109,
     "iso:country":"CA",
     "lbl:latitude":53.090819,
     "lbl:longitude":-124.493995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.090819,
     "mps:longitude":-124.493995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kluskus 1"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747533,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566519595,
     "wof:name":"Kluskus 1",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

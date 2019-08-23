@@ -14,12 +14,13 @@
     "geom:longitude":-112.06554,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":5678,
     "gn:population":5678,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.49773,
     "lbl:longitude":-112.061572,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.49773,
     "mps:longitude":-112.061572,
     "mz:hierarchy_label":1,
@@ -210,7 +211,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":635.0,
     "wd:latitude":"53.4928",
@@ -226,7 +227,7 @@
     "wof:concordances":{
         "gn:id":6173635,
         "gp:id":8513,
-        "qs:id":274737,
+        "qs_pg:id":274737,
         "wd:id":"Q1276220",
         "wk:page":"Vegreville"
     },
@@ -243,7 +244,7 @@
         }
     ],
     "wof:id":890457037,
-    "wof:lastmodified":1563286398,
+    "wof:lastmodified":1566520221,
     "wof:name":"Vegreville",
     "wof:parent_id":1158863205,
     "wof:placetype":"locality",

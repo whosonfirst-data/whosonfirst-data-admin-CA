@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.388416,
     "lbl:longitude":-108.960567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.388416,
     "mps:longitude":-108.960567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0442\u043b\u0435\u0444\u043e\u0440\u0434"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.3833,
     "wd:longitude":-108.95,
     "wd:wordcount":670,
@@ -82,7 +85,6 @@
         "fct:id":"03c00846-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6170584,
         "gp:id":2087,
-        "qs:id":22785,
         "qs_pg:id":22785,
         "wd:id":"Q1917360",
         "wk:page":"Turtleford"
@@ -102,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284065,
+    "wof:lastmodified":1566519406,
     "wof:name":"Turtleford",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

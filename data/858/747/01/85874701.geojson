@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":559672.700247,
+    "geom:area_square_m":559672.700246,
     "geom:bbox":"-113.556948869,53.4977221573,-113.541127067,53.5046074983",
     "geom:latitude":53.500302,
     "geom:longitude":-113.548035,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.501055,
     "lbl:longitude":-113.549708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.499192,
     "mps:longitude":-113.54954,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191575,
@@ -47,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856053,
-        "qs:id":237984,
         "qs_pg:id":237984,
         "wd:id":"Q5595572"
     },
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270166,
+    "wof:lastmodified":1566518975,
     "wof:name":"Grandview Heights",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

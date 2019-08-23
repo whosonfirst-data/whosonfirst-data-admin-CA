@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000806,
+    "geom:area_square_m":6519236.448185,
     "geom:bbox":"-94.7952314,49.1536175,-94.7439818,49.1985354",
     "geom:latitude":49.17306,
     "geom:longitude":-94.766336,
     "iso:country":"CA",
     "lbl:latitude":49.16556,
     "lbl:longitude":-94.761694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.16556,
     "mps:longitude":-94.761694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Big Island Indian Reserve No. 37"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101741145,
-    "wof:lastmodified":1533335657,
+    "wof:lastmodified":1566519876,
     "wof:name":"Big Island Indian Reserve No. 37",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

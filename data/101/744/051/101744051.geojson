@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
+    "geom:area_square_m":2211691.174242,
     "geom:bbox":"-121.4211848,50.7895516,-121.3898003,50.7985892",
     "geom:latitude":50.794078,
     "geom:longitude":-121.405495,
     "iso:country":"CA",
     "lbl:latitude":50.794078,
     "lbl:longitude":-121.405495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.794078,
     "mps:longitude":-121.405495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grasslands 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744051,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566519981,
     "wof:name":"Grasslands 7",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

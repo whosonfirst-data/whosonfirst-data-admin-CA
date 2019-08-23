@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
+    "geom:area_square_m":118080.796574,
     "geom:bbox":"-125.2993471,48.8706448,-125.2933327,48.8740894",
     "geom:latitude":48.872091,
     "geom:longitude":-125.297034,
     "iso:country":"CA",
     "lbl:latitude":48.872033,
     "lbl:longitude":-125.297388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.872033,
     "mps:longitude":-125.297388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Omoah 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743981,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566520006,
     "wof:name":"Omoah 9",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

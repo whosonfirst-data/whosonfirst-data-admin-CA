@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9586429.176531,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.414095,43.429663,-80.414095,43.429663",
     "geom:latitude":43.429663,
     "geom:longitude":-80.414095,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.419095,43.424663,-80.409095,43.434663",
     "lbl:latitude":43.429663,
     "lbl:longitude":-80.414095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.423999,
     "mps:longitude":-80.412507,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Centreville Chicopee"
-    ],
-    "name:unk_x_variant":[
         "Centreville Chicopee"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740709,
         85633041,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23397530,
-        "qs:id":1188319,
         "qs_pg:id":1188319
     },
     "wof:country":"CA",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870896,
+    "wof:lastmodified":1566518958,
     "wof:name":"Centreville Chicopee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

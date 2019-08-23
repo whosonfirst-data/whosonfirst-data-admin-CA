@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.354874,
     "lbl:longitude":-80.491421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.354874,
     "mps:longitude":-80.491421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "St.-Charles"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.35,
     "wd:longitude":-80.4167,
     "wd:wordcount":144,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":6155736,
         "gp:id":1420,
-        "qs:id":271243,
+        "qs_pg:id":271243,
         "wd:id":"Q3182395",
         "wk:page":"St. Charles, Ontario"
     },
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101735779,
-    "wof:lastmodified":1563285411,
+    "wof:lastmodified":1566519940,
     "wof:name":"St.-Charles",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",

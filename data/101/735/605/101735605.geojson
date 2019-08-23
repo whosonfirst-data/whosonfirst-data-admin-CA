@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.677558,
     "lbl:longitude":-82.595633,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.677558,
     "mps:longitude":-82.595633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Burpee and Mills"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":142,
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101735605,
-    "wof:lastmodified":1561844465,
+    "wof:lastmodified":1566519929,
     "wof:name":"Burpee and Mills",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

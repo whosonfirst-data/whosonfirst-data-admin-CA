@@ -10,8 +10,10 @@
     "geom:latitude":44.035393,
     "geom:longitude":-79.486226,
     "iso:country":"CA",
+    "lbl:bbox":"-79.491226,44.030393,-79.481226,44.040393",
     "lbl:latitude":44.035393,
     "lbl:longitude":-79.486226,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.034782,
     "mps:longitude":-79.491554,
     "mz:hierarchy_label":0,
@@ -62,9 +64,6 @@
     "name:swe_x_preferred":[
         "Summerhill"
     ],
-    "name:unk_x_variant":[
-        "Summerhill"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:id":0,
@@ -91,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -128,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170716,
+    "wof:lastmodified":1566518954,
     "wof:name":"Summerhill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

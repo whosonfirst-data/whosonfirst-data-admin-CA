@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
+    "geom:area_square_m":532739.556283,
     "geom:bbox":"-124.6762236,48.8041436,-124.6641066,48.8134047",
     "geom:latitude":48.807719,
     "geom:longitude":-124.669154,
     "iso:country":"CA",
     "lbl:latitude":48.807662,
     "lbl:longitude":-124.669153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.807662,
     "mps:longitude":-124.669153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malachan 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745559,
-    "wof:lastmodified":1533335913,
+    "wof:lastmodified":1566520033,
     "wof:name":"Malachan 11",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

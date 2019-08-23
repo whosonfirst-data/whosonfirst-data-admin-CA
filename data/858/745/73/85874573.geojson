@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.04618,
     "lbl:longitude":-114.04966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.04312,
     "mps:longitude":-114.047827,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1043.0,
     "wd:latitude":51.0461,
     "wd:longitude":-114.053,
@@ -61,7 +62,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855981,
-        "qs:id":381248,
         "qs_pg:id":381248,
         "wd:id":"Q5303424"
     },
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282214,
+    "wof:lastmodified":1566519022,
     "wof:name":"Downtown East Village",
     "wof:parent_id":1108963897,
     "wof:placetype":"neighbourhood",

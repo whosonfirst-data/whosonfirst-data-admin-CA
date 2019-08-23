@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
+    "geom:area_square_m":2003147.852227,
     "geom:bbox":"-106.3082097,56.812883,-106.2828682,56.8298496",
     "geom:latitude":56.820938,
     "geom:longitude":-106.293016,
     "iso:country":"CA",
     "lbl:latitude":56.821512,
     "lbl:longitude":-106.29199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.821512,
     "mps:longitude":-106.29199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "English River Haultain Lake I.R. 192K"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745979,
-    "wof:lastmodified":1531525151,
+    "wof:lastmodified":1566520054,
     "wof:name":"English River Haultain Lake I.R. 192K",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

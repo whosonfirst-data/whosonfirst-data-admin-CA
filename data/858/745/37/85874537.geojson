@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2210943.789949,
+    "geom:area_square_m":2210943.789948,
     "geom:bbox":"-114.224654,51.064738,-114.187526,51.079041",
     "geom:latitude":51.071125,
     "geom:longitude":-114.208423,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.071248,
     "lbl:longitude":-114.209706,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.071514,
     "mps:longitude":-114.210654,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1235.0,
     "wd:latitude":51.0719,
     "wd:longitude":-114.203,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855959,
-        "qs:id":897374,
         "qs_pg:id":897374,
         "wd:id":"Q14252535"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270641,
+    "wof:lastmodified":1566519022,
     "wof:name":"Cougar Ridge",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

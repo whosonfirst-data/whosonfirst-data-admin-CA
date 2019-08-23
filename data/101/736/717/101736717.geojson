@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.120091,
     "lbl:longitude":-71.296949,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.120091,
     "mps:longitude":-71.296949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Thetford Mines"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":616,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":6943827,
         "gp:id":3493,
-        "qs:id":453183,
         "qs_pg:id":453183,
         "wd:id":"Q141995"
     },
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101736717,
-    "wof:lastmodified":1563284549,
+    "wof:lastmodified":1566519501,
     "wof:name":"Thetford Mines",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

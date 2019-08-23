@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.594572,
     "lbl:longitude":-120.772595,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.594572,
     "mps:longitude":-120.772595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Thompson-Nicola Regional District"
     ],
@@ -66,7 +69,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Thompson-Nicola",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5933",
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375074,
-        "qs:id":890808,
+        "qs_pg:id":890808,
         "wd:id":"Q583957",
         "wk:page":"Thompson-Nicola Regional District"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890458465,
-    "wof:lastmodified":1563285998,
+    "wof:lastmodified":1566520110,
     "wof:name":"Thompson-Nicola",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

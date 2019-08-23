@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
+    "geom:area_square_m":17978217.418802,
     "geom:bbox":"-99.2843805,53.1174763,-99.2034836,53.1915997",
     "geom:latitude":53.157706,
     "geom:longitude":-99.235456,
     "iso:country":"CA",
     "lbl:latitude":53.157348,
     "lbl:longitude":-99.22831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.157348,
     "mps:longitude":-99.22831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grand Rapids 33"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741779,
-    "wof:lastmodified":1531523807,
+    "wof:lastmodified":1566519881,
     "wof:name":"Grand Rapids 33",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
+    "geom:area_square_m":708244.374588,
     "geom:bbox":"-95.3428393,54.900259,-95.320877,54.906749",
     "geom:latitude":54.903985,
     "geom:longitude":-95.331203,
     "iso:country":"CA",
     "lbl:latitude":54.90395,
     "lbl:longitude":-95.331201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.90395,
     "mps:longitude":-95.331201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wapisew Lake"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746083,
-    "wof:lastmodified":1533069682,
+    "wof:lastmodified":1566519809,
     "wof:name":"Wapisew Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

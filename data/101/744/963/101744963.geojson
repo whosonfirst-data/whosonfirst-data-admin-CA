@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000648,
+    "geom:area_square_m":4972701.714295,
     "geom:bbox":"-122.3259364,51.6084143,-122.2950245,51.6426834",
     "geom:latitude":51.628341,
     "geom:longitude":-122.309053,
     "iso:country":"CA",
     "lbl:latitude":51.631129,
     "lbl:longitude":-122.310892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.631129,
     "mps:longitude":-122.310892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wycott'S Flat 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744963,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566519965,
     "wof:name":"Wycott'S Flat 6",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

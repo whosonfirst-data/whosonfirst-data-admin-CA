@@ -11,8 +11,10 @@
     "geom:longitude":-82.405169,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.410169,42.980099,-82.400169,42.990099",
     "lbl:latitude":42.985099,
     "lbl:longitude":-82.405169,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.984264,
     "mps:longitude":-82.399583,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Northgate"
     ],
     "name:pol_x_preferred":[
-        "Northgate"
-    ],
-    "name:unk_x_variant":[
         "Northgate"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736007,
@@ -78,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856671,
-        "qs:id":1293019,
         "qs_pg:id":1293019
     },
     "wof:country":"CA",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170672,
+    "wof:lastmodified":1566518942,
     "wof:name":"Northgate",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

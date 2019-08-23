@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002352,
+    "geom:area_square_m":18795381.953639,
     "geom:bbox":"-94.4908152,49.70234,-94.3617857,49.7479698",
     "geom:latitude":49.731148,
     "geom:longitude":-94.425144,
     "iso:country":"CA",
     "lbl:latitude":49.731201,
     "lbl:longitude":-94.425112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.731201,
     "mps:longitude":-94.425112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kenora Indian Reserve No. 38B"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745671,
-    "wof:lastmodified":1533335673,
+    "wof:lastmodified":1566520062,
     "wof:name":"Kenora Indian Reserve No. 38B",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

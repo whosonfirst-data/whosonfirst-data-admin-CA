@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":8852457.141795,
+    "geom:area_square_m":8852457.141778,
     "geom:bbox":"-79.243985759,43.78559808,-79.19701006,43.819974549",
     "geom:latitude":43.803659,
     "geom:longitude":-79.222516,
     "iso:country":"CA",
     "lbl:latitude":43.804216,
     "lbl:longitude":-79.222511,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.810748,
     "mps:longitude":-79.219619,
     "mz:hierarchy_label":0,
@@ -35,22 +36,22 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Malvern (132)",
     "torsdfa:AREA_S_CD":"132",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6064969,
         "gp:id":55999212,
-        "qs:id":231598,
+        "qs_pg:id":231598,
         "wd:id":"Q6745045",
         "wk:page":"Malvern, Toronto"
     },
@@ -72,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272682,
+    "wof:lastmodified":1566518952,
     "wof:name":"Malvern",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

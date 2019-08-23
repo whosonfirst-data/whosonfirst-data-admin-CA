@@ -14,10 +14,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.889956,
     "lbl:longitude":-61.30566,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.889956,
     "mps:longitude":-61.30566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Inverness"
     ],
@@ -237,7 +240,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Inverness",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1215",
@@ -253,7 +256,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375082,
-        "qs:id":897310,
+        "qs_pg:id":897310,
         "wk:page":"Inverness"
     },
     "wof:country":"CA",
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":890458013,
-    "wof:lastmodified":1564173215,
+    "wof:lastmodified":1566520103,
     "wof:name":"Inverness",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

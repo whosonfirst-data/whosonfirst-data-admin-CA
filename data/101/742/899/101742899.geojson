@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.26855,
     "lbl:longitude":-128.071502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.26855,
     "mps:longitude":-128.071502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gitanyow 1"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":171,
     "wof:belongsto":[
         102191575,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101742899,
-    "wof:lastmodified":1563285721,
+    "wof:lastmodified":1566520027,
     "wof:name":"Gitanyow 1",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

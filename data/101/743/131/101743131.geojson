@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":65052.948551,
     "geom:bbox":"-127.691602,50.8942666,-127.6857959,50.8978348",
     "geom:latitude":50.895459,
     "geom:longitude":-127.689802,
     "iso:country":"CA",
     "lbl:latitude":50.895213,
     "lbl:longitude":-127.690576,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.895213,
     "mps:longitude":-127.690576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wakems 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743131,
-    "wof:lastmodified":1533335873,
+    "wof:lastmodified":1566519995,
     "wof:name":"Wakems 6",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

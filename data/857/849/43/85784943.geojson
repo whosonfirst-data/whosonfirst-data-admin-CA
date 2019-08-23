@@ -12,8 +12,10 @@
     "gn:latitude":52.13899,
     "gn:longitude":-106.60402,
     "iso:country":"CA",
+    "lbl:bbox":"-106.609967,52.134302,-106.599967,52.144302",
     "lbl:latitude":52.139302,
     "lbl:longitude":-106.604967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.137057,
     "mps:longitude":-106.608326,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2208,
     "wof:belongsto":[
         102191575,
@@ -50,7 +52,6 @@
     "wof:concordances":{
         "gn:id":6159999,
         "gp:id":1772,
-        "qs:id":1113268,
         "qs_pg:id":1113268,
         "wd:id":"Q7649948",
         "wk:page":"Sutherland, Saskatoon"
@@ -72,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281715,
+    "wof:lastmodified":1566518912,
     "wof:name":"Sutherland",
     "wof:parent_id":1126115071,
     "wof:placetype":"neighbourhood",

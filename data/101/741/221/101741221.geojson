@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
+    "geom:area_square_m":8839887.443273,
     "geom:bbox":"-94.109145,49.1795372,-94.0482824,49.2020371",
     "geom:latitude":49.192807,
     "geom:longitude":-94.080548,
     "iso:country":"CA",
     "lbl:latitude":49.192455,
     "lbl:longitude":-94.08054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.192455,
     "mps:longitude":-94.08054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sabaskong Bay Indian Reserve No. 35C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741221,
-    "wof:lastmodified":1533335662,
+    "wof:lastmodified":1566519861,
     "wof:name":"Sabaskong Bay Indian Reserve No. 35C",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

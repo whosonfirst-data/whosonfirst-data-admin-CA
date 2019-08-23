@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1018784.31311,
+    "geom:area_square_m":1018784.313112,
     "geom:bbox":"-114.085983,51.050489,-114.06242,51.062349",
     "geom:latitude":51.057025,
     "geom:longitude":-114.076309,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.058483,
     "lbl:longitude":-114.075961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.056933,
     "mps:longitude":-114.081628,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342834,
-        "qs:id":1087892,
         "qs_pg:id":1087892,
         "wd:id":"Q14874898"
     },
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270060,
+    "wof:lastmodified":1566518963,
     "wof:name":"Sunnyside",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

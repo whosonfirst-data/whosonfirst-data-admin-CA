@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":44961662.28234,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-52.742736,47.437017,-52.742736,47.437017",
     "geom:latitude":47.437017,
     "geom:longitude":-52.742736,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-52.747736,47.432017,-52.737736,47.442017",
     "lbl:latitude":47.437017,
     "lbl:longitude":-52.742736,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.451117,
     "mps:longitude":-52.773388,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Goulds"
     ],
     "name:eng_x_preferred":[
-        "Goulds"
-    ],
-    "name:unk_x_variant":[
         "Goulds"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,18 +60,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191575,
         85633041,
-        1158869009,
         85682123
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23388680,
-        "qs:id":1188157,
         "qs_pg:id":1188157,
         "wd:id":"Q5588309"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870849,
+    "wof:lastmodified":1566518955,
     "wof:name":"Goulds",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

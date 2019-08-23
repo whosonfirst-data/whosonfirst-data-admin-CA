@@ -11,8 +11,10 @@
     "geom:longitude":-79.704739,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.709739,43.394269,-79.699739,43.404269",
     "lbl:latitude":43.399269,
     "lbl:longitude":-79.704739,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.396231,
     "mps:longitude":-79.711043,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043e\u043d\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Bronte"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1549,
@@ -89,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":305,
     "wof:belongsto":[
         102191575,
@@ -101,7 +100,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999345,
-        "qs:id":899543,
         "qs_pg:id":899543
     },
     "wof:country":"CA",
@@ -126,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170682,
+    "wof:lastmodified":1566518945,
     "wof:name":"Bronte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

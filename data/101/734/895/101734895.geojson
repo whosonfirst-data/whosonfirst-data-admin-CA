@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094621,
+    "geom:area_square_m":750041657.385756,
     "geom:bbox":"-96.715792,49.9728659,-96.3528792,50.283545",
     "geom:latitude":50.129265,
     "geom:longitude":-96.515302,
     "iso:country":"CA",
     "lbl:latitude":50.179035,
     "lbl:longitude":-96.515266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.179035,
     "mps:longitude":-96.515266,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brokenhead"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533070154,
+    "wof:lastmodified":1566519907,
     "wof:name":"Brokenhead",
     "wof:parent_id":1158869053,
     "wof:placetype":"locality",

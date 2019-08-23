@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
+    "geom:area_square_m":1116754.344736,
     "geom:bbox":"-94.293121,54.5280928,-94.2685677,54.5414529",
     "geom:latitude":54.534483,
     "geom:longitude":-94.281866,
     "iso:country":"CA",
     "lbl:latitude":54.534748,
     "lbl:longitude":-94.283076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.534748,
     "mps:longitude":-94.283076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chataway Lake/Knife Lake"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745893,
-    "wof:lastmodified":1533069779,
+    "wof:lastmodified":1566520052,
     "wof:name":"Chataway Lake/Knife Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

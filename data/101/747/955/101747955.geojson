@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000294,
+    "geom:area_square_m":2363620.444182,
     "geom:bbox":"-123.753699,49.4645225,-123.7359419,49.4863062",
     "geom:latitude":49.477146,
     "geom:longitude":-123.743685,
     "iso:country":"CA",
     "lbl:latitude":49.478722,
     "lbl:longitude":-123.74215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.478722,
     "mps:longitude":-123.74215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Sechelt) No 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747955,
-    "wof:lastmodified":1533335927,
+    "wof:lastmodified":1566519617,
     "wof:name":"Sechelt Band Lands (Sechelt) No 2",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

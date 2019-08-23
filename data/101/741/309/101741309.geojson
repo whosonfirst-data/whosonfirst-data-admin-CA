@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.836285,
     "lbl:longitude":-66.082128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.836285,
     "mps:longitude":-66.082128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0631\u0645\u0648\u062b"
     ],
@@ -114,7 +117,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -129,7 +132,7 @@
         "gn:id":6185217,
         "gp:id":4161,
         "nyt:id":"N2473797888577746661",
-        "qs:id":453250,
+        "qs_pg:id":453250,
         "wd:id":"Q864688",
         "wk:page":"Yarmouth, Nova Scotia"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101741309,
-    "wof:lastmodified":1561844433,
+    "wof:lastmodified":1566519854,
     "wof:name":"Yarmouth Indian Reserve No. 33",
     "wof:parent_id":890458691,
     "wof:placetype":"locality",

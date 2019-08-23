@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
+    "geom:area_square_m":6125964.655717,
     "geom:bbox":"-119.6255278,49.8221405,-119.5891327,49.8572975",
     "geom:latitude":49.839065,
     "geom:longitude":-119.605443,
     "iso:country":"CA",
     "lbl:latitude":49.838847,
     "lbl:longitude":-119.601479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.838847,
     "mps:longitude":-119.601479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsinstikeptum 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747501,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566519684,
     "wof:name":"Tsinstikeptum 9",
     "wof:parent_id":890458697,
     "wof:placetype":"locality",

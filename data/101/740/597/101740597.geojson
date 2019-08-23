@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.252941,
     "lbl:longitude":-106.871198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.252941,
     "mps:longitude":-106.871198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Corman Park No. 344"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101740597,
-    "wof:lastmodified":1561844390,
+    "wof:lastmodified":1566519567,
     "wof:name":"Corman Park No. 344",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

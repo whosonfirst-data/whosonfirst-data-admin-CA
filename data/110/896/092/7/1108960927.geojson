@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.475941,
     "lbl:longitude":-73.666191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.476132,
     "mps:longitude":-73.666177,
     "mz:hierarchy_label":1,
@@ -30,11 +31,11 @@
     "reversegeo:longitude":-73.666177,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736445,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1108960927,
-    "wof:lastmodified":1533277852,
+    "wof:lastmodified":1566519286,
     "wof:name":"Cavendish Mall",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

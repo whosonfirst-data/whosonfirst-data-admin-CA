@@ -26,10 +26,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.690128,
     "lbl:longitude":-125.197334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.690128,
     "mps:longitude":-125.197334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Regional District of Comox-Strathcona"
     ],
@@ -71,7 +74,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Comox Valley",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5926",
@@ -86,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375117,
-        "qs:id":903227,
+        "qs_pg:id":903227,
         "wd:id":"Q645582",
         "wk:page":"Comox-Strathcona Regional District"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890458565,
-    "wof:lastmodified":1563286045,
+    "wof:lastmodified":1566520125,
     "wof:name":"Comox Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

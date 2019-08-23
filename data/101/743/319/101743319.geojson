@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
+    "geom:area_square_m":198970.952455,
     "geom:bbox":"-126.8027071,56.1012306,-126.7819145,56.1082091",
     "geom:latitude":56.105205,
     "geom:longitude":-126.793174,
     "iso:country":"CA",
     "lbl:latitude":56.105415,
     "lbl:longitude":-126.793175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.105415,
     "mps:longitude":-126.793175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bear Lake 1B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743319,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566520005,
     "wof:name":"Bear Lake 1B",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.130648,
     "lbl:longitude":-74.585186,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.130648,
     "mps:longitude":-74.585186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Les Laurentides"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Les Laurentides",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2478",
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375134,
-        "qs:id":1290375,
+        "qs_pg:id":1290375,
         "wd:id":"Q1517938",
         "wk:page":"Les Laurentides Regional County Municipality"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890456307,
-    "wof:lastmodified":1563286127,
+    "wof:lastmodified":1566520143,
     "wof:name":"Les Laurentides",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

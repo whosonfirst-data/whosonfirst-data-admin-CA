@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":53589.204889,
     "geom:bbox":"-126.881669,50.9441616,-126.8788038,50.9478782",
     "geom:latitude":50.945515,
     "geom:longitude":-126.880441,
     "iso:country":"CA",
     "lbl:latitude":50.946296,
     "lbl:longitude":-126.881009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.946296,
     "mps:longitude":-126.881009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lawanth 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743053,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566519990,
     "wof:name":"Lawanth 5",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-64.783929,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.788929,46.096085,-64.778929,46.106085",
     "lbl:latitude":46.101085,
     "lbl:longitude":-64.783929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.099844,
     "mps:longitude":-64.783139,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Spurr"
     ],
     "name:fra_x_preferred":[
-        "Spurr"
-    ],
-    "name:unk_x_variant":[
         "Spurr"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856603,
-        "qs:id":381630,
         "qs_pg:id":381630
     },
     "wof:country":"CA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170687,
+    "wof:lastmodified":1566518947,
     "wof:name":"Spurr",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

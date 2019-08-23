@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001481,
-    "geom:area_square_m":13227786.681477,
+    "geom:area_square_m":13227786.681488,
     "geom:bbox":"-79.521735457,43.742518813,-79.46277154,43.787283202",
     "geom:latitude":43.765738,
     "geom:longitude":-79.488883,
     "iso:country":"CA",
     "lbl:latitude":43.767497,
     "lbl:longitude":-79.489336,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.767497,
     "mps:longitude":-79.489336,
     "mz:hierarchy_label":1,
@@ -32,12 +33,12 @@
     "torsdfa:AREA_NAME":"York University Heights (27)",
     "torsdfa:AREA_S_CD":"027",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108906339,
-    "wof:lastmodified":1533272664,
+    "wof:lastmodified":1566519294,
     "wof:name":"York University Heights",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

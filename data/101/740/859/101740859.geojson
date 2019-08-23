@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.421819,
     "lbl:longitude":-127.484448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.421819,
     "mps:longitude":-127.484448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0623\u0644\u064a\u0633"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.426418,
     "wd:longitude":-127.488458,
     "wd:wordcount":396,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":6111640,
         "gp:id":9499,
-        "qs:id":894851,
         "qs_pg:id":894851,
         "wd:id":"Q2957506",
         "wk:page":"Port Alice"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101740859,
-    "wof:lastmodified":1563284796,
+    "wof:lastmodified":1566519554,
     "wof:name":"Port Alice",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

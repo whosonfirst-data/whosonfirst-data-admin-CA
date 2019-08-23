@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
+    "geom:area_square_m":300482.286496,
     "geom:bbox":"-130.4138486,54.6346747,-130.4044657,54.6407358",
     "geom:latitude":54.638382,
     "geom:longitude":-130.408698,
     "iso:country":"CA",
     "lbl:latitude":54.63846,
     "lbl:longitude":-130.407202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.63846,
     "mps:longitude":-130.407202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tymgowzan 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743477,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519988,
     "wof:name":"Tymgowzan 12",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

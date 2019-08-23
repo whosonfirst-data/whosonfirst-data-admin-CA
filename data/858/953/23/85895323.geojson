@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12762070.690049,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.941932,43.510729,-79.941932,43.510729",
     "geom:latitude":43.510729,
     "geom:longitude":-79.941932,
     "iso:country":"CA",
+    "lbl:bbox":"-79.946932,43.505729,-79.936932,43.515729",
     "lbl:latitude":43.510729,
     "lbl:longitude":-79.941932,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.511903,
     "mps:longitude":-79.929104,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Milton Heights"
-    ],
-    "name:unk_x_variant":[
         "Milton Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736383,
         85633041,
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931381,
+    "wof:lastmodified":1566518946,
     "wof:name":"Milton Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":6345693.548896,
+    "geom:area_square_m":6345693.548898,
     "geom:bbox":"-123.179072082,49.2054835328,-123.139595032,49.2347221374",
     "geom:latitude":49.224092,
     "geom:longitude":-123.159424,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.223158,
     "lbl:longitude":-123.159952,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.218251,
     "mps:longitude":-123.159328,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Kerrisdale"
     ],
     "name:slk_x_preferred":[
-        "Kerrisdale"
-    ],
-    "name:unk_x_variant":[
         "Kerrisdale"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -68,7 +66,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"KERR",
     "vanpds:NAME":"Kerrisdale",
     "wd:wordcount":831,
@@ -82,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404950,
-        "qs:id":1087711,
         "qs_pg:id":1087711,
         "wd:id":"Q3506834"
     },
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335937,
+    "wof:lastmodified":1566518967,
     "wof:name":"Kerrisdale",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

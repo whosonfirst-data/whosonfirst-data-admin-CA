@@ -11,8 +11,10 @@
     "geom:longitude":-79.808071,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.813071,43.731812,-79.803071,43.741812",
     "lbl:latitude":43.736812,
     "lbl:longitude":-79.808071,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.734131,
     "mps:longitude":-79.794911,
     "mz:hierarchy_label":0,
@@ -618,9 +620,6 @@
     "name:twi_x_preferred":[
         "Snelgrove"
     ],
-    "name:unk_x_variant":[
-        "Snelgrove"
-    ],
     "name:vec_x_preferred":[
         "Snelgrove"
     ],
@@ -692,7 +691,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191575,
@@ -704,7 +703,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999431,
-        "qs:id":1306594,
         "qs_pg:id":1306594,
         "wd:id":"Q7547604"
     },
@@ -730,7 +728,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281817,
+    "wof:lastmodified":1566518943,
     "wof:name":"Snelgrove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

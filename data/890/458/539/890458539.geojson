@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.356515,
     "lbl:longitude":-61.678161,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.356515,
     "mps:longitude":-61.678161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Guysborough"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Guysborough",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1213",
@@ -48,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375142,
-        "qs:id":890814
+        "qs_pg:id":890814
     },
     "wof:country":"CA",
     "wof:created":1469053222,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890458539,
-    "wof:lastmodified":1554759450,
+    "wof:lastmodified":1566520120,
     "wof:name":"Guysborough",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

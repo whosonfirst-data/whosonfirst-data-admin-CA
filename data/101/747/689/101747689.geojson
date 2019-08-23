@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
+    "geom:area_square_m":994097.653765,
     "geom:bbox":"-62.6779643,45.6452538,-62.6455362,45.6575482",
     "geom:latitude":45.651362,
     "geom:longitude":-62.660154,
     "iso:country":"CA",
     "lbl:latitude":45.651983,
     "lbl:longitude":-62.660727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.651983,
     "mps:longitude":-62.660727,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boat Harbour West Indian Reserve No. 37"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747689,
-    "wof:lastmodified":1532597799,
+    "wof:lastmodified":1566519621,
     "wof:name":"Boat Harbour West Indian Reserve No. 37",
     "wof:parent_id":890458615,
     "wof:placetype":"locality",

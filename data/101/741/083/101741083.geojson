@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.481368,
     "lbl:longitude":-124.216976,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.481368,
     "mps:longitude":-124.216976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fort St. James"
     ],
@@ -28,7 +31,7 @@
     "name:fra_x_preferred":[
         "Fort St. James"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Saint James"
     ],
     "name:urd_x_preferred":[
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":712,
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":5881688,
         "gp:id":9127,
-        "qs:id":246425,
         "qs_pg:id":246425,
         "wd:id":"Q177800",
         "wk:page":"Fort St. James"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101741083,
-    "wof:lastmodified":1561844435,
+    "wof:lastmodified":1566519861,
     "wof:name":"Fort St. James",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

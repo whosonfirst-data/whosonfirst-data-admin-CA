@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.699075,
     "lbl:longitude":-121.349334,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.699075,
     "mps:longitude":-121.349334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0634\u0643\u0631\u0648\u0641\u062a"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.7256,
     "wd:longitude":-121.281,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":5887531,
         "gp:id":9632,
-        "qs:id":1249101,
         "qs_pg:id":1249101,
         "wd:id":"Q2739451",
         "wk:page":"Ashcroft, British Columbia"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101740951,
-    "wof:lastmodified":1563284837,
+    "wof:lastmodified":1566519569,
     "wof:name":"Ashcroft",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

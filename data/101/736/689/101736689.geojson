@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":51.182654,
     "lbl:longitude":-58.517703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.182654,
     "mps:longitude":-58.517703,
     "mz:hierarchy_label":1,
@@ -171,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
     "wof:belongsto":[
@@ -184,7 +186,6 @@
         "fct:id":"03bd9516-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6137462,
         "gp:id":23395563,
-        "qs:id":160364,
         "qs_pg:id":160364,
         "wd:id":"Q2212297"
     },
@@ -202,7 +203,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284386,
+    "wof:lastmodified":1566519464,
     "wof:name":"Saint-Augustin",
     "wof:parent_id":136251273,
     "wof:placetype":"locality",

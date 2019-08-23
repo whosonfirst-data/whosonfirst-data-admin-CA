@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.925333,
     "lbl:longitude":-75.093536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.925333,
     "mps:longitude":-75.093536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lac-Simon"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6042690,
         "gp:id":23394401,
-        "qs:id":24473,
         "qs_pg:id":24473,
         "wd:id":"Q3214661",
         "wk:page":"Lac-Simon, Outaouais, Quebec"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101737941,
-    "wof:lastmodified":1563284191,
+    "wof:lastmodified":1566519425,
     "wof:name":"Lac-Simon",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

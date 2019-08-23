@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
+    "geom:area_square_m":658269.082614,
     "geom:bbox":"-83.3920498,47.8371483,-83.3806032,47.8443623",
     "geom:latitude":47.840631,
     "geom:longitude":-83.386184,
     "iso:country":"CA",
     "lbl:latitude":47.840755,
     "lbl:longitude":-83.386184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.840755,
     "mps:longitude":-83.386184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chapleau Indian Reserve No. 61A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741153,
-    "wof:lastmodified":1533335657,
+    "wof:lastmodified":1566519881,
     "wof:name":"Chapleau Indian Reserve No. 61A",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",

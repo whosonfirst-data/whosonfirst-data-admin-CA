@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2881623.972574,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.644865,44.374503,-79.644865,44.374503",
     "geom:latitude":44.374503,
     "geom:longitude":-79.644865,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.649865,44.369503,-79.639865,44.379503",
     "lbl:latitude":44.374503,
     "lbl:longitude":-79.644865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.378812,
     "mps:longitude":-79.647377,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "G\u00e9rard de Lally-Tollendal"
-    ],
-    "name:unk_x_variant":[
-        "Tollendal"
     ],
     "name:zho_x_preferred":[
         "\u683c\u54c8\u5fb7\u00b7\u5fb7\u00b7\u62c9\u5229\u6258\u52d2\u8fbe\u52d2"
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -84,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399836,
-        "qs:id":224221,
         "qs_pg:id":224221
     },
     "wof:country":"CA",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870943,
+    "wof:lastmodified":1566519008,
     "wof:name":"Tollendal",
     "wof:parent_id":101735527,
     "wof:placetype":"neighbourhood",

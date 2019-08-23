@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5455978.668788,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.498057,45.422519,-73.498057,45.422519",
     "geom:latitude":45.422519,
     "geom:longitude":-73.498057,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.503057,45.417519,-73.493057,45.427519",
     "lbl:latitude":45.422519,
     "lbl:longitude":-73.498057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.425486,
     "mps:longitude":-73.505474,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Vieux Fort"
     ],
     "name:fra_x_preferred":[
-        "Vieux Fort"
-    ],
-    "name:unk_x_variant":[
         "Vieux Fort"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":391,
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101736521,
-        890457731,
-        136251273
+        890457731
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856818,
-        "qs:id":1332300,
         "qs_pg:id":1332300
     },
     "wof:country":"CA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872230,
+    "wof:lastmodified":1566519002,
     "wof:name":"Vieux Fort",
     "wof:parent_id":101736521,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000493,
+    "geom:area_square_m":3971196.436219,
     "geom:bbox":"-94.6317619,49.3499404,-94.5974859,49.3686586",
     "geom:latitude":49.360647,
     "geom:longitude":-94.615842,
     "iso:country":"CA",
     "lbl:latitude":49.360371,
     "lbl:longitude":-94.61584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.360371,
     "mps:longitude":-94.61584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Agency Indian Reserve No. 30"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741141,
-    "wof:lastmodified":1533335656,
+    "wof:lastmodified":1566519899,
     "wof:name":"Agency Indian Reserve No. 30",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

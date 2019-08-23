@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.453232,
     "lbl:longitude":-75.657176,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.477856,
     "mps:longitude":-75.638686,
     "mz:hierarchy_label":1,
@@ -39,20 +40,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":100,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855932,
-        "qs:id":1089488,
         "qs_pg:id":1089488,
         "wd:id":"Q4309859"
     },
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277896,
+    "wof:lastmodified":1566519015,
     "wof:name":"Manor Park",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

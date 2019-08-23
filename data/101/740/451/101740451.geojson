@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.452856,
     "lbl:longitude":-108.52169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.452856,
     "mps:longitude":-108.52169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parkdale No. 498"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101740451,
-    "wof:lastmodified":1535390445,
+    "wof:lastmodified":1566519578,
     "wof:name":"Parkdale No. 498",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

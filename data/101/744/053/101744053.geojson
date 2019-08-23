@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":20958.749958,
     "geom:bbox":"-121.1469057,51.0558965,-121.1448855,51.0573163",
     "geom:latitude":51.056638,
     "geom:longitude":-121.145922,
     "iso:country":"CA",
     "lbl:latitude":51.056624,
     "lbl:longitude":-121.145905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.056624,
     "mps:longitude":-121.145905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hihium Lake 6A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744053,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566519969,
     "wof:name":"Hihium Lake 6A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

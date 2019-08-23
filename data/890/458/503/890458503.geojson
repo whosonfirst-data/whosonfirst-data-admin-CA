@@ -14,15 +14,18 @@
     "geom:longitude":-113.540756,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.379636,
     "lbl:longitude":-113.539001,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.379636,
     "mps:longitude":-113.539001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u064a\u0643\u0631"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":915.0,
     "wd:latitude":"51.387",
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":5897594,
         "gp:id":8763,
-        "qs:id":1229774,
+        "qs_pg:id":1229774,
         "wd:id":"Q814861",
         "wk:page":"Beiseker"
     },
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890458503,
-    "wof:lastmodified":1563285937,
+    "wof:lastmodified":1566520099,
     "wof:name":"Beiseker",
     "wof:parent_id":1158863227,
     "wof:placetype":"locality",

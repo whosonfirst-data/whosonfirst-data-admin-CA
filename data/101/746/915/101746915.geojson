@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":2149836.261314,
     "geom:bbox":"-122.206757,49.0403574,-122.1833593,49.0608866",
     "geom:latitude":49.052365,
     "geom:longitude":-122.19486,
     "iso:country":"CA",
     "lbl:latitude":49.049944,
     "lbl:longitude":-122.186669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.049944,
     "mps:longitude":-122.186669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Upper Sumas 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746915,
-    "wof:lastmodified":1533335922,
+    "wof:lastmodified":1566519823,
     "wof:name":"Upper Sumas 6",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

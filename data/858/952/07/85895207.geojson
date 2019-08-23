@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.802983,
     "lbl:longitude":-79.114976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.799758,
     "mps:longitude":-79.116508,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":125,
     "wof:belongsto":[
         85682057,
@@ -49,7 +50,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999190,
-        "qs:id":1306579,
         "qs_pg:id":1306579
     },
     "wof:controlled":[],
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170707,
+    "wof:lastmodified":1566518952,
     "wof:name":"Rosebank",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4062.397157,
     "geom:bbox":"-125.281058,54.9857947,-125.279932,54.9864091",
     "geom:latitude":54.986103,
     "geom:longitude":-125.280503,
     "iso:country":"CA",
     "lbl:latitude":54.986098,
     "lbl:longitude":-125.280517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.986098,
     "mps:longitude":-125.280517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Natazutlooh 25"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745267,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566520052,
     "wof:name":"Natazutlooh 25",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

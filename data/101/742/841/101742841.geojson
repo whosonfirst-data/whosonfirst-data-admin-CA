@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":26277.686922,
     "geom:bbox":"-132.3133339,53.6224577,-132.3107412,53.6250854",
     "geom:latitude":53.623843,
     "geom:longitude":-132.311625,
     "iso:country":"CA",
     "lbl:latitude":53.62388,
     "lbl:longitude":-132.311601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.62388,
     "mps:longitude":-132.311601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mammin River 25"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742841,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520023,
     "wof:name":"Mammin River 25",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

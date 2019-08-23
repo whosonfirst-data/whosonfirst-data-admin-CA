@@ -9,14 +9,17 @@
     "geom:bbox":"-73.053614653,45.334223128,-72.919285124,45.479368627",
     "geom:latitude":45.408696,
     "geom:longitude":-72.985453,
-    "geonames:id":"6137571,6137573",
+    "gn:id":"6137571,6137573",
     "iso:country":"CA",
     "lbl:latitude":45.408603,
     "lbl:longitude":-72.986486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.408603,
     "mps:longitude":-72.986486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Saint-C\u00e9saire"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191575,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101738833,
-    "wof:lastmodified":1563284632,
+    "wof:lastmodified":1566519516,
     "wof:name":"Saint-C\u00e9saire",
     "wof:parent_id":890456513,
     "wof:placetype":"locality",

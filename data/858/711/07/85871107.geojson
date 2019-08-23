@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.60118,
     "lbl:longitude":-73.777035,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.630387,
     "mps:longitude":-73.804486,
     "mz:hierarchy_label":1,
@@ -39,7 +40,7 @@
     "name:swe_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sainte Rose"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -73,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":45.6167,
     "wd:longitude":-73.7833,
     "wd:wordcount":350,
@@ -90,7 +91,7 @@
     "wof:concordances":{
         "gn:id":6138085,
         "gp:id":29374072,
-        "qs:id":1184812,
+        "qs_pg:id":1184812,
         "wd:id":"Q3464411",
         "wk:page":"Sainte-Rose, Quebec"
     },
@@ -110,7 +111,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844225,
+    "wof:lastmodified":1566519023,
     "wof:name":"Sainte-Rose",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

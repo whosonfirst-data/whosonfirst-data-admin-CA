@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.545277,
     "lbl:longitude":-68.571163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.545277,
     "mps:longitude":-68.571163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u062c\u064a\u0644\u064a\u0633"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":333,
     "wof:belongsto":[
         102191575,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":6945985,
         "gp:id":1474,
-        "qs:id":898052,
         "qs_pg:id":898052,
         "wd:id":"Q141599",
         "wk:page":"D\u00e9gelis"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101738625,
-    "wof:lastmodified":1563284691,
+    "wof:lastmodified":1566519527,
     "wof:name":"D\u00e9gelis",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

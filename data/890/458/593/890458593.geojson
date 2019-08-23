@@ -14,16 +14,18 @@
     "geom:longitude":-119.424256,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":2219,
     "gn:population":2219,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":55.210496,
     "lbl:longitude":-119.42426,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.210496,
     "mps:longitude":-119.42426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0430\u0432\u0435\u0440\u043b\u043e\u0434\u0433\u0435"
     ],
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":730.0,
     "wd:latitude":"55.2094",
@@ -94,7 +96,7 @@
     "wof:concordances":{
         "gn:id":5896969,
         "gp:id":8375,
-        "qs:id":210421,
+        "qs_pg:id":210421,
         "wd:id":"Q813506",
         "wk:page":"Beaverlodge"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":890458593,
-    "wof:lastmodified":1563285919,
+    "wof:lastmodified":1566520095,
     "wof:name":"Beaverlodge",
     "wof:parent_id":1158863179,
     "wof:placetype":"locality",

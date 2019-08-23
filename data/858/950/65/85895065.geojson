@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6994136.111637,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.423279,44.006118,-79.423279,44.006118",
     "geom:latitude":44.006118,
     "geom:longitude":-79.423279,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.428279,44.001118,-79.418279,44.011118",
     "lbl:latitude":44.006118,
     "lbl:longitude":-79.423279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.006444,
     "mps:longitude":-79.420825,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Bayview Club"
-    ],
-    "name:unk_x_variant":[
         "Bayview Club"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,21 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":360,
     "wof:belongsto":[
         102191575,
         101736049,
         85633041,
-        101736049,
-        890458415,
         85682057,
         101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999057,
-        "qs:id":422016,
         "qs_pg:id":422016
     },
     "wof:country":"CA",
@@ -98,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931318,
+    "wof:lastmodified":1566518990,
     "wof:name":"Bayview Club",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

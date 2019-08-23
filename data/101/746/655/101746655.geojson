@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
+    "geom:area_square_m":1068111.081945,
     "geom:bbox":"-92.4423691,54.6271846,-92.4211956,54.6343709",
     "geom:latitude":54.630784,
     "geom:longitude":-92.431835,
     "iso:country":"CA",
     "lbl:latitude":54.630784,
     "lbl:longitude":-92.431835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.630784,
     "mps:longitude":-92.431835,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chepi Lake"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746655,
-    "wof:lastmodified":1533069719,
+    "wof:lastmodified":1566519839,
     "wof:name":"Chepi Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

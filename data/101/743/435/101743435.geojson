@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":27360.894693,
     "geom:bbox":"-129.7857968,53.2495863,-129.7813711,53.2508488",
     "geom:latitude":53.250103,
     "geom:longitude":-129.783107,
     "iso:country":"CA",
     "lbl:latitude":53.250145,
     "lbl:longitude":-129.783057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.250145,
     "mps:longitude":-129.783057,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kitlawaoo 10"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":12523263
     },
     "wof:country":"CA",
-    "wof:geomhash":"f50d876f87f67fd3b9fc60175709721a",
+    "wof:geomhash":"c4257d492716289065102c597addf331",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743435,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566520003,
     "wof:name":"Kitlawaoo 10",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

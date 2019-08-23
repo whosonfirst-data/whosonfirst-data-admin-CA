@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5722938.201798,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.448917,45.631612,-73.448917,45.631612",
     "geom:latitude":45.631612,
     "geom:longitude":-73.448917,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.631612,
     "lbl:longitude":-73.448917,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.635812,
     "mps:longitude":-73.452363,
     "mz:hierarchy_label":0,
@@ -29,9 +30,6 @@
         "Des Gouverneurs"
     ],
     "name:fra_x_preferred":[
-        "Des Gouverneurs"
-    ],
-    "name:unk_x_variant":[
         "Des Gouverneurs"
     ],
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856791,
-        "qs:id":1246257,
         "qs_pg:id":1246257
     },
     "wof:country":"CA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872213,
+    "wof:lastmodified":1566519002,
     "wof:name":"Des Gouverneurs",
     "wof:parent_id":101738135,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.475694,
     "lbl:longitude":-67.262728,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.475694,
     "mps:longitude":-67.262728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Alexandre-des-Lacs"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":121,
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101738515,
-    "wof:lastmodified":1563284760,
+    "wof:lastmodified":1566519541,
     "wof:name":"Saint-Alexandre-des-Lacs",
     "wof:parent_id":890457571,
     "wof:placetype":"locality",

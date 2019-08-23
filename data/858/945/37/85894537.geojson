@@ -11,8 +11,10 @@
     "geom:longitude":-113.327458,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.332458,53.511196,-113.322458,53.521196",
     "lbl:latitude":53.516196,
     "lbl:longitude":-113.327458,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.511816,
     "mps:longitude":-113.341388,
     "mz:hierarchy_label":0,
@@ -37,7 +39,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":127,
     "wof:belongsto":[
         85682091,
@@ -49,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998566,
-        "qs:id":1306521,
         "qs_pg:id":1306521,
         "wd:id":"Q7930705"
     },
@@ -69,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282202,
+    "wof:lastmodified":1566519020,
     "wof:name":"Village on the Lake",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

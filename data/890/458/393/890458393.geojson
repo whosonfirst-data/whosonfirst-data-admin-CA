@@ -14,12 +14,13 @@
     "geom:longitude":-112.831721,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":15686,
     "gn:population":15686,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.009479,
     "lbl:longitude":-112.83628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.009479,
     "mps:longitude":-112.83628,
     "mz:hierarchy_label":1,
@@ -282,7 +283,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -295,7 +296,7 @@
     "wof:concordances":{
         "gn:id":5914653,
         "gp:id":8528,
-        "qs:id":1252475,
+        "qs_pg:id":1252475,
         "wd:id":"Q775610",
         "wk:page":"Camrose"
     },
@@ -312,7 +313,7 @@
         }
     ],
     "wof:id":890458393,
-    "wof:lastmodified":1563286042,
+    "wof:lastmodified":1566520124,
     "wof:name":"Camrose",
     "wof:parent_id":1158863165,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.669105,
     "lbl:longitude":-79.471231,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.666551,
     "mps:longitude":-79.47338,
     "mz:hierarchy_label":1,
@@ -36,10 +37,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b6 \u30b8\u30e3\u30f3\u30af\u30b7\u30e7\u30f3"
-    ],
-    "name:unk_x_variant":[
-        "West Toronto",
-        "Junction Area"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,21 +65,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Junction Area (90)",
     "torsdfa:AREA_S_CD":"090",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833321,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332332,
-        "qs:id":890458,
         "qs_pg:id":890458,
         "wd:id":"Q7743816"
     },
@@ -104,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272676,
+    "wof:lastmodified":1566519012,
     "wof:name":"The Junction",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000661,
+    "geom:area_square_m":5324731.638317,
     "geom:bbox":"-121.5715482,49.362825,-121.504776,49.3805265",
     "geom:latitude":49.37401,
     "geom:longitude":-121.542306,
     "iso:country":"CA",
     "lbl:latitude":49.375152,
     "lbl:longitude":-121.544994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.375152,
     "mps:longitude":-121.544994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chawathil 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744781,
-    "wof:lastmodified":1533335899,
+    "wof:lastmodified":1566519981,
     "wof:name":"Chawathil 4",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.474523,
     "lbl:longitude":-67.438353,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.474523,
     "mps:longitude":-67.438353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Amqui"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":6943488,
         "gp:id":3606,
-        "qs:id":161001,
         "qs_pg:id":161001,
         "wd:id":"Q139714",
         "wk:page":"Amqui"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101736533,
-    "wof:lastmodified":1563284347,
+    "wof:lastmodified":1566519456,
     "wof:name":"Amqui",
     "wof:parent_id":890457571,
     "wof:placetype":"locality",

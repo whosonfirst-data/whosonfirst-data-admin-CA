@@ -11,8 +11,10 @@
     "geom:longitude":-119.458339,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.463339,49.86811,-119.453339,49.87811",
     "lbl:latitude":49.87311,
     "lbl:longitude":-119.458339,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.861349,
     "mps:longitude":-119.45025,
     "mz:hierarchy_label":0,
@@ -166,9 +168,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0440\u0438\u043d\u0433\u0444\u0456\u043b\u0434"
     ],
-    "name:unk_x_variant":[
-        "Springfield"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u067e\u0631\u0646\u06af \u0641\u06cc\u0644\u0688"
     ],
@@ -213,7 +212,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -224,7 +223,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856450,
-        "qs:id":381576,
         "qs_pg:id":381576
     },
     "wof:country":"CA",
@@ -243,7 +241,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170700,
+    "wof:lastmodified":1566518949,
     "wof:name":"Springfield",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

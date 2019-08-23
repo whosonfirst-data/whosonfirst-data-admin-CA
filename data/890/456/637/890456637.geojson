@@ -11,11 +11,15 @@
     "geom:longitude":-61.49854,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
+    "lbl:bbox":"-61.51854,45.36345,-61.47854,45.40345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Guysborough"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":5968619,
         "gp:id":3774,
-        "qs:id":336329
+        "qs_pg:id":336329
     },
     "wof:country":"CA",
     "wof:created":1469053064,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890456637,
-    "wof:lastmodified":1532597572,
+    "wof:lastmodified":1566520189,
     "wof:name":"Guysborough",
     "wof:parent_id":890458539,
     "wof:placetype":"locality",

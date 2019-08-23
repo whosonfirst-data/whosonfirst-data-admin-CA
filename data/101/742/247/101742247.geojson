@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003183,
+    "geom:area_square_m":23395020.098901,
     "geom:bbox":"-106.1021435,53.5180529,-105.8995876,53.5397978",
     "geom:latitude":53.531625,
     "geom:longitude":-106.003894,
     "iso:country":"CA",
     "lbl:latitude":53.528918,
     "lbl:longitude":-106.042547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.528918,
     "mps:longitude":-106.042547,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Montreal Lake I.R. 106B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742247,
-    "wof:lastmodified":1531524556,
+    "wof:lastmodified":1566520024,
     "wof:name":"Montreal Lake I.R. 106B",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

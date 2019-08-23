@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
+    "geom:area_square_m":232820.888029,
     "geom:bbox":"-122.2756406,52.0564775,-122.2706565,52.0638116",
     "geom:latitude":52.060238,
     "geom:longitude":-122.272937,
     "iso:country":"CA",
     "lbl:latitude":52.05994,
     "lbl:longitude":-122.272905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.05994,
     "mps:longitude":-122.272905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chimney Creek 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747837,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566519740,
     "wof:name":"Chimney Creek 5",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

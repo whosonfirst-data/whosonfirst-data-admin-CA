@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
+    "geom:area_square_m":230833.481406,
     "geom:bbox":"-121.486296,49.9589047,-121.4806791,49.9643328",
     "geom:latitude":49.96154,
     "geom:longitude":-121.483571,
     "iso:country":"CA",
     "lbl:latitude":49.961492,
     "lbl:longitude":-121.483669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.961492,
     "mps:longitude":-121.483669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kahmoose 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744203,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566519969,
     "wof:name":"Kahmoose 4",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

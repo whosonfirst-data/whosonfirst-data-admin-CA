@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2015913.017872,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.766724,46.102126,-64.766724,46.102126",
     "geom:latitude":46.102126,
     "geom:longitude":-64.766724,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-64.771724,46.097126,-64.761724,46.107126",
     "lbl:latitude":46.102126,
     "lbl:longitude":-64.766724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.103277,
     "mps:longitude":-64.766783,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Silas Lane"
-    ],
-    "name:unk_x_variant":[
         "Silas Lane"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735369,
-        890456317,
-        85682065
+        890456317
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856604,
-        "qs:id":381625,
         "qs_pg:id":381625
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872135,
+    "wof:lastmodified":1566518947,
     "wof:name":"Silas Lane",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

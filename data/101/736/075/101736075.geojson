@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.322331,
     "lbl:longitude":-81.090394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.322331,
     "mps:longitude":-81.090394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Perth South"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":235,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101736075,
-    "wof:lastmodified":1563284503,
+    "wof:lastmodified":1566519491,
     "wof:name":"Perth South",
     "wof:parent_id":890456811,
     "wof:placetype":"locality",

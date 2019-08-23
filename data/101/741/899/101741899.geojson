@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
+    "geom:area_square_m":2524126.520471,
     "geom:bbox":"-102.1253339,52.1147768,-102.0543996,52.1292666",
     "geom:latitude":52.120313,
     "geom:longitude":-102.093182,
     "iso:country":"CA",
     "lbl:latitude":52.118464,
     "lbl:longitude":-102.113762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.118464,
     "mps:longitude":-102.113762,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Okanese I.R. 82(S)"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741899,
-    "wof:lastmodified":1531525257,
+    "wof:lastmodified":1566519896,
     "wof:name":"Okanese I.R. 82(S)",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

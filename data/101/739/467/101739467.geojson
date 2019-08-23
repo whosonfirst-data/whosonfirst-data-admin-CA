@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.634593,
     "lbl:longitude":-102.436662,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.634593,
     "mps:longitude":-102.436662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Canora"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":487.0,
     "wd:latitude":51.6339,
@@ -84,7 +87,6 @@
         "fct:id":"03bfbb34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5915098,
         "gp:id":211,
-        "qs:id":1328070,
         "qs_pg:id":1328070,
         "wd:id":"Q1099134",
         "wk:page":"Canora, Saskatchewan"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284068,
+    "wof:lastmodified":1566519406,
     "wof:name":"Canora",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

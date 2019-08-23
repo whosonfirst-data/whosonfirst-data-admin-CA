@@ -14,15 +14,18 @@
     "geom:longitude":-112.931582,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.802089,
     "lbl:longitude":-112.930073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.802089,
     "mps:longitude":-112.930073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u0434\u0435\u0440\u0445\u0435\u0438\u043c"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":637.0,
     "wd:latitude":"53.8042",
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":5910168,
         "gp:id":23403849,
-        "qs:id":1313396,
+        "qs_pg:id":1313396,
         "wd:id":"Q2493627",
         "wk:page":"Bruderheim"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890456515,
-    "wof:lastmodified":1563286330,
+    "wof:lastmodified":1566520199,
     "wof:name":"Bruderheim",
     "wof:parent_id":1158863199,
     "wof:placetype":"locality",

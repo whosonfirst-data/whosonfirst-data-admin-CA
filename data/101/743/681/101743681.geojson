@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":41147.093491,
     "geom:bbox":"-128.1623127,52.4714944,-128.1600751,52.4751058",
     "geom:latitude":52.473403,
     "geom:longitude":-128.160936,
     "iso:country":"CA",
     "lbl:latitude":52.473333,
     "lbl:longitude":-128.160915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.473333,
     "mps:longitude":-128.160915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Neekas 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743681,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1566519987,
     "wof:name":"Neekas 4",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

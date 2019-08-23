@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12425165.288325,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.127815,46.262203,-60.127815,46.262203",
     "geom:latitude":46.262203,
     "geom:longitude":-60.127815,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-60.132815,46.257203,-60.122815,46.267203",
     "lbl:latitude":46.262203,
     "lbl:longitude":-60.127815,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.259759,
     "mps:longitude":-60.132705,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:gla_x_preferred":[
         "Bhioctoria \u00d9r"
-    ],
-    "name:unk_x_variant":[
-        "New Victoria"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -61,18 +60,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191575,
         85633041,
-        890457747,
         85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23392147,
-        "qs:id":421341,
         "qs_pg:id":421341,
         "wd:id":"Q7012255"
     },
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870864,
+    "wof:lastmodified":1566518956,
     "wof:name":"New Victoria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

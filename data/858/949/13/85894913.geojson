@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1634693.883948,
+    "geom:area_square_m":1634693.883946,
     "geom:bbox":"-123.102621706,49.3131884,-123.084810997,49.3310545222",
     "geom:latitude":49.322095,
     "geom:longitude":-123.09632,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.318723,
     "lbl:longitude":-123.097218,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.321587,
     "mps:longitude":-123.095584,
     "mz:hierarchy_label":0,
@@ -29,9 +30,6 @@
         "Hamilton"
     ],
     "name:eng_x_variant":[
-        "Hamilton"
-    ],
-    "name:unk_x_variant":[
         "Hamilton"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -76,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998926,
-        "qs:id":220638
+        "qs_pg:id":220638
     },
     "wof:country":"CA",
     "wof:geomhash":"41bfa888fa1f410f64861ecbbade6f3d",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335943,
+    "wof:lastmodified":1566518981,
     "wof:name":"Marine-Hamilton",
     "wof:parent_id":101741057,
     "wof:placetype":"neighbourhood",

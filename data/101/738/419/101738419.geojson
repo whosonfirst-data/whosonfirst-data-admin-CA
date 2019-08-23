@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.132525,
     "lbl:longitude":-73.214838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.132525,
     "mps:longitude":-73.214838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0646\u0631\u064a\u0641\u064a\u0644"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":5974029,
         "gp:id":55999744,
-        "qs:id":207972,
+        "qs_pg:id":207972,
         "wd:id":"Q742484",
         "wk:page":"Henryville, Quebec"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101738419,
-    "wof:lastmodified":1563284687,
+    "wof:lastmodified":1566519526,
     "wof:name":"Henryville",
     "wof:parent_id":890456809,
     "wof:placetype":"locality",

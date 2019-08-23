@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.396446,
     "lbl:longitude":-115.935036,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.396446,
     "mps:longitude":-115.935036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Big Lakes"
     ],
@@ -28,7 +31,7 @@
     "reversegeo:longitude":-115.935036,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1995-01-01",
     "wd:population":5672,
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1158863315,
-    "wof:lastmodified":1554759650,
+    "wof:lastmodified":1566520361,
     "wof:name":"Big Lakes",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

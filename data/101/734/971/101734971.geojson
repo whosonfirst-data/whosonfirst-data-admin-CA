@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.841243,
     "lbl:longitude":-99.943882,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.841243,
     "mps:longitude":-99.943882,
     "mz:hierarchy_label":1,
@@ -289,7 +291,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.833333,
     "wd:longitude":-99.95,
@@ -305,7 +307,6 @@
         "fct:id":"03c04496-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5907896,
         "gp:id":3016,
-        "qs:id":1252223,
         "qs_pg:id":1252223,
         "wd:id":"Q61432",
         "wk:page":"Brandon, Manitoba"
@@ -325,7 +326,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285256,
+    "wof:lastmodified":1566519908,
     "wof:name":"Brandon",
     "wof:parent_id":1158868985,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":20601.403962,
     "geom:bbox":"-130.1505322,54.1458871,-130.147309,54.1472266",
     "geom:latitude":54.146416,
     "geom:longitude":-130.148915,
     "iso:country":"CA",
     "lbl:latitude":54.146546,
     "lbl:longitude":-130.149068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.146546,
     "mps:longitude":-130.149068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kshaoom 23"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743463,
-    "wof:lastmodified":1533335878,
+    "wof:lastmodified":1566519990,
     "wof:name":"Kshaoom 23",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

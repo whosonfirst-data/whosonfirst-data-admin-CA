@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.852326,
     "lbl:longitude":-97.277088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.852062,
     "mps:longitude":-97.276747,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968509,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108937491,
-    "wof:lastmodified":1564172094,
+    "wof:lastmodified":1566519261,
     "wof:name":"Eric Coy",
     "wof:parent_id":1108968509,
     "wof:placetype":"neighbourhood",

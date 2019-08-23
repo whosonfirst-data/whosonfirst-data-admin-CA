@@ -14,15 +14,18 @@
     "geom:longitude":-113.485487,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.590664,
     "lbl:longitude":-113.485487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.590664,
     "mps:longitude":-113.485487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u062f\u0646"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":537,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":6054313,
         "gp:id":8756,
-        "qs:id":1256225,
+        "qs_pg:id":1256225,
         "wd:id":"Q6552236",
         "wk:page":"Linden"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890457223,
-    "wof:lastmodified":1563286464,
+    "wof:lastmodified":1566520242,
     "wof:name":"Linden",
     "wof:parent_id":1158863191,
     "wof:placetype":"locality",

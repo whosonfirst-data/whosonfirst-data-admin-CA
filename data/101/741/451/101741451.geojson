@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012186,
+    "geom:area_square_m":90778610.451503,
     "geom:bbox":"-91.3931918,52.8919165,-91.1613316,53.0143878",
     "geom:latitude":52.953403,
     "geom:longitude":-91.267932,
     "iso:country":"CA",
     "lbl:latitude":52.939449,
     "lbl:longitude":-91.231164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.939449,
     "mps:longitude":-91.231164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weagamow Lake Indian Reserve No. 87"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101741451,
-    "wof:lastmodified":1533335673,
+    "wof:lastmodified":1566519893,
     "wof:name":"Weagamow Lake Indian Reserve No. 87",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

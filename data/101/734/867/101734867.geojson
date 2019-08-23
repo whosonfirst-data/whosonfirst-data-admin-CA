@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.446835,
     "lbl:longitude":-101.304159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.446835,
     "mps:longitude":-101.304159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "St-Lazare"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.4489,
     "wd:longitude":-101.304,
     "wd:wordcount":134,
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285250,
+    "wof:lastmodified":1566519908,
     "wof:name":"St-Lazare",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

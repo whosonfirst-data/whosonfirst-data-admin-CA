@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.166522,
     "lbl:longitude":-72.236349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.166522,
     "mps:longitude":-72.236349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u062a\u0648\u0646 \u062c\u0648\u0646\u0643\u0633\u064a\u0648\u0646"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191575,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":5887852,
         "gp:id":28,
-        "qs:id":1115301,
         "qs_pg:id":1115301,
         "wd:id":"Q2868453",
         "wk:page":"Aston-Jonction, Quebec"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101736625,
-    "wof:lastmodified":1563284494,
+    "wof:lastmodified":1566519490,
     "wof:name":"Aston-Jonction",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

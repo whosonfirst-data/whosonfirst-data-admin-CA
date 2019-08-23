@@ -11,8 +11,10 @@
     "geom:longitude":-80.484343,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.489343,43.446501,-80.479343,43.456501",
     "lbl:latitude":43.451501,
     "lbl:longitude":-80.484343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.452756,
     "mps:longitude":-80.481568,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Civic District"
-    ],
-    "name:unk_x_variant":[
         "Civic District"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":114,
     "wof:belongsto":[
         85682057,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856249,
-        "qs:id":230680,
         "qs_pg:id":230680,
         "wd:id":"Q5124297"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281983,
+    "wof:lastmodified":1566518977,
     "wof:name":"Civic District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

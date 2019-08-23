@@ -14,16 +14,18 @@
     "geom:longitude":-113.996956,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":8939,
     "gn:population":8939,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.530212,
     "lbl:longitude":-114.002143,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.530212,
     "mps:longitude":-114.002143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stony Plain"
     ],
@@ -66,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -79,7 +81,7 @@
     "wof:concordances":{
         "gn:id":6157536,
         "gp:id":8682,
-        "qs:id":1053583,
+        "qs_pg:id":1053583,
         "wd:id":"Q1744021",
         "wk:page":"Stony Plain"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":890456943,
-    "wof:lastmodified":1563286328,
+    "wof:lastmodified":1566520199,
     "wof:name":"Stony Plain",
     "wof:parent_id":1158863215,
     "wof:placetype":"locality",

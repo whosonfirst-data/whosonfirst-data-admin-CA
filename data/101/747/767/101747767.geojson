@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001409,
+    "geom:area_square_m":12297736.134666,
     "geom:bbox":"-63.5206334,45.0670292,-63.4512599,45.1086606",
     "geom:latitude":45.089641,
     "geom:longitude":-63.489809,
     "iso:country":"CA",
     "lbl:latitude":45.090343,
     "lbl:longitude":-63.488194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.090343,
     "mps:longitude":-63.488194,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Indian Brook Indian Reserve No. 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747767,
-    "wof:lastmodified":1532597542,
+    "wof:lastmodified":1566519687,
     "wof:name":"Indian Brook Indian Reserve No. 14",
     "wof:parent_id":890458537,
     "wof:placetype":"locality",

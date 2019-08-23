@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
+    "geom:area_square_m":1413819.761688,
     "geom:bbox":"-121.4101493,49.5539213,-121.3876901,49.5649297",
     "geom:latitude":49.558377,
     "geom:longitude":-121.397107,
     "iso:country":"CA",
     "lbl:latitude":49.558103,
     "lbl:longitude":-121.396272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.558103,
     "mps:longitude":-121.396272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuthlalth 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744795,
-    "wof:lastmodified":1533335899,
+    "wof:lastmodified":1566519976,
     "wof:name":"Kuthlalth 3",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

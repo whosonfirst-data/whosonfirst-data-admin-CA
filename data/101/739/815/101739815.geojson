@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.939853,
     "lbl:longitude":-102.536111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.939853,
     "mps:longitude":-102.536111,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sturgis"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -99,7 +102,6 @@
         "fct:id":"03c01dd6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6158637,
         "gp:id":2414,
-        "qs:id":1053585,
         "qs_pg:id":1053585
     },
     "wof:country":"CA",
@@ -117,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564172564,
+    "wof:lastmodified":1566519405,
     "wof:name":"Sturgis",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

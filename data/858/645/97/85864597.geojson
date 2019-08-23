@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.426269,
     "lbl:longitude":-75.655254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.421003,
     "mps:longitude":-75.652958,
     "mz:hierarchy_label":1,
@@ -43,20 +44,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":69,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399725,
-        "qs:id":1242208,
         "qs_pg:id":1242208,
         "wd:id":"Q4330664"
     },
@@ -78,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277890,
+    "wof:lastmodified":1566518961,
     "wof:name":"Overbrook",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

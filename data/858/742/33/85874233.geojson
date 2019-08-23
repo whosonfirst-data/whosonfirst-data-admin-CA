@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.649911,
     "lbl:longitude":-79.415555,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.647496,
     "mps:longitude":-79.414991,
     "mz:hierarchy_label":1,
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Trinity-Bellwoods (81)",
     "torsdfa:AREA_S_CD":"081",
     "wd:latitude":43.6467,
@@ -56,7 +57,6 @@
     "wof:concordances":{
         "gn:id":7870920,
         "gp:id":55855787,
-        "qs:id":896641,
         "qs_pg:id":896641,
         "wd:id":"Q12711840"
     },
@@ -78,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844224,
+    "wof:lastmodified":1566519020,
     "wof:name":"Trinity Bellwoods",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

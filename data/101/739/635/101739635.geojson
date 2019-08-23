@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.840886,
     "lbl:longitude":-109.82377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.840886,
     "mps:longitude":-109.82377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marsden"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":169,
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844266,
+    "wof:lastmodified":1566519397,
     "wof:name":"Marsden",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

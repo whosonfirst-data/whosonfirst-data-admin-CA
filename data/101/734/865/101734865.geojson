@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.451418,
     "lbl:longitude":-96.958979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.451418,
     "mps:longitude":-96.958979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dunnottar"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.4539,
     "wd:longitude":-96.9472,
     "wd:wordcount":185,
@@ -57,7 +60,6 @@
         "fct:id":"03c02c86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5944190,
         "gp:id":2583,
-        "qs:id":71664,
         "qs_pg:id":71664,
         "wd:id":"Q2848181",
         "wk:page":"Dunnottar, Manitoba"
@@ -77,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844453,
+    "wof:lastmodified":1566519913,
     "wof:name":"Dunnottar",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",

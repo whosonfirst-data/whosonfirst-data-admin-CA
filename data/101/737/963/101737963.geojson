@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.126898,
     "lbl:longitude":-73.031008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.126898,
     "mps:longitude":-73.031008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Ignace-de-Loyola"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         102191575,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":6138383,
         "gp:id":23396557,
-        "qs:id":1337380,
+        "qs_pg:id":1337380,
         "wd:id":"Q3462441",
         "wk:page":"Saint-Ignace-de-Loyola, Quebec"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101737963,
-    "wof:lastmodified":1563284124,
+    "wof:lastmodified":1566519414,
     "wof:name":"Saint-Ignace-de-Loyola",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

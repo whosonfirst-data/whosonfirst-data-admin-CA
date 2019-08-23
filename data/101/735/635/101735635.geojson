@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.371484,
     "lbl:longitude":-83.897667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.371484,
     "mps:longitude":-83.897667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099c\u09a8\u09b8\u09a8"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101735635,
-    "wof:lastmodified":1563285374,
+    "wof:lastmodified":1566519931,
     "wof:name":"Johnson",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

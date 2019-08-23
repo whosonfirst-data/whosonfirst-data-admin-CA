@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.6614,
     "lbl:longitude":-107.663318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.6614,
     "mps:longitude":-107.663318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beaver Flat"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Resort Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844266,
+    "wof:lastmodified":1566519397,
     "wof:name":"Beaver Flat",
     "wof:parent_id":1158868947,
     "wof:placetype":"locality",

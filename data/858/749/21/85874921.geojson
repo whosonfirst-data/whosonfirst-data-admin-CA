@@ -11,8 +11,10 @@
     "geom:longitude":-81.189635,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.194635,42.934741,-81.184635,42.944741",
     "lbl:latitude":42.939741,
     "lbl:longitude":-81.189635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.939161,
     "mps:longitude":-81.193182,
     "mz:hierarchy_label":0,
@@ -165,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0442\u043c\u0456\u043d\u0441\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Westminster"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u0679\u0645\u0646\u0633\u0679\u0631"
     ],
@@ -211,7 +210,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1450,
     "wof:belongsto":[
         85682057,
@@ -223,7 +222,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856229,
-        "qs:id":888344,
         "qs_pg:id":888344
     },
     "wof:country":"CA",
@@ -242,7 +240,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170775,
+    "wof:lastmodified":1566518977,
     "wof:name":"Westminster",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

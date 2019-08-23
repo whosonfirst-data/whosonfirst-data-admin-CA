@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
+    "geom:area_square_m":1116075.371335,
     "geom:bbox":"-123.0458292,55.0008998,-123.0342759,55.0153929",
     "geom:latitude":55.008055,
     "geom:longitude":-123.040307,
     "iso:country":"CA",
     "lbl:latitude":55.007683,
     "lbl:longitude":-123.040692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.007683,
     "mps:longitude":-123.040692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pack River 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744499,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566519969,
     "wof:name":"Pack River 2",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

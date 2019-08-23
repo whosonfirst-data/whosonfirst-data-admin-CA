@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.542513,
     "lbl:longitude":-103.876749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.542513,
     "mps:longitude":-103.876749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qu'Appelle"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.541,
     "wd:longitude":-103.874,
     "wd:wordcount":10155,
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284092,
+    "wof:lastmodified":1566519409,
     "wof:name":"Qu'Appelle",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

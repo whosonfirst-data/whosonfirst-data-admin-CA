@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2222.916495,
     "geom:bbox":"-126.5127071,50.570555,-126.5118877,50.5710008",
     "geom:latitude":50.570781,
     "geom:longitude":-126.512286,
     "iso:country":"CA",
     "lbl:latitude":50.570802,
     "lbl:longitude":-126.512496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.570802,
     "mps:longitude":-126.512496,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aglakumna-La 2"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":23405516
     },
     "wof:country":"CA",
-    "wof:geomhash":"eb1c62a69d8b009bc9db2351fa4f9806",
+    "wof:geomhash":"85d1832bab9db6cfd0b207a1c5866dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743207,
-    "wof:lastmodified":1493163507,
+    "wof:lastmodified":1566520001,
     "wof:name":"Aglakumna-La 2",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.649118,
     "lbl:longitude":-125.428864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":54.649118,
     "mps:longitude":-125.428864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0643\u0644\u064a-\u0646\u064a\u062a\u0634\u0627\u0643\u0648 \u0622"
     ],
@@ -66,7 +69,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Bulkley-Nechako",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5951",
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375075,
-        "qs:id":890799,
+        "qs_pg:id":890799,
         "wd:id":"Q2095384",
         "wk:page":"Regional District of Bulkley-Nechako"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890458087,
-    "wof:lastmodified":1563286053,
+    "wof:lastmodified":1566520127,
     "wof:name":"Bulkley-Nechako",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

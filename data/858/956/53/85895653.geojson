@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":37403900.606742,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.831991,43.938976,-79.831991,43.938976",
     "geom:latitude":43.938976,
     "geom:longitude":-79.831991,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.836991,43.933976,-79.826991,43.943976",
     "lbl:latitude":43.938976,
     "lbl:longitude":-79.831991,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.929549,
     "mps:longitude":-79.826836,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "\u041f\u0430\u043b\u0433\u0440\u0435\u0432"
     ],
     "name:swe_x_preferred":[
-        "Palgrave"
-    ],
-    "name:unk_x_variant":[
         "Palgrave"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -74,21 +73,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191575,
         101736249,
         85633041,
-        101736249,
-        890456343,
         85682057,
         101740755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999615,
-        "qs:id":897477,
         "qs_pg:id":897477
     },
     "wof:country":"CA",
@@ -113,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931460,
+    "wof:lastmodified":1566518998,
     "wof:name":"Palgrave",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.43183,
     "lbl:longitude":-104.817454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.43183,
     "mps:longitude":-104.817454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Grand Coulee"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
         "fct:id":"03bfc87c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5964269,
         "gp:id":587,
-        "qs:id":303951,
         "qs_pg:id":303951,
         "wd:id":"Q2003716",
         "wk:page":"Grand Coulee, Saskatchewan"
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284077,
+    "wof:lastmodified":1566519408,
     "wof:name":"Grand Coulee",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

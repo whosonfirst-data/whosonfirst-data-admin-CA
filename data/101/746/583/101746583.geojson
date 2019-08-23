@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":21537.665329,
     "geom:bbox":"-127.6283301,55.3914794,-127.6253153,55.3933197",
     "geom:latitude":55.39219,
     "geom:longitude":-127.626343,
     "iso:country":"CA",
     "lbl:latitude":55.392175,
     "lbl:longitude":-127.626206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.392175,
     "mps:longitude":-127.626206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gun-A-Chal 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746583,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566519852,
     "wof:name":"Gun-A-Chal 5",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

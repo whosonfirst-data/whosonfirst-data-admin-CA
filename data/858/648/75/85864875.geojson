@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":206337.434416,
+    "geom:area_square_m":206337.434415,
     "geom:bbox":"-113.578038283,53.5074355957,-113.568000602,53.5112730496",
     "geom:latitude":53.509284,
     "geom:longitude":-113.573598,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.509769,
     "lbl:longitude":-113.573538,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.502728,
     "mps:longitude":-113.571185,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":667.0,
     "wd:latitude":53.51,
     "wd:longitude":-113.574,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404802,
-        "qs:id":1087691,
         "qs_pg:id":1087691,
         "wd:id":"Q7271425"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270456,
+    "wof:lastmodified":1566519010,
     "wof:name":"Quesnell Heights",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

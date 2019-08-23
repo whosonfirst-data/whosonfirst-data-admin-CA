@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6044922.076631,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.486961,44.258919,-76.486961,44.258919",
     "geom:latitude":44.258919,
     "geom:longitude":-76.486961,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.491961,44.253919,-76.481961,44.263919",
     "lbl:latitude":44.258919,
     "lbl:longitude":-76.486961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.262352,
     "mps:longitude":-76.485101,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Rideau Heights"
-    ],
-    "name:unk_x_variant":[
         "Rideau Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":153,
     "wof:belongsto":[
         85682057,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399763,
-        "qs:id":1180807,
         "qs_pg:id":1180807,
         "wd:id":"Q24190483"
     },
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870932,
+    "wof:lastmodified":1566519008,
     "wof:name":"Rideau Heights",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

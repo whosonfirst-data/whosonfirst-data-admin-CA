@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.263997,
     "lbl:longitude":-123.131351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.260575,
     "mps:longitude":-123.124816,
     "mz:hierarchy_label":1,
@@ -91,9 +92,6 @@
     "name:tur_x_preferred":[
         "Fairview"
     ],
-    "name:unk_x_variant":[
-        "Fairview"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u0626\u0631\u0648\u06cc\u0648"
     ],
@@ -130,7 +128,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"FAIR",
     "vanpds:NAME":"Fairview",
     "wof:belongsto":[
@@ -143,7 +141,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404939,
-        "qs:id":897036,
         "qs_pg:id":897036
     },
     "wof:country":"CA",
@@ -162,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170741,
+    "wof:lastmodified":1566518966,
     "wof:name":"Fairview",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

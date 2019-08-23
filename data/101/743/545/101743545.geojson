@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":18280.287175,
     "geom:bbox":"-130.240648,54.7102169,-130.2390066,54.7120251",
     "geom:latitude":54.71109,
     "geom:longitude":-130.239724,
     "iso:country":"CA",
     "lbl:latitude":54.711088,
     "lbl:longitude":-130.239721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.711088,
     "mps:longitude":-130.239721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spokwan 48"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743545,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519994,
     "wof:name":"Spokwan 48",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

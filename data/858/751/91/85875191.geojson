@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":984563.348336,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.723002,52.13161,-106.723002,52.13161",
     "geom:latitude":52.13161,
     "geom:longitude":-106.723002,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.728002,52.12661,-106.718002,52.13661",
     "lbl:latitude":52.13161,
     "lbl:longitude":-106.723002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.129289,
     "mps:longitude":-106.724905,
     "mz:hierarchy_label":0,
@@ -33,22 +35,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.1325,
     "wd:longitude":-106.721,
     "wd:wordcount":592,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115081,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856371,
-        "qs:id":1332088,
         "qs_pg:id":1332088,
         "wd:id":"Q5159794"
     },
@@ -69,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872032,
+    "wof:lastmodified":1566518995,
     "wof:name":"Confederation Suburban Centre",
     "wof:parent_id":1126115081,
     "wof:placetype":"neighbourhood",

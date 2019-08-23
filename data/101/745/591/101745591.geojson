@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
+    "geom:area_square_m":3045333.753754,
     "geom:bbox":"-119.3406359,50.771535,-119.3059867,50.79316",
     "geom:latitude":50.784512,
     "geom:longitude":-119.323282,
     "iso:country":"CA",
     "lbl:latitude":50.781079,
     "lbl:longitude":-119.329784,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.781079,
     "mps:longitude":-119.329784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "North Bay 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745591,
-    "wof:lastmodified":1533335914,
+    "wof:lastmodified":1566520060,
     "wof:name":"North Bay 5",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

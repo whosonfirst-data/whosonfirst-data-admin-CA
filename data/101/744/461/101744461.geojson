@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
+    "geom:area_square_m":161225.715798,
     "geom:bbox":"-125.3910895,53.7529731,-125.3847878,53.7567078",
     "geom:latitude":53.75484,
     "geom:longitude":-125.387938,
     "iso:country":"CA",
     "lbl:latitude":53.75484,
     "lbl:longitude":-125.387939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.75484,
     "mps:longitude":-125.387939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baptiste Louis 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744461,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566519980,
     "wof:name":"Baptiste Louis 8",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

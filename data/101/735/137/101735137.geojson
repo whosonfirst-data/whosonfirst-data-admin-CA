@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.007908,
     "lbl:longitude":-97.560765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.007908,
     "mps:longitude":-97.560765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gretna"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.0078,
     "wd:longitude":-97.5617,
     "wd:wordcount":349,
@@ -69,7 +72,6 @@
         "fct:id":"03c043f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5966874,
         "gp:id":3012,
-        "qs:id":160259,
         "qs_pg:id":160259,
         "wd:id":"Q277543",
         "wk:page":"Gretna, Manitoba"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285438,
+    "wof:lastmodified":1566519945,
     "wof:name":"Gretna",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

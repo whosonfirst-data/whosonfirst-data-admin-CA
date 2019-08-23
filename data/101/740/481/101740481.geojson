@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.920456,
     "lbl:longitude":-105.819234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.920456,
     "mps:longitude":-105.819234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Craik No. 222"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101740481,
-    "wof:lastmodified":1535390443,
+    "wof:lastmodified":1566519573,
     "wof:name":"Craik No. 222",
     "wof:parent_id":1158868947,
     "wof:placetype":"locality",

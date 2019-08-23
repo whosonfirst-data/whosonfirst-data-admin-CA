@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007057,
+    "geom:area_square_m":51968728.638689,
     "geom:bbox":"-89.2391097,53.3712662,-89.0462981,53.5243429",
     "geom:latitude":53.445747,
     "geom:longitude":-89.140997,
     "iso:country":"CA",
     "lbl:latitude":53.395403,
     "lbl:longitude":-89.183569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.395403,
     "mps:longitude":-89.183569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wawakapewin Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741327,
-    "wof:lastmodified":1533335666,
+    "wof:lastmodified":1566519897,
     "wof:name":"Wawakapewin Indian Reserve",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

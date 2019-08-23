@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":999285.703096,
+    "geom:area_square_m":999285.703088,
     "geom:bbox":"-123.118113968,49.3561553896,-123.093070112,49.371084488",
     "geom:latitude":49.363095,
     "geom:longitude":-123.104823,
@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.367265,
     "lbl:longitude":-123.099793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.380727,
     "mps:longitude":-123.085143,
     "mz:hierarchy_label":0,
@@ -39,9 +40,6 @@
     ],
     "name:eng_x_variant":[
         "Grousewoods"
-    ],
-    "name:unk_x_variant":[
-        "Grouse Woods"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -74,7 +72,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -85,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998758,
-        "qs:id":242220,
         "qs_pg:id":242220
     },
     "wof:country":"CA",
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566518971,
     "wof:name":"Grouse Woods",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

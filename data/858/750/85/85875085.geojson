@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.424515,
     "lbl:longitude":-123.377717,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.424188,
     "mps:longitude":-123.380736,
     "mz:hierarchy_label":1,
@@ -41,9 +42,6 @@
     ],
     "name:spa_x_preferred":[
         "Songhee"
-    ],
-    "name:unk_x_variant":[
-        "Songhees"
     ],
     "name:zho_x_preferred":[
         "\u6851\u5409\u65af\u4eba"
@@ -77,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":553,
     "wof:belongsto":[
         85682117,
@@ -89,7 +87,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856314,
-        "qs:id":1290811,
         "qs_pg:id":1290811,
         "wd:id":"Q1789962"
     },
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282107,
+    "wof:lastmodified":1566519001,
     "wof:name":"Songhees",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

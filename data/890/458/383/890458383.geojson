@@ -11,10 +11,14 @@
     "geom:longitude":-79.83295,
     "gn:country":"CA",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CA",
+    "lbl:bbox":"-79.93295,44.9001,-79.73295,45.1001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0456\u045e \u0414\u0436\u043e\u0440\u0434\u0436\u044b\u044f\u043d"
     ],
@@ -123,7 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5960553,
-        "qs:id":1153057,
+        "qs_pg:id":1153057,
         "wd:id":"Q1267413",
         "wk:page":"Georgian Bay"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":890458383,
-    "wof:lastmodified":1563286003,
+    "wof:lastmodified":1566520111,
     "wof:name":"Georgian Bay",
     "wof:parent_id":890458545,
     "wof:placetype":"localadmin",

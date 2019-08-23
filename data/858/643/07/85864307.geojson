@@ -11,8 +11,10 @@
     "geom:longitude":-52.750511,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-52.755511,47.479726,-52.745511,47.489726",
     "lbl:latitude":47.484726,
     "lbl:longitude":-52.750511,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.486128,
     "mps:longitude":-52.7861,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Kilbride"
     ],
     "name:eng_x_preferred":[
-        "Kilbride"
-    ],
-    "name:unk_x_variant":[
         "Kilbride"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":161,
     "wof:belongsto":[
         102191575,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23389065,
-        "qs:id":1118774,
         "qs_pg:id":1118774
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170722,
+    "wof:lastmodified":1566518956,
     "wof:name":"Kilbride",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

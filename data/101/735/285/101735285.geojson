@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
+    "geom:area_square_m":3501599.745219,
     "geom:bbox":"-67.7717811,47.0857332,-67.7535187,47.1104845",
     "geom:latitude":47.098563,
     "geom:longitude":-67.763096,
     "iso:country":"CA",
     "lbl:latitude":47.098495,
     "lbl:longitude":-67.762977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.098495,
     "mps:longitude":-67.762977,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "St. Andr\u00e9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101735285,
-    "wof:lastmodified":1532596919,
+    "wof:lastmodified":1566519949,
     "wof:name":"St. Andr\u00e9",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

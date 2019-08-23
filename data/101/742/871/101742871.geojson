@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.352373,
     "lbl:longitude":-127.678214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.352373,
     "mps:longitude":-127.678214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kispiox 1"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":208,
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101742871,
-    "wof:lastmodified":1563285712,
+    "wof:lastmodified":1566520024,
     "wof:name":"Kispiox 1",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

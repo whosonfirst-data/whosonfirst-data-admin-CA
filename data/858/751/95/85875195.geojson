@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":996404.097929,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.65427,52.103002,-106.65427,52.103002",
     "geom:latitude":52.103002,
     "geom:longitude":-106.65427,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.65927,52.098002,-106.64927,52.108002",
     "lbl:latitude":52.103002,
     "lbl:longitude":-106.65427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.103585,
     "mps:longitude":-106.65512,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0459\u0438\u0446\u0430 \u0415\u043b\u0438\u0437\u0430\u0431\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Queen Elizabeth"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0644\u06a9\u06c1 \u0627\u0644\u0632\u0628\u062a\u06be"
     ],
@@ -72,20 +71,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":791,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115069,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856374,
-        "qs:id":1089549,
         "qs_pg:id":1089549,
         "wd:id":"Q7270309"
     },
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872034,
+    "wof:lastmodified":1566518994,
     "wof:name":"Queen Elizabeth",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

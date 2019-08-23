@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.077587,
     "lbl:longitude":-76.080248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.077587,
     "mps:longitude":-76.080248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beckwith"
     ],
@@ -53,7 +56,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":378,
     "wof:belongsto":[
         102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101736209,
-    "wof:lastmodified":1561844345,
+    "wof:lastmodified":1566519495,
     "wof:name":"Beckwith",
     "wof:parent_id":890458469,
     "wof:placetype":"locality",

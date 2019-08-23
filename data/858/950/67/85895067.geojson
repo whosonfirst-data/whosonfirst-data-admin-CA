@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1715496.576082,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.734608,43.877036,-79.734608,43.877036",
     "geom:latitude":43.877036,
     "geom:longitude":-79.734608,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.739608,43.872036,-79.729608,43.882036",
     "lbl:latitude":43.877036,
     "lbl:longitude":-79.734608,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.872345,
     "mps:longitude":-79.733488,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Downtown Bolton"
-    ],
-    "name:unk_x_variant":[
         "Downtown Bolton"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999058,
-        "qs:id":212710,
         "qs_pg:id":212710
     },
     "wof:country":"CA",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931318,
+    "wof:lastmodified":1566518989,
     "wof:name":"Downtown Bolton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

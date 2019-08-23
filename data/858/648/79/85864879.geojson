@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.51569,
     "lbl:longitude":-113.589804,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.510575,
     "mps:longitude":-113.608401,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108970659,
@@ -47,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404808,
-        "qs:id":1242253,
         "qs_pg:id":1242253,
         "wd:id":"Q14874854"
     },
@@ -68,7 +68,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270457,
+    "wof:lastmodified":1566519011,
     "wof:name":"Lynnwood",
     "wof:parent_id":1108970659,
     "wof:placetype":"neighbourhood",

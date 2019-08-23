@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":40340.836866,
     "geom:bbox":"-122.6351156,52.4839469,-122.6321484,52.4857579",
     "geom:latitude":52.484852,
     "geom:longitude":-122.633632,
     "iso:country":"CA",
     "lbl:latitude":52.484853,
     "lbl:longitude":-122.633629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.484853,
     "mps:longitude":-122.633629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Necausley Creek 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747145,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566519658,
     "wof:name":"Necausley Creek 6",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

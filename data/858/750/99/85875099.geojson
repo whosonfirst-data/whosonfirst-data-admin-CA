@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.450001,
     "lbl:longitude":-123.371549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.46279,
     "mps:longitude":-123.377108,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:swe_x_preferred":[
         "Oak Bay"
     ],
-    "name:unk_x_variant":[
-        "Rock Bay"
-    ],
     "name:zho_x_preferred":[
         "\u6a61\u6a39\u7063"
     ],
@@ -88,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85682117,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":6091919,
         "gp:id":55856322,
-        "qs:id":488914,
         "qs_pg:id":488914,
         "wd:id":"Q7073424",
         "wk:page":"Oak Bay, British Columbia"
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282105,
+    "wof:lastmodified":1566519001,
     "wof:name":"Rock Bay",
     "wof:parent_id":101741111,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.874224,
     "lbl:longitude":-97.149446,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.872651,
     "mps:longitude":-97.149864,
     "mz:hierarchy_label":1,
@@ -77,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191575,
@@ -90,7 +91,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856084,
-        "qs:id":230674,
         "qs_pg:id":230674
     },
     "wof:country":"CA",
@@ -110,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170768,
+    "wof:lastmodified":1566518976,
     "wof:name":"McMillan",
     "wof:parent_id":1108969341,
     "wof:placetype":"neighbourhood",

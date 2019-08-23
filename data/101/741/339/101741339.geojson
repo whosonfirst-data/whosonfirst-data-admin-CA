@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":1051073.881666,
     "geom:bbox":"-65.0044686,44.1587846,-64.9883468,44.176511",
     "geom:latitude":44.16783,
     "geom:longitude":-64.996481,
     "iso:country":"CA",
     "lbl:latitude":44.167792,
     "lbl:longitude":-64.996464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.167792,
     "mps:longitude":-64.996464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ponhook Lake Indian Reserve No. 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741339,
-    "wof:lastmodified":1531772551,
+    "wof:lastmodified":1566519856,
     "wof:name":"Ponhook Lake Indian Reserve No. 10",
     "wof:parent_id":890456819,
     "wof:placetype":"locality",

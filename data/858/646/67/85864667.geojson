@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.485602,
     "lbl:longitude":-76.075229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.496613,
     "mps:longitude":-76.090116,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":573,
     "wof:belongsto":[
         102191575,
@@ -53,7 +54,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400266,
-        "qs:id":1001150,
         "qs_pg:id":1001150,
         "wd:id":"Q5163503"
     },
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282146,
+    "wof:lastmodified":1566519008,
     "wof:name":"Constance Bay",
     "wof:parent_id":1125978557,
     "wof:placetype":"neighbourhood",

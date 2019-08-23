@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":863997.825922,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.897339,43.230664,-79.897339,43.230664",
     "geom:latitude":43.230664,
     "geom:longitude":-79.897339,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.902339,43.225664,-79.892339,43.235664",
     "lbl:latitude":43.230664,
     "lbl:longitude":-79.897339,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.231735,
     "mps:longitude":-79.895892,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Rolston"
     ],
     "name:pol_x_preferred":[
-        "Rolston"
-    ],
-    "name:unk_x_variant":[
         "Rolston"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,21 +60,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":53.8896,
     "wd:longitude":-0.154904,
     "wd:wordcount":92,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735515,
-        890456341,
-        85682057
+        890456341
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856153,
-        "qs:id":486008,
         "qs_pg:id":486008
     },
     "wof:country":"CA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871933,
+    "wof:lastmodified":1566518983,
     "wof:name":"Rolston",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

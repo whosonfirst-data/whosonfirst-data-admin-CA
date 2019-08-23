@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.535003,
     "lbl:longitude":-73.737589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.535003,
     "mps:longitude":-73.737589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Z\u00e9non"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":240,
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101737063,
-    "wof:lastmodified":1563284175,
+    "wof:lastmodified":1566519423,
     "wof:name":"Saint-Z\u00e9non",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

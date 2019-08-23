@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
+    "geom:area_square_m":1166308.177875,
     "geom:bbox":"-80.8432399,49.0007792,-80.832144,49.0150549",
     "geom:latitude":49.007852,
     "geom:longitude":-80.837684,
     "iso:country":"CA",
     "lbl:latitude":49.00792,
     "lbl:longitude":-80.837673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.00792,
     "mps:longitude":-80.837673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Post Indian Reserve No. 69A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741357,
-    "wof:lastmodified":1533335667,
+    "wof:lastmodified":1566519883,
     "wof:name":"New Post Indian Reserve No. 69A",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

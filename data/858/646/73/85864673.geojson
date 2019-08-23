@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.424514,
     "lbl:longitude":-76.02078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.433106,
     "mps:longitude":-76.0268,
     "mz:hierarchy_label":1,
@@ -49,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191575,
@@ -62,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400365,
-        "qs:id":367281,
         "qs_pg:id":367281,
         "wd:id":"Q5315658"
     },
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282147,
+    "wof:lastmodified":1566519008,
     "wof:name":"Dunrobin",
     "wof:parent_id":1125978557,
     "wof:placetype":"neighbourhood",

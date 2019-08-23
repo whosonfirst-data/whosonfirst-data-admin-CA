@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.029373,
     "lbl:longitude":-114.08103,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.024784,
     "mps:longitude":-114.090222,
     "mz:hierarchy_label":1,
@@ -94,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -104,7 +105,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342802,
-        "qs:id":485279,
         "qs_pg:id":485279
     },
     "wof:country":"CA",
@@ -122,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170734,
+    "wof:lastmodified":1566518964,
     "wof:name":"Glencoe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.551447,
     "lbl:longitude":-119.143879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.551447,
     "mps:longitude":-119.143879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Enderby"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":546,
     "wof:belongsto":[
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":5948770,
         "gp:id":9700,
-        "qs:id":1249113,
         "qs_pg:id":1249113,
         "wd:id":"Q112975",
         "wk:page":"Enderby, British Columbia"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101740857,
-    "wof:lastmodified":1563284799,
+    "wof:lastmodified":1566519554,
     "wof:name":"Enderby",
     "wof:parent_id":890458113,
     "wof:placetype":"locality",

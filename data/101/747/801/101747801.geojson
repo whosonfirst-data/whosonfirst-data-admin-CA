@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011823,
+    "geom:area_square_m":101272914.9005,
     "geom:bbox":"-82.3767077,46.0996874,-82.0964168,46.1867503",
     "geom:latitude":46.151954,
     "geom:longitude":-82.206615,
     "iso:country":"CA",
     "lbl:latitude":46.144606,
     "lbl:longitude":-82.162053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.144606,
     "mps:longitude":-82.162053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sagamok Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747801,
-    "wof:lastmodified":1533335689,
+    "wof:lastmodified":1566519742,
     "wof:name":"Sagamok Indian Reserve",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

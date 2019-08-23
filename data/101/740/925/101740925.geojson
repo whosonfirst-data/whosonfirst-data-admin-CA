@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.586339,
     "lbl:longitude":-127.090393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.586339,
     "mps:longitude":-127.090393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Port McNeill"
     ],
@@ -43,9 +46,6 @@
     "name:swe_x_preferred":[
         "Port McNeill"
     ],
-    "name:unk_x_variant":[
-        "Port McNeill"
-    ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
     "qs:a1_lc":"BC",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.5833,
     "wd:longitude":-127.1,
     "wd:wordcount":424,
@@ -77,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6111953,
         "gp:id":9486,
-        "qs:id":965400,
         "qs_pg:id":965400,
         "wd:id":"Q2104736",
         "wk:page":"Port McNeill"
@@ -94,7 +93,7 @@
         }
     ],
     "wof:id":101740925,
-    "wof:lastmodified":1563284822,
+    "wof:lastmodified":1566519564,
     "wof:name":"Port Mcneill",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

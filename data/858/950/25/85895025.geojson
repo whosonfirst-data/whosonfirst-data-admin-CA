@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3746918.987618,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.480042,44.200322,-79.480042,44.200322",
     "geom:latitude":44.200322,
     "geom:longitude":-79.480042,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.485042,44.195322,-79.475042,44.205322",
     "lbl:latitude":44.200322,
     "lbl:longitude":-79.480042,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.196108,
     "mps:longitude":-79.482912,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Beverley Hills"
-    ],
-    "name:unk_x_variant":[
         "Beverley Hills"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999019,
-        "qs:id":1001082,
         "qs_pg:id":1001082
     },
     "wof:country":"CA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931306,
+    "wof:lastmodified":1566518990,
     "wof:name":"Beverley Hills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
+    "geom:area_square_m":3861372.918214,
     "geom:bbox":"-107.0660995,53.4562993,-107.0251767,53.4707737",
     "geom:latitude":53.463479,
     "geom:longitude":-107.047392,
     "iso:country":"CA",
     "lbl:latitude":53.463532,
     "lbl:longitude":-107.058798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.463532,
     "mps:longitude":-107.058798,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Big River I.R. 118A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742369,
-    "wof:lastmodified":1531523942,
+    "wof:lastmodified":1566520021,
     "wof:name":"Big River I.R. 118A",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

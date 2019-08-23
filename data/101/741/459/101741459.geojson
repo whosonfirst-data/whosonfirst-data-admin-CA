@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
+    "geom:area_square_m":426788.270397,
     "geom:bbox":"-112.247031,60.0999078,-112.2329588,60.109401",
     "geom:latitude":60.104644,
     "geom:longitude":-112.239985,
     "iso:country":"CA",
     "lbl:latitude":60.104632,
     "lbl:longitude":-112.239985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.104632,
     "mps:longitude":-112.239985,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salt Plains 195"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741459,
-    "wof:lastmodified":1533070694,
+    "wof:lastmodified":1566519896,
     "wof:name":"Salt Plains 195",
     "wof:parent_id":1158869055,
     "wof:placetype":"locality",

@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.044266,
     "lbl:longitude":-114.209233,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.0413,
     "mps:longitude":-114.220219,
     "mz:hierarchy_label":1,
@@ -55,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1230.0,
     "wd:latitude":51.0433,
     "wd:longitude":-114.193,
@@ -69,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855965,
-        "qs:id":485980,
         "qs_pg:id":485980,
         "wd:id":"Q4807855"
     },
@@ -88,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282216,
+    "wof:lastmodified":1566519022,
     "wof:name":"Aspen Woods",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

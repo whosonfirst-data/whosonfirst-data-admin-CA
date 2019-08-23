@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.950437,
     "lbl:longitude":-97.064456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.950785,
     "mps:longitude":-97.062949,
     "mz:hierarchy_label":1,
@@ -37,7 +38,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968465,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108937623,
-    "wof:lastmodified":1564172090,
+    "wof:lastmodified":1566519259,
     "wof:name":"River East",
     "wof:parent_id":1108968465,
     "wof:placetype":"neighbourhood",

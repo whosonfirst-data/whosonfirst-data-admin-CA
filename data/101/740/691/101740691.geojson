@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":60.772243,
     "lbl:longitude":-137.526847,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.772243,
     "mps:longitude":-137.526847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Haines Junction"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.752778,
     "wd:longitude":-137.506667,
@@ -99,7 +102,6 @@
         "fct:id":"03c0a5d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5969025,
         "gp:id":4224,
-        "qs:id":160261,
         "qs_pg:id":160261,
         "wd:id":"Q1001810",
         "wk:page":"Haines Junction"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284870,
+    "wof:lastmodified":1566519580,
     "wof:name":"Haines Junction",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",

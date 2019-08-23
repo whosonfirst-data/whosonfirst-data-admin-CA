@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000814,
-    "geom:area_square_m":6313176.116981,
+    "geom:area_square_m":6313176.116974,
     "geom:bbox":"-114.109533,51.144772,-114.066593,51.174616",
     "geom:latitude":51.161214,
     "geom:longitude":-114.085028,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.161463,
     "lbl:longitude":-114.08363,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.167672,
     "mps:longitude":-114.081454,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1115.0,
     "wd:latitude":51.1542,
     "wd:longitude":-114.071,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855987,
-        "qs:id":381260,
         "qs_pg:id":381260,
         "wd:id":"Q7131503"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270641,
+    "wof:lastmodified":1566519023,
     "wof:name":"Panorama Hills",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

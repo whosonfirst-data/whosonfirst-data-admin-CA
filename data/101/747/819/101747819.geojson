@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":36822.592299,
     "geom:bbox":"-122.2722551,52.1638817,-122.2692895,52.1656851",
     "geom:latitude":52.164805,
     "geom:longitude":-122.27068,
     "iso:country":"CA",
     "lbl:latitude":52.164782,
     "lbl:longitude":-122.270669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.164782,
     "mps:longitude":-122.270669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tillion 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747819,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566519621,
     "wof:name":"Tillion 4",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

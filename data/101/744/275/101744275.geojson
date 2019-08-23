@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
+    "geom:area_square_m":1276726.857617,
     "geom:bbox":"-121.6605052,50.3269391,-121.6470477,50.345256",
     "geom:latitude":50.337072,
     "geom:longitude":-121.652506,
     "iso:country":"CA",
     "lbl:latitude":50.338476,
     "lbl:longitude":-121.65402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.338476,
     "mps:longitude":-121.65402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spintlum Flat 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744275,
-    "wof:lastmodified":1533335891,
+    "wof:lastmodified":1566519968,
     "wof:name":"Spintlum Flat 3",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.531214,
     "lbl:longitude":-77.684849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.531214,
     "mps:longitude":-77.684849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Madawaska Valley"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":213,
     "wof:belongsto":[
         102191575,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101736195,
-    "wof:lastmodified":1563284352,
+    "wof:lastmodified":1566519457,
     "wof:name":"Madawaska Valley",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

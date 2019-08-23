@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001495,
+    "geom:area_square_m":12701790.627938,
     "geom:bbox":"-65.0700074,46.5525728,-64.9478884,46.6110532",
     "geom:latitude":46.59072,
     "geom:longitude":-64.996017,
     "iso:country":"CA",
     "lbl:latitude":46.592416,
     "lbl:longitude":-64.990044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.592416,
     "mps:longitude":-64.990044,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Richibucto Indian Reserve No. 15"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747521,
-    "wof:lastmodified":1531526760,
+    "wof:lastmodified":1566519661,
     "wof:name":"Richibucto Indian Reserve No. 15",
     "wof:parent_id":1158869017,
     "wof:placetype":"locality",

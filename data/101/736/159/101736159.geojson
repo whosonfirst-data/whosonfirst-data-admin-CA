@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.739982,
     "lbl:longitude":-81.709425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.739982,
     "mps:longitude":-81.709425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0434\u0435\u0440\u0438\u0447"
     ],
@@ -104,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2196,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":5962442,
         "gp:id":4044,
-        "qs:id":965406,
         "qs_pg:id":965406,
         "wd:id":"Q33974",
         "wk:page":"Goderich, Ontario"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101736159,
-    "wof:lastmodified":1563284351,
+    "wof:lastmodified":1566519457,
     "wof:name":"Goderich",
     "wof:parent_id":890458765,
     "wof:placetype":"locality",

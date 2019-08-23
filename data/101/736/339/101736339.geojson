@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018254,
+    "geom:area_square_m":162495271.375197,
     "geom:bbox":"-80.4384298,43.8560512,-80.2961334,44.0475964",
     "geom:latitude":43.951808,
     "geom:longitude":-80.367127,
     "iso:country":"CA",
     "lbl:latitude":43.951812,
     "lbl:longitude":-80.367128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.951812,
     "mps:longitude":-80.367128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "East Luther Grand Valley"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101736339,
-    "wof:lastmodified":1533335621,
+    "wof:lastmodified":1566519458,
     "wof:name":"East Luther Grand Valley",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",

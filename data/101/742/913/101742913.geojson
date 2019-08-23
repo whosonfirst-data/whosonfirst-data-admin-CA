@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
+    "geom:area_square_m":153245.757349,
     "geom:bbox":"-126.0109808,49.2447849,-126.0054374,49.2484071",
     "geom:latitude":49.24659,
     "geom:longitude":-126.008068,
     "iso:country":"CA",
     "lbl:latitude":49.246596,
     "lbl:longitude":-126.008068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.246596,
     "mps:longitude":-126.008068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chetarpe 17"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742913,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566520019,
     "wof:name":"Chetarpe 17",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

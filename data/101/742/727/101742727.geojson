@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009551,
+    "geom:area_square_m":70871967.437413,
     "geom:bbox":"-104.9281437,53.0784406,-104.8153284,53.1721132",
     "geom:latitude":53.122192,
     "geom:longitude":-104.872459,
     "iso:country":"CA",
     "lbl:latitude":53.127145,
     "lbl:longitude":-104.88284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.127145,
     "mps:longitude":-104.88284,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "James Smith I.R. 100"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742727,
-    "wof:lastmodified":1531524568,
+    "wof:lastmodified":1566520031,
     "wof:name":"James Smith I.R. 100",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

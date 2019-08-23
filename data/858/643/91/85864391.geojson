@@ -11,8 +11,10 @@
     "geom:longitude":-72.487954,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.492954,46.402002,-72.482954,46.412002",
     "lbl:latitude":46.407002,
     "lbl:longitude":-72.487954,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.428389,
     "mps:longitude":-72.484331,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u0442"
     ],
-    "name:unk_x_variant":[
-        "Sainte-Marthe"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6169141,
@@ -106,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -117,7 +116,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394312,
-        "qs:id":347596,
         "qs_pg:id":347596
     },
     "wof:country":"CA",
@@ -136,7 +134,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170723,
+    "wof:lastmodified":1566518956,
     "wof:name":"Sainte-Marthe",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

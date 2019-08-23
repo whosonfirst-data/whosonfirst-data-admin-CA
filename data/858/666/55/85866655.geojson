@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.045473,
     "lbl:longitude":-113.92729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.042362,
     "mps:longitude":-113.919937,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1060.0,
     "wd:latitude":51.0447,
     "wd:longitude":-113.928,
@@ -57,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342780,
-        "qs:id":15303,
         "qs_pg:id":15303,
         "wd:id":"Q4781439"
     },
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281927,
+    "wof:lastmodified":1566518965,
     "wof:name":"Applewood Park",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

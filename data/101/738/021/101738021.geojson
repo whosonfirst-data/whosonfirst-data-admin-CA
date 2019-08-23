@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":46.363917,
     "lbl:longitude":-72.609021,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.363917,
     "mps:longitude":-72.609021,
     "mz:hierarchy_label":1,
@@ -354,7 +356,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3806,
     "wof:belongsto":[
@@ -368,7 +370,6 @@
         "fct:id":"03c063d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6169141,
         "gp:id":3474,
-        "qs:id":1140731,
         "qs_pg:id":1140731,
         "wd:id":"Q44012",
         "wk:page":"Trois-Rivi\u00e8res"
@@ -388,7 +389,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284713,
+    "wof:lastmodified":1566519532,
     "wof:name":"Trois-Rivi\u00e8res",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

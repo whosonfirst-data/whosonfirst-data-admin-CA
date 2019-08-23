@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":44410.005976,
     "geom:bbox":"-128.1178629,52.2980324,-128.115201,52.3013394",
     "geom:latitude":52.299739,
     "geom:longitude":-128.116614,
     "iso:country":"CA",
     "lbl:latitude":52.299631,
     "lbl:longitude":-128.116637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.299631,
     "mps:longitude":-128.116637,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yeo Island 13"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":29373045
     },
     "wof:country":"CA",
-    "wof:geomhash":"7921132dde86249a7aff075551d6b149",
+    "wof:geomhash":"703572d42ec8d5fbfd35e389cbbe84dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743667,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566519990,
     "wof:name":"Yeo Island 13",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

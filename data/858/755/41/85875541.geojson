@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":100318199.981049,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.07116,42.322465,-82.07116,42.322465",
     "geom:latitude":42.322465,
     "geom:longitude":-82.07116,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.07616,42.317465,-82.06616,42.327465",
     "lbl:latitude":42.322465,
     "lbl:longitude":-82.07116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.347756,
     "mps:longitude":-82.12016,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "South Kent"
-    ],
-    "name:unk_x_variant":[
         "South Kent"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735857,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856657,
-        "qs:id":1089583,
         "qs_pg:id":1089583
     },
     "wof:country":"CA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872151,
+    "wof:lastmodified":1566518942,
     "wof:name":"South Kent",
     "wof:parent_id":101735857,
     "wof:placetype":"neighbourhood",

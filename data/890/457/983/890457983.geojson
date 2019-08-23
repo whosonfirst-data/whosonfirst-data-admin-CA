@@ -14,16 +14,18 @@
     "geom:longitude":-112.926576,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":1552,
     "gn:population":1552,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":49.742042,
     "lbl:longitude":-112.922602,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.742042,
     "mps:longitude":-112.922602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Coalhurst"
     ],
@@ -62,7 +64,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":"49.7457",
     "wd:longitude":"-112.932",
@@ -77,7 +79,7 @@
     "wof:concordances":{
         "gn:id":5924428,
         "gp:id":23403851,
-        "qs:id":1117776,
+        "qs_pg:id":1117776,
         "wd:id":"Q501627",
         "wk:page":"Coalhurst"
     },
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":890457983,
-    "wof:lastmodified":1563286404,
+    "wof:lastmodified":1566520222,
     "wof:name":"Coalhurst",
     "wof:parent_id":1158863203,
     "wof:placetype":"locality",

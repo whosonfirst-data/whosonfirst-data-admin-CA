@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":60480.161272,
     "geom:bbox":"-120.0524025,50.1990598,-120.0480687,50.2009739",
     "geom:latitude":50.200017,
     "geom:longitude":-120.050236,
     "iso:country":"CA",
     "lbl:latitude":50.200017,
     "lbl:longitude":-120.050238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.200017,
     "mps:longitude":-120.050238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chapperon Creek 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744185,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566519983,
     "wof:name":"Chapperon Creek 6",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

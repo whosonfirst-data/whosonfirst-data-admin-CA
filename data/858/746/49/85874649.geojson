@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":874827.632346,
+    "geom:area_square_m":874827.632345,
     "geom:bbox":"-113.532055786,53.5081111904,-113.512029554,53.5174064885",
     "geom:latitude":53.512503,
     "geom:longitude":-113.521316,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.512841,
     "lbl:longitude":-113.520271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.512551,
     "mps:longitude":-113.524498,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "name:eng_x_preferred":[
         "McKernan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "McKeman"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -71,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856021,
-        "qs:id":381281,
         "qs_pg:id":381281
     },
     "wof:country":"CA",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566518987,
     "wof:name":"McKeman",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

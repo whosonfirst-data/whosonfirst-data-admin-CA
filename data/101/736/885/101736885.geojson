@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.054013,
     "lbl:longitude":-71.754346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.054013,
     "mps:longitude":-71.754346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0643\u0633\u0641\u064a\u0644"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":5940365,
         "gp:id":23417695,
-        "qs:id":507255,
         "qs_pg:id":507255,
         "wd:id":"Q369807",
         "wk:page":"Dixville, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101736885,
-    "wof:lastmodified":1563284506,
+    "wof:lastmodified":1566519492,
     "wof:name":"Dixville",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

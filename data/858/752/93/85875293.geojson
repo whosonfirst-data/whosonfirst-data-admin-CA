@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5613946.321117,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.434909,49.901928,-119.434909,49.901928",
     "geom:latitude":49.901928,
     "geom:longitude":-119.434909,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.439909,49.896928,-119.429909,49.906928",
     "lbl:latitude":49.901928,
     "lbl:longitude":-119.434909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.906653,
     "mps:longitude":-119.430563,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Dilworth Mountain"
-    ],
-    "name:unk_x_variant":[
         "Dilworth Mountain"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741131,
-        890458697,
-        85682117
+        890458697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856436,
-        "qs:id":1246141,
         "qs_pg:id":1246141
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872067,
+    "wof:lastmodified":1566518939,
     "wof:name":"Dilworth Mountain",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

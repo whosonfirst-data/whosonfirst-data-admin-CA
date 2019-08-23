@@ -11,8 +11,10 @@
     "geom:longitude":-66.576621,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.581621,45.902681,-66.571621,45.912681",
     "lbl:latitude":45.907681,
     "lbl:longitude":-66.576621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.909752,
     "mps:longitude":-66.578042,
     "mz:hierarchy_label":0,
@@ -174,9 +176,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u043a\u043e\u043b\u044c\u043d"
     ],
-    "name:unk_x_variant":[
-        "Lincoln"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0646\u06a9\u0646"
     ],
@@ -214,7 +213,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -225,7 +224,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856742,
-        "qs:id":237990,
         "qs_pg:id":237990
     },
     "wof:country":"CA",
@@ -244,7 +242,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170823,
+    "wof:lastmodified":1566518992,
     "wof:name":"Lincoln",
     "wof:parent_id":101735269,
     "wof:placetype":"neighbourhood",

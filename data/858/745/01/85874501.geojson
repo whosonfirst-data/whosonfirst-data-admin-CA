@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.452394,
     "lbl:longitude":-75.681226,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.456919,
     "mps:longitude":-75.664054,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":70.0,
     "wd:latitude":45.45,
     "wd:longitude":-75.678,
@@ -60,10 +61,12 @@
     "wof:concordances":{
         "gn:id":6126245,
         "gp:id":55855832,
-        "qs:id":896637,
-        "qs_pg:id":972511,
+        "qs_pg:id":896637,
         "wd:id":"Q4396877",
         "wk:page":"Rockcliffe Park, Ontario"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":972511
     },
     "wof:controlled":[],
     "wof:country":"CA",
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844224,
+    "wof:lastmodified":1566519023,
     "wof:name":"Rockcliffe Park",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

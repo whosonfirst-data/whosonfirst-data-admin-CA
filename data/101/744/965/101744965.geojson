@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":28700.487737,
     "geom:bbox":"-121.5848164,51.8489728,-121.5818152,51.8506651",
     "geom:latitude":51.849929,
     "geom:longitude":-121.583427,
     "iso:country":"CA",
     "lbl:latitude":51.849903,
     "lbl:longitude":-121.583423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.849903,
     "mps:longitude":-121.583423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Windy Mouth 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744965,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566519964,
     "wof:name":"Windy Mouth 7",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

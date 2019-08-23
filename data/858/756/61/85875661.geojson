@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1018700.924937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.746517,53.913417,-122.746517,53.913417",
     "geom:latitude":53.913417,
     "geom:longitude":-122.746517,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.751517,53.908417,-122.741517,53.918417",
     "lbl:latitude":53.913417,
     "lbl:longitude":-122.746517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.912427,
     "mps:longitude":-122.745831,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Civic Centre"
-    ],
-    "name:unk_x_variant":[
         "Civic Centre"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856737,
-        "qs:id":381700,
         "qs_pg:id":381700
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872190,
+    "wof:lastmodified":1566518992,
     "wof:name":"Civic Centre",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

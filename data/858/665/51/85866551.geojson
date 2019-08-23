@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
-    "geom:area_square_m":532520.519433,
+    "geom:area_square_m":532520.519432,
     "geom:bbox":"-97.135693,49.885637,-97.125652,49.895137",
     "geom:latitude":49.889938,
     "geom:longitude":-97.130703,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.890327,
     "lbl:longitude":-97.130745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.891392,
     "mps:longitude":-97.128653,
     "mz:hierarchy_label":1,
@@ -41,20 +42,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":126,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968511,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332824,
-        "qs:id":368623,
         "qs_pg:id":368623
     },
     "wof:country":"CA",
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523915,
+    "wof:lastmodified":1566519013,
     "wof:name":"The Forks",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

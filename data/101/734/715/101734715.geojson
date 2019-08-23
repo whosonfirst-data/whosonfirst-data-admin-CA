@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":53.85914,
     "lbl:longitude":-101.214049,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.85914,
     "mps:longitude":-101.214049,
     "mz:hierarchy_label":1,
@@ -206,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.825,
     "wd:longitude":-101.253,
@@ -222,7 +224,6 @@
         "fct:id":"03c017c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6164499,
         "gp:id":2331,
-        "qs:id":1053591,
         "qs_pg:id":1053591,
         "wd:id":"Q61422",
         "wk:page":"The Pas"
@@ -242,7 +243,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285255,
+    "wof:lastmodified":1566519908,
     "wof:name":"The Pas",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

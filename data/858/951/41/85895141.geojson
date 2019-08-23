@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7735418.762024,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.357947,44.310215,-79.357947,44.310215",
     "geom:latitude":44.310215,
     "geom:longitude":-79.357947,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.362947,44.305215,-79.352947,44.315215",
     "lbl:latitude":44.310215,
     "lbl:longitude":-79.357947,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.305664,
     "mps:longitude":-79.355828,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Sutton"
-    ],
-    "name:unk_x_variant":[
         "Downtown Sutton"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999125,
-        "qs:id":1354895,
         "qs_pg:id":1354895
     },
     "wof:country":"CA",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931336,
+    "wof:lastmodified":1566519000,
     "wof:name":"Downtown Sutton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

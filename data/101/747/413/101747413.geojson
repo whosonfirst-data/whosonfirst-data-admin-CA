@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002597,
+    "geom:area_square_m":17873824.385025,
     "geom:bbox":"-98.4471717,56.1655514,-98.3121002,56.1993959",
     "geom:latitude":56.17877,
     "geom:longitude":-98.380369,
     "iso:country":"CA",
     "lbl:latitude":56.179703,
     "lbl:longitude":-98.381394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.179703,
     "mps:longitude":-98.381394,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wapikunoo Bay Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747413,
-    "wof:lastmodified":1533069713,
+    "wof:lastmodified":1566519619,
     "wof:name":"Wapikunoo Bay Indian Reserve",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

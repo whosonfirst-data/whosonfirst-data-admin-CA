@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.551578,
     "lbl:longitude":-70.647288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.551578,
     "mps:longitude":-70.647288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Nazaire-de-Dorchester"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191575,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101738351,
-    "wof:lastmodified":1563284675,
+    "wof:lastmodified":1566519524,
     "wof:name":"Saint-Nazaire-de-Dorchester",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.370527,
     "lbl:longitude":-107.893862,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.370527,
     "mps:longitude":-107.893862,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glenside No. 377"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101740497,
-    "wof:lastmodified":1535390438,
+    "wof:lastmodified":1566519555,
     "wof:name":"Glenside No. 377",
     "wof:parent_id":1158868955,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.529674,
     "lbl:longitude":-64.579788,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.529674,
     "mps:longitude":-64.579788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lunenburg"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Lunenburg",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1206",
@@ -50,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375045,
-        "qs:id":1089192,
+        "qs_pg:id":1089192,
         "wk:page":"Lunenburg"
     },
     "wof:country":"CA",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890457729,
-    "wof:lastmodified":1554759445,
+    "wof:lastmodified":1566520252,
     "wof:name":"Lunenburg",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

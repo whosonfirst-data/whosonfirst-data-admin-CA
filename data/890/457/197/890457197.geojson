@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.772657,
     "lbl:longitude":-64.010511,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.772657,
     "mps:longitude":-64.010511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ang_x_preferred":[
         "Cumbraland"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Cumberland",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1211",
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375193,
-        "qs:id":890825,
+        "qs_pg:id":890825,
         "wk:page":"Cumberland"
     },
     "wof:country":"CA",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890457197,
-    "wof:lastmodified":1564173382,
+    "wof:lastmodified":1566520234,
     "wof:name":"Cumberland",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

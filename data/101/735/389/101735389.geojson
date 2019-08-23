@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":60.242255,
     "lbl:longitude":-123.433467,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":60.242255,
     "mps:longitude":-123.433467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fort Liard"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":216.0,
     "wd:latitude":60.2408,
@@ -91,10 +94,12 @@
         "fct:id":"03c0a79c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5955887,
         "gp:id":4268,
-        "qs:id":615196,
-        "qs_pg:id":1071892,
+        "qs_pg:id":615196,
         "wd:id":"Q1438605",
         "wk:page":"Fort Liard"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1071892
     },
     "wof:country":"CA",
     "wof:geomhash":"1daf4f2fb6d3fa239d0bbb14e778ba18",
@@ -111,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285505,
+    "wof:lastmodified":1566519957,
     "wof:name":"Fort Liard",
     "wof:parent_id":1158869037,
     "wof:placetype":"locality",

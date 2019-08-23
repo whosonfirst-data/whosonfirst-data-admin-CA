@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000601,
+    "geom:area_square_m":4204846.515682,
     "geom:bbox":"-95.7437457,55.5200475,-95.6832423,55.5436271",
     "geom:latitude":55.53016,
     "geom:longitude":-95.722049,
     "iso:country":"CA",
     "lbl:latitude":55.52942,
     "lbl:longitude":-95.726639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.52942,
     "mps:longitude":-95.726639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "High Hill Lake Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747283,
-    "wof:lastmodified":1533069689,
+    "wof:lastmodified":1566519715,
     "wof:name":"High Hill Lake Indian Reserve",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

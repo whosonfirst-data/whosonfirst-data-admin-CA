@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":869501.880276,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.833174,43.241696,-79.833174,43.241696",
     "geom:latitude":43.241696,
     "geom:longitude":-79.833174,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.838174,43.236696,-79.828174,43.246696",
     "lbl:latitude":43.241696,
     "lbl:longitude":-79.833174,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.242201,
     "mps:longitude":-79.834626,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Blakeley"
     ],
     "name:fra_x_preferred":[
-        "Blakeley"
-    ],
-    "name:unk_x_variant":[
         "Blakeley"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":92,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735515,
-        890456341,
-        85682057
+        890456341
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856228,
-        "qs:id":381429,
         "qs_pg:id":381429
     },
     "wof:country":"CA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871962,
+    "wof:lastmodified":1566518977,
     "wof:name":"Blakeley",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

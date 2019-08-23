@@ -11,8 +11,10 @@
     "geom:longitude":-82.325693,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.330693,42.992425,-82.320693,43.002425",
     "lbl:latitude":42.997425,
     "lbl:longitude":-82.325693,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.99824,
     "mps:longitude":-82.329047,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0435\u043a\u0432\u0435\u043b\u043b"
     ],
-    "name:unk_x_variant":[
-        "Blackwell"
-    ],
     "name:vol_x_preferred":[
         "Blackwell"
     ],
@@ -104,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191575,
@@ -116,7 +115,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400070,
-        "qs:id":896338,
         "qs_pg:id":896338
     },
     "wof:country":"CA",
@@ -141,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170869,
+    "wof:lastmodified":1566519008,
     "wof:name":"Blackwell",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.389243,
     "lbl:longitude":-65.991736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.389243,
     "mps:longitude":-65.991736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rothesay"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.383056,
     "wd:longitude":-65.996944,
     "wd:wordcount":745,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6128033,
         "gp:id":1373,
-        "qs:id":1196921,
         "qs_pg:id":1196921,
         "wd:id":"Q240864",
         "wk:page":"Rothesay, New Brunswick"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735261,
-    "wof:lastmodified":1563285358,
+    "wof:lastmodified":1566519929,
     "wof:name":"Rothesay",
     "wof:parent_id":890456055,
     "wof:placetype":"locality",

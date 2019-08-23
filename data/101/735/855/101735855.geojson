@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":42.28382,
     "lbl:longitude":-82.997089,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.28382,
     "mps:longitude":-82.997089,
     "mz:hierarchy_label":1,
@@ -482,7 +484,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":7493,
     "wof:belongsto":[
@@ -495,7 +497,6 @@
     "wof:concordances":{
         "gn:id":6182962,
         "gp:id":4079,
-        "qs:id":767028,
         "qs_pg:id":767028,
         "wd:id":"Q182625",
         "wk:page":"Windsor, Ontario"
@@ -512,7 +513,7 @@
         }
     ],
     "wof:id":101735855,
-    "wof:lastmodified":1563285492,
+    "wof:lastmodified":1566519955,
     "wof:name":"Windsor",
     "wof:parent_id":890458683,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
+    "geom:area_square_m":3636516.381074,
     "geom:bbox":"-124.5558427,54.5600719,-124.4752953,54.5750236",
     "geom:latitude":54.570124,
     "geom:longitude":-124.504996,
     "iso:country":"CA",
     "lbl:latitude":54.570223,
     "lbl:longitude":-124.491712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.570223,
     "mps:longitude":-124.491712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Binche 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747265,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566519740,
     "wof:name":"Binche 2",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

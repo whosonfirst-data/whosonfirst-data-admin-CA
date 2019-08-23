@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2285453.687563,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.238831,53.691826,-113.238831,53.691826",
     "geom:latitude":53.691826,
     "geom:longitude":-113.238831,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.243831,53.686826,-113.233831,53.696826",
     "lbl:latitude":53.691826,
     "lbl:longitude":-113.238831,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.691828,
     "mps:longitude":-113.238831,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Pineview"
     ],
     "name:ita_x_preferred":[
-        "Pineview"
-    ],
-    "name:unk_x_variant":[
         "Pineview"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":233,
     "wof:belongsto":[
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998614,
-        "qs:id":1070824,
         "qs_pg:id":1070824
     },
     "wof:country":"CA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931219,
+    "wof:lastmodified":1566519020,
     "wof:name":"Pineview",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

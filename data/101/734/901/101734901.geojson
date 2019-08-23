@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.247885,
     "lbl:longitude":-99.849917,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.247885,
     "mps:longitude":-99.849917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0435\u0434\u043e\u0441\u0430"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.2453,
     "wd:longitude":-99.8428,
@@ -80,7 +83,6 @@
         "fct:id":"03c030f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6074882,
         "gp:id":2636,
-        "qs:id":247251,
         "qs_pg:id":247251,
         "wd:id":"Q281649",
         "wk:page":"Minnedosa, Manitoba"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285238,
+    "wof:lastmodified":1566519905,
     "wof:name":"Minnedosa",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

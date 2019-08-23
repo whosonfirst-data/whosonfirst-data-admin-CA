@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":29746.452599,
     "geom:bbox":"-126.6468537,51.0534298,-126.6439764,51.0557402",
     "geom:latitude":51.054491,
     "geom:longitude":-126.645207,
     "iso:country":"CA",
     "lbl:latitude":51.054297,
     "lbl:longitude":-126.644978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.054297,
     "mps:longitude":-126.644978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuthlo 18"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743025,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566519989,
     "wof:name":"Kuthlo 18",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

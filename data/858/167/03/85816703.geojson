@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3400346.111992,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.583923,45.023067,-72.583923,45.023067",
     "geom:latitude":45.023067,
     "geom:longitude":-72.583923,
     "gn:elevation":159,
     "iso:country":"CA",
+    "lbl:bbox":"-72.588923,45.018067,-72.578923,45.028067",
     "lbl:latitude":45.023067,
     "lbl:longitude":-72.583923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.023068,
     "mps:longitude":-72.583923,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "E Richford"
-    ],
-    "name:unk_x_variant":[
-        "East Richford"
     ],
     "qs:gn_adm0_cc":"US",
     "qs:gn_fcode":"PPL",
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -73,7 +72,7 @@
     "wof:concordances":{
         "gn:id":5235775,
         "gp:id":2396083,
-        "qs:id":1306311
+        "qs_pg:id":1306311
     },
     "wof:country":"CA",
     "wof:geomhash":"9d3c9f65a4849563f7b1cede876c1bfe",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531864003,
+    "wof:lastmodified":1566518951,
     "wof:name":"East Richford",
     "wof:parent_id":101737729,
     "wof:placetype":"neighbourhood",

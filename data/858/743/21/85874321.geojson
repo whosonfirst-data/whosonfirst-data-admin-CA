@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001224,
-    "geom:area_square_m":10948463.259481,
+    "geom:area_square_m":10948463.259459,
     "geom:bbox":"-79.359853902,43.612731965,-79.303990178,43.674940232",
     "geom:latitude":43.649295,
     "geom:longitude":-79.335651,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.654213,
     "lbl:longitude":-79.337553,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.641534,
     "mps:longitude":-79.326451,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"South Riverdale (70)",
     "torsdfa:AREA_S_CD":"070",
     "wof:belongsto":[
@@ -47,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855841,
-        "qs:id":1080178,
         "qs_pg:id":1080178
     },
     "wof:controlled":[
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335730,
+    "wof:lastmodified":1566519017,
     "wof:name":"South Riverdale",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

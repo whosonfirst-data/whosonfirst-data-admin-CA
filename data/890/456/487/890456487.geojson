@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.509395,
     "lbl:longitude":-123.920611,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.509395,
     "mps:longitude":-123.920611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Capital"
     ],
@@ -150,7 +153,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Capital",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5917",
@@ -165,7 +168,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375156,
-        "qs:id":1291444,
+        "qs_pg:id":1291444,
         "wk:page":"Capital"
     },
     "wof:country":"CA",
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890456487,
-    "wof:lastmodified":1564173320,
+    "wof:lastmodified":1566520185,
     "wof:name":"Capital",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.174222,
     "lbl:longitude":-67.310222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.174222,
     "mps:longitude":-67.310222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "St. Stephen"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.192222,
     "wd:longitude":-67.277222,
     "wd:wordcount":3069,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6158349,
         "gp:id":1618,
-        "qs:id":902772,
         "qs_pg:id":902772,
         "wd:id":"Q2358467",
         "wk:page":"St. Stephen, New Brunswick"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735321,
-    "wof:lastmodified":1563285518,
+    "wof:lastmodified":1566519962,
     "wof:name":"St. Stephen",
     "wof:parent_id":1158869023,
     "wof:placetype":"locality",

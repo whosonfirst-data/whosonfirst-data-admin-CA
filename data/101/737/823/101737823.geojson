@@ -9,14 +9,17 @@
     "geom:bbox":"-75.640865903,45.703855819,-75.487807437,45.845356813",
     "geom:latitude":45.778374,
     "geom:longitude":-75.550219,
-    "geonames:id":"6091351,6091354",
+    "gn:id":"6091351,6091354",
     "iso:country":"CA",
     "lbl:latitude":45.791551,
     "lbl:longitude":-75.54874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.791551,
     "mps:longitude":-75.54874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u062a \u062f\u0627\u0645 \u062f\u064a \u0644\u0627 \u0633\u0627\u0644\u064a\u062a\u0647"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":388,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101737823,
-    "wof:lastmodified":1563284258,
+    "wof:lastmodified":1566519443,
     "wof:name":"Notre-Dame-de-la-Salette",
     "wof:parent_id":890458027,
     "wof:placetype":"locality",

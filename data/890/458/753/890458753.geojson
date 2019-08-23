@@ -14,16 +14,18 @@
     "geom:longitude":-112.46869,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":1388,
     "gn:population":1388,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.79039,
     "lbl:longitude":-112.470496,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.79039,
     "mps:longitude":-112.470496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bassano"
     ],
@@ -72,7 +74,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
     "wof:belongsto":[
@@ -85,7 +87,7 @@
     "wof:concordances":{
         "gn:id":5894642,
         "gp:id":8603,
-        "qs:id":231788,
+        "qs_pg:id":231788,
         "wd:id":"Q773061",
         "wk:page":"Bassano"
     },
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":890458753,
-    "wof:lastmodified":1563285930,
+    "wof:lastmodified":1566520097,
     "wof:name":"Bassano",
     "wof:parent_id":1158863209,
     "wof:placetype":"locality",

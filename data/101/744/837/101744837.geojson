@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000571,
+    "geom:area_square_m":4614282.338281,
     "geom:bbox":"-122.0567626,49.1831827,-121.9996367,49.2106578",
     "geom:latitude":49.195149,
     "geom:longitude":-122.024553,
     "iso:country":"CA",
     "lbl:latitude":49.19376,
     "lbl:longitude":-122.02584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.19376,
     "mps:longitude":-122.02584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skumalasph 16"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744837,
-    "wof:lastmodified":1533335900,
+    "wof:lastmodified":1566519980,
     "wof:name":"Skumalasph 16",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

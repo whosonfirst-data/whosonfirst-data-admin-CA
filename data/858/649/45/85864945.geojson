@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":2055111.276195,
+    "geom:area_square_m":2055111.276191,
     "geom:bbox":"-113.958426,51.037848,-113.935041,51.053883",
     "geom:latitude":51.046229,
     "geom:longitude":-113.948077,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.046531,
     "lbl:longitude":-113.947918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.038197,
     "mps:longitude":-113.942113,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1057.0,
     "wd:latitude":51.0453,
     "wd:longitude":-113.947,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404847,
-        "qs:id":1087706,
         "qs_pg:id":1087706,
         "wd:id":"Q7162280"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566519004,
     "wof:name":"Penbrooke Meadows",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

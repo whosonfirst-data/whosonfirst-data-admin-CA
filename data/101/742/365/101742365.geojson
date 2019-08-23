@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
+    "geom:area_square_m":1585539.798492,
     "geom:bbox":"-108.2132368,56.1289713,-108.1959861,56.1509908",
     "geom:latitude":56.141932,
     "geom:longitude":-108.20228,
     "iso:country":"CA",
     "lbl:latitude":56.143261,
     "lbl:longitude":-108.202111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.143261,
     "mps:longitude":-108.202111,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Churchill Lake I.R. 193A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101742365,
-    "wof:lastmodified":1531525137,
+    "wof:lastmodified":1566520007,
     "wof:name":"Churchill Lake I.R. 193A",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

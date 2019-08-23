@@ -11,8 +11,10 @@
     "geom:longitude":-79.415488,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.420488,43.80113,-79.410488,43.81113",
     "lbl:latitude":43.80613,
     "lbl:longitude":-79.415488,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.804985,
     "mps:longitude":-79.414133,
     "mz:hierarchy_label":0,
@@ -75,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -87,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999509,
-        "qs:id":19638,
         "qs_pg:id":19638
     },
     "wof:controlled":[],
@@ -115,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170711,
+    "wof:lastmodified":1566518953,
     "wof:name":"Grandview",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

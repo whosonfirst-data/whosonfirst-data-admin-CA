@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":43828.491096,
     "geom:bbox":"-126.7220782,51.1330467,-126.7192037,51.1353066",
     "geom:latitude":51.134318,
     "geom:longitude":-126.720609,
     "iso:country":"CA",
     "lbl:latitude":51.134479,
     "lbl:longitude":-126.720687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.134479,
     "mps:longitude":-126.720687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peneece 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743009,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566519990,
     "wof:name":"Peneece 11",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

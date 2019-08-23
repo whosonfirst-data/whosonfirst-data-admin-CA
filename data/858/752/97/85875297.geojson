@@ -11,8 +11,10 @@
     "geom:longitude":-119.485826,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.490826,49.909734,-119.480826,49.919734",
     "lbl:latitude":49.914734,
     "lbl:longitude":-119.485826,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.928356,
     "mps:longitude":-119.50789,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442\u0440\u0430\u043b-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Central City"
-    ],
     "name:vol_x_preferred":[
         "Central City"
     ],
@@ -98,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":353,
     "wof:belongsto":[
         85682117,
@@ -110,7 +109,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856438,
-        "qs:id":237988,
         "qs_pg:id":237988
     },
     "wof:country":"CA",
@@ -129,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170663,
+    "wof:lastmodified":1566518940,
     "wof:name":"Central City",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-113.670631,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.675631,53.645568,-113.665631,53.655568",
     "lbl:latitude":53.650568,
     "lbl:longitude":-113.670631,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.639843,
     "mps:longitude":-113.701705,
     "mz:hierarchy_label":0,
@@ -40,7 +42,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458621,
@@ -50,7 +52,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998582,
-        "qs:id":1070822,
         "qs_pg:id":1070822
     },
     "wof:country":"CA",
@@ -68,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170882,
+    "wof:lastmodified":1566519019,
     "wof:name":"North Ridge",
     "wof:parent_id":890458621,
     "wof:placetype":"neighbourhood",

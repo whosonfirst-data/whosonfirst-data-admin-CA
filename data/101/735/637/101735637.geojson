@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.537149,
     "lbl:longitude":-79.588324,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.537149,
     "mps:longitude":-79.588324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Harris"
     ],
@@ -80,7 +83,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":141,
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101735637,
-    "wof:lastmodified":1563285479,
+    "wof:lastmodified":1566519953,
     "wof:name":"Harris",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

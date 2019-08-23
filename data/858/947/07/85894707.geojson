@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4948456.459655,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.095083,49.02588,-123.095083,49.02588",
     "geom:latitude":49.02588,
     "geom:longitude":-123.095083,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.100083,49.02088,-123.090083,49.03088",
     "lbl:latitude":49.02588,
     "lbl:longitude":-123.095083,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.021659,
     "mps:longitude":-123.104051,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Stahaken"
-    ],
-    "name:unk_x_variant":[
         "Stahaken"
     ],
     "qs:gn_id":0,
@@ -56,18 +55,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998777,
-        "qs:id":986985,
         "qs_pg:id":986985
     },
     "wof:country":"CA",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931243,
+    "wof:lastmodified":1566518979,
     "wof:name":"Stahaken",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

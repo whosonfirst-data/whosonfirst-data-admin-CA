@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.648727,
     "lbl:longitude":-113.586171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.648049,
     "mps:longitude":-113.585834,
     "mz:hierarchy_label":1,
@@ -62,7 +63,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458621,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108936363,
-    "wof:lastmodified":1564172106,
+    "wof:lastmodified":1566519264,
     "wof:name":"Kingswood",
     "wof:parent_id":890458621,
     "wof:placetype":"neighbourhood",

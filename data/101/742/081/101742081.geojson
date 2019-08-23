@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":3600.461989,
     "geom:bbox":"-108.1486702,55.1335422,-108.1476665,55.1341561",
     "geom:latitude":55.133852,
     "geom:longitude":-108.148147,
     "iso:country":"CA",
     "lbl:latitude":55.133844,
     "lbl:longitude":-108.148206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.133844,
     "mps:longitude":-108.148206,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Roadside Indian Reserve No. 165F"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742081,
-    "wof:lastmodified":1531525130,
+    "wof:lastmodified":1566520024,
     "wof:name":"Roadside Indian Reserve No. 165F",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-117.68568,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
+    "lbl:bbox":"-117.70568,53.34678,-117.66568,53.38678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Entrance"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":5949051,
         "gp:id":8445,
-        "qs:id":530135,
+        "qs_pg:id":530135,
         "wd:id":"Q1345058",
         "wk:page":"Entrance"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890457073,
-    "wof:lastmodified":1561844536,
+    "wof:lastmodified":1566520242,
     "wof:name":"Entrance",
     "wof:parent_id":1158863299,
     "wof:placetype":"locality",

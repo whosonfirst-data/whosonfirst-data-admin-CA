@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.768772,
     "lbl:longitude":-100.633675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.768772,
     "mps:longitude":-100.633675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Oak Lake"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.7664,
     "wd:longitude":-100.628,
     "wd:wordcount":1648,
@@ -75,7 +78,6 @@
         "fct:id":"03c03a28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6092022,
         "gp:id":2891,
-        "qs:id":1328418,
         "qs_pg:id":1328418,
         "wd:id":"Q75834",
         "wk:page":"Oak Lake, Manitoba"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285469,
+    "wof:lastmodified":1566519951,
     "wof:name":"Oak Lake",
     "wof:parent_id":1158868945,
     "wof:placetype":"locality",

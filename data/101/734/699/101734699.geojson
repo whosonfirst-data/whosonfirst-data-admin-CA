@@ -9,10 +9,12 @@
     "geom:bbox":"-101.3333344,56.6817707,-100.8000003,56.966668",
     "geom:latitude":56.82423,
     "geom:longitude":-101.066673,
-    "geonames:id":"6062333,6062335",
+    "gn:id":"6062333,6062335",
     "iso:country":"CA",
     "lbl:latitude":56.824231,
     "lbl:longitude":-101.066673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.824231,
     "mps:longitude":-101.066673,
     "mz:hierarchy_label":1,
@@ -160,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.851667,
     "wd:longitude":-101.046667,
     "wd:wordcount":977,
@@ -189,7 +191,7 @@
         }
     ],
     "wof:id":101734699,
-    "wof:lastmodified":1563285276,
+    "wof:lastmodified":1566519913,
     "wof:name":"Lynn Lake",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003312,
+    "geom:area_square_m":23415640.012319,
     "geom:bbox":"-108.2829324,55.0942713,-108.1281219,55.1733552",
     "geom:latitude":55.125488,
     "geom:longitude":-108.197164,
     "iso:country":"CA",
     "lbl:latitude":55.147093,
     "lbl:longitude":-108.166429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.147093,
     "mps:longitude":-108.166429,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canoe Lake I.R. 165"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742103,
-    "wof:lastmodified":1531525130,
+    "wof:lastmodified":1566520007,
     "wof:name":"Canoe Lake I.R. 165",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

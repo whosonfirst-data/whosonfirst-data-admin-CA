@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":85723.81027,
     "geom:bbox":"-123.6108064,48.3259526,-123.604713,48.3293594",
     "geom:latitude":48.327656,
     "geom:longitude":-123.607171,
     "iso:country":"CA",
     "lbl:latitude":48.32804,
     "lbl:longitude":-123.607693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.32804,
     "mps:longitude":-123.607693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fraser Island 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745791,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520034,
     "wof:name":"Fraser Island 6",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

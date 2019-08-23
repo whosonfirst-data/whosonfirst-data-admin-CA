@@ -14,15 +14,18 @@
     "geom:longitude":-111.155857,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":54.252699,
     "lbl:longitude":-111.159329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.252699,
     "mps:longitude":-111.159329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u064a\u0646\u062f\u0648\u0646"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":5961910,
         "gp:id":8483,
-        "qs:id":977902,
+        "qs_pg:id":977902,
         "wd:id":"Q2752447",
         "wk:page":"Glendon"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890458283,
-    "wof:lastmodified":1563286050,
+    "wof:lastmodified":1566520126,
     "wof:name":"Glendon",
     "wof:parent_id":1158863163,
     "wof:placetype":"locality",

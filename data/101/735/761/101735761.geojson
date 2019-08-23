@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.387599,
     "lbl:longitude":-84.085754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.387599,
     "mps:longitude":-84.085754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Laird"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2024,
     "wof:belongsto":[
         102191575,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101735761,
-    "wof:lastmodified":1563285439,
+    "wof:lastmodified":1566519945,
     "wof:name":"Laird",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

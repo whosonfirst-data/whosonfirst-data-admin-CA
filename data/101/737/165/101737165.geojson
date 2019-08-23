@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.408715,
     "lbl:longitude":-74.163822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.408715,
     "mps:longitude":-74.163822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0627\u0632\u0627\u0631"
     ],
@@ -105,7 +108,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.4,
     "wd:longitude":-74.1333,
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":6138617,
         "gp:id":23396571,
-        "qs:id":906292,
+        "qs_pg:id":906292,
         "wd:id":"Q142426",
         "wk:page":"Saint-Lazare, Quebec"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101737165,
-    "wof:lastmodified":1563284226,
+    "wof:lastmodified":1566519437,
     "wof:name":"Saint-Lazare",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

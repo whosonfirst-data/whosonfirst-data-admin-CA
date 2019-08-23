@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11146697.091924,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.616228,46.35514,-72.616228,46.35514",
     "geom:latitude":46.35514,
     "geom:longitude":-72.616228,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.621228,46.35014,-72.611228,46.36014",
     "lbl:latitude":46.35514,
     "lbl:longitude":-72.616228,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.353206,
     "mps:longitude":-72.625379,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Terrasses de la Chaudi\u00e8re"
     ],
     "name:fra_x_variant":[
-        "Terrasses"
-    ],
-    "name:unk_x_variant":[
         "Terrasses"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855657,
-        "qs:id":381115,
         "qs_pg:id":381115
     },
     "wof:country":"CA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871880,
+    "wof:lastmodified":1566518973,
     "wof:name":"Terrasses",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
+    "geom:area_square_m":3223028.10487,
     "geom:bbox":"-80.6124355,51.2540122,-80.5762222,51.2767572",
     "geom:latitude":51.266582,
     "geom:longitude":-80.594367,
     "iso:country":"CA",
     "lbl:latitude":51.266779,
     "lbl:longitude":-80.594377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.266779,
     "mps:longitude":-80.594377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Factory Island Indian Reserve No. 1"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101741311,
-    "wof:lastmodified":1533335666,
+    "wof:lastmodified":1566519898,
     "wof:name":"Factory Island Indian Reserve No. 1",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

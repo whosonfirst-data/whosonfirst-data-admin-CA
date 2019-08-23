@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":56066.665356,
     "geom:bbox":"-129.8708732,53.3397679,-129.8677012,53.3433915",
     "geom:latitude":53.34202,
     "geom:longitude":-129.86942,
     "iso:country":"CA",
     "lbl:latitude":53.342156,
     "lbl:longitude":-129.869296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.342156,
     "mps:longitude":-129.869296,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kooryet 12"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":12523263
     },
     "wof:country":"CA",
-    "wof:geomhash":"9759c08106783053d8b36c295666a69d",
+    "wof:geomhash":"49f4e22941e5cfe66b677046181dd4a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743439,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566519990,
     "wof:name":"Kooryet 12",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

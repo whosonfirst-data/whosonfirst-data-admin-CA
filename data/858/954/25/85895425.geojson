@@ -11,8 +11,10 @@
     "geom:longitude":-79.66881,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.67381,43.215471,-79.66381,43.225471",
     "lbl:latitude":43.220471,
     "lbl:longitude":-79.66881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.215025,
     "mps:longitude":-79.668127,
     "mz:hierarchy_label":0,
@@ -72,9 +74,6 @@
     "name:swe_x_preferred":[
         "Winona"
     ],
-    "name:unk_x_variant":[
-        "Winona"
-    ],
     "name:vol_x_preferred":[
         "Winona"
     ],
@@ -104,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -115,7 +114,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999406,
-        "qs:id":212723,
         "qs_pg:id":212723
     },
     "wof:country":"CA",
@@ -134,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170680,
+    "wof:lastmodified":1566518944,
     "wof:name":"Winona",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

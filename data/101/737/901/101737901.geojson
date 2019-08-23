@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.037985,
     "lbl:longitude":-75.186726,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.037985,
     "mps:longitude":-75.186726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0647\u0627\u0645\u0644"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":449,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101737901,
-    "wof:lastmodified":1563284117,
+    "wof:lastmodified":1566519413,
     "wof:name":"Duhamel",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

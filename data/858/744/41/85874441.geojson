@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":1043785.662569,
+    "geom:area_square_m":1043785.662566,
     "geom:bbox":"-75.7464759999,45.3594699999,-75.7308204103,45.3731870003",
     "geom:latitude":45.366773,
     "geom:longitude":-75.738404,
     "iso:country":"CA",
     "lbl:latitude":45.36798,
     "lbl:longitude":-75.737306,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.356859,
     "mps:longitude":-75.700287,
     "mz:hierarchy_label":1,
@@ -186,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "River"
     ],
     "name:vie_x_preferred":[
@@ -232,15 +233,15 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":12362,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,7 +266,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277894,
+    "wof:lastmodified":1566519016,
     "wof:name":"Central Park",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

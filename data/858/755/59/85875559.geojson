@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17379237.882549,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.277751,43.026001,-82.277751,43.026001",
     "geom:latitude":43.026001,
     "geom:longitude":-82.277751,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.282751,43.021001,-82.272751,43.031001",
     "lbl:latitude":43.026001,
     "lbl:longitude":-82.277751,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.994603,
     "mps:longitude":-82.274091,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:eng_x_variant":[
         "Bright's Grove/Stoney Creek",
         "Stoney Creek"
-    ],
-    "name:unk_x_variant":[
-        "Bright's Grove"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -63,9 +62,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736007,
         85633041,
@@ -75,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856669,
-        "qs:id":1000973,
         "qs_pg:id":1000973
     },
     "wof:country":"CA",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872157,
+    "wof:lastmodified":1566518940,
     "wof:name":"Bright's Grove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

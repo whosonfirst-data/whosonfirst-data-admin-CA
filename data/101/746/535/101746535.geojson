@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
+    "geom:area_square_m":187533.423568,
     "geom:bbox":"-63.9074908,46.6182041,-63.9002666,46.624176",
     "geom:latitude":46.621456,
     "geom:longitude":-63.90315,
     "iso:country":"CA",
     "lbl:latitude":46.621612,
     "lbl:longitude":-63.903151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.621612,
     "mps:longitude":-63.903151,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lennox Island Indian Reserve No. 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746535,
-    "wof:lastmodified":1532596846,
+    "wof:lastmodified":1566519806,
     "wof:name":"Lennox Island Indian Reserve No. 5",
     "wof:parent_id":890457725,
     "wof:placetype":"locality",

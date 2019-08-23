@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017222,
+    "geom:area_square_m":125513687.465494,
     "geom:bbox":"-91.0693063,53.841161,-90.8330893,53.9384496",
     "geom:latitude":53.886211,
     "geom:longitude":-90.954593,
     "iso:country":"CA",
     "lbl:latitude":53.873628,
     "lbl:longitude":-90.912428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.873628,
     "mps:longitude":-90.912428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bearskin Lake Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101741443,
-    "wof:lastmodified":1533335671,
+    "wof:lastmodified":1566519887,
     "wof:name":"Bearskin Lake Indian Reserve",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

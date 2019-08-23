@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":32323.114019,
     "geom:bbox":"-123.4873533,48.590576,-123.4843813,48.5928304",
     "geom:latitude":48.591794,
     "geom:longitude":-123.485814,
     "iso:country":"CA",
     "lbl:latitude":48.591708,
     "lbl:longitude":-123.485672,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.591708,
     "mps:longitude":-123.485672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Senanus Island 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743877,
-    "wof:lastmodified":1533335885,
+    "wof:lastmodified":1566519998,
     "wof:name":"Senanus Island 10",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

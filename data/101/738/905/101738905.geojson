@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.593206,
     "lbl:longitude":-72.195454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.593206,
     "mps:longitude":-72.195454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Anne-de-la-P\u00e9rade"
     ],
@@ -80,7 +83,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":641,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":6137740,
         "gp:id":23394513,
-        "qs:id":1182703,
+        "qs_pg:id":1182703,
         "wd:id":"Q3464159",
         "wk:page":"Sainte-Anne-de-la-P\u00e9rade"
     },
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101738905,
-    "wof:lastmodified":1563284682,
+    "wof:lastmodified":1566519525,
     "wof:name":"Sainte-Anne-de-la-P\u00e9rade",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

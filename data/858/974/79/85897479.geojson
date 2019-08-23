@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.909991,
     "lbl:longitude":-97.021866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.915636,
     "mps:longitude":-97.021833,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "name:eng_x_preferred":[
         "Meadows"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lakeside Meadows"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,19 +63,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968467,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022809,
-        "qs:id":987080,
         "qs_pg:id":987080
     },
     "wof:country":"CA",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523922,
+    "wof:lastmodified":1566519018,
     "wof:name":"Meadows",
     "wof:parent_id":1108968467,
     "wof:placetype":"neighbourhood",

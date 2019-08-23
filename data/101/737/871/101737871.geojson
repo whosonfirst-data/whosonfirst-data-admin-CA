@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.18844,
     "lbl:longitude":-66.370062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.18844,
     "mps:longitude":-66.370062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0443\u0432\u0435\u043b\u0435"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101737871,
-    "wof:lastmodified":1563284267,
+    "wof:lastmodified":1566519444,
     "wof:name":"Nouvelle",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",

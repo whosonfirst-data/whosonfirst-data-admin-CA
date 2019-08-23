@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000301,
-    "geom:area_square_m":2339641.603117,
+    "geom:area_square_m":2339641.603115,
     "geom:bbox":"-114.202097,51.11061,-114.166665,51.127706",
     "geom:latitude":51.119668,
     "geom:longitude":-114.18413,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.119802,
     "lbl:longitude":-114.184791,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.119868,
     "mps:longitude":-114.188213,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1160.0,
     "wd:latitude":51.1167,
     "wd:longitude":-114.181,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404872,
-        "qs:id":230522,
         "qs_pg:id":230522,
         "wd:id":"Q7290810"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566519004,
     "wof:name":"Ranchlands",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.576172,
     "lbl:longitude":-113.468763,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.59582,
     "mps:longitude":-113.448676,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -46,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856041,
-        "qs:id":1332220,
         "qs_pg:id":1332220,
         "wd:id":"Q5330999"
     },
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566518986,
     "wof:name":"Eastwood",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

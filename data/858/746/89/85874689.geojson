@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":887199.67954,
+    "geom:area_square_m":887199.679541,
     "geom:bbox":"-113.590345538,53.5315155093,-113.577979692,53.5417442333",
     "geom:latitude":53.536415,
     "geom:longitude":-113.58414,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.536635,
     "lbl:longitude":-113.585026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.533777,
     "mps:longitude":-113.619452,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":673.0,
     "wd:latitude":53.537,
     "wd:longitude":-113.585,
@@ -51,7 +52,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856047,
-        "qs:id":1292831,
         "qs_pg:id":1292831,
         "wd:id":"Q7985573"
     },
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566518985,
     "wof:name":"West Jasper Place",
     "wof:parent_id":1108970659,
     "wof:placetype":"neighbourhood",

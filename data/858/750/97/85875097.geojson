@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":48.430742,
     "lbl:longitude":-123.390921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.431011,
     "mps:longitude":-123.408982,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:ron_x_preferred":[
         "Victoria West"
     ],
-    "name:unk_x_variant":[
-        "Victoria West"
-    ],
     "name:zho_x_preferred":[
         "\u897f\u7dad\u591a\u5229\u4e9e"
     ],
@@ -86,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":-31.403056,
     "wd:longitude":23.120556,
     "wd:wordcount":283,
@@ -100,7 +98,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856319,
-        "qs:id":381488,
         "qs_pg:id":381488
     },
     "wof:country":"CA",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170855,
+    "wof:lastmodified":1566519001,
     "wof:name":"Victoria West",
     "wof:parent_id":101740879,
     "wof:placetype":"neighbourhood",

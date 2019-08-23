@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2805296.579392,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.698944,43.509717,-79.698944,43.509717",
     "geom:latitude":43.509717,
     "geom:longitude":-79.698944,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.703944,43.504717,-79.693944,43.514717",
     "lbl:latitude":43.509717,
     "lbl:longitude":-79.698944,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.50945,
     "mps:longitude":-79.702927,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Joshua's Meadows"
-    ],
-    "name:unk_x_variant":[
         "Joshua's Meadows"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":167,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740755,
         890456343,
-        85682057,
         101735893
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999564,
-        "qs:id":231006,
         "qs_pg:id":231006
     },
     "wof:country":"CA",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931446,
+    "wof:lastmodified":1566518953,
     "wof:name":"Joshua's Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

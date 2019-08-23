@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4077027.509972,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.379119,43.829728,-79.379119,43.829728",
     "geom:latitude":43.829728,
     "geom:longitude":-79.379119,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.384119,43.824728,-79.374119,43.834728",
     "lbl:latitude":43.829728,
     "lbl:longitude":-79.379119,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.831864,
     "mps:longitude":-79.375983,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Green Lane"
     ],
     "name:ita_x_preferred":[
-        "Green Lane"
-    ],
-    "name:unk_x_variant":[
         "Green Lane"
     ],
     "qs:gn_id":0,
@@ -59,21 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":111,
     "wof:belongsto":[
         102191575,
         101736035,
         85633041,
-        101736035,
-        890458415,
         85682057,
         101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999119,
-        "qs:id":1248962,
         "qs_pg:id":1248962
     },
     "wof:country":"CA",
@@ -98,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931334,
+    "wof:lastmodified":1566518999,
     "wof:name":"Green Lane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

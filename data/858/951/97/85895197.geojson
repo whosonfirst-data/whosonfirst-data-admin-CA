@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10862930.879268,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.041379,43.891491,-80.041379,43.891491",
     "geom:latitude":43.891491,
     "geom:longitude":-80.041379,
     "iso:country":"CA",
+    "lbl:bbox":"-80.046379,43.886491,-80.036379,43.896491",
     "lbl:latitude":43.891491,
     "lbl:longitude":-80.041379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.895913,
     "mps:longitude":-80.049174,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "McLeodville"
-    ],
-    "name:unk_x_variant":[
         "McLeodville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,9 +57,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736249,
         85633041,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":6070717,
         "gp:id":55999179,
-        "qs:id":268739,
         "qs_pg:id":268739
     },
     "wof:country":"CA",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931352,
+    "wof:lastmodified":1566519000,
     "wof:name":"McLeodville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

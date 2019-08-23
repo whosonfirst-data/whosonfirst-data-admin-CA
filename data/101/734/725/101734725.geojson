@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.238133,
     "lbl:longitude":-101.209622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.238133,
     "mps:longitude":-101.209622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bowsman"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.2358,
     "wd:longitude":-101.207,
     "wd:wordcount":243,
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285252,
+    "wof:lastmodified":1566519908,
     "wof:name":"Bowsman",
     "wof:parent_id":1158868957,
     "wof:placetype":"locality",

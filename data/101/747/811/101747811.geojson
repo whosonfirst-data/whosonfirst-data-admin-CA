@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004661,
+    "geom:area_square_m":41074888.949325,
     "geom:bbox":"-81.3567342,44.5070837,-81.2681735,44.6293379",
     "geom:latitude":44.546322,
     "geom:longitude":-81.301219,
     "iso:country":"CA",
     "lbl:latitude":44.54226,
     "lbl:longitude":-81.296867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.54226,
     "mps:longitude":-81.296867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saugeen Indian Reserve No. 29"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747811,
-    "wof:lastmodified":1533335689,
+    "wof:lastmodified":1566519618,
     "wof:name":"Saugeen Indian Reserve No. 29",
     "wof:parent_id":890457581,
     "wof:placetype":"locality",

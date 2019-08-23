@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.786029,
     "lbl:longitude":-65.721866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.786029,
     "mps:longitude":-65.721866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a \u0631\u0648\u062a\u0634\u0631"
     ],
@@ -53,7 +56,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.7839,
     "wd:longitude":-65.7159,
     "wd:wordcount":325,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101735159,
-    "wof:lastmodified":1563285305,
+    "wof:lastmodified":1566519918,
     "wof:name":"Petit-Rocher",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

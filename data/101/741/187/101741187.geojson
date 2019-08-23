@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002071,
+    "geom:area_square_m":16842877.129915,
     "geom:bbox":"-90.4304624,48.8578156,-90.3168735,48.9009245",
     "geom:latitude":48.884374,
     "geom:longitude":-90.37611,
     "iso:country":"CA",
     "lbl:latitude":48.886382,
     "lbl:longitude":-90.384634,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.886382,
     "mps:longitude":-90.384634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lac Des Mille Lacs Indian Reserve No. 22A1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741187,
-    "wof:lastmodified":1533335659,
+    "wof:lastmodified":1566519876,
     "wof:name":"Lac Des Mille Lacs Indian Reserve No. 22A1",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

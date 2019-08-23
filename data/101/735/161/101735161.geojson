@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.21906,
     "lbl:longitude":-64.281829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.21906,
     "mps:longitude":-64.281829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0647 \u0628\u064a\u0644\u0647"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.2153,
     "wd:longitude":-64.2708,
     "wd:wordcount":254,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":5916546,
         "gp:id":23392477,
-        "qs:id":24396,
         "qs_pg:id":24396,
         "wd:id":"Q2936962",
         "wk:page":"Cap-Pel\u00e9, New Brunswick"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735161,
-    "wof:lastmodified":1563285307,
+    "wof:lastmodified":1566519919,
     "wof:name":"Cap-Pel\u00e9",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",

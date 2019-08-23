@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":10428.704812,
     "geom:bbox":"-123.0928898,54.9954272,-123.091181,54.9963681",
     "geom:latitude":54.995898,
     "geom:longitude":-123.092035,
     "iso:country":"CA",
     "lbl:latitude":54.995897,
     "lbl:longitude":-123.092044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.995897,
     "mps:longitude":-123.092044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blue Lake 24"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745349,
-    "wof:lastmodified":1533335908,
+    "wof:lastmodified":1566520055,
     "wof:name":"Blue Lake 24",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

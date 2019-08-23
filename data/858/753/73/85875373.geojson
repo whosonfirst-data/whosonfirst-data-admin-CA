@@ -11,8 +11,10 @@
     "geom:longitude":-76.455592,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.460592,44.229122,-76.450592,44.239122",
     "lbl:latitude":44.234122,
     "lbl:longitude":-76.455592,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.230297,
     "mps:longitude":-76.448128,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Base des Forces canadiennes Kingston"
     ],
-    "name:unk_x_variant":[
-        "CFB Kingston"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":5992500,
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":954,
     "wof:belongsto":[
         85682057,
@@ -93,7 +92,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856481,
-        "qs:id":899262,
         "qs_pg:id":899262,
         "wd:id":"Q1032129"
     },
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281849,
+    "wof:lastmodified":1566518949,
     "wof:name":"CFB Kingston",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

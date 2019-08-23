@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.336858,
     "lbl:longitude":-80.734719,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.336858,
     "mps:longitude":-80.734719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Grys"
     ],
@@ -461,7 +464,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Grey",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"3542",
@@ -475,7 +478,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375221,
-        "qs:id":503952,
+        "qs_pg:id":503952,
         "wd:id":"Q42519",
         "wk:page":"Grey"
     },
@@ -491,7 +494,7 @@
         }
     ],
     "wof:id":890456569,
-    "wof:lastmodified":1563286129,
+    "wof:lastmodified":1566520144,
     "wof:name":"Grey",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

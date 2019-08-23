@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.880138,
     "lbl:longitude":-79.119789,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.945509,
     "mps:longitude":-79.185419,
     "mz:hierarchy_label":1,
@@ -67,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "North Pickering"
-    ],
     "name:vol_x_preferred":[
         "Seaton"
     ],
@@ -100,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":184,
     "wof:belongsto":[
         85682057,
@@ -113,7 +111,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999619,
-        "qs:id":987004,
         "qs_pg:id":987004
     },
     "wof:country":"CA",
@@ -140,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170836,
+    "wof:lastmodified":1566518997,
     "wof:name":"Seaton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

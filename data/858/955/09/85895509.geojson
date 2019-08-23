@@ -11,8 +11,10 @@
     "geom:longitude":-79.947118,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.952118,43.807918,-79.942118,43.817918",
     "lbl:latitude":43.812918,
     "lbl:longitude":-79.947118,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.813915,
     "mps:longitude":-79.94544,
     "mz:hierarchy_label":0,
@@ -165,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0439\u0433\u043e"
     ],
-    "name:unk_x_variant":[
-        "Sligo"
-    ],
     "name:wuu_x_preferred":[
         "\u65af\u83b1\u6208"
     ],
@@ -202,7 +201,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736249,
@@ -213,7 +212,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999480,
-        "qs:id":1355047,
         "qs_pg:id":1355047
     },
     "wof:country":"CA",
@@ -238,7 +236,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170714,
+    "wof:lastmodified":1566518954,
     "wof:name":"Sligo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

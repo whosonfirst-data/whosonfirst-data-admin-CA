@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000777,
+    "geom:area_square_m":4816981.049263,
     "geom:bbox":"-111.4870623,59.9103006,-111.4510214,59.9318821",
     "geom:latitude":59.921092,
     "geom:longitude":-111.469049,
     "iso:country":"CA",
     "lbl:latitude":59.921093,
     "lbl:longitude":-111.469049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.921093,
     "mps:longitude":-111.469049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K'I Tue 196D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741663,
-    "wof:lastmodified":1533250161,
+    "wof:lastmodified":1566519892,
     "wof:name":"K'I Tue 196D",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

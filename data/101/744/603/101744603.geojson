@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00057,
+    "geom:area_square_m":3793642.879947,
     "geom:bbox":"-125.6821469,57.4168813,-125.6050089,57.4345446",
     "geom:latitude":57.428019,
     "geom:longitude":-125.637711,
     "iso:country":"CA",
     "lbl:latitude":57.427216,
     "lbl:longitude":-125.624274,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.427216,
     "mps:longitude":-125.624274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fort Ware 1"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101744603,
-    "wof:lastmodified":1533335896,
+    "wof:lastmodified":1566519970,
     "wof:name":"Fort Ware 1",
     "wof:parent_id":890457207,
     "wof:placetype":"locality",

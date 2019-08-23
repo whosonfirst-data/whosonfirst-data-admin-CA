@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.900512,
     "lbl:longitude":-66.163449,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.900512,
     "mps:longitude":-66.163449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Northumberland"
     ],
@@ -233,7 +236,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Northumberland",
     "statcan:cdtype":"CT",
     "statcan:cduid":"1309",
@@ -247,7 +250,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375159,
-        "qs:id":890819,
+        "qs_pg:id":890819,
         "wk:page":"Northumberland"
     },
     "wof:country":"CA",
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":890458001,
-    "wof:lastmodified":1564173223,
+    "wof:lastmodified":1566520109,
     "wof:name":"Northumberland",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

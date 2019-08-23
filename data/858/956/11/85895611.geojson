@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6428378.144586,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.811996,43.342917,-79.811996,43.342917",
     "geom:latitude":43.342917,
     "geom:longitude":-79.811996,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.816996,43.337917,-79.806996,43.347917",
     "lbl:latitude":43.342917,
     "lbl:longitude":-79.811996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.347151,
     "mps:longitude":-79.817805,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Mountainside"
-    ],
-    "name:unk_x_variant":[
         "Mountainside"
     ],
     "qs:gn_id":0,
@@ -56,21 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191575,
         101735965,
         85633041,
-        101740713,
-        890458413,
         85682057,
         101740713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999585,
-        "qs:id":479699,
         "qs_pg:id":479699
     },
     "wof:country":"CA",
@@ -95,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931451,
+    "wof:lastmodified":1566518997,
     "wof:name":"Mountainside",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

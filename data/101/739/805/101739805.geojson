@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.492419,
     "lbl:longitude":-104.810435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.492419,
     "mps:longitude":-104.810435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Smeaton"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844267,
+    "wof:lastmodified":1566519398,
     "wof:name":"Smeaton",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

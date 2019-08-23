@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
+    "geom:area_square_m":184815.636399,
     "geom:bbox":"-125.943986,50.5581524,-125.9353405,50.562271",
     "geom:latitude":50.560295,
     "geom:longitude":-125.939463,
     "iso:country":"CA",
     "lbl:latitude":50.559493,
     "lbl:longitude":-125.93769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.559493,
     "mps:longitude":-125.93769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Port Neville 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":413,
     "wof:belongsto":[
         102191575,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101744029,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566519977,
     "wof:name":"Port Neville 4",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

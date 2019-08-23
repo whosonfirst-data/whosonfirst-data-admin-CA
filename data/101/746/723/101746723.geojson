@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
+    "geom:area_square_m":301037.209006,
     "geom:bbox":"-123.3063926,49.9302672,-123.2926938,49.933887",
     "geom:latitude":49.932128,
     "geom:longitude":-123.29917,
     "iso:country":"CA",
     "lbl:latitude":49.932077,
     "lbl:longitude":-123.301883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.932077,
     "mps:longitude":-123.301883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Skowishin 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746723,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566519824,
     "wof:name":"Skowishin 7",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

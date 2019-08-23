@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":28972.095838,
     "geom:bbox":"-125.0178021,48.9749984,-125.0150787,48.97677",
     "geom:latitude":48.975931,
     "geom:longitude":-125.016108,
     "iso:country":"CA",
     "lbl:latitude":48.975884,
     "lbl:longitude":-125.015954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.975884,
     "mps:longitude":-125.015954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tseoowa 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745541,
-    "wof:lastmodified":1533335913,
+    "wof:lastmodified":1566520071,
     "wof:name":"Tseoowa 4",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

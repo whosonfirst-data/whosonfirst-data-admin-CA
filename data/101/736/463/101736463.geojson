@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.480527,
     "lbl:longitude":-73.645737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.480527,
     "mps:longitude":-73.645737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0645\u0633\u062a\u062f"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":45.4833,
     "wd:longitude":-73.6333,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101736463,
-    "wof:lastmodified":1563284405,
+    "wof:lastmodified":1566519468,
     "wof:name":"Hampstead",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

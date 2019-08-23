@@ -11,10 +11,14 @@
     "geom:longitude":-123.50261,
     "gn:country":"CA",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CA",
+    "lbl:bbox":"-123.60261,48.41633,-123.40261,48.61633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u062a\u0641\u0639\u0627\u062a"
     ],
@@ -156,7 +160,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5974993,
-        "qs:id":1153062,
+        "qs_pg:id":1153062,
         "wd:id":"Q878223",
         "wk:page":"Highland"
     },
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":890456169,
-    "wof:lastmodified":1563286151,
+    "wof:lastmodified":1566520150,
     "wof:name":"Highlands",
     "wof:parent_id":890456487,
     "wof:placetype":"localadmin",

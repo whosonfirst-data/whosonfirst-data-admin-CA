@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.288614,
     "lbl:longitude":-75.506961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.288614,
     "mps:longitude":-75.506961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u062f\u0648 \u0643\u064a\u0631\u0641"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":6015123,
         "gp:id":23394399,
-        "qs:id":222150,
         "qs_pg:id":222150,
         "wd:id":"Q3214680",
         "wk:page":"Lac-du-Cerf, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737725,
-    "wof:lastmodified":1563284187,
+    "wof:lastmodified":1566519425,
     "wof:name":"Lac-du-Cerf",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",

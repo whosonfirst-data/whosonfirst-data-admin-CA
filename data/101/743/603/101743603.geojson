@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":39121.475211,
     "geom:bbox":"-129.1860047,54.2883041,-129.1821546,54.2901229",
     "geom:latitude":54.289309,
     "geom:longitude":-129.183724,
     "iso:country":"CA",
     "lbl:latitude":54.289209,
     "lbl:longitude":-129.183577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.289209,
     "mps:longitude":-129.183577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Psacelay 77"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743603,
-    "wof:lastmodified":1533335880,
+    "wof:lastmodified":1566519991,
     "wof:name":"Psacelay 77",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

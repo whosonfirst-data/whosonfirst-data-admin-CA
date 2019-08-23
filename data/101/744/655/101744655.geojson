@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001078,
+    "geom:area_square_m":8590584.417534,
     "geom:bbox":"-124.6717328,49.8385578,-124.630755,49.8845336",
     "geom:latitude":49.861639,
     "geom:longitude":-124.653246,
     "iso:country":"CA",
     "lbl:latitude":49.863403,
     "lbl:longitude":-124.651234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.863403,
     "mps:longitude":-124.651234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harwood Island 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744655,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566519978,
     "wof:name":"Harwood Island 2",
     "wof:parent_id":890456815,
     "wof:placetype":"locality",

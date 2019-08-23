@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.113214,
     "lbl:longitude":-73.767008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.113214,
     "mps:longitude":-73.767008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Chrysostome"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":257,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":6137603,
         "gp:id":1423,
-        "qs:id":33524,
+        "qs_pg:id":33524,
         "wd:id":"Q3461973",
         "wk:page":"Saint-Chrysostome, Quebec"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101736659,
-    "wof:lastmodified":1563284416,
+    "wof:lastmodified":1566519470,
     "wof:name":"Saint-Chrysostome",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":43.965056,
     "geom:longitude":-79.13852,
     "iso:country":"CA",
+    "lbl:bbox":"-79.14352,43.960056,-79.13352,43.970056",
     "lbl:latitude":43.965056,
     "lbl:longitude":-79.13852,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.971075,
     "mps:longitude":-79.142148,
     "mz:hierarchy_label":0,
@@ -80,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u0440\u043c\u043e\u043d\u0442"
     ],
-    "name:unk_x_variant":[
-        "Claremont"
-    ],
     "name:vol_x_preferred":[
         "Claremont"
     ],
@@ -114,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101740717,
@@ -145,7 +144,7 @@
         }
     ],
     "wof:id":85895291,
-    "wof:lastmodified":1564170708,
+    "wof:lastmodified":1566518952,
     "wof:name":"Claremont",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

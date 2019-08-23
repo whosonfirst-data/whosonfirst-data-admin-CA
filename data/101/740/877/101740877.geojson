@@ -14,10 +14,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.720252,
     "lbl:longitude":-121.63837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.720252,
     "mps:longitude":-121.63837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chetwynd"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":615.0,
     "wd:latitude":55.6972,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":5921091,
         "gp:id":9381,
-        "qs:id":965385,
         "qs_pg:id":965385,
         "wd:id":"Q987459",
         "wk:page":"Chetwynd, British Columbia"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101740877,
-    "wof:lastmodified":1563284846,
+    "wof:lastmodified":1566519572,
     "wof:name":"Chetwynd",
     "wof:parent_id":890457207,
     "wof:placetype":"locality",

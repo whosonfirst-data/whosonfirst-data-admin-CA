@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.667086,
     "lbl:longitude":-68.741009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.667086,
     "mps:longitude":-68.741009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Juste-du-Lac"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101738119,
-    "wof:lastmodified":1563284657,
+    "wof:lastmodified":1566519521,
     "wof:name":"Saint-Juste-du-Lac",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

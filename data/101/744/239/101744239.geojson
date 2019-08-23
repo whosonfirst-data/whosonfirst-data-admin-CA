@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":70371.028487,
     "geom:bbox":"-121.4581383,49.8130949,-121.4527159,49.8153569",
     "geom:latitude":49.814363,
     "geom:longitude":-121.455261,
     "iso:country":"CA",
     "lbl:latitude":49.814552,
     "lbl:longitude":-121.456739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.814552,
     "mps:longitude":-121.456739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scaucy 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744239,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566519980,
     "wof:name":"Scaucy 5",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

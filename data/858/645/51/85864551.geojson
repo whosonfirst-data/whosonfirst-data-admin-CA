@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12921493.225424,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.206655,43.020102,-81.206655,43.020102",
     "geom:latitude":43.020102,
     "geom:longitude":-81.206655,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.211655,43.015102,-81.201655,43.025102",
     "lbl:latitude":43.020102,
     "lbl:longitude":-81.206655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.022448,
     "mps:longitude":-81.199818,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Huron Heights"
-    ],
-    "name:unk_x_variant":[
         "Huron Heights"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399609,
-        "qs:id":1087667,
         "qs_pg:id":1087667
     },
     "wof:country":"CA",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870918,
+    "wof:lastmodified":1566518960,
     "wof:name":"Huron Heights",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":-52.83135,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
+    "lbl:bbox":"-52.85135,47.69659,-52.81135,47.73659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bauline"
     ],
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":5895200,
         "gp:id":71,
-        "qs:id":401680,
+        "qs_pg:id":401680,
         "wd:id":"Q2892028",
         "wk:page":"Bauline"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890457047,
-    "wof:lastmodified":1563286377,
+    "wof:lastmodified":1566520216,
     "wof:name":"Bauline",
     "wof:parent_id":1158869009,
     "wof:placetype":"locality",

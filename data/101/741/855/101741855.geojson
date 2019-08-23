@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004644,
+    "geom:area_square_m":35739184.831042,
     "geom:bbox":"-99.2662429,51.4738843,-99.1926701,51.5743575",
     "geom:latitude":51.512026,
     "geom:longitude":-99.228304,
     "iso:country":"CA",
     "lbl:latitude":51.524925,
     "lbl:longitude":-99.224384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.524925,
     "mps:longitude":-99.224384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Crane River 51"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741855,
-    "wof:lastmodified":1533069146,
+    "wof:lastmodified":1566519896,
     "wof:name":"Crane River 51",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

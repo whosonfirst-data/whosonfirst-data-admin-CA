@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.167922,
     "lbl:longitude":-72.264402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.167922,
     "mps:longitude":-72.264402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Beno\u00eet-du-Lac"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191575,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101738715,
-    "wof:lastmodified":1563284649,
+    "wof:lastmodified":1566519519,
     "wof:name":"Saint-Beno\u00eet-du-Lac",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

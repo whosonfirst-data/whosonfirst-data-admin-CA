@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5377747.319888,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.045273,51.296062,-114.045273,51.296062",
     "geom:latitude":51.296062,
     "geom:longitude":-114.045273,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-114.050273,51.291062,-114.040273,51.301062",
     "lbl:latitude":51.296062,
     "lbl:longitude":-114.045273,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.29284,
     "mps:longitude":-114.044541,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Fairways"
-    ],
-    "name:unk_x_variant":[
         "Fairways"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998656,
-        "qs:id":986976,
         "qs_pg:id":986976
     },
     "wof:country":"CA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250199,
+    "wof:lastmodified":1566519019,
     "wof:name":"Fairways",
     "wof:parent_id":890456719,
     "wof:placetype":"neighbourhood",

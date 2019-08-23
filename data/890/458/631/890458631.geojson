@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.06924,
     "lbl:longitude":-71.294088,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.06924,
     "mps:longitude":-71.294088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Les Appalaches"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Les Appalaches",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2431",
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375172,
-        "qs:id":220444,
+        "qs_pg:id":220444,
         "wd:id":"Q1517564",
         "wk:page":"Les Appalaches Regional County Municipality"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890458631,
-    "wof:lastmodified":1563286102,
+    "wof:lastmodified":1566520140,
     "wof:name":"Les Appalaches",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

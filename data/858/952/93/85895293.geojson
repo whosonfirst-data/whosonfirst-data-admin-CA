@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.563372,
     "lbl:longitude":-79.569998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.561865,
     "mps:longitude":-79.569671,
     "mz:hierarchy_label":0,
@@ -77,9 +78,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0442-\u0428\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "North Shore"
-    ],
     "name:vol_x_preferred":[
         "North Shore"
     ],
@@ -112,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         101740755,
@@ -123,7 +121,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999279,
-        "qs:id":1269195,
         "qs_pg:id":1269195
     },
     "wof:country":"CA",
@@ -148,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170706,
+    "wof:lastmodified":1566518951,
     "wof:name":"North Shore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

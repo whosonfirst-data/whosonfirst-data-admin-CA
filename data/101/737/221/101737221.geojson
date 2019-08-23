@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.402868,
     "lbl:longitude":-73.564904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.402868,
     "mps:longitude":-73.564904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sainte-Catherine"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":237,
     "wof:belongsto":[
         102191575,
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":6137781,
         "gp:id":23396701,
-        "qs:id":192220,
-        "qs_pg:id":1244939,
+        "qs_pg:id":192220,
         "wd:id":"Q142190",
         "wk:page":"Sainte-Catherine, Quebec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1244939
     },
     "wof:country":"CA",
     "wof:geomhash":"342e9cfc2a238eec06a4e2ab36f9a42c",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101737221,
-    "wof:lastmodified":1563284145,
+    "wof:lastmodified":1566519417,
     "wof:name":"Sainte-Catherine",
     "wof:parent_id":890457731,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-73.23437,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.23937,45.313256,-73.22937,45.323256",
     "lbl:latitude":45.318256,
     "lbl:longitude":-73.23437,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.324899,
     "mps:longitude":-73.233432,
     "mz:hierarchy_label":0,
@@ -53,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -64,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3556,
-        "qs:id":226518,
         "qs_pg:id":226518,
         "wd:id":"Q266929"
     },
@@ -84,7 +85,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281695,
+    "wof:lastmodified":1566518909,
     "wof:name":"Iberville",
     "wof:parent_id":101738721,
     "wof:placetype":"neighbourhood",

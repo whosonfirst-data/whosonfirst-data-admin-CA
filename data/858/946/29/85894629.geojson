@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.258578,
     "lbl:longitude":-122.901097,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.265769,
     "mps:longitude":-122.903437,
     "mz:hierarchy_label":1,
@@ -64,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0434\u0433\u0435\u0440\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Lyndhurst"
-    ],
     "name:vol_x_preferred":[
         "Lyndhurst"
     ],
@@ -101,7 +99,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191575,
@@ -114,7 +112,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998707,
-        "qs:id":986982,
         "qs_pg:id":986982
     },
     "wof:country":"CA",
@@ -134,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170755,
+    "wof:lastmodified":1566518971,
     "wof:name":"Lyndhurst",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

@@ -15,8 +15,10 @@
     "geom:longitude":-75.696696,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-75.701696,45.365935,-75.691696,45.375935",
     "lbl:latitude":45.370935,
     "lbl:longitude":-75.696696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.371627,
     "mps:longitude":-75.699337,
     "mz:hierarchy_label":0,
@@ -42,7 +44,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1731,
     "wof:belongsto":[
         102191575,
@@ -55,7 +57,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23397806,
-        "qs:id":367205,
         "qs_pg:id":367205,
         "wd:id":"Q5041224"
     },
@@ -77,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844214,
+    "wof:lastmodified":1566518958,
     "wof:name":"Hog's Back",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

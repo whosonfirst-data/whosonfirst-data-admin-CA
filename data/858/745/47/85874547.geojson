@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":3586352.115223,
+    "geom:area_square_m":3586352.115218,
     "geom:bbox":"-114.234373,51.008664,-114.187718,51.022336",
     "geom:latitude":51.014195,
     "geom:longitude":-114.215243,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.014849,
     "lbl:longitude":-114.215965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.011586,
     "mps:longitude":-114.219445,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191575,
@@ -57,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855967,
-        "qs:id":220549,
         "qs_pg:id":220549,
         "wd:id":"Q5281962"
     },
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270641,
+    "wof:lastmodified":1566519023,
     "wof:name":"Discovery Ridge",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

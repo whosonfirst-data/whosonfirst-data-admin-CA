@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":1949895.146635,
+    "geom:area_square_m":1949895.146636,
     "geom:bbox":"-79.281575679,43.722595915,-79.262970655,43.7458395",
     "geom:latitude":43.735365,
     "geom:longitude":-79.27247,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.736186,
     "lbl:longitude":-79.273105,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.733398,
     "mps:longitude":-79.268468,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Ionview"
-    ],
-    "name:unk_x_variant":[
         "Ionview"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,24 +58,24 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Ionview (125)",
     "torsdfa:AREA_S_CD":"125",
     "wd:latitude":43.73,
     "wd:longitude":-79.27,
     "wd:wordcount":306,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999376,
-        "qs:id":1354979,
+        "qs_pg:id":1354979,
         "wd:id":"Q6063882"
     },
     "wof:controlled":[],
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272681,
+    "wof:lastmodified":1566518943,
     "wof:name":"Ionview",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

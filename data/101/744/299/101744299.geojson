@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
+    "geom:area_square_m":322460.249136,
     "geom:bbox":"-121.7985673,50.6019038,-121.7925471,50.609249",
     "geom:latitude":50.60559,
     "geom:longitude":-121.795559,
     "iso:country":"CA",
     "lbl:latitude":50.605586,
     "lbl:longitude":-121.79556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.605586,
     "mps:longitude":-121.79556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fish Lake 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744299,
-    "wof:lastmodified":1533335891,
+    "wof:lastmodified":1566519981,
     "wof:name":"Fish Lake 7",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

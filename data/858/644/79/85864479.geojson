@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23276336.984866,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.179458,43.051745,-81.179458,43.051745",
     "geom:latitude":43.051745,
     "geom:longitude":-81.179458,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.184458,43.046745,-81.174458,43.056745",
     "lbl:latitude":43.051745,
     "lbl:longitude":-81.179458,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.054024,
     "mps:longitude":-81.181075,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Fanshawe"
     ],
     "name:eng_x_preferred":[
-        "Fanshawe"
-    ],
-    "name:unk_x_variant":[
         "Fanshawe"
     ],
     "qs:gn_id":0,
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":68,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23398363,
-        "qs:id":888154,
         "qs_pg:id":888154
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870899,
+    "wof:lastmodified":1566518958,
     "wof:name":"Fanshawe",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

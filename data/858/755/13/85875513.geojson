@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9578860.637389,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.269942,43.551767,-80.269942,43.551767",
     "geom:latitude":43.551767,
     "geom:longitude":-80.269942,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.274942,43.546767,-80.264942,43.556767",
     "lbl:latitude":43.551767,
     "lbl:longitude":-80.269942,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.557505,
     "mps:longitude":-80.283278,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Centre"
-    ],
-    "name:unk_x_variant":[
         "Centre"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856641,
-        "qs:id":1135825,
         "qs_pg:id":1135825
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872141,
+    "wof:lastmodified":1566518942,
     "wof:name":"Centre",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

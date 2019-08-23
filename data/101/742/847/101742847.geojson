@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
+    "geom:area_square_m":1230942.558714,
     "geom:bbox":"-127.3498369,55.0315958,-127.3308287,55.0425511",
     "geom:latitude":55.036977,
     "geom:longitude":-127.340513,
     "iso:country":"CA",
     "lbl:latitude":55.038907,
     "lbl:longitude":-127.346159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.038907,
     "mps:longitude":-127.346159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coryatsaqua 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742847,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520024,
     "wof:name":"Coryatsaqua 2",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.532364,
     "lbl:longitude":-116.017885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.532364,
     "mps:longitude":-116.017885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shuswap"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101745645,
-    "wof:lastmodified":1564173037,
+    "wof:lastmodified":1566520048,
     "wof:name":"Shuswap",
     "wof:parent_id":890456529,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.902078,
     "lbl:longitude":-79.428887,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.902078,
     "mps:longitude":-79.428887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062a\u0634\u0645\u0648\u0646\u062f \u0647\u064a\u0644\u060c \u0623\u0648\u0646\u062a\u0627\u0631\u064a\u0648"
     ],
@@ -129,7 +132,7 @@
         "Richmond Hill"
     ],
     "name:tam_x_preferred":[
-        "\u0bb0\u0bbf\u0b9a\u0bcd\u0bae\u0ba3\u0bcd\u0b9f\u0bcd  \u0bb9\u0bbf\u0bb2\u0bcd"
+        "\u0bb0\u0bbf\u0b9a\u0bcd\u0bae\u0ba3\u0bcd\u0b9f\u0bcd \u0bb9\u0bbf\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c3f\u0c1a\u0c4d\u0c2e\u0c02\u0c21\u0c4d \u0c39\u0c3f\u0c32\u0c4d"
@@ -176,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":233.0,
     "wd:latitude":43.8849,
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":101736179,
-    "wof:lastmodified":1563284552,
+    "wof:lastmodified":1566519501,
     "wof:name":"Richmond Hill",
     "wof:parent_id":890458415,
     "wof:placetype":"locality",

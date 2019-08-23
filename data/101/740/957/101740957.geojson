@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":52.131797,
     "lbl:longitude":-122.147806,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.131797,
     "mps:longitude":-122.147806,
     "mz:hierarchy_label":1,
@@ -121,7 +123,7 @@
         "Williams Lake"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bae\u0bcd\u0bb8\u0bcd \u0bb2\u0bc7\u0b95\u0bcd  \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bae\u0bcd\u0bb8\u0bcd \u0bb2\u0bc7\u0b95\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb7\u0bcd \u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c32\u0c3f\u0c2f\u0c2e\u0c4d\u0c38\u0c4d \u0c32\u0c47\u0c15\u0c4d"
@@ -256,7 +258,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":586.0,
     "wd:latitude":52.141667,
@@ -272,7 +274,6 @@
     "wof:concordances":{
         "gn:id":6182212,
         "gp:id":9583,
-        "qs:id":1165088,
         "qs_pg:id":1165088,
         "wd:id":"Q2039207",
         "wk:page":"Williams Lake, British Columbia"
@@ -289,7 +290,7 @@
         }
     ],
     "wof:id":101740957,
-    "wof:lastmodified":1563284827,
+    "wof:lastmodified":1566519566,
     "wof:name":"Williams Lake",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

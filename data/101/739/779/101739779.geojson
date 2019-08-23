@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.440205,
     "lbl:longitude":-104.364988,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.440205,
     "mps:longitude":-104.364988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "White City"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.435278,
     "wd:longitude":-104.357222,
@@ -74,7 +77,6 @@
         "fct:id":"03bd310c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6180266,
         "gp:id":23402882,
-        "qs:id":280212,
         "qs_pg:id":280212,
         "wd:id":"Q1917576",
         "wk:page":"White City, Saskatchewan"
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284027,
+    "wof:lastmodified":1566519401,
     "wof:name":"White City",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

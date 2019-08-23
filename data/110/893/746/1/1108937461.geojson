@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.919868,
     "lbl:longitude":-97.125224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.920713,
     "mps:longitude":-97.125082,
     "mz:hierarchy_label":1,
@@ -37,14 +38,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968519,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108937461,
-    "wof:lastmodified":1531523905,
+    "wof:lastmodified":1566519261,
     "wof:name":"St. John's Park",
     "wof:parent_id":1108968519,
     "wof:placetype":"neighbourhood",

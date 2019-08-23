@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00475,
+    "geom:area_square_m":35668048.325522,
     "geom:bbox":"-104.2840705,52.5874969,-104.1415406,52.6311516",
     "geom:latitude":52.608456,
     "geom:longitude":-104.213351,
     "iso:country":"CA",
     "lbl:latitude":52.612529,
     "lbl:longitude":-104.191461,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.612529,
     "mps:longitude":-104.191461,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kinistin I.R. 91"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742315,
-    "wof:lastmodified":1531523851,
+    "wof:lastmodified":1566520017,
     "wof:name":"Kinistin I.R. 91",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

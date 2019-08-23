@@ -14,16 +14,18 @@
     "geom:longitude":-114.97816,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":6099,
     "gn:population":6099,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.217876,
     "lbl:longitude":-114.981614,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.217876,
     "mps:longitude":-114.981614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Drayton Valley"
     ],
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":869.0,
     "wd:latitude":"53.2222",
@@ -94,7 +96,7 @@
     "wof:concordances":{
         "gn:id":5942547,
         "gp:id":8695,
-        "qs:id":965240,
+        "qs_pg:id":965240,
         "wd:id":"Q1022731",
         "wk:page":"Drayton Valley"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":890456717,
-    "wof:lastmodified":1563286318,
+    "wof:lastmodified":1566520198,
     "wof:name":"Drayton Valley",
     "wof:parent_id":1158863285,
     "wof:placetype":"locality",

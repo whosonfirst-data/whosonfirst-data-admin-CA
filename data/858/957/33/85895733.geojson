@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3377985.911417,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.527376,45.399997,-73.527376,45.399997",
     "geom:latitude":45.399997,
     "geom:longitude":-73.527376,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.532376,45.394997,-73.522376,45.404997",
     "lbl:latitude":45.399997,
     "lbl:longitude":-73.527376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.39919,
     "mps:longitude":-73.525137,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Zone Industrielle Montcalm"
     ],
     "name:fra_x_preferred":[
-        "Zone Industrielle Montcalm"
-    ],
-    "name:unk_x_variant":[
         "Zone Industrielle Montcalm"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999688,
-        "qs:id":1190835,
         "qs_pg:id":1190835
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931478,
+    "wof:lastmodified":1566518991,
     "wof:name":"Zone Industrielle Montcalm",
     "wof:parent_id":101738229,
     "wof:placetype":"neighbourhood",

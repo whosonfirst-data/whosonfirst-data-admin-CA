@@ -11,8 +11,10 @@
     "geom:longitude":-80.466986,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.471986,43.442366,-80.461986,43.452366",
     "lbl:latitude":43.447366,
     "lbl:longitude":-80.466986,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.446937,
     "mps:longitude":-80.466546,
     "mz:hierarchy_label":0,
@@ -141,9 +143,6 @@
     "name:tur_x_preferred":[
         "Oditoryum"
     ],
-    "name:unk_x_variant":[
-        "Auditorium"
-    ],
     "name:vie_x_preferred":[
         "Kh\u00e1n ph\u00f2ng"
     ],
@@ -178,7 +177,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":404,
     "wof:belongsto":[
         85682057,
@@ -191,7 +190,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856284,
-        "qs:id":381467,
         "qs_pg:id":381467,
         "wd:id":"Q230752"
     },
@@ -219,7 +217,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282107,
+    "wof:lastmodified":1566519001,
     "wof:name":"Auditorium",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

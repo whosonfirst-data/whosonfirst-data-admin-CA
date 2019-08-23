@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.761594,
     "lbl:longitude":-73.481944,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.761594,
     "mps:longitude":-73.481944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0628\u0646\u062a\u064a\u0646\u064a\u064a"
     ],
@@ -156,7 +159,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101737691,
-    "wof:lastmodified":1563284293,
+    "wof:lastmodified":1566519448,
     "wof:name":"Repentigny",
     "wof:parent_id":890457825,
     "wof:placetype":"locality",

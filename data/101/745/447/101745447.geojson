@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
+    "geom:area_square_m":1066770.565982,
     "geom:bbox":"-122.9913408,49.3032013,-122.9689696,49.3129077",
     "geom:latitude":49.309487,
     "geom:longitude":-122.978729,
     "iso:country":"CA",
     "lbl:latitude":49.309266,
     "lbl:longitude":-122.974664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.309266,
     "mps:longitude":-122.974664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burrard Inlet 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745447,
-    "wof:lastmodified":1533335910,
+    "wof:lastmodified":1566520036,
     "wof:name":"Burrard Inlet 3",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

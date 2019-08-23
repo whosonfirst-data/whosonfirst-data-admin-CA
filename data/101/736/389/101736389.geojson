@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":42.692078,
     "lbl:longitude":-82.063399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.692078,
     "mps:longitude":-82.063399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dawn-Euphemia"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":221,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101736389,
-    "wof:lastmodified":1561844349,
+    "wof:lastmodified":1566519501,
     "wof:name":"Dawn-Euphemia",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

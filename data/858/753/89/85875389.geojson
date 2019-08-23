@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1553064.677382,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554749,44.234311,-76.554749,44.234311",
     "geom:latitude":44.234311,
     "geom:longitude":-76.554749,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.559749,44.229311,-76.549749,44.239311",
     "lbl:latitude":44.234311,
     "lbl:longitude":-76.554749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.231424,
     "mps:longitude":-76.552682,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Collins Bay Penitentiary"
-    ],
-    "name:unk_x_variant":[
         "Collins Bay Penitentiary"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856488,
-        "qs:id":17046,
         "qs_pg:id":17046
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872099,
+    "wof:lastmodified":1566518949,
     "wof:name":"Collins Bay Penitentiary",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

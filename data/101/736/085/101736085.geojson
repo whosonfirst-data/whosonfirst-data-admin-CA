@@ -9,14 +9,17 @@
     "geom:bbox":"-83.149681,41.8362177,-82.9673546,42.1914374",
     "geom:latitude":42.055157,
     "geom:longitude":-83.054043,
-    "geonames:id":"5884472,5884473",
+    "gn:id":"5884472,5884473",
     "iso:country":"CA",
     "lbl:latitude":42.053196,
     "lbl:longitude":-83.070528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.053196,
     "mps:longitude":-83.070528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0647\u064a\u0631\u0633\u062a\u0628\u0627\u0631\u062c"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.1,
     "wd:longitude":-83.0833,
     "wd:wordcount":2109,
@@ -96,10 +99,12 @@
     "wof:concordances":{
         "gn:id":5884473,
         "gp:id":4358,
-        "qs:id":1113290,
         "qs_pg:id":1053428,
         "wd:id":"Q385335",
         "wk:page":"Amherstburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1113290
     },
     "wof:country":"CA",
     "wof:geomhash":"1e1d04a58da3bd7c81dc74f57ebf1e3f",
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101736085,
-    "wof:lastmodified":1563284393,
+    "wof:lastmodified":1566519465,
     "wof:name":"Amherstburg",
     "wof:parent_id":890458683,
     "wof:placetype":"locality",

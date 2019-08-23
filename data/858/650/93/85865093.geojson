@@ -11,8 +11,10 @@
     "geom:longitude":-123.862899,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.867899,49.10909,-123.857899,49.11909",
     "lbl:latitude":49.11409,
     "lbl:longitude":-123.862899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.095452,
     "mps:longitude":-123.872312,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0434\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Cedar"
-    ],
     "name:vol_x_preferred":[
         "Cedar"
     ],
@@ -98,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -108,7 +107,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405298,
-        "qs:id":1000778,
         "qs_pg:id":1000778
     },
     "wof:country":"CA",
@@ -127,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170740,
+    "wof:lastmodified":1566518966,
     "wof:name":"Cedar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

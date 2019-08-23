@@ -9,15 +9,18 @@
     "geom:bbox":"-73.523291997,45.413545797,-73.379884486,45.485479679",
     "geom:latitude":45.447544,
     "geom:longitude":-73.454296,
-    "geonames:id":"5909628,5909629",
+    "gn:id":"5909628,5909629",
     "gn:population":69575,
     "iso:country":"CA",
     "lbl:latitude":45.44975,
     "lbl:longitude":-73.459158,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.44975,
     "mps:longitude":-73.459158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0633\u0627\u0631"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2310,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":5909629,
         "gp:id":173,
-        "qs:id":765569,
         "qs_pg:id":765569,
         "wd:id":"Q139104",
         "wk:page":"Brossard"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101736555,
-    "wof:lastmodified":1563284470,
+    "wof:lastmodified":1566519486,
     "wof:name":"Brossard",
     "wof:parent_id":890456297,
     "wof:placetype":"locality",

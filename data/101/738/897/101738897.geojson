@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.054629,
     "lbl:longitude":-66.698758,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.054629,
     "mps:longitude":-66.698758,
     "mz:hierarchy_label":1,
@@ -182,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":580,
     "wof:belongsto":[
@@ -195,10 +197,12 @@
     "wof:concordances":{
         "gn:id":5915359,
         "gp:id":219,
-        "qs:id":962253,
-        "qs_pg:id":1073131,
+        "qs_pg:id":962253,
         "wd:id":"Q142360",
         "wk:page":"Cap-Chat, Quebec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1073131
     },
     "wof:country":"CA",
     "wof:geomhash":"cc520251fead7cf1001eb79b69ccd90b",
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":101738897,
-    "wof:lastmodified":1563284737,
+    "wof:lastmodified":1566519537,
     "wof:name":"Cap-Chat",
     "wof:parent_id":890458017,
     "wof:placetype":"locality",

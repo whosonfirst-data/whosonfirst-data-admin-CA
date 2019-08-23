@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1271520.097996,
+    "geom:area_square_m":1271520.097999,
     "geom:bbox":"-114.094695,51.023998,-114.075202,51.035936",
     "geom:latitude":51.030762,
     "geom:longitude":-114.087077,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.031239,
     "lbl:longitude":-114.085436,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.030403,
     "mps:longitude":-114.08485,
     "mz:hierarchy_label":1,
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -53,7 +54,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342777,
-        "qs:id":1002627,
         "qs_pg:id":1002627
     },
     "wof:country":"CA",
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270097,
+    "wof:lastmodified":1566518966,
     "wof:name":"Upper Mount Royal",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

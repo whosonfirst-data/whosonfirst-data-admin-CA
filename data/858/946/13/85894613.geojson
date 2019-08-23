@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.234482,
     "lbl:longitude":-122.996109,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.22867,
     "mps:longitude":-122.996869,
     "mz:hierarchy_label":1,
@@ -106,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Marlborough"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u0644\u0628\u0648\u0631\u0648"
     ],
@@ -146,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":406,
     "wof:belongsto":[
         102191575,
@@ -159,7 +157,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998700,
-        "qs:id":1090784,
         "qs_pg:id":1090784
     },
     "wof:country":"CA",
@@ -179,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170760,
+    "wof:lastmodified":1566518972,
     "wof:name":"Marlborough",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

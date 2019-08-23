@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
+    "geom:area_square_m":282701.183114,
     "geom:bbox":"-93.7350228,54.0960587,-93.7235601,54.1026306",
     "geom:latitude":54.099453,
     "geom:longitude":-93.728745,
     "iso:country":"CA",
     "lbl:latitude":54.099616,
     "lbl:longitude":-93.728656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.099616,
     "mps:longitude":-93.728656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Sucker Lake Indian Reserve No. 1976 F"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746765,
-    "wof:lastmodified":1533069739,
+    "wof:lastmodified":1566519805,
     "wof:name":"Red Sucker Lake Indian Reserve No. 1976 F",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

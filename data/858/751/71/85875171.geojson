@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.857978,
     "lbl:longitude":-78.886207,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.855431,
     "mps:longitude":-78.885166,
     "mz:hierarchy_label":1,
@@ -646,9 +647,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0456\u0432\u0435\u043d\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Stevenson"
-    ],
     "name:vec_x_preferred":[
         "Stevenson"
     ],
@@ -723,7 +721,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":529,
     "wof:belongsto":[
         85682057,
@@ -736,7 +734,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856359,
-        "qs:id":1089545,
         "qs_pg:id":1089545,
         "wd:id":"Q424325"
     },
@@ -763,7 +760,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282077,
+    "wof:lastmodified":1566518996,
     "wof:name":"Stevenson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

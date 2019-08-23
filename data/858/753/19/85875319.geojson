@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8385840.475693,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.270872,49.067239,-122.270872,49.067239",
     "geom:latitude":49.067239,
     "geom:longitude":-122.270872,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.275872,49.062239,-122.265872,49.072239",
     "lbl:latitude":49.067239,
     "lbl:longitude":-122.270872,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.072066,
     "mps:longitude":-122.283552,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Lower Ten Oaks"
-    ],
-    "name:unk_x_variant":[
         "Lower Ten Oaks"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856451,
-        "qs:id":899255,
         "qs_pg:id":899255
     },
     "wof:country":"CA",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872076,
+    "wof:lastmodified":1566518949,
     "wof:name":"Lower Ten Oaks",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

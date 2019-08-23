@@ -12,8 +12,10 @@
     "gn:latitude":45.91684,
     "gn:longitude":-59.96513,
     "iso:country":"CA",
+    "lbl:bbox":"-59.975831,45.911234,-59.965831,45.921234",
     "lbl:latitude":45.916234,
     "lbl:longitude":-59.970831,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.916688,
     "mps:longitude":-59.96352,
     "mz:hierarchy_label":0,
@@ -46,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0457\u0441\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Louisburg"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6354908,
@@ -78,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":786,
     "wof:belongsto":[
         102191575,
@@ -89,7 +88,6 @@
     "wof:concordances":{
         "gn:id":6060789,
         "gp:id":3936,
-        "qs:id":905759,
         "qs_pg:id":905759,
         "wd:id":"Q3263622",
         "wk:page":"Louisbourg"
@@ -109,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281694,
+    "wof:lastmodified":1566518909,
     "wof:name":"Louisburg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.316106,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.321106,43.881048,-79.311106,43.891048",
     "lbl:latitude":43.886048,
     "lbl:longitude":-79.316106,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.885333,
     "mps:longitude":-79.322684,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:nld_x_preferred":[
         "Angus Glen"
-    ],
-    "name:unk_x_variant":[
-        "Angus Glen East"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":438,
     "wof:belongsto":[
         102191575,
@@ -77,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999010,
-        "qs:id":986996,
         "qs_pg:id":986996,
         "wd:id":"Q4764121"
     },
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282041,
+    "wof:lastmodified":1566518989,
     "wof:name":"Angus Glen East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1163730.195033,
+    "geom:area_square_m":1163730.195032,
     "geom:bbox":"-106.63532,52.089702,-106.622678,52.102719",
     "geom:latitude":52.096157,
     "geom:longitude":-106.628656,
     "iso:country":"CA",
     "lbl:latitude":52.096207,
     "lbl:longitude":-106.628319,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.096207,
     "mps:longitude":-106.628319,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-106.628319,
     "src:geom":"can-saskodp",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115069,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1126114055,
-    "wof:lastmodified":1531524182,
+    "wof:lastmodified":1566520278,
     "wof:name":"Nutana Park",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.869192,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.874192,43.251982,-79.864192,43.261982",
     "lbl:latitude":43.256982,
     "lbl:longitude":-79.869192,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.255205,
     "mps:longitude":-79.866466,
     "mz:hierarchy_label":0,
@@ -96,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0434\u0430\u0443\u043d\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Downtown"
-    ],
     "name:wuu_x_preferred":[
         "\u4e0b\u57ce"
     ],
@@ -136,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1123,
     "wof:belongsto":[
         85682057,
@@ -148,7 +147,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855642,
-        "qs:id":220542,
+        "qs_pg:id":220542,
         "wd:id":"Q1050303"
     },
     "wof:country":"CA",
@@ -167,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281962,
+    "wof:lastmodified":1566518973,
     "wof:name":"Downtown",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

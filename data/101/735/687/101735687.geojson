@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.370077,
     "lbl:longitude":-78.842895,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.370077,
     "mps:longitude":-78.842895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mattawa"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":46.316667,
     "wd:longitude":-78.7,
@@ -81,10 +84,12 @@
     "wof:concordances":{
         "gn:id":6067959,
         "gp:id":945,
-        "qs:id":955721,
-        "qs_pg:id":1026563,
+        "qs_pg:id":955721,
         "wd:id":"Q1013150",
         "wk:page":"Mattawa, Ontario"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1026563
     },
     "wof:country":"CA",
     "wof:geomhash":"7328809e8d9679bb9e9d0e45d4a0c349",
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":101735687,
-    "wof:lastmodified":1563285345,
+    "wof:lastmodified":1566519926,
     "wof:name":"Mattawan",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

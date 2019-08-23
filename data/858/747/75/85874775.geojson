@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":317374.365561,
+    "geom:area_square_m":317374.365565,
     "geom:bbox":"-97.103927,49.848844,-97.094861,49.857824",
     "geom:latitude":49.853732,
     "geom:longitude":-97.099277,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.853731,
     "lbl:longitude":-97.099663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.853036,
     "mps:longitude":-97.08975,
     "mz:hierarchy_label":1,
@@ -35,19 +36,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968473,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856104,
-        "qs:id":986446,
         "qs_pg:id":986446
     },
     "wof:country":"CA",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523918,
+    "wof:lastmodified":1566518975,
     "wof:name":"Alpine Place",
     "wof:parent_id":1108968473,
     "wof:placetype":"neighbourhood",

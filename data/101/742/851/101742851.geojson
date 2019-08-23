@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
+    "geom:area_square_m":648470.760253,
     "geom:bbox":"-127.2766811,54.9580678,-127.264021,54.9653099",
     "geom:latitude":54.961684,
     "geom:longitude":-127.270356,
     "iso:country":"CA",
     "lbl:latitude":54.961682,
     "lbl:longitude":-127.270355,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.961682,
     "mps:longitude":-127.270355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oschawwinna 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742851,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520014,
     "wof:name":"Oschawwinna 3",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

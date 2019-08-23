@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.88282,
     "lbl:longitude":-70.807266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.88282,
     "mps:longitude":-70.807266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Vallier"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101736861,
-    "wof:lastmodified":1563284401,
+    "wof:lastmodified":1566519467,
     "wof:name":"Saint-Vallier",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

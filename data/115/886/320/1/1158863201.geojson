@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.230502,
     "lbl:longitude":-113.809217,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.230502,
     "mps:longitude":-113.809217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Leduc"
     ],
@@ -46,7 +49,7 @@
     "reversegeo:longitude":-113.809217,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1944-01-01",
     "wd:population":13780,
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1158863201,
-    "wof:lastmodified":1564173836,
+    "wof:lastmodified":1566520451,
     "wof:name":"Leduc",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

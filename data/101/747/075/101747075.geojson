@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003859,
+    "geom:area_square_m":28208075.114167,
     "geom:bbox":"-92.424131,53.7063684,-92.3134423,53.8017201",
     "geom:latitude":53.760104,
     "geom:longitude":-92.367192,
     "iso:country":"CA",
     "lbl:latitude":53.761945,
     "lbl:longitude":-92.366353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.761945,
     "mps:longitude":-92.366353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sachigo Lake Indian Reserve No. 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747075,
-    "wof:lastmodified":1533335680,
+    "wof:lastmodified":1566519733,
     "wof:name":"Sachigo Lake Indian Reserve No. 3",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

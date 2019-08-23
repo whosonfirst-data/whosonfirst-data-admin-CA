@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":51.467681,
     "lbl:longitude":-109.154987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.467681,
     "mps:longitude":-109.154987,
     "mz:hierarchy_label":1,
@@ -169,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.4678,
     "wd:longitude":-109.157,
@@ -185,7 +187,6 @@
         "fct:id":"03c012d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5992154,
         "gp:id":2233,
-        "qs:id":241855,
         "qs_pg:id":241855,
         "wd:id":"Q1914835",
         "wk:page":"Kindersley"
@@ -205,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284021,
+    "wof:lastmodified":1566519400,
     "wof:name":"Kindersley",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

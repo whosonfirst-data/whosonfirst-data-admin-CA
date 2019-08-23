@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9436607.062838,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.206782,43.129192,-79.206782,43.129192",
     "geom:latitude":43.129192,
     "geom:longitude":-79.206782,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.211782,43.124192,-79.201782,43.134192",
     "lbl:latitude":43.129192,
     "lbl:longitude":-79.206782,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.125659,
     "mps:longitude":-79.200729,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Burleigh Hill"
-    ],
-    "name:unk_x_variant":[
         "Burleigh Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856291,
-        "qs:id":230685,
         "qs_pg:id":230685
     },
     "wof:country":"CA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872003,
+    "wof:lastmodified":1566519001,
     "wof:name":"Burleigh Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

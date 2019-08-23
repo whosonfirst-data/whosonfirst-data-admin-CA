@@ -10,8 +10,10 @@
     "geom:latitude":43.515785,
     "geom:longitude":-80.018672,
     "iso:country":"CA",
+    "lbl:bbox":"-80.023672,43.510785,-80.013672,43.520785",
     "lbl:latitude":43.515785,
     "lbl:longitude":-80.018672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.526291,
     "mps:longitude":-80.033505,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:eng_x_variant":[
         "Cooksville"
-    ],
-    "name:unk_x_variant":[
-        "Brookville"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736383,
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gn:id":5927279,
         "gp:id":55999305,
-        "qs:id":1002251,
         "qs_pg:id":1002251,
         "wd:id":"Q5167214",
         "wk:page":"Cooksville (Mississauga)"
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281826,
+    "wof:lastmodified":1566518946,
     "wof:name":"Brookville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

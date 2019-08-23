@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":56757.339643,
     "geom:bbox":"-123.7108853,54.4582515,-123.7044795,54.4604087",
     "geom:latitude":54.45961,
     "geom:longitude":-123.707798,
     "iso:country":"CA",
     "lbl:latitude":54.459316,
     "lbl:longitude":-123.708395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.459316,
     "mps:longitude":-123.708395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Great Bear Lake 16"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744567,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566519963,
     "wof:name":"Great Bear Lake 16",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

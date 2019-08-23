@@ -11,8 +11,10 @@
     "geom:longitude":-71.84584,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.85084,45.361172,-71.84084,45.371172",
     "lbl:latitude":45.366172,
     "lbl:longitude":-71.84584,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.365654,
     "mps:longitude":-71.853348,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:spa_x_preferred":[
         "Lennoxville"
     ],
-    "name:unk_x_variant":[
-        "Lennoxville"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6146143,
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":633,
     "wof:belongsto":[
         136251273,
@@ -95,7 +94,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3550,
-        "qs:id":897629,
         "qs_pg:id":897629,
         "wd:id":"Q672089"
     },
@@ -115,7 +113,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281693,
+    "wof:lastmodified":1566518909,
     "wof:name":"Lennoxville",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

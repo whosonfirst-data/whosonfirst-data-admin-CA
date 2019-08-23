@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003645,
+    "geom:area_square_m":23385558.233043,
     "geom:bbox":"-119.3047856,58.6825791,-119.1436105,58.7998999",
     "geom:latitude":58.741425,
     "geom:longitude":-119.256819,
     "iso:country":"CA",
     "lbl:latitude":58.734563,
     "lbl:longitude":-119.264739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.734563,
     "mps:longitude":-119.264739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zama Lake 210"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741497,
-    "wof:lastmodified":1533250156,
+    "wof:lastmodified":1566519868,
     "wof:name":"Zama Lake 210",
     "wof:parent_id":1158863313,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.364364,
     "lbl:longitude":-106.538181,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.364364,
     "mps:longitude":-106.538181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Osler"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.37,
     "wd:longitude":-106.54,
     "wd:wordcount":329,
@@ -66,7 +69,6 @@
         "fct:id":"03c172ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6094642,
         "gp:id":23402835,
-        "qs:id":336354,
         "qs_pg:id":336354,
         "wd:id":"Q1916342",
         "wk:page":"Osler, Saskatchewan"
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284059,
+    "wof:lastmodified":1566519405,
     "wof:name":"Osler",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

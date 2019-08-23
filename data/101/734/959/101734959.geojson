@@ -16,6 +16,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.874557,
     "lbl:longitude":-97.138026,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":49.874557,
     "mps:longitude":-97.138026,
     "mz:hierarchy_label":1,
@@ -470,7 +472,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -483,7 +485,6 @@
         "fct:id":"03c040fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6183235,
         "gp:id":2972,
-        "qs:id":274738,
         "qs_pg:id":274738,
         "wd:id":"Q2135",
         "wk:page":"Winnipeg"
@@ -503,7 +504,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285263,
+    "wof:lastmodified":1566519910,
     "wof:megacity":0,
     "wof:name":"Winnipeg",
     "wof:parent_id":1158868941,

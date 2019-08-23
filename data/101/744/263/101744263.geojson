@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":40419.576537,
     "geom:bbox":"-121.552087,50.1187679,-121.5492215,50.1206413",
     "geom:latitude":50.119704,
     "geom:longitude":-121.550655,
     "iso:country":"CA",
     "lbl:latitude":50.119704,
     "lbl:longitude":-121.550653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.119704,
     "mps:longitude":-121.550653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pegleg 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744263,
-    "wof:lastmodified":1533335891,
+    "wof:lastmodified":1566519981,
     "wof:name":"Pegleg 3",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

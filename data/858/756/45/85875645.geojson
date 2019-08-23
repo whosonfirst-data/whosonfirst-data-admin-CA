@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5986067.115168,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.782345,53.920483,-122.782345,53.920483",
     "geom:latitude":53.920483,
     "geom:longitude":-122.782345,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.787345,53.915483,-122.777345,53.925483",
     "lbl:latitude":53.920483,
     "lbl:longitude":-122.782345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.927171,
     "mps:longitude":-122.776774,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Nechako View"
-    ],
-    "name:unk_x_variant":[
         "Nechako View"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856726,
-        "qs:id":986494,
         "qs_pg:id":986494
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872185,
+    "wof:lastmodified":1566518993,
     "wof:name":"Nechako View",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

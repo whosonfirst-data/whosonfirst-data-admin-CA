@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2015.351979,
     "geom:bbox":"-123.9278014,52.1442555,-123.9263582,52.1448254",
     "geom:latitude":52.14454,
     "geom:longitude":-123.92708,
     "iso:country":"CA",
     "lbl:latitude":52.144574,
     "lbl:longitude":-123.926973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.144574,
     "mps:longitude":-123.926973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Redstone Cemetery 1B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747143,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566519667,
     "wof:name":"Redstone Cemetery 1B",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

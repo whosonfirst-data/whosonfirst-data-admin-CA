@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.405181,
     "lbl:longitude":-111.081553,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.405181,
     "mps:longitude":-111.081553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Forty Mile No. 8"
     ],
@@ -28,7 +31,7 @@
     "reversegeo:longitude":-111.081553,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1954-01-01",
     "wd:population":3581,
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1158863177,
-    "wof:lastmodified":1554759637,
+    "wof:lastmodified":1566520459,
     "wof:name":"Forty Mile No. 8",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

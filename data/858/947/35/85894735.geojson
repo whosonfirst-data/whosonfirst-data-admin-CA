@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1080568.288877,
+    "geom:area_square_m":1080568.288878,
     "geom:bbox":"-122.917232617,49.2205378254,-122.8982699,49.2347726186",
     "geom:latitude":49.226487,
     "geom:longitude":-122.904802,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.226435,
     "lbl:longitude":-122.903869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.230416,
     "mps:longitude":-122.903767,
     "mz:hierarchy_label":0,
@@ -31,9 +32,6 @@
         "Victory Heights"
     ],
     "name:eng_x_variant":[
-        "Victory Heights"
-    ],
-    "name:unk_x_variant":[
         "Victory Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -67,7 +65,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -78,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998814,
-        "qs:id":179911,
         "qs_pg:id":179911
     },
     "wof:country":"CA",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335942,
+    "wof:lastmodified":1566518978,
     "wof:name":"Massey Victory Heights",
     "wof:parent_id":101741077,
     "wof:placetype":"neighbourhood",

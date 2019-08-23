@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":32407.702693,
     "geom:bbox":"-132.7127281,53.9054297,-132.7096631,53.9072445",
     "geom:latitude":53.906364,
     "geom:longitude":-132.711428,
     "iso:country":"CA",
     "lbl:latitude":53.906338,
     "lbl:longitude":-132.711812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.906338,
     "mps:longitude":-132.711812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kose 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747229,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566519617,
     "wof:name":"Kose 9",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

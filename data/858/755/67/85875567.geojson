@@ -11,8 +11,10 @@
     "geom:longitude":-82.380387,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.385387,42.981742,-82.375387,42.991742",
     "lbl:latitude":42.986742,
     "lbl:longitude":-82.380387,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.988715,
     "mps:longitude":-82.37925,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0442\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Guthrie"
-    ],
     "name:vol_x_preferred":[
         "Guthrie"
     ],
@@ -109,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736007,
@@ -120,7 +119,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856675,
-        "qs:id":214281,
         "qs_pg:id":214281
     },
     "wof:country":"CA",
@@ -145,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170667,
+    "wof:lastmodified":1566518940,
     "wof:name":"Guthrie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

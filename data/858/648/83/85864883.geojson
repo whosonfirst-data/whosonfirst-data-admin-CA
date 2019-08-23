@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1540357.191423,
+    "geom:area_square_m":1540357.191422,
     "geom:bbox":"-113.578002811,53.5165985566,-113.554249715,53.5315221749",
     "geom:latitude":53.523943,
     "geom:longitude":-113.567783,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.523756,
     "lbl:longitude":-113.568341,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.525036,
     "mps:longitude":-113.569145,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191575,
@@ -47,9 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856770,
-        "qs:id":1184440,
         "qs_pg:id":991297,
         "wd:id":"Q7138741"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1184440
     },
     "wof:country":"CA",
     "wof:geomhash":"a87c464eaf9d6d1a994a795f5d6b3988",
@@ -67,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270457,
+    "wof:lastmodified":1566519011,
     "wof:name":"Parkview",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

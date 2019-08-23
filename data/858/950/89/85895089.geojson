@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8154219.597359,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.596081,43.538033,-79.596081,43.538033",
     "geom:latitude":43.538033,
     "geom:longitude":-79.596081,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.601081,43.533033,-79.591081,43.543033",
     "lbl:latitude":43.538033,
     "lbl:longitude":-79.596081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.533102,
     "mps:longitude":-79.598462,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Cranberry Cove"
-    ],
-    "name:unk_x_variant":[
         "Cranberry Cove"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,9 +59,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         101740755,
         85633041,
@@ -72,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999082,
-        "qs:id":1354884,
         "qs_pg:id":1354884
     },
     "wof:country":"CA",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931322,
+    "wof:lastmodified":1566518989,
     "wof:name":"Cranberry Cove",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

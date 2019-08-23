@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1537229.440094,
+    "geom:area_square_m":1537229.440098,
     "geom:bbox":"-122.892989556,49.2153168,-122.875045,49.2360600116",
     "geom:latitude":49.225952,
     "geom:longitude":-122.883494,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.223091,
     "lbl:longitude":-122.882723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.232578,
     "mps:longitude":-122.855992,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Brunette Creek"
-    ],
-    "name:unk_x_variant":[
         "Brunette Creek"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -64,7 +62,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108952743,
@@ -75,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998884,
-        "qs:id":212697,
         "qs_pg:id":212697
     },
     "wof:country":"CA",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335943,
+    "wof:lastmodified":1566518970,
     "wof:name":"Brunette Creek",
     "wof:parent_id":1108952743,
     "wof:placetype":"neighbourhood",

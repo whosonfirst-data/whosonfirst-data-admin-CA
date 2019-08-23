@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.979644,
     "lbl:longitude":-71.293551,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.979644,
     "mps:longitude":-71.293551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u0628\u0648\u0628\u0648\u0631"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":46.9667,
     "wd:longitude":-71.3,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101737279,
-    "wof:lastmodified":1563284258,
+    "wof:lastmodified":1566519442,
     "wof:name":"Lac-Beauport",
     "wof:parent_id":890457205,
     "wof:placetype":"locality",

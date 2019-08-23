@@ -14,15 +14,18 @@
     "geom:longitude":-112.108534,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.069719,
     "lbl:longitude":-112.108537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.069719,
     "mps:longitude":-112.108537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vauxhall"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2979,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":6173600,
         "gp:id":8622,
-        "qs:id":962471,
+        "qs_pg:id":962471,
         "wd:id":"Q7917457",
         "wk:page":"Vauxhall"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890458259,
-    "wof:lastmodified":1563285978,
+    "wof:lastmodified":1566520107,
     "wof:name":"Vauxhall",
     "wof:parent_id":1158863249,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.339929,
     "lbl:longitude":-73.068594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.339929,
     "mps:longitude":-73.068594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sainte-Brigide-d'Iberville"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":6137774,
         "gp:id":23394517,
-        "qs:id":1048182,
+        "qs_pg:id":1048182,
         "wd:id":"Q3464191",
         "wk:page":"Sainte-Brigide-d'Iberville, Quebec"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101737213,
-    "wof:lastmodified":1563284278,
+    "wof:lastmodified":1566519446,
     "wof:name":"Sainte-Brigide-d'Iberville",
     "wof:parent_id":890456809,
     "wof:placetype":"locality",

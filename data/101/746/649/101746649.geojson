@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":799.849902,
     "geom:bbox":"-123.3247842,49.9894388,-123.3244718,49.9900333",
     "geom:latitude":49.989824,
     "geom:longitude":-123.324583,
     "iso:country":"CA",
     "lbl:latitude":49.989708,
     "lbl:longitude":-123.324299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.989708,
     "mps:longitude":-123.324299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poyam 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101746649,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566519835,
     "wof:name":"Poyam 9",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

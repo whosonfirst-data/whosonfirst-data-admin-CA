@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.124008,
     "lbl:longitude":-122.795345,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.124008,
     "mps:longitude":-122.795345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u064a\u060c \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629"
     ],
@@ -208,7 +211,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.1833,
     "wd:longitude":-122.85,
@@ -224,7 +227,6 @@
     "wof:concordances":{
         "gn:id":6159905,
         "gp:id":23404885,
-        "qs:id":368086,
         "qs_pg:id":368086,
         "wd:id":"Q390583",
         "wk:page":"Surrey, British Columbia"
@@ -241,7 +243,7 @@
         }
     ],
     "wof:id":101741073,
-    "wof:lastmodified":1563285188,
+    "wof:lastmodified":1566519887,
     "wof:name":"Surrey",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

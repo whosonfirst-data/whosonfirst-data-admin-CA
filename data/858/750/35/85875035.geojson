@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11432106.990808,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.27314,43.19048,-79.27314,43.19048",
     "geom:latitude":43.19048,
     "geom:longitude":-79.27314,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.27814,43.18548,-79.26814,43.19548",
     "lbl:latitude":43.19048,
     "lbl:longitude":-79.27314,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.189965,
     "mps:longitude":-79.28607,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Saint. George's Point"
-    ],
-    "name:unk_x_variant":[
         "Saint. George's Point"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736345,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856290,
-        "qs:id":1089531,
         "qs_pg:id":1089531
     },
     "wof:country":"CA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872002,
+    "wof:lastmodified":1566519000,
     "wof:name":"Saint. George's Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

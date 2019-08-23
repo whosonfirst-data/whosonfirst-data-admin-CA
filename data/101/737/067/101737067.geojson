@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.070688,
     "lbl:longitude":-74.285885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.070688,
     "mps:longitude":-74.285885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0623\u063a\u0627\u062b \u062f\u0633 \u0645\u0648\u0646\u062a\u0633"
     ],
@@ -105,7 +108,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":1048,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gn:id":6137702,
         "gp:id":3497,
-        "qs:id":766657,
+        "qs_pg:id":766657,
         "wd:id":"Q141738",
         "wk:page":"Sainte-Agathe-des-Monts"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101737067,
-    "wof:lastmodified":1563284304,
+    "wof:lastmodified":1566519450,
     "wof:name":"Sainte-Agathe-des-Monts",
     "wof:parent_id":890456307,
     "wof:placetype":"locality",

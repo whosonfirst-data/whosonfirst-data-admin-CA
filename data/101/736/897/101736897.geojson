@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.872115,
     "lbl:longitude":-72.772528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.872115,
     "mps:longitude":-72.772528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Guillaume"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":6138327,
         "gp:id":1507,
-        "qs:id":160389,
+        "qs_pg:id":160389,
         "wd:id":"Q3462360",
         "wk:page":"Saint-Guillaume, Quebec"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101736897,
-    "wof:lastmodified":1563284540,
+    "wof:lastmodified":1566519500,
     "wof:name":"Saint-Guillaume",
     "wof:parent_id":890457059,
     "wof:placetype":"locality",

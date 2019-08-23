@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
+    "geom:area_square_m":9505127.861662,
     "geom:bbox":"-100.877079,52.497642,-100.8279551,52.5444468",
     "geom:latitude":52.517066,
     "geom:longitude":-100.8518,
     "iso:country":"CA",
     "lbl:latitude":52.515672,
     "lbl:longitude":-100.851803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.515672,
     "mps:longitude":-100.851803,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swan Lake 65C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741791,
-    "wof:lastmodified":1533069145,
+    "wof:lastmodified":1566519856,
     "wof:name":"Swan Lake 65C",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

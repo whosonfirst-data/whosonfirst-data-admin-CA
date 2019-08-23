@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.692739,
     "lbl:longitude":-71.787562,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.692739,
     "mps:longitude":-71.787562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628 \u0633\u0627\u0646\u062a\u064a\u0647"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.666667,
     "wd:longitude":-71.783333,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":7535673,
         "gp:id":23396631,
-        "qs:id":1182807,
         "qs_pg:id":1182807,
         "wd:id":"Q141635",
         "wk:page":"Cap-Sant\u00e9"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101737151,
-    "wof:lastmodified":1563284129,
+    "wof:lastmodified":1566519415,
     "wof:name":"Cap-Sant\u00e9",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

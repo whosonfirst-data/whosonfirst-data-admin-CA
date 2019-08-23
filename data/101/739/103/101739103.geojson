@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.725857,
     "lbl:longitude":-107.35408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.725857,
     "mps:longitude":-107.35408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hafford"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.842,
     "wd:longitude":-107.382,
     "wd:wordcount":601,
@@ -63,7 +66,6 @@
         "fct:id":"03c00bb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5968839,
         "gp:id":2138,
-        "qs:id":71600,
         "qs_pg:id":71600,
         "wd:id":"Q1911249"
     },
@@ -82,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283953,
+    "wof:lastmodified":1566519391,
     "wof:name":"Hafford",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

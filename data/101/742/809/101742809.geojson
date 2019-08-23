@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":97032.577205,
     "geom:bbox":"-132.9910114,54.216397,-132.9865045,54.2200307",
     "geom:latitude":54.218185,
     "geom:longitude":-132.989113,
     "iso:country":"CA",
     "lbl:latitude":54.218211,
     "lbl:longitude":-132.98934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.218211,
     "mps:longitude":-132.98934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Egeria Bay 19"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742809,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520026,
     "wof:name":"Egeria Bay 19",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

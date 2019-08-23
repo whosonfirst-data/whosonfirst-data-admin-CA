@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23362835.113026,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.507133,50.72251,-120.507133,50.72251",
     "geom:latitude":50.72251,
     "geom:longitude":-120.507133,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-120.512133,50.71751,-120.502133,50.72751",
     "lbl:latitude":50.72251,
     "lbl:longitude":-120.507133,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.719067,
     "mps:longitude":-120.500276,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Tranquille"
-    ],
-    "name:unk_x_variant":[
         "Tranquille"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741047,
-        890458465,
-        85682117
+        890458465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405142,
-        "qs:id":221881,
         "qs_pg:id":221881
     },
     "wof:country":"CA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870993,
+    "wof:lastmodified":1566518966,
     "wof:name":"Tranquille",
     "wof:parent_id":101741047,
     "wof:placetype":"neighbourhood",

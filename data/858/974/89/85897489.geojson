@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.960372,
     "lbl:longitude":-97.097819,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.96039,
     "mps:longitude":-97.092533,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:srp_x_preferred":[
         "\u0420\u0438\u0432\u0435\u0440\u0431\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Riverbend"
-    ],
     "name:vol_x_preferred":[
         "Riverbend"
     ],
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":143,
     "wof:belongsto":[
         102191575,
@@ -78,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022823,
-        "qs:id":1090965,
         "qs_pg:id":1090965
     },
     "wof:country":"CA",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170881,
+    "wof:lastmodified":1566519018,
     "wof:name":"Riverbend",
     "wof:parent_id":1108968461,
     "wof:placetype":"neighbourhood",

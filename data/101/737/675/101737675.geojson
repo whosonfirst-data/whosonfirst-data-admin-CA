@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.281445,
     "lbl:longitude":-72.962509,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.281445,
     "mps:longitude":-72.962509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0646\u0647\u0627\u0645"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":705,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":5951644,
         "gp:id":3560,
-        "qs:id":1244929,
         "qs_pg:id":1244929,
         "wd:id":"Q141743",
         "wk:page":"Farnham, Quebec"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737675,
-    "wof:lastmodified":1563284133,
+    "wof:lastmodified":1566519416,
     "wof:name":"Farnham",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

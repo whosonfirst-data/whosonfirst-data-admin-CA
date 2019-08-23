@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4109808.379003,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.811065,43.2516,-79.811065,43.2516",
     "geom:latitude":43.2516,
     "geom:longitude":-79.811065,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.816065,43.2466,-79.806065,43.2566",
     "lbl:latitude":43.2516,
     "lbl:longitude":-79.811065,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.254255,
     "mps:longitude":-79.80707,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Crown Point East"
-    ],
-    "name:unk_x_variant":[
         "Crown Point East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856203,
-        "qs:id":899252,
         "qs_pg:id":899252
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871952,
+    "wof:lastmodified":1566518984,
     "wof:name":"Crown Point East",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

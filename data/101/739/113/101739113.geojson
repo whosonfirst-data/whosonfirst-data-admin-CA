@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.787422,
     "lbl:longitude":-107.07481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.787422,
     "mps:longitude":-107.07481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Krydor"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":212,
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
         "fct:id":"03ba4f50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5994273,
         "gp:id":2133,
-        "qs:id":71601,
         "qs_pg:id":71601,
         "wd:id":"Q2004313",
         "wk:page":"Krydor, Saskatchewan"
@@ -78,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284099,
+    "wof:lastmodified":1566519410,
     "wof:name":"Krydor",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

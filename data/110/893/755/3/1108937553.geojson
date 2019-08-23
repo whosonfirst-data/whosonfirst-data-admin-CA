@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1937486.671941,
+    "geom:area_square_m":1937486.671943,
     "geom:bbox":"-97.219682,49.790848,-97.190265,49.809367",
     "geom:latitude":49.799845,
     "geom:longitude":-97.205017,
     "iso:country":"CA",
     "lbl:latitude":49.800131,
     "lbl:longitude":-97.20499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.797523,
     "mps:longitude":-97.207469,
     "mz:hierarchy_label":1,
@@ -37,14 +38,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968781,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108937553,
-    "wof:lastmodified":1531523909,
+    "wof:lastmodified":1566519258,
     "wof:name":"Bridgwater Lakes",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

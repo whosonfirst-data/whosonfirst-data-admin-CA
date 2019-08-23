@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":57.2606,
     "lbl:longitude":-130.083565,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.2606,
     "mps:longitude":-130.083565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Regional District of Kitimat-Stikine"
     ],
@@ -66,7 +69,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kitimat-Stikine",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5949",
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375209,
-        "qs:id":890833,
+        "qs_pg:id":890833,
         "wk:page":"Regional District of Kitimat-Stikine"
     },
     "wof:country":"CA",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890458111,
-    "wof:lastmodified":1564173225,
+    "wof:lastmodified":1566520112,
     "wof:name":"Kitimat-Stikine",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

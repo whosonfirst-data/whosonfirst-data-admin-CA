@@ -10,8 +10,10 @@
     "geom:latitude":43.263779,
     "geom:longitude":-79.830977,
     "iso:country":"CA",
+    "lbl:bbox":"-79.835977,43.258779,-79.825977,43.268779",
     "lbl:latitude":43.263779,
     "lbl:longitude":-79.830977,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.26721,
     "mps:longitude":-79.831519,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Carleton Village"
-    ],
-    "name:unk_x_variant":[
-        "Barton Village"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":43.672,
     "wd:longitude":-79.457,
     "wd:wordcount":702,
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gn:id":7870906,
         "gp:id":55855644,
-        "qs:id":1002160,
         "qs_pg:id":1002160,
         "wd:id":"Q5041255",
         "wk:page":"Carleton Village"
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281962,
+    "wof:lastmodified":1566518973,
     "wof:name":"Barton Village",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

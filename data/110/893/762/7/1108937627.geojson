@@ -7,13 +7,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":642613.872032,
+    "geom:area_square_m":642613.872033,
     "geom:bbox":"-97.061978,49.923269,-97.044589,49.932114",
     "geom:latitude":49.928003,
     "geom:longitude":-97.053709,
     "iso:country":"CA",
     "lbl:latitude":49.927899,
     "lbl:longitude":-97.054042,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.92759,
     "mps:longitude":-97.053709,
     "mz:hierarchy_label":1,
@@ -34,14 +35,14 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968465,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108937627,
-    "wof:lastmodified":1531523912,
+    "wof:lastmodified":1566519259,
     "wof:name":"Springfield South",
     "wof:parent_id":1108968465,
     "wof:placetype":"neighbourhood",

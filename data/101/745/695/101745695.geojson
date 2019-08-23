@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005953,
+    "geom:area_square_m":46275053.941332,
     "geom:bbox":"-99.0544606,51.0135191,-98.9616725,51.1076257",
     "geom:latitude":51.052221,
     "geom:longitude":-99.017112,
     "iso:country":"CA",
     "lbl:latitude":51.045954,
     "lbl:longitude":-99.022916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.045954,
     "mps:longitude":-99.022916,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ebb And Flow 52"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745695,
-    "wof:lastmodified":1531526367,
+    "wof:lastmodified":1566520052,
     "wof:name":"Ebb And Flow 52",
     "wof:parent_id":1158868997,
     "wof:placetype":"locality",

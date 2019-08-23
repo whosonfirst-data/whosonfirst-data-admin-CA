@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.647316,
     "lbl:longitude":-123.435416,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.647316,
     "mps:longitude":-123.435416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u064a\u062a\u0634 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.6142,
     "wd:longitude":-123.42,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":6090579,
         "gp:id":26320945,
-        "qs:id":1077124,
         "qs_pg:id":1077124,
         "wd:id":"Q2000769",
         "wk:page":"North Saanich"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101740883,
-    "wof:lastmodified":1563284846,
+    "wof:lastmodified":1566519572,
     "wof:name":"North Saanich",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

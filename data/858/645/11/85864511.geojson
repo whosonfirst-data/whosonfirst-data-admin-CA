@@ -9,13 +9,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":2377769.242027,
+    "geom:area_square_m":2377769.242029,
     "geom:bbox":"-75.8084659996,45.355923,-75.7828720001,45.375774",
     "geom:latitude":45.366808,
     "geom:longitude":-75.794671,
     "iso:country":"CA",
     "lbl:latitude":45.370606,
     "lbl:longitude":-75.802287,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.376534,
     "mps:longitude":-75.801755,
     "mz:hierarchy_label":1,
@@ -38,21 +39,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2983,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5909024,
         "gp:id":23399467,
-        "qs:id":1192542,
         "qs_pg:id":1192542,
         "wd:id":"Q4969280"
     },
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277890,
+    "wof:lastmodified":1566518960,
     "wof:name":"Brittania",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

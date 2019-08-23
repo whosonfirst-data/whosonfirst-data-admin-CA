@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8423.868821,
     "geom:bbox":"-126.9285171,50.581512,-126.926865,50.5824424",
     "geom:latitude":50.582032,
     "geom:longitude":-126.927514,
     "iso:country":"CA",
     "lbl:latitude":50.58197,
     "lbl:longitude":-126.927341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.58197,
     "mps:longitude":-126.927341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nimpkish 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101743109,
-    "wof:lastmodified":1533335873,
+    "wof:lastmodified":1566519996,
     "wof:name":"Nimpkish 2",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

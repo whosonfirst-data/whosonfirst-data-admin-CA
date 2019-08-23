@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003699,
+    "geom:area_square_m":29570706.803695,
     "geom:bbox":"-114.0012207,49.6987603,-113.9312258,49.7568332",
     "geom:latitude":49.725682,
     "geom:longitude":-113.968325,
     "iso:country":"CA",
     "lbl:latitude":49.724736,
     "lbl:longitude":-113.972977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.724736,
     "mps:longitude":-113.972977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peigan Timber Limit 147B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741591,
-    "wof:lastmodified":1533250159,
+    "wof:lastmodified":1566519886,
     "wof:name":"Peigan Timber Limit 147B",
     "wof:parent_id":1158863271,
     "wof:placetype":"locality",

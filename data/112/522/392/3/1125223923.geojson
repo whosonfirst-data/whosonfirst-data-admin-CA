@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":813832.904091,
+    "geom:area_square_m":813832.90409,
     "geom:bbox":"-75.7543986011,45.3572711559,-75.7412849997,45.3706949996",
     "geom:latitude":45.364456,
     "geom:longitude":-75.74815,
     "iso:country":"CA",
     "lbl:latitude":45.365277,
     "lbl:longitude":-75.749343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.365277,
     "mps:longitude":-75.749343,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-75.749343,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1125223923,
-    "wof:lastmodified":1533277875,
+    "wof:lastmodified":1566520353,
     "wof:name":"Copeland Park",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

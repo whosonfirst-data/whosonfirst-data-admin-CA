@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.171642,
     "lbl:longitude":-67.919308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.171642,
     "mps:longitude":-67.919308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saint-L\u00e9onard"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:latitude":47.1625,
     "wd:longitude":-67.925,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":7731836,
         "gp:id":1554,
-        "qs:id":1024132,
+        "qs_pg:id":1024132,
         "wd:id":"Q985187",
         "wk:page":"Saint-L\u00e9onard, New Brunswick"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101735185,
-    "wof:lastmodified":1563285526,
+    "wof:lastmodified":1566519963,
     "wof:name":"Saint-L\u00e9onard",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

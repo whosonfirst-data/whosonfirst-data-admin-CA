@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":54.231898,
     "lbl:longitude":-125.755807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.231898,
     "mps:longitude":-125.755807,
     "mz:hierarchy_label":1,
@@ -163,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.229167,
     "wd:longitude":-125.7625,
@@ -178,7 +180,6 @@
     "wof:concordances":{
         "gn:id":5911745,
         "gp:id":9439,
-        "qs:id":274709,
         "qs_pg:id":274709,
         "wd:id":"Q954302",
         "wk:page":"Burns Lake"
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":101740855,
-    "wof:lastmodified":1563284873,
+    "wof:lastmodified":1566519581,
     "wof:name":"Burns Lake",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

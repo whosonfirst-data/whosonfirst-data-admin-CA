@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.065856,
     "lbl:longitude":-68.680584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.065856,
     "mps:longitude":-68.680584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0633\u064a\u0627\u0645\u064a\u062a"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1154,
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":6945992,
         "gp:id":3630,
-        "qs:id":959574,
         "qs_pg:id":959574,
         "wd:id":"Q3376268",
         "wk:page":"Pessamit, Quebec"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101741367,
-    "wof:lastmodified":1563285182,
+    "wof:lastmodified":1566519885,
     "wof:name":"Betsiamites",
     "wof:parent_id":890457997,
     "wof:placetype":"locality",

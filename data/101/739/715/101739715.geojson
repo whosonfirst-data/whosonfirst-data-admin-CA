@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.415255,
     "lbl:longitude":-104.983305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.415255,
     "mps:longitude":-104.983305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pense"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":213,
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
         "fct:id":"03c174e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6101124,
         "gp:id":23402866,
-        "qs:id":487678,
         "qs_pg:id":487678,
         "wd:id":"Q1916426",
         "wk:page":"Pense, Saskatchewan"
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844268,
+    "wof:lastmodified":1566519400,
     "wof:name":"Pense",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.163733,
     "lbl:longitude":-123.175335,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.163733,
     "mps:longitude":-123.175335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062a\u0634\u0645\u0648\u0646\u062f"
     ],
@@ -193,7 +196,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.166667,
     "wd:longitude":-123.133333,
@@ -209,7 +212,6 @@
     "wof:concordances":{
         "gn:id":6122085,
         "gp:id":9947,
-        "qs:id":767867,
         "qs_pg:id":767867,
         "wd:id":"Q236837",
         "wk:page":"Richmond, British Columbia"
@@ -226,7 +228,7 @@
         }
     ],
     "wof:id":101741081,
-    "wof:lastmodified":1563285194,
+    "wof:lastmodified":1566519888,
     "wof:name":"Richmond",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

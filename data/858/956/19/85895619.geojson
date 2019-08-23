@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000693,
-    "geom:area_square_m":6181223.712415,
+    "geom:area_square_m":6181223.712412,
     "geom:bbox":"-79.1086091564,43.8206564121,-79.0740966797,43.8544320659",
     "geom:latitude":43.837843,
     "geom:longitude":-79.089605,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.836562,
     "lbl:longitude":-79.084216,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.836409,
     "mps:longitude":-79.089274,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Town Centre"
-    ],
-    "name:unk_x_variant":[
         "Town Centre"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -67,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999595,
-        "qs:id":1355097
+        "qs_pg:id":1355097
     },
     "wof:country":"CA",
     "wof:geomhash":"b99d7827d505112ede99e78ff9d8fa2e",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335745,
+    "wof:lastmodified":1566518997,
     "wof:name":"Pickering CIty Centre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

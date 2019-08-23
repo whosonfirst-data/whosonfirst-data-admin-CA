@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097219,
+    "geom:area_square_m":743958444.633053,
     "geom:bbox":"-103.2824441,51.65195,-102.8573068,51.8813844",
     "geom:latitude":51.766618,
     "geom:longitude":-103.069826,
     "iso:country":"CA",
     "lbl:latitude":51.737693,
     "lbl:longitude":-103.090824,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.737693,
     "mps:longitude":-103.090824,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Invermay No. 305"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740129,
-    "wof:lastmodified":1531525247,
+    "wof:lastmodified":1566519561,
     "wof:name":"Invermay No. 305",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

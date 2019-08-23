@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3482620.124309,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.879761,43.198502,-79.879761,43.198502",
     "geom:latitude":43.198502,
     "geom:longitude":-79.879761,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.884761,43.193502,-79.874761,43.203502",
     "lbl:latitude":43.198502,
     "lbl:longitude":-79.879761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.195967,
     "mps:longitude":-79.87883,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Chappel West"
-    ],
-    "name:unk_x_variant":[
         "Chappel West"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856166,
-        "qs:id":136359,
         "qs_pg:id":136359
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871937,
+    "wof:lastmodified":1566518984,
     "wof:name":"Chappel West",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

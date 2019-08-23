@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.035699,
     "lbl:longitude":-73.758683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.035699,
     "mps:longitude":-73.758683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0641\u0644\u0648\u0643"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"Canton",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":612,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101738085,
-    "wof:lastmodified":1563284607,
+    "wof:lastmodified":1566519512,
     "wof:name":"Havelock",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":25535.442924,
     "geom:bbox":"-126.017833,49.2818433,-126.0158307,49.2839626",
     "geom:latitude":49.282742,
     "geom:longitude":-126.016726,
     "iso:country":"CA",
     "lbl:latitude":49.282646,
     "lbl:longitude":-126.01673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.282646,
     "mps:longitude":-126.01673,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tequa 21"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":9740
     },
     "wof:country":"CA",
-    "wof:geomhash":"bd4b3efeacdbaeed2257ed7d4a8a26e9",
+    "wof:geomhash":"7bf346302e84c61fe095fad98fbfbbec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101742915,
-    "wof:lastmodified":1493163505,
+    "wof:lastmodified":1566520017,
     "wof:name":"Tequa 21",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

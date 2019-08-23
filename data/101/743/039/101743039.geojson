@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":18625.560759,
     "geom:bbox":"-127.3211458,51.3386786,-127.3191237,51.340343",
     "geom:latitude":51.339733,
     "geom:longitude":-127.320069,
     "iso:country":"CA",
     "lbl:latitude":51.339801,
     "lbl:longitude":-127.319977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.339801,
     "mps:longitude":-127.319977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tseetsum-Sawlasilah 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743039,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566519992,
     "wof:name":"Tseetsum-Sawlasilah 6",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

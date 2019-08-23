@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":39506.549404,
     "geom:bbox":"-122.0470773,49.1473942,-122.0442423,49.1492712",
     "geom:latitude":49.148333,
     "geom:longitude":-122.045659,
     "iso:country":"CA",
     "lbl:latitude":49.148333,
     "lbl:longitude":-122.045661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.148333,
     "mps:longitude":-122.045661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lakway Cemetery 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744765,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566519964,
     "wof:name":"Lakway Cemetery 3",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

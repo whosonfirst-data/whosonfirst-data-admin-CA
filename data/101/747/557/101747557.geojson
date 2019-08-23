@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002144,
+    "geom:area_square_m":15685654.964265,
     "geom:bbox":"-109.9956545,53.6281583,-109.3889185,54.0277576",
     "geom:latitude":53.718621,
     "geom:longitude":-109.820986,
     "iso:country":"CA",
     "lbl:latitude":53.767462,
     "lbl:longitude":-109.803417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.767462,
     "mps:longitude":-109.803417,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Onion Lake Indian Reserve No. 119-2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101747557,
-    "wof:lastmodified":1531525187,
+    "wof:lastmodified":1566519609,
     "wof:name":"Onion Lake Indian Reserve No. 119-2",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

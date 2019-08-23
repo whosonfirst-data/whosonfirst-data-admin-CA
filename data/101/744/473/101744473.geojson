@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
+    "geom:area_square_m":413183.592435,
     "geom:bbox":"-125.6759669,53.9309794,-125.6636408,53.9372342",
     "geom:latitude":53.934761,
     "geom:longitude":-125.669157,
     "iso:country":"CA",
     "lbl:latitude":53.934877,
     "lbl:longitude":-125.669158,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.934877,
     "mps:longitude":-125.669158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uncha Lake 13A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744473,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566519978,
     "wof:name":"Uncha Lake 13A",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.076547,
     "lbl:longitude":-73.031337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.076547,
     "mps:longitude":-73.031337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Anne-de-Sorel"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         102191575,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":6137750,
         "gp:id":23396510,
-        "qs:id":1164004,
+        "qs_pg:id":1164004,
         "wd:id":"Q540163",
         "wk:page":"Sainte-Anne-de-Sorel, Quebec"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101736455,
-    "wof:lastmodified":1563284410,
+    "wof:lastmodified":1566519469,
     "wof:name":"Sainte-Anne-de-Sorel",
     "wof:parent_id":136251273,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7883749.973937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.44558,45.444974,-73.44558,45.444974",
     "geom:latitude":45.444974,
     "geom:longitude":-73.44558,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.45058,45.439974,-73.44058,45.449974",
     "lbl:latitude":45.444974,
     "lbl:longitude":-73.44558,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.441557,
     "mps:longitude":-73.442091,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Quartier DiX30"
     ],
     "name:fra_x_preferred":[
-        "Quartier DiX30"
-    ],
-    "name:unk_x_variant":[
         "Quartier DiX30"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56022839,
-        "qs:id":231039,
         "qs_pg:id":231039
     },
     "wof:country":"CA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931891,
+    "wof:lastmodified":1566519024,
     "wof:name":"Quartier DiX30",
     "wof:parent_id":101736555,
     "wof:placetype":"neighbourhood",

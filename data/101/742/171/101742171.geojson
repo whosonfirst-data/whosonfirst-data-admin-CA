@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
+    "geom:area_square_m":646388.647549,
     "geom:bbox":"-103.6265183,52.3911198,-103.6146538,52.3983502",
     "geom:latitude":52.394735,
     "geom:longitude":-103.620588,
     "iso:country":"CA",
     "lbl:latitude":52.394735,
     "lbl:longitude":-103.620588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.394735,
     "mps:longitude":-103.620588,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yellow Quill I.R. 90-8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742171,
-    "wof:lastmodified":1531523847,
+    "wof:lastmodified":1566520031,
     "wof:name":"Yellow Quill I.R. 90-8",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

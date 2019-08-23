@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.47668,
     "lbl:longitude":-79.480655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.47668,
     "mps:longitude":-79.480655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Saint-Bruno-de-Guigues"
     ],
@@ -96,7 +99,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":152,
     "wof:belongsto":[
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":6137539,
         "gp:id":1412,
-        "qs:id":1115328,
+        "qs_pg:id":1115328,
         "wd:id":"Q3461925",
         "wk:page":"Saint-Bruno-de-Guigues, Quebec"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101736737,
-    "wof:lastmodified":1563284354,
+    "wof:lastmodified":1566519457,
     "wof:name":"Saint-Bruno-de-Guigues",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

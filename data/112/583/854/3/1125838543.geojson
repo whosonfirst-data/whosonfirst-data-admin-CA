@@ -9,12 +9,16 @@
     "geom:bbox":"-121.3528985,51.746588,-121.3528985,51.746588",
     "geom:latitude":51.746588,
     "geom:longitude":-121.352898,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CA",
+    "lbl:bbox":"-121.3728985,51.726588,-121.3328985,51.766588",
     "lbl:latitude":51.746588,
     "lbl:longitude":-121.352898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "108 Mile Ranch"
@@ -26,7 +30,7 @@
         "108 Mile Ranch"
     ],
     "name:urd_x_preferred":[
-        "108 \u0645\u0627\u0626\u0644  \u0631\u06cc\u0646\u0686\u060c \u0628\u0631\u0679\u0634 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+        "108 \u0645\u0627\u0626\u0644 \u0631\u06cc\u0646\u0686\u060c \u0628\u0631\u0679\u0634 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
     ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":null,
@@ -46,7 +50,7 @@
     "qs_pg:woe_adm0":23424775,
     "qs_pg:woe_id":23405232,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424775,
     "woe:name_adm0":"Canada",
     "woe:name_adm1":"British Columbia",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1125838543,
-    "wof:lastmodified":1561844575,
+    "wof:lastmodified":1566520359,
     "wof:name":"108 Mile Ranch",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

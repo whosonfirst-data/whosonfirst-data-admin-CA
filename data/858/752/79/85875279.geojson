@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4610938.532458,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.677236,44.340429,-79.677236,44.340429",
     "geom:latitude":44.340429,
     "geom:longitude":-79.677236,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.682236,44.335429,-79.672236,44.345429",
     "lbl:latitude":44.340429,
     "lbl:longitude":-79.677236,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.340496,
     "mps:longitude":-79.673334,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Welham"
     ],
     "name:pol_x_preferred":[
-        "Welham"
-    ],
-    "name:unk_x_variant":[
         "Welham"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":54,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735527,
-        890456339,
-        85682057
+        890456339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856429,
-        "qs:id":890969,
         "qs_pg:id":890969
     },
     "wof:country":"CA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872062,
+    "wof:lastmodified":1566518940,
     "wof:name":"Welham",
     "wof:parent_id":101735527,
     "wof:placetype":"neighbourhood",

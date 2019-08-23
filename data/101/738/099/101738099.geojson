@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.047404,
     "lbl:longitude":-73.129682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.047404,
     "mps:longitude":-73.129682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Saint-Joseph-de-Sorel"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":209,
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":6138569,
         "gp:id":1539,
-        "qs:id":1012758,
+        "qs_pg:id":1012758,
         "wd:id":"Q142456",
         "wk:page":"Saint-Joseph-de-Sorel, Quebec"
     },
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101738099,
-    "wof:lastmodified":1563284625,
+    "wof:lastmodified":1566519515,
     "wof:name":"Saint-Joseph-de-Sorel",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

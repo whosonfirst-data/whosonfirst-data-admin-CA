@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008441,
+    "geom:area_square_m":66449400.266631,
     "geom:bbox":"-100.0686237,50.37332,-99.9317,50.520684",
     "geom:latitude":50.457749,
     "geom:longitude":-99.992133,
     "iso:country":"CA",
     "lbl:latitude":50.438445,
     "lbl:longitude":-99.981736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.438445,
     "mps:longitude":-99.981736,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rolling River 67"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101747573,
-    "wof:lastmodified":1531526340,
+    "wof:lastmodified":1566519680,
     "wof:name":"Rolling River 67",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

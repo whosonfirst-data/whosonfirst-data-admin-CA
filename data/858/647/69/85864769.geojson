@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1599787.137523,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.581902,52.121974,-106.581902,52.121974",
     "geom:latitude":52.121974,
     "geom:longitude":-106.581902,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.586902,52.116974,-106.576902,52.126974",
     "lbl:latitude":52.121974,
     "lbl:longitude":-106.581902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.122211,
     "mps:longitude":-106.581082,
     "mz:hierarchy_label":0,
@@ -33,24 +35,26 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.1203,
     "wd:longitude":-106.575,
     "wd:wordcount":656,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115067,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403269,
-        "qs:id":14855,
-        "qs_pg:id":990103,
+        "qs_pg:id":14855,
         "wd:id":"Q5146498"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":990103
     },
     "wof:country":"CA",
     "wof:geomhash":"9ae8a03d5289ae61ff5e7c8ab7ee0ebb",
@@ -69,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870961,
+    "wof:lastmodified":1566519006,
     "wof:name":"College Park East",
     "wof:parent_id":1126115067,
     "wof:placetype":"neighbourhood",

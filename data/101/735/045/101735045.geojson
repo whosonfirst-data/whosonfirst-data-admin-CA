@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.532649,
     "lbl:longitude":-98.556426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.532649,
     "mps:longitude":-98.556426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Notre Dame de Lourdes"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.5331,
     "wd:longitude":-98.5578,
     "wd:wordcount":299,
@@ -82,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285444,
+    "wof:lastmodified":1566519945,
     "wof:name":"Notre Dame de Lourdes",
     "wof:parent_id":1158868933,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.903581,
     "lbl:longitude":-97.012843,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.903855,
     "mps:longitude":-97.012275,
     "mz:hierarchy_label":1,
@@ -61,7 +62,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968467,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108937597,
-    "wof:lastmodified":1564172103,
+    "wof:lastmodified":1566519263,
     "wof:name":"Radisson",
     "wof:parent_id":1108968467,
     "wof:placetype":"neighbourhood",

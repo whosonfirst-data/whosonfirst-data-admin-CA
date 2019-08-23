@@ -9,14 +9,17 @@
     "geom:bbox":"-84.6268691,46.4532,-84.2294522,46.6122858",
     "geom:latitude":46.538954,
     "geom:longitude":-84.399509,
-    "geonames:id":"6141439,5009004",
+    "gn:id":"6141439,5009004",
     "iso:country":"CA",
     "lbl:latitude":46.554509,
     "lbl:longitude":-84.402407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.554509,
     "mps:longitude":-84.402407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648 \u0633\u0627\u064a\u0646\u062a \u0645\u0627\u0631\u064a"
     ],
@@ -140,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":114,
     "wof:belongsto":[
         102191575,
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101735641,
-    "wof:lastmodified":1563285464,
+    "wof:lastmodified":1566519949,
     "wof:name":"Sault Ste. Marie",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

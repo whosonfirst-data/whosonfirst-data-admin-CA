@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
+    "geom:area_square_m":227955.630056,
     "geom:bbox":"-127.578049015,50.612124751,-127.563549806,50.619209561",
     "geom:latitude":50.615408,
     "geom:longitude":-127.570649,
     "iso:country":"CA",
     "lbl:latitude":50.615225,
     "lbl:longitude":-127.570758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.615225,
     "mps:longitude":-127.570758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quatsino Subdivision 18"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743747,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566519993,
     "wof:name":"Quatsino Subdivision 18",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

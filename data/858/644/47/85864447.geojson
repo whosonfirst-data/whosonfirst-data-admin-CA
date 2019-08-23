@@ -11,8 +11,10 @@
     "geom:longitude":-89.359531,
     "gn:population":1986,
     "iso:country":"CA",
+    "lbl:bbox":"-89.364531,48.33492,-89.354531,48.34492",
     "lbl:latitude":48.33992,
     "lbl:longitude":-89.359531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.344855,
     "mps:longitude":-89.356678,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Neebing"
     ],
-    "name:unk_x_variant":[
-        "Neebing"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"08",
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85682057,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":6086590,
         "gp:id":23396963,
-        "qs:id":1115350,
         "qs_pg:id":1115350,
         "wd:id":"Q4859501",
         "wk:page":"Neebing, Ontario"
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281895,
+    "wof:lastmodified":1566518959,
     "wof:name":"Neebing",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

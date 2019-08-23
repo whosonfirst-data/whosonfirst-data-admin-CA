@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.129419,
     "lbl:longitude":-104.519778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.129419,
     "mps:longitude":-104.519778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Watson"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.1167,
     "wd:longitude":-104.517,
     "wd:wordcount":654,
@@ -87,7 +90,6 @@
         "fct:id":"03c01c28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6176933,
         "gp:id":2395,
-        "qs:id":1053616,
         "qs_pg:id":1053616,
         "wd:id":"Q1917538",
         "wk:page":"Watson, Saskatchewan"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284017,
+    "wof:lastmodified":1566519400,
     "wof:name":"Watson",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

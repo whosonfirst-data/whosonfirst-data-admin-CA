@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.515281,
     "lbl:longitude":-79.897048,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.515281,
     "mps:longitude":-79.897048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Halton"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Halton",
     "statcan:cdtype":"RM",
     "statcan:cduid":"3524",
@@ -79,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375078,
-        "qs:id":1291329,
+        "qs_pg:id":1291329,
         "wk:page":"Halton"
     },
     "wof:country":"CA",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890458413,
-    "wof:lastmodified":1564173214,
+    "wof:lastmodified":1566520102,
     "wof:name":"Halton",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

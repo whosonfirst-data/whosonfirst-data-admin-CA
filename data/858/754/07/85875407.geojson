@@ -11,8 +11,10 @@
     "geom:longitude":-66.054076,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.059076,45.265889,-66.049076,45.275889",
     "lbl:latitude":45.270889,
     "lbl:longitude":-66.054076,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.26926,
     "mps:longitude":-66.053002,
     "mz:hierarchy_label":0,
@@ -210,9 +212,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0446\u043e\u0433"
     ],
-    "name:unk_x_variant":[
-        "Duke"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0648\u06a9"
     ],
@@ -251,7 +250,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682065,
         102191575,
@@ -262,7 +261,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856503,
-        "qs:id":1089566,
         "qs_pg:id":1089566
     },
     "wof:country":"CA",
@@ -281,7 +279,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170691,
+    "wof:lastmodified":1566518948,
     "wof:name":"Duke",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

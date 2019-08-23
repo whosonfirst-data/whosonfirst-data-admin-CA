@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.000656,
     "lbl:longitude":-60.221451,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.000656,
     "mps:longitude":-60.221451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ang_x_preferred":[
         "Lidwicn\u00e6s\u012beg"
     ],
@@ -200,7 +203,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Cape Breton",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1217",
@@ -214,7 +217,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375130,
-        "qs:id":1089200,
+        "qs_pg:id":1089200,
         "wd:id":"Q188489",
         "wk:page":"Cape Breton Island"
     },
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":890457747,
-    "wof:lastmodified":1563286416,
+    "wof:lastmodified":1566520226,
     "wof:name":"Cape Breton",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

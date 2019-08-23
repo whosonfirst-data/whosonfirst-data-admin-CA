@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000982,
+    "geom:area_square_m":6576456.989487,
     "geom:bbox":"-111.6856925,57.1961291,-111.6151604,57.2138148",
     "geom:latitude":57.205776,
     "geom:longitude":-111.64922,
     "iso:country":"CA",
     "lbl:latitude":57.204976,
     "lbl:longitude":-111.660631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.204976,
     "mps:longitude":-111.660631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fort Mckay Indian Reserve No. 174D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746713,
-    "wof:lastmodified":1533250164,
+    "wof:lastmodified":1566519822,
     "wof:name":"Fort Mckay Indian Reserve No. 174D",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

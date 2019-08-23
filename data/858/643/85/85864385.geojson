@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6532455.931812,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-66.025582,45.307781,-66.025582,45.307781",
     "geom:latitude":45.307781,
     "geom:longitude":-66.025582,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-66.030582,45.302781,-66.020582,45.312781",
     "lbl:latitude":45.307781,
     "lbl:longitude":-66.025582,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.307733,
     "mps:longitude":-66.02573,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Westmoorland Heights"
-    ],
-    "name:unk_x_variant":[
         "Westmoorland Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23393323,
-        "qs:id":1262939,
         "qs_pg:id":1262939
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870882,
+    "wof:lastmodified":1566518956,
     "wof:name":"Westmoorland Heights",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

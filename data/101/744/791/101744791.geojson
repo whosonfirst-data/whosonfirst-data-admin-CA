@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":388323.756087,
     "geom:bbox":"-121.6635575,49.3074375,-121.6515287,49.3149493",
     "geom:latitude":49.311972,
     "geom:longitude":-121.658337,
     "iso:country":"CA",
     "lbl:latitude":49.31243,
     "lbl:longitude":-121.658751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.31243,
     "mps:longitude":-121.658751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peters 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744791,
-    "wof:lastmodified":1533335899,
+    "wof:lastmodified":1566519964,
     "wof:name":"Peters 2",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

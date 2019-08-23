@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":69116.269105,
     "geom:bbox":"-122.7210885,50.3750977,-122.7181253,50.3787654",
     "geom:latitude":50.376945,
     "geom:longitude":-122.719695,
     "iso:country":"CA",
     "lbl:latitude":50.377946,
     "lbl:longitude":-122.720248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.377946,
     "mps:longitude":-122.720248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lokla 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744707,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566519965,
     "wof:name":"Lokla 4",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

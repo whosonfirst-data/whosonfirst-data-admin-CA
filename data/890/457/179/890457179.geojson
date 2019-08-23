@@ -14,16 +14,18 @@
     "geom:longitude":-117.275807,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":1951,
     "gn:population":1951,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":55.060578,
     "lbl:longitude":-117.278749,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.060578,
     "mps:longitude":-117.278749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a\u0641\u064a\u0648"
     ],
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
@@ -91,7 +93,7 @@
     "wof:concordances":{
         "gn:id":6173220,
         "gp:id":8381,
-        "qs:id":887276,
+        "qs_pg:id":887276,
         "wd:id":"Q1743736",
         "wk:page":"Valleyview"
     },
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":890457179,
-    "wof:lastmodified":1563286511,
+    "wof:lastmodified":1566520251,
     "wof:name":"Valleyview",
     "wof:parent_id":1158863297,
     "wof:placetype":"locality",
