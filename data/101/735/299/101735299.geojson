@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.308964,
     "lbl:longitude":-68.500591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.308964,
     "mps:longitude":-68.500591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0631 \u0628\u0631\u0648\u0643"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.3025,
     "wd:longitude":-68.51,
     "wd:wordcount":272,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101735299,
-    "wof:lastmodified":1563285498,
+    "wof:lastmodified":1566519956,
     "wof:name":"Baker-Brook",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

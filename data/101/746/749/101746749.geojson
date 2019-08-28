@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
+    "geom:area_square_m":1296994.262996,
     "geom:bbox":"-102.392336,50.9523589,-102.3688975,50.9596078",
     "geom:latitude":50.955982,
     "geom:longitude":-102.380618,
     "iso:country":"CA",
     "lbl:latitude":50.955981,
     "lbl:longitude":-102.38658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.955981,
     "mps:longitude":-102.38658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sakimay Indian Reserve 74-10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746749,
-    "wof:lastmodified":1531525488,
+    "wof:lastmodified":1566519823,
     "wof:name":"Sakimay Indian Reserve 74-10",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

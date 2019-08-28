@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.493134,
     "lbl:longitude":-109.708248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.493134,
     "mps:longitude":-109.708248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Senlac"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -69,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844352,
+    "wof:lastmodified":1566519505,
     "wof:name":"Senlac",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

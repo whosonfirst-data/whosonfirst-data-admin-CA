@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":21832.012498,
     "geom:bbox":"-123.9642028,53.910499,-123.9585835,53.9116601",
     "geom:latitude":53.911211,
     "geom:longitude":-123.960365,
     "iso:country":"CA",
     "lbl:latitude":53.911073,
     "lbl:longitude":-123.959448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.911073,
     "mps:longitude":-123.959448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sinkut Lake 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744531,
-    "wof:lastmodified":1533335895,
+    "wof:lastmodified":1566519975,
     "wof:name":"Sinkut Lake 8",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

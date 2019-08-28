@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.094517,
     "lbl:longitude":-108.480738,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.094517,
     "mps:longitude":-108.480738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gull Lake"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":126,
     "wof:belongsto":[
@@ -69,7 +72,6 @@
         "fct:id":"03bfc9b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5967988,
         "gp:id":613,
-        "qs:id":1209108,
         "qs_pg:id":1209108,
         "wd:id":"Q1911196"
     },
@@ -88,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283980,
+    "wof:lastmodified":1566519395,
     "wof:name":"Gull Lake",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

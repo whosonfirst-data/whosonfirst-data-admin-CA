@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
+    "geom:area_square_m":2106538.04915,
     "geom:bbox":"-123.947448,51.4609003,-123.9242886,51.4753644",
     "geom:latitude":51.468343,
     "geom:longitude":-123.937229,
     "iso:country":"CA",
     "lbl:latitude":51.468782,
     "lbl:longitude":-123.940495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.468782,
     "mps:longitude":-123.940495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lohbiee 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745077,
-    "wof:lastmodified":1533335903,
+    "wof:lastmodified":1566520046,
     "wof:name":"Lohbiee 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

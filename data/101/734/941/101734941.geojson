@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05549,
-    "geom:area_square_m":440996523.917153,
+    "geom:area_square_m":440996523.917125,
     "geom:bbox":"-97.7354125,49.9165624,-97.1841104,50.063799",
     "geom:latitude":50.005383,
     "geom:longitude":-97.411633,
     "iso:country":"CA",
     "lbl:latitude":49.994518,
     "lbl:longitude":-97.411527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.994518,
     "mps:longitude":-97.411527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rosser"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191575,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101734941,
-    "wof:lastmodified":1531524479,
+    "wof:lastmodified":1566519908,
     "wof:name":"Rosser",
     "wof:parent_id":1158868965,
     "wof:placetype":"locality",

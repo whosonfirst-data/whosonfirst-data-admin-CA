@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000839,
+    "geom:area_square_m":7310778.02369,
     "geom:bbox":"-81.5254852,45.1553343,-81.4697943,45.1922715",
     "geom:latitude":45.172955,
     "geom:longitude":-81.496047,
     "iso:country":"CA",
     "lbl:latitude":45.168296,
     "lbl:longitude":-81.487203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.168296,
     "mps:longitude":-81.487203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saugeen Hunting Grounds Indian Reserve No. 60A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741183,
-    "wof:lastmodified":1533335658,
+    "wof:lastmodified":1566519899,
     "wof:name":"Saugeen Hunting Grounds Indian Reserve No. 60A",
     "wof:parent_id":890457581,
     "wof:placetype":"locality",

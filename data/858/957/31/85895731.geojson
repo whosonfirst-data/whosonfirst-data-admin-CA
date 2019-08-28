@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5855237.560197,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.900884,45.314944,-73.900884,45.314944",
     "geom:latitude":45.314944,
     "geom:longitude":-73.900884,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.905884,45.309944,-73.895884,45.319944",
     "lbl:latitude":45.314944,
     "lbl:longitude":-73.900884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.314655,
     "mps:longitude":-73.904165,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Zone Industrielle Beauharnois-Melochville"
     ],
     "name:fra_x_preferred":[
-        "Zone Industrielle Beauharnois-Melochville"
-    ],
-    "name:unk_x_variant":[
         "Zone Industrielle Beauharnois-Melochville"
     ],
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999686,
-        "qs:id":1190834,
         "qs_pg:id":1190834
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931478,
+    "wof:lastmodified":1566518991,
     "wof:name":"Zone Industrielle Beauharnois-Melochville",
     "wof:parent_id":101736823,
     "wof:placetype":"neighbourhood",

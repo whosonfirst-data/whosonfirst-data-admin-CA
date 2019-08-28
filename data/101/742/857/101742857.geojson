@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
+    "geom:area_square_m":2157671.831342,
     "geom:bbox":"-127.330987,55.0229001,-127.3052391,55.0388375",
     "geom:latitude":55.030099,
     "geom:longitude":-127.318935,
     "iso:country":"CA",
     "lbl:latitude":55.02913,
     "lbl:longitude":-127.318936,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.02913,
     "mps:longitude":-127.318936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bulkley River 19"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742857,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520013,
     "wof:name":"Bulkley River 19",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

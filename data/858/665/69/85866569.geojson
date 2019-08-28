@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":837354.105626,
+    "geom:area_square_m":837354.105627,
     "geom:bbox":"-97.126947,49.908274,-97.112749,49.919878",
     "geom:latitude":49.914699,
     "geom:longitude":-97.1204,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.914838,
     "lbl:longitude":-97.120242,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.913826,
     "mps:longitude":-97.113195,
     "mz:hierarchy_label":1,
@@ -35,19 +36,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968503,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332835,
-        "qs:id":210246,
         "qs_pg:id":210246
     },
     "wof:country":"CA",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523917,
+    "wof:lastmodified":1566519013,
     "wof:name":"Glenelm",
     "wof:parent_id":1108968503,
     "wof:placetype":"neighbourhood",

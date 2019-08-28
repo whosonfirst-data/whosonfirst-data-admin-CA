@@ -25,10 +25,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.262141,
     "lbl:longitude":-125.345286,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.262141,
     "mps:longitude":-125.345286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_official":[
         "Regional District of Alberni-Clayoquot"
     ],
@@ -69,7 +72,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Alberni-Clayoquot",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5923",
@@ -84,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375188,
-        "qs:id":212517,
+        "qs_pg:id":212517,
         "wd:id":"Q1778727",
         "wk:page":"Alberni-Clayoquot Regional District"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890458599,
-    "wof:lastmodified":1563286031,
+    "wof:lastmodified":1566520122,
     "wof:name":"Alberni-Clayoquot",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

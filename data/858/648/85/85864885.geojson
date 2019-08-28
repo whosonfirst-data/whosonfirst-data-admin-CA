@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1320606.066157,
+    "geom:area_square_m":1320606.066155,
     "geom:bbox":"-113.577967003,53.5090765215,-113.5493046,53.5194334182",
     "geom:latitude":53.515333,
     "geom:longitude":-113.565681,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.511913,
     "lbl:longitude":-113.555968,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.514899,
     "mps:longitude":-113.561691,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":667.0,
     "wd:latitude":53.515,
     "wd:longitude":-113.566,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404812,
-        "qs:id":1087695,
         "qs_pg:id":1087695,
         "wd:id":"Q6501786"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270457,
+    "wof:lastmodified":1566519011,
     "wof:name":"Laurier Heights",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

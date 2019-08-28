@@ -12,18 +12,21 @@
     "iso:country":"CA",
     "lbl:latitude":49.523874,
     "lbl:longitude":-106.405214,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.523874,
     "mps:longitude":-106.405214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Division No.  3"
+        "Division No. 3"
     ],
     "name:eng_x_variant":[
-        "Division No.  3"
+        "Division No. 3"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Division No.  3",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"4703",
@@ -46,8 +49,8 @@
         }
     ],
     "wof:id":1158868987,
-    "wof:lastmodified":1554759672,
-    "wof:name":"Division No.  3",
+    "wof:lastmodified":1566520439,
+    "wof:name":"Division No. 3",
     "wof:parent_id":85682113,
     "wof:placetype":"county",
     "wof:placetype_local":"census division",

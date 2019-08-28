@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002357,
+    "geom:area_square_m":18170229.711708,
     "geom:bbox":"-122.1080222,51.4073096,-121.9772867,51.4522534",
     "geom:latitude":51.43194,
     "geom:longitude":-122.043517,
     "iso:country":"CA",
     "lbl:latitude":51.431881,
     "lbl:longitude":-122.043497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.431881,
     "mps:longitude":-122.043497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canoe Creek 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747833,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566519651,
     "wof:name":"Canoe Creek 2",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

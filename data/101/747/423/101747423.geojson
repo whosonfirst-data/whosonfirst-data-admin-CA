@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":58.805437,
     "lbl:longitude":-101.669934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.805437,
     "mps:longitude":-101.669934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tthekal\u00e9 Nu Indian Reserve"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101747423,
-    "wof:lastmodified":1559860631,
+    "wof:lastmodified":1566519626,
     "wof:name":"Tthekal\u00e9 Nu Indian Reserve",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

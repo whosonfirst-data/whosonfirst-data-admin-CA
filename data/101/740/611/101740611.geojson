@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241218,
+    "geom:area_square_m":1881666202.504611,
     "geom:bbox":"-108.5158468,50.6553467,-107.8050087,51.0961127",
     "geom:latitude":50.886497,
     "geom:longitude":-108.154797,
     "iso:country":"CA",
     "lbl:latitude":50.896864,
     "lbl:longitude":-108.21935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.896864,
     "mps:longitude":-108.21935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lacadena No. 228"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101740611,
-    "wof:lastmodified":1531525222,
+    "wof:lastmodified":1566519553,
     "wof:name":"Lacadena No. 228",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

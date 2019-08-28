@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2302583.922831,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.995425,51.280426,-113.995425,51.280426",
     "geom:latitude":51.280426,
     "geom:longitude":-113.995425,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-114.000425,51.275426,-113.990425,51.285426",
     "lbl:latitude":51.280426,
     "lbl:longitude":-113.995425,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.273815,
     "mps:longitude":-113.992116,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Big Springs"
     ],
     "name:swe_x_preferred":[
-        "Big Springs"
-    ],
-    "name:unk_x_variant":[
         "Big Springs"
     ],
     "qs:gn_id":0,
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":70,
     "wof:belongsto":[
         85682091,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998650,
-        "qs:id":986975,
         "qs_pg:id":986975
     },
     "wof:country":"CA",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250199,
+    "wof:lastmodified":1566519020,
     "wof:name":"Big Springs",
     "wof:parent_id":890456719,
     "wof:placetype":"neighbourhood",

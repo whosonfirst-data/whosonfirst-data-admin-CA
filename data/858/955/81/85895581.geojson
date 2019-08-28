@@ -11,8 +11,10 @@
     "geom:longitude":-79.821326,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.826326,43.326901,-79.816326,43.336901",
     "lbl:latitude":43.331901,
     "lbl:longitude":-79.821326,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.327175,
     "mps:longitude":-79.823576,
     "mz:hierarchy_label":0,
@@ -270,9 +272,6 @@
     "name:ukr_x_preferred":[
         "\u043a\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Maple"
-    ],
     "name:uzb_x_preferred":[
         "Zarang"
     ],
@@ -331,7 +330,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2514,
     "wof:belongsto":[
         85682057,
@@ -344,7 +343,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999561,
-        "qs:id":19641,
         "qs_pg:id":19641,
         "wd:id":"Q42292"
     },
@@ -372,7 +370,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281869,
+    "wof:lastmodified":1566518954,
     "wof:name":"Maple",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-77.428221,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-77.433221,44.143299,-77.423221,44.153299",
     "lbl:latitude":44.148299,
     "lbl:longitude":-77.428221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.141518,
     "mps:longitude":-77.427385,
     "mz:hierarchy_label":0,
@@ -93,9 +95,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0441\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Foster"
-    ],
     "name:vol_x_preferred":[
         "Foster"
     ],
@@ -126,7 +125,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -137,7 +136,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856677,
-        "qs:id":237989,
         "qs_pg:id":237989
     },
     "wof:country":"CA",
@@ -156,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170673,
+    "wof:lastmodified":1566518942,
     "wof:name":"Foster",
     "wof:parent_id":101735759,
     "wof:placetype":"neighbourhood",

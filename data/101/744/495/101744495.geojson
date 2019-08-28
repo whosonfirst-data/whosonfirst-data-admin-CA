@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9079.989765,
     "geom:bbox":"-122.7335805,53.9055599,-122.7320036,53.9066411",
     "geom:latitude":53.906144,
     "geom:longitude":-122.732975,
     "iso:country":"CA",
     "lbl:latitude":53.9061,
     "lbl:longitude":-122.733052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.9061,
     "mps:longitude":-122.733052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fort George Cemetery 1A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744495,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566519980,
     "wof:name":"Fort George Cemetery 1A",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

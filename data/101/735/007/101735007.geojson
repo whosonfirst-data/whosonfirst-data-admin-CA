@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.630316,
     "lbl:longitude":-100.169539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.630316,
     "mps:longitude":-100.169539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u064a\u0646\u0648\u0648\u062f"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":5962123,
         "gp:id":3954,
-        "qs:id":1269373,
+        "qs_pg:id":1269373,
         "wd:id":"Q1659801",
         "wk:page":"Glenwood, Newfoundland and Labrador"
     },
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101735007,
-    "wof:lastmodified":1561844465,
+    "wof:lastmodified":1566519929,
     "wof:name":"Glenwood",
     "wof:parent_id":1158868985,
     "wof:placetype":"locality",

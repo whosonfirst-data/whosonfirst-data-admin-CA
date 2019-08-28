@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28105103.725252,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.035988,49.998293,-97.035988,49.998293",
     "geom:latitude":49.998293,
     "geom:longitude":-97.035988,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-97.040988,49.993293,-97.030988,50.003293",
     "lbl:latitude":49.998293,
     "lbl:longitude":-97.035988,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.985975,
     "mps:longitude":-97.038426,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Birds Hill Region"
-    ],
-    "name:unk_x_variant":[
         "Birds Hill Region"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682085,
         102191575,
         85633041,
         101734957,
-        1158869035,
-        85682085
+        1158869035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":4457,
-        "qs:id":1324261,
         "qs_pg:id":1324261
     },
     "wof:country":"CA",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860677,
+    "wof:lastmodified":1566518910,
     "wof:name":"Birds Hill Region",
     "wof:parent_id":101734957,
     "wof:placetype":"neighbourhood",

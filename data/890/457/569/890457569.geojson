@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.115596,
     "lbl:longitude":-73.537339,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.115596,
     "mps:longitude":-73.537339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mekinac"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Mekinac",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2435",
@@ -55,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375199,
-        "qs:id":890828,
+        "qs_pg:id":890828,
         "wk:page":"M\u00e9kinac"
     },
     "wof:country":"CA",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890457569,
-    "wof:lastmodified":1564173343,
+    "wof:lastmodified":1566520200,
     "wof:name":"Mekinac",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

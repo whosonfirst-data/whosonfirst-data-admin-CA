@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
+    "geom:area_square_m":2188091.616302,
     "geom:bbox":"-128.5953666,53.0665945,-128.5666306,53.0794832",
     "geom:latitude":53.073068,
     "geom:longitude":-128.581717,
     "iso:country":"CA",
     "lbl:latitude":53.076322,
     "lbl:longitude":-128.584187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.076322,
     "mps:longitude":-128.584187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Canoona 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743705,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1566519995,
     "wof:name":"Canoona 2",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

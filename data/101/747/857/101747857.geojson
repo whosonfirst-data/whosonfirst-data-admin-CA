@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":62189.113411,
     "geom:bbox":"-124.0150955,49.9951352,-124.008546,49.9983743",
     "geom:latitude":49.997002,
     "geom:longitude":-124.012918,
     "iso:country":"CA",
     "lbl:latitude":49.996823,
     "lbl:longitude":-124.013992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.996823,
     "mps:longitude":-124.013992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Slayathlum) No 16"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747857,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566519639,
     "wof:name":"Sechelt Band Lands (Slayathlum) No 16",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

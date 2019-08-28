@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":62499.418749,
     "geom:bbox":"-121.3952936,49.3814596,-121.3924546,49.385185",
     "geom:latitude":49.38312,
     "geom:longitude":-121.393668,
     "iso:country":"CA",
     "lbl:latitude":49.383773,
     "lbl:longitude":-121.393467,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.383773,
     "mps:longitude":-121.393467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kawkawa Lake 16"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744807,
-    "wof:lastmodified":1533335899,
+    "wof:lastmodified":1566519979,
     "wof:name":"Kawkawa Lake 16",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

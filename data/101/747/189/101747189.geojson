@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
+    "geom:area_square_m":1090646.540941,
     "geom:bbox":"-104.0816398,51.3435497,-104.0700443,51.3576243",
     "geom:latitude":51.349699,
     "geom:longitude":-104.076114,
     "iso:country":"CA",
     "lbl:latitude":51.349678,
     "lbl:longitude":-104.076036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.349678,
     "mps:longitude":-104.076036,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muskowekwan I.R. 85-34"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747189,
-    "wof:lastmodified":1531525277,
+    "wof:lastmodified":1566519661,
     "wof:name":"Muskowekwan I.R. 85-34",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

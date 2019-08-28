@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2783996.374531,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.459534,45.435082,-73.459534,45.435082",
     "geom:latitude":45.435082,
     "geom:longitude":-73.459534,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.464534,45.430082,-73.454534,45.440082",
     "lbl:latitude":45.435082,
     "lbl:longitude":-73.459534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.432173,
     "mps:longitude":-73.463365,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Parc industriel"
     ],
     "name:fra_x_preferred":[
-        "Parc industriel"
-    ],
-    "name:unk_x_variant":[
         "Parc industriel"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999723,
-        "qs:id":987009,
         "qs_pg:id":987009
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931482,
+    "wof:lastmodified":1566518991,
     "wof:name":"Parc industriel",
     "wof:parent_id":101736555,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.516004,
     "lbl:longitude":-73.420062,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.516004,
     "mps:longitude":-73.420062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Longueuil"
     ],
@@ -221,7 +224,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Longueuil",
     "statcan:cdtype":"TE",
     "statcan:cduid":"2458",
@@ -235,7 +238,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375100,
-        "qs:id":225130,
+        "qs_pg:id":225130,
         "wd:id":"Q139398",
         "wk:page":"Longueuil"
     },
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":890456297,
-    "wof:lastmodified":1563286301,
+    "wof:lastmodified":1566520196,
     "wof:name":"Longueuil",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

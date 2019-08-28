@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
+    "geom:area_square_m":942954.599506,
     "geom:bbox":"-126.4600728,55.0516268,-126.4470581,55.0635059",
     "geom:latitude":55.058126,
     "geom:longitude":-126.453018,
     "iso:country":"CA",
     "lbl:latitude":55.058085,
     "lbl:longitude":-126.45293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.058085,
     "mps:longitude":-126.45293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chanoodandidalch 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743295,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566519990,
     "wof:name":"Chanoodandidalch 14",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

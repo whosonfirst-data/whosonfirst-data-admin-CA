@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016784,
+    "geom:area_square_m":124426570.864623,
     "geom:bbox":"-106.8686886,53.1044107,-106.7241164,53.2213995",
     "geom:latitude":53.162919,
     "geom:longitude":-106.796412,
     "iso:country":"CA",
     "lbl:latitude":53.162914,
     "lbl:longitude":-106.838653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.162914,
     "mps:longitude":-106.838653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mistawasis I.R. 103"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745929,
-    "wof:lastmodified":1531523955,
+    "wof:lastmodified":1566520069,
     "wof:name":"Mistawasis I.R. 103",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

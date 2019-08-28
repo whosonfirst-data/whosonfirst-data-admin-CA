@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":68878.795148,
     "geom:bbox":"-132.9894895,54.1865702,-132.9832345,54.1889027",
     "geom:latitude":54.188005,
     "geom:longitude":-132.986095,
     "iso:country":"CA",
     "lbl:latitude":54.188102,
     "lbl:longitude":-132.986089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.188102,
     "mps:longitude":-132.986089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatense 16"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742807,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520025,
     "wof:name":"Tatense 16",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

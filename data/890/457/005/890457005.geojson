@@ -14,16 +14,18 @@
     "geom:longitude":-113.638123,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":8108,
     "gn:population":8108,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.799525,
     "lbl:longitude":-113.638137,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.799525,
     "mps:longitude":-113.638137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0438\u043d\u0432\u0438\u043b\u0435"
     ],
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":700.0,
     "wd:latitude":"53.8022",
@@ -85,7 +87,7 @@
     "wof:concordances":{
         "gn:id":6078636,
         "gp:id":8664,
-        "qs:id":350547,
+        "qs_pg:id":350547,
         "wd:id":"Q1746026",
         "wk:page":"Morinville"
     },
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":890457005,
-    "wof:lastmodified":1563286495,
+    "wof:lastmodified":1566520248,
     "wof:name":"Morinville",
     "wof:parent_id":1158863245,
     "wof:placetype":"locality",

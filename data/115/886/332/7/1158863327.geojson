@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.254923,
     "lbl:longitude":-111.815873,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.254923,
     "mps:longitude":-111.815873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lac La Biche"
     ],
@@ -28,7 +31,7 @@
     "reversegeo:longitude":-111.815873,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"2007-08-01",
     "wd:population":8330,
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1158863327,
-    "wof:lastmodified":1554759652,
+    "wof:lastmodified":1566520409,
     "wof:name":"Lac La Biche",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

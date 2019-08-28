@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001942,
+    "geom:area_square_m":13790827.526563,
     "geom:bbox":"-95.4741862,54.9372704,-95.2601796,54.993537",
     "geom:latitude":54.959142,
     "geom:longitude":-95.366506,
     "iso:country":"CA",
     "lbl:latitude":54.95408,
     "lbl:longitude":-95.409622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.95408,
     "mps:longitude":-95.409622,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oxford Lake North Shore"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746081,
-    "wof:lastmodified":1533069681,
+    "wof:lastmodified":1566519836,
     "wof:name":"Oxford Lake North Shore",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

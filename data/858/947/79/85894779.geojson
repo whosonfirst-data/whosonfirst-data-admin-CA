@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13644827.327966,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.572853,49.174669,-122.572853,49.174669",
     "geom:latitude":49.174669,
     "geom:longitude":-122.572853,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.577853,49.169669,-122.567853,49.179669",
     "lbl:latitude":49.174669,
     "lbl:longitude":-122.572853,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.172529,
     "mps:longitude":-122.569811,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Albion Flats"
-    ],
-    "name:unk_x_variant":[
         "Albion Flats"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":80,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101740805,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998846,
-        "qs:id":1090799,
         "qs_pg:id":1090799
     },
     "wof:country":"CA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931258,
+    "wof:lastmodified":1566518979,
     "wof:name":"Albion Flats",
     "wof:parent_id":101740805,
     "wof:placetype":"neighbourhood",

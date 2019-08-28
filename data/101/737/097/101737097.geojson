@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.831988,
     "lbl:longitude":-71.401172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.831988,
     "mps:longitude":-71.401172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0627\u0643-\u063a\u0627\u0631\u062a\u0628\u064a"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101737097,
-    "wof:lastmodified":1563284175,
+    "wof:lastmodified":1566519423,
     "wof:name":"Beaulac-Garthby",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

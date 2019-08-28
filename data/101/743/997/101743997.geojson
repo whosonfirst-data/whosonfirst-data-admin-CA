@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
+    "geom:area_square_m":1738402.22216,
     "geom:bbox":"-120.8241163,56.7297201,-120.7978213,56.7405618",
     "geom:latitude":56.735123,
     "geom:longitude":-120.811158,
     "iso:country":"CA",
     "lbl:latitude":56.735946,
     "lbl:longitude":-120.801773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.735946,
     "mps:longitude":-120.801773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beaton River No. 204, North Half"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743997,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566519986,
     "wof:name":"Beaton River No. 204, North Half",
     "wof:parent_id":890457207,
     "wof:placetype":"locality",

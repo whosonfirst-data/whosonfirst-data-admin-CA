@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001531,
+    "geom:area_square_m":10851132.97621,
     "geom:bbox":"-103.0761057,55.0059335,-103.031055,55.0976324",
     "geom:latitude":55.039587,
     "geom:longitude":-103.054715,
     "iso:country":"CA",
     "lbl:latitude":55.019991,
     "lbl:longitude":-103.060029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.019991,
     "mps:longitude":-103.060029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sandy Narrows I.R. 184C"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101742259,
-    "wof:lastmodified":1531525134,
+    "wof:lastmodified":1566520013,
     "wof:name":"Sandy Narrows I.R. 184C",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

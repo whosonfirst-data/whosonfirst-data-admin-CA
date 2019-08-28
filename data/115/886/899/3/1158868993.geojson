@@ -12,18 +12,21 @@
     "iso:country":"CA",
     "lbl:latitude":50.584637,
     "lbl:longitude":-102.391717,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.584637,
     "mps:longitude":-102.391717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Division No.  5"
+        "Division No. 5"
     ],
     "name:eng_x_variant":[
-        "Division No.  5"
+        "Division No. 5"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Division No.  5",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"4705",
@@ -46,8 +49,8 @@
         }
     ],
     "wof:id":1158868993,
-    "wof:lastmodified":1559063413,
-    "wof:name":"Division No.  5",
+    "wof:lastmodified":1566520446,
+    "wof:name":"Division No. 5",
     "wof:parent_id":85682113,
     "wof:placetype":"county",
     "wof:placetype_local":"census division",

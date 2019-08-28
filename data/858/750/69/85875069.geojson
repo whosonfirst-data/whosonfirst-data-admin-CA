@@ -11,8 +11,10 @@
     "geom:longitude":-73.667744,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.672744,45.592176,-73.662744,45.602176",
     "lbl:latitude":45.597176,
     "lbl:longitude":-73.667744,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.576975,
     "mps:longitude":-73.67889,
     "mz:hierarchy_label":0,
@@ -46,7 +48,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":47,
     "wof:belongsto":[
         136251273,
@@ -58,7 +60,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856307,
-        "qs:id":212529,
         "qs_pg:id":212529,
         "wd:id":"Q3041779"
     },
@@ -78,7 +79,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844220,
+    "wof:lastmodified":1566519000,
     "wof:name":"Duvernay",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.04772,
     "lbl:longitude":-74.092553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.04772,
     "mps:longitude":-74.092553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0646\u0634\u0646\u0628\u0631\u0648\u0643"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":479,
     "wof:belongsto":[
         102191575,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":5975434,
         "gp:id":23395609,
-        "qs:id":1210134,
         "qs_pg:id":1210134,
         "wd:id":"Q3135748",
         "wk:page":"Hinchinbrooke, Quebec"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101736683,
-    "wof:lastmodified":1563284513,
+    "wof:lastmodified":1566519494,
     "wof:name":"Hinchinbrooke",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

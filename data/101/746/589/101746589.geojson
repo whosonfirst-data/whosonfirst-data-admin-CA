@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
+    "geom:area_square_m":117879.723253,
     "geom:bbox":"-125.9026784,49.1288255,-125.8949793,49.1318669",
     "geom:latitude":49.130646,
     "geom:longitude":-125.898548,
     "iso:country":"CA",
     "lbl:latitude":49.130345,
     "lbl:longitude":-125.897708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.130345,
     "mps:longitude":-125.897708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tin Wis 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746589,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566519825,
     "wof:name":"Tin Wis 11",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

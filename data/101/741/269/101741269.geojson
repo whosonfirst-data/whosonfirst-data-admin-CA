@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000966,
+    "geom:area_square_m":7766466.212677,
     "geom:bbox":"-95.1821954,49.4496269,-95.134948,49.4843833",
     "geom:latitude":49.468828,
     "geom:longitude":-95.166964,
     "iso:country":"CA",
     "lbl:latitude":49.473758,
     "lbl:longitude":-95.171226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.473758,
     "mps:longitude":-95.171226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shoal Lake Indian Reserve No. 37A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101741269,
-    "wof:lastmodified":1533335662,
+    "wof:lastmodified":1566519874,
     "wof:name":"Shoal Lake Indian Reserve No. 37A",
     "wof:parent_id":85682085,
     "wof:placetype":"locality",

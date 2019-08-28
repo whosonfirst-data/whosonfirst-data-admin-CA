@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.702995,
     "lbl:longitude":-71.23548,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.702995,
     "mps:longitude":-71.23548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "L\u00e9vis"
     ],
@@ -215,7 +218,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Levis",
     "statcan:cdtype":"TE",
     "statcan:cduid":"2425",
@@ -229,7 +232,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375034,
-        "qs:id":1320739,
+        "qs_pg:id":1320739,
         "wd:id":"Q139208",
         "wk:page":"L\u00e9vis, Quebec"
     },
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":890458877,
-    "wof:lastmodified":1563286055,
+    "wof:lastmodified":1566520127,
     "wof:name":"Levis",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

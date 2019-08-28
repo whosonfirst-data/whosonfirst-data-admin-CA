@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.895112,
     "lbl:longitude":-97.15546,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.896355,
     "mps:longitude":-97.157671,
     "mz:hierarchy_label":1,
@@ -44,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191575,
@@ -57,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332843,
-        "qs:id":1087880,
         "qs_pg:id":1087880
     },
     "wof:country":"CA",
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170876,
+    "wof:lastmodified":1566519014,
     "wof:name":"Spence",
     "wof:parent_id":1108968923,
     "wof:placetype":"neighbourhood",

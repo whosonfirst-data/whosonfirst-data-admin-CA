@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.380841,
     "lbl:longitude":-74.035332,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.380841,
     "mps:longitude":-74.035332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062f\u0631\u0648\u064a\u062f\u0648\u0631\u064a\u0648\u0646"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":697,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":6173570,
         "gp:id":90216364,
-        "qs:id":1037019,
         "qs_pg:id":1037019,
         "wd:id":"Q141711",
         "wk:page":"Vaudreuil-Dorion"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101736869,
-    "wof:lastmodified":1563284411,
+    "wof:lastmodified":1566519469,
     "wof:name":"Vaudreuil-Dorion",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

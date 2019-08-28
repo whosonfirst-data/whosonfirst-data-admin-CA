@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.313574,
     "lbl:longitude":-73.385704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.313574,
     "mps:longitude":-73.385704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:atj_x_preferred":[
         "Saint-Gabriel"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":339,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":6138260,
         "gp:id":55960589,
-        "qs:id":1053570,
         "qs_pg:id":1053570,
         "wd:id":"Q141371",
         "wk:page":"Saint-Gabriel, Quebec"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737703,
-    "wof:lastmodified":1563284239,
+    "wof:lastmodified":1566519439,
     "wof:name":"Saint-Gabriel",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

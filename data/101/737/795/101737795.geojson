@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.576743,
     "lbl:longitude":-72.524024,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.576743,
     "mps:longitude":-72.524024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0643\u0633\u062a\u0648\u0646 \u0641\u0627\u0644\u0633"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":199,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":6128697,
         "gp:id":23394676,
-        "qs:id":1164969,
         "qs_pg:id":1164969,
         "wd:id":"Q3445716",
         "wk:page":"Roxton Falls, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737795,
-    "wof:lastmodified":1563284248,
+    "wof:lastmodified":1566519441,
     "wof:name":"Roxton Falls",
     "wof:parent_id":890458081,
     "wof:placetype":"locality",

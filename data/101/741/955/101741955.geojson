@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002744,
+    "geom:area_square_m":20387962.554103,
     "geom:bbox":"-108.1621661,52.9584351,-107.7722175,53.1906612",
     "geom:latitude":53.067198,
     "geom:longitude":-108.00321,
     "iso:country":"CA",
     "lbl:latitude":52.971795,
     "lbl:longitude":-108.096605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.971795,
     "mps:longitude":-108.096605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moosomin I.R. 112H"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741955,
-    "wof:lastmodified":1531523957,
+    "wof:lastmodified":1566519857,
     "wof:name":"Moosomin I.R. 112H",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

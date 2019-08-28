@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049914,
+    "geom:area_square_m":431717971.908773,
     "geom:bbox":"-77.6715216,45.4693325,-77.3612892,45.7642446",
     "geom:latitude":45.61472,
     "geom:longitude":-77.515951,
     "iso:country":"CA",
     "lbl:latitude":45.614775,
     "lbl:longitude":-77.515951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.614775,
     "mps:longitude":-77.515951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Killaloe, Hagarty and Richards"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101736137,
-    "wof:lastmodified":1533335620,
+    "wof:lastmodified":1566519488,
     "wof:name":"Killaloe, Hagarty and Richards",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5678107.31794,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.901775,45.400493,-71.901775,45.400493",
     "geom:latitude":45.400493,
     "geom:longitude":-71.901775,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.906775,45.395493,-71.896775,45.405493",
     "lbl:latitude":45.400493,
     "lbl:longitude":-71.901775,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.401661,
     "mps:longitude":-71.904613,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Domaine-Howard"
     ],
     "name:fra_x_preferred":[
-        "Domaine-Howard"
-    ],
-    "name:unk_x_variant":[
         "Domaine-Howard"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855749,
-        "qs:id":1245841,
         "qs_pg:id":1245841
     },
     "wof:country":"CA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871901,
+    "wof:lastmodified":1566518988,
     "wof:name":"Domaine-Howard",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-73.660766002,45.87717769,-73.498241034,46.012268424",
     "geom:latitude":45.953851,
     "geom:longitude":-73.574367,
-    "geonames:id":"6138411,6138413",
+    "gn:id":"6138411,6138413",
     "iso:country":"CA",
     "lbl:latitude":45.964807,
     "lbl:longitude":-73.579845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.964807,
     "mps:longitude":-73.579845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Jacques"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":228,
     "wof:belongsto":[
         102191575,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101736997,
-    "wof:lastmodified":1563284361,
+    "wof:lastmodified":1566519459,
     "wof:name":"Saint-Jacques",
     "wof:parent_id":890457815,
     "wof:placetype":"locality",

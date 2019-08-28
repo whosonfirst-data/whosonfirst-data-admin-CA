@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.608579,
     "lbl:longitude":-74.611217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.608579,
     "mps:longitude":-74.611217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0648\u0643\u064a\u0633\u0628\u064a\u0631\u064a"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1182,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":5972360,
         "gp:id":3529,
-        "qs:id":897489,
         "qs_pg:id":897489,
         "wd:id":"Q2573770",
         "wk:page":"Hawkesbury, Ontario"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101735933,
-    "wof:lastmodified":1563285441,
+    "wof:lastmodified":1566519945,
     "wof:name":"Hawkesbury",
     "wof:parent_id":890456257,
     "wof:placetype":"locality",

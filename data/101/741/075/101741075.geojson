@@ -15,6 +15,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.2819,
     "lbl:longitude":-123.11874,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":49.255176,
     "mps:longitude":-123.114695,
     "mz:categories":[],
@@ -586,7 +588,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.25,
     "wd:longitude":-123.1,
@@ -605,7 +607,6 @@
         "gn:id":6173331,
         "gp:id":9807,
         "nyt:id":9223372036854775807,
-        "qs:id":767793,
         "qs_pg:id":767793,
         "wd:id":"Q24639",
         "wk:page":"Vancouver"
@@ -622,7 +623,7 @@
         }
     ],
     "wof:id":101741075,
-    "wof:lastmodified":1563285197,
+    "wof:lastmodified":1566519889,
     "wof:megacity":1,
     "wof:name":"Vancouver",
     "wof:parent_id":890457467,

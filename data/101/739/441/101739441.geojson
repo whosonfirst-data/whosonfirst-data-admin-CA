@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.099407,
     "lbl:longitude":-102.636928,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.099407,
     "mps:longitude":-102.636928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043f\u043b\u0438\u043d\u0433"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.1015,
     "wd:longitude":-102.632,
@@ -110,7 +113,6 @@
         "fct:id":"03bfd0a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5992724,
         "gp:id":776,
-        "qs:id":970593,
         "qs_pg:id":970593,
         "wd:id":"Q1914893",
         "wk:page":"Kipling, Saskatchewan"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283983,
+    "wof:lastmodified":1566519395,
     "wof:name":"Kipling",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.140436,
     "lbl:longitude":-102.711959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.140436,
     "mps:longitude":-102.711959,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kingsley No. 124"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101740435,
-    "wof:lastmodified":1535390445,
+    "wof:lastmodified":1566519582,
     "wof:name":"Kingsley No. 124",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

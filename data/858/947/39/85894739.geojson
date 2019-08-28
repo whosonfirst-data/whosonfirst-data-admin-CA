@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3341688.779961,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.8232,49.291824,-122.8232,49.291824",
     "geom:latitude":49.291824,
     "geom:longitude":-122.8232,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.8282,49.286824,-122.8182,49.296824",
     "lbl:latitude":49.291824,
     "lbl:longitude":-122.8232,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.294781,
     "mps:longitude":-122.809013,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Noons Creek"
-    ],
-    "name:unk_x_variant":[
         "Noons Creek"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741063,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998817,
-        "qs:id":479637,
         "qs_pg:id":479637
     },
     "wof:country":"CA",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931249,
+    "wof:lastmodified":1566518979,
     "wof:name":"Noons Creek",
     "wof:parent_id":101741063,
     "wof:placetype":"neighbourhood",

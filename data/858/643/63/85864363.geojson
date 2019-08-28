@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18375105.051431,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-65.993495,45.296718,-65.993495,45.296718",
     "geom:latitude":45.296718,
     "geom:longitude":-65.993495,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-65.998495,45.291718,-65.988495,45.301718",
     "lbl:latitude":45.296718,
     "lbl:longitude":-65.993495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.290025,
     "mps:longitude":-65.997157,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Camplain Heights"
-    ],
-    "name:unk_x_variant":[
         "Camplain Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682065,
         102191575,
         85633041,
         101735187,
-        890458005,
-        85682065
+        890458005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23393276,
-        "qs:id":230492,
         "qs_pg:id":230492
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870874,
+    "wof:lastmodified":1566518956,
     "wof:name":"Camplain Heights",
     "wof:parent_id":101735187,
     "wof:placetype":"neighbourhood",

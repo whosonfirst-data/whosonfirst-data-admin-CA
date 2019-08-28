@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.074427,
     "lbl:longitude":-113.991589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.074412,
     "mps:longitude":-113.992064,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":169,
     "wof:belongsto":[
         102191575,
@@ -57,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855962,
-        "qs:id":897376,
         "qs_pg:id":897376,
         "wd:id":"Q7641003"
     },
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282223,
+    "wof:lastmodified":1566519023,
     "wof:name":"Sunridge",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.111477,
     "lbl:longitude":-73.024627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.111477,
     "mps:longitude":-73.024627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Stanbridge Station"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191575,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":6155094,
         "gp:id":1743,
-        "qs:id":1197118,
         "qs_pg:id":1197118,
         "wd:id":"Q3496529",
         "wk:page":"Stanbridge Station, Quebec"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101738443,
-    "wof:lastmodified":1563284696,
+    "wof:lastmodified":1566519528,
     "wof:name":"Stanbridge Station",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

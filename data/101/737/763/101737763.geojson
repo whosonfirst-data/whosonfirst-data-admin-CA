@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.937938,
     "lbl:longitude":-66.941417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.937938,
     "mps:longitude":-66.941417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633 \u0645\u064a\u0643\u0627\u0646\u064a\u0633"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":379,
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":6052922,
         "gp:id":3593,
-        "qs:id":1189849,
         "qs_pg:id":1189849,
         "wd:id":"Q3234105",
         "wk:page":"Les M\u00e9chins, Quebec"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101737763,
-    "wof:lastmodified":1563284108,
+    "wof:lastmodified":1566519412,
     "wof:name":"Les M\u00e9chins",
     "wof:parent_id":890456821,
     "wof:placetype":"locality",

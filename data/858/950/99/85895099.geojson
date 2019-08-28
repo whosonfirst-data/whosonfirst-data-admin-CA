@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6922899.403303,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.903315,43.279948,-79.903315,43.279948",
     "geom:latitude":43.279948,
     "geom:longitude":-79.903315,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.908315,43.274948,-79.898315,43.284948",
     "lbl:latitude":43.279948,
     "lbl:longitude":-79.903315,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.279191,
     "mps:longitude":-79.91218,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Cootes Paradise B"
-    ],
-    "name:unk_x_variant":[
         "Cootes Paradise B"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999099,
-        "qs:id":218381,
         "qs_pg:id":218381
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931324,
+    "wof:lastmodified":1566518990,
     "wof:name":"Cootes Paradise B",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

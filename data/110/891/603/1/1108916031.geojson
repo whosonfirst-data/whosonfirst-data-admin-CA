@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.23122,
     "lbl:longitude":-122.940518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.23122,
     "mps:longitude":-122.940518,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-122.940518,
     "src:geom":"can-bbygov",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915103,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1108916031,
-    "wof:lastmodified":1531521009,
+    "wof:lastmodified":1566519290,
     "wof:name":"Lakeview - Mayfield",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

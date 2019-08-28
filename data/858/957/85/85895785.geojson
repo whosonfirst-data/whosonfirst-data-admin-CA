@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4333426.910148,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.131165,45.250615,-74.131165,45.250615",
     "geom:latitude":45.250615,
     "geom:longitude":-74.131165,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-74.136165,45.245615,-74.126165,45.255615",
     "lbl:latitude":45.250615,
     "lbl:longitude":-74.131165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.243857,
     "mps:longitude":-74.131591,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Vieux Canal Beauharnois"
     ],
     "name:fra_x_preferred":[
-        "Vieux Canal Beauharnois"
-    ],
-    "name:unk_x_variant":[
         "Vieux Canal Beauharnois"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -71,7 +70,6 @@
     ],
     "wof:concordances":{
         "gp:id":55999783,
-        "qs:id":1001085,
         "qs_pg:id":1001085
     },
     "wof:country":"CA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931492,
+    "wof:lastmodified":1566518992,
     "wof:name":"Vieux Canal Beauharnois",
     "wof:parent_id":101736831,
     "wof:placetype":"neighbourhood",

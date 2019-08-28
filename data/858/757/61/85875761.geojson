@@ -11,8 +11,10 @@
     "geom:longitude":-73.527372,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.532372,45.498229,-73.522372,45.508229",
     "lbl:latitude":45.503229,
     "lbl:longitude":-73.527372,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.50338,
     "mps:longitude":-73.524464,
     "mz:hierarchy_label":0,
@@ -109,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -120,7 +122,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856804,
-        "qs:id":1089600,
         "qs_pg:id":1089600
     },
     "wof:country":"CA",
@@ -139,7 +140,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170856,
+    "wof:lastmodified":1566519002,
     "wof:name":"Logan",
     "wof:parent_id":1108955761,
     "wof:placetype":"neighbourhood",

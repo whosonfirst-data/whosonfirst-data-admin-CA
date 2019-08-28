@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.684965,
     "lbl:longitude":-84.649087,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.684965,
     "mps:longitude":-84.649087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Algoma"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Algoma",
     "statcan:cdtype":"DIS",
     "statcan:cduid":"3557",
@@ -85,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375191,
-        "qs:id":1133740,
+        "qs_pg:id":1133740,
         "wk:page":"Algoma"
     },
     "wof:country":"CA",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890457893,
-    "wof:lastmodified":1564173368,
+    "wof:lastmodified":1566520219,
     "wof:name":"Algoma",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

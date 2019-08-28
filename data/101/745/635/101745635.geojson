@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
+    "geom:area_square_m":2764343.788218,
     "geom:bbox":"-115.6105587,49.5356832,-115.5879846,49.5540003",
     "geom:latitude":49.545876,
     "geom:longitude":-115.598182,
     "iso:country":"CA",
     "lbl:latitude":49.546106,
     "lbl:longitude":-115.597968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.546106,
     "mps:longitude":-115.597968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Isidore'S Ranch 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101745635,
-    "wof:lastmodified":1533335915,
+    "wof:lastmodified":1566520052,
     "wof:name":"Isidore'S Ranch 4",
     "wof:parent_id":890456529,
     "wof:placetype":"locality",

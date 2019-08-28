@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.222738,
     "lbl:longitude":-72.620689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.222738,
     "mps:longitude":-72.620689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u0644\u064a\u062a"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1000,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":6088132,
         "gp:id":3483,
-        "qs:id":160331,
         "qs_pg:id":160331,
         "wd:id":"Q141595",
         "wk:page":"Nicolet, Quebec"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101738487,
-    "wof:lastmodified":1563284706,
+    "wof:lastmodified":1566519531,
     "wof:name":"Nicolet",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.74204,
     "lbl:longitude":-74.140214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.74204,
     "mps:longitude":-74.140214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0643\u0648\u0644\u0648\u0645\u0628\u0627\u0646"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":168,
     "wof:belongsto":[
         102191575,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":6137624,
         "gp:id":23396499,
-        "qs:id":1048172,
+        "qs_pg:id":1048172,
         "wd:id":"Q141584",
         "wk:page":"Saint-Colomban, Quebec"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101736775,
-    "wof:lastmodified":1563284544,
+    "wof:lastmodified":1566519500,
     "wof:name":"Saint-Colomban",
     "wof:parent_id":890458417,
     "wof:placetype":"locality",

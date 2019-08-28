@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":25826.349278,
     "geom:bbox":"-128.3452152,50.6713663,-128.3423366,50.6731833",
     "geom:latitude":50.672156,
     "geom:longitude":-128.343303,
     "iso:country":"CA",
     "lbl:latitude":50.672192,
     "lbl:longitude":-128.343179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.672192,
     "mps:longitude":-128.343179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Semach 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743123,
-    "wof:lastmodified":1533335873,
+    "wof:lastmodified":1566520004,
     "wof:name":"Semach 2",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

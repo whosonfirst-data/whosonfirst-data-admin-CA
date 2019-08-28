@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":487303.435808,
+    "geom:area_square_m":487303.43581,
     "geom:bbox":"-114.029232,50.93883,-114.013104,50.95278",
     "geom:latitude":50.945874,
     "geom:longitude":-114.021549,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.946327,
     "lbl:longitude":-114.02248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.944957,
     "mps:longitude":-114.011921,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855973,
-        "qs:id":237981,
         "qs_pg:id":237981,
         "wd:id":"Q14357997"
     },
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270640,
+    "wof:lastmodified":1566519021,
     "wof:name":"Diamond Cove",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

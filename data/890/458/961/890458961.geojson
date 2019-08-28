@@ -11,11 +11,15 @@
     "geom:longitude":-63.48201,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
+    "lbl:bbox":"-63.50201,46.19683,-63.46201,46.23683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Victoria"
     ],
@@ -272,7 +276,7 @@
     "wof:concordances":{
         "gn:id":6174032,
         "gp:id":1868,
-        "qs:id":1197172,
+        "qs_pg:id":1197172,
         "wd:id":"Q537094",
         "wk:page":"Victoria"
     },
@@ -288,7 +292,7 @@
         }
     ],
     "wof:id":890458961,
-    "wof:lastmodified":1563286027,
+    "wof:lastmodified":1566520121,
     "wof:name":"Victoria",
     "wof:parent_id":85682081,
     "wof:placetype":"locality",

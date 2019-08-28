@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.826979,
     "lbl:longitude":-79.875958,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.826979,
     "mps:longitude":-79.875958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043d\u0433\u043b\u0435\u0445\u0430\u0440\u0442"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.8167,
     "wd:longitude":-79.8667,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":5948844,
         "gp:id":3282,
-        "qs:id":1053474,
         "qs_pg:id":1053474,
         "wd:id":"Q3054292",
         "wk:page":"Englehart"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101735691,
-    "wof:lastmodified":1563285484,
+    "wof:lastmodified":1566519954,
     "wof:name":"Englehart",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

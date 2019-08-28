@@ -11,8 +11,10 @@
     "geom:longitude":-80.548369,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.553369,43.407315,-80.543369,43.417315",
     "lbl:latitude":43.412315,
     "lbl:longitude":-80.548369,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.414235,
     "mps:longitude":-80.540939,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Forest Heights"
     ],
     "name:eng_x_preferred":[
-        "Forest Heights"
-    ],
-    "name:unk_x_variant":[
         "Forest Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":57,
     "wof:belongsto":[
         85682057,
@@ -76,7 +75,6 @@
     ],
     "wof:concordances":{
         "gp:id":23399558,
-        "qs:id":1180804,
         "qs_pg:id":1180804
     },
     "wof:country":"CA",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170731,
+    "wof:lastmodified":1566518961,
     "wof:name":"Forest Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

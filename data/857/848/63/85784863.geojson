@@ -12,8 +12,10 @@
     "gn:latitude":44.21682,
     "gn:longitude":-76.5161,
     "iso:country":"CA",
+    "lbl:bbox":"-76.523271,44.215788,-76.513271,44.225788",
     "lbl:latitude":44.220788,
     "lbl:longitude":-76.518271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.214134,
     "mps:longitude":-76.519825,
     "mz:hierarchy_label":0,
@@ -232,9 +234,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0441\u043c\u0443\u0442"
     ],
-    "name:unk_x_variant":[
-        "Portsmouth"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679\u0633\u0645\u0627\u0624\u062a\u06be"
     ],
@@ -288,7 +287,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -300,7 +299,6 @@
     "wof:concordances":{
         "gn:id":6112025,
         "gp:id":1267,
-        "qs:id":1198362,
         "qs_pg:id":1198362
     },
     "wof:country":"CA",
@@ -319,7 +317,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170655,
+    "wof:lastmodified":1566518911,
     "wof:name":"Portsmouth",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

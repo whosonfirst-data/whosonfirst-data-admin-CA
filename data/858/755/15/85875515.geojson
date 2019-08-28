@@ -11,8 +11,10 @@
     "geom:longitude":-80.218968,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.223968,43.501433,-80.213968,43.511433",
     "lbl:latitude":43.506433,
     "lbl:longitude":-80.218968,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.503982,
     "mps:longitude":-80.198247,
     "mz:hierarchy_label":0,
@@ -423,9 +425,6 @@
     "name:ukr_x_preferred":[
         "\u043f\u0456\u0432\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "South"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628"
     ],
@@ -494,7 +493,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":689,
     "wof:belongsto":[
         85682057,
@@ -506,7 +505,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856642,
-        "qs:id":381632,
         "qs_pg:id":381632,
         "wd:id":"Q667"
     },
@@ -526,7 +524,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281811,
+    "wof:lastmodified":1566518942,
     "wof:name":"South",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

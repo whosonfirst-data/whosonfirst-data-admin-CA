@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
+    "geom:area_square_m":942219.035971,
     "geom:bbox":"-125.7973362,49.0688477,-125.7782139,49.0820757",
     "geom:latitude":49.075509,
     "geom:longitude":-125.791757,
     "iso:country":"CA",
     "lbl:latitude":49.07553,
     "lbl:longitude":-125.792699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.07553,
     "mps:longitude":-125.792699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Esowista 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101746103,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566519803,
     "wof:name":"Esowista 3",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

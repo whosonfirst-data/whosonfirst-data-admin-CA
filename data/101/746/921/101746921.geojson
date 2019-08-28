@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
+    "geom:area_square_m":315581.640841,
     "geom:bbox":"-123.0297106,49.2985781,-123.0193599,49.3122963",
     "geom:latitude":49.306606,
     "geom:longitude":-123.025562,
     "iso:country":"CA",
     "lbl:latitude":49.30124,
     "lbl:longitude":-123.028073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.30124,
     "mps:longitude":-123.028073,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seymour Creek 2"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
     ],
     "wof:concordances":{},
     "wof:country":"CA",
-    "wof:geomhash":"ec9b4881ea3f5ce0ff021d4ad75ff551",
+    "wof:geomhash":"295145780293da32b354ace3f48b1d67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101746921,
-    "wof:lastmodified":1493163562,
+    "wof:lastmodified":1566519852,
     "wof:name":"Seymour Creek 2",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

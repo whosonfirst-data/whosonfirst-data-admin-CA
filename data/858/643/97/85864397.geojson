@@ -11,8 +11,10 @@
     "geom:longitude":-71.893658,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-71.898658,45.371616,-71.888658,45.381616",
     "lbl:latitude":45.376616,
     "lbl:longitude":-71.893658,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.371301,
     "mps:longitude":-71.892477,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:fra_x_variant":[
         "Ascot"
-    ],
-    "name:unk_x_variant":[
-        "District d'Ascot"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":526,
     "wof:belongsto":[
         136251273,
@@ -80,7 +79,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394323,
-        "qs:id":1329575,
         "qs_pg:id":1329575,
         "wd:id":"Q7988223"
     },
@@ -100,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281884,
+    "wof:lastmodified":1566518956,
     "wof:name":"District d'Ascot",
     "wof:parent_id":101738289,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.24037,
     "lbl:longitude":-98.533739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.24037,
     "mps:longitude":-98.533739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manitou"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.2406,
     "wd:longitude":-98.5367,
     "wd:wordcount":205,
@@ -72,7 +75,6 @@
         "fct:id":"03c04662-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6065191,
         "gp:id":3029,
-        "qs:id":1053518,
         "qs_pg:id":1053518,
         "wd:id":"Q312066",
         "wk:page":"Manitou, Manitoba"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285395,
+    "wof:lastmodified":1566519936,
     "wof:name":"Manitou",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

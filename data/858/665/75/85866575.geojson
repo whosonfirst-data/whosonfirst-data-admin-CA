@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.916449,
     "lbl:longitude":-97.152935,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.914509,
     "mps:longitude":-97.161403,
     "mz:hierarchy_label":1,
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108968519,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332840,
-        "qs:id":15263,
         "qs_pg:id":15263
     },
     "wof:country":"CA",
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170875,
+    "wof:lastmodified":1566519014,
     "wof:name":"Dufferin",
     "wof:parent_id":1108968519,
     "wof:placetype":"neighbourhood",

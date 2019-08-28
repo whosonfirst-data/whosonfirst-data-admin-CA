@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1402525.360915,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.630036,52.113037,-106.630036,52.113037",
     "geom:latitude":52.113037,
     "geom:longitude":-106.630036,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.635036,52.108037,-106.625036,52.118037",
     "lbl:latitude":52.113037,
     "lbl:longitude":-106.630036,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.109604,
     "mps:longitude":-106.629254,
     "mz:hierarchy_label":0,
@@ -39,20 +41,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":35,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115069,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403424,
-        "qs:id":485096,
         "qs_pg:id":485096,
         "wd:id":"Q5881664"
     },
@@ -73,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870971,
+    "wof:lastmodified":1566519006,
     "wof:name":"Holliston",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

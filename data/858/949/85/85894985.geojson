@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000606,
-    "geom:area_square_m":5414061.585938,
+    "geom:area_square_m":5414061.585937,
     "geom:bbox":"-79.323017109,43.768363303,-79.284614584,43.796069058",
     "geom:latitude":43.78013,
     "geom:longitude":-79.302918,
     "iso:country":"CA",
     "lbl:latitude":43.781186,
     "lbl:longitude":-79.30002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.80756,
     "mps:longitude":-79.288697,
     "mz:hierarchy_label":1,
@@ -40,23 +41,22 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Tam O'Shanter-Sullivan (118)",
     "torsdfa:AREA_S_CD":"118",
     "wd:wordcount":94,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6161443,
         "gp:id":55998983,
-        "qs:id":898999,
         "qs_pg:id":898999
     },
     "wof:controlled":[],
@@ -77,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272679,
+    "wof:lastmodified":1566518981,
     "wof:name":"Tam O' Shanter",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

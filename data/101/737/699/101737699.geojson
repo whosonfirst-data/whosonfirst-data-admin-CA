@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.31006,
     "lbl:longitude":-70.985795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.31006,
     "mps:longitude":-70.985795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Fr\u00e9d\u00e9ric"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101737699,
-    "wof:lastmodified":1563284282,
+    "wof:lastmodified":1566519446,
     "wof:name":"Saint-Fr\u00e9d\u00e9ric",
     "wof:parent_id":890457809,
     "wof:placetype":"locality",

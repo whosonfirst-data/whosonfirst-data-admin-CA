@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.155626,
     "lbl:longitude":-129.969945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.155626,
     "mps:longitude":-129.969945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Port Essington"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1055,
     "wof:belongsto":[
         102191575,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101743381,
-    "wof:lastmodified":1561844493,
+    "wof:lastmodified":1566520006,
     "wof:name":"Port Essington",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

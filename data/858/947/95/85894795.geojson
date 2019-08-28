@@ -11,8 +11,10 @@
     "geom:longitude":-122.767209,
     "gn:elevation":26,
     "iso:country":"CA",
+    "lbl:bbox":"-122.772209,49.265679,-122.762209,49.275679",
     "lbl:latitude":49.270679,
     "lbl:longitude":-122.767209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.272313,
     "mps:longitude":-122.769032,
     "mz:hierarchy_label":0,
@@ -82,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0435\u043d\u0432\u0443\u0434"
     ],
-    "name:unk_x_variant":[
-        "Glenwood"
-    ],
     "name:vol_x_preferred":[
         "Glenwood"
     ],
@@ -115,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -127,7 +126,7 @@
     "wof:concordances":{
         "gn:id":5796287,
         "gp:id":55998859,
-        "qs:id":1205698
+        "qs_pg:id":1205698
     },
     "wof:country":"CA",
     "wof:geomhash":"c8a21bf106745653e59aa1a6e3582b86",
@@ -145,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170780,
+    "wof:lastmodified":1566518978,
     "wof:name":"Glenwood",
     "wof:parent_id":101741061,
     "wof:placetype":"neighbourhood",

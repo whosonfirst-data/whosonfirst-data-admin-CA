@@ -14,16 +14,18 @@
     "geom:longitude":-112.654122,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":3365,
     "gn:population":3365,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":49.462725,
     "lbl:longitude":-112.661599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.462725,
     "mps:longitude":-112.661599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Raymond"
     ],
@@ -99,7 +101,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1268,
     "wof:belongsto":[
@@ -112,7 +114,7 @@
     "wof:concordances":{
         "gn:id":6117675,
         "gp:id":8826,
-        "qs:id":160362,
+        "qs_pg:id":160362,
         "wd:id":"Q1001461",
         "wk:page":"Raymond"
     },
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":890457025,
-    "wof:lastmodified":1563286369,
+    "wof:lastmodified":1566520215,
     "wof:name":"Raymond",
     "wof:parent_id":1158863261,
     "wof:placetype":"locality",

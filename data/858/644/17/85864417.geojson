@@ -11,8 +11,10 @@
     "geom:longitude":-73.728793,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.733793,45.607091,-73.723793,45.617091",
     "lbl:latitude":45.612091,
     "lbl:longitude":-73.728793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.613032,
     "mps:longitude":-73.726686,
     "mz:hierarchy_label":0,
@@ -43,7 +45,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":50,
     "wof:belongsto":[
         136251273,
@@ -55,7 +57,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396737,
-        "qs:id":1080121,
         "qs_pg:id":1080121,
         "wd:id":"Q3559342"
     },
@@ -75,7 +76,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844214,
+    "wof:lastmodified":1566518958,
     "wof:name":"Vimont",
     "wof:parent_id":101737759,
     "wof:placetype":"neighbourhood",

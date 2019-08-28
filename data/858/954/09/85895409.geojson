@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002843,
-    "geom:area_square_m":25347289.549498,
+    "geom:area_square_m":25347289.54952,
     "geom:bbox":"-79.004352225,43.8265079442,-78.9350073242,43.8900775891",
     "geom:latitude":43.858312,
     "geom:longitude":-78.967652,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.856775,
     "lbl:longitude":-78.965223,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.85879,
     "mps:longitude":-78.967651,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Shoal Point Road"
-    ],
-    "name:unk_x_variant":[
         "Shoal Point Road"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999390,
-        "qs:id":1354980,
         "qs_pg:id":1354980
     },
     "wof:country":"CA",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335743,
+    "wof:lastmodified":1566518944,
     "wof:name":"Shoal Point Road",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

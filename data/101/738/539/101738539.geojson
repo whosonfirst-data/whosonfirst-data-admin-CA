@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.690246,
     "lbl:longitude":-71.058455,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.690246,
     "mps:longitude":-71.058455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saint-Henri"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Saint-Henri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Henri-de-L\u00e9vis"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +75,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wof:belongsto":[
         102191575,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":8354586,
         "gp:id":3450,
-        "qs:id":1209122,
+        "qs_pg:id":1209122,
         "wd:id":"Q3462390"
     },
     "wof:country":"CA",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101738539,
-    "wof:lastmodified":1563284664,
+    "wof:lastmodified":1566519522,
     "wof:name":"Saint-Henri",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.834988,
     "lbl:longitude":-101.525849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.834988,
     "mps:longitude":-101.525849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maryfield"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":207,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844275,
+    "wof:lastmodified":1566519410,
     "wof:name":"Maryfield",
     "wof:parent_id":1158868967,
     "wof:placetype":"locality",

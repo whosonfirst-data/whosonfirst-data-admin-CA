@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.510843,
     "lbl:longitude":-105.006863,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.510843,
     "mps:longitude":-105.006863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nokomis"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.51,
     "wd:longitude":-105.009,
     "wd:wordcount":591,
@@ -82,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283991,
+    "wof:lastmodified":1566519396,
     "wof:name":"Nokomis",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

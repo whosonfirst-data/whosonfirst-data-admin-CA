@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.986473,
     "lbl:longitude":-66.326579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.986473,
     "mps:longitude":-66.326579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0631\u0644\u0648"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101735247,
-    "wof:lastmodified":1563285458,
+    "wof:lastmodified":1566519948,
     "wof:name":"Charlo",
     "wof:parent_id":890458105,
     "wof:placetype":"locality",

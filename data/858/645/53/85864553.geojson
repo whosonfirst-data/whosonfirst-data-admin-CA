@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1748281.668065,
+    "geom:area_square_m":1748281.66806,
     "geom:bbox":"-79.487075298,43.679219169,-79.460439928,43.692155606",
     "geom:latitude":43.685727,
     "geom:longitude":-79.471437,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.68531,
     "lbl:longitude":-79.470127,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.685627,
     "mps:longitude":-79.479481,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Keelesdale-Eglinton West (110)",
     "torsdfa:AREA_S_CD":"110",
     "wof:belongsto":[
@@ -48,7 +49,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399620,
-        "qs:id":14769,
         "qs_pg:id":14769
     },
     "wof:controlled":[],
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335728,
+    "wof:lastmodified":1566518961,
     "wof:name":"Keelesdale",
     "wof:parent_id":1108833429,
     "wof:placetype":"neighbourhood",

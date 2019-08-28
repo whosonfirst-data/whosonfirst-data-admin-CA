@@ -11,8 +11,10 @@
     "geom:longitude":-79.264516,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.269516,43.168808,-79.259516,43.178808",
     "lbl:latitude":43.173808,
     "lbl:longitude":-79.264516,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.164194,
     "mps:longitude":-79.289119,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Martindale"
     ],
     "name:nld_x_preferred":[
-        "Martindale"
-    ],
-    "name:unk_x_variant":[
         "Martindale"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":182,
     "wof:belongsto":[
         85682057,
@@ -86,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399659,
-        "qs:id":1087669,
         "qs_pg:id":1087669
     },
     "wof:country":"CA",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170729,
+    "wof:lastmodified":1566518960,
     "wof:name":"Martindale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

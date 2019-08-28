@@ -18,6 +18,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.556326,
     "lbl:longitude":-73.539374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.568871,
     "mps:longitude":-73.522212,
     "mz:hierarchy_label":1,
@@ -56,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -68,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855876,
-        "qs:id":1245878,
         "qs_pg:id":1245878
     },
     "wof:country":"CA",
@@ -88,7 +88,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170880,
+    "wof:lastmodified":1566519017,
     "wof:name":"Maisonneuve",
     "wof:parent_id":1108955765,
     "wof:placetype":"neighbourhood",

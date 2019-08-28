@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9317396.813848,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.544741,49.216296,-122.544741,49.216296",
     "geom:latitude":49.216296,
     "geom:longitude":-122.544741,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.549741,49.211296,-122.539741,49.221296",
     "lbl:latitude":49.216296,
     "lbl:longitude":-122.544741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.221425,
     "mps:longitude":-122.552302,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "East Haney"
-    ],
-    "name:unk_x_variant":[
         "East Haney"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740773,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998851,
-        "qs:id":1090800,
         "qs_pg:id":1090800
     },
     "wof:country":"CA",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931259,
+    "wof:lastmodified":1566518979,
     "wof:name":"East Haney",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8592476.911911,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.526875,53.260238,-113.526875,53.260238",
     "geom:latitude":53.260238,
     "geom:longitude":-113.526875,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.531875,53.255238,-113.521875,53.265238",
     "lbl:latitude":53.260238,
     "lbl:longitude":-113.526875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.260284,
     "mps:longitude":-113.523836,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "South Telford"
-    ],
-    "name:unk_x_variant":[
         "South Telford"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998801,
-        "qs:id":986989,
         "qs_pg:id":986989
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250199,
+    "wof:lastmodified":1566518980,
     "wof:name":"South Telford",
     "wof:parent_id":890456995,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-73.508842137,46.114789921,-73.356106003,46.236331352",
     "geom:latitude":46.172882,
     "geom:longitude":-73.429133,
-    "geonames:id":"6138210,6138212",
+    "gn:id":"6138210,6138212",
     "iso:country":"CA",
     "lbl:latitude":46.171684,
     "lbl:longitude":-73.429088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.171684,
     "mps:longitude":-73.429088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-F\u00e9lix-de-Valois"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":274,
     "wof:belongsto":[
         102191575,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101737019,
-    "wof:lastmodified":1563284275,
+    "wof:lastmodified":1566519445,
     "wof:name":"Saint-F\u00e9lix-de-Valois",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

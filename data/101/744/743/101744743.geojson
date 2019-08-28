@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
+    "geom:area_square_m":452403.221307,
     "geom:bbox":"-122.421814,49.1674436,-122.4143101,49.1838735",
     "geom:latitude":49.176097,
     "geom:longitude":-122.41706,
     "iso:country":"CA",
     "lbl:latitude":49.178409,
     "lbl:longitude":-122.416778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.178409,
     "mps:longitude":-122.416778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Langley 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101744743,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566519981,
     "wof:name":"Langley 3",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

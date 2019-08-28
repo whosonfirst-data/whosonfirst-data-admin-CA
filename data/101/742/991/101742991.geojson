@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
+    "geom:area_square_m":384793.776569,
     "geom:bbox":"-127.2966967,50.9076768,-127.282257,50.9136574",
     "geom:latitude":50.911749,
     "geom:longitude":-127.289565,
     "iso:country":"CA",
     "lbl:latitude":50.911672,
     "lbl:longitude":-127.289407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.911672,
     "mps:longitude":-127.289407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pahas 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742991,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566520007,
     "wof:name":"Pahas 3",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

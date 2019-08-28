@@ -12,8 +12,10 @@
     "gn:latitude":46.55588,
     "gn:longitude":-80.86413,
     "iso:country":"CA",
+    "lbl:bbox":"-80.868495,46.549768,-80.858495,46.559768",
     "lbl:latitude":46.554768,
     "lbl:longitude":-80.863495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.555888,
     "mps:longitude":-80.862084,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:jpn_x_preferred":[
         "\u30ac\u30fc\u30bd\u30f3"
     ],
-    "name:unk_x_variant":[
-        "Garson"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":5964700,
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":16,
     "wof:belongsto":[
         85682057,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":5959803,
         "gp:id":556,
-        "qs:id":1013997,
         "qs_pg:id":1013997
     },
     "wof:country":"CA",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170657,
+    "wof:lastmodified":1566518913,
     "wof:name":"Garson",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

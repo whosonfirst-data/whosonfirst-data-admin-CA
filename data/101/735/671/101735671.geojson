@@ -9,10 +9,12 @@
     "geom:bbox":"-93.9664079,50.9307642,-93.4859323,51.1925794",
     "geom:latitude":51.075254,
     "geom:longitude":-93.728353,
-    "geonames:id":"6118417,6118425",
+    "gn:id":"6118417,6118425",
     "iso:country":"CA",
     "lbl:latitude":51.089754,
     "lbl:longitude":-93.78099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.089754,
     "mps:longitude":-93.78099,
     "mz:hierarchy_label":1,
@@ -191,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -217,7 +219,7 @@
         }
     ],
     "wof:id":101735671,
-    "wof:lastmodified":1563285451,
+    "wof:lastmodified":1566519947,
     "wof:name":"Red Lake",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000694,
-    "geom:area_square_m":5608089.379473,
+    "geom:area_square_m":5608089.37947,
     "geom:bbox":"-123.149742389,49.199857,-123.106163025,49.2194023132",
     "geom:latitude":49.21077,
     "geom:longitude":-123.128464,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.20912,
     "lbl:longitude":-123.128799,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.205035,
     "mps:longitude":-123.125701,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Marpole"
     ],
     "name:spa_x_preferred":[
-        "Marpole"
-    ],
-    "name:unk_x_variant":[
         "Marpole"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +69,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"MARP",
     "vanpds:NAME":"Marpole",
     "wd:wordcount":1506,
@@ -85,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404956,
-        "qs:id":1121135,
         "qs_pg:id":1121135,
         "wd:id":"Q2494157"
     },
@@ -105,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335937,
+    "wof:lastmodified":1566518967,
     "wof:name":"Marpole",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

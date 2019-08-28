@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.96813,
     "lbl:longitude":-71.604047,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.96813,
     "mps:longitude":-71.604047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Fortunat"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101737671,
-    "wof:lastmodified":1563284261,
+    "wof:lastmodified":1566519443,
     "wof:name":"Saint-Fortunat",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

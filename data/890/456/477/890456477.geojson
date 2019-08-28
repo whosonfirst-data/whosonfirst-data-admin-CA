@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.213848,
     "lbl:longitude":-74.749327,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.213848,
     "mps:longitude":-74.749327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "United Counties of Stormont"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Stormont, Dundas and Glengarry",
     "statcan:cdtype":"UC",
     "statcan:cduid":"3501",
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375251,
-        "qs:id":1290424
+        "qs_pg:id":1290424
     },
     "wof:country":"CA",
     "wof:created":1469053048,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890456477,
-    "wof:lastmodified":1554759327,
+    "wof:lastmodified":1566520154,
     "wof:name":"Stormont, Dundas and Glengarry",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

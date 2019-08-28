@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13647971.18565,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.515779,46.3727,-72.515779,46.3727",
     "geom:latitude":46.3727,
     "geom:longitude":-72.515779,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.520779,46.3677,-72.510779,46.3777",
     "lbl:latitude":46.3727,
     "lbl:longitude":-72.515779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.37052,
     "mps:longitude":-72.502016,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Sanctuaire"
     ],
     "name:fra_x_preferred":[
-        "Sanctuaire"
-    ],
-    "name:unk_x_variant":[
         "Sanctuaire"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855663,
-        "qs:id":220543,
         "qs_pg:id":220543
     },
     "wof:country":"CA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871885,
+    "wof:lastmodified":1566518988,
     "wof:name":"Sanctuaire",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

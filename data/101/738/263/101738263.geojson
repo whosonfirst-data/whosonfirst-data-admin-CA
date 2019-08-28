@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.355213,
     "lbl:longitude":-72.589866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.355213,
     "mps:longitude":-72.589866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shefford"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191575,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":6145844,
         "gp:id":1682,
-        "qs:id":340707,
         "qs_pg:id":340707,
         "wd:id":"Q3481727",
         "wk:page":"Shefford, Quebec"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101738263,
-    "wof:lastmodified":1563284734,
+    "wof:lastmodified":1566519537,
     "wof:name":"Shefford",
     "wof:parent_id":890458535,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.507651,
     "lbl:longitude":-75.662829,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.507651,
     "mps:longitude":-75.662829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Gatineau"
     ],
@@ -271,7 +274,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3637,
     "wof:belongsto":[
@@ -285,7 +288,6 @@
         "fct:id":"03c05c42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5959974,
         "gp:id":3362,
-        "qs:id":239662,
         "qs_pg:id":239662,
         "wd:id":"Q141844",
         "wk:page":"Gatineau"
@@ -305,7 +307,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284593,
+    "wof:lastmodified":1566519509,
     "wof:name":"Gatineau",
     "wof:parent_id":890456843,
     "wof:placetype":"locality",

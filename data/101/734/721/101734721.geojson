@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.022213,
     "lbl:longitude":-101.421937,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.022213,
     "mps:longitude":-101.421937,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Swan River"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:latitude":52.1058,
     "wd:longitude":-101.267,
@@ -81,7 +84,7 @@
         "fct:id":"03c01c64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6160362,
         "gp:id":2397,
-        "qs:id":465437,
+        "qs_pg:id":465437,
         "wd:id":"Q487931",
         "wk:page":"Swan River, Manitoba"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101734721,
-    "wof:lastmodified":1563285288,
+    "wof:lastmodified":1566519915,
     "wof:name":"Swan River",
     "wof:parent_id":1158868957,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1239266.824384,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.260849,45.310352,-73.260849,45.310352",
     "geom:latitude":45.310352,
     "geom:longitude":-73.260849,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.265849,45.305352,-73.255849,45.315352",
     "lbl:latitude":45.310352,
     "lbl:longitude":-73.260849,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.308992,
     "mps:longitude":-73.260381,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Secteur Saint Jean"
     ],
     "name:fra_x_preferred":[
-        "Secteur Saint Jean"
-    ],
-    "name:unk_x_variant":[
         "Secteur Saint Jean"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -75,7 +74,6 @@
     ],
     "wof:concordances":{
         "gp:id":55855706,
-        "qs:id":1292768,
         "qs_pg:id":1292768
     },
     "wof:country":"CA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871897,
+    "wof:lastmodified":1566518988,
     "wof:name":"Secteur Saint Jean",
     "wof:parent_id":101738721,
     "wof:placetype":"neighbourhood",

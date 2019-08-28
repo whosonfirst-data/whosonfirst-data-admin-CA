@@ -14,6 +14,8 @@
     "iso:country":"CA",
     "lbl:latitude":44.263277,
     "lbl:longitude":-76.524396,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":44.263277,
     "mps:longitude":-76.524396,
     "mz:hierarchy_label":1,
@@ -393,7 +395,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8015,
     "wof:belongsto":[
@@ -407,7 +409,6 @@
         "gn:id":5992500,
         "gp:id":4145,
         "loc:id":"n79100813",
-        "qs:id":891452,
         "qs_pg:id":891452,
         "wd:id":"Q202973",
         "wk:page":"Kingston, Ontario"
@@ -424,7 +425,7 @@
         }
     ],
     "wof:id":101735601,
-    "wof:lastmodified":1563285483,
+    "wof:lastmodified":1566519953,
     "wof:name":"Kingston",
     "wof:parent_id":890457247,
     "wof:placetype":"locality",

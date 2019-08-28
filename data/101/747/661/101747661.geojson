@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
+    "geom:area_square_m":1336865.354944,
     "geom:bbox":"-71.3731772,46.8585513,-71.3534035,46.8821912",
     "geom:latitude":46.870914,
     "geom:longitude":-71.363013,
     "iso:country":"CA",
     "lbl:latitude":46.869371,
     "lbl:longitude":-71.362042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.869371,
     "mps:longitude":-71.362042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Village Des Hurons Wendake Indian Reserve No. 7A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747661,
-    "wof:lastmodified":1533335685,
+    "wof:lastmodified":1566519652,
     "wof:name":"Village Des Hurons Wendake Indian Reserve No. 7A",
     "wof:parent_id":890458033,
     "wof:placetype":"locality",

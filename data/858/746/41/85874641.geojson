@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":947910.981308,
+    "geom:area_square_m":947910.981309,
     "geom:bbox":"-113.478227905,53.5610324182,-113.459186547,53.5703989806",
     "geom:latitude":53.566289,
     "geom:longitude":-113.470973,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.565382,
     "lbl:longitude":-113.471391,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.570321,
     "mps:longitude":-113.472133,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":208,
     "wof:belongsto":[
         102191575,
@@ -47,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856018,
-        "qs:id":890961,
         "qs_pg:id":890961,
         "wd:id":"Q7138203"
     },
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566518986,
     "wof:name":"Parkdale",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

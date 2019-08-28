@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.318076,
     "lbl:longitude":-66.223256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.318076,
     "mps:longitude":-66.223256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grand Bay-Westfield"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.3607,
     "wd:longitude":-66.2415,
     "wd:wordcount":1397,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":5964243,
         "gp:id":23392446,
-        "qs:id":1014419,
         "qs_pg:id":1014419,
         "wd:id":"Q2002394",
         "wk:page":"Grand Bay\u2013Westfield"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101735153,
-    "wof:lastmodified":1563285413,
+    "wof:lastmodified":1566519940,
     "wof:name":"Grand Bay-Westfield",
     "wof:parent_id":890456055,
     "wof:placetype":"locality",

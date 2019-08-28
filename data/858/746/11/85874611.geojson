@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":1858607.820945,
+    "geom:area_square_m":1858607.820947,
     "geom:bbox":"-114.085954,51.066947,-114.067451,51.081515",
     "geom:latitude":51.073926,
     "geom:longitude":-114.075786,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.073655,
     "lbl:longitude":-114.076274,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.07694,
     "mps:longitude":-114.076039,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856001,
-        "qs:id":1245960,
         "qs_pg:id":1245960,
         "wd:id":"Q6922799"
     },
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566518985,
     "wof:name":"Mount Pleasant",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

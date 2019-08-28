@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
-    "geom:area_square_m":448231.524892,
+    "geom:area_square_m":448231.524891,
     "geom:bbox":"-114.094744,51.073742,-114.084811,51.083046",
     "geom:latitude":51.078292,
     "geom:longitude":-114.091014,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.076924,
     "lbl:longitude":-114.086838,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.077646,
     "mps:longitude":-114.089215,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":242,
     "wof:belongsto":[
         102191575,
@@ -51,7 +52,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342827,
-        "qs:id":485284,
         "qs_pg:id":485284,
         "wd:id":"Q7368467"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270060,
+    "wof:lastmodified":1566518963,
     "wof:name":"Rosemont",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

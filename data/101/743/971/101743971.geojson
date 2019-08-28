@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
+    "geom:area_square_m":618683.049118,
     "geom:bbox":"-124.8171194,49.2109575,-124.8044326,49.2183382",
     "geom:latitude":49.214686,
     "geom:longitude":-124.809962,
     "iso:country":"CA",
     "lbl:latitude":49.214527,
     "lbl:longitude":-124.809962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.214527,
     "mps:longitude":-124.809962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alberni 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743971,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566519994,
     "wof:name":"Alberni 2",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.808919,
     "lbl:longitude":-71.219288,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.808553,
     "mps:longitude":-71.22121,
     "mz:hierarchy_label":1,
@@ -53,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":126,
     "wof:belongsto":[
         102191575,
@@ -66,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332800,
-        "qs:id":425452,
+        "qs_pg:id":425452,
         "wd:id":"Q377653"
     },
     "wof:country":"CA",
@@ -86,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844222,
+    "wof:lastmodified":1566519013,
     "wof:name":"Saint-Jean-Baptiste",
     "wof:parent_id":1126115107,
     "wof:placetype":"neighbourhood",

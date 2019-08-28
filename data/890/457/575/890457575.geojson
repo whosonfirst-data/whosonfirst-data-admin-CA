@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.190574,
     "lbl:longitude":-78.88546,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.190574,
     "mps:longitude":-78.88546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Rouyn-Noranda"
     ],
@@ -158,7 +161,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Rouyn-Noranda",
     "statcan:cdtype":"TE",
     "statcan:cduid":"2486",
@@ -172,7 +175,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375240,
-        "qs:id":890840,
+        "qs_pg:id":890840,
         "wd:id":"Q141804",
         "wk:page":"Rouyn-Noranda"
     },
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":890457575,
-    "wof:lastmodified":1563286414,
+    "wof:lastmodified":1566520226,
     "wof:name":"Rouyn-Noranda",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

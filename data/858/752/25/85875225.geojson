@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16836695.042791,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.555623,50.431362,-104.555623,50.431362",
     "geom:latitude":50.431362,
     "geom:longitude":-104.555623,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-104.560623,50.426362,-104.550623,50.436362",
     "lbl:latitude":50.431362,
     "lbl:longitude":-104.555623,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.431231,
     "mps:longitude":-104.554418,
     "mz:hierarchy_label":0,
@@ -33,19 +35,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113665,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856392,
-        "qs:id":991286,
         "qs_pg:id":991286
     },
     "wof:country":"CA",
@@ -65,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872043,
+    "wof:lastmodified":1566518940,
     "wof:name":"Arcola East",
     "wof:parent_id":1126113665,
     "wof:placetype":"neighbourhood",

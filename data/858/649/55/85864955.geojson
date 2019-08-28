@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
-    "geom:area_square_m":452165.49487,
+    "geom:area_square_m":452165.494872,
     "geom:bbox":"-114.113244,51.037806,-114.098641,51.043639",
     "geom:latitude":51.040158,
     "geom:longitude":-114.106779,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.039665,
     "lbl:longitude":-114.10675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.039667,
     "mps:longitude":-114.106749,
     "mz:hierarchy_label":1,
@@ -95,9 +96,6 @@
     "name:swe_x_preferred":[
         "Scarborough"
     ],
-    "name:unk_x_variant":[
-        "Scarboro"
-    ],
     "name:vol_x_preferred":[
         "Scarborough"
     ],
@@ -109,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -119,7 +117,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404858,
-        "qs:id":8347,
         "qs_pg:id":8347,
         "wd:id":"Q7430251"
     },
@@ -138,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566519005,
     "wof:name":"Scarboro",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1200471.047528,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.644891,50.007134,-110.644891,50.007134",
     "geom:latitude":50.007134,
     "geom:longitude":-110.644891,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-110.649891,50.002134,-110.639891,50.012134",
     "lbl:latitude":50.007134,
     "lbl:longitude":-110.644891,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.008568,
     "mps:longitude":-110.646018,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Southview"
-    ],
-    "name:unk_x_variant":[
         "Southview"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:elevation":1060.0,
     "wd:latitude":51.0336,
     "wd:longitude":-113.988,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342832,
-        "qs:id":368750,
         "qs_pg:id":368750
     },
     "wof:country":"CA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250198,
+    "wof:lastmodified":1566518963,
     "wof:name":"Southview",
     "wof:parent_id":890456255,
     "wof:placetype":"neighbourhood",

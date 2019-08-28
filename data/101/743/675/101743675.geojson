@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
+    "geom:area_square_m":291726.643595,
     "geom:bbox":"-128.2123183,52.2757813,-128.2012605,52.2819459",
     "geom:latitude":52.278632,
     "geom:longitude":-128.207167,
     "iso:country":"CA",
     "lbl:latitude":52.278402,
     "lbl:longitude":-128.207252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.278402,
     "mps:longitude":-128.207252,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grief Island 2"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":29373045
     },
     "wof:country":"CA",
-    "wof:geomhash":"226c0f129aaefd929f794fb059d113f0",
+    "wof:geomhash":"9a9a2380aa820119e4d8df28ba632e17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743675,
-    "wof:lastmodified":1493163508,
+    "wof:lastmodified":1566519987,
     "wof:name":"Grief Island 2",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.67653,
     "lbl:longitude":-77.701711,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.67653,
     "mps:longitude":-77.701711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0645\u0648\u0631\u0627\u0646\u062f\u064a\u0631\u064a"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":218,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101736611,
-    "wof:lastmodified":1563284395,
+    "wof:lastmodified":1566519466,
     "wof:name":"La Morandi\u00e8re",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

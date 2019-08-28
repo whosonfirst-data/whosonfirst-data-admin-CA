@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.904468,
     "lbl:longitude":-64.513049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.904468,
     "mps:longitude":-64.513049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u062a\u0634\u0633\u062a\u0631"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.9016,
     "wd:longitude":-64.5161,
     "wd:wordcount":918,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101735347,
-    "wof:lastmodified":1563285406,
+    "wof:lastmodified":1566519938,
     "wof:name":"Dorchester",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",

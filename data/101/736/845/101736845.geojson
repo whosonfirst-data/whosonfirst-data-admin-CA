@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.219689,
     "lbl:longitude":-74.327622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.219689,
     "mps:longitude":-74.327622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rivi\u00e8re-Beaudette"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":156,
     "wof:belongsto":[
         102191575,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":6123156,
         "gp:id":23394465,
-        "qs:id":1313397,
         "qs_pg:id":1313397,
         "wd:id":"Q3433555",
         "wk:page":"Rivi\u00e8re-Beaudette, Quebec"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101736845,
-    "wof:lastmodified":1563284376,
+    "wof:lastmodified":1566519462,
     "wof:name":"Rivi\u00e8re-Beaudette",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

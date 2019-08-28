@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.67602,
     "lbl:longitude":-79.657036,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.675087,
     "mps:longitude":-79.649281,
     "mz:hierarchy_label":0,
@@ -143,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0441\u0445\u0456\u0434"
     ],
-    "name:unk_x_variant":[
-        "Northeast"
-    ],
     "name:vep_x_preferred":[
         "Homendezbok"
     ],
@@ -184,7 +182,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -196,7 +194,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999602,
-        "qs:id":509100,
         "qs_pg:id":509100
     },
     "wof:country":"CA",
@@ -223,7 +220,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170837,
+    "wof:lastmodified":1566518997,
     "wof:name":"Northeast",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

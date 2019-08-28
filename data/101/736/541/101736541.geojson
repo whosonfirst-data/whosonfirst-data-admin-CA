@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.853257,
     "lbl:longitude":-72.892747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.853257,
     "mps:longitude":-72.892747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Marcel-de-Richelieu"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101736541,
-    "wof:lastmodified":1563284552,
+    "wof:lastmodified":1566519501,
     "wof:name":"Saint-Marcel-de-Richelieu",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

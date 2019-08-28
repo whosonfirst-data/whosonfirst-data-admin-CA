@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
+    "geom:area_square_m":121392.774321,
     "geom:bbox":"-125.7645851,54.236288,-125.760002,54.2412595",
     "geom:latitude":54.238597,
     "geom:longitude":-125.761745,
     "iso:country":"CA",
     "lbl:latitude":54.238501,
     "lbl:longitude":-125.7617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.238501,
     "mps:longitude":-125.7617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Woyenne 27"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101744513,
-    "wof:lastmodified":1533335894,
+    "wof:lastmodified":1566519982,
     "wof:name":"Woyenne 27",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

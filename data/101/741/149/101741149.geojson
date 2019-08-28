@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002311,
+    "geom:area_square_m":17700401.892932,
     "geom:bbox":"-91.9795219,51.6837889,-91.783033,51.7521561",
     "geom:latitude":51.719389,
     "geom:longitude":-91.872506,
     "iso:country":"CA",
     "lbl:latitude":51.737072,
     "lbl:longitude":-91.817584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.737072,
     "mps:longitude":-91.817584,
     "mz:hierarchy_label":1,
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101741149,
-    "wof:lastmodified":1533335657,
+    "wof:lastmodified":1566519902,
     "wof:name":"Cat Lake Indian Reserve No. 63C",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

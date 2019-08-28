@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7588500.487037,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.529161,46.355093,-72.529161,46.355093",
     "geom:latitude":46.355093,
     "geom:longitude":-72.529161,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.534161,46.350093,-72.524161,46.360093",
     "lbl:latitude":46.355093,
     "lbl:longitude":-72.529161,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.361144,
     "mps:longitude":-72.539739,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Marie de l'Incarnation"
     ],
     "name:fra_x_preferred":[
-        "Marie de l'Incarnation"
-    ],
-    "name:unk_x_variant":[
         "Marie de l'Incarnation"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855665,
-        "qs:id":890934,
         "qs_pg:id":890934
     },
     "wof:country":"CA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871886,
+    "wof:lastmodified":1566518987,
     "wof:name":"Marie de l'Incarnation",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

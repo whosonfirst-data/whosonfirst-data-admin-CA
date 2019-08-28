@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":44526.246945,
     "geom:bbox":"-123.8795377,49.7232054,-123.8739854,49.7252421",
     "geom:latitude":49.724347,
     "geom:longitude":-123.876747,
     "iso:country":"CA",
     "lbl:latitude":49.724358,
     "lbl:longitude":-123.87675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.724358,
     "mps:longitude":-123.87675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Boulder Island) No 25"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747803,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566519640,
     "wof:name":"Sechelt Band Lands (Boulder Island) No 25",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

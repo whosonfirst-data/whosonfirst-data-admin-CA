@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8321668.423421,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.775531,53.893874,-122.775531,53.893874",
     "geom:latitude":53.893874,
     "geom:longitude":-122.775531,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.780531,53.888874,-122.770531,53.898874",
     "lbl:latitude":53.893874,
     "lbl:longitude":-122.775531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.887344,
     "mps:longitude":-122.785437,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Recreation Place"
-    ],
-    "name:unk_x_variant":[
         "Recreation Place"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856731,
-        "qs:id":894136,
         "qs_pg:id":894136
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872187,
+    "wof:lastmodified":1566518993,
     "wof:name":"Recreation Place",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

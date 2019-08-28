@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.334607,
     "lbl:longitude":-103.948122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.334607,
     "mps:longitude":-103.948122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vibank"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
         "fct:id":"03c028bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6173986,
         "gp:id":2519,
-        "qs:id":1053606,
         "qs_pg:id":1053606,
         "wd:id":"Q2205168",
         "wk:page":"Vibank, Saskatchewan"
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284021,
+    "wof:lastmodified":1566519400,
     "wof:name":"Vibank",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.749145,
     "lbl:longitude":-73.342208,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.749145,
     "mps:longitude":-73.342208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Verch\u00e8res"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.7833,
     "wd:longitude":-73.35,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":6173750,
         "gp:id":3520,
-        "qs:id":231778,
         "qs_pg:id":231778,
         "wd:id":"Q2514459",
         "wk:page":"Verch\u00e8res"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101737229,
-    "wof:lastmodified":1563284131,
+    "wof:lastmodified":1566519415,
     "wof:name":"Verch\u00e8res",
     "wof:parent_id":890457801,
     "wof:placetype":"locality",

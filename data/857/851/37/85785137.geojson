@@ -17,6 +17,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.258248,
     "lbl:longitude":-75.570075,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.261881,
     "mps:longitude":-75.571015,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191575,
@@ -59,7 +60,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":4445,
-        "qs:id":249718,
         "qs_pg:id":249718,
         "wd:id":"Q5602145"
     },
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844188,
+    "wof:lastmodified":1566518910,
     "wof:name":"Greely",
     "wof:parent_id":1126032569,
     "wof:placetype":"neighbourhood",

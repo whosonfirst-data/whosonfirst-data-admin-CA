@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":584904.029234,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.242363,45.305021,-73.242363,45.305021",
     "geom:latitude":45.305021,
     "geom:longitude":-73.242363,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.247363,45.300021,-73.237363,45.310021",
     "lbl:latitude":45.305021,
     "lbl:longitude":-73.242363,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.302905,
     "mps:longitude":-73.243247,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Vieux-Saint-Jean Secteur Iberville"
     ],
     "name:fra_x_preferred":[
-        "Vieux-Saint-Jean Secteur Iberville"
-    ],
-    "name:unk_x_variant":[
         "Vieux-Saint-Jean Secteur Iberville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855705,
-        "qs:id":260507,
         "qs_pg:id":260507
     },
     "wof:country":"CA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531871896,
+    "wof:lastmodified":1566518988,
     "wof:name":"Vieux-Saint-Jean Secteur Iberville",
     "wof:parent_id":101738721,
     "wof:placetype":"neighbourhood",

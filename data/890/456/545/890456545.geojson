@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.564051,
     "lbl:longitude":-76.161529,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.564051,
     "mps:longitude":-76.161529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "La Vallee-de-la-Gatineau"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"La Vallee-de-la-Gatineau",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2483",
@@ -51,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375036,
-        "qs:id":1320742
+        "qs_pg:id":1320742
     },
     "wof:country":"CA",
     "wof:created":1469053053,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890456545,
-    "wof:lastmodified":1559063429,
+    "wof:lastmodified":1566520174,
     "wof:name":"La Vallee-de-la-Gatineau",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000702,
-    "geom:area_square_m":5046433.120522,
+    "geom:area_square_m":5046433.120519,
     "geom:bbox":"-105.8077989,54.415398,-105.7691135,54.4391196",
     "geom:latitude":54.425436,
     "geom:longitude":-105.789782,
     "iso:country":"CA",
     "lbl:latitude":54.425187,
     "lbl:longitude":-105.790131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.425187,
     "mps:longitude":-105.790131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weyakwin"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Northern Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531525135,
+    "wof:lastmodified":1566519405,
     "wof:name":"Weyakwin",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

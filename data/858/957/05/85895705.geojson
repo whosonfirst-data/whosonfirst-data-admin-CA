@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001069,
-    "geom:area_square_m":9524223.133398,
+    "geom:area_square_m":9524223.1334,
     "geom:bbox":"-79.0758569336,43.8654859169,-79.0123136522,43.8979959221",
     "geom:latitude":43.879876,
     "geom:longitude":-79.051469,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.86748,
     "lbl:longitude":-79.045472,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.881237,
     "mps:longitude":-79.061139,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Westney Heights"
-    ],
-    "name:unk_x_variant":[
         "Westney Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         101736125,
@@ -69,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999657,
-        "qs:id":897480,
         "qs_pg:id":897480
     },
     "wof:country":"CA",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335746,
+    "wof:lastmodified":1566518991,
     "wof:name":"Westney Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

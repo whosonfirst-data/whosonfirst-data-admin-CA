@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
+    "geom:area_square_m":201950.264849,
     "geom:bbox":"-100.7066405,52.5004572,-100.6931049,52.5089989",
     "geom:latitude":52.504996,
     "geom:longitude":-100.698372,
     "iso:country":"CA",
     "lbl:latitude":52.505436,
     "lbl:longitude":-100.697701,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.505436,
     "mps:longitude":-100.697701,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wuskwi Sipihk 3E"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741691,
-    "wof:lastmodified":1533069138,
+    "wof:lastmodified":1566519894,
     "wof:name":"Wuskwi Sipihk 3E",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":966413.321199,
+    "geom:area_square_m":966413.3212,
     "geom:bbox":"-97.175536,49.856038,-97.156639,49.868106",
     "geom:latitude":49.862237,
     "geom:longitude":-97.167013,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.863011,
     "lbl:longitude":-97.165645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.857464,
     "mps:longitude":-97.164441,
     "mz:hierarchy_label":1,
@@ -38,19 +39,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108969341,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373380,
-        "qs:id":1089169,
         "qs_pg:id":1089169,
         "wd:id":"Q7355693"
     },
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523921,
+    "wof:lastmodified":1566519024,
     "wof:name":"Rockwood",
     "wof:parent_id":1108969341,
     "wof:placetype":"neighbourhood",

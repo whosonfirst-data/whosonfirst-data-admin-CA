@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1846679.053225,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.821118,43.253976,-79.821118,43.253976",
     "geom:latitude":43.253976,
     "geom:longitude":-79.821118,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.826118,43.248976,-79.816118,43.258976",
     "lbl:latitude":43.253976,
     "lbl:longitude":-79.821118,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.259444,
     "mps:longitude":-79.821469,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Crown Point West"
-    ],
-    "name:unk_x_variant":[
         "Crown Point West"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856131,
-        "qs:id":899247,
         "qs_pg:id":899247
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871926,
+    "wof:lastmodified":1566518985,
     "wof:name":"Crown Point West",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

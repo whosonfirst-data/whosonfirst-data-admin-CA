@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.663997,
     "lbl:longitude":-69.186795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.663997,
     "mps:longitude":-69.186795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Honor\u00e9-de-T\u00e9miscouata"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191575,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101736975,
-    "wof:lastmodified":1563284561,
+    "wof:lastmodified":1566519504,
     "wof:name":"Saint-Honor\u00e9-de-T\u00e9miscouata",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

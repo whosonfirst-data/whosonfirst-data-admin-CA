@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
+    "geom:area_square_m":2539097.742349,
     "geom:bbox":"-125.1299015,52.2804747,-125.1060082,52.2969057",
     "geom:latitude":52.289312,
     "geom:longitude":-125.118204,
     "iso:country":"CA",
     "lbl:latitude":52.288589,
     "lbl:longitude":-125.123447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.288589,
     "mps:longitude":-125.123447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Towdystan Lake 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745521,
-    "wof:lastmodified":1533335912,
+    "wof:lastmodified":1566520054,
     "wof:name":"Towdystan Lake 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.56832,
     "lbl:longitude":-113.484953,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.570028,
     "mps:longitude":-113.484098,
     "mz:hierarchy_label":1,
@@ -41,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":667.0,
     "wd:latitude":53.569,
     "wd:longitude":-113.487,
@@ -56,7 +57,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856012,
-        "qs:id":1089500,
         "qs_pg:id":1089500,
         "wd:id":"Q4711580"
     },
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282021,
+    "wof:lastmodified":1566518985,
     "wof:name":"Alberta Avenue",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

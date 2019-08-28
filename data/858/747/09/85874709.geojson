@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":46.762408,
     "lbl:longitude":-71.321059,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.76471,
     "mps:longitude":-71.31741,
     "mz:hierarchy_label":1,
@@ -359,9 +360,6 @@
     "name:ukr_x_variant":[
         "\u043f\u043b\u0430\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Plateau"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0637\u062d \u0645\u0631\u062a\u0641\u0639"
     ],
@@ -394,7 +392,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1577,
     "wof:belongsto":[
         102191575,
@@ -408,7 +406,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856057,
-        "qs:id":1063734,
         "qs_pg:id":1063734,
         "wd:id":"Q75520"
     },
@@ -430,7 +427,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281971,
+    "wof:lastmodified":1566518975,
     "wof:name":"Plateau",
     "wof:parent_id":1126122159,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.76225,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.76725,43.365836,-79.75725,43.375836",
     "lbl:latitude":43.370836,
     "lbl:longitude":-79.76225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.377234,
     "mps:longitude":-79.758561,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:swe_x_preferred":[
         "Appleby"
     ],
-    "name:unk_x_variant":[
-        "Appleby"
-    ],
     "name:vol_x_preferred":[
         "Appleby"
     ],
@@ -107,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":124,
     "wof:belongsto":[
         102191575,
@@ -119,7 +118,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999031,
-        "qs:id":965099,
         "qs_pg:id":965099
     },
     "wof:country":"CA",
@@ -144,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170808,
+    "wof:lastmodified":1566518989,
     "wof:name":"Appleby",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

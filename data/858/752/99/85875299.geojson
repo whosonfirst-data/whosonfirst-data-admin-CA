@@ -11,8 +11,10 @@
     "geom:longitude":-119.483224,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-119.488224,49.879628,-119.478224,49.889628",
     "lbl:latitude":49.884628,
     "lbl:longitude":-119.483224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.884066,
     "mps:longitude":-119.479101,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u5317\u4e2d\u90e8"
-    ],
-    "name:unk_x_variant":[
-        "North Central"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
         85682117,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856439,
-        "qs:id":1063758,
         "qs_pg:id":1063758
     },
     "wof:country":"CA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170663,
+    "wof:lastmodified":1566518940,
     "wof:name":"North Central",
     "wof:parent_id":101741131,
     "wof:placetype":"neighbourhood",

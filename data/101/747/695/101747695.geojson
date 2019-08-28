@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001622,
+    "geom:area_square_m":13054919.86063,
     "geom:bbox":"-95.0546909,49.3626275,-94.9522614,49.3946593",
     "geom:latitude":49.380219,
     "geom:longitude":-95.012121,
     "iso:country":"CA",
     "lbl:latitude":49.37604,
     "lbl:longitude":-95.018045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.37604,
     "mps:longitude":-95.018045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Northwest Angle Indian Reserve No. 33B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101747695,
-    "wof:lastmodified":1533335685,
+    "wof:lastmodified":1566519652,
     "wof:name":"Northwest Angle Indian Reserve No. 33B",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

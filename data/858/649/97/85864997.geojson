@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2645714.821742,
+    "geom:area_square_m":2645714.82174,
     "geom:bbox":"-113.981711,51.052122,-113.955747,51.066968",
     "geom:latitude":51.059733,
     "geom:longitude":-113.969798,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.059829,
     "lbl:longitude":-113.970726,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.059522,
     "mps:longitude":-113.972513,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":406,
     "wof:belongsto":[
         102191575,
@@ -51,7 +52,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404882,
-        "qs:id":485103,
         "qs_pg:id":485103,
         "wd:id":"Q6771644"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566519005,
     "wof:name":"Marlborough",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

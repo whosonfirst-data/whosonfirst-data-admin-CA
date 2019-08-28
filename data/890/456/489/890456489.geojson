@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":42.843173,
     "lbl:longitude":-82.117915,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.843173,
     "mps:longitude":-82.117915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lambton"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Lambton",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"3538",
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375144,
-        "qs:id":1291445,
+        "qs_pg:id":1291445,
         "wk:page":"Lambton"
     },
     "wof:country":"CA",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890456489,
-    "wof:lastmodified":1564173323,
+    "wof:lastmodified":1566520187,
     "wof:name":"Lambton",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

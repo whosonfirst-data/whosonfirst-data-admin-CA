@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
+    "geom:area_square_m":424229.703009,
     "geom:bbox":"-94.3055656,49.0792888,-94.2999053,49.088801",
     "geom:latitude":49.084045,
     "geom:longitude":-94.302734,
     "iso:country":"CA",
     "lbl:latitude":49.084045,
     "lbl:longitude":-94.302734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.084045,
     "mps:longitude":-94.302734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Big Island Mainland Indian Reserve No. 93"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741147,
-    "wof:lastmodified":1533335657,
+    "wof:lastmodified":1566519901,
     "wof:name":"Big Island Mainland Indian Reserve No. 93",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

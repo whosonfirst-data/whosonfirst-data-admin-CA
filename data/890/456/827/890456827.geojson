@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.84411,
     "lbl:longitude":-80.559498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.84411,
     "mps:longitude":-80.559498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Wellington"
     ],
@@ -440,7 +443,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Wellington",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"3523",
@@ -454,7 +457,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375207,
-        "qs:id":379440,
+        "qs_pg:id":379440,
         "wk:page":"Wellington"
     },
     "wof:country":"CA",
@@ -469,7 +472,7 @@
         }
     ],
     "wof:id":890456827,
-    "wof:lastmodified":1564173274,
+    "wof:lastmodified":1566520150,
     "wof:name":"Wellington",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6816877.795084,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.012604,45.414361,-74.012604,45.414361",
     "geom:latitude":45.414361,
     "geom:longitude":-74.012604,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-74.017604,45.409361,-74.007604,45.419361",
     "lbl:latitude":45.414361,
     "lbl:longitude":-74.012604,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.414613,
     "mps:longitude":-74.009854,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Les Chenaux"
     ],
     "name:fra_x_preferred":[
-        "Les Chenaux"
-    ],
-    "name:unk_x_variant":[
         "Les Chenaux"
     ],
     "qs:gn_fcode":"PPL",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999778,
-        "qs:id":525826,
         "qs_pg:id":525826
     },
     "wof:country":"CA",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931491,
+    "wof:lastmodified":1566518992,
     "wof:name":"Les Chenaux",
     "wof:parent_id":101736869,
     "wof:placetype":"neighbourhood",

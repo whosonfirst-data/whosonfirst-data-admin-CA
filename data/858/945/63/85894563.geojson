@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1384209.69604,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.648634,53.620333,-113.648634,53.620333",
     "geom:latitude":53.620333,
     "geom:longitude":-113.648634,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.653634,53.615333,-113.643634,53.625333",
     "lbl:latitude":53.620333,
     "lbl:longitude":-113.648634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.618455,
     "mps:longitude":-113.662783,
     "mz:hierarchy_label":0,
@@ -37,7 +39,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191575,
@@ -48,7 +50,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998587,
-        "qs:id":230986,
         "qs_pg:id":230986
     },
     "wof:country":"CA",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931217,
+    "wof:lastmodified":1566519020,
     "wof:name":"Riel Business Park",
     "wof:parent_id":890458621,
     "wof:placetype":"neighbourhood",

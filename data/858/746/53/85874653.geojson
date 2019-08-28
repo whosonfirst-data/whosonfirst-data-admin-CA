@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1479592.228648,
+    "geom:area_square_m":1479592.228653,
     "geom:bbox":"-113.530754611,53.5231462424,-113.483106184,53.5380041929",
     "geom:latitude":53.528226,
     "geom:longitude":-113.50547,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.530342,
     "lbl:longitude":-113.519616,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.528545,
     "mps:longitude":-113.506238,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -46,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856023,
-        "qs:id":381282,
         "qs_pg:id":381282
     },
     "wof:country":"CA",
@@ -65,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566518986,
     "wof:name":"River Valley Walterdale",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

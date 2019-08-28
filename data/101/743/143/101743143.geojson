@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
+    "geom:area_square_m":157709.480276,
     "geom:bbox":"-127.5573303,50.5487123,-127.5514624,50.5541457",
     "geom:latitude":50.551363,
     "geom:longitude":-127.553409,
     "iso:country":"CA",
     "lbl:latitude":50.551597,
     "lbl:longitude":-127.553062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.551597,
     "mps:longitude":-127.553062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kultah 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743143,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566519993,
     "wof:name":"Kultah 4",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

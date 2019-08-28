@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":44020.229045,
     "geom:bbox":"-126.6544542,50.554605,-126.6501909,50.5564413",
     "geom:latitude":50.555698,
     "geom:longitude":-126.651909,
     "iso:country":"CA",
     "lbl:latitude":50.55558,
     "lbl:longitude":-126.651747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.55558,
     "mps:longitude":-126.651747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aglakumna 4A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743215,
-    "wof:lastmodified":1533335875,
+    "wof:lastmodified":1566519998,
     "wof:name":"Aglakumna 4A",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

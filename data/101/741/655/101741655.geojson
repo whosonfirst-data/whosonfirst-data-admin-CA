@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002821,
+    "geom:area_square_m":20148499.529517,
     "geom:bbox":"-110.0818448,54.6842043,-110.005714,54.7478791",
     "geom:latitude":54.721876,
     "geom:longitude":-110.035664,
     "iso:country":"CA",
     "lbl:latitude":54.722991,
     "lbl:longitude":-110.036908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.722991,
     "mps:longitude":-110.036908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cold Lake 149C"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741655,
-    "wof:lastmodified":1533250161,
+    "wof:lastmodified":1566519891,
     "wof:name":"Cold Lake 149C",
     "wof:parent_id":1158863163,
     "wof:placetype":"locality",

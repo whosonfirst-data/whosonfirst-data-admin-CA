@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.873882,
     "lbl:longitude":-124.54444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.873882,
     "mps:longitude":-124.54444,
     "mz:hierarchy_label":1,
@@ -244,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":50.0,
     "wd:latitude":49.835278,
@@ -261,7 +263,6 @@
         "fct:id":"03c0ebda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6112608,
         "gp:id":9758,
-        "qs:id":238127,
         "qs_pg:id":238127,
         "wd:id":"Q599678",
         "wk:page":"Powell River, British Columbia"
@@ -281,7 +282,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284894,
+    "wof:lastmodified":1566519590,
     "wof:name":"Powell River",
     "wof:parent_id":890456815,
     "wof:placetype":"locality",

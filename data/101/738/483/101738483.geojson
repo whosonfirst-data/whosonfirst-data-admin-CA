@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.73601,
     "lbl:longitude":-70.395872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.73601,
     "mps:longitude":-70.395872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Aim\u00e9-des-Lacs"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191575,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101738483,
-    "wof:lastmodified":1563284602,
+    "wof:lastmodified":1566519511,
     "wof:name":"Saint-Aim\u00e9-des-Lacs",
     "wof:parent_id":890457727,
     "wof:placetype":"locality",

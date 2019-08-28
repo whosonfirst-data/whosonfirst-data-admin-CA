@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":984122.699483,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.609692,52.115469,-106.609692,52.115469",
     "geom:latitude":52.115469,
     "geom:longitude":-106.609692,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.614692,52.110469,-106.604692,52.120469",
     "lbl:latitude":52.115469,
     "lbl:longitude":-106.609692,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.117468,
     "mps:longitude":-106.608567,
     "mz:hierarchy_label":0,
@@ -33,22 +35,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.1194,
     "wd:longitude":-106.614,
     "wd:wordcount":714,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115069,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403397,
-        "qs:id":367374,
         "qs_pg:id":367374,
         "wd:id":"Q5608497"
     },
@@ -69,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870969,
+    "wof:lastmodified":1566519006,
     "wof:name":"Greystone Heights",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

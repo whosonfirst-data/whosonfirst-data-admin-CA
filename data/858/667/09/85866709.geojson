@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":2679015.863572,
+    "geom:area_square_m":2679015.863573,
     "geom:bbox":"-113.97388,51.110612,-113.946755,51.125216",
     "geom:latitude":51.117669,
     "geom:longitude":-113.958883,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.117912,
     "lbl:longitude":-113.958855,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.136278,
     "mps:longitude":-113.980511,
     "mz:hierarchy_label":1,
@@ -52,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":182,
     "wof:belongsto":[
         102191575,
@@ -63,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26342810,
-        "qs:id":230561,
         "qs_pg:id":230561,
         "wd:id":"Q6777072"
     },
@@ -82,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270059,
+    "wof:lastmodified":1566518963,
     "wof:name":"Martindale",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

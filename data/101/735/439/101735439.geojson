@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":62.855175,
     "lbl:longitude":-69.828958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.855175,
     "mps:longitude":-69.828958,
     "mz:hierarchy_label":1,
@@ -249,7 +251,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":53.0,
     "wd:latitude":62.8467,
     "wd:longitude":-69.8686,
@@ -284,7 +286,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285356,
+    "wof:lastmodified":1566519928,
     "wof:name":"Kimmirut",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

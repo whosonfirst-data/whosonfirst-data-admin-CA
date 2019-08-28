@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.920953,
     "lbl:longitude":-73.781135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.920953,
     "mps:longitude":-73.781135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Communaut\u00e9 de Wemotaci"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101747887,
-    "wof:lastmodified":1559860628,
+    "wof:lastmodified":1566519620,
     "wof:name":"Communaut\u00e9 de Wemotaci",
     "wof:parent_id":890456839,
     "wof:placetype":"locality",

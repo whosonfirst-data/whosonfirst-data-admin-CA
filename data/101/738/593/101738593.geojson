@@ -9,14 +9,17 @@
     "geom:bbox":"-73.698305436,45.18462281,-73.568334147,45.314686982",
     "geom:latitude":45.254523,
     "geom:longitude":-73.633998,
-    "geonames:id":"6138987,6138992",
+    "gn:id":"6138987,6138992",
     "iso:country":"CA",
     "lbl:latitude":45.255404,
     "lbl:longitude":-73.634995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.255404,
     "mps:longitude":-73.634995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Saint-R\u00e9mi"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101738593,
-    "wof:lastmodified":1563284567,
+    "wof:lastmodified":1566519504,
     "wof:name":"Saint-R\u00e9mi",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

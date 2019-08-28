@@ -9,10 +9,12 @@
     "geom:bbox":"-80.8664322,51.1421358,-80.4316667,51.4039398",
     "geom:latitude":51.305766,
     "geom:longitude":-80.709648,
-    "geonames:id":"6078371,6078372",
+    "gn:id":"6078371,6078372",
     "iso:country":"CA",
     "lbl:latitude":51.311918,
     "lbl:longitude":-80.73549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.311918,
     "mps:longitude":-80.73549,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.272222,
     "wd:longitude":-80.643056,
     "wd:wordcount":1812,
@@ -193,7 +195,6 @@
     "wof:concordances":{
         "gn:id":6078372,
         "gp:id":2683,
-        "qs:id":71665,
         "qs_pg:id":71665,
         "wd:id":"Q1736159",
         "wk:page":"Moosonee"
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":101735677,
-    "wof:lastmodified":1563285467,
+    "wof:lastmodified":1566519951,
     "wof:name":"Moosonee",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

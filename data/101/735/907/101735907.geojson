@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.625497,
     "lbl:longitude":-77.722325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.625497,
     "mps:longitude":-77.722325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marmora and Lake"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -62,10 +65,12 @@
     "wof:concordances":{
         "gn:id":6066654,
         "gp:id":29374303,
-        "qs:id":1191870,
         "qs_pg:id":1062148,
         "wd:id":"Q6772165",
         "wk:page":"Marmora, Ontario"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1191870
     },
     "wof:country":"CA",
     "wof:geomhash":"21654930723b73497b260b73e3ecab9c",
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":101735907,
-    "wof:lastmodified":1563285298,
+    "wof:lastmodified":1566519917,
     "wof:name":"Marmora and Lake",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",

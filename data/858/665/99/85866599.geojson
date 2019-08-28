@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":583570.70511,
+    "geom:area_square_m":583570.705109,
     "geom:bbox":"-97.206647,49.856809,-97.195524,49.864154",
     "geom:latitude":49.860474,
     "geom:longitude":-97.201058,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.859887,
     "lbl:longitude":-97.201677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.85877,
     "mps:longitude":-97.206386,
     "mz:hierarchy_label":1,
@@ -35,19 +36,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968513,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332850,
-        "qs:id":368647,
         "qs_pg:id":368647
     },
     "wof:country":"CA",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523919,
+    "wof:lastmodified":1566519014,
     "wof:name":"J. B. Mitchell",
     "wof:parent_id":1108968513,
     "wof:placetype":"neighbourhood",

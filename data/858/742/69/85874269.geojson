@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1385981.195575,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.439475,43.654598,-79.439475,43.654598",
     "geom:latitude":43.654598,
     "geom:longitude":-79.439475,
     "iso:country":"CA",
+    "lbl:bbox":"-79.444475,43.649598,-79.434475,43.659598",
     "lbl:latitude":43.654598,
     "lbl:longitude":-79.439475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.65595,
     "mps:longitude":-79.426624,
     "mz:hierarchy_label":0,
@@ -32,24 +34,24 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Dufferin Grove (83)",
     "torsdfa:AREA_S_CD":"083",
     "wd:latitude":43.657,
     "wd:longitude":-79.428,
     "wd:wordcount":473,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7870910,
         "gp:id":55855808,
-        "qs:id":237099,
         "qs_pg:id":237099,
         "wd:id":"Q5312339",
         "wk:page":"Dufferin Grove"
@@ -72,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871911,
+    "wof:lastmodified":1566519020,
     "wof:name":"Dufferin Grove",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

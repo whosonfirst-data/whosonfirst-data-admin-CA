@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.543512,
     "lbl:longitude":-72.62425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.543512,
     "mps:longitude":-72.62425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0628\u0648\u0633\u062a\u0648\u0646\u064a\u0647"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":384,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101736843,
-    "wof:lastmodified":1563284395,
+    "wof:lastmodified":1566519466,
     "wof:name":"La Bostonnais",
     "wof:parent_id":890456839,
     "wof:placetype":"locality",

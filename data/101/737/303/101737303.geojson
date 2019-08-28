@@ -9,14 +9,17 @@
     "geom:bbox":"-72.613887228,46.516661815,-72.409567532,46.646112532",
     "geom:latitude":46.576356,
     "geom:longitude":-72.514168,
-    "geonames:id":"6138811,6138813",
+    "gn:id":"6138811,6138813",
     "iso:country":"CA",
     "lbl:latitude":46.572454,
     "lbl:longitude":-72.507243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.572454,
     "mps:longitude":-72.507243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Narcisse"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1848,
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101737303,
-    "wof:lastmodified":1563284230,
+    "wof:lastmodified":1566519438,
     "wof:name":"Saint-Narcisse",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

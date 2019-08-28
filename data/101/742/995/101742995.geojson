@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":62935.667834,
     "geom:bbox":"-127.4928558,50.8860725,-127.4877753,50.8886906",
     "geom:latitude":50.887628,
     "geom:longitude":-127.489883,
     "iso:country":"CA",
     "lbl:latitude":50.887633,
     "lbl:longitude":-127.489014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.887633,
     "mps:longitude":-127.489014,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mahpahkum 4"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":56121071
     },
     "wof:country":"CA",
-    "wof:geomhash":"052b3969c72928b75ca89d692f6e6c4b",
+    "wof:geomhash":"226fba3b7fc17beb33d0637cd4bce8bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101742995,
-    "wof:lastmodified":1493163505,
+    "wof:lastmodified":1566520019,
     "wof:name":"Mahpahkum 4",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

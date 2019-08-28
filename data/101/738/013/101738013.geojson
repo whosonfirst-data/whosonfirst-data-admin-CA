@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.855816,
     "lbl:longitude":-74.623408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.855816,
     "mps:longitude":-74.623408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":385,
     "wof:belongsto":[
         102191575,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":5971252,
         "gp:id":23396460,
-        "qs:id":203098,
         "qs_pg:id":203098,
         "wd:id":"Q941330",
         "wk:page":"Harrington, Quebec"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101738013,
-    "wof:lastmodified":1563284601,
+    "wof:lastmodified":1566519511,
     "wof:name":"Harrington",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.976495,
     "lbl:longitude":-105.872209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.976495,
     "mps:longitude":-105.872209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Colonsay"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.9833,
     "wd:longitude":-105.883,
     "wd:wordcount":695,
@@ -69,7 +72,6 @@
         "fct:id":"03ba54fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5926129,
         "gp:id":2190,
-        "qs:id":959075,
         "qs_pg:id":959075,
         "wd:id":"Q1380418",
         "wk:page":"Colonsay, Saskatchewan"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283964,
+    "wof:lastmodified":1566519392,
     "wof:name":"Colonsay",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

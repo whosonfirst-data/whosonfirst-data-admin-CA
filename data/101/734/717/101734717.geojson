@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.215423,
     "lbl:longitude":-99.315257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.215423,
     "mps:longitude":-99.315257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cre_x_preferred":[
         "Misi-p\u00e1wastik"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.2083,
     "wd:longitude":-99.3,
     "wd:wordcount":507,
@@ -87,7 +90,6 @@
         "fct:id":"03ba83da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5964664,
         "gp:id":2603,
-        "qs:id":178590,
         "qs_pg:id":178590,
         "wd:id":"Q402566",
         "wk:page":"Grand Rapids, Manitoba"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285289,
+    "wof:lastmodified":1566519915,
     "wof:name":"Grand Rapids",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

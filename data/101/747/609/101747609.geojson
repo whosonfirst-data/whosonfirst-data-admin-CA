@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002726,
+    "geom:area_square_m":24653734.924663,
     "geom:bbox":"-80.1345402,42.9636024,-80.0366839,43.0254326",
     "geom:latitude":42.994479,
     "geom:longitude":-80.089574,
     "iso:country":"CA",
     "lbl:latitude":43.012315,
     "lbl:longitude":-80.104751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.012315,
     "mps:longitude":-80.104751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "New Credit Indian Reserve No. 40A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747609,
-    "wof:lastmodified":1533335684,
+    "wof:lastmodified":1566519747,
     "wof:name":"New Credit Indian Reserve No. 40A",
     "wof:parent_id":890456825,
     "wof:placetype":"locality",

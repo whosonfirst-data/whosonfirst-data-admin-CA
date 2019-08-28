@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16657.906092,
     "geom:bbox":"-123.6009841,48.3243807,-123.5980479,48.3258982",
     "geom:latitude":48.325115,
     "geom:longitude":-123.599702,
     "iso:country":"CA",
     "lbl:latitude":48.325413,
     "lbl:longitude":-123.600428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.325413,
     "mps:longitude":-123.600428,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Village Island 7"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":9851
     },
     "wof:country":"CA",
-    "wof:geomhash":"530d7bfdf3adf2cf413b59508cccb594",
+    "wof:geomhash":"a04c4f45bd2b184295ae3b58299b3257",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101745795,
-    "wof:lastmodified":1493163530,
+    "wof:lastmodified":1566520060,
     "wof:name":"Village Island 7",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

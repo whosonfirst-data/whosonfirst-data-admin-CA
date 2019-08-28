@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
+    "geom:area_square_m":2614690.586238,
     "geom:bbox":"-106.26529,52.7865625,-106.2228914,52.80617",
     "geom:latitude":52.797074,
     "geom:longitude":-106.240148,
     "iso:country":"CA",
     "lbl:latitude":52.79015,
     "lbl:longitude":-106.250978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.79015,
     "mps:longitude":-106.250978,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Willow Cree Indian Rserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747911,
-    "wof:lastmodified":1531524574,
+    "wof:lastmodified":1566519749,
     "wof:name":"Willow Cree Indian Rserve",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
+    "geom:area_square_m":791831.000151,
     "geom:bbox":"-124.9978432,50.0449991,-124.9831714,50.0523578",
     "geom:latitude":50.048636,
     "geom:longitude":-124.990162,
     "iso:country":"CA",
     "lbl:latitude":50.0487,
     "lbl:longitude":-124.99016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.0487,
     "mps:longitude":-124.99016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paukeanum 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744657,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566519970,
     "wof:name":"Paukeanum 3",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

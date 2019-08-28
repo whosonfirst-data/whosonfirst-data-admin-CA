@@ -13,8 +13,10 @@
     "gn:longitude":-81.19976,
     "gn:population":500,
     "iso:country":"CA",
+    "lbl:bbox":"-81.199115,46.571194,-81.189115,46.581194",
     "lbl:latitude":46.576194,
     "lbl:longitude":-81.194115,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.580668,
     "mps:longitude":-81.196793,
     "mz:hierarchy_label":0,
@@ -149,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043b\u043c\u0441\u0444\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
-        "Chelmsford"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0644\u0645\u0633\u0641\u0648\u0631\u0688"
     ],
@@ -189,7 +188,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85682057,
@@ -202,7 +201,6 @@
     "wof:concordances":{
         "gn:id":5920648,
         "gp:id":277,
-        "qs:id":1251879,
         "qs_pg:id":1251879
     },
     "wof:country":"CA",
@@ -221,7 +219,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170653,
+    "wof:lastmodified":1566518911,
     "wof:name":"Chelmsford",
     "wof:parent_id":101735493,
     "wof:placetype":"neighbourhood",

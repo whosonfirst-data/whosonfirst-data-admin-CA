@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11668589.069462,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.75034,49.281543,-122.75034,49.281543",
     "geom:latitude":49.281543,
     "geom:longitude":-122.75034,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.75534,49.276543,-122.74534,49.286543",
     "lbl:latitude":49.281543,
     "lbl:longitude":-122.75034,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.289336,
     "mps:longitude":-122.749186,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Oxford Heights"
-    ],
-    "name:unk_x_variant":[
         "Oxford Heights"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,19 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741061,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998763,
-        "qs:id":230992,
         "qs_pg:id":230992
     },
     "wof:country":"CA",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931241,
+    "wof:lastmodified":1566518972,
     "wof:name":"Oxford Heights",
     "wof:parent_id":101741061,
     "wof:placetype":"neighbourhood",

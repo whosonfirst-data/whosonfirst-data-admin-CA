@@ -11,8 +11,10 @@
     "geom:longitude":-80.248328,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.253328,43.567112,-80.243328,43.577112",
     "lbl:latitude":43.572112,
     "lbl:longitude":-80.248328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.583817,
     "mps:longitude":-80.238796,
     "mz:hierarchy_label":0,
@@ -390,9 +392,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447"
     ],
-    "name:unk_x_variant":[
-        "North"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644"
     ],
@@ -449,7 +448,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -460,7 +459,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856650,
-        "qs:id":17091,
         "qs_pg:id":17091
     },
     "wof:country":"CA",
@@ -479,7 +477,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170671,
+    "wof:lastmodified":1566518941,
     "wof:name":"North",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

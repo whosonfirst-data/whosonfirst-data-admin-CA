@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.041342,
     "lbl:longitude":-79.335751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.041342,
     "mps:longitude":-79.335751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0647\u0627\u0645"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":43.0333,
     "wd:longitude":-79.3333,
     "wd:wordcount":855,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":6100630,
         "gp:id":23396964,
-        "qs:id":24621,
         "qs_pg:id":24621,
         "wd:id":"Q448041",
         "wk:page":"Pelham, Ontario"
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101736395,
-    "wof:lastmodified":1563284463,
+    "wof:lastmodified":1566519485,
     "wof:name":"Pelham",
     "wof:parent_id":890456991,
     "wof:placetype":"locality",

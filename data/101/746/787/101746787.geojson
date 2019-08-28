@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010207,
+    "geom:area_square_m":87906624.178204,
     "geom:bbox":"-80.7372009,45.7981513,-80.5352144,45.8945246",
     "geom:latitude":45.853872,
     "geom:longitude":-80.641043,
     "iso:country":"CA",
     "lbl:latitude":45.834059,
     "lbl:longitude":-80.63715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.834059,
     "mps:longitude":-80.63715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Henvey Inlet Indian Reserve No. 2"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101746787,
-    "wof:lastmodified":1533335677,
+    "wof:lastmodified":1566519851,
     "wof:name":"Henvey Inlet Indian Reserve No. 2",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

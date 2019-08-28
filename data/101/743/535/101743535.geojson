@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":23458.478098,
     "geom:bbox":"-130.4386145,54.7551433,-130.4357158,54.7581154",
     "geom:latitude":54.756865,
     "geom:longitude":-130.437069,
     "iso:country":"CA",
     "lbl:latitude":54.757098,
     "lbl:longitude":-130.436937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.757098,
     "mps:longitude":-130.436937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ksadagamks 43"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743535,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519986,
     "wof:name":"Ksadagamks 43",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
+    "geom:area_square_m":10484009.407738,
     "geom:bbox":"-107.6970242,52.7545833,-107.2743268,52.8785283",
     "geom:latitude":52.822313,
     "geom:longitude":-107.520054,
     "iso:country":"CA",
     "lbl:latitude":52.86756,
     "lbl:longitude":-107.662956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.86756,
     "mps:longitude":-107.662956,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saulteaux I.R. 159U"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101742011,
-    "wof:lastmodified":1531523936,
+    "wof:lastmodified":1566520024,
     "wof:name":"Saulteaux I.R. 159U",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

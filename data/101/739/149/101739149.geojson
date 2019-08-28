@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.166012,
     "lbl:longitude":-106.534423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.166012,
     "mps:longitude":-106.534423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parkside"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844276,
+    "wof:lastmodified":1566519411,
     "wof:name":"Parkside",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

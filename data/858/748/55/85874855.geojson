@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":708527.623641,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.937439,43.256983,-79.937439,43.256983",
     "geom:latitude":43.256983,
     "geom:longitude":-79.937439,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.942439,43.251983,-79.932439,43.261983",
     "lbl:latitude":43.256983,
     "lbl:longitude":-79.937439,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.258142,
     "mps:longitude":-79.939165,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Ainslie Wood North"
-    ],
-    "name:unk_x_variant":[
         "Ainslie Wood North"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856169,
-        "qs:id":1135799,
         "qs_pg:id":1135799
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871939,
+    "wof:lastmodified":1566518984,
     "wof:name":"Ainslie Wood North",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

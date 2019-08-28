@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8148004.527858,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.043031,43.632093,-80.043031,43.632093",
     "geom:latitude":43.632093,
     "geom:longitude":-80.043031,
     "iso:country":"CA",
+    "lbl:bbox":"-80.048031,43.627093,-80.038031,43.637093",
     "lbl:latitude":43.632093,
     "lbl:longitude":-80.043031,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.636916,
     "mps:longitude":-80.039542,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Acton"
-    ],
-    "name:unk_x_variant":[
         "Downtown Acton"
     ],
     "qs:gn_id":0,
@@ -55,9 +54,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736091,
         85633041,
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931348,
+    "wof:lastmodified":1566519000,
     "wof:name":"Downtown Acton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

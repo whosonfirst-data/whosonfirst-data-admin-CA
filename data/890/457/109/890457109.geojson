@@ -11,11 +11,15 @@
     "geom:longitude":-53.18137,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
+    "lbl:bbox":"-53.20137,47.72989,-53.16137,47.76989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Varswater"
     ],
@@ -239,7 +243,7 @@
     "wof:concordances":{
         "gn:id":5958172,
         "gp:id":3986,
-        "qs:id":473576,
+        "qs_pg:id":473576,
         "wd:id":"Q102192",
         "wk:page":"Fresh water"
     },
@@ -255,7 +259,7 @@
         }
     ],
     "wof:id":890457109,
-    "wof:lastmodified":1563286444,
+    "wof:lastmodified":1566520234,
     "wof:name":"Freshwater",
     "wof:parent_id":85682123,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.930879,
     "lbl:longitude":-100.683502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.930879,
     "mps:longitude":-100.683502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Woodworth"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":212,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101734939,
-    "wof:lastmodified":1561844448,
+    "wof:lastmodified":1566519905,
     "wof:name":"Woodworth",
     "wof:parent_id":1158868945,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":15808.414756,
     "geom:bbox":"-129.1742006,53.0579796,-129.1724788,53.059608",
     "geom:latitude":53.058878,
     "geom:longitude":-129.173256,
     "iso:country":"CA",
     "lbl:latitude":53.058922,
     "lbl:longitude":-129.173176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.058922,
     "mps:longitude":-129.173176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kayel 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746115,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566519844,
     "wof:name":"Kayel 8",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

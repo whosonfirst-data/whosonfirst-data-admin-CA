@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.477801,
     "lbl:longitude":-71.042036,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.477801,
     "mps:longitude":-71.042036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "La Nouvelle-Beauce"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"La Nouvelle-Beauce",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2426",
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375194,
-        "qs:id":1111212,
+        "qs_pg:id":1111212,
         "wd:id":"Q125495",
         "wk:page":"La Nouvelle-Beauce Regional County Municipality"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890457829,
-    "wof:lastmodified":1563286358,
+    "wof:lastmodified":1566520212,
     "wof:name":"La Nouvelle-Beauce",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":219451.984954,
     "geom:bbox":"-120.1064428,50.8443862,-120.0927979,50.849182",
     "geom:latitude":50.847251,
     "geom:longitude":-120.099418,
     "iso:country":"CA",
     "lbl:latitude":50.847259,
     "lbl:longitude":-120.099419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.847259,
     "mps:longitude":-120.099419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kamloops 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744067,
-    "wof:lastmodified":1533335888,
+    "wof:lastmodified":1566519981,
     "wof:name":"Kamloops 5",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

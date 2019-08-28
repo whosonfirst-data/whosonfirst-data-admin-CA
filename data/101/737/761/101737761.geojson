@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.159337,
     "lbl:longitude":-73.883359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.159337,
     "mps:longitude":-73.883359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tr\u00e8s-Saint-Sacrement"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101737761,
-    "wof:lastmodified":1563284247,
+    "wof:lastmodified":1566519441,
     "wof:name":"Tr\u00e8s-Saint-Sacrement",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

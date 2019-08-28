@@ -10,8 +10,10 @@
     "geom:latitude":43.872818,
     "geom:longitude":-79.757996,
     "iso:country":"CA",
+    "lbl:bbox":"-79.762996,43.867818,-79.752996,43.877818",
     "lbl:latitude":43.872818,
     "lbl:longitude":-79.757996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.871043,
     "mps:longitude":-79.759486,
     "mz:hierarchy_label":0,
@@ -353,9 +355,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0430\u0437\u0433\u043e"
     ],
-    "name:unk_x_variant":[
-        "Glasgow"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0644\u0627\u0633\u06af\u0648"
     ],
@@ -428,7 +427,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -441,8 +440,10 @@
     "wof:concordances":{
         "gn:id":5961718,
         "gp:id":55999383,
-        "qs:id":1002253,
         "qs_pg:id":776831
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1002253
     },
     "wof:country":"CA",
     "wof:geomhash":"324f60647a173804d2bf5ad5fc5f2501",
@@ -468,7 +469,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170843,
+    "wof:lastmodified":1566518998,
     "wof:name":"Glasgow",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

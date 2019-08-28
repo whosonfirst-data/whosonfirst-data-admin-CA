@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.715539,
     "lbl:longitude":-76.858577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.715539,
     "mps:longitude":-76.858577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whitewater Region"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2039,
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101736341,
-    "wof:lastmodified":1563284435,
+    "wof:lastmodified":1566519480,
     "wof:name":"Whitewater Region",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

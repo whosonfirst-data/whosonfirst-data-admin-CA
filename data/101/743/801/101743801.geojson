@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":19657.288981,
     "geom:bbox":"-129.9938805,53.645402,-129.990816,53.6465023",
     "geom:latitude":53.646043,
     "geom:longitude":-129.992264,
     "iso:country":"CA",
     "lbl:latitude":53.646076,
     "lbl:longitude":-129.992144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.646076,
     "mps:longitude":-129.992144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ketai 28"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743801,
-    "wof:lastmodified":1533335883,
+    "wof:lastmodified":1566520003,
     "wof:name":"Ketai 28",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":40358.901045,
     "geom:bbox":"-121.5913307,50.1592599,-121.588467,50.1611071",
     "geom:latitude":50.160181,
     "geom:longitude":-121.589901,
     "iso:country":"CA",
     "lbl:latitude":50.160182,
     "lbl:longitude":-121.589898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.160182,
     "mps:longitude":-121.589898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Humhampt 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744375,
-    "wof:lastmodified":1533335892,
+    "wof:lastmodified":1566519983,
     "wof:name":"Humhampt 6",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

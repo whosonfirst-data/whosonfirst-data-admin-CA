@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.647899,
     "lbl:longitude":-79.429207,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.64502,
     "mps:longitude":-79.423605,
     "mz:hierarchy_label":1,
@@ -58,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Little Portugal (84)",
     "torsdfa:AREA_S_CD":"084",
     "wd:wordcount":47,
@@ -74,7 +75,6 @@
     "wof:concordances":{
         "gn:id":5895650,
         "gp:id":55855786,
-        "qs:id":504386,
         "qs_pg:id":504386,
         "wd:id":"Q6651410"
     },
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844224,
+    "wof:lastmodified":1566519021,
     "wof:name":"Little Portugal",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

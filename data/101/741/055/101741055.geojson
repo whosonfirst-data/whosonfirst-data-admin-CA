@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.248223,
     "lbl:longitude":-122.966319,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.248223,
     "mps:longitude":-122.966319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0646\u0627\u0628\u064a"
     ],
@@ -265,7 +268,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.25,
     "wd:longitude":-122.949167,
@@ -281,7 +284,6 @@
     "wof:concordances":{
         "gn:id":5911606,
         "gp:id":9806,
-        "qs:id":767794,
         "qs_pg:id":767794,
         "wd:id":"Q244025",
         "wk:page":"Burnaby"
@@ -298,7 +300,7 @@
         }
     ],
     "wof:id":101741055,
-    "wof:lastmodified":1563285156,
+    "wof:lastmodified":1566519870,
     "wof:name":"Burnaby",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

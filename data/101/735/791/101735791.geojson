@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.635651,
     "lbl:longitude":-82.261838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.635651,
     "mps:longitude":-82.261838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Central Manitoulin"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101735791,
-    "wof:lastmodified":1563285311,
+    "wof:lastmodified":1566519921,
     "wof:name":"Central Manitoulin",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

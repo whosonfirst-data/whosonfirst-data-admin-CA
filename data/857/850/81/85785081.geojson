@@ -10,8 +10,10 @@
     "geom:latitude":45.974906,
     "geom:longitude":-66.593555,
     "iso:country":"CA",
+    "lbl:bbox":"-66.598555,45.969906,-66.588555,45.979906",
     "lbl:latitude":45.974906,
     "lbl:longitude":-66.593555,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.974057,
     "mps:longitude":-66.589536,
     "mz:hierarchy_label":0,
@@ -54,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
         85682065,
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844187,
+    "wof:lastmodified":1566518909,
     "wof:name":"Marysville",
     "wof:parent_id":101735269,
     "wof:placetype":"neighbourhood",

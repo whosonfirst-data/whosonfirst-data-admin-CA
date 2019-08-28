@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.046421,
     "lbl:longitude":-72.810631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.046421,
     "mps:longitude":-72.810631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u0644\u064a\u0633\u0628\u064a\u0631\u063a"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":293,
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101737631,
-    "wof:lastmodified":1563284305,
+    "wof:lastmodified":1566519450,
     "wof:name":"Frelighsburg",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

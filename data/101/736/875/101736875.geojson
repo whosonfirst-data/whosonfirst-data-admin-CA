@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.225414,
     "lbl:longitude":-71.807712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.225414,
     "mps:longitude":-71.807712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u062a\u0648\u0646"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101736875,
-    "wof:lastmodified":1563284394,
+    "wof:lastmodified":1566519466,
     "wof:name":"Compton",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

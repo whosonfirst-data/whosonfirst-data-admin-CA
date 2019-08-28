@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
+    "geom:area_square_m":1663344.978469,
     "geom:bbox":"-123.1480416,49.3130403,-123.1200988,49.3289301",
     "geom:latitude":49.32154,
     "geom:longitude":-123.132392,
     "iso:country":"CA",
     "lbl:latitude":49.324032,
     "lbl:longitude":-123.137111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.324032,
     "mps:longitude":-123.137111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Capilano 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744669,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566519969,
     "wof:name":"Capilano 5",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019916,
+    "geom:area_square_m":140863943.598369,
     "geom:bbox":"-105.9249888,55.0295193,-105.6724009,55.1759781",
     "geom:latitude":55.109391,
     "geom:longitude":-105.790711,
     "iso:country":"CA",
     "lbl:latitude":55.141646,
     "lbl:longitude":-105.810873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.141646,
     "mps:longitude":-105.810873,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Morin Lake I.R. 217"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745983,
-    "wof:lastmodified":1531525151,
+    "wof:lastmodified":1566520053,
     "wof:name":"Morin Lake I.R. 217",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

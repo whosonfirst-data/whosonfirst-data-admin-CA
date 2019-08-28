@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
+    "geom:area_square_m":506272.547595,
     "geom:bbox":"-130.1489081,53.8838521,-130.1366466,53.8917266",
     "geom:latitude":53.886777,
     "geom:longitude":-130.143282,
     "iso:country":"CA",
     "lbl:latitude":53.886405,
     "lbl:longitude":-130.143282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.886405,
     "mps:longitude":-130.143282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klapthlon 5A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743423,
-    "wof:lastmodified":1533335878,
+    "wof:lastmodified":1566519989,
     "wof:name":"Klapthlon 5A",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

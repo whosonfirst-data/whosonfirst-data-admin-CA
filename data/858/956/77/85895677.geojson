@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2167615.158837,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.272778,43.845285,-79.272778,43.845285",
     "geom:latitude":43.845285,
     "geom:longitude":-79.272778,
     "iso:country":"CA",
+    "lbl:bbox":"-79.277778,43.840285,-79.267778,43.850285",
     "lbl:latitude":43.845285,
     "lbl:longitude":-79.272778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.847837,
     "mps:longitude":-79.269889,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:swe_x_preferred":[
         "Armadale"
     ],
-    "name:unk_x_variant":[
-        "Armadale"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6074143,
@@ -80,13 +79,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736035,
         85633041,
-        101736035,
-        890458415,
         85682057,
         101740741
     ],
@@ -94,7 +91,6 @@
     "wof:concordances":{
         "gn:id":7871308,
         "gp:id":55999633,
-        "qs:id":1086821,
         "qs_pg:id":1086821,
         "wd:id":"Q4792514"
     },
@@ -120,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931467,
+    "wof:lastmodified":1566518998,
     "wof:name":"Armadale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

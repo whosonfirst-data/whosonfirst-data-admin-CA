@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":427260.646334,
     "geom:bbox":"-121.8635542,50.6074523,-121.8548374,50.6146789",
     "geom:latitude":50.610743,
     "geom:longitude":-121.859659,
     "iso:country":"CA",
     "lbl:latitude":50.610723,
     "lbl:longitude":-121.859658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.610723,
     "mps:longitude":-121.859658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kilchult 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744879,
-    "wof:lastmodified":1533335900,
+    "wof:lastmodified":1566519976,
     "wof:name":"Kilchult 3",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

@@ -14,15 +14,17 @@
     "geom:longitude":-111.392603,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":76000,
     "gn:population":76000,
     "iso:country":"CA",
     "lbl:latitude":56.752082,
     "lbl:longitude":-111.449452,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.752082,
     "mps:longitude":-111.449452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u062a \u0645\u0627\u0643\u0645\u0648\u0631\u0627\u064a"
     ],
@@ -278,7 +280,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -290,7 +292,7 @@
     "wof:concordances":{
         "gn:id":5955895,
         "gp:id":8406,
-        "qs:id":963632,
+        "qs_pg:id":963632,
         "wd:id":"Q126624",
         "wk:page":"Fort McMurray"
     },
@@ -307,7 +309,7 @@
         }
     ],
     "wof:id":1141909293,
-    "wof:lastmodified":1563288091,
+    "wof:lastmodified":1566520627,
     "wof:name":"Fort McMurray",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

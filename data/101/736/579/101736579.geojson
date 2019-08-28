@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.185691,
     "lbl:longitude":-73.84898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.185691,
     "mps:longitude":-73.84898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0648\u064a\u0643"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":258,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":5977937,
         "gp:id":3568,
-        "qs:id":1053501,
         "qs_pg:id":1053501,
         "wd:id":"Q3141615",
         "wk:page":"Howick, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101736579,
-    "wof:lastmodified":1563284555,
+    "wof:lastmodified":1566519502,
     "wof:name":"Howick",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

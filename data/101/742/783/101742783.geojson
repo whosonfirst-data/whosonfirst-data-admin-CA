@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
+    "geom:area_square_m":870842.941965,
     "geom:bbox":"-132.0405053,53.2041194,-132.0273014,53.2223103",
     "geom:latitude":53.213353,
     "geom:longitude":-132.036757,
     "iso:country":"CA",
     "lbl:latitude":53.216024,
     "lbl:longitude":-132.037163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.216024,
     "mps:longitude":-132.037163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khrana 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742783,
-    "wof:lastmodified":1533335867,
+    "wof:lastmodified":1566520018,
     "wof:name":"Khrana 4",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

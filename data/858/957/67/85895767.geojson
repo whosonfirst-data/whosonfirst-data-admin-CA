@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8525393.84206,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.00664,45.388122,-74.00664,45.388122",
     "geom:latitude":45.388122,
     "geom:longitude":-74.00664,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-74.01164,45.383122,-74.00164,45.393122",
     "lbl:latitude":45.388122,
     "lbl:longitude":-74.00664,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.387424,
     "mps:longitude":-74.009987,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Le Vieux Dorion"
     ],
     "name:fra_x_preferred":[
-        "Le Vieux Dorion"
-    ],
-    "name:unk_x_variant":[
         "Le Vieux Dorion"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999758,
-        "qs:id":19658,
         "qs_pg:id":19658
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931487,
+    "wof:lastmodified":1566518991,
     "wof:name":"Le Vieux Dorion",
     "wof:parent_id":101736869,
     "wof:placetype":"neighbourhood",

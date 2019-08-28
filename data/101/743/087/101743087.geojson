@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
+    "geom:area_square_m":139868.232224,
     "geom:bbox":"-126.5934781,49.6968279,-126.5878557,49.7004575",
     "geom:latitude":49.698774,
     "geom:longitude":-126.590323,
     "iso:country":"CA",
     "lbl:latitude":49.698641,
     "lbl:longitude":-126.59032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.698641,
     "mps:longitude":-126.59032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Coopte 9"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743087,
-    "wof:lastmodified":1533335872,
+    "wof:lastmodified":1566519998,
     "wof:name":"Coopte 9",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

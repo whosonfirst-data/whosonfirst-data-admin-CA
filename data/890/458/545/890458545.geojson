@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.126087,
     "lbl:longitude":-79.35257,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.126087,
     "mps:longitude":-79.35257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Muskoka"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Muskoka",
     "statcan:cdtype":"DM",
     "statcan:cduid":"3544",
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375150,
-        "qs:id":897315,
+        "qs_pg:id":897315,
         "wd:id":"Q382508",
         "wk:page":"District Municipality of Muskoka"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890458545,
-    "wof:lastmodified":1563286019,
+    "wof:lastmodified":1566520117,
     "wof:name":"Muskoka",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

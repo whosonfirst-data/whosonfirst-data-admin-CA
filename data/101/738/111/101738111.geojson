@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.520518,
     "lbl:longitude":-69.29421,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.520518,
     "mps:longitude":-69.29421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0647\u0648\u0646\u064a\u063a\u0645\u0648\u0643"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":8379097,
         "gp:id":23394300,
-        "qs:id":1155788,
         "qs_pg:id":1155788,
         "wd:id":"Q142284",
         "wk:page":"Poh\u00e9n\u00e9gamook"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101738111,
-    "wof:lastmodified":1563284645,
+    "wof:lastmodified":1566519518,
     "wof:name":"Poh\u00e9n\u00e9gamook",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

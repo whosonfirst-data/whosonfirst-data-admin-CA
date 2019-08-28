@@ -11,15 +11,17 @@
     "geom:longitude":-61.799604,
     "gn:country":"CA",
     "gn:fcode":"ADM2",
-    "gn:pop":94000,
     "gn:population":94000,
     "iso:country":"CA",
     "lbl:latitude":47.382914,
     "lbl:longitude":-61.902954,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.382914,
     "mps:longitude":-61.902954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Gasp\u00e9sie\u2013\u00celes-de-la-Madeleine"
     ],
@@ -92,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0441\u043f\u0435\u0437\u0456-\u0406\u043b\u044c-\u0434\u0435-\u043b\u044f-\u041c\u0430\u0434\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gasp\u00e9sie"
     ],
     "name:zho_x_preferred":[
@@ -106,7 +108,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statcan:cdname":"Les Iles-de-la-Madeleine",
     "statcan:cdtype":"TE",
@@ -121,7 +123,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6691321,
-        "qs:id":643953,
+        "qs_pg:id":643953,
         "wd:id":"Q728139",
         "wk:page":"Gasp\u00e9sie\u2013\u00celes-de-la-Madeleine"
     },
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":890457171,
-    "wof:lastmodified":1563286519,
+    "wof:lastmodified":1566520253,
     "wof:name":"Les Iles-de-la-Madeleine",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":64.162895,
     "lbl:longitude":-117.301975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.162895,
     "mps:longitude":-117.301975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gam\u00e8ti"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Community Government",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":220.0,
     "wd:latitude":64.1122,
     "wd:longitude":-117.354,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101735403,
-    "wof:lastmodified":1563285497,
+    "wof:lastmodified":1566519956,
     "wof:name":"Gameti",
     "wof:parent_id":1158869031,
     "wof:placetype":"locality",

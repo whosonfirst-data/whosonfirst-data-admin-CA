@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001636,
-    "geom:area_square_m":13165432.858739,
+    "geom:area_square_m":13165432.858736,
     "geom:bbox":"-123.18789488,49.3763120665,-123.118091877,49.4075818375",
     "geom:latitude":49.393119,
     "geom:longitude":-123.150875,
     "iso:country":"CA",
     "lbl:latitude":49.391665,
     "lbl:longitude":-123.148117,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.391665,
     "mps:longitude":-123.148117,
     "mz:hierarchy_label":1,
@@ -24,11 +25,11 @@
     "reversegeo:longitude":-123.148117,
     "src:geom":"mz",
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741069,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108952495,
-    "wof:lastmodified":1531521020,
+    "wof:lastmodified":1566519253,
     "wof:name":"Capilano Watershed",
     "wof:parent_id":101741069,
     "wof:placetype":"neighbourhood",

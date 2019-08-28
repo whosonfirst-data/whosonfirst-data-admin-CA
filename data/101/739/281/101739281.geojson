@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.806482,
     "lbl:longitude":-104.910967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.806482,
     "mps:longitude":-104.910967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Silton"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.061,
     "wd:longitude":-2.312,
     "wd:wordcount":228,
@@ -69,7 +72,6 @@
         "fct:id":"03ba2bba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6147646,
         "gp:id":1698,
-        "qs:id":178534,
         "qs_pg:id":178534,
         "wd:id":"Q2204528"
     },
@@ -88,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844265,
+    "wof:lastmodified":1566519396,
     "wof:name":"Silton",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

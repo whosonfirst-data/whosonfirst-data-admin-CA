@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.241175,
     "lbl:longitude":-127.576818,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":55.241175,
     "mps:longitude":-127.576818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "New Hazelton"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1665,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":6087624,
         "gp:id":9330,
-        "qs:id":1053536,
         "qs_pg:id":1053536,
         "wd:id":"Q2957443",
         "wk:page":"New Hazelton"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101740803,
-    "wof:lastmodified":1563284802,
+    "wof:lastmodified":1566519556,
     "wof:name":"New Hazelton",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

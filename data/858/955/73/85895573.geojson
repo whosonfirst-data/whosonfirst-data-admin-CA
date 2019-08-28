@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10679821.699022,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.365445,43.916461,-79.365445,43.916461",
     "geom:latitude":43.916461,
     "geom:longitude":-79.365445,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.370445,43.911461,-79.360445,43.921461",
     "lbl:latitude":43.916461,
     "lbl:longitude":-79.365445,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.919566,
     "mps:longitude":-79.363755,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Victoria Square"
-    ],
-    "name:unk_x_variant":[
         "Victoria Square"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,21 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":94,
     "wof:belongsto":[
         102191575,
         101736035,
         85633041,
-        101736035,
-        890458415,
         85682057,
         101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999557,
-        "qs:id":1070849,
         "qs_pg:id":1070849
     },
     "wof:country":"CA",
@@ -98,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931442,
+    "wof:lastmodified":1566518953,
     "wof:name":"Victoria Square",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

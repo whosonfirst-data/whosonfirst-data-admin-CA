@@ -11,8 +11,10 @@
     "geom:longitude":-113.21224,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.21724,53.707195,-113.20724,53.717195",
     "lbl:latitude":53.712195,
     "lbl:longitude":-113.21224,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.706542,
     "mps:longitude":-113.21246,
     "mz:hierarchy_label":0,
@@ -142,7 +144,7 @@
         "Fort Saskatchewan"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0b9a\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9a\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd"
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bbe\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9a\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c38\u0c38\u0c4d\u0c15\u0c1f\u0c4d\u0c1a\u0c47\u0c35\u0c3e\u0c28\u0c4d"
@@ -155,9 +157,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u0442-\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Downtown Fort Saskatchewan"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u0631\u0679 \u0633\u0627\u0633\u06a9\u06cc\u0686\u0648\u0627\u0646"
@@ -197,7 +196,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":3323,
     "wof:belongsto":[
         102191575,
@@ -207,7 +206,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998612,
-        "qs:id":1090781,
         "qs_pg:id":1090781,
         "wd:id":"Q1007407"
     },
@@ -226,7 +224,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282198,
+    "wof:lastmodified":1566519019,
     "wof:name":"Downtown Fort Saskatchewan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

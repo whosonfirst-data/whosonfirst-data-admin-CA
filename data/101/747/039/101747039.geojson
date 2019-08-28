@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
+    "geom:area_square_m":2601756.364233,
     "geom:bbox":"-95.3996384,52.1511853,-95.3699199,52.1768879",
     "geom:latitude":52.165243,
     "geom:longitude":-95.380909,
     "iso:country":"CA",
     "lbl:latitude":52.163739,
     "lbl:longitude":-95.379589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.163739,
     "mps:longitude":-95.379589,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pauingassi"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747039,
-    "wof:lastmodified":1533069118,
+    "wof:lastmodified":1566519653,
     "wof:name":"Pauingassi",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

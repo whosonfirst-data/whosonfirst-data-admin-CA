@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002097,
+    "geom:area_square_m":16044827.110144,
     "geom:bbox":"-96.7297896,51.7506841,-96.6592176,51.8016584",
     "geom:latitude":51.778466,
     "geom:longitude":-96.687493,
     "iso:country":"CA",
     "lbl:latitude":51.781337,
     "lbl:longitude":-96.672073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.781337,
     "mps:longitude":-96.672073,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bloodvein 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747519,
-    "wof:lastmodified":1533069127,
+    "wof:lastmodified":1566519661,
     "wof:name":"Bloodvein 12",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",

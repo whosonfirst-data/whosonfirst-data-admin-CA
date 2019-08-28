@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.722611,
     "lbl:longitude":-94.567516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.722611,
     "mps:longitude":-94.567516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rainy River"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.716667,
     "wd:longitude":-94.566667,
     "wd:wordcount":558,
@@ -76,7 +79,6 @@
         "fct:id":"03c04950-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6116136,
         "gp:id":3073,
-        "qs:id":1197545,
         "qs_pg:id":1197545,
         "wd:id":"Q3492477",
         "wk:page":"Rainy River, Ontario"
@@ -96,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285379,
+    "wof:lastmodified":1566519932,
     "wof:name":"Rainy River",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

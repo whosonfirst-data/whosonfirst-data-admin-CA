@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
+    "geom:area_square_m":2936421.948927,
     "geom:bbox":"-121.159013,50.3055664,-121.1333969,50.3290368",
     "geom:latitude":50.315403,
     "geom:longitude":-121.149621,
     "iso:country":"CA",
     "lbl:latitude":50.31511,
     "lbl:longitude":-121.15322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.31511,
     "mps:longitude":-121.15322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Papsilqua 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744191,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566519974,
     "wof:name":"Papsilqua 13",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.147162,
     "lbl:longitude":-73.531296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.147162,
     "mps:longitude":-73.531296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-M\u00e9lanie"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":348,
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101738805,
-    "wof:lastmodified":1563284636,
+    "wof:lastmodified":1566519517,
     "wof:name":"Sainte-M\u00e9lanie",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.460264,
     "lbl:longitude":-104.60207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.460264,
     "mps:longitude":-104.60207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ceylon"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284052,
+    "wof:lastmodified":1566519404,
     "wof:name":"Ceylon",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

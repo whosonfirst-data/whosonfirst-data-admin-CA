@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.207103,
     "lbl:longitude":-108.389279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.207103,
     "mps:longitude":-108.389279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Climax"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":267,
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
         "fct:id":"03c037bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5924007,
         "gp:id":2855,
-        "qs:id":1053458,
         "qs_pg:id":1053458,
         "wd:id":"Q1999684",
         "wk:page":"Climax, Saskatchewan"
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844276,
+    "wof:lastmodified":1566519411,
     "wof:name":"Climax",
     "wof:parent_id":1158868961,
     "wof:placetype":"locality",

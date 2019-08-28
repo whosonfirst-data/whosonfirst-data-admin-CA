@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.013388,
     "lbl:longitude":-67.011942,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.013388,
     "mps:longitude":-67.011942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "York"
     ],
@@ -293,7 +296,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"York",
     "statcan:cdtype":"CT",
     "statcan:cduid":"1310",
@@ -309,7 +312,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375042,
-        "qs:id":225128,
+        "qs_pg:id":225128,
         "wk:page":"York"
     },
     "wof:country":"CA",
@@ -324,7 +327,7 @@
         }
     ],
     "wof:id":890458685,
-    "wof:lastmodified":1564173245,
+    "wof:lastmodified":1566520128,
     "wof:name":"York",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

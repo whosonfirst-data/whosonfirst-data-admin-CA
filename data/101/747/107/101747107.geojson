@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":18275.414525,
     "geom:bbox":"-132.6909237,53.9734188,-132.6863196,53.9748241",
     "geom:latitude":53.973879,
     "geom:longitude":-132.689654,
     "iso:country":"CA",
     "lbl:latitude":53.974042,
     "lbl:longitude":-132.690273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.974042,
     "mps:longitude":-132.690273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naden 23"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747107,
-    "wof:lastmodified":1533335922,
+    "wof:lastmodified":1566519689,
     "wof:name":"Naden 23",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

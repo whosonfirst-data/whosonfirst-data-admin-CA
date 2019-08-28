@@ -9,13 +9,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1057227.198553,
+    "geom:area_square_m":1057227.198554,
     "geom:bbox":"-75.6937579996,45.4267350001,-75.6720719996,45.4383879997",
     "geom:latitude":45.433347,
     "geom:longitude":-75.684148,
     "iso:country":"CA",
     "lbl:latitude":45.434223,
     "lbl:longitude":-75.688906,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.434117,
     "mps:longitude":-75.677949,
     "mz:hierarchy_label":1,
@@ -31,7 +32,7 @@
     "name:eng_x_preferred":[
         "Lowertown"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rideau-Vanier"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,15 +66,15 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":81,
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277895,
+    "wof:lastmodified":1566519016,
     "wof:name":"Lowertown",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

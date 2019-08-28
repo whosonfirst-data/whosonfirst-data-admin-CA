@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
+    "geom:area_square_m":135650.818999,
     "geom:bbox":"-127.6100226,55.4324436,-127.5977694,55.4547719",
     "geom:latitude":55.439053,
     "geom:longitude":-127.601001,
     "iso:country":"CA",
     "lbl:latitude":55.433955,
     "lbl:longitude":-127.600446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.433955,
     "mps:longitude":-127.600446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sidina 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747249,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566519736,
     "wof:name":"Sidina 6",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.086855,
     "lbl:longitude":-101.042209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.086855,
     "mps:longitude":-101.042209,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0438\u0442\u043e\u043d\u0430\u0441"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0861,
     "wd:longitude":-101.039,
     "wd:wordcount":542,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101734729,
-    "wof:lastmodified":1563285293,
+    "wof:lastmodified":1566519915,
     "wof:name":"Minitonas",
     "wof:parent_id":1158868957,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.692974,
     "lbl:longitude":-76.739091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.692974,
     "mps:longitude":-76.739091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Frontenac"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Frontenac",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"3510",
@@ -106,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375131,
-        "qs:id":903214,
+        "qs_pg:id":903214,
         "wk:page":"Frontenac"
     },
     "wof:country":"CA",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890457247,
-    "wof:lastmodified":1564173395,
+    "wof:lastmodified":1566520243,
     "wof:name":"Frontenac",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

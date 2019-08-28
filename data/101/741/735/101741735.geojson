@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
+    "geom:area_square_m":283810.631246,
     "geom:bbox":"-100.7062678,50.7346218,-100.694866,50.7387319",
     "geom:latitude":50.736239,
     "geom:longitude":-100.700565,
     "iso:country":"CA",
     "lbl:latitude":50.736023,
     "lbl:longitude":-100.699995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.736023,
     "mps:longitude":-100.699995,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fishing Station 62A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741735,
-    "wof:lastmodified":1531524998,
+    "wof:lastmodified":1566519884,
     "wof:name":"Fishing Station 62A",
     "wof:parent_id":1158868973,
     "wof:placetype":"locality",

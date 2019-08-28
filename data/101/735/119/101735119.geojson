@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.19933,
     "lbl:longitude":-98.895635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.19933,
     "mps:longitude":-98.895635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pilot Mound"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.2014,
     "wd:longitude":-98.8939,
     "wd:wordcount":188,
@@ -69,7 +72,6 @@
         "fct:id":"03c04694-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6104764,
         "gp:id":3032,
-        "qs:id":160350,
         "qs_pg:id":160350,
         "wd:id":"Q153470",
         "wk:page":"Pilot Mound, Manitoba"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285410,
+    "wof:lastmodified":1566519939,
     "wof:name":"Pilot Mound",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

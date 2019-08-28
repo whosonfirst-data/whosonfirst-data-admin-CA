@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.297715,
     "lbl:longitude":-116.965031,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.297715,
     "mps:longitude":-116.965031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u0644\u062f\u0646"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.3019,
     "wd:longitude":-116.967,
@@ -94,7 +97,6 @@
         "gn:id":5962582,
         "gp:id":9670,
         "nyt:id":"N88922382755998032771",
-        "qs:id":160254,
         "qs_pg:id":160254,
         "wd:id":"Q1020179",
         "wk:page":"Golden, British Columbia"
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101741027,
-    "wof:lastmodified":1563285189,
+    "wof:lastmodified":1566519887,
     "wof:name":"Golden",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",

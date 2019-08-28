@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.680214,
     "lbl:longitude":-105.465462,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.680214,
     "mps:longitude":-105.465462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Watrous"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":536.0,
     "wd:latitude":51.6778,
@@ -69,7 +72,6 @@
         "fct:id":"03c011e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6176928,
         "gp:id":2216,
-        "qs:id":1053615,
         "qs_pg:id":1053615,
         "wd:id":"Q1917524",
         "wk:page":"Watrous, Saskatchewan"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283971,
+    "wof:lastmodified":1566519393,
     "wof:name":"Watrous",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

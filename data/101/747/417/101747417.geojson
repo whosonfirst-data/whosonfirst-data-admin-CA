@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001059,
+    "geom:area_square_m":7339307.932817,
     "geom:bbox":"-98.3118595,55.9060081,-98.2535366,55.9326989",
     "geom:latitude":55.919606,
     "geom:longitude":-98.283153,
     "iso:country":"CA",
     "lbl:latitude":55.918156,
     "lbl:longitude":-98.282598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.918156,
     "mps:longitude":-98.282598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mile 20 Second Revision Indian Reserve"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747417,
-    "wof:lastmodified":1533069716,
+    "wof:lastmodified":1566519719,
     "wof:name":"Mile 20 Second Revision Indian Reserve",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

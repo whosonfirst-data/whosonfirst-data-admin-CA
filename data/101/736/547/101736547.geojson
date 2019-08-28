@@ -9,14 +9,17 @@
     "geom:bbox":"-72.336155697,45.487666343,-72.295375598,45.505278586",
     "geom:latitude":45.496322,
     "geom:longitude":-72.315488,
-    "geonames:id":"6172997,6172998",
+    "gn:id":"6172997,6172998",
     "iso:country":"CA",
     "lbl:latitude":45.496192,
     "lbl:longitude":-72.315489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.496192,
     "mps:longitude":-72.315489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Valcourt"
     ],
@@ -231,7 +234,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191575,
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":101736547,
-    "wof:lastmodified":1563284544,
+    "wof:lastmodified":1566519500,
     "wof:name":"Valcourt",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":25185357.960088,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.016768,43.791165,-80.016768,43.791165",
     "geom:latitude":43.791165,
     "geom:longitude":-80.016768,
     "iso:country":"CA",
+    "lbl:bbox":"-80.021768,43.786165,-80.011768,43.796165",
     "lbl:latitude":43.791165,
     "lbl:longitude":-80.016768,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.790261,
     "mps:longitude":-80.016776,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Belfountain"
     ],
     "name:eng_x_variant":[
-        "Belfountain"
-    ],
-    "name:unk_x_variant":[
         "Belfountain"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,9 +59,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736249,
         85633041,
@@ -92,7 +90,7 @@
         }
     ],
     "wof:id":85895075,
-    "wof:lastmodified":1531931320,
+    "wof:lastmodified":1566518989,
     "wof:name":"Belfountain",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

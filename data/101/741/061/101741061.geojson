@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.256093,
     "lbl:longitude":-122.767685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.256093,
     "mps:longitude":-122.767685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0643\u0648\u0643\u0648\u064a\u062a\u0644\u0627\u0645"
     ],
@@ -171,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1160,
     "wof:belongsto":[
         102191575,
@@ -183,7 +186,6 @@
     "wof:concordances":{
         "gn:id":6111706,
         "gp:id":9809,
-        "qs:id":453317,
         "qs_pg:id":453317,
         "wd:id":"Q643326",
         "wk:page":"Port Coquitlam"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":101741061,
-    "wof:lastmodified":1563285209,
+    "wof:lastmodified":1566519893,
     "wof:name":"Port Coquitlam",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

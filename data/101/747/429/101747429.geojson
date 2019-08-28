@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000973,
+    "geom:area_square_m":6702938.302211,
     "geom:bbox":"-100.1664332,56.1123083,-100.1215618,56.166883",
     "geom:latitude":56.140647,
     "geom:longitude":-100.137189,
     "iso:country":"CA",
     "lbl:latitude":56.134944,
     "lbl:longitude":-100.131233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.134944,
     "mps:longitude":-100.131233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Suwannee Lake Indian Reserve 09924"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747429,
-    "wof:lastmodified":1533070069,
+    "wof:lastmodified":1566519735,
     "wof:name":"Suwannee Lake Indian Reserve 09924",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

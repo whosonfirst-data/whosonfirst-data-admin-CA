@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
+    "geom:area_square_m":603595.109365,
     "geom:bbox":"-126.4520827,49.4691732,-126.4354239,49.4764149",
     "geom:latitude":49.473649,
     "geom:longitude":-126.445792,
     "iso:country":"CA",
     "lbl:latitude":49.473187,
     "lbl:longitude":-126.44779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.473187,
     "mps:longitude":-126.44779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maahpe 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742945,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566520029,
     "wof:name":"Maahpe 4",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

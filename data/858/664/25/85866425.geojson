@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":3590365.384026,
+    "geom:area_square_m":3590365.384021,
     "geom:bbox":"-79.329476939,43.659235487,-79.280018037,43.680811436",
     "geom:latitude":43.67105,
     "geom:longitude":-79.2996,
     "iso:country":"CA",
     "lbl:latitude":43.672135,
     "lbl:longitude":-79.299226,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.665011,
     "mps:longitude":-79.293405,
     "mz:hierarchy_label":1,
@@ -38,26 +39,25 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"The Beaches (63)",
     "torsdfa:AREA_S_CD":"063",
     "wd:latitude":43.6673,
     "wd:longitude":-79.2971,
     "wd:wordcount":2950,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834627,
         85633041,
         101735835,
         1108833321,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6163363,
         "gp:id":26332343,
-        "qs:id":956970,
         "qs_pg:id":956970,
         "wd:id":"Q7715974",
         "wk:page":"The Beaches"
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272676,
+    "wof:lastmodified":1566519013,
     "wof:name":"The Beaches",
     "wof:parent_id":1108834627,
     "wof:placetype":"neighbourhood",

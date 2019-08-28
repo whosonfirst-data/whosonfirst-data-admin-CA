@@ -11,8 +11,10 @@
     "geom:longitude":-83.001264,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-83.006264,42.239913,-82.996264,42.249913",
     "lbl:latitude":42.244913,
     "lbl:longitude":-83.001264,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.242635,
     "mps:longitude":-83.000452,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:srp_x_preferred":[
         "\u0420\u043e\u0443\u0437\u043b\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Roseland"
-    ],
     "name:vol_x_preferred":[
         "Roseland"
     ],
@@ -95,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":143,
     "wof:belongsto":[
         85682057,
@@ -107,7 +106,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856344,
-        "qs:id":1089541,
         "qs_pg:id":1089541
     },
     "wof:country":"CA",
@@ -126,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170835,
+    "wof:lastmodified":1566518996,
     "wof:name":"Roseland",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

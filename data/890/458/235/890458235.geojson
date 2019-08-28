@@ -14,15 +14,18 @@
     "geom:longitude":-110.296084,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.031123,
     "lbl:longitude":-110.296222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.031123,
     "mps:longitude":-110.296222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u062f\u0627\u0632 \u0641\u0627\u0644\u064a"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":6096782,
         "gp:id":8527,
-        "qs:id":530208,
+        "qs_pg:id":530208,
         "wd:id":"Q7134375",
         "wk:page":"Paradise Valley"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890458235,
-    "wof:lastmodified":1563285982,
+    "wof:lastmodified":1566520107,
     "wof:name":"Paradise Valley",
     "wof:parent_id":1158863255,
     "wof:placetype":"locality",

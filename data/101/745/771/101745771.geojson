@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":69262.130705,
     "geom:bbox":"-123.2881555,49.5776431,-123.2813536,49.5794502",
     "geom:latitude":49.578559,
     "geom:longitude":-123.284874,
     "iso:country":"CA",
     "lbl:latitude":49.57849,
     "lbl:longitude":-123.284876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.57849,
     "mps:longitude":-123.284876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kwum Kwum"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745771,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520054,
     "wof:name":"Kwum Kwum",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

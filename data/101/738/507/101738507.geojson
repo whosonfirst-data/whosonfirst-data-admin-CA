@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.643171,
     "lbl:longitude":-74.05989,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.643171,
     "mps:longitude":-74.05989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0628\u064a\u0644\u060c \u0643\u064a\u0628\u0643"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":850,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
         "fct:id":"03bad808-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6075061,
         "gp:id":3523,
-        "qs:id":358572,
         "qs_pg:id":358572,
         "wd:id":"Q141921",
         "wk:page":"Mirabel, Quebec"
@@ -147,7 +149,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284676,
+    "wof:lastmodified":1566519525,
     "wof:name":"Mirabel",
     "wof:parent_id":890456833,
     "wof:placetype":"locality",

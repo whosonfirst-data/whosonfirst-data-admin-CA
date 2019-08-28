@@ -11,8 +11,10 @@
     "geom:longitude":-79.877724,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.882724,43.324113,-79.872724,43.334113",
     "lbl:latitude":43.329113,
     "lbl:longitude":-79.877724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.333431,
     "mps:longitude":-79.87115,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0432'\u044e"
     ],
-    "name:unk_x_variant":[
-        "Bayview"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5911592,
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -103,7 +102,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999339,
-        "qs:id":1190763,
         "qs_pg:id":1190763
     },
     "wof:country":"CA",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170681,
+    "wof:lastmodified":1566518945,
     "wof:name":"Bayview",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

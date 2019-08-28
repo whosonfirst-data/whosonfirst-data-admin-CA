@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.649604,
     "lbl:longitude":-72.681256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.649604,
     "mps:longitude":-72.681256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upton"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.65,
     "wd:longitude":-72.6833,
     "wd:wordcount":119,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101737041,
-    "wof:lastmodified":1563284137,
+    "wof:lastmodified":1566519416,
     "wof:name":"Upton",
     "wof:parent_id":890458081,
     "wof:placetype":"locality",

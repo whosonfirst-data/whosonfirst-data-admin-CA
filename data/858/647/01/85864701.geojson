@@ -9,13 +9,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002644,
-    "geom:area_square_m":23004445.107157,
+    "geom:area_square_m":23004445.107176,
     "geom:bbox":"-75.8057999999,45.2475247921,-75.709738,45.3030269997",
     "geom:latitude":45.27368,
     "geom:longitude":-75.759043,
     "iso:country":"CA",
     "lbl:latitude":45.275469,
     "lbl:longitude":-75.752067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.273638,
     "mps:longitude":-75.759145,
     "mz:hierarchy_label":1,
@@ -35,24 +36,23 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":100.0,
     "wd:latitude":45.275,
     "wd:longitude":-75.75,
     "wd:wordcount":1967,
     "wof:belongsto":[
-        85682057,
         102191575,
         1125922669,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5894162,
         "gp:id":23401789,
-        "qs:id":487677,
         "qs_pg:id":487677,
         "wd:id":"Q4863459",
         "wk:page":"Barrhaven"
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533277889,
+    "wof:lastmodified":1566519007,
     "wof:name":"Barrhaven",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

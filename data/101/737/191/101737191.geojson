@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.717408,
     "lbl:longitude":-74.660411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.717408,
     "mps:longitude":-74.660411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u0641\u064a\u0644 \u0633\u0648\u0631 \u0644\u0627 \u0631\u0648\u062c"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":962,
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101737191,
-    "wof:lastmodified":1563284227,
+    "wof:lastmodified":1566519438,
     "wof:name":"Grenville-sur-la-Rouge",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

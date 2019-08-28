@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":893421.840473,
+    "geom:area_square_m":893421.840472,
     "geom:bbox":"-97.101365,49.898935,-97.069355,49.906689",
     "geom:latitude":49.90306,
     "geom:longitude":-97.081772,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.90312,
     "lbl:longitude":-97.08164,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.902256,
     "mps:longitude":-97.077446,
     "mz:hierarchy_label":1,
@@ -35,19 +36,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968503,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402392,
-        "qs:id":1087679,
         "qs_pg:id":1087679
     },
     "wof:country":"CA",
@@ -67,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523920,
+    "wof:lastmodified":1566519006,
     "wof:name":"East Elmwood",
     "wof:parent_id":1108968503,
     "wof:placetype":"neighbourhood",

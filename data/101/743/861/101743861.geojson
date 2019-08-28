@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9353.335921,
     "geom:bbox":"-123.7186596,49.1295164,-123.7167535,49.1312555",
     "geom:latitude":49.130443,
     "geom:longitude":-123.717598,
     "iso:country":"CA",
     "lbl:latitude":49.130863,
     "lbl:longitude":-123.717974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.130863,
     "mps:longitude":-123.717974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gabriola Island 5"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":5958891,
         "gp:id":9815,
-        "qs:id":362947,
         "qs_pg:id":362947
     },
     "wof:country":"CA",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101743861,
-    "wof:lastmodified":1533335884,
+    "wof:lastmodified":1566519990,
     "wof:name":"Gabriola Island 5",
     "wof:parent_id":890457881,
     "wof:placetype":"locality",

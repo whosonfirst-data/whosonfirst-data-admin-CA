@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079557,
-    "geom:area_square_m":713840288.96701,
+    "geom:area_square_m":713840288.966922,
     "geom:bbox":"-81.1330566,43.2901993,-80.7357885,43.6989841",
     "geom:latitude":43.477965,
     "geom:longitude":-80.907966,
     "iso:country":"CA",
     "lbl:latitude":43.472805,
     "lbl:longitude":-80.944077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.472805,
     "mps:longitude":-80.944077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062b \u0623\u064a\u0633\u062a"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1671,
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101735895,
-    "wof:lastmodified":1533270093,
+    "wof:lastmodified":1566519928,
     "wof:name":"Perth East",
     "wof:parent_id":890456811,
     "wof:placetype":"locality",

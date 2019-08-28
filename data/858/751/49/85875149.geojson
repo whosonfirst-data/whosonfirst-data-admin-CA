@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.953076,
     "lbl:longitude":-78.898569,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.961436,
     "mps:longitude":-78.90317,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Windfields"
     ],
     "name:ita_x_preferred":[
-        "Windfields"
-    ],
-    "name:unk_x_variant":[
         "Windfields"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":318,
     "wof:belongsto":[
         85682057,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856349,
-        "qs:id":381514,
         "qs_pg:id":381514,
         "wd:id":"Q8024160"
     },
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282078,
+    "wof:lastmodified":1566518996,
     "wof:name":"Windfields",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

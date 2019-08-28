@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.327213,
     "lbl:longitude":-122.986135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.352917,
     "mps:longitude":-122.993413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0412\u0430\u043d \u0413\u043e\u0433"
     ],
@@ -637,7 +640,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11421,
     "wof:belongsto":[
         102191575,
@@ -661,7 +664,7 @@
         }
     ],
     "wof:id":101741071,
-    "wof:lastmodified":1563285144,
+    "wof:lastmodified":1566519864,
     "wof:name":"North Vancouver",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

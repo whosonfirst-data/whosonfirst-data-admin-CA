@@ -9,14 +9,17 @@
     "geom:bbox":"-83.0118417,41.7551011,-82.8018419,42.1845292",
     "geom:latitude":41.98256,
     "geom:longitude":-82.908364,
-    "geonames:id":"5949534,5949531",
+    "gn:id":"5949534,5949531",
     "iso:country":"CA",
     "lbl:latitude":41.979902,
     "lbl:longitude":-82.916902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.979902,
     "mps:longitude":-82.916902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u064a\u0643\u0633\u060c \u0623\u0648\u0646\u062a\u0627\u0631\u064a\u0648"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101736103,
-    "wof:lastmodified":1563284345,
+    "wof:lastmodified":1566519456,
     "wof:name":"Essex",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

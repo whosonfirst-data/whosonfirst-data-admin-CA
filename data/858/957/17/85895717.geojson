@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4086973.66449,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.454733,45.729293,-73.454733,45.729293",
     "geom:latitude":45.729293,
     "geom:longitude":-73.454733,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.459733,45.724293,-73.449733,45.734293",
     "lbl:latitude":45.729293,
     "lbl:longitude":-73.454733,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.72435,
     "mps:longitude":-73.454752,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u043c\u0435\u043d-\u0434\u044e-\u0420\u0443\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Chemin du Roy"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -71,19 +70,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":200,
     "wof:belongsto":[
+        136251273,
         102191575,
         85633041,
         101737691,
-        890457825,
-        136251273
+        890457825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999675,
-        "qs:id":468423,
         "qs_pg:id":468423
     },
     "wof:country":"CA",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931476,
+    "wof:lastmodified":1566518991,
     "wof:name":"Chemin du Roy",
     "wof:parent_id":101737691,
     "wof:placetype":"neighbourhood",

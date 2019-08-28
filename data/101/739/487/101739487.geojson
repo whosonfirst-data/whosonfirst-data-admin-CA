@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.655327,
     "lbl:longitude":-102.070919,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.655327,
     "mps:longitude":-102.070919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0441\u0442\u0435\u0440\u0445\u0430\u0437\u0439"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.65,
     "wd:longitude":-102.067,
@@ -83,7 +86,6 @@
         "fct:id":"03c0261e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5949563,
         "gp:id":2502,
-        "qs:id":943346,
         "qs_pg:id":943346,
         "wd:id":"Q727984",
         "wk:page":"Esterhazy, Saskatchewan"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284062,
+    "wof:lastmodified":1566519406,
     "wof:name":"Esterhazy",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

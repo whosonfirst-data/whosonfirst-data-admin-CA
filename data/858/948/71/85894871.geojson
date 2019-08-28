@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002111,
-    "geom:area_square_m":17056871.948384,
+    "geom:area_square_m":17056871.948386,
     "geom:bbox":"-123.231986247,49.1773687,-123.1351767,49.2289972243",
     "geom:latitude":49.197335,
     "geom:longitude":-123.17673,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.196168,
     "lbl:longitude":-123.182492,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.21269,
     "mps:longitude":-123.247509,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Sea Island"
     ],
     "name:swe_x_preferred":[
-        "Sea Island"
-    ],
-    "name:unk_x_variant":[
         "Sea Island"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -73,19 +71,18 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":58,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741081,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998896,
-        "qs:id":1090806,
         "qs_pg:id":1090806
     },
     "wof:country":"CA",
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521045,
+    "wof:lastmodified":1566518970,
     "wof:name":"Sea Island",
     "wof:parent_id":101741081,
     "wof:placetype":"neighbourhood",

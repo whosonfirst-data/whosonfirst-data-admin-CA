@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005075,
+    "geom:area_square_m":37892617.448138,
     "geom:bbox":"-89.136591,52.8309962,-89.0075541,52.8938548",
     "geom:latitude":52.852669,
     "geom:longitude":-89.071914,
     "iso:country":"CA",
     "lbl:latitude":52.852439,
     "lbl:longitude":-89.092479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.852439,
     "mps:longitude":-89.092479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wunnumin Indian Reserve No. 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741289,
-    "wof:lastmodified":1533335665,
+    "wof:lastmodified":1566519861,
     "wof:name":"Wunnumin Indian Reserve No. 2",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

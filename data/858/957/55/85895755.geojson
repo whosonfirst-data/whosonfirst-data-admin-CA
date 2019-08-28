@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4651698.473939,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.717842,45.363131,-73.717842,45.363131",
     "geom:latitude":45.363131,
     "geom:longitude":-73.717842,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.722842,45.358131,-73.712842,45.368131",
     "lbl:latitude":45.363131,
     "lbl:longitude":-73.717842,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.362665,
     "mps:longitude":-73.718525,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Boulevard Saint Jean-Baptiste"
     ],
     "name:fra_x_preferred":[
-        "Boulevard Saint Jean-Baptiste"
-    ],
-    "name:unk_x_variant":[
         "Boulevard Saint Jean-Baptiste"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -72,8 +71,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332800,
-        "qs:id":468432,
         "qs_pg:id":425452
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":468432
     },
     "wof:country":"CA",
     "wof:geomhash":"1e834e9a1391ff215d0076faa8eec7ac",
@@ -91,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531931485,
+    "wof:lastmodified":1566518992,
     "wof:name":"Boulevard Saint Jean-Baptiste",
     "wof:parent_id":101738001,
     "wof:placetype":"neighbourhood",

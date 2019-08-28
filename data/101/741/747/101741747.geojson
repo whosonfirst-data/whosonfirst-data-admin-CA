@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006097,
+    "geom:area_square_m":47211629.357188,
     "geom:bbox":"-101.0353415,51.1991603,-100.8831946,51.2578403",
     "geom:latitude":51.230905,
     "geom:longitude":-100.940645,
     "iso:country":"CA",
     "lbl:latitude":51.219725,
     "lbl:longitude":-100.945486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.219725,
     "mps:longitude":-100.945486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valley River 63A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101741747,
-    "wof:lastmodified":1531524999,
+    "wof:lastmodified":1566519879,
     "wof:name":"Valley River 63A",
     "wof:parent_id":1158868973,
     "wof:placetype":"locality",

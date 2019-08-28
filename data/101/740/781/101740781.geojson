@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.638391,
     "lbl:longitude":-121.325538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.638391,
     "mps:longitude":-121.325538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "100 Mile House"
     ],
@@ -38,7 +41,7 @@
         "100 Mile House"
     ],
     "name:urd_x_preferred":[
-        "100 \u0645\u0627\u0626\u0644  \u06c1\u0627\u0624\u0633\u060c \u0628\u0631\u0679\u0634 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+        "100 \u0645\u0627\u0626\u0644 \u06c1\u0627\u0624\u0633\u060c \u0628\u0631\u0679\u0634 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":927.0,
     "wd:latitude":51.641944,
     "wd:longitude":-121.297222,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":5881639,
         "gp:id":9604,
-        "qs:id":160211,
         "qs_pg:id":160211,
         "wd:id":"Q165174",
         "wk:page":"100 Mile House"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101740781,
-    "wof:lastmodified":1563284882,
+    "wof:lastmodified":1566519585,
     "wof:name":"100 Mile House",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

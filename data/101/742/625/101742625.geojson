@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
+    "geom:area_square_m":737407.923707,
     "geom:bbox":"-106.1325695,52.7752959,-106.0771997,52.7773199",
     "geom:latitude":52.776316,
     "geom:longitude":-106.104862,
     "iso:country":"CA",
     "lbl:latitude":52.776367,
     "lbl:longitude":-106.092337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.776367,
     "mps:longitude":-106.092337,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "One Arrow I.R. 95-1B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742625,
-    "wof:lastmodified":1531524565,
+    "wof:lastmodified":1566520023,
     "wof:name":"One Arrow I.R. 95-1B",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

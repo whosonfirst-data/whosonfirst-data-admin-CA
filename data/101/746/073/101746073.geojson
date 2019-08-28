@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
+    "geom:area_square_m":49842.575581,
     "geom:bbox":"-110.9204754,58.4128432,-110.916536,58.4151886",
     "geom:latitude":58.413932,
     "geom:longitude":-110.918203,
     "iso:country":"CA",
     "lbl:latitude":58.414016,
     "lbl:longitude":-110.918197,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.414016,
     "mps:longitude":-110.918197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chipewyan 201D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746073,
-    "wof:lastmodified":1533250163,
+    "wof:lastmodified":1566519835,
     "wof:name":"Chipewyan 201D",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

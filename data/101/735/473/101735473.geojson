@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":70.521216,
     "lbl:longitude":-68.616449,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":70.521216,
     "mps:longitude":-68.616449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0643\u0644\u0627\u064a\u062f\u060c \u0646\u0648\u0646\u0627\u0641\u0648\u062a"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":27.0,
     "wd:latitude":70.4739,
@@ -179,10 +182,12 @@
         "fct:id":"03c0aa9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5924351,
         "gp:id":4340,
-        "qs:id":614632,
-        "qs_pg:id":975632,
+        "qs_pg:id":614632,
         "wd:id":"Q201351",
         "wk:page":"Clyde River, Nunavut"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":975632
     },
     "wof:country":"CA",
     "wof:geomhash":"e9de1d7ab5a1c6ace7c0dc3920d09a27",
@@ -199,7 +204,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285463,
+    "wof:lastmodified":1566519949,
     "wof:name":"Clyde River",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

@@ -14,15 +14,18 @@
     "geom:longitude":-114.234009,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":50.530354,
     "lbl:longitude":-114.233868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.530354,
     "mps:longitude":-114.233868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u063a\u0641\u064a\u0648"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":165,
     "wof:belongsto":[
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":6059898,
         "gp:id":8793,
-        "qs:id":160293,
+        "qs_pg:id":160293,
         "wd:id":"Q6674405",
         "wk:page":"Longview"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890458183,
-    "wof:lastmodified":1563286111,
+    "wof:lastmodified":1566520141,
     "wof:name":"Longview",
     "wof:parent_id":1158863173,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-82.354955,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-82.359955,43.003356,-82.349955,43.013356",
     "lbl:latitude":43.008356,
     "lbl:longitude":-82.354955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.011805,
     "mps:longitude":-82.361571,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:swe_x_preferred":[
         "Twin Lakes"
     ],
-    "name:unk_x_variant":[
-        "Twin Lakes"
-    ],
     "name:vol_x_preferred":[
         "Twin Lakes"
     ],
@@ -94,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736007,
@@ -105,7 +104,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856676,
-        "qs:id":1063759,
         "qs_pg:id":1063759
     },
     "wof:country":"CA",
@@ -130,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170666,
+    "wof:lastmodified":1566518940,
     "wof:name":"Twin Lakes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

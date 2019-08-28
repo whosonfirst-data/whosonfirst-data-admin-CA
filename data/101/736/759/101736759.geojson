@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.506172,
     "lbl:longitude":-73.117585,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.506172,
     "mps:longitude":-73.117585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Jean-Baptiste"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":207,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":6138433,
         "gp:id":23396562,
-        "qs:id":244885,
+        "qs_pg:id":244885,
         "wd:id":"Q3462497",
         "wk:page":"Saint-Jean-Baptiste, Quebec"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101736759,
-    "wof:lastmodified":1563284488,
+    "wof:lastmodified":1566519488,
     "wof:name":"Saint-Jean-Baptiste",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

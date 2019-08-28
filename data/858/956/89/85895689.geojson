@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":37474966.317231,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.185341,43.825052,-79.185341,43.825052",
     "geom:latitude":43.825052,
     "geom:longitude":-79.185341,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.190341,43.820052,-79.180341,43.830052",
     "lbl:latitude":43.825052,
     "lbl:longitude":-79.185341,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.818674,
     "mps:longitude":-79.186196,
     "mz:hierarchy_label":0,
@@ -38,20 +40,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Rouge (131)",
     "torsdfa:AREA_S_CD":"131",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999642,
-        "qs:id":1090825,
         "qs_pg:id":1090825,
         "wd:id":"Q7370766"
     },
@@ -73,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931470,
+    "wof:lastmodified":1566518997,
     "wof:name":"Rouge",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.303804,
     "lbl:longitude":-79.276241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.303804,
     "mps:longitude":-79.276241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u062a\u0633\u0641\u064a\u0644"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2378,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":5978765,
         "gp:id":3326,
-        "qs:id":453169,
         "qs_pg:id":453169,
         "wd:id":"Q1024091",
         "wk:page":"Huntsville, Ontario"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101736069,
-    "wof:lastmodified":1563284533,
+    "wof:lastmodified":1566519498,
     "wof:name":"Huntsville",
     "wof:parent_id":890458545,
     "wof:placetype":"locality",

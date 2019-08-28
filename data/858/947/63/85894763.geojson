@@ -11,8 +11,10 @@
     "geom:longitude":-122.266615,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.271615,49.055919,-122.261615,49.065919",
     "lbl:latitude":49.060919,
     "lbl:longitude":-122.266615,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.057265,
     "mps:longitude":-122.252881,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:swe_x_preferred":[
         "Abbotsford"
     ],
-    "name:unk_x_variant":[
-        "Abbotsford"
-    ],
     "name:vol_x_preferred":[
         "Abbotsford"
     ],
@@ -104,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":152,
     "wof:belongsto":[
         85682117,
@@ -116,7 +115,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998836,
-        "qs:id":19545,
         "qs_pg:id":19545
     },
     "wof:country":"CA",
@@ -135,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170785,
+    "wof:lastmodified":1566518979,
     "wof:name":"Abbotsford",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

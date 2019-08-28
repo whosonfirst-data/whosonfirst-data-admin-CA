@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7207774.058358,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.963116,49.175811,-123.963116,49.175811",
     "geom:latitude":49.175811,
     "geom:longitude":-123.963116,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.968116,49.170811,-123.958116,49.180811",
     "lbl:latitude":49.175811,
     "lbl:longitude":-123.963116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.176447,
     "mps:longitude":-123.974552,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Central Nanaimo"
-    ],
-    "name:unk_x_variant":[
         "Central Nanaimo"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856715,
-        "qs:id":381682,
         "qs_pg:id":381682
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872179,
+    "wof:lastmodified":1566518993,
     "wof:name":"Central Nanaimo",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

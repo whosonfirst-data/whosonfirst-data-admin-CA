@@ -11,12 +11,16 @@
     "geom:longitude":-64.720014,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CA",
+    "lbl:bbox":"-64.7400136735,44.0199591258,-64.7000136735,44.0599591258",
     "lbl:latitude":44.039959,
     "lbl:longitude":-64.720014,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0631\u0628\u0648\u0644\u060c \u0646\u0648\u0641\u0627 \u0633\u0643\u0648\u062a\u064a\u0627"
     ],
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":6057856,
         "gp:id":4186,
-        "qs:id":240935,
+        "qs_pg:id":240935,
         "wd:id":"Q1866453",
         "wk:page":"Liverpool"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":1141906685,
-    "wof:lastmodified":1563288075,
+    "wof:lastmodified":1566520625,
     "wof:name":"Liverpool",
     "wof:parent_id":890456819,
     "wof:placetype":"locality",

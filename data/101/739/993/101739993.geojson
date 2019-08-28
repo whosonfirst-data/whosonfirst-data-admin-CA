@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.282305,
     "lbl:longitude":-103.584771,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":53.282305,
     "mps:longitude":-103.584771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Carrot River"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.2833,
     "wd:longitude":-103.583,
@@ -71,7 +74,6 @@
         "fct:id":"03c018fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5917605,
         "gp:id":2350,
-        "qs:id":1189560,
         "qs_pg:id":1189560,
         "wd:id":"Q1134786",
         "wk:page":"Carrot River, Saskatchewan"
@@ -91,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284038,
+    "wof:lastmodified":1566519403,
     "wof:name":"Carrot River",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

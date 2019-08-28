@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18601749.9729,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.665229,44.403377,-79.665229,44.403377",
     "geom:latitude":44.403377,
     "geom:longitude":-79.665229,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.670229,44.398377,-79.660229,44.408377",
     "lbl:latitude":44.403377,
     "lbl:longitude":-79.665229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.407619,
     "mps:longitude":-79.652377,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "East End"
-    ],
-    "name:unk_x_variant":[
         "East End"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856412,
-        "qs:id":1089558,
         "qs_pg:id":1089558
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872057,
+    "wof:lastmodified":1566518940,
     "wof:name":"East End",
     "wof:parent_id":101735527,
     "wof:placetype":"neighbourhood",

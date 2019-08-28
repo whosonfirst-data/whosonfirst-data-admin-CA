@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001138,
+    "geom:area_square_m":8370323.715562,
     "geom:bbox":"-102.9076036,53.4847608,-102.8494826,53.5066703",
     "geom:latitude":53.494862,
     "geom:longitude":-102.876202,
     "iso:country":"CA",
     "lbl:latitude":53.49572,
     "lbl:longitude":-102.876202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.49572,
     "mps:longitude":-102.876202,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carrot River I.R. 29A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742265,
-    "wof:lastmodified":1531523850,
+    "wof:lastmodified":1566520026,
     "wof:name":"Carrot River I.R. 29A",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

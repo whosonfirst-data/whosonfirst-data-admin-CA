@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6042642.595868,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.503007,45.40622,-73.503007,45.40622",
     "geom:latitude":45.40622,
     "geom:longitude":-73.503007,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-73.508007,45.40122,-73.498007,45.41122",
     "lbl:latitude":45.40622,
     "lbl:longitude":-73.503007,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.402529,
     "mps:longitude":-73.504153,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Le Christ Roi"
     ],
     "name:fra_x_preferred":[
-        "Le Christ Roi"
-    ],
-    "name:unk_x_variant":[
         "Le Christ Roi"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856817,
-        "qs:id":49065,
         "qs_pg:id":49065
     },
     "wof:country":"CA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531872229,
+    "wof:lastmodified":1566519003,
     "wof:name":"Le Christ Roi",
     "wof:parent_id":101736521,
     "wof:placetype":"neighbourhood",

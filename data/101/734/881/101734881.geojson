@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.385004,
     "lbl:longitude":-97.259787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.385004,
     "mps:longitude":-97.259787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Teulon"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.3858,
     "wd:longitude":-97.2611,
     "wd:wordcount":545,
@@ -72,7 +75,6 @@
         "fct:id":"03c02cb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6163170,
         "gp:id":2584,
-        "qs:id":965377,
         "qs_pg:id":965377,
         "wd:id":"Q86366",
         "wk:page":"Teulon"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285248,
+    "wof:lastmodified":1566519907,
     "wof:name":"Teulon",
     "wof:parent_id":1158868965,
     "wof:placetype":"locality",

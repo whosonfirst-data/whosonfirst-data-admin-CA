@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.271722,
     "lbl:longitude":-73.436262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.271722,
     "mps:longitude":-73.436262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Jacques-le-Mineur"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":155,
     "wof:belongsto":[
         102191575,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":6138419,
         "gp:id":23396561,
-        "qs:id":312261,
+        "qs_pg:id":312261,
         "wd:id":"Q3462475",
         "wk:page":"Saint-Jacques-le-Mineur, Quebec"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101737981,
-    "wof:lastmodified":1563284332,
+    "wof:lastmodified":1566519455,
     "wof:name":"Saint-Jacques-le-Mineur",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

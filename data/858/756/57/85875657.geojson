@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6037149.571235,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.774498,53.906486,-122.774498,53.906486",
     "geom:latitude":53.906486,
     "geom:longitude":-122.774498,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.779498,53.901486,-122.769498,53.911486",
     "lbl:latitude":53.906486,
     "lbl:longitude":-122.774498,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.920367,
     "mps:longitude":-122.809517,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "The Bowl"
-    ],
-    "name:unk_x_variant":[
         "The Bowl"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,21 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[
         85874147
     ],
     "wof:concordances":{
         "gp:id":55856733,
-        "qs:id":381699,
         "qs_pg:id":381699
     },
     "wof:country":"CA",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872188,
+    "wof:lastmodified":1566518992,
     "wof:name":"The Bowl",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

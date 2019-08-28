@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.489109,
     "lbl:longitude":-82.593773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.489109,
     "mps:longitude":-82.593773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Val Rita-Harty"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":184,
     "wof:belongsto":[
         102191575,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101735563,
-    "wof:lastmodified":1563285426,
+    "wof:lastmodified":1566519942,
     "wof:name":"Val Rita-Harty",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

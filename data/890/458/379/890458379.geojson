@@ -14,16 +14,18 @@
     "geom:longitude":-114.469134,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":16365,
     "gn:population":16365,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.176602,
     "lbl:longitude":-114.469127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.176602,
     "mps:longitude":-114.469127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Cochrane"
     ],
@@ -102,7 +104,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -115,7 +117,7 @@
     "wof:concordances":{
         "gn:id":5924618,
         "gp:id":8768,
-        "qs:id":160232,
+        "qs_pg:id":160232,
         "wd:id":"Q1105163",
         "wk:page":"Cochrane"
     },
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":890458379,
-    "wof:lastmodified":1563286000,
+    "wof:lastmodified":1566520110,
     "wof:name":"Cochrane",
     "wof:parent_id":1158863227,
     "wof:placetype":"locality",

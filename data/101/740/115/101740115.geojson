@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.519456,
     "lbl:longitude":-102.218224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.519456,
     "mps:longitude":-102.218224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sliding Hills No. 273"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101740115,
-    "wof:lastmodified":1561844396,
+    "wof:lastmodified":1566519584,
     "wof:name":"Sliding Hills No. 273",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

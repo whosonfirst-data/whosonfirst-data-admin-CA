@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
+    "geom:area_square_m":337228.291847,
     "geom:bbox":"-123.6437792,49.0381696,-123.6297587,49.0441036",
     "geom:latitude":49.041285,
     "geom:longitude":-123.637493,
     "iso:country":"CA",
     "lbl:latitude":49.041669,
     "lbl:longitude":-123.637497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.041669,
     "mps:longitude":-123.637497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shingle Point 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743847,
-    "wof:lastmodified":1533335884,
+    "wof:lastmodified":1566519999,
     "wof:name":"Shingle Point 4",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

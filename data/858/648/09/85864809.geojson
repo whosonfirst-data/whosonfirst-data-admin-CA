@@ -11,8 +11,10 @@
     "geom:longitude":-106.695294,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.700294,52.12181,-106.690294,52.13181",
     "lbl:latitude":52.12681,
     "lbl:longitude":-106.695294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.112902,
     "mps:longitude":-106.709489,
     "mz:hierarchy_label":0,
@@ -75,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         1126115063,
@@ -87,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23403619,
-        "qs:id":230516,
         "qs_pg:id":230516
     },
     "wof:country":"CA",
@@ -107,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170872,
+    "wof:lastmodified":1566519010,
     "wof:name":"Pleasant Hill",
     "wof:parent_id":1126115063,
     "wof:placetype":"neighbourhood",

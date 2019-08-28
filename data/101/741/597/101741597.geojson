@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
+    "geom:area_square_m":1335454.508723,
     "geom:bbox":"-113.4406426,52.7507551,-113.4263108,52.7632375",
     "geom:latitude":52.756996,
     "geom:longitude":-113.433481,
     "iso:country":"CA",
     "lbl:latitude":52.756995,
     "lbl:longitude":-113.433481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.756995,
     "mps:longitude":-113.433481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samson 137A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741597,
-    "wof:lastmodified":1533250159,
+    "wof:lastmodified":1566519884,
     "wof:name":"Samson 137A",
     "wof:parent_id":1158863221,
     "wof:placetype":"locality",

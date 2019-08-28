@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":28613.555883,
     "geom:bbox":"-127.6069706,55.4289802,-127.6028923,55.4345333",
     "geom:latitude":55.431606,
     "geom:longitude":-127.605108,
     "iso:country":"CA",
     "lbl:latitude":55.430174,
     "lbl:longitude":-127.606204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.430174,
     "mps:longitude":-127.606204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kis-An-Usko 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746597,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566519832,
     "wof:name":"Kis-An-Usko 7",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

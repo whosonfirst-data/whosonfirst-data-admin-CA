@@ -10,8 +10,10 @@
     "geom:latitude":43.590774,
     "geom:longitude":-79.617502,
     "iso:country":"CA",
+    "lbl:bbox":"-79.622502,43.585774,-79.612502,43.595774",
     "lbl:latitude":43.590774,
     "lbl:longitude":-79.617502,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.595103,
     "mps:longitude":-79.617782,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Mississauga Centre"
-    ],
-    "name:unk_x_variant":[
-        "Mississauga Valleys"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":445,
     "wof:belongsto":[
         102191575,
@@ -78,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6075364,
         "gp:id":55999208,
-        "qs:id":1101952,
         "qs_pg:id":1101952,
         "wd:id":"Q975611"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281864,
+    "wof:lastmodified":1566518952,
     "wof:name":"Mississauga Valleys",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001686,
+    "geom:area_square_m":13619634.402166,
     "geom:bbox":"-94.4133445,49.1961035,-94.314255,49.237323",
     "geom:latitude":49.217289,
     "geom:longitude":-94.369263,
     "iso:country":"CA",
     "lbl:latitude":49.202848,
     "lbl:longitude":-94.392064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.202848,
     "mps:longitude":-94.392064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Of The Woods Indian Reserve No. 35J"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741191,
-    "wof:lastmodified":1533335659,
+    "wof:lastmodified":1566519883,
     "wof:name":"Lake Of The Woods Indian Reserve No. 35J",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

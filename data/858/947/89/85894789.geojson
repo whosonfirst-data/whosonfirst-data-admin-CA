@@ -11,8 +11,10 @@
     "geom:longitude":-122.646993,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.651993,49.214698,-122.641993,49.224698",
     "lbl:latitude":49.219698,
     "lbl:longitude":-122.646993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.221965,
     "mps:longitude":-122.649477,
     "mz:hierarchy_label":0,
@@ -81,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043c\u043c\u043e\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Hammond"
-    ],
     "name:vol_x_preferred":[
         "Hammond"
     ],
@@ -116,7 +115,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":257,
     "wof:belongsto":[
         85682117,
@@ -128,7 +127,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998853,
-        "qs:id":230997,
         "qs_pg:id":230997
     },
     "wof:country":"CA",
@@ -147,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170782,
+    "wof:lastmodified":1566518979,
     "wof:name":"Hammond",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

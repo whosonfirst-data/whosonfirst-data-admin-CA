@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.801464,
     "lbl:longitude":-108.878843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.801464,
     "mps:longitude":-108.878843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0646\u0633\u0631"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":142,
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
         "fct:id":"03ba612a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6049191,
         "gp:id":2279,
-        "qs:id":160286,
         "qs_pg:id":160286,
         "wd:id":"Q2085237",
         "wk:page":"Lancer, Saskatchewan"
@@ -87,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284743,
+    "wof:lastmodified":1566519539,
     "wof:name":"Lancer",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

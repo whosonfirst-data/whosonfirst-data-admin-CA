@@ -10,8 +10,10 @@
     "geom:latitude":43.503715,
     "geom:longitude":-79.658825,
     "iso:country":"CA",
+    "lbl:bbox":"-79.663825,43.498715,-79.653825,43.508715",
     "lbl:latitude":43.503715,
     "lbl:longitude":-79.658825,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.500188,
     "mps:longitude":-79.664038,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:spa_x_preferred":[
         "Clearview"
     ],
-    "name:unk_x_variant":[
-        "Clearview"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6092122,
@@ -79,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735889,
@@ -119,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282098,
+    "wof:lastmodified":1566519000,
     "wof:name":"Clearview",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

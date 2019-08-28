@@ -17,10 +17,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.836493,
     "lbl:longitude":-112.725697,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.836493,
     "mps:longitude":-112.725697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062b\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -136,7 +139,7 @@
     "reversegeo:longitude":-112.725697,
     "src:geom":"can-abog",
     "src:population":"wd",
-    "src:population:date":"2016",
+    "src:population_date":"2016",
     "wd:date":"1954-01-01",
     "wd:population":10353,
     "wof:belongsto":[
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1158863203,
-    "wof:lastmodified":1564173837,
+    "wof:lastmodified":1566520451,
     "wof:name":"Lethbridge",
     "wof:parent_id":85682091,
     "wof:placetype":"county",

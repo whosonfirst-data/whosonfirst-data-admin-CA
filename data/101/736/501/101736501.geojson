@@ -9,14 +9,17 @@
     "geom:bbox":"-77.560913088,48.14650327,-77.078372164,48.575213812",
     "geom:latitude":48.366412,
     "geom:longitude":-77.311954,
-    "geonames:id":"6144195,6144197",
+    "gn:id":"6144195,6144197",
     "iso:country":"CA",
     "lbl:latitude":48.496928,
     "lbl:longitude":-77.2351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.496928,
     "mps:longitude":-77.2351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Senneterre"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":844,
     "wof:belongsto":[
         102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101736501,
-    "wof:lastmodified":1563284466,
+    "wof:lastmodified":1566519485,
     "wof:name":"Senneterre",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

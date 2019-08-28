@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000449,
-    "geom:area_square_m":3635213.218255,
+    "geom:area_square_m":3635213.218256,
     "geom:bbox":"-123.113730445,49.0724708201,-123.069925179,49.0950494462",
     "geom:latitude":49.083781,
     "geom:longitude":-123.091439,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.085657,
     "lbl:longitude":-123.096915,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.085958,
     "mps:longitude":-123.098645,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Ladner"
-    ],
-    "name:unk_x_variant":[
-        "Downtown Ladner"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -68,19 +66,18 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":56,
     "wof:belongsto":[
+        85682117,
         102191575,
         85633041,
         101741003,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998872,
-        "qs:id":899531,
         "qs_pg:id":899531
     },
     "wof:country":"CA",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521035,
+    "wof:lastmodified":1566518970,
     "wof:name":"Ladner",
     "wof:parent_id":101741003,
     "wof:placetype":"neighbourhood",

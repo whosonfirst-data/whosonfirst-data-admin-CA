@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":5862.110963,
     "geom:bbox":"-123.8562581,50.1627166,-123.8546117,50.1633063",
     "geom:latitude":50.163046,
     "geom:longitude":-123.855508,
     "iso:country":"CA",
     "lbl:latitude":50.163007,
     "lbl:longitude":-123.855372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.163007,
     "mps:longitude":-123.855372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sechelt Band Lands (Swaywelat) No 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747831,
-    "wof:lastmodified":1533335926,
+    "wof:lastmodified":1566519739,
     "wof:name":"Sechelt Band Lands (Swaywelat) No 12",
     "wof:parent_id":890456829,
     "wof:placetype":"locality",

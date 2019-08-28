@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":69.374333,
     "lbl:longitude":-81.62112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":69.374333,
     "mps:longitude":-81.62112,
     "mz:hierarchy_label":1,
@@ -258,7 +260,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":53.0,
     "wd:latitude":69.3761,
     "wd:longitude":-81.7994,
@@ -294,7 +296,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285368,
+    "wof:lastmodified":1566519930,
     "wof:name":"Igloolik",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

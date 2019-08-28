@@ -14,16 +14,18 @@
     "geom:longitude":-114.087326,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":10518,
     "gn:population":10518,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.298586,
     "lbl:longitude":-114.088322,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.298586,
     "mps:longitude":-114.088322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Sylvan Lake"
     ],
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -88,7 +90,7 @@
     "wof:concordances":{
         "gn:id":6160806,
         "gp:id":8733,
-        "qs:id":898322,
+        "qs_pg:id":898322,
         "wd:id":"Q2046751",
         "wk:page":"Sylvan Lake"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":890456647,
-    "wof:lastmodified":1563286268,
+    "wof:lastmodified":1566520182,
     "wof:name":"Sylvan Lake",
     "wof:parent_id":1158863225,
     "wof:placetype":"locality",

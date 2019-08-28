@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
+    "geom:area_square_m":1792638.043812,
     "geom:bbox":"-122.4912685,50.5418603,-122.4654452,50.5537379",
     "geom:latitude":50.546604,
     "geom:longitude":-122.479131,
     "iso:country":"CA",
     "lbl:latitude":50.545908,
     "lbl:longitude":-122.477951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.545908,
     "mps:longitude":-122.477951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nequatque 1"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744689,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566519967,
     "wof:name":"Nequatque 1",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

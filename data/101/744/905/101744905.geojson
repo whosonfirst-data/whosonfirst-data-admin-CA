@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
+    "geom:area_square_m":1210545.809039,
     "geom:bbox":"-122.623634,52.4975227,-122.6087895,52.5083894",
     "geom:latitude":52.502957,
     "geom:longitude":-122.61621,
     "iso:country":"CA",
     "lbl:latitude":52.502956,
     "lbl:longitude":-122.61621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.502956,
     "mps:longitude":-122.61621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mckay Meadow 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744905,
-    "wof:lastmodified":1533335901,
+    "wof:lastmodified":1566519975,
     "wof:name":"Mckay Meadow 4",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

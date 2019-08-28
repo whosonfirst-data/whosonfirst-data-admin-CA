@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1676450.124992,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.241856,48.42313,-89.241856,48.42313",
     "geom:latitude":48.42313,
     "geom:longitude":-89.241856,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-89.246856,48.41813,-89.236856,48.42813",
     "lbl:latitude":48.42313,
     "lbl:longitude":-89.241856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.423732,
     "mps:longitude":-89.242235,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Academy Heights"
-    ],
-    "name:unk_x_variant":[
         "Academy Heights"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856525,
-        "qs:id":230698,
         "qs_pg:id":230698
     },
     "wof:country":"CA",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872115,
+    "wof:lastmodified":1566518948,
     "wof:name":"Academy Heights",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

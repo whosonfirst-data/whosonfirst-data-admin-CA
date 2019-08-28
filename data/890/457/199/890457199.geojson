@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.508925,
     "lbl:longitude":-64.812511,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.508925,
     "mps:longitude":-64.812511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Le Rocher-Perc\u00e9"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Le Rocher-Perce",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2402",
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375196,
-        "qs:id":890826,
+        "qs_pg:id":890826,
         "wd:id":"Q1517681",
         "wk:page":"Le Rocher-Perc\u00e9 Regional County Municipality"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890457199,
-    "wof:lastmodified":1563286450,
+    "wof:lastmodified":1566520235,
     "wof:name":"Le Rocher-Perce",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

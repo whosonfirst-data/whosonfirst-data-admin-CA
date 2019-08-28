@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":43195.825584,
     "geom:bbox":"-125.5523189,55.0780621,-125.5476661,55.0801771",
     "geom:latitude":55.079102,
     "geom:longitude":-125.549944,
     "iso:country":"CA",
     "lbl:latitude":55.079086,
     "lbl:longitude":-125.549947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.079086,
     "mps:longitude":-125.549947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teh Noo'N Che 49"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745317,
-    "wof:lastmodified":1533335906,
+    "wof:lastmodified":1566520071,
     "wof:name":"Teh Noo'N Che 49",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

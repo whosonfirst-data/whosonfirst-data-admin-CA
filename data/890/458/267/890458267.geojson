@@ -14,15 +14,18 @@
     "geom:longitude":-112.263482,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.867509,
     "lbl:longitude":-112.262476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.867509,
     "mps:longitude":-112.262476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Daysland"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":708.0,
     "wd:latitude":"52.865",
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":5935913,
         "gp:id":8535,
-        "qs:id":964106,
+        "qs_pg:id":964106,
         "wd:id":"Q1004125",
         "wk:page":"Daysland"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890458267,
-    "wof:lastmodified":1563285987,
+    "wof:lastmodified":1566520108,
     "wof:name":"Daysland",
     "wof:parent_id":1158863171,
     "wof:placetype":"locality",

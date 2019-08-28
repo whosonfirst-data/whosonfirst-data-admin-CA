@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.85192,
     "lbl:longitude":-73.583341,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.85192,
     "mps:longitude":-73.583341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Le Domaine-du-Roy"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Le Domaine-du-Roy",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2491",
@@ -76,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375149,
-        "qs:id":897314,
+        "qs_pg:id":897314,
         "wd:id":"Q1511248",
         "wk:page":"Le Domaine-du-Roy"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890458021,
-    "wof:lastmodified":1563286077,
+    "wof:lastmodified":1566520133,
     "wof:name":"Le Domaine-du-Roy",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

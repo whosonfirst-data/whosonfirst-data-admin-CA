@@ -14,15 +14,18 @@
     "geom:longitude":-113.591735,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.949061,
     "lbl:longitude":-113.591736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.949061,
     "mps:longitude":-113.591736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Legal"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":6051792,
         "gp:id":8654,
-        "qs:id":178686,
+        "qs_pg:id":178686,
         "wd:id":"Q2210557"
     },
     "wof:country":"CA",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890458159,
-    "wof:lastmodified":1563285926,
+    "wof:lastmodified":1566520096,
     "wof:name":"Legal",
     "wof:parent_id":1158863245,
     "wof:placetype":"locality",

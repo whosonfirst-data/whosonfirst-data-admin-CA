@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2078241.128485,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.799538,53.893862,-122.799538,53.893862",
     "geom:latitude":53.893862,
     "geom:longitude":-122.799538,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.804538,53.888862,-122.794538,53.898862",
     "lbl:latitude":53.893862,
     "lbl:longitude":-122.799538,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.895914,
     "mps:longitude":-122.802135,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Massey Place"
-    ],
-    "name:unk_x_variant":[
         "Massey Place"
     ],
     "qs:gn_id":0,
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740817,
-        890457209,
-        85682117
+        890457209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856730,
-        "qs:id":894133,
         "qs_pg:id":894133
     },
     "wof:country":"CA",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872186,
+    "wof:lastmodified":1566518994,
     "wof:name":"Massey Place",
     "wof:parent_id":101740817,
     "wof:placetype":"neighbourhood",

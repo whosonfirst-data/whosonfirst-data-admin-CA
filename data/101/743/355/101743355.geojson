@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":26145.898535,
     "geom:bbox":"-128.7013414,53.815666,-128.6989529,53.8174793",
     "geom:latitude":53.816556,
     "geom:longitude":-128.699967,
     "iso:country":"CA",
     "lbl:latitude":53.816573,
     "lbl:longitude":-128.699962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.816573,
     "mps:longitude":-128.699962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tosehka 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743355,
-    "wof:lastmodified":1533335877,
+    "wof:lastmodified":1566519986,
     "wof:name":"Tosehka 12",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

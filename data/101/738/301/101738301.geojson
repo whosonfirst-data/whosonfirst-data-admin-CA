@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.473181,
     "lbl:longitude":-72.529527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.473181,
     "mps:longitude":-72.529527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Maurice"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Paroisse",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":6138770,
         "gp:id":1569,
-        "qs:id":997894,
+        "qs_pg:id":997894,
         "wd:id":"Q3462962",
         "wk:page":"Saint-Maurice, Quebec"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101738301,
-    "wof:lastmodified":1563284578,
+    "wof:lastmodified":1566519507,
     "wof:name":"Saint-Maurice",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

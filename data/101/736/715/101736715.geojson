@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.634885,
     "lbl:longitude":-71.591233,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.634885,
     "mps:longitude":-71.591233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saint-Antoine-de-Tilly"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":8224455,
         "gp:id":23394483,
-        "qs:id":192207,
+        "qs_pg:id":192207,
         "wd:id":"Q932023",
         "wk:page":"Saint-Antoine-de-Tilly, Quebec"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101736715,
-    "wof:lastmodified":1563284446,
+    "wof:lastmodified":1566519481,
     "wof:name":"Saint-Antoine-de-Tilly",
     "wof:parent_id":890458401,
     "wof:placetype":"locality",

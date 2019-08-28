@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":100318.88341,
     "geom:bbox":"-121.4552407,49.9209336,-121.4501721,49.9245809",
     "geom:latitude":49.922978,
     "geom:longitude":-121.452253,
     "iso:country":"CA",
     "lbl:latitude":49.923411,
     "lbl:longitude":-121.451383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.923411,
     "mps:longitude":-121.451383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sam Adams 12"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744229,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566519965,
     "wof:name":"Sam Adams 12",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

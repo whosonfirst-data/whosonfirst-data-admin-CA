@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":55.462193,
     "lbl:longitude":-107.908445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.462193,
     "mps:longitude":-107.908445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u00cele-\u00e0-la-Crosse"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Northern Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.45,
     "wd:longitude":-107.883,
     "wd:wordcount":897,
@@ -82,7 +85,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844269,
+    "wof:lastmodified":1566519401,
     "wof:name":"\u00cele-\u00e0-la-Crosse",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

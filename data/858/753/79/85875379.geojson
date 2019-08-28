@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3287782.042403,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.476789,44.237551,-76.476789,44.237551",
     "geom:latitude":44.237551,
     "geom:longitude":-76.476789,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.481789,44.232551,-76.471789,44.242551",
     "lbl:latitude":44.237551,
     "lbl:longitude":-76.476789,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.241264,
     "mps:longitude":-76.482214,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Inner Harbour"
-    ],
-    "name:unk_x_variant":[
         "Inner Harbour"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":68,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735601,
-        890457247,
-        85682057
+        890457247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856484,
-        "qs:id":899264,
         "qs_pg:id":899264
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872096,
+    "wof:lastmodified":1566518950,
     "wof:name":"Inner Harbour",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

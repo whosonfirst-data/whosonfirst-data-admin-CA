@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.165025,
     "lbl:longitude":-104.583685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.165025,
     "mps:longitude":-104.583685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Minton"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":158,
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844265,
+    "wof:lastmodified":1566519395,
     "wof:name":"Minton",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":35450.389778,
     "geom:bbox":"-80.040874,45.0882961,-80.0344826,45.0895863",
     "geom:latitude":45.088876,
     "geom:longitude":-80.038388,
     "iso:country":"CA",
     "lbl:latitude":45.088958,
     "lbl:longitude":-80.039053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.088958,
     "mps:longitude":-80.039053,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chippewa Island Indian Reserve"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -42,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CA",
-    "wof:geomhash":"921f98eb688b6486fd958a2552799af9",
+    "wof:geomhash":"810d95f2852319ad13d4c53d93857831",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":101741313,
-    "wof:lastmodified":1493163481,
+    "wof:lastmodified":1566519880,
     "wof:name":"Chippewa Island Indian Reserve",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

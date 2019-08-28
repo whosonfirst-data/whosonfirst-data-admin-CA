@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.910294,
     "lbl:longitude":-71.569692,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.910294,
     "mps:longitude":-71.569692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:atj_x_preferred":[
         "Shannon"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":549,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":8354533,
         "gp:id":4383,
-        "qs:id":336335,
         "qs_pg:id":336335,
         "wd:id":"Q3481424",
         "wk:page":"Shannon, Quebec"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101738149,
-    "wof:lastmodified":1563284759,
+    "wof:lastmodified":1566519541,
     "wof:name":"Shannon",
     "wof:parent_id":890457205,
     "wof:placetype":"locality",

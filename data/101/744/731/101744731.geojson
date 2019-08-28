@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":228108.743118,
     "geom:bbox":"-122.6576103,49.1913287,-122.6494885,49.1973669",
     "geom:latitude":49.194117,
     "geom:longitude":-122.653555,
     "iso:country":"CA",
     "lbl:latitude":49.19412,
     "lbl:longitude":-122.653272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.19412,
     "mps:longitude":-122.653272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Katzie 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101744731,
-    "wof:lastmodified":1533335898,
+    "wof:lastmodified":1566519965,
     "wof:name":"Katzie 2",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

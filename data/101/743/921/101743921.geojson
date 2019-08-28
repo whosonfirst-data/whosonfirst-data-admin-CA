@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
+    "geom:area_square_m":173669.481559,
     "geom:bbox":"-125.9423761,49.1248532,-125.9343181,49.1305764",
     "geom:latitude":49.127638,
     "geom:longitude":-125.938431,
     "iso:country":"CA",
     "lbl:latitude":49.127268,
     "lbl:longitude":-125.938826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.127268,
     "mps:longitude":-125.938826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Echachis 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743921,
-    "wof:lastmodified":1533335885,
+    "wof:lastmodified":1566520005,
     "wof:name":"Echachis 2",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

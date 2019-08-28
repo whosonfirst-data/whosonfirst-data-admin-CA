@@ -12,18 +12,21 @@
     "iso:country":"CA",
     "lbl:latitude":50.573401,
     "lbl:longitude":-106.613808,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.573401,
     "mps:longitude":-106.613808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Division No.  7"
+        "Division No. 7"
     ],
     "name:eng_x_variant":[
-        "Division No.  7"
+        "Division No. 7"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Division No.  7",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"4707",
@@ -46,8 +49,8 @@
         }
     ],
     "wof:id":1158868947,
-    "wof:lastmodified":1554759659,
-    "wof:name":"Division No.  7",
+    "wof:lastmodified":1566520398,
+    "wof:name":"Division No. 7",
     "wof:parent_id":85682113,
     "wof:placetype":"county",
     "wof:placetype_local":"census division",

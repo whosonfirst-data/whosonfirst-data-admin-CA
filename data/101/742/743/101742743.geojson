@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
+    "geom:area_square_m":666268.224489,
     "geom:bbox":"-104.9069068,54.9808118,-104.8902726,54.9941837",
     "geom:latitude":54.986617,
     "geom:longitude":-104.897073,
     "iso:country":"CA",
     "lbl:latitude":54.986604,
     "lbl:longitude":-104.896258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.986604,
     "mps:longitude":-104.896258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fox Point I.R. 157D"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742743,
-    "wof:lastmodified":1531525147,
+    "wof:lastmodified":1566520028,
     "wof:name":"Fox Point I.R. 157D",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

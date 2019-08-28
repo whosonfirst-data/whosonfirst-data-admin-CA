@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":205611.799423,
+    "geom:area_square_m":205611.799424,
     "geom:bbox":"-123.4337339,48.7550207,-123.4217149,48.7581385",
     "geom:latitude":48.756936,
     "geom:longitude":-123.427416,
     "iso:country":"CA",
     "lbl:latitude":48.756666,
     "lbl:longitude":-123.427532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.756666,
     "mps:longitude":-123.427532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fulford Harbour 5"
     ],
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101745767,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520058,
     "wof:name":"Fulford Harbour 5",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

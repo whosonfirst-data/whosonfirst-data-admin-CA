@@ -21,6 +21,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.073156,
     "lbl:longitude":-114.162248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.07559,
     "mps:longitude":-114.163568,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     "name:swe_x_preferred":[
         "Montgomery"
     ],
-    "name:unk_x_variant":[
-        "Montgomery"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0679\u06af\u0648\u0645\u0631\u06cc\u060c \u06a9\u06cc\u0644\u06af\u0631\u06cc"
     ],
@@ -58,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1100.0,
     "wd:latitude":51.0772,
     "wd:longitude":-114.159,
@@ -73,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6077007,
         "gp:id":8243,
-        "qs:id":899696,
         "qs_pg:id":899696,
         "wd:id":"Q1806938",
         "wk:page":"Montgomery, Calgary"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281697,
+    "wof:lastmodified":1566518909,
     "wof:name":"Montgomery",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

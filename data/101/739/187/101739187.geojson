@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.896836,
     "lbl:longitude":-106.056719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.896836,
     "mps:longitude":-106.056719,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Allan"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.54,
     "wd:longitude":-106.04,
     "wd:wordcount":116,
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284010,
+    "wof:lastmodified":1566519399,
     "wof:name":"Allan",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

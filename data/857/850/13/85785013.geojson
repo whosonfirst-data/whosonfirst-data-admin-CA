@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":38688751.056419,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.621427,46.452843,-72.621427,46.452843",
     "geom:latitude":46.452843,
     "geom:longitude":-72.621427,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.626427,46.447843,-72.616427,46.457843",
     "lbl:latitude":46.452843,
     "lbl:longitude":-72.621427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.413245,
     "mps:longitude":-72.588753,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:swe_x_preferred":[
         "Saint-Louis-de-France"
-    ],
-    "name:unk_x_variant":[
-        "Saint Louis de France"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":51,
     "wof:belongsto":[
         136251273,
@@ -83,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3468,
-        "qs:id":1073201,
         "qs_pg:id":1073201,
         "wd:id":"Q3462750"
     },
@@ -103,7 +101,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531860667,
+    "wof:lastmodified":1566518909,
     "wof:name":"Saint Louis de France",
     "wof:parent_id":101737803,
     "wof:placetype":"neighbourhood",

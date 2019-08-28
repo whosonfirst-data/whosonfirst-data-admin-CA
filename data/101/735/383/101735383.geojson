@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":65.198971,
     "lbl:longitude":-123.427036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.198971,
     "mps:longitude":-123.427036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0438\u043d\u0435"
     ],
@@ -59,7 +62,7 @@
     "qs:type":"Charter Community",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":214.0,
     "wd:latitude":65.1867,
     "wd:longitude":-123.422,
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285391,
+    "wof:lastmodified":1566519935,
     "wof:name":"Deline",
     "wof:parent_id":1158869057,
     "wof:placetype":"locality",

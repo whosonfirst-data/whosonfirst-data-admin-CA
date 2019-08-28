@@ -11,8 +11,10 @@
     "geom:longitude":-72.695434,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-72.700434,46.283057,-72.690434,46.293057",
     "lbl:latitude":46.288057,
     "lbl:longitude":-72.695434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.288121,
     "mps:longitude":-72.693575,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:spa_x_preferred":[
         "Pointe-du-Lac"
     ],
-    "name:unk_x_variant":[
-        "Pointe du Lac"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6169141,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":46.283333,
     "wd:longitude":-72.683333,
     "wd:wordcount":86,
@@ -94,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1222,
-        "qs:id":1073157,
         "qs_pg:id":1073157,
         "wd:id":"Q3393527"
     },
@@ -114,7 +112,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281711,
+    "wof:lastmodified":1566518911,
     "wof:name":"Pointe du Lac",
     "wof:parent_id":101738021,
     "wof:placetype":"neighbourhood",

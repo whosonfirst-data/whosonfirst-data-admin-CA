@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14148792.849383,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.703621,43.222363,-79.703621,43.222363",
     "geom:latitude":43.222363,
     "geom:longitude":-79.703621,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.708621,43.217363,-79.698621,43.227363",
     "lbl:latitude":43.222363,
     "lbl:longitude":-79.703621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.222137,
     "mps:longitude":-79.709626,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:swe_x_preferred":[
         "Fruitland"
     ],
-    "name:unk_x_variant":[
-        "Fruitland"
-    ],
     "name:vol_x_preferred":[
         "Fruitland"
     ],
@@ -83,19 +82,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":49,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735515,
-        890456341,
-        85682057
+        890456341
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998999,
-        "qs:id":231000,
         "qs_pg:id":231000,
         "wd:id":"Q5506442"
     },
@@ -115,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931297,
+    "wof:lastmodified":1566518981,
     "wof:name":"Fruitland",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

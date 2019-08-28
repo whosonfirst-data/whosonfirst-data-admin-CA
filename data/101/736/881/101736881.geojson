@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.659509,
     "lbl:longitude":-73.155573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.659509,
     "mps:longitude":-73.155573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Charles-sur-Richelieu"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":6137598,
         "gp:id":1422,
-        "qs:id":1196973,
+        "qs_pg:id":1196973,
         "wd:id":"Q430005",
         "wk:page":"Saint-Charles-sur-Richelieu, Quebec"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101736881,
-    "wof:lastmodified":1563284393,
+    "wof:lastmodified":1566519465,
     "wof:name":"Saint-Charles-sur-Richelieu",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

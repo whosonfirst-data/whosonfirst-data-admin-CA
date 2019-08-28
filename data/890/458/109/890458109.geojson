@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.509794,
     "lbl:longitude":-78.810321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.509794,
     "mps:longitude":-78.810321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u062b\u0627 \u0644\u064a\u0643\u0633"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kawartha Lakes",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"3516",
@@ -112,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375206,
-        "qs:id":890832,
+        "qs_pg:id":890832,
         "wd:id":"Q384755",
         "wk:page":"Kawartha Lakes"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":890458109,
-    "wof:lastmodified":1563286034,
+    "wof:lastmodified":1566520123,
     "wof:name":"Kawartha Lakes",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

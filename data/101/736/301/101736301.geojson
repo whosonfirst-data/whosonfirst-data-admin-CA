@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.977221,
     "lbl:longitude":-75.957108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.977221,
     "mps:longitude":-75.957108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Montague"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,10 +67,12 @@
     "wof:concordances":{
         "gn:id":6076690,
         "gp:id":29374725,
-        "qs:id":960108,
         "qs_pg:id":125131,
         "wd:id":"Q6904088",
         "wk:page":"Montague, Prince Edward Island"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":960108
     },
     "wof:country":"CA",
     "wof:geomhash":"7f20eeaa5be996b2aa2b3beb0c7bc8cb",
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":101736301,
-    "wof:lastmodified":1563284359,
+    "wof:lastmodified":1566519458,
     "wof:name":"Montague",
     "wof:parent_id":890458469,
     "wof:placetype":"locality",

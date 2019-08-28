@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
+    "geom:area_square_m":559615.554868,
     "geom:bbox":"-126.4911616,53.9818139,-126.4818147,53.9903278",
     "geom:latitude":53.986182,
     "geom:longitude":-126.486443,
     "iso:country":"CA",
     "lbl:latitude":53.986169,
     "lbl:longitude":-126.486442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.986169,
     "mps:longitude":-126.486442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatla'T East 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743751,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566519996,
     "wof:name":"Tatla'T East 2",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

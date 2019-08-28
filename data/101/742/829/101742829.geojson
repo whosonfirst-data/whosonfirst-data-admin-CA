@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
+    "geom:area_square_m":185775.042119,
     "geom:bbox":"-132.3166133,54.1085116,-132.3073849,54.1139385",
     "geom:latitude":54.110242,
     "geom:longitude":-132.313221,
     "iso:country":"CA",
     "lbl:latitude":54.109744,
     "lbl:longitude":-132.31322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.109744,
     "mps:longitude":-132.31322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meagwan 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742829,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520010,
     "wof:name":"Meagwan 8",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

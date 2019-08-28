@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.21663,
     "lbl:longitude":-108.611683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.21663,
     "mps:longitude":-108.611683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Snipe Lake No. 259"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101740609,
-    "wof:lastmodified":1535390446,
+    "wof:lastmodified":1566519583,
     "wof:name":"Snipe Lake No. 259",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

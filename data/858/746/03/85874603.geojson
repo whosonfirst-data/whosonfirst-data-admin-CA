@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1794248.0517,
+    "geom:area_square_m":1794248.051698,
     "geom:bbox":"-114.108932,51.13162,-114.081479,51.143846",
     "geom:latitude":51.137595,
     "geom:longitude":-114.096981,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.138201,
     "lbl:longitude":-114.096795,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.139598,
     "mps:longitude":-114.093423,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1130.0,
     "wd:latitude":51.1394,
     "wd:longitude":-114.097,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855998,
-        "qs:id":1089496,
         "qs_pg:id":1089496,
         "wd:id":"Q7416962"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270242,
+    "wof:lastmodified":1566518985,
     "wof:name":"Sandstone Valley",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

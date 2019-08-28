@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":207314.049096,
     "geom:bbox":"-124.7419487,48.7693884,-124.73622,48.7766308",
     "geom:latitude":48.773499,
     "geom:longitude":-124.739894,
     "iso:country":"CA",
     "lbl:latitude":48.774466,
     "lbl:longitude":-124.739948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.774466,
     "mps:longitude":-124.739948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Homitan 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743951,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566519997,
     "wof:name":"Homitan 8",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

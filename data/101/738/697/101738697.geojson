@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.136885,
     "lbl:longitude":-71.40623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.136885,
     "mps:longitude":-71.40623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stoneham-et-Tewkesbury"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":626,
     "wof:belongsto":[
         102191575,
@@ -85,10 +88,12 @@
     "wof:concordances":{
         "gn:id":6951108,
         "gp:id":23394283,
-        "qs:id":466658,
         "qs_pg:id":241906,
         "wd:id":"Q142131",
         "wk:page":"Stoneham-et-Tewkesbury"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":466658
     },
     "wof:country":"CA",
     "wof:geomhash":"94736c45dcf5fa25f4f66840f4a5a301",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101738697,
-    "wof:lastmodified":1563284718,
+    "wof:lastmodified":1566519533,
     "wof:name":"Stoneham-et-Tewkesbury",
     "wof:parent_id":890457205,
     "wof:placetype":"locality",

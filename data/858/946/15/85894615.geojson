@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":4579512.611978,
+    "geom:area_square_m":4579512.611977,
     "geom:bbox":"-123.004392561,49.2380736415,-122.964677398,49.2578789526",
     "geom:latitude":49.247964,
     "geom:longitude":-122.986709,
@@ -16,6 +16,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.249331,
     "lbl:longitude":-122.985101,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.250198,
     "mps:longitude":-122.992578,
     "mz:hierarchy_label":0,
@@ -33,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Douglas - Gilpin"
-    ],
-    "name:unk_x_variant":[
-        "Douglas-Gilpin"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -68,7 +66,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1108915103,
@@ -80,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998701,
-        "qs:id":230988,
         "qs_pg:id":230988
     },
     "wof:country":"CA",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335941,
+    "wof:lastmodified":1566518972,
     "wof:name":"Douglas-Gilpin",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

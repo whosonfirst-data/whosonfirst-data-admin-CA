@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5339927.480912,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.452431,43.943217,-79.452431,43.943217",
     "geom:latitude":43.943217,
     "geom:longitude":-79.452431,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.457431,43.938217,-79.447431,43.948217",
     "lbl:latitude":43.943217,
     "lbl:longitude":-79.452431,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.948382,
     "mps:longitude":-79.457042,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Oak Ridges"
     ],
     "name:swe_x_preferred":[
-        "Oak Ridges"
-    ],
-    "name:unk_x_variant":[
         "Oak Ridges"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -66,20 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":91,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101736179,
         890458415,
-        85682057,
         101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999515,
-        "qs:id":384923,
         "qs_pg:id":384923
     },
     "wof:country":"CA",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931432,
+    "wof:lastmodified":1566518954,
     "wof:name":"Oak Ridges",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

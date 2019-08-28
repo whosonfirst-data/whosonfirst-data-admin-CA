@@ -12,6 +12,8 @@
     "iso:country":"CA",
     "lbl:latitude":48.015327,
     "lbl:longitude":-84.756191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.015327,
     "mps:longitude":-84.756191,
     "mz:hierarchy_label":1,
@@ -196,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2368,
     "wof:belongsto":[
         102191575,
@@ -208,7 +210,6 @@
     "wof:concordances":{
         "gn:id":6177178,
         "gp:id":3169,
-        "qs:id":766436,
         "qs_pg:id":766436,
         "wd:id":"Q1284782",
         "wk:page":"Wawa, Ontario"
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":101735845,
-    "wof:lastmodified":1563285329,
+    "wof:lastmodified":1566519923,
     "wof:name":"Wawa",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

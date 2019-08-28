@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":43.276797,
     "lbl:longitude":-80.027986,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":43.276797,
     "mps:longitude":-80.027986,
     "mz:hierarchy_label":1,
@@ -392,7 +394,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":43.25,
     "wd:longitude":-79.8667,
@@ -408,10 +410,12 @@
     "wof:concordances":{
         "gn:id":5969785,
         "gp:id":4125,
-        "qs:id":767105,
         "qs_pg:id":355734,
         "wd:id":"Q133116",
         "wk:page":"Hamilton, Ontario"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":767105
     },
     "wof:country":"CA",
     "wof:geomhash":"037023a50859ea5fe29e55d36be40ce3",
@@ -425,7 +429,7 @@
         }
     ],
     "wof:id":101735515,
-    "wof:lastmodified":1563285525,
+    "wof:lastmodified":1566519962,
     "wof:name":"Hamilton",
     "wof:parent_id":890456341,
     "wof:placetype":"locality",

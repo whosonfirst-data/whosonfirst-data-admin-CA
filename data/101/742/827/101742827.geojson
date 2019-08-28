@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
+    "geom:area_square_m":143352.74804,
     "geom:bbox":"-132.3301048,53.2265858,-132.3239465,53.2309107",
     "geom:latitude":53.229161,
     "geom:longitude":-132.327481,
     "iso:country":"CA",
     "lbl:latitude":53.229205,
     "lbl:longitude":-132.327542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.229205,
     "mps:longitude":-132.327542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lagins 5"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742827,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520009,
     "wof:name":"Lagins 5",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

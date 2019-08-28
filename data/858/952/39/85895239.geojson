@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1875727.292942,
+    "geom:area_square_m":1875727.292938,
     "geom:bbox":"-79.290959062,43.689290837,-79.267546064,43.712045649",
     "geom:latitude":43.697408,
     "geom:longitude":-79.279708,
     "iso:country":"CA",
     "lbl:latitude":43.695698,
     "lbl:longitude":-79.279707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.697665,
     "mps:longitude":-79.27724,
     "mz:hierarchy_label":1,
@@ -72,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a-\u0420\u0456\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Oakridge"
-    ],
     "name:vol_x_preferred":[
         "Oak Ridge"
     ],
@@ -82,23 +80,22 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Oakridge (121)",
     "torsdfa:AREA_S_CD":"121",
     "wd:wordcount":331,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6092095,
         "gp:id":55999215,
-        "qs:id":484427,
         "qs_pg:id":484427,
         "wd:id":"Q14875368"
     },
@@ -120,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272683,
+    "wof:lastmodified":1566518952,
     "wof:name":"Oakridge",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

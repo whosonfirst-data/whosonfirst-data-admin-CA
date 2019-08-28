@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":31463.166063,
     "geom:bbox":"-121.5502492,50.2629835,-121.5474355,50.2644138",
     "geom:latitude":50.263699,
     "geom:longitude":-121.548849,
     "iso:country":"CA",
     "lbl:latitude":50.263699,
     "lbl:longitude":-121.548851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.263699,
     "mps:longitude":-121.548851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mario Ivankovi\u0107"
     ],
@@ -40,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101746803,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566519817,
     "wof:name":"Maka 8",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

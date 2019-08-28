@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
-    "geom:area_square_m":3575331.47872,
+    "geom:area_square_m":3575331.478719,
     "geom:bbox":"-79.27484513,43.714158194,-79.245491413,43.736696453",
     "geom:latitude":43.725556,
     "geom:longitude":-79.260382,
     "iso:country":"CA",
     "lbl:latitude":43.725383,
     "lbl:longitude":-79.260382,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.72219,
     "mps:longitude":-79.253743,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Kennedy Park"
-    ],
-    "name:unk_x_variant":[
-        "Scarborough Junction"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -63,25 +61,25 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Kennedy Park (124)",
     "torsdfa:AREA_S_CD":"124",
     "wd:latitude":43.7167,
     "wd:longitude":-79.2597,
     "wd:wordcount":369,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833311,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6141899,
         "gp:id":55999644,
-        "qs:id":896694,
+        "qs_pg:id":896694,
         "wd:id":"Q7430296"
     },
     "wof:controlled":[],
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272684,
+    "wof:lastmodified":1566518998,
     "wof:name":"Scarborough Junction",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

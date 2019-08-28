@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185775,
+    "geom:area_square_m":1411078199.943545,
     "geom:bbox":"-102.4348631,51.8815244,-102.006638,52.3182611",
     "geom:latitude":52.100651,
     "geom:longitude":-102.22072,
     "iso:country":"CA",
     "lbl:latitude":52.080545,
     "lbl:longitude":-102.277354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.080545,
     "mps:longitude":-102.277354,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Clayton No. 333"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740097,
-    "wof:lastmodified":1531525246,
+    "wof:lastmodified":1566519557,
     "wof:name":"Clayton No. 333",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

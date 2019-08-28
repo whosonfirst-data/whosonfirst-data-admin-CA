@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":54797.746669,
     "geom:bbox":"-126.7781139,51.0649638,-126.7752232,51.0676568",
     "geom:latitude":51.066213,
     "geom:longitude":-126.776617,
     "iso:country":"CA",
     "lbl:latitude":51.066177,
     "lbl:longitude":-126.776589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.066177,
     "mps:longitude":-126.776589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Owh-Wis-Too-A-Wan 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743007,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566519990,
     "wof:name":"Owh-Wis-Too-A-Wan 10",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

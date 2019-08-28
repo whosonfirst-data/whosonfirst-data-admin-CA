@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.17072,
     "lbl:longitude":-72.478696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.17072,
     "mps:longitude":-72.478696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0646 \u0633\u0627\u0646\u064a\u0633\u0628\u0631\u064a"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":5964693,
         "gp:id":23394377,
-        "qs:id":1287774,
+        "qs_pg:id":1287774,
         "wd:id":"Q3113467",
         "wk:page":"Grand-Saint-Esprit, Quebec"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101737443,
-    "wof:lastmodified":1563284261,
+    "wof:lastmodified":1566519443,
     "wof:name":"Grand-Saint-Esprit",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

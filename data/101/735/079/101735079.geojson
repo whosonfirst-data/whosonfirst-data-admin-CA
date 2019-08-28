@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.143556,
     "lbl:longitude":-100.970246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.143556,
     "mps:longitude":-100.970246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arthur"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101735079,
-    "wof:lastmodified":1561844461,
+    "wof:lastmodified":1566519924,
     "wof:name":"Arthur",
     "wof:parent_id":1158868991,
     "wof:placetype":"locality",

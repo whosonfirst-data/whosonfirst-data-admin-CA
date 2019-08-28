@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
+    "geom:area_square_m":100471.974753,
     "geom:bbox":"-97.3757394,49.8702839,-97.3727731,49.8755365",
     "geom:latitude":49.872917,
     "geom:longitude":-97.374253,
     "iso:country":"CA",
     "lbl:latitude":49.872908,
     "lbl:longitude":-97.374252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.872908,
     "mps:longitude":-97.374252,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Swan Lake 8A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101745691,
-    "wof:lastmodified":1531523893,
+    "wof:lastmodified":1566520067,
     "wof:name":"Swan Lake 8A",
     "wof:parent_id":1158868941,
     "wof:placetype":"locality",

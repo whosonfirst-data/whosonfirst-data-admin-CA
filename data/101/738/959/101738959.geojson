@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.085174,
     "lbl:longitude":-109.28493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.085174,
     "mps:longitude":-109.28493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maidstone"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.092,
     "wd:longitude":-109.294,
     "wd:wordcount":397,
@@ -72,7 +75,6 @@
         "fct:id":"03c0097c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6064356,
         "gp:id":2110,
-        "qs:id":1223809,
         "qs_pg:id":1223809,
         "wd:id":"Q1915344",
         "wk:page":"Maidstone, Saskatchewan"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284666,
+    "wof:lastmodified":1566519522,
     "wof:name":"Maidstone",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

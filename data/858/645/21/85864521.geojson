@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4219347.665893,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.469483,43.413607,-80.469483,43.413607",
     "geom:latitude":43.413607,
     "geom:longitude":-80.469483,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.474483,43.408607,-80.464483,43.418607",
     "lbl:latitude":43.413607,
     "lbl:longitude":-80.469483,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.410035,
     "mps:longitude":-80.466223,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Country Hills"
-    ],
-    "name:unk_x_variant":[
         "Country Hills"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399508,
-        "qs:id":1087662,
         "qs_pg:id":1087662
     },
     "wof:country":"CA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870909,
+    "wof:lastmodified":1566518961,
     "wof:name":"Country Hills",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

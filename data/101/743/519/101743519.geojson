@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
+    "geom:area_square_m":496578.277671,
     "geom:bbox":"-130.1278119,54.4174625,-130.1086738,54.4277731",
     "geom:latitude":54.42283,
     "geom:longitude":-130.118936,
     "iso:country":"CA",
     "lbl:latitude":54.422045,
     "lbl:longitude":-130.117343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.422045,
     "mps:longitude":-130.117343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nishanocknawnak 35"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743519,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519992,
     "wof:name":"Nishanocknawnak 35",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

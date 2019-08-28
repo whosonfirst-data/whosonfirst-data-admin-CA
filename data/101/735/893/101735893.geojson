@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.570452,
     "lbl:longitude":-79.626636,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":43.570452,
     "mps:longitude":-79.626636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Mississauga"
     ],
@@ -248,7 +251,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":156.0,
     "wd:latitude":43.6,
@@ -267,7 +270,6 @@
     "wof:concordances":{
         "gn:id":6075357,
         "gp:id":22664159,
-        "qs:id":843144,
         "qs_pg:id":843144,
         "wd:id":"Q50816",
         "wk:page":"Mississauga"
@@ -284,7 +286,7 @@
         }
     ],
     "wof:id":101735893,
-    "wof:lastmodified":1563285376,
+    "wof:lastmodified":1566519931,
     "wof:name":"Mississauga",
     "wof:parent_id":890456343,
     "wof:placetype":"locality",

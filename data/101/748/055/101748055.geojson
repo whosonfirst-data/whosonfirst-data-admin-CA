@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
+    "geom:area_square_m":173124.414115,
     "geom:bbox":"-120.2705735,49.4237723,-120.2618783,49.4311338",
     "geom:latitude":49.426275,
     "geom:longitude":-120.265852,
     "iso:country":"CA",
     "lbl:latitude":49.425838,
     "lbl:longitude":-120.26679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.425838,
     "mps:longitude":-120.26679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Iltcoola Indian Reserve No. 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101748055,
-    "wof:lastmodified":1533335928,
+    "wof:lastmodified":1566519784,
     "wof:name":"Iltcoola Indian Reserve No. 7",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

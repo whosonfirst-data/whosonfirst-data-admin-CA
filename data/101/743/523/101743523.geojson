@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":12948.564457,
     "geom:bbox":"-130.0613711,54.4071285,-130.0582696,54.4080322",
     "geom:latitude":54.407707,
     "geom:longitude":-130.059555,
     "iso:country":"CA",
     "lbl:latitude":54.407653,
     "lbl:longitude":-130.059539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.407653,
     "mps:longitude":-130.059539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bill Lake 37"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743523,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566520006,
     "wof:name":"Bill Lake 37",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.270858,
     "lbl:longitude":-79.261356,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.270858,
     "mps:longitude":-79.261356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:als_x_preferred":[
         "St. Catharines"
     ],
@@ -224,7 +227,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.183333,
     "wd:longitude":-79.233333,
@@ -241,7 +244,6 @@
         "gn:id":6155721,
         "gp:id":4126,
         "loc:id":"n82094699",
-        "qs:id":1140771,
         "qs_pg:id":1140771,
         "wd:id":"Q126805",
         "wk:page":"St. Catharines"
@@ -257,7 +259,7 @@
         }
     ],
     "wof:id":101736345,
-    "wof:lastmodified":1563284548,
+    "wof:lastmodified":1566519501,
     "wof:name":"St. Catharines",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

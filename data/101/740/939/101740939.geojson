@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":49.154357,
     "lbl:longitude":-121.919106,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":49.154357,
     "mps:longitude":-121.919106,
     "mz:hierarchy_label":1,
@@ -271,7 +273,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
     "wd:latitude":49.157722,
     "wd:longitude":-121.950917,
@@ -302,7 +304,7 @@
         }
     ],
     "wof:id":101740939,
-    "wof:lastmodified":1563284772,
+    "wof:lastmodified":1566519545,
     "wof:name":"Chilliwack",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

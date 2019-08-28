@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6664351.081192,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655849,49.104729,-122.655849,49.104729",
     "geom:latitude":49.104729,
     "geom:longitude":-122.655849,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.660849,49.099729,-122.650849,49.109729",
     "lbl:latitude":49.104729,
     "lbl:longitude":-122.655849,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.103428,
     "mps:longitude":-122.655997,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Langley"
-    ],
-    "name:unk_x_variant":[
         "Downtown Langley"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740867,
-        890457467,
-        85682117
+        890457467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998732,
-        "qs:id":899529,
         "qs_pg:id":899529
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931235,
+    "wof:lastmodified":1566518970,
     "wof:name":"Downtown Langley",
     "wof:parent_id":101740867,
     "wof:placetype":"neighbourhood",

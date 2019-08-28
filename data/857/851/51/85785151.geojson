@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.039667,
     "lbl:longitude":-113.970595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.038203,
     "mps:longitude":-113.979301,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":141,
     "wof:belongsto":[
         102191575,
@@ -57,7 +58,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":8193,
-        "qs:id":897639,
         "qs_pg:id":897639,
         "wd:id":"Q5469013"
     },
@@ -76,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281697,
+    "wof:lastmodified":1566518909,
     "wof:name":"Forest Lawn",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

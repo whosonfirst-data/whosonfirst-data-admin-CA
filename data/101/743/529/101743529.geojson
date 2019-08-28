@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":36932.2627,
     "geom:bbox":"-130.4349579,54.7844852,-130.4313214,54.7862935",
     "geom:latitude":54.785471,
     "geom:longitude":-130.433486,
     "iso:country":"CA",
     "lbl:latitude":54.785389,
     "lbl:longitude":-130.433479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.785389,
     "mps:longitude":-130.433479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maklaksadagmaks 41"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743529,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519994,
     "wof:name":"Maklaksadagmaks 41",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

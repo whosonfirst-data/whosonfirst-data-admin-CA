@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":361515.188766,
+    "geom:area_square_m":361515.188771,
     "geom:bbox":"-114.078308,51.028546,-114.071482,51.037831",
     "geom:latitude":51.033996,
     "geom:longitude":-114.074312,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.034054,
     "lbl:longitude":-114.074255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.034295,
     "mps:longitude":-114.076593,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1050.0,
     "wd:latitude":51.0333,
     "wd:longitude":-114.074,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855958,
-        "qs:id":897373,
         "qs_pg:id":897373,
         "wd:id":"Q5132556"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270640,
+    "wof:lastmodified":1566519022,
     "wof:name":"Cliff Bungalow",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

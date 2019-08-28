@@ -14,16 +14,18 @@
     "geom:longitude":-113.26485,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":3051,
     "gn:population":3051,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.703521,
     "lbl:longitude":-113.262511,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.703521,
     "mps:longitude":-113.262511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Three Hills"
     ],
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":896.0,
     "wd:latitude":"51.7072",
@@ -91,7 +93,7 @@
     "wof:concordances":{
         "gn:id":6165875,
         "gp:id":8750,
-        "qs:id":1053593,
+        "qs_pg:id":1053593,
         "wd:id":"Q1743795",
         "wk:page":"Three Hills"
     },
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":890456149,
-    "wof:lastmodified":1563286329,
+    "wof:lastmodified":1566520199,
     "wof:name":"Three Hills",
     "wof:parent_id":1158863191,
     "wof:placetype":"locality",

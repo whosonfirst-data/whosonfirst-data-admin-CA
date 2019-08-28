@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.370635,
     "lbl:longitude":-75.777283,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.370635,
     "mps:longitude":-75.777283,
     "mz:hierarchy_label":1,
@@ -27,12 +28,12 @@
     "reversegeo:longitude":-75.777283,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682057,
         102191575,
         1126058431,
         85633041,
         101735873,
-        890458681
+        890458681,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1125236453,
-    "wof:lastmodified":1533277876,
+    "wof:lastmodified":1566520360,
     "wof:name":"Woodpark",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

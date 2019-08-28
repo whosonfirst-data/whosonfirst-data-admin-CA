@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
+    "geom:area_square_m":474821.040932,
     "geom:bbox":"-122.0070434,49.1582033,-121.9933026,49.1650609",
     "geom:latitude":49.161552,
     "geom:longitude":-122.002016,
     "iso:country":"CA",
     "lbl:latitude":49.16121,
     "lbl:longitude":-122.002062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.16121,
     "mps:longitude":-122.002062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Squiaala 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101745803,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520051,
     "wof:name":"Squiaala 8",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

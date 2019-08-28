@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.325389,
     "lbl:longitude":-107.087479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.325389,
     "mps:longitude":-107.087479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0631\u0648\u0631\u064a\u0647"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":205,
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
         "fct:id":"03ba5c16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6063820,
         "gp:id":2242,
-        "qs:id":1053515,
         "qs_pg:id":1053515,
         "wd:id":"Q2085991",
         "wk:page":"Macrorie, Saskatchewan"
@@ -87,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284029,
+    "wof:lastmodified":1566519402,
     "wof:name":"Macrorie",
     "wof:parent_id":1158868955,
     "wof:placetype":"locality",

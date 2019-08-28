@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":940713.81413,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.476299,43.445683,-80.476299,43.445683",
     "geom:latitude":43.445683,
     "geom:longitude":-80.476299,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.481299,43.440683,-80.471299,43.450683",
     "lbl:latitude":43.445683,
     "lbl:longitude":-80.476299,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.444562,
     "mps:longitude":-80.475682,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "King East"
-    ],
-    "name:unk_x_variant":[
         "King East"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856281,
-        "qs:id":1000969,
         "qs_pg:id":1000969
     },
     "wof:country":"CA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871995,
+    "wof:lastmodified":1566519001,
     "wof:name":"King East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

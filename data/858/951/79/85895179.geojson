@@ -11,8 +11,10 @@
     "geom:longitude":-79.757862,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.762862,43.413818,-79.752862,43.423818",
     "lbl:latitude":43.418818,
     "lbl:longitude":-79.757862,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.445546,
     "mps:longitude":-79.791659,
     "mz:hierarchy_label":0,
@@ -348,9 +350,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0440\u043c\u043e"
     ],
-    "name:unk_x_variant":[
-        "Palermo"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u06cc\u0631\u0645\u0648"
     ],
@@ -413,7 +412,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101740713,
@@ -424,7 +423,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999162,
-        "qs:id":19587,
         "qs_pg:id":19587
     },
     "wof:country":"CA",
@@ -449,7 +447,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170850,
+    "wof:lastmodified":1566519000,
     "wof:name":"Palermo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

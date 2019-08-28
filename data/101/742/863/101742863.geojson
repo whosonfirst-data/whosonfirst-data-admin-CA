@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
+    "geom:area_square_m":527965.15917,
     "geom:bbox":"-127.6159879,55.2552922,-127.6036412,55.2631537",
     "geom:latitude":55.259766,
     "geom:longitude":-127.609833,
     "iso:country":"CA",
     "lbl:latitude":55.260798,
     "lbl:longitude":-127.6089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.260798,
     "mps:longitude":-127.6089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsitsk 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742863,
-    "wof:lastmodified":1533335869,
+    "wof:lastmodified":1566520028,
     "wof:name":"Tsitsk 3",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

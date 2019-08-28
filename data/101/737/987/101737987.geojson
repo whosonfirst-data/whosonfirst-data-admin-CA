@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.709618,
     "lbl:longitude":-71.216064,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.709618,
     "mps:longitude":-71.216064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "L\u00e9vis"
     ],
@@ -230,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1672,
     "wof:belongsto":[
@@ -244,7 +247,6 @@
         "fct:id":"03bfd3a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6325521,
         "gp:id":862,
-        "qs:id":955659,
         "qs_pg:id":955659,
         "wd:id":"Q139208",
         "wk:page":"L\u00e9vis, Quebec"
@@ -264,7 +266,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284316,
+    "wof:lastmodified":1566519452,
     "wof:name":"L\u00e9vis",
     "wof:parent_id":890458877,
     "wof:placetype":"locality",

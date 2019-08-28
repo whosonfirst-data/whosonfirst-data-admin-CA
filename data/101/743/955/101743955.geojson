@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":51148.410573,
     "geom:bbox":"-124.7374525,48.7393431,-124.7332989,48.7411536",
     "geom:latitude":48.740162,
     "geom:longitude":-124.735092,
     "iso:country":"CA",
     "lbl:latitude":48.740247,
     "lbl:longitude":-124.735092,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.740247,
     "mps:longitude":-124.735092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doobah 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743955,
-    "wof:lastmodified":1533335886,
+    "wof:lastmodified":1566519986,
     "wof:name":"Doobah 10",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":59.587504,
     "lbl:longitude":-110.17547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.587504,
     "mps:longitude":-110.17547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Collin Lake 223"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101741639,
-    "wof:lastmodified":1561844444,
+    "wof:lastmodified":1566519894,
     "wof:name":"Collin Lake 223",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

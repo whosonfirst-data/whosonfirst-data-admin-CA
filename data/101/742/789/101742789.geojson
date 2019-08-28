@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
+    "geom:area_square_m":478648.92938,
     "geom:bbox":"-133.6784132,59.6126343,-133.6712825,59.6234703",
     "geom:latitude":59.61807,
     "geom:longitude":-133.674817,
     "iso:country":"CA",
     "lbl:latitude":59.618053,
     "lbl:longitude":-133.674817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.618053,
     "mps:longitude":-133.674817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alkhili 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101742789,
-    "wof:lastmodified":1533335867,
+    "wof:lastmodified":1566520030,
     "wof:name":"Alkhili 2",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

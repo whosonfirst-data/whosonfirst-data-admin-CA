@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.890461,
     "lbl:longitude":-75.376597,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.890461,
     "mps:longitude":-75.376597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Anne-du-Lac"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":6137754,
         "gp:id":3335,
-        "qs:id":71688,
+        "qs_pg:id":71688,
         "wd:id":"Q3464165",
         "wk:page":"Sainte-Anne-du-Lac, Laurentides, Quebec"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101738839,
-    "wof:lastmodified":1563284729,
+    "wof:lastmodified":1566519536,
     "wof:name":"Sainte-Anne-du-Lac",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",

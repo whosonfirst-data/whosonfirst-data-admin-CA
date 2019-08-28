@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
+    "geom:area_square_m":985156.406127,
     "geom:bbox":"-121.5031484,49.9978384,-121.4916072,50.0123149",
     "geom:latitude":50.003849,
     "geom:longitude":-121.498255,
     "iso:country":"CA",
     "lbl:latitude":50.001781,
     "lbl:longitude":-121.498941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.001781,
     "mps:longitude":-121.498941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boothroyd 6A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744215,
-    "wof:lastmodified":1533335890,
+    "wof:lastmodified":1566519976,
     "wof:name":"Boothroyd 6A",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

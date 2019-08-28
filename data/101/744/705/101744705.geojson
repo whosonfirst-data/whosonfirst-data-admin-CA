@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
+    "geom:area_square_m":4355499.840239,
     "geom:bbox":"-122.692944,50.2986418,-122.6094126,50.3194211",
     "geom:latitude":50.306974,
     "geom:longitude":-122.656065,
     "iso:country":"CA",
     "lbl:latitude":50.304938,
     "lbl:longitude":-122.654141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.304938,
     "mps:longitude":-122.654141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nesuch 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744705,
-    "wof:lastmodified":1533335897,
+    "wof:lastmodified":1566519973,
     "wof:name":"Nesuch 3",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

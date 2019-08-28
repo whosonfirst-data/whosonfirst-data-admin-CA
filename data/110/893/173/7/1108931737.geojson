@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":2528157.100162,
+    "geom:area_square_m":2528157.100157,
     "geom:bbox":"-123.1479459,49.0876221,-123.087249,49.1146978",
     "geom:latitude":49.10223,
     "geom:longitude":-123.106743,
     "iso:country":"CA",
     "lbl:latitude":49.098028,
     "lbl:longitude":-123.114181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.098028,
     "mps:longitude":-123.114181,
     "mz:hierarchy_label":1,
@@ -24,11 +25,11 @@
     "reversegeo:longitude":-123.114181,
     "src:geom":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108952743,
         85633041,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1108931737,
-    "wof:lastmodified":1531521009,
+    "wof:lastmodified":1566519260,
     "wof:name":"South Arm Islands",
     "wof:parent_id":1108952743,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
+    "geom:area_square_m":1452393.242673,
     "geom:bbox":"-121.5871264,50.1309215,-121.5724567,50.1488663",
     "geom:latitude":50.139158,
     "geom:longitude":-121.58184,
     "iso:country":"CA",
     "lbl:latitude":50.139072,
     "lbl:longitude":-121.581842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.139072,
     "mps:longitude":-121.581842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nahamanak 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744381,
-    "wof:lastmodified":1533335892,
+    "wof:lastmodified":1566519983,
     "wof:name":"Nahamanak 7",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

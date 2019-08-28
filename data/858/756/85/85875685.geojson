@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4434898.208053,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.686469,50.013478,-110.686469,50.013478",
     "geom:latitude":50.013478,
     "geom:longitude":-110.686469,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-110.691469,50.008478,-110.681469,50.018478",
     "lbl:latitude":50.013478,
     "lbl:longitude":-110.686469,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.010387,
     "mps:longitude":-110.687591,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "South Ridge"
-    ],
-    "name:unk_x_variant":[
         "South Ridge"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":90,
     "wof:belongsto":[
         85682091,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856761,
-        "qs:id":1089591,
         "qs_pg:id":1089591
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250198,
+    "wof:lastmodified":1566518994,
     "wof:name":"South Ridge",
     "wof:parent_id":890456255,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.626737,
     "lbl:longitude":-73.525564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.626737,
     "mps:longitude":-73.525564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0631\u064a\u0627\u0644 \u0625\u064a\u0633\u062a"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Montr\u00e9al-Est"
     ],
-    "name:unk_x_variant":[
-        "Montr\u00e9al-Est"
-    ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
     "qs:a1_lc":"QC",
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":45.633333,
     "wd:longitude":-73.516667,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101736479,
-    "wof:lastmodified":1563284389,
+    "wof:lastmodified":1566519464,
     "wof:name":"Montreal-Est",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

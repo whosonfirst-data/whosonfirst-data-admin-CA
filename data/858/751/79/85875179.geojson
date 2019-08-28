@@ -11,8 +11,10 @@
     "geom:longitude":-106.660767,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.665767,52.07113,-106.655767,52.08113",
     "lbl:latitude":52.07613,
     "lbl:longitude":-106.660767,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.070308,
     "mps:longitude":-106.668548,
     "mz:hierarchy_label":0,
@@ -39,7 +41,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191575,
@@ -52,7 +54,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856365,
-        "qs:id":986462,
         "qs_pg:id":986462,
         "wd:id":"Q7775014"
     },
@@ -73,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282075,
+    "wof:lastmodified":1566518996,
     "wof:name":"The Willows",
     "wof:parent_id":1126115069,
     "wof:placetype":"neighbourhood",

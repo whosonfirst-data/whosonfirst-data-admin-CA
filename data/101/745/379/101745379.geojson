@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001458,
+    "geom:area_square_m":9930841.382957,
     "geom:bbox":"-120.5146224,56.5520547,-120.4614539,56.6028233",
     "geom:latitude":56.574211,
     "geom:longitude":-120.494206,
     "iso:country":"CA",
     "lbl:latitude":56.58036,
     "lbl:longitude":-120.508398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.58036,
     "mps:longitude":-120.508398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doig River 206"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745379,
-    "wof:lastmodified":1533335908,
+    "wof:lastmodified":1566520053,
     "wof:name":"Doig River 206",
     "wof:parent_id":890457207,
     "wof:placetype":"locality",

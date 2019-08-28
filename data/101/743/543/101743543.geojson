@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":29009.169327,
     "geom:bbox":"-130.2962016,54.7096444,-130.2915147,54.7112353",
     "geom:latitude":54.710758,
     "geom:longitude":-130.294252,
     "iso:country":"CA",
     "lbl:latitude":54.710758,
     "lbl:longitude":-130.294808,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.710758,
     "mps:longitude":-130.294808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Me-Yan-Law 47"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743543,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519993,
     "wof:name":"Me-Yan-Law 47",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

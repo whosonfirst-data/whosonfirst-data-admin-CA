@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.722655,
     "lbl:longitude":-65.510115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.722655,
     "mps:longitude":-65.510115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sussex"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.7167,
     "wd:longitude":-65.5167,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":6159980,
         "gp:id":3708,
-        "qs:id":160422,
         "qs_pg:id":160422,
         "wd:id":"Q984084",
         "wk:page":"Sussex, New Brunswick"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101735339,
-    "wof:lastmodified":1563285313,
+    "wof:lastmodified":1566519921,
     "wof:name":"Sussex",
     "wof:parent_id":890456055,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
+    "geom:area_square_m":55766.956807,
     "geom:bbox":"-126.8272395,49.6179767,-126.8244415,49.6207107",
     "geom:latitude":49.619448,
     "geom:longitude":-126.825778,
     "iso:country":"CA",
     "lbl:latitude":49.619414,
     "lbl:longitude":-126.825768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.619414,
     "mps:longitude":-126.825768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aass 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746581,
-    "wof:lastmodified":1533335920,
+    "wof:lastmodified":1566519823,
     "wof:name":"Aass 3",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

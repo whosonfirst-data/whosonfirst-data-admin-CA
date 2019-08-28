@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
+    "geom:area_square_m":561451.085292,
     "geom:bbox":"-126.5002345,53.9785503,-126.4911218,53.9903432",
     "geom:latitude":53.985984,
     "geom:longitude":-126.495928,
     "iso:country":"CA",
     "lbl:latitude":53.986307,
     "lbl:longitude":-126.495913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.986307,
     "mps:longitude":-126.495913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatla West 11"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743249,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566519999,
     "wof:name":"Tatla West 11",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

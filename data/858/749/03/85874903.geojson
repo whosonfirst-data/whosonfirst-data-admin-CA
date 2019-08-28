@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2033354.242593,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.933105,43.237487,-79.933105,43.237487",
     "geom:latitude":43.237487,
     "geom:longitude":-79.933105,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.938105,43.232487,-79.928105,43.242487",
     "lbl:latitude":43.237487,
     "lbl:longitude":-79.933105,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.23541,
     "mps:longitude":-79.931574,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Mountview"
-    ],
-    "name:unk_x_variant":[
         "Mountview"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":261,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735515,
-        890456341,
-        85682057
+        890456341
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856211,
-        "qs:id":230678,
         "qs_pg:id":230678
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871956,
+    "wof:lastmodified":1566518976,
     "wof:name":"Mountview",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

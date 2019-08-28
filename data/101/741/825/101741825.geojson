@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003411,
+    "geom:area_square_m":23078625.030718,
     "geom:bbox":"-100.6072649,56.7946224,-100.5331196,56.8700722",
     "geom:latitude":56.828482,
     "geom:longitude":-100.571961,
     "iso:country":"CA",
     "lbl:latitude":56.826808,
     "lbl:longitude":-100.571252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.826808,
     "mps:longitude":-100.571252,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Black Sturgeon"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741825,
-    "wof:lastmodified":1533070088,
+    "wof:lastmodified":1566519890,
     "wof:name":"Black Sturgeon",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.919629,
     "lbl:longitude":-104.372342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.919629,
     "mps:longitude":-104.372342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0646\u063a"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
         "fct:id":"03c038c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6049345,
         "gp:id":2876,
-        "qs:id":33550,
         "qs_pg:id":33550,
         "wd:id":"Q2085279",
         "wk:page":"Lang, Saskatchewan"
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284098,
+    "wof:lastmodified":1566519410,
     "wof:name":"Lang",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

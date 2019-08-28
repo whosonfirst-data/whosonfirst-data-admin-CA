@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1225896.208068,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.905272,43.261143,-79.905272,43.261143",
     "geom:latitude":43.261143,
     "geom:longitude":-79.905272,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.910272,43.256143,-79.900272,43.266143",
     "lbl:latitude":43.261143,
     "lbl:longitude":-79.905272,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.260107,
     "mps:longitude":-79.90383,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Westdale South"
-    ],
-    "name:unk_x_variant":[
         "Westdale South"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856171,
-        "qs:id":1135800,
         "qs_pg:id":1135800
     },
     "wof:country":"CA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871941,
+    "wof:lastmodified":1566518982,
     "wof:name":"Westdale South",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

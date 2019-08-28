@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107441,
+    "geom:area_square_m":808134718.969521,
     "geom:bbox":"-104.5972151,52.4052928,-104.1651576,52.6672667",
     "geom:latitude":52.533871,
     "geom:longitude":-104.388977,
     "iso:country":"CA",
     "lbl:latitude":52.526449,
     "lbl:longitude":-104.388199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.526449,
     "mps:longitude":-104.388199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pleasantdale No. 398"
     ],
@@ -33,7 +37,7 @@
     "qs:type":"Rural Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101740137,
-    "wof:lastmodified":1531523848,
+    "wof:lastmodified":1566519570,
     "wof:name":"Pleasantdale No. 398",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

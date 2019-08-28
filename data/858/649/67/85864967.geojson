@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":861066.328147,
+    "geom:area_square_m":861066.328141,
     "geom:bbox":"-114.094745,51.077732,-114.079444,51.090946",
     "geom:latitude":51.085002,
     "geom:longitude":-114.087893,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.085264,
     "lbl:longitude":-114.088165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.083172,
     "mps:longitude":-114.08502,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1105.0,
     "wd:latitude":51.0853,
     "wd:longitude":-114.089,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404867,
-        "qs:id":896359,
         "qs_pg:id":896359,
         "wd:id":"Q5025289"
     },
@@ -73,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270390,
+    "wof:lastmodified":1566519004,
     "wof:name":"Cambrian Heights",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

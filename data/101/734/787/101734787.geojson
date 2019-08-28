@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.997432,
     "lbl:longitude":-97.001497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.997432,
     "mps:longitude":-97.001497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Riverton"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.9983,
     "wd:longitude":-96.9961,
     "wd:wordcount":261,
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285291,
+    "wof:lastmodified":1566519915,
     "wof:name":"Riverton",
     "wof:parent_id":1158869051,
     "wof:placetype":"locality",

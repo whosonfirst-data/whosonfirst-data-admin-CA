@@ -11,8 +11,10 @@
     "geom:longitude":-122.451716,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.456716,49.204815,-122.446716,49.214815",
     "lbl:latitude":49.209815,
     "lbl:longitude":-122.451716,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.223197,
     "mps:longitude":-122.432361,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Iron Mountain"
     ],
     "name:swe_x_preferred":[
-        "Iron Mountain"
-    ],
-    "name:unk_x_variant":[
         "Iron Mountain"
     ],
     "name:vol_x_preferred":[
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":287,
     "wof:belongsto":[
         85682117,
@@ -86,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998743,
-        "qs:id":888517,
         "qs_pg:id":888517
     },
     "wof:country":"CA",
@@ -105,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170759,
+    "wof:lastmodified":1566518972,
     "wof:name":"Iron Mountain",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

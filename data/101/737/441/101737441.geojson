@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.750448,
     "lbl:longitude":-73.268311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.750448,
     "mps:longitude":-73.268311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0643\u0633\u0627 \u0644\u0627\u0641\u0627\u0644\u064a\u0647"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":198,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":5913520,
         "gp:id":23396470,
-        "qs:id":1164444,
         "qs_pg:id":1164444,
         "wd:id":"Q2934041",
         "wk:page":"Calixa-Lavall\u00e9e, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737441,
-    "wof:lastmodified":1563284150,
+    "wof:lastmodified":1566519418,
     "wof:name":"Calixa-Lavall\u00e9e",
     "wof:parent_id":890457801,
     "wof:placetype":"locality",

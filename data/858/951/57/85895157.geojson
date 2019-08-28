@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3901779.009059,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.252161,43.878161,-79.252161,43.878161",
     "geom:latitude":43.878161,
     "geom:longitude":-79.252161,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.257161,43.873161,-79.247161,43.883161",
     "lbl:latitude":43.878161,
     "lbl:longitude":-79.252161,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.865586,
     "mps:longitude":-79.245937,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Vinegar Hill"
     ],
     "name:swe_x_preferred":[
-        "Vinegar Hill"
-    ],
-    "name:unk_x_variant":[
         "Vinegar Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -68,21 +67,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":123,
     "wof:belongsto":[
         102191575,
         101736035,
         85633041,
-        101736035,
-        890458415,
         85682057,
         101740741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999141,
-        "qs:id":19581,
         "qs_pg:id":19581
     },
     "wof:country":"CA",
@@ -107,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931341,
+    "wof:lastmodified":1566518998,
     "wof:name":"Vinegar Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

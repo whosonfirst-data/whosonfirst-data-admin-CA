@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":4594.996277,
     "geom:bbox":"-112.5090906,56.2002419,-112.5079121,56.2010632",
     "geom:latitude":56.200707,
     "geom:longitude":-112.508509,
     "iso:country":"CA",
     "lbl:latitude":56.20072,
     "lbl:longitude":-112.508544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.20072,
     "mps:longitude":-112.508544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "House River Indian Cemetery 178"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741605,
-    "wof:lastmodified":1533250160,
+    "wof:lastmodified":1566519868,
     "wof:name":"House River Indian Cemetery 178",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.116926,
     "lbl:longitude":-79.18813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.116926,
     "mps:longitude":-79.18813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0643\u0633\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2079,
     "wof:belongsto":[
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":6172932,
         "gp:id":1846,
-        "qs:id":357394,
         "qs_pg:id":357394,
         "wd:id":"Q386959",
         "wk:page":"Uxbridge, Ontario"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101736087,
-    "wof:lastmodified":1563284492,
+    "wof:lastmodified":1566519489,
     "wof:name":"Uxbridge",
     "wof:parent_id":890456493,
     "wof:placetype":"locality",

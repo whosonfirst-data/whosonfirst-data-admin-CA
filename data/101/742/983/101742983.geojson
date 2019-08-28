@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
+    "geom:area_square_m":619061.068936,
     "geom:bbox":"-127.1832599,50.6057397,-127.1687704,50.6154411",
     "geom:latitude":50.609643,
     "geom:longitude":-127.17477,
     "iso:country":"CA",
     "lbl:latitude":50.607744,
     "lbl:longitude":-127.175362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.607744,
     "mps:longitude":-127.175362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klickseewy 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742983,
-    "wof:lastmodified":1533335871,
+    "wof:lastmodified":1566520016,
     "wof:name":"Klickseewy 7",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

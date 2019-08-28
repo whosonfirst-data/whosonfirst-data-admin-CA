@@ -14,12 +14,13 @@
     "geom:longitude":-113.377012,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":11302,
     "gn:population":11302,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.96703,
     "lbl:longitude":-113.377064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.96703,
     "mps:longitude":-113.377064,
     "mz:hierarchy_label":1,
@@ -276,7 +277,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2641,
     "wof:belongsto":[
@@ -289,7 +290,7 @@
     "wof:concordances":{
         "gn:id":6179602,
         "gp:id":8705,
-        "qs:id":898326,
+        "qs_pg:id":898326,
         "wd:id":"Q950050",
         "wk:page":"Wetaskiwin"
     },
@@ -306,7 +307,7 @@
         }
     ],
     "wof:id":890457599,
-    "wof:lastmodified":1563286443,
+    "wof:lastmodified":1566520234,
     "wof:name":"Wetaskiwin",
     "wof:parent_id":1158863267,
     "wof:placetype":"locality",

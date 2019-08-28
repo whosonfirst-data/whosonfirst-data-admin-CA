@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.405652,
     "lbl:longitude":-70.331386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.405652,
     "mps:longitude":-70.331386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sainte-Justine"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191575,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101736509,
-    "wof:lastmodified":1563284483,
+    "wof:lastmodified":1566519488,
     "wof:name":"Sainte-Justine",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

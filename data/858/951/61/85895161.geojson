@@ -10,8 +10,10 @@
     "geom:latitude":43.269127,
     "geom:longitude":-79.960852,
     "iso:country":"CA",
+    "lbl:bbox":"-79.965852,43.264127,-79.955852,43.274127",
     "lbl:latitude":43.269127,
     "lbl:longitude":-79.960852,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.282624,
     "mps:longitude":-79.946405,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:swe_x_preferred":[
         "Dundas"
     ],
-    "name:unk_x_variant":[
-        "Dundas"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"08",
@@ -90,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":6948482,
         "gp:id":55999149,
-        "qs:id":213720,
         "qs_pg:id":213720,
         "wd:id":"Q620726",
         "wk:page":"Dundas, Ontario"
@@ -125,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282090,
+    "wof:lastmodified":1566518998,
     "wof:name":"Dundas",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

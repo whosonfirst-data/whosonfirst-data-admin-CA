@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":73481.214029,
     "geom:bbox":"-132.8019581,54.1261265,-132.7984171,54.1297736",
     "geom:latitude":54.127886,
     "geom:longitude":-132.799904,
     "iso:country":"CA",
     "lbl:latitude":54.127749,
     "lbl:longitude":-132.799693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.127749,
     "mps:longitude":-132.799693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jalun 14"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742817,
-    "wof:lastmodified":1533335868,
+    "wof:lastmodified":1566520011,
     "wof:name":"Jalun 14",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

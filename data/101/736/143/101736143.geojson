@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.422048,
     "lbl:longitude":-80.32716,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.422048,
     "mps:longitude":-80.32716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0631\u064a\u062f\u062c"
     ],
@@ -194,7 +197,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":329.0,
     "wd:latitude":43.358333,
@@ -213,7 +216,6 @@
     "wof:concordances":{
         "gn:id":5913695,
         "gp:id":4350,
-        "qs:id":900898,
         "qs_pg:id":900898,
         "wd:id":"Q1028279",
         "wk:page":"Cambridge, Ontario"
@@ -230,7 +232,7 @@
         }
     ],
     "wof:id":101736143,
-    "wof:lastmodified":1563284447,
+    "wof:lastmodified":1566519481,
     "wof:name":"Cambridge",
     "wof:parent_id":890456483,
     "wof:placetype":"locality",

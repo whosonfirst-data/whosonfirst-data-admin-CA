@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007324,
+    "geom:area_square_m":54582427.599982,
     "geom:bbox":"-89.8428444,52.8794739,-89.6794403,52.9867639",
     "geom:latitude":52.933598,
     "geom:longitude":-89.760546,
     "iso:country":"CA",
     "lbl:latitude":52.934947,
     "lbl:longitude":-89.738101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.934947,
     "mps:longitude":-89.738101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kingfisher Indian Reserve No. 2A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741185,
-    "wof:lastmodified":1533335658,
+    "wof:lastmodified":1566519902,
     "wof:name":"Kingfisher Indian Reserve No. 2A",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

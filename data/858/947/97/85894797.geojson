@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.229462,
     "lbl:longitude":-122.79463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.223849,
     "mps:longitude":-122.804617,
     "mz:hierarchy_label":1,
@@ -232,9 +233,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0438\u0442\u0430\u0434\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Citadel Heights"
-    ],
     "name:uzb_x_preferred":[
         "Ark"
     ],
@@ -272,7 +270,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1371,
     "wof:belongsto":[
         85682117,
@@ -284,7 +282,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998860,
-        "qs:id":1354746,
         "qs_pg:id":1354746,
         "wd:id":"Q88291"
     },
@@ -304,7 +301,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281996,
+    "wof:lastmodified":1566518979,
     "wof:name":"Citadel",
     "wof:parent_id":101741061,
     "wof:placetype":"neighbourhood",

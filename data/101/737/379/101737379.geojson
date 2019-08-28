@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.065818,
     "lbl:longitude":-66.981837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.065818,
     "mps:longitude":-66.981837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Andr\u00e9-de-Restigouche"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":370,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101737379,
-    "wof:lastmodified":1563284186,
+    "wof:lastmodified":1566519424,
     "wof:name":"Saint-Andr\u00e9-de-Restigouche",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",

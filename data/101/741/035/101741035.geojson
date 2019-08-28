@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.992032,
     "lbl:longitude":-123.820165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.992032,
     "mps:longitude":-123.820165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a\u062f\u064a \u0633\u0645\u064a\u062b"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.9975,
     "wd:longitude":-123.820278,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":6047817,
         "gp:id":23395544,
-        "qs:id":1249114,
         "qs_pg:id":367052,
         "wd:id":"Q373626",
         "wk:page":"Ladysmith, British Columbia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1249114
     },
     "wof:country":"CA",
     "wof:geomhash":"5569f557e8e32850eb974791fdb4348b",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101741035,
-    "wof:lastmodified":1563285207,
+    "wof:lastmodified":1566519893,
     "wof:name":"Ladysmith",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

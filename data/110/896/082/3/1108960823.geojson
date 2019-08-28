@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1692048.389506,
+    "geom:area_square_m":1692048.389505,
     "geom:bbox":"-73.8358175084,45.4389332489,-73.8151173254,45.4551811826",
     "geom:latitude":45.446559,
     "geom:longitude":-73.824967,
     "iso:country":"CA",
     "lbl:latitude":45.436282,
     "lbl:longitude":-73.833457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.446969,
     "mps:longitude":-73.823947,
     "mz:hierarchy_label":1,
@@ -27,11 +28,11 @@
     "reversegeo:longitude":-73.823947,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736487,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1108960823,
-    "wof:lastmodified":1533277851,
+    "wof:lastmodified":1566519273,
     "wof:name":"Cedar Park Heights",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.849214,
     "lbl:longitude":-72.581686,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.849214,
     "mps:longitude":-72.581686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sainte-Th\u00e8cle"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4125,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":6138118,
         "gp:id":1477,
-        "qs:id":615598,
         "qs_pg:id":615598,
         "wd:id":"Q3464432",
         "wk:page":"Sainte-Th\u00e8cle, Quebec"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101737277,
-    "wof:lastmodified":1563284254,
+    "wof:lastmodified":1566519442,
     "wof:name":"Sainte-Th\u00e8cle",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

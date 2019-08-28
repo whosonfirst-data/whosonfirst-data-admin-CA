@@ -11,8 +11,10 @@
     "geom:longitude":-123.06785,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.07285,49.018399,-123.06285,49.028399",
     "lbl:latitude":49.023399,
     "lbl:longitude":-123.06785,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.020694,
     "mps:longitude":-123.072047,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:spa_x_preferred":[
         "Tsawwassen"
-    ],
-    "name:unk_x_variant":[
-        "Downtown Tsawwassen"
     ],
     "name:vie_x_preferred":[
         "Tsawwassen"
@@ -72,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":3497,
     "wof:belongsto":[
         85682117,
@@ -84,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998773,
-        "qs:id":212689,
         "qs_pg:id":212689,
         "wd:id":"Q7849447"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281988,
+    "wof:lastmodified":1566518978,
     "wof:name":"Tsawwassen",
     "wof:parent_id":101741003,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.456564,
     "lbl:longitude":-77.193839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.456564,
     "mps:longitude":-77.193839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bonnechere Valley"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":297,
     "wof:belongsto":[
         102191575,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101736147,
-    "wof:lastmodified":1563284559,
+    "wof:lastmodified":1566519503,
     "wof:name":"Bonnechere Valley",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

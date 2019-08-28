@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.968477,
     "lbl:longitude":-65.759053,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.968477,
     "mps:longitude":-65.759053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Yarmouth"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Yarmouth",
     "statcan:cdtype":"CTY",
     "statcan:cduid":"1202",
@@ -97,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375091,
-        "qs:id":225134,
+        "qs_pg:id":225134,
         "wk:page":"Yarmouth"
     },
     "wof:country":"CA",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890458691,
-    "wof:lastmodified":1564173251,
+    "wof:lastmodified":1566520136,
     "wof:name":"Yarmouth",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

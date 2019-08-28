@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001441,
+    "geom:area_square_m":11372943.671575,
     "geom:bbox":"-94.7910111,50.3266195,-94.7223324,50.3820582",
     "geom:latitude":50.352291,
     "geom:longitude":-94.760662,
     "iso:country":"CA",
     "lbl:latitude":50.335322,
     "lbl:longitude":-94.770514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.335322,
     "mps:longitude":-94.770514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "One Man Lake Indian Reserve No. 29"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741207,
-    "wof:lastmodified":1533335659,
+    "wof:lastmodified":1566519893,
     "wof:name":"One Man Lake Indian Reserve No. 29",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.786086,
     "lbl:longitude":-79.27778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.782243,
     "mps:longitude":-79.274589,
     "mz:hierarchy_label":1,
@@ -52,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Agincourt South-Malvern West (128)",
     "torsdfa:AREA_S_CD":"128",
     "wd:latitude":43.79,
@@ -70,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999349,
-        "qs:id":899544,
         "qs_pg:id":899544,
         "wd:id":"Q4692573"
     },
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281827,
+    "wof:lastmodified":1566518946,
     "wof:name":"Agincourt South",
     "wof:parent_id":1108833323,
     "wof:placetype":"neighbourhood",

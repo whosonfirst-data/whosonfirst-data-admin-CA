@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112129,
+    "geom:area_square_m":862745291.791115,
     "geom:bbox":"-103.2805862,51.3867022,-102.8557295,51.6520621",
     "geom:latitude":51.519443,
     "geom:longitude":-103.068121,
     "iso:country":"CA",
     "lbl:latitude":51.519413,
     "lbl:longitude":-103.068171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.519413,
     "mps:longitude":-103.068171,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Insinger No. 275"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101740123,
-    "wof:lastmodified":1531525247,
+    "wof:lastmodified":1566519585,
     "wof:name":"Insinger No. 275",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

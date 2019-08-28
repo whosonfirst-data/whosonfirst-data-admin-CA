@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.705386,
     "lbl:longitude":-106.574772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.705386,
     "mps:longitude":-106.574772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0444\u043b\u0435\u0447\u0435"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.7064,
     "wd:longitude":-106.574,
     "wd:wordcount":2951,
@@ -75,7 +78,6 @@
         "fct:id":"03bfd0e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6047858,
         "gp:id":800,
-        "qs:id":493929,
         "qs_pg:id":493929,
         "wd:id":"Q1914981",
         "wk:page":"Lafleche, Saskatchewan"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284045,
+    "wof:lastmodified":1566519404,
     "wof:name":"Lafleche",
     "wof:parent_id":1158868987,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":43.008106,
     "lbl:longitude":-81.899196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.008106,
     "mps:longitude":-81.899196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Watford"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":542,
     "wof:belongsto":[
         102191575,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6176902,
         "gp:id":23397385,
-        "qs:id":326085,
         "qs_pg:id":326085,
         "wd:id":"Q7971093",
         "wk:page":"Warwick, Ontario"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101736299,
-    "wof:lastmodified":1561844348,
+    "wof:lastmodified":1566519500,
     "wof:name":"Warwick",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

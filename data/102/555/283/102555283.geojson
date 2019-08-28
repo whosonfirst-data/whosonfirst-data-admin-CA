@@ -16,6 +16,7 @@
     "mps:longitude":-71.383989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Qu\u00e9bec"
     ],
@@ -96,7 +97,7 @@
     "src:geom_alt":[
         "woedb"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375121,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":102555283,
-    "wof:lastmodified":1563281353,
+    "wof:lastmodified":1566518863,
     "wof:name":"Jean Lesage International Airport",
     "wof:parent_id":1126128649,
     "wof:placetype":"campus",

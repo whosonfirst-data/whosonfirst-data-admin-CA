@@ -11,8 +11,10 @@
     "geom:longitude":-76.505157,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.510157,44.247319,-76.500157,44.257319",
     "lbl:latitude":44.252319,
     "lbl:longitude":-76.505157,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.262933,
     "mps:longitude":-76.514718,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:swe_x_preferred":[
         "Kingscourt"
     ],
-    "name:unk_x_variant":[
-        "Kingscourt"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5992500,
@@ -94,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -105,7 +104,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399625,
-        "qs:id":1087668,
         "qs_pg:id":1087668
     },
     "wof:country":"CA",
@@ -124,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170732,
+    "wof:lastmodified":1566518961,
     "wof:name":"Kingscourt",
     "wof:parent_id":101735601,
     "wof:placetype":"neighbourhood",

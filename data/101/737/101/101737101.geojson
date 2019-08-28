@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.206056,
     "lbl:longitude":-72.143235,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.206056,
     "mps:longitude":-72.143235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0641\u0644\u0648\u064a\u0641\u064a\u0644"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":5935388,
         "gp:id":23394352,
-        "qs:id":1053466,
         "qs_pg:id":1053466,
         "wd:id":"Q142414",
         "wk:page":"Daveluyville"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101737101,
-    "wof:lastmodified":1563284246,
+    "wof:lastmodified":1566519441,
     "wof:name":"Daveluyville",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

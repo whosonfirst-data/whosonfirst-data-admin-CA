@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
+    "geom:area_square_m":1242123.247934,
     "geom:bbox":"-126.0852678,49.8033934,-126.0697496,49.8216666",
     "geom:latitude":49.813553,
     "geom:longitude":-126.077617,
     "iso:country":"CA",
     "lbl:latitude":49.81287,
     "lbl:longitude":-126.077735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.81287,
     "mps:longitude":-126.077735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsa Xana 18"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743779,
-    "wof:lastmodified":1533335883,
+    "wof:lastmodified":1566519994,
     "wof:name":"Tsa Xana 18",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

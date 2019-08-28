@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6050901.512295,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.310198,49.044085,-122.310198,49.044085",
     "geom:latitude":49.044085,
     "geom:longitude":-122.310198,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.315198,49.039085,-122.305198,49.049085",
     "lbl:latitude":49.044085,
     "lbl:longitude":-122.310198,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.034809,
     "mps:longitude":-122.300777,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Mill Lake"
-    ],
-    "name:unk_x_variant":[
         "Mill Lake"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -56,19 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101740961,
-        890458867,
-        85682117
+        890458867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856461,
-        "qs:id":1135817,
         "qs_pg:id":1135817
     },
     "wof:country":"CA",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872081,
+    "wof:lastmodified":1566518949,
     "wof:name":"Mill Lake",
     "wof:parent_id":101740961,
     "wof:placetype":"neighbourhood",

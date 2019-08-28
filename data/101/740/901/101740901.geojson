@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.685977,
     "lbl:longitude":-127.053988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.685977,
     "mps:longitude":-127.053988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Telkwa"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":226,
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":6162623,
         "gp:id":9424,
-        "qs:id":898339,
         "qs_pg:id":898339,
         "wd:id":"Q2957651",
         "wk:page":"Telkwa"
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101740901,
-    "wof:lastmodified":1561844382,
+    "wof:lastmodified":1566519545,
     "wof:name":"Telkwa",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

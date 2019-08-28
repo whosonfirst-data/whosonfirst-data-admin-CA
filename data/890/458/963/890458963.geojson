@@ -11,11 +11,15 @@
     "geom:longitude":-63.09868,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
+    "lbl:bbox":"-63.11868,46.29682,-63.07868,46.33682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "York"
     ],
@@ -302,7 +306,7 @@
     "wof:concordances":{
         "gn:id":6185556,
         "gp:id":23389793,
-        "qs:id":262193,
+        "qs_pg:id":262193,
         "wk:page":"York"
     },
     "wof:country":"CA",
@@ -318,7 +322,7 @@
         }
     ],
     "wof:id":890458963,
-    "wof:lastmodified":1564173209,
+    "wof:lastmodified":1566520098,
     "wof:name":"York",
     "wof:parent_id":890457737,
     "wof:placetype":"locality",

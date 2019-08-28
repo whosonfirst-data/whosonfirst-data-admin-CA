@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6818842.275218,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.668901,43.447791,-79.668901,43.447791",
     "geom:latitude":43.447791,
     "geom:longitude":-79.668901,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.673901,43.442791,-79.663901,43.452791",
     "lbl:latitude":43.447791,
     "lbl:longitude":-79.668901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.443471,
     "mps:longitude":-79.662822,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Downtown Oakville"
-    ],
-    "name:unk_x_variant":[
         "Downtown Oakville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735889,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999251,
-        "qs:id":1354947,
         "qs_pg:id":1354947
     },
     "wof:country":"CA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931368,
+    "wof:lastmodified":1566518951,
     "wof:name":"Downtown Oakville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

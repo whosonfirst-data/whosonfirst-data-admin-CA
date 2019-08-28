@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
-    "geom:area_square_m":4753522.730171,
+    "geom:area_square_m":4753522.730184,
     "geom:bbox":"-79.47018428,43.750377309,-79.430024504,43.787918341",
     "geom:latitude":43.764814,
     "geom:longitude":-79.456057,
@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":43.760767,
     "lbl:longitude":-79.454703,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.776069,
     "mps:longitude":-79.45318,
     "mz:hierarchy_label":1,
@@ -33,24 +34,23 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Bathurst Manor (34)",
     "torsdfa:AREA_S_CD":"034",
     "wd:latitude":43.7628,
     "wd:longitude":-79.4569,
     "wd:wordcount":1267,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
         1108833315,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26332358,
-        "qs:id":368567,
         "qs_pg:id":368567,
         "wd:id":"Q4869120"
     },
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533272676,
+    "wof:lastmodified":1566519013,
     "wof:name":"Bathurst Manor",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001936,
+    "geom:area_square_m":14258118.92587,
     "geom:bbox":"-102.9062014,53.414255,-102.8351769,53.4667111",
     "geom:latitude":53.441407,
     "geom:longitude":-102.873386,
     "iso:country":"CA",
     "lbl:latitude":53.448548,
     "lbl:longitude":-102.87097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.448548,
     "mps:longitude":-102.87097,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Red Earth I.R. 29"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742267,
-    "wof:lastmodified":1531523850,
+    "wof:lastmodified":1566520014,
     "wof:name":"Red Earth I.R. 29",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

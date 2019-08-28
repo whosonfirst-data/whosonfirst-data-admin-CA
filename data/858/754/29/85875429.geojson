@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28209758.899698,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.189544,48.472456,-89.189544,48.472456",
     "geom:latitude":48.472456,
     "geom:longitude":-89.189544,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-89.194544,48.467456,-89.184544,48.477456",
     "lbl:latitude":48.472456,
     "lbl:longitude":-89.189544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.478888,
     "mps:longitude":-89.191027,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Current River"
     ],
     "name:swe_x_preferred":[
-        "Current River"
-    ],
-    "name:unk_x_variant":[
         "Current River"
     ],
     "qs:gn_id":0,
@@ -65,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":24,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735591,
-        890458687,
-        85682057
+        890458687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856516,
-        "qs:id":1089568,
         "qs_pg:id":1089568
     },
     "wof:country":"CA",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872113,
+    "wof:lastmodified":1566518947,
     "wof:name":"Current River",
     "wof:parent_id":101735591,
     "wof:placetype":"neighbourhood",

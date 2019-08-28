@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":70541.103082,
     "geom:bbox":"-121.5699419,50.1289318,-121.5627791,50.131824",
     "geom:latitude":50.130111,
     "geom:longitude":-121.566316,
     "iso:country":"CA",
     "lbl:latitude":50.129952,
     "lbl:longitude":-121.567162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.129952,
     "mps:longitude":-121.567162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kupchynalth 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744365,
-    "wof:lastmodified":1533335892,
+    "wof:lastmodified":1566519964,
     "wof:name":"Kupchynalth 2",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

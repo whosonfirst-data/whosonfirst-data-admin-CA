@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
+    "geom:area_square_m":372667.731741,
     "geom:bbox":"-127.4754503,50.3785489,-127.4650796,50.3840469",
     "geom:latitude":50.381137,
     "geom:longitude":-127.471012,
     "iso:country":"CA",
     "lbl:latitude":50.381284,
     "lbl:longitude":-127.47195,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.381284,
     "mps:longitude":-127.47195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cayuse 6"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743147,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566520005,
     "wof:name":"Cayuse 6",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

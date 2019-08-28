@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.783594,
     "lbl:longitude":-104.977922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.783594,
     "mps:longitude":-104.977922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Regina Beach"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.79,
     "wd:longitude":-104.99,
     "wd:wordcount":122,
@@ -63,7 +66,6 @@
         "fct:id":"03ba78e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6119113,
         "gp:id":2487,
-        "qs:id":1230824,
         "qs_pg:id":1230824,
         "wd:id":"Q1916747",
         "wk:page":"Regina Beach"
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284072,
+    "wof:lastmodified":1566519407,
     "wof:name":"Regina Beach",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

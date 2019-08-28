@@ -26,10 +26,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.928486,
     "lbl:longitude":-123.745969,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.928486,
     "mps:longitude":-123.745969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0646\u0634\u0627\u06cc\u0646 \u06a9\u06c6\u0633\u062a"
     ],
@@ -79,7 +82,7 @@
         "unknown",
         "can-databc"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Sunshine Coast",
     "statcan:cdtype":"RD",
     "statcan:cduid":"5929",
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375208,
-        "qs:id":379441,
+        "qs_pg:id":379441,
         "wk:page":"Sunshine Coast"
     },
     "wof:country":"CA",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890456829,
-    "wof:lastmodified":1564173275,
+    "wof:lastmodified":1566520151,
     "wof:name":"Sunshine Coast",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1335018.763512,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.575736,52.145929,-106.575736,52.145929",
     "geom:latitude":52.145929,
     "geom:longitude":-106.575736,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-106.580736,52.140929,-106.570736,52.150929",
     "lbl:latitude":52.145929,
     "lbl:longitude":-106.575736,
+    "lbl:max_zoom":18.0,
     "mps:latitude":52.150343,
     "mps:longitude":-106.567367,
     "mz:hierarchy_label":0,
@@ -33,19 +35,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115071,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856372,
-        "qs:id":1089548,
         "qs_pg:id":1089548,
         "wd:id":"Q5389264"
     },
@@ -66,7 +67,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872033,
+    "wof:lastmodified":1566518995,
     "wof:name":"Erindale",
     "wof:parent_id":1126115071,
     "wof:placetype":"neighbourhood",

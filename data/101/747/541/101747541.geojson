@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":8724.344765,
     "geom:bbox":"-61.0909982,46.3391243,-61.0896668,46.3401132",
     "geom:latitude":46.339625,
     "geom:longitude":-61.090356,
     "iso:country":"CA",
     "lbl:latitude":46.339617,
     "lbl:longitude":-61.090369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.339617,
     "mps:longitude":-61.090369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Margaree Indian Reserve No. 25"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747541,
-    "wof:lastmodified":1532597300,
+    "wof:lastmodified":1566519756,
     "wof:name":"Margaree Indian Reserve No. 25",
     "wof:parent_id":890458013,
     "wof:placetype":"locality",

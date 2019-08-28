@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7288926.527986,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.379026,43.75735,-79.379026,43.75735",
     "geom:latitude":43.75735,
     "geom:longitude":-79.379026,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.384026,43.75235,-79.374026,43.76235",
     "lbl:latitude":43.75735,
     "lbl:longitude":-79.379026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.756168,
     "mps:longitude":-79.388719,
     "mz:hierarchy_label":0,
@@ -33,20 +35,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"St.Andrew-Windfields (40)",
     "torsdfa:AREA_S_CD":"040",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833315
+        1108833315,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999537,
-        "qs:id":1355078,
         "qs_pg:id":1355078
     },
     "wof:controlled":[],
@@ -67,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931437,
+    "wof:lastmodified":1566518953,
     "wof:name":"Saint Andrew's",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

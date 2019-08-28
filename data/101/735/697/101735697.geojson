@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.914697,
     "lbl:longitude":-82.468998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.914697,
     "mps:longitude":-82.468998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Gore Bay"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.916667,
     "wd:longitude":-82.466667,
     "wd:wordcount":188,
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":5963553,
         "gp:id":3227,
-        "qs:id":1053489,
         "qs_pg:id":1053489,
         "wd:id":"Q2982694",
         "wk:page":"Gore Bay, Ontario"
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101735697,
-    "wof:lastmodified":1563285473,
+    "wof:lastmodified":1566519951,
     "wof:name":"Gore Bay",
     "wof:parent_id":890458809,
     "wof:placetype":"locality",

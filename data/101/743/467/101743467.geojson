@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
+    "geom:area_square_m":82006.303054,
     "geom:bbox":"-128.621928,54.3787905,-128.6157333,54.3824197",
     "geom:latitude":54.381245,
     "geom:longitude":-128.61792,
     "iso:country":"CA",
     "lbl:latitude":54.381123,
     "lbl:longitude":-128.617662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.381123,
     "mps:longitude":-128.617662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lakelse 25"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743467,
-    "wof:lastmodified":1533335878,
+    "wof:lastmodified":1566520000,
     "wof:name":"Lakelse 25",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":40965.488861,
     "geom:bbox":"-125.1933872,50.163344,-125.1877544,50.1651676",
     "geom:latitude":50.1645,
     "geom:longitude":-125.191577,
     "iso:country":"CA",
     "lbl:latitude":50.16426,
     "lbl:longitude":-125.192484,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.16426,
     "mps:longitude":-125.192484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Village Bay 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744005,
-    "wof:lastmodified":1533335887,
+    "wof:lastmodified":1566519980,
     "wof:name":"Village Bay 7",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

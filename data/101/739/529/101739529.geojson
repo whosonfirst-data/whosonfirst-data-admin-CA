@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.325189,
     "lbl:longitude":-101.517474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.325189,
     "mps:longitude":-101.517474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Welwyn"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.831,
     "wd:longitude":-0.215,
     "wd:wordcount":2252,
@@ -75,7 +78,6 @@
         "fct:id":"03c028ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6178036,
         "gp:id":2520,
-        "qs:id":160440,
         "qs_pg:id":160440,
         "wd:id":"Q2205306"
     },
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844269,
+    "wof:lastmodified":1566519400,
     "wof:name":"Welwyn",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

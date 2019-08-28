@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4483063.459437,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.896937,49.256514,-122.896937,49.256514",
     "geom:latitude":49.256514,
     "geom:longitude":-122.896937,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.901937,49.251514,-122.891937,49.261514",
     "lbl:latitude":49.256514,
     "lbl:longitude":-122.896937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.263104,
     "mps:longitude":-122.885154,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Sullivan Heights"
     ],
     "name:swe_x_preferred":[
-        "Sullivan Heights"
-    ],
-    "name:unk_x_variant":[
         "Sullivan Heights"
     ],
     "name:zho_x_preferred":[
@@ -75,20 +74,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":283,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998713,
-        "qs:id":897468,
         "qs_pg:id":897468
     },
     "wof:country":"CA",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931232,
+    "wof:lastmodified":1566518972,
     "wof:name":"Sullivan Heights",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

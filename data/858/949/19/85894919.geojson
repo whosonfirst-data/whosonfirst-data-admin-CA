@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.310537,
     "lbl:longitude":-122.956392,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.303635,
     "mps:longitude":-122.94816,
     "mz:hierarchy_label":0,
@@ -35,9 +36,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Dollarton"
-    ],
-    "name:unk_x_variant":[
         "Dollarton"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -71,7 +69,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682117,
         102191575,
@@ -82,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998929,
-        "qs:id":220639,
         "qs_pg:id":220639
     },
     "wof:country":"CA",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533335943,
+    "wof:lastmodified":1566518981,
     "wof:name":"Dollarton",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

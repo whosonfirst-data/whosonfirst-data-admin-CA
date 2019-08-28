@@ -9,10 +9,12 @@
     "geom:bbox":"-79.1772787,42.9595664,-78.9996642,43.1479224",
     "geom:latitude":43.05097,
     "geom:longitude":-79.101703,
-    "geonames:id":"6087892,5128723",
+    "gn:id":"6087892,5128723",
     "iso:country":"CA",
     "lbl:latitude":43.026661,
     "lbl:longitude":-79.103387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.026661,
     "mps:longitude":-79.103387,
     "mz:hierarchy_label":1,
@@ -560,7 +562,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8089,
     "wof:belongsto":[
         102191575,
@@ -589,7 +591,7 @@
         }
     ],
     "wof:id":101736289,
-    "wof:lastmodified":1563284383,
+    "wof:lastmodified":1566519463,
     "wof:name":"Niagara Falls",
     "wof:parent_id":890456991,
     "wof:placetype":"locality",

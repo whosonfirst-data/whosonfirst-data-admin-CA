@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":541120.910941,
     "geom:bbox":"-123.1839634,49.77651,-123.1694934,49.7846023",
     "geom:latitude":49.781772,
     "geom:longitude":-123.1756,
     "iso:country":"CA",
     "lbl:latitude":49.7823,
     "lbl:longitude":-123.17452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.7823,
     "mps:longitude":-123.17452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poquiosin & Skamain 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101746797,
-    "wof:lastmodified":1533335921,
+    "wof:lastmodified":1566519802,
     "wof:name":"Poquiosin & Skamain 13",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

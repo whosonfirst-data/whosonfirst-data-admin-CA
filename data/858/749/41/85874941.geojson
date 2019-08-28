@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6313463.292266,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.239696,43.045278,-81.239696,43.045278",
     "geom:latitude":43.045278,
     "geom:longitude":-81.239696,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-81.244696,43.040278,-81.234696,43.050278",
     "lbl:latitude":43.045278,
     "lbl:longitude":-81.239696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.048898,
     "mps:longitude":-81.242057,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Stoney Creek"
     ],
     "name:swe_x_preferred":[
-        "Stoney Creek"
-    ],
-    "name:unk_x_variant":[
         "Stoney Creek"
     ],
     "qs:gn_id":0,
@@ -67,21 +66,23 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":116,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735809,
-        890457469,
-        85682057
+        890457469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6157390,
         "gp:id":1758,
-        "qs:id":986455,
         "qs_pg:id":894499
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":986455
     },
     "wof:country":"CA",
     "wof:geomhash":"ffe04c50de0ec6f6bb9297e6ba57f696",
@@ -99,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871971,
+    "wof:lastmodified":1566518977,
     "wof:name":"Stoney Creek",
     "wof:parent_id":101735809,
     "wof:placetype":"neighbourhood",

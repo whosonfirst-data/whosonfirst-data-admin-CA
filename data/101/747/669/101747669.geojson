@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":15149.028748,
     "geom:bbox":"-130.4248957,53.810916,-130.4206214,53.8123314",
     "geom:latitude":53.811502,
     "geom:longitude":-130.422994,
     "iso:country":"CA",
     "lbl:latitude":53.811531,
     "lbl:longitude":-130.42322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.811531,
     "mps:longitude":-130.42322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sand Island 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747669,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566519640,
     "wof:name":"Sand Island 4",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

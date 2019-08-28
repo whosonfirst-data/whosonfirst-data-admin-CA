@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":384667.862021,
     "geom:bbox":"-124.8284041,49.260252,-124.8226638,49.2694647",
     "geom:latitude":49.265034,
     "geom:longitude":-124.825456,
     "iso:country":"CA",
     "lbl:latitude":49.265135,
     "lbl:longitude":-124.825496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.265135,
     "mps:longitude":-124.825496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ahahswinis 1"
     ],
@@ -37,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101747497,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566519640,
     "wof:name":"Ahahswinis 1",
     "wof:parent_id":890458599,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.884656,
     "lbl:longitude":-97.156607,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.883491,
     "mps:longitude":-97.158424,
     "mz:hierarchy_label":1,
@@ -41,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":298,
     "wof:belongsto":[
         102191575,
@@ -54,7 +55,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856070,
-        "qs:id":1331914,
         "qs_pg:id":1331914
     },
     "wof:country":"CA",
@@ -74,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170764,
+    "wof:lastmodified":1566518975,
     "wof:name":"West Broadway",
     "wof:parent_id":1108968923,
     "wof:placetype":"neighbourhood",

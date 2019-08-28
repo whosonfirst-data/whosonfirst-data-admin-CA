@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.397118,
     "lbl:longitude":-103.410654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.397118,
     "mps:longitude":-103.410654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u0434\u0430\u043b\u0435"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.4,
     "wd:longitude":-103.4,
     "wd:wordcount":330,
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284019,
+    "wof:lastmodified":1566519400,
     "wof:name":"Midale",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

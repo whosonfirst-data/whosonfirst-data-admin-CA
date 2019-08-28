@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.321397,
     "lbl:longitude":-122.981895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.352477,
     "mps:longitude":-122.967559,
     "mz:hierarchy_label":1,
@@ -41,9 +42,6 @@
         "Northlands"
     ],
     "name:fra_x_preferred":[
-        "Northlands"
-    ],
-    "name:unk_x_variant":[
         "Northlands"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -77,7 +75,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":267,
     "wof:belongsto":[
         102191575,
@@ -90,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998747,
-        "qs:id":1090788,
         "qs_pg:id":1090788,
         "wd:id":"Q7059549"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281955,
+    "wof:lastmodified":1566518971,
     "wof:name":"Northlands",
     "wof:parent_id":1108906825,
     "wof:placetype":"neighbourhood",

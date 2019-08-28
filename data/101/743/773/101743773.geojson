@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":9855.486029,
     "geom:bbox":"-129.1656814,59.6696247,-129.1633934,59.6708466",
     "geom:latitude":59.670237,
     "geom:longitude":-129.16459,
     "iso:country":"CA",
     "lbl:latitude":59.670236,
     "lbl:longitude":-129.164602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.670236,
     "mps:longitude":-129.164602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dease River 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743773,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566520005,
     "wof:name":"Dease River 4",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

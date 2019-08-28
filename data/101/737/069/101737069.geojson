@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.838296,
     "lbl:longitude":-69.542516,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.838296,
     "mps:longitude":-69.542516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u0631\u064a \u062f\u0648 \u0644\u0648\u0628"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":632,
     "wof:belongsto":[
@@ -161,7 +164,6 @@
         "fct:id":"03c075a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6354897,
         "gp:id":3658,
-        "qs:id":1252340,
         "qs_pg:id":1252340,
         "wd:id":"Q142024",
         "wk:page":"Rivi\u00e8re-du-Loup"
@@ -181,7 +183,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284301,
+    "wof:lastmodified":1566519449,
     "wof:name":"Rivi\u00e8re-du-Loup",
     "wof:parent_id":890456305,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.552555,
     "lbl:longitude":-71.517825,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.552555,
     "mps:longitude":-71.517825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Lotbini\u00e8re"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Lotbiniere",
     "statcan:cdtype":"MRC",
     "statcan:cduid":"2433",
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375213,
-        "qs:id":1290409,
+        "qs_pg:id":1290409,
         "wk:page":"Lotbini\u00e8re"
     },
     "wof:country":"CA",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890458401,
-    "wof:lastmodified":1564173219,
+    "wof:lastmodified":1566520106,
     "wof:name":"Lotbiniere",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

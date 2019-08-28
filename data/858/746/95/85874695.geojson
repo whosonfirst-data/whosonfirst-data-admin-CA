@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2338698.901032,
+    "geom:area_square_m":2338698.901036,
     "geom:bbox":"-113.557616257,53.5122557353,-113.53074261,53.5380677504",
     "geom:latitude":53.529191,
     "geom:longitude":-113.544973,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.529727,
     "lbl:longitude":-113.54366,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.528324,
     "mps:longitude":-113.542896,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -46,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856050,
-        "qs:id":897385,
         "qs_pg:id":897385
     },
     "wof:country":"CA",
@@ -65,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270241,
+    "wof:lastmodified":1566518985,
     "wof:name":"River Valley Mayfair",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

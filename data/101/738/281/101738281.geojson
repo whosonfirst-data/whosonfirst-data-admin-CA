@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.905629,
     "lbl:longitude":-70.078835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.905629,
     "mps:longitude":-70.078835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Marcel"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101738281,
-    "wof:lastmodified":1563284612,
+    "wof:lastmodified":1566519513,
     "wof:name":"Saint-Marcel",
     "wof:parent_id":890458609,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.888745,
     "lbl:longitude":-109.545441,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.888745,
     "mps:longitude":-109.545441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0430\u0434\u0435\u0440"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.89,
     "wd:longitude":-109.54,
     "wd:wordcount":1908,
@@ -75,7 +78,6 @@
         "fct:id":"03c0149e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6051040,
         "gp:id":2269,
-        "qs:id":1053512,
         "qs_pg:id":1053512,
         "wd:id":"Q1915145",
         "wk:page":"Leader, Saskatchewan"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284089,
+    "wof:lastmodified":1566519409,
     "wof:name":"Leader",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

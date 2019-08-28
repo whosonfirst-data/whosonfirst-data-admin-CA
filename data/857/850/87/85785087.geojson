@@ -13,8 +13,10 @@
     "gn:longitude":-59.95698,
     "gn:population":19968,
     "iso:country":"CA",
+    "lbl:bbox":"-59.957261,46.193753,-59.947261,46.203753",
     "lbl:latitude":46.198753,
     "lbl:longitude":-59.952261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.203205,
     "mps:longitude":-59.956706,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "Glace Bay"
     ],
-    "name:unk_x_variant":[
-        "Glace Bay"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6354908,
@@ -82,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":1659,
     "wof:belongsto":[
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":5961564,
         "gp:id":3934,
-        "qs:id":160252,
         "qs_pg:id":160252,
         "wd:id":"Q3108251",
         "wk:page":"Glace Bay"
@@ -114,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281692,
+    "wof:lastmodified":1566518909,
     "wof:name":"Glace Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

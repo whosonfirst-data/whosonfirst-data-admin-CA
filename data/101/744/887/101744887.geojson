@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00058,
+    "geom:area_square_m":4512547.676958,
     "geom:bbox":"-121.9384162,50.9869634,-121.9113251,51.0267272",
     "geom:latitude":51.008264,
     "geom:longitude":-121.926051,
     "iso:country":"CA",
     "lbl:latitude":51.010356,
     "lbl:longitude":-121.928514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.010356,
     "mps:longitude":-121.928514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leon Creek 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101744887,
-    "wof:lastmodified":1533335900,
+    "wof:lastmodified":1566519966,
     "wof:name":"Leon Creek 2",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

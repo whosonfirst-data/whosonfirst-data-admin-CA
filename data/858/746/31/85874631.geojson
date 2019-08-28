@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1197365.193897,
+    "geom:area_square_m":1197365.193896,
     "geom:bbox":"-113.508444126,53.5477634334,-113.49370729,53.5589002236",
     "geom:latitude":53.553359,
     "geom:longitude":-113.50104,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.5542,
     "lbl:longitude":-113.501125,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.551731,
     "mps:longitude":-113.501345,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":665.0,
     "wd:latitude":53.554,
     "wd:longitude":-113.502,
@@ -51,7 +52,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856013,
-        "qs:id":1089501,
         "qs_pg:id":1089501,
         "wd:id":"Q5061414"
     },
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270243,
+    "wof:lastmodified":1566518986,
     "wof:name":"Central McDougall",
     "wof:parent_id":1108970679,
     "wof:placetype":"neighbourhood",

@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
-    "geom:area_square_m":4138234.982679,
+    "geom:area_square_m":4138234.982668,
     "geom:bbox":"-114.012836,51.014311,-113.96304,51.030615",
     "geom:latitude":51.023336,
     "geom:longitude":-113.991005,
@@ -20,6 +20,7 @@
     "iso:country":"CA",
     "lbl:latitude":51.023644,
     "lbl:longitude":-113.991544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.024912,
     "mps:longitude":-113.995628,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         890458845,
@@ -50,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404844,
-        "qs:id":1087703,
         "qs_pg:id":1087703,
         "wd:id":"Q5302442"
     },
@@ -69,7 +69,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270391,
+    "wof:lastmodified":1566519005,
     "wof:name":"Dover",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

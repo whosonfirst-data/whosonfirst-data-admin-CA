@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249533,
+    "geom:area_square_m":1983091035.049657,
     "geom:bbox":"-109.3047208,49.6982815,-108.8509506,50.3100899",
     "geom:latitude":50.005775,
     "geom:longitude":-109.073053,
     "iso:country":"CA",
     "lbl:latitude":50.004193,
     "lbl:longitude":-109.07693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.004193,
     "mps:longitude":-109.07693,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Piapot No. 110"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101740385,
-    "wof:lastmodified":1531524382,
+    "wof:lastmodified":1566519562,
     "wof:name":"Piapot No. 110",
     "wof:parent_id":1158868961,
     "wof:placetype":"locality",

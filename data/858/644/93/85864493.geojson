@@ -11,8 +11,10 @@
     "geom:longitude":-80.480737,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.485737,43.42088,-80.475737,43.43088",
     "lbl:latitude":43.42588,
     "lbl:longitude":-80.480737,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.425022,
     "mps:longitude":-80.48136,
     "mz:hierarchy_label":0,
@@ -99,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u043f\u0430\u0439\u043d"
     ],
-    "name:unk_x_variant":[
-        "Alpine"
-    ],
     "name:vol_x_preferred":[
         "Alpine"
     ],
@@ -136,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -148,7 +147,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399428,
-        "qs:id":1188337,
         "qs_pg:id":1188337
     },
     "wof:country":"CA",
@@ -175,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170726,
+    "wof:lastmodified":1566518958,
     "wof:name":"Alpine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

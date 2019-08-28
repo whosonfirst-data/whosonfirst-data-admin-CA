@@ -10,8 +10,10 @@
     "geom:latitude":43.561987,
     "geom:longitude":-79.935269,
     "iso:country":"CA",
+    "lbl:bbox":"-79.940269,43.556987,-79.930269,43.566987",
     "lbl:latitude":43.561987,
     "lbl:longitude":-79.935269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.57245,
     "mps:longitude":-79.939803,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:swe_x_preferred":[
         "Bolton"
     ],
-    "name:unk_x_variant":[
-        "Boston"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"08",
@@ -84,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101736091,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":5905308,
         "gp:id":55999304,
-        "qs:id":489384,
         "qs_pg:id":489384,
         "wd:id":"Q891636",
         "wk:page":"Bolton, Ontario"
@@ -123,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281826,
+    "wof:lastmodified":1566518946,
     "wof:name":"Boston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":31079.861997,
     "geom:bbox":"-128.7380598,52.4700957,-128.7336079,52.472016",
     "geom:latitude":52.470947,
     "geom:longitude":-128.735565,
     "iso:country":"CA",
     "lbl:latitude":52.471117,
     "lbl:longitude":-128.734336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.471117,
     "mps:longitude":-128.734336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goo-Ewe 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743719,
-    "wof:lastmodified":1533335882,
+    "wof:lastmodified":1566520004,
     "wof:name":"Goo-Ewe 8",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

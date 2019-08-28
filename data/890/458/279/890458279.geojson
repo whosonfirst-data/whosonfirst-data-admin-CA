@@ -14,15 +14,18 @@
     "geom:longitude":-110.777984,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.012,
     "lbl:longitude":-110.777991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.012,
     "mps:longitude":-110.777991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0648\u0631\u062a"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":5926958,
         "gp:id":8566,
-        "qs:id":977901,
+        "qs_pg:id":977901,
         "wd:id":"Q2664348",
         "wk:page":"Consort"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890458279,
-    "wof:lastmodified":1563286055,
+    "wof:lastmodified":1566520128,
     "wof:name":"Consort",
     "wof:parent_id":1158863291,
     "wof:placetype":"locality",

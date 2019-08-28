@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.31859,
     "lbl:longitude":-123.111974,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.319061,
     "mps:longitude":-123.13812,
     "mz:hierarchy_label":1,
@@ -628,9 +629,6 @@
     "name:twi_x_preferred":[
         "Norgate"
     ],
-    "name:unk_x_variant":[
-        "Norgate"
-    ],
     "name:vec_x_preferred":[
         "Norgate"
     ],
@@ -704,7 +702,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":68,
     "wof:belongsto":[
         85682117,
@@ -716,7 +714,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404962,
-        "qs:id":585060,
         "qs_pg:id":585060,
         "wd:id":"Q7051163"
     },
@@ -736,7 +733,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281937,
+    "wof:lastmodified":1566518967,
     "wof:name":"Norgate",
     "wof:parent_id":101741071,
     "wof:placetype":"neighbourhood",

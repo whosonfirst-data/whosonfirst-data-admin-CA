@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1401946.706017,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.302809,53.537954,-113.302809,53.537954",
     "geom:latitude":53.537954,
     "geom:longitude":-113.302809,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-113.307809,53.532954,-113.297809,53.542954",
     "lbl:latitude":53.537954,
     "lbl:longitude":-113.302809,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.546469,
     "mps:longitude":-113.303932,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -45,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998561,
-        "qs:id":1070819,
         "qs_pg:id":1070819
     },
     "wof:country":"CA",
@@ -64,7 +65,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533250198,
+    "wof:lastmodified":1566519019,
     "wof:name":"Mills Haven",
     "wof:parent_id":890456619,
     "wof:placetype":"neighbourhood",

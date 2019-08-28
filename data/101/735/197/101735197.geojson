@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":47.517978,
     "lbl:longitude":-64.909072,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.517978,
     "mps:longitude":-64.909072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tracadie-Sheila"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.514444,
     "wd:longitude":-64.918056,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":7302644,
         "gp:id":1818,
-        "qs:id":1041012,
         "qs_pg:id":1041012,
         "wd:id":"Q2320312",
         "wk:page":"Tracadie\u2013Sheila"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101735197,
-    "wof:lastmodified":1563285430,
+    "wof:lastmodified":1566519943,
     "wof:name":"Tracadie-Sheila",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4554370.800291,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.321212,43.812981,-79.321212,43.812981",
     "geom:latitude":43.812981,
     "geom:longitude":-79.321212,
     "iso:country":"CA",
+    "lbl:bbox":"-79.326212,43.807981,-79.316212,43.817981",
     "lbl:latitude":43.812981,
     "lbl:longitude":-79.321212,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.811559,
     "mps:longitude":-79.336696,
     "mz:hierarchy_label":0,
@@ -31,21 +33,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "torsdfa:AREA_NAME":"Steeles (116)",
     "torsdfa:AREA_S_CD":"116",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6155938,
         "gp:id":55999447,
-        "qs:id":1086819,
         "qs_pg:id":1086819,
         "wd:id":"Q7605815",
         "wk:page":"Steeles, Toronto"
@@ -68,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931414,
+    "wof:lastmodified":1566518943,
     "wof:name":"Steeles",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

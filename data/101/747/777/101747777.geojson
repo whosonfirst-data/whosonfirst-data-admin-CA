@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000963,
-    "geom:area_square_m":8492530.909833,
+    "geom:area_square_m":8492530.909802,
     "geom:bbox":"-78.3798141,44.4537491,-78.336917,44.5124601",
     "geom:latitude":44.481841,
     "geom:longitude":-78.360739,
     "iso:country":"CA",
     "lbl:latitude":44.481211,
     "lbl:longitude":-78.363465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.481211,
     "mps:longitude":-78.363465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Curve Lake First Nation Indian Reserve No. 35"
     ],
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101747777,
-    "wof:lastmodified":1533335689,
+    "wof:lastmodified":1566519678,
     "wof:name":"Curve Lake First Nation Indian Reserve No. 35",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",

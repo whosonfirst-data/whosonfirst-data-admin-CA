@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.609169,
     "lbl:longitude":-73.722287,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.609169,
     "mps:longitude":-73.722287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Laval"
     ],
@@ -245,7 +248,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3088,
     "wof:belongsto":[
@@ -259,7 +262,6 @@
         "fct:id":"03c0b08e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6050610,
         "gp:id":4386,
-        "qs:id":891458,
         "qs_pg:id":891458,
         "wd:id":"Q141810",
         "wk:page":"Laval, Quebec"
@@ -279,7 +281,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563284250,
+    "wof:lastmodified":1566519441,
     "wof:name":"Laval",
     "wof:parent_id":890457693,
     "wof:placetype":"locality",

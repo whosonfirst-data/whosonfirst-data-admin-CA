@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":55.753239,
     "lbl:longitude":-97.845808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.753239,
     "mps:longitude":-97.845808,
     "mz:hierarchy_label":1,
@@ -265,7 +267,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3009,
     "wof:belongsto":[
@@ -279,7 +281,6 @@
         "fct:id":"03c0067a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6165406,
         "gp:id":2011,
-        "qs:id":219158,
         "qs_pg:id":219158,
         "wd:id":"Q991295",
         "wk:page":"Thompson, Manitoba"
@@ -299,7 +300,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285434,
+    "wof:lastmodified":1566519944,
     "wof:name":"Thompson",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

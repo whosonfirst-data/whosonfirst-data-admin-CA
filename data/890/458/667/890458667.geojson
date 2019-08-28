@@ -14,12 +14,13 @@
     "geom:longitude":-115.567736,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":7502,
     "gn:population":7502,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":51.17539,
     "lbl:longitude":-115.569257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.17539,
     "mps:longitude":-115.569257,
     "mz:hierarchy_label":1,
@@ -249,7 +250,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":139,
     "wof:belongsto":[
@@ -262,7 +263,7 @@
     "wof:concordances":{
         "gn:id":5892532,
         "gp:id":8465,
-        "qs:id":224376,
+        "qs_pg:id":224376,
         "wd:id":"Q58337",
         "wk:page":"Banff"
     },
@@ -279,7 +280,7 @@
         }
     ],
     "wof:id":890458667,
-    "wof:lastmodified":1563285985,
+    "wof:lastmodified":1566520107,
     "wof:name":"Banff",
     "wof:parent_id":1158863183,
     "wof:placetype":"locality",

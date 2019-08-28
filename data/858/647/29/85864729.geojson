@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000142,
-    "geom:area_square_m":1130330.050273,
+    "geom:area_square_m":1130330.050276,
     "geom:bbox":"-97.13423,49.902686,-97.108562,49.917357",
     "geom:latitude":49.908255,
     "geom:longitude":-97.124956,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.908121,
     "lbl:longitude":-97.124977,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.909672,
     "mps:longitude":-97.12738,
     "mz:hierarchy_label":1,
@@ -35,22 +36,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":49.9089,
     "wd:longitude":-97.1283,
     "wd:wordcount":778,
     "wof:belongsto":[
-        85682085,
         102191575,
         1108968477,
         85633041,
         101734959,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402439,
-        "qs:id":230515,
         "qs_pg:id":230515,
         "wd:id":"Q7056370"
     },
@@ -71,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531523921,
+    "wof:lastmodified":1566519006,
     "wof:name":"North Point Douglas",
     "wof:parent_id":1108968477,
     "wof:placetype":"neighbourhood",

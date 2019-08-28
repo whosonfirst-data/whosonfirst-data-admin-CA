@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12737609.612424,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.848642,43.786868,-79.848642,43.786868",
     "geom:latitude":43.786868,
     "geom:longitude":-79.848642,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.853642,43.781868,-79.843642,43.791868",
     "lbl:latitude":43.786868,
     "lbl:longitude":-79.848642,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.786061,
     "mps:longitude":-79.847493,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Campbell's Cross"
-    ],
-    "name:unk_x_variant":[
         "Campbell's Cross"
     ],
     "qs:gn_id":0,
@@ -56,9 +55,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         101736249,
         85633041,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999064,
-        "qs:id":238105,
         "qs_pg:id":238105
     },
     "wof:country":"CA",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931321,
+    "wof:lastmodified":1566518990,
     "wof:name":"Campbell's Cross",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-79.8611,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.8661,43.212186,-79.8561,43.222186",
     "lbl:latitude":43.217186,
     "lbl:longitude":-79.8611,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.215545,
     "mps:longitude":-79.865086,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Thorner"
     ],
-    "name:unk_x_variant":[
-        "Thorner"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":5969782,
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":370,
     "wof:belongsto":[
         85682057,
@@ -91,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856184,
-        "qs:id":16903,
         "qs_pg:id":16903
     },
     "wof:country":"CA",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170794,
+    "wof:lastmodified":1566518983,
     "wof:name":"Thorner",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

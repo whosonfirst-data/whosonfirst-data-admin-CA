@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1011680.860759,
+    "geom:area_square_m":1011680.86076,
     "geom:bbox":"-123.009226296,49.3217470365,-122.990490045,49.3318040038",
     "geom:latitude":49.326797,
     "geom:longitude":-122.998682,
@@ -22,6 +22,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.327052,
     "lbl:longitude":-122.99886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.329445,
     "mps:longitude":-122.998316,
     "mz:hierarchy_label":1,
@@ -82,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0443-\u0420\u0438\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Blueridge"
-    ],
     "name:vol_x_preferred":[
         "Blue Ridge"
     ],
@@ -119,20 +117,19 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":157,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108906825,
         85633041,
         101741071,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998932,
-        "qs:id":888527,
         "qs_pg:id":888527
     },
     "wof:country":"CA",
@@ -152,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531521035,
+    "wof:lastmodified":1566518981,
     "wof:name":"Blueridge",
     "wof:parent_id":1108906825,
     "wof:placetype":"neighbourhood",

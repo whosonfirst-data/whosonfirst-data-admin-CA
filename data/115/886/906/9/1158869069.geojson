@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":71.127311,
     "lbl:longitude":-106.197144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":71.127311,
     "mps:longitude":-106.197144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kitikmeot"
     ],
@@ -29,7 +32,7 @@
     "src:geom_alt":[
         "statcan"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kitikmeot",
     "statcan:cdtype":"REG",
     "statcan:cduid":"6208",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1158869069,
-    "wof:lastmodified":1555037186,
+    "wof:lastmodified":1566520377,
     "wof:name":"Kitikmeot",
     "wof:parent_id":85682105,
     "wof:placetype":"county",

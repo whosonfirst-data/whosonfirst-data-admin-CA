@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6983457.093211,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.923189,49.176798,-123.923189,49.176798",
     "geom:latitude":49.176798,
     "geom:longitude":-123.923189,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-123.928189,49.171798,-123.918189,49.181798",
     "lbl:latitude":49.176798,
     "lbl:longitude":-123.923189,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.175289,
     "mps:longitude":-123.911762,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Port Place Mall"
-    ],
-    "name:unk_x_variant":[
         "Port Place Mall"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,19 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682117,
         102191575,
         85633041,
         101741011,
-        890457881,
-        85682117
+        890457881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856705,
-        "qs:id":1089588,
         "qs_pg:id":1089588
     },
     "wof:country":"CA",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872172,
+    "wof:lastmodified":1566518993,
     "wof:name":"Port Place Mall",
     "wof:parent_id":101741011,
     "wof:placetype":"neighbourhood",

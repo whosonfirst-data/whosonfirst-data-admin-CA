@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9834908.340324,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.392208,44.15612,-77.392208,44.15612",
     "geom:latitude":44.15612,
     "geom:longitude":-77.392208,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-77.397208,44.15112,-77.387208,44.16112",
     "lbl:latitude":44.15612,
     "lbl:longitude":-77.392208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.153331,
     "mps:longitude":-77.395982,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Old East Hill"
-    ],
-    "name:unk_x_variant":[
         "Old East Hill"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -57,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856685,
-        "qs:id":381662,
         "qs_pg:id":381662
     },
     "wof:country":"CA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872163,
+    "wof:lastmodified":1566518941,
     "wof:name":"Old East Hill",
     "wof:parent_id":101735759,
     "wof:placetype":"neighbourhood",

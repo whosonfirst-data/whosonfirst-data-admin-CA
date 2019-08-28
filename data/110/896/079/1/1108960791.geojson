@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1478862.951548,
+    "geom:area_square_m":1478862.951542,
     "geom:bbox":"-73.6059437176,45.474070883,-73.5806528871,45.4904373417",
     "geom:latitude":45.482455,
     "geom:longitude":-73.592881,
     "iso:country":"CA",
     "lbl:latitude":45.480021,
     "lbl:longitude":-73.592409,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.482625,
     "mps:longitude":-73.593072,
     "mz:hierarchy_label":1,
@@ -27,11 +28,11 @@
     "reversegeo:longitude":-73.593072,
     "src:geom":"mz",
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736451,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1108960791,
-    "wof:lastmodified":1533277848,
+    "wof:lastmodified":1566519271,
     "wof:name":"Lower Westmount",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

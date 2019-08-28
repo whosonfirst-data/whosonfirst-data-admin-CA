@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.503985,
     "lbl:longitude":-72.472849,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.503985,
     "mps:longitude":-72.472849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Francheville"
     ],
@@ -74,7 +77,7 @@
         "\u0424\u0440\u0430\u043d\u0448\u0432\u0456\u043b\u044c"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Francheville",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"2437",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1158884881,
-    "wof:lastmodified":1564173856,
+    "wof:lastmodified":1566520464,
     "wof:name":"Francheville",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

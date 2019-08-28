@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
+    "geom:area_square_m":95733.318613,
     "geom:bbox":"-127.3962438,50.6969872,-127.3855965,50.699619",
     "geom:latitude":50.697847,
     "geom:longitude":-127.389046,
     "iso:country":"CA",
     "lbl:latitude":50.698272,
     "lbl:longitude":-127.386822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.698272,
     "mps:longitude":-127.386822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thomas Point 5A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742979,
-    "wof:lastmodified":1533335870,
+    "wof:lastmodified":1566520016,
     "wof:name":"Thomas Point 5A",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

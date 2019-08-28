@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
+    "geom:area_square_m":903071.718662,
     "geom:bbox":"-117.5696852,54.9732775,-117.5445469,54.9853138",
     "geom:latitude":54.981716,
     "geom:longitude":-117.560719,
     "iso:country":"CA",
     "lbl:latitude":54.981335,
     "lbl:longitude":-117.566145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.981335,
     "mps:longitude":-117.566145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sturgeon Lake 154B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741511,
-    "wof:lastmodified":1533250157,
+    "wof:lastmodified":1566519880,
     "wof:name":"Sturgeon Lake 154B",
     "wof:parent_id":1158863297,
     "wof:placetype":"locality",

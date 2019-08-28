@@ -11,8 +11,10 @@
     "geom:longitude":-60.290527,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-60.295527,46.219185,-60.285527,46.229185",
     "lbl:latitude":46.224185,
     "lbl:longitude":-60.290527,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.232806,
     "mps:longitude":-60.301614,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Little Bras d'Or"
-    ],
-    "name:unk_x_variant":[
-        "Little Bras D'Or"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":60,
     "wof:belongsto":[
         102191575,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":875,
-        "qs:id":975558,
         "qs_pg:id":975558,
         "wd:id":"Q6649266"
     },
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281719,
+    "wof:lastmodified":1566518913,
     "wof:name":"Little Bras D'Or",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

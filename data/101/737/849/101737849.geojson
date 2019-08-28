@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.147588,
     "lbl:longitude":-78.080269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.147588,
     "mps:longitude":-78.080269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0631\u0643\u062a\u064a\u0643"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.1333,
     "wd:longitude":-78.1333,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":6064704,
         "gp:id":3273,
-        "qs:id":160300,
         "qs_pg:id":160300,
         "wd:id":"Q142566",
         "wk:page":"Malartic, Quebec"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737849,
-    "wof:lastmodified":1563284266,
+    "wof:lastmodified":1566519444,
     "wof:name":"Malartic",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

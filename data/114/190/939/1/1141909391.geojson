@@ -11,10 +11,14 @@
     "geom:longitude":-63.131325,
     "gn:country":"CA",
     "iso:country":"CA",
+    "lbl:bbox":"-63.1513251156,46.2292816356,-63.1113251156,46.2692816356",
     "lbl:latitude":46.249282,
     "lbl:longitude":-63.131325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Charlottetown"
     ],
@@ -352,10 +356,12 @@
     "wof:concordances":{
         "gn:id":5920288,
         "gp:id":3789,
-        "qs:id":451091,
         "qs_pg:id":355713,
         "wd:id":"Q2127",
         "wk:page":"Charlottetown"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":451091
     },
     "wof:country":"CA",
     "wof:created":1499131072,
@@ -370,7 +376,7 @@
         }
     ],
     "wof:id":1141909391,
-    "wof:lastmodified":1563288060,
+    "wof:lastmodified":1566520624,
     "wof:name":"Charlottetown",
     "wof:parent_id":890457737,
     "wof:placetype":"locality",

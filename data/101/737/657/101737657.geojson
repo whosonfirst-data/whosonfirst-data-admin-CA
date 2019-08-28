@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":48.149776,
     "lbl:longitude":-72.167071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.149776,
     "mps:longitude":-72.167071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u0628\u0648\u0634\u064a\u062a"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":191,
     "wof:belongsto":[
         102191575,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":6001544,
         "gp:id":3412,
-        "qs:id":160282,
         "qs_pg:id":160282,
         "wd:id":"Q3214591",
         "wk:page":"Lac-Bouchette, Quebec"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737657,
-    "wof:lastmodified":1563284182,
+    "wof:lastmodified":1566519424,
     "wof:name":"Lac-Bouchette",
     "wof:parent_id":890458021,
     "wof:placetype":"locality",

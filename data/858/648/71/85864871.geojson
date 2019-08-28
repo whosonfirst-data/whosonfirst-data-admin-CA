@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":2574015.264832,
+    "geom:area_square_m":2574015.264834,
     "geom:bbox":"-113.442940213,53.5213944817,-113.418549269,53.5411758863",
     "geom:latitude":53.531648,
     "geom:longitude":-113.429612,
@@ -15,6 +15,7 @@
     "iso:country":"CA",
     "lbl:latitude":53.531766,
     "lbl:longitude":-113.431216,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.539228,
     "mps:longitude":-113.403365,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -46,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404794,
-        "qs:id":1085739,
         "qs_pg:id":1085739,
         "wd:id":"Q7109467"
     },
@@ -66,7 +66,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527270457,
+    "wof:lastmodified":1566519011,
     "wof:name":"Ottewell",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

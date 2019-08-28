@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001237,
+    "geom:area_square_m":9982226.131915,
     "geom:bbox":"-94.5281942,49.23329,-94.4708215,49.2655743",
     "geom:latitude":49.250234,
     "geom:longitude":-94.493758,
     "iso:country":"CA",
     "lbl:latitude":49.25137,
     "lbl:longitude":-94.489049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.25137,
     "mps:longitude":-94.489049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naongashing Indian Reserve No. 35A"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746633,
-    "wof:lastmodified":1533335676,
+    "wof:lastmodified":1566519812,
     "wof:name":"Naongashing Indian Reserve No. 35A",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

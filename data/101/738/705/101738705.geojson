@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":45.763299,
     "lbl:longitude":-72.499644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.763299,
     "mps:longitude":-72.499644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wickham"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101738705,
-    "wof:lastmodified":1563284662,
+    "wof:lastmodified":1566519522,
     "wof:name":"Wickham",
     "wof:parent_id":890457059,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":51.12301,
     "lbl:longitude":-106.595535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.12301,
     "mps:longitude":-106.595535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":280,
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
         "fct:id":"03c01430-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5947325,
         "gp:id":2259,
-        "qs:id":357759,
         "qs_pg:id":357759,
         "wd:id":"Q2003112",
         "wk:page":"Elbow, Saskatchewan"
@@ -87,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283973,
+    "wof:lastmodified":1566519393,
     "wof:name":"Elbow",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

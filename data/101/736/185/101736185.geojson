@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":42.219332,
     "lbl:longitude":-83.058751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.219332,
     "mps:longitude":-83.058751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633\u0627\u0644"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.2167,
     "wd:longitude":-83.0667,
     "wd:wordcount":644,
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":6050177,
         "gp:id":23396956,
-        "qs:id":24619,
         "qs_pg:id":24619,
         "wd:id":"Q1435042",
         "wk:page":"LaSalle, Ontario"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101736185,
-    "wof:lastmodified":1563284563,
+    "wof:lastmodified":1566519504,
     "wof:name":"Lasalle",
     "wof:parent_id":890458683,
     "wof:placetype":"locality",

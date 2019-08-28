@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.259049,
     "lbl:longitude":-120.047184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.259049,
     "mps:longitude":-120.047184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashnola 10"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101747743,
-    "wof:lastmodified":1563285015,
+    "wof:lastmodified":1566519749,
     "wof:name":"Ashnola 10",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

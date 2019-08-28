@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":50.465292,
     "lbl:longitude":-109.478843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.465292,
     "mps:longitude":-109.478843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fox Valley"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
         "fct:id":"03c01566-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5957175,
         "gp:id":2295,
-        "qs:id":883460,
         "qs_pg:id":883460,
         "wd:id":"Q2003341",
         "wk:page":"Fox Valley, Saskatchewan"
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284069,
+    "wof:lastmodified":1566519406,
     "wof:name":"Fox Valley",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

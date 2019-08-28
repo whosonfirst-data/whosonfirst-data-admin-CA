@@ -13,6 +13,8 @@
     "iso:country":"CA",
     "lbl:latitude":52.063445,
     "lbl:longitude":-107.979129,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.063445,
     "mps:longitude":-107.979129,
     "mz:hierarchy_label":1,
@@ -163,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.059,
     "wd:longitude":-107.979,
@@ -179,7 +181,6 @@
         "fct:id":"03c00fb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5899982,
         "gp:id":2186,
-        "qs:id":958999,
         "qs_pg:id":958999,
         "wd:id":"Q859632",
         "wk:page":"Biggar, Saskatchewan"
@@ -199,7 +200,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563283959,
+    "wof:lastmodified":1566519392,
     "wof:name":"Biggar",
     "wof:parent_id":1158868955,
     "wof:placetype":"locality",

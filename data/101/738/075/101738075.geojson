@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.256978,
     "lbl:longitude":-72.936886,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.256978,
     "mps:longitude":-72.936886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u0632\u0641\u064a\u0644"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":422,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":6060839,
         "gp:id":904,
-        "qs:id":211827,
         "qs_pg:id":211827,
         "wd:id":"Q141410",
         "wk:page":"Louiseville"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101738075,
-    "wof:lastmodified":1563284701,
+    "wof:lastmodified":1566519530,
     "wof:name":"Louiseville",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

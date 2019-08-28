@@ -11,8 +11,10 @@
     "geom:longitude":-63.664197,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-63.669197,44.66712,-63.659197,44.67712",
     "lbl:latitude":44.67212,
     "lbl:longitude":-63.664197,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.674626,
     "mps:longitude":-63.666825,
     "mz:hierarchy_label":0,
@@ -66,9 +68,6 @@
     "name:swe_x_preferred":[
         "Rockingham"
     ],
-    "name:unk_x_variant":[
-        "Rockingham"
-    ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
     "qs:gn_local":6324729,
@@ -97,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682075,
         102191575,
@@ -107,7 +106,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23390202,
-        "qs:id":1087608,
         "qs_pg:id":1087608
     },
     "wof:country":"CA",
@@ -126,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170720,
+    "wof:lastmodified":1566518955,
     "wof:name":"Rockingham",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

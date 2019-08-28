@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
+    "geom:area_square_m":26727.321549,
     "geom:bbox":"-126.9490006,49.8122394,-126.9462247,49.8141373",
     "geom:latitude":49.813126,
     "geom:longitude":-126.947852,
     "iso:country":"CA",
     "lbl:latitude":49.813361,
     "lbl:longitude":-126.947955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.813361,
     "mps:longitude":-126.947955,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ahpukto 3"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -44,7 +49,7 @@
         "gp:id":23405677
     },
     "wof:country":"CA",
-    "wof:geomhash":"a29cff291bfe7b442f41ea5366b81340",
+    "wof:geomhash":"4affa49deac48ec106fce5a857c64a83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101743229,
-    "wof:lastmodified":1493163507,
+    "wof:lastmodified":1566519987,
     "wof:name":"Ahpukto 3",
     "wof:parent_id":85682117,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000917,
+    "geom:area_square_m":7426571.514535,
     "geom:bbox":"-123.7075621,49.0763975,-123.6440173,49.1106908",
     "geom:latitude":49.095021,
     "geom:longitude":-123.677716,
     "iso:country":"CA",
     "lbl:latitude":49.099922,
     "lbl:longitude":-123.680933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.099922,
     "mps:longitude":-123.680933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lyackson 3"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743845,
-    "wof:lastmodified":1533335884,
+    "wof:lastmodified":1566519987,
     "wof:name":"Lyackson 3",
     "wof:parent_id":890458567,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":652365.578191,
     "geom:bbox":"-121.4262881,49.4070162,-121.4132615,49.4198734",
     "geom:latitude":49.415463,
     "geom:longitude":-121.418039,
     "iso:country":"CA",
     "lbl:latitude":49.417372,
     "lbl:longitude":-121.418309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.417372,
     "mps:longitude":-121.418309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trafalgar Flat 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101744803,
-    "wof:lastmodified":1533335899,
+    "wof:lastmodified":1566519969,
     "wof:name":"Trafalgar Flat 13",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

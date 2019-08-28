@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":182869.312829,
     "geom:bbox":"-130.231782,54.5021738,-130.2251496,54.5075981",
     "geom:latitude":54.504504,
     "geom:longitude":-130.227649,
     "iso:country":"CA",
     "lbl:latitude":54.504483,
     "lbl:longitude":-130.227588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.504483,
     "mps:longitude":-130.227588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ensheshese 13"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101743481,
-    "wof:lastmodified":1533335879,
+    "wof:lastmodified":1566519999,
     "wof:name":"Ensheshese 13",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

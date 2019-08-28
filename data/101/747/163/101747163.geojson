@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
+    "geom:area_square_m":27434.93469,
     "geom:bbox":"-132.5241168,53.6529022,-132.5216307,53.6548865",
     "geom:latitude":53.653795,
     "geom:longitude":-132.523013,
     "iso:country":"CA",
     "lbl:latitude":53.65381,
     "lbl:longitude":-132.523124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.65381,
     "mps:longitude":-132.523124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Owun 24"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747163,
-    "wof:lastmodified":1533335923,
+    "wof:lastmodified":1566519707,
     "wof:name":"Owun 24",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",

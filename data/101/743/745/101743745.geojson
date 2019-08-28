@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":57.839036,
     "lbl:longitude":-129.987602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.839036,
     "mps:longitude":-129.987602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Iskut"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":57.8333,
     "wd:longitude":-129.983,
     "wd:wordcount":446,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101743745,
-    "wof:lastmodified":1563285662,
+    "wof:lastmodified":1566520005,
     "wof:name":"Iskut 6",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

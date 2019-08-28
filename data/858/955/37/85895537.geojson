@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2683167.461636,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.480865,43.818475,-79.480865,43.818475",
     "geom:latitude":43.818475,
     "geom:longitude":-79.480865,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.485865,43.813475,-79.475865,43.823475",
     "lbl:latitude":43.818475,
     "lbl:longitude":-79.480865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.815702,
     "mps:longitude":-79.4716,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Wilshire"
     ],
     "name:eng_x_preferred":[
-        "Wilshire"
-    ],
-    "name:unk_x_variant":[
         "Wilshire"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,14 +61,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":151,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101740741,
         890458415,
-        85682057,
         101736093
     ],
     "wof:breaches":[
@@ -77,7 +76,6 @@
     ],
     "wof:concordances":{
         "gp:id":55999511,
-        "qs:id":1249000,
         "qs_pg:id":1249000
     },
     "wof:country":"CA",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931431,
+    "wof:lastmodified":1566518954,
     "wof:name":"Wilshire",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

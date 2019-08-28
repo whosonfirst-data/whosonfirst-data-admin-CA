@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.953028,
     "lbl:longitude":-117.358868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.953028,
     "mps:longitude":-117.358868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Silverton"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":6147932,
         "gp:id":9855,
-        "qs:id":549998,
         "qs_pg:id":549998,
         "wd:id":"Q2957559",
         "wk:page":"Silverton, British Columbia"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101740847,
-    "wof:lastmodified":1563284853,
+    "wof:lastmodified":1566519574,
     "wof:name":"Silverton",
     "wof:parent_id":890458089,
     "wof:placetype":"locality",

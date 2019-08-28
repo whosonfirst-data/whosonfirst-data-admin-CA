@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":425593.231511,
     "geom:bbox":"-121.6502879,50.8089179,-121.6387487,50.816199",
     "geom:latitude":50.812222,
     "geom:longitude":-121.643029,
     "iso:country":"CA",
     "lbl:latitude":50.813892,
     "lbl:longitude":-121.64173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.813892,
     "mps:longitude":-121.64173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pavilion 4"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101747693,
-    "wof:lastmodified":1533335924,
+    "wof:lastmodified":1566519640,
     "wof:name":"Pavilion 4",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",

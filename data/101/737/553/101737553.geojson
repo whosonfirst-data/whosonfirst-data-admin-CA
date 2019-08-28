@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.443876,
     "lbl:longitude":-71.002589,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.443876,
     "mps:longitude":-71.002589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0645\u0627\u0631\u064a"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":303,
     "wof:belongsto":[
@@ -126,10 +129,12 @@
     "wof:concordances":{
         "gn:id":935255,
         "gp:id":1410244,
-        "qs:id":959448,
         "qs_pg:id":890012,
         "wd:id":"Q141652",
         "wk:page":"Sainte-Marie, Quebec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":959448
     },
     "wof:country":"CA",
     "wof:geomhash":"f65bf0edfb35025463c36dff08297b69",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101737553,
-    "wof:lastmodified":1563284248,
+    "wof:lastmodified":1566519441,
     "wof:name":"Sainte-Marie",
     "wof:parent_id":890457829,
     "wof:placetype":"locality",

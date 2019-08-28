@@ -18,6 +18,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.609968,
     "lbl:longitude":-73.574589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.618563,
     "mps:longitude":-73.55614,
     "mz:hierarchy_label":1,
@@ -183,9 +184,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0436\u0443"
     ],
-    "name:unk_x_variant":[
-        "Anjou"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0646\u0698\u0648"
     ],
@@ -200,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         136251273,
         102191575,
@@ -211,7 +209,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":4387,
-        "qs:id":897631,
         "qs_pg:id":897631
     },
     "wof:country":"CA",
@@ -230,7 +227,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564170652,
+    "wof:lastmodified":1566518910,
     "wof:name":"Anjou",
     "wof:parent_id":101736545,
     "wof:placetype":"neighbourhood",

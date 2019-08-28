@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":46.393896,
     "lbl:longitude":-70.511082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.393896,
     "mps:longitude":-70.511082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643 \u0625\u064a\u062a\u0634\u0645\u064a\u0646"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"Municipalit\u00e9",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":233,
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101737177,
-    "wof:lastmodified":1563284317,
+    "wof:lastmodified":1566519452,
     "wof:name":"Lac-Etchemin",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

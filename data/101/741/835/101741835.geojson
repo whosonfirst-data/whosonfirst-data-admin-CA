@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":54.48479,
     "lbl:longitude":-97.922843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.48479,
     "mps:longitude":-97.922843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Whiskeyjack"
     ],
@@ -35,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":242,
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101741835,
-    "wof:lastmodified":1533069827,
+    "wof:lastmodified":1566519868,
     "wof:name":"Whiskeyjack",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

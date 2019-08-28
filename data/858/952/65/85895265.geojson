@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20091875.533206,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.904382,43.432775,-79.904382,43.432775",
     "geom:latitude":43.432775,
     "geom:longitude":-79.904382,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.909382,43.427775,-79.899382,43.437775",
     "lbl:latitude":43.432775,
     "lbl:longitude":-79.904382,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.437907,
     "mps:longitude":-79.896744,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Lowville"
     ],
     "name:spa_x_preferred":[
-        "Lowville"
-    ],
-    "name:unk_x_variant":[
         "Lowville"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -71,21 +70,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191575,
         101735965,
         85633041,
-        101740713,
-        890458413,
         85682057,
         101740713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999247,
-        "qs:id":19591,
         "qs_pg:id":19591
     },
     "wof:country":"CA",
@@ -110,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931367,
+    "wof:lastmodified":1566518952,
     "wof:name":"Lowville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

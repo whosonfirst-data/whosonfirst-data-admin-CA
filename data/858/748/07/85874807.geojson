@@ -10,8 +10,10 @@
     "geom:latitude":43.2471,
     "geom:longitude":-79.865264,
     "iso:country":"CA",
+    "lbl:bbox":"-79.870264,43.2421,-79.860264,43.2521",
     "lbl:latitude":43.2471,
     "lbl:longitude":-79.865264,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.246514,
     "mps:longitude":-79.865661,
     "mz:hierarchy_label":0,
@@ -197,9 +199,6 @@
     "name:swe_x_preferred":[
         "Corktown"
     ],
-    "name:unk_x_variant":[
-        "Corktown"
-    ],
     "name:vec_x_preferred":[
         "Corktown"
     ],
@@ -249,7 +248,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":23,
     "wof:belongsto":[
         85682057,
@@ -262,7 +261,7 @@
     "wof:concordances":{
         "gn:id":7870791,
         "gp:id":55856128,
-        "qs:id":1198635,
+        "qs_pg:id":1198635,
         "wd:id":"Q5170873"
     },
     "wof:country":"CA",
@@ -281,7 +280,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563282012,
+    "wof:lastmodified":1566518984,
     "wof:name":"Corktown",
     "wof:parent_id":101735515,
     "wof:placetype":"neighbourhood",

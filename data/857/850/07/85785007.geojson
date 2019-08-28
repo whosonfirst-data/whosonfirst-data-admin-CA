@@ -14,8 +14,10 @@
     "gn:longitude":-71.24884,
     "gn:population":54842,
     "iso:country":"CA",
+    "lbl:bbox":"-71.249521,48.417868,-71.239521,48.427868",
     "lbl:latitude":48.422868,
     "lbl:longitude":-71.244521,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.413773,
     "mps:longitude":-71.249008,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u043e\u043d\u043a\u044c\u0454\u0440"
     ],
-    "name:unk_x_variant":[
-        "Jonqui\u00e8re"
-    ],
     "name:zho_x_preferred":[
         "\u5bb9\u57fa\u8036\u723e"
     ],
@@ -105,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":480,
     "wof:belongsto":[
@@ -119,7 +118,6 @@
     "wof:concordances":{
         "gn:id":7303786,
         "gp:id":3404,
-        "qs:id":888285,
         "qs_pg:id":888285,
         "wd:id":"Q2593109",
         "wk:page":"Jonqui\u00e8re"
@@ -140,7 +138,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563281693,
+    "wof:lastmodified":1566518909,
     "wof:name":"Jonqui\u00e8re",
     "wof:parent_id":101737173,
     "wof:placetype":"neighbourhood",

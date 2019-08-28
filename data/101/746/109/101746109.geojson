@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000373,
+    "geom:area_square_m":2997330.825584,
     "geom:bbox":"-94.8651574,49.4975511,-94.8166421,49.5159976",
     "geom:latitude":49.50571,
     "geom:longitude":-94.841298,
     "iso:country":"CA",
     "lbl:latitude":49.509514,
     "lbl:longitude":-94.836653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.509514,
     "mps:longitude":-94.836653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lake Of The Woods Indian Reserve No. 31B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101746109,
-    "wof:lastmodified":1533335674,
+    "wof:lastmodified":1566519830,
     "wof:name":"Lake Of The Woods Indian Reserve No. 31B",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

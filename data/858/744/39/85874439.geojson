@@ -12,6 +12,7 @@
     "iso:country":"CA",
     "lbl:latitude":45.451945,
     "lbl:longitude":-75.597622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.455399,
     "mps:longitude":-75.596113,
     "mz:hierarchy_label":1,
@@ -66,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191575,
         1126055453,
@@ -98,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844223,
+    "wof:lastmodified":1566519016,
     "wof:name":"Beacon Hill",
     "wof:parent_id":1126055453,
     "wof:placetype":"neighbourhood",

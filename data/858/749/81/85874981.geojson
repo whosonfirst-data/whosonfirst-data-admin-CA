@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4858170.787949,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.448309,43.473488,-80.448309,43.473488",
     "geom:latitude":43.473488,
     "geom:longitude":-80.448309,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.453309,43.468488,-80.443309,43.478488",
     "lbl:latitude":43.473488,
     "lbl:longitude":-80.448309,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.477453,
     "mps:longitude":-80.445843,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Victoria-Nord"
-    ],
-    "name:unk_x_variant":[
-        "Victoria North"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":198,
     "wof:belongsto":[
         85682057,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856260,
-        "qs:id":471963,
         "qs_pg:id":471963,
         "wd:id":"Q3557658"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871984,
+    "wof:lastmodified":1566518977,
     "wof:name":"Victoria North",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

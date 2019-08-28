@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14361190.527257,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632934,44.227359,-76.632934,44.227359",
     "geom:latitude":44.227359,
     "geom:longitude":-76.632934,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-76.637934,44.222359,-76.627934,44.232359",
     "lbl:latitude":44.227359,
     "lbl:longitude":-76.632934,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.220399,
     "mps:longitude":-76.655955,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Mile Square"
-    ],
-    "name:unk_x_variant":[
         "Mile Square"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101735963,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856491,
-        "qs:id":381601,
         "qs_pg:id":381601
     },
     "wof:country":"CA",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872100,
+    "wof:lastmodified":1566518949,
     "wof:name":"Mile Square",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

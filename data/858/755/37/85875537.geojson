@@ -11,8 +11,10 @@
     "geom:longitude":-80.234713,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-80.239713,43.534753,-80.229713,43.544753",
     "lbl:latitude":43.539753,
     "lbl:longitude":-80.234713,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.537558,
     "mps:longitude":-80.232372,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Two Rivers"
     ],
-    "name:unk_x_variant":[
-        "Two Rivers"
-    ],
     "name:urd_x_preferred":[
         "\u0679\u0648 \u0631\u06cc\u0648\u0631\u0632"
     ],
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":138,
     "wof:belongsto":[
         85682057,
@@ -103,7 +102,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856654,
-        "qs:id":1089581,
         "qs_pg:id":1089581
     },
     "wof:country":"CA",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170672,
+    "wof:lastmodified":1566518942,
     "wof:name":"Two Rivers",
     "wof:parent_id":101735553,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:latitude":42.33338,
     "gn:longitude":-82.94984,
     "iso:country":"CA",
+    "lbl:bbox":"-82.956894,42.321409,-82.946894,42.331409",
     "lbl:latitude":42.326409,
     "lbl:longitude":-82.951894,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.331706,
     "mps:longitude":-82.948821,
     "mz:hierarchy_label":0,
@@ -98,9 +100,6 @@
     "name:tur_x_preferred":[
         "Riverside"
     ],
-    "name:unk_x_variant":[
-        "Riverside"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0631\u0633\u0627\u0626\u06cc\u0688"
     ],
@@ -140,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -152,7 +151,6 @@
     "wof:concordances":{
         "gn:id":6122717,
         "gp:id":1344,
-        "qs:id":1113266,
         "qs_pg:id":1113266
     },
     "wof:country":"CA",
@@ -171,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564170654,
+    "wof:lastmodified":1566518911,
     "wof:name":"Riverside",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

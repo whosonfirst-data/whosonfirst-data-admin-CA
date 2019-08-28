@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":245864.083056,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.483475,43.443778,-80.483475,43.443778",
     "geom:latitude":43.443778,
     "geom:longitude":-80.483475,
     "iso:country":"CA",
+    "lbl:bbox":"-80.488475,43.438778,-80.478475,43.448778",
     "lbl:latitude":43.443778,
     "lbl:longitude":-80.483475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.443067,
     "mps:longitude":-80.48377,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:swe_x_preferred":[
         "Cedar Hill"
     ],
-    "name:unk_x_variant":[
-        "Cedar Hill"
-    ],
     "name:vol_x_preferred":[
         "Cedar Hill"
     ],
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682057,
         102191575,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":5918879,
         "gp:id":55856255,
-        "qs:id":70945,
         "qs_pg:id":70945
     },
     "wof:country":"CA",
@@ -131,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871981,
+    "wof:lastmodified":1566518977,
     "wof:name":"Cedar Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

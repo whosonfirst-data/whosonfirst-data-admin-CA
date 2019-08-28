@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
+    "geom:area_square_m":447833.173554,
     "geom:bbox":"-126.620495,55.2970768,-126.6086079,55.3044618",
     "geom:latitude":55.300739,
     "geom:longitude":-126.613541,
     "iso:country":"CA",
     "lbl:latitude":55.300129,
     "lbl:longitude":-126.61224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.300129,
     "mps:longitude":-126.61224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Casdeded 8"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743283,
-    "wof:lastmodified":1533335876,
+    "wof:lastmodified":1566519998,
     "wof:name":"Casdeded 8",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

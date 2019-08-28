@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
+    "geom:area_square_m":70671.109758,
     "geom:bbox":"-128.0505372,52.153444,-128.0445131,52.1554474",
     "geom:latitude":52.154425,
     "geom:longitude":-128.047869,
     "iso:country":"CA",
     "lbl:latitude":52.15446,
     "lbl:longitude":-128.047869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.15446,
     "mps:longitude":-128.047869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kajustus 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743661,
-    "wof:lastmodified":1533335881,
+    "wof:lastmodified":1566519991,
     "wof:name":"Kajustus 10",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

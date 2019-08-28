@@ -13,10 +13,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.631691,
     "lbl:longitude":-102.267249,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.631691,
     "mps:longitude":-102.267249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Carlyle"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.6333,
     "wd:longitude":-102.267,
@@ -89,7 +92,6 @@
         "fct:id":"03c03b5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5917262,
         "gp:id":2908,
-        "qs:id":178597,
         "qs_pg:id":178597,
         "wd:id":"Q1099089",
         "wk:page":"Carlyle, Saskatchewan"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284091,
+    "wof:lastmodified":1566519409,
     "wof:name":"Carlyle",
     "wof:parent_id":1158868967,
     "wof:placetype":"locality",

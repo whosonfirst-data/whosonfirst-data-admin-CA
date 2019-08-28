@@ -14,15 +14,18 @@
     "geom:longitude":-111.53827,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":52.748777,
     "lbl:longitude":-111.536085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.748777,
     "mps:longitude":-111.536085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u063a\u064a\u062f"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":6060745,
         "gp:id":8234,
-        "qs:id":962374,
+        "qs_pg:id":962374,
         "wd:id":"Q6686189",
         "wk:page":"Lougheed"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890458039,
-    "wof:lastmodified":1563285999,
+    "wof:lastmodified":1566520110,
     "wof:name":"Lougheed",
     "wof:parent_id":1158863171,
     "wof:placetype":"locality",

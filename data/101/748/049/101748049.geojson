@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":53.023067,
     "lbl:longitude":-78.741014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.023067,
     "mps:longitude":-78.741014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wemindji"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":6178041,
         "gp:id":23394721,
-        "qs:id":353624,
         "qs_pg:id":353624,
         "wd:id":"Q3567207",
         "wk:page":"Wemindji, Quebec"
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101748049,
-    "wof:lastmodified":1561844425,
+    "wof:lastmodified":1566519781,
     "wof:name":"Wemindji",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

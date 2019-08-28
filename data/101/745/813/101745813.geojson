@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
+    "geom:area_square_m":1904854.326104,
     "geom:bbox":"-128.6544886,53.9594037,-128.6352746,53.9802002",
     "geom:latitude":53.97173,
     "geom:longitude":-128.644008,
     "iso:country":"CA",
     "lbl:latitude":53.972895,
     "lbl:longitude":-128.642254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.972895,
     "mps:longitude":-128.642254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kitamaat 2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101745813,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520064,
     "wof:name":"Kitamaat 2",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

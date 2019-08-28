@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.606969,
     "lbl:longitude":-77.324125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.606969,
     "mps:longitude":-77.324125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tweed"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":6170799,
         "gp:id":4095,
-        "qs:id":466939,
         "qs_pg:id":466939,
         "wd:id":"Q7857465",
         "wk:page":"Tweed, Ontario (village)"
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101736193,
-    "wof:lastmodified":1563284361,
+    "wof:lastmodified":1566519459,
     "wof:name":"Tweed",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",

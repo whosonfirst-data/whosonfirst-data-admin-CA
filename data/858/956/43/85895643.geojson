@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8024527.164666,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.744719,43.461341,-79.744719,43.461341",
     "geom:latitude":43.461341,
     "geom:longitude":-79.744719,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.749719,43.456341,-79.739719,43.466341",
     "lbl:latitude":43.461341,
     "lbl:longitude":-79.744719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.467287,
     "mps:longitude":-79.737371,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "River Oaks"
-    ],
-    "name:unk_x_variant":[
         "River Oaks"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         101740713,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999611,
-        "qs:id":1249008,
         "qs_pg:id":1249008
     },
     "wof:country":"CA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931458,
+    "wof:lastmodified":1566518997,
     "wof:name":"River Oaks",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

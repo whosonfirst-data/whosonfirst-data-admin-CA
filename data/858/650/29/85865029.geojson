@@ -13,6 +13,7 @@
     "iso:country":"CA",
     "lbl:latitude":49.267952,
     "lbl:longitude":-123.203467,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.266043,
     "mps:longitude":-123.21888,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
         "West Point Grey"
     ],
     "name:spa_x_preferred":[
-        "West Point Grey"
-    ],
-    "name:unk_x_variant":[
         "West Point Grey"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +74,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "vanpds:MAPID":"WPG",
     "vanpds:NAME":"West Point Grey",
     "wd:wordcount":322,
@@ -90,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23404994,
-        "qs:id":367456,
         "qs_pg:id":367456,
         "wd:id":"Q609145"
     },
@@ -110,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844215,
+    "wof:lastmodified":1566518966,
     "wof:name":"West Point Grey",
     "wof:parent_id":101741075,
     "wof:placetype":"neighbourhood",

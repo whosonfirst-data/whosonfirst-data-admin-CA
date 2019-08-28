@@ -14,12 +14,13 @@
     "geom:longitude":-118.833194,
     "gn:country":"CA",
     "gn:fcode":"PPL",
-    "gn:pop":41462,
     "gn:population":41462,
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":55.16846,
     "lbl:longitude":-118.807618,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.16846,
     "mps:longitude":-118.807618,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Grande Prairie"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bcd\u0bb0\u0bb0\u0bbf\u0baf\u0bc7"
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bcd\u0bb0\u0bb0\u0bbf\u0baf\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c2a\u0c4d\u0c30\u0c47\u0c30\u0c3f"
@@ -285,7 +286,7 @@
     "src:geom_alt":[
         "unknown"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5021,
     "wof:belongsto":[
@@ -298,7 +299,7 @@
     "wof:concordances":{
         "gn:id":5964347,
         "gp:id":8376,
-        "qs:id":224354,
+        "qs_pg:id":224354,
         "wd:id":"Q642900",
         "wk:page":"Grande Prairie"
     },
@@ -315,7 +316,7 @@
         }
     ],
     "wof:id":890458665,
-    "wof:lastmodified":1563286094,
+    "wof:lastmodified":1566520137,
     "wof:name":"Grande Prairie",
     "wof:parent_id":1158863179,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
+    "geom:area_square_m":451953.932964,
     "geom:bbox":"-131.1851812,57.8912735,-131.1715945,57.8983297",
     "geom:latitude":57.893903,
     "geom:longitude":-131.17768,
     "iso:country":"CA",
     "lbl:latitude":57.893866,
     "lbl:longitude":-131.177551,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.893866,
     "mps:longitude":-131.177551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stikine River 7"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101745773,
-    "wof:lastmodified":1533335917,
+    "wof:lastmodified":1566520071,
     "wof:name":"Stikine River 7",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

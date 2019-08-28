@@ -11,8 +11,10 @@
     "geom:longitude":-79.242903,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.247903,43.955228,-79.237903,43.965228",
     "lbl:latitude":43.960228,
     "lbl:longitude":-79.242903,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.957272,
     "mps:longitude":-79.238717,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Wheler's on Main"
     ],
     "name:nld_x_preferred":[
-        "Wheler's on Main"
-    ],
-    "name:unk_x_variant":[
         "Wheler's on Main"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":266,
     "wof:belongsto":[
         85682057,
@@ -75,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55999448,
-        "qs:id":19603,
         "qs_pg:id":19603,
         "wd:id":"Q7992393"
     },
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281821,
+    "wof:lastmodified":1566518944,
     "wof:name":"Wheler's on Main",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

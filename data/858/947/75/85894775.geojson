@@ -11,8 +11,10 @@
     "geom:longitude":-122.514519,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-122.519519,49.202908,-122.509519,49.212908",
     "lbl:latitude":49.207908,
     "lbl:longitude":-122.514519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.21042,
     "mps:longitude":-122.516981,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Kanaka Creek"
     ],
     "name:swe_x_preferred":[
-        "Kanaka Creek"
-    ],
-    "name:unk_x_variant":[
         "Kanaka Creek"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":260,
     "wof:belongsto":[
         85682117,
@@ -77,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55998843,
-        "qs:id":19549,
         "qs_pg:id":19549,
         "wd:id":"Q16893076"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563281992,
+    "wof:lastmodified":1566518979,
     "wof:name":"Kanaka Creek",
     "wof:parent_id":101740773,
     "wof:placetype":"neighbourhood",

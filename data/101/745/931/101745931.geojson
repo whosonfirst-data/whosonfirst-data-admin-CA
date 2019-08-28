@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
+    "geom:area_square_m":2712778.08329,
     "geom:bbox":"-128.5282886,59.922975,-128.4826612,59.9384236",
     "geom:latitude":59.930749,
     "geom:longitude":-128.503644,
     "iso:country":"CA",
     "lbl:latitude":59.93207,
     "lbl:longitude":-128.503632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.93207,
     "mps:longitude":-128.503632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liard River 3"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101745931,
-    "wof:lastmodified":1533335918,
+    "wof:lastmodified":1566520031,
     "wof:name":"Liard River 3",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

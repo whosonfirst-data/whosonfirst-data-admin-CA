@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":49.354778,
     "lbl:longitude":-97.900198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.354778,
     "mps:longitude":-97.900198,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Roland"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":263,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
         "fct:id":"03bab468-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6127182,
         "gp:id":2996,
-        "qs:id":987409,
         "qs_pg:id":987409,
         "wd:id":"Q3439915",
         "wk:page":"Roland, Manitoba"
@@ -81,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563285492,
+    "wof:lastmodified":1566519955,
     "wof:name":"Roland",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

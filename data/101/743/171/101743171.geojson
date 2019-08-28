@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
+    "geom:area_square_m":126967.952221,
     "geom:bbox":"-126.8537828,49.8747675,-126.8481825,49.8783894",
     "geom:latitude":49.876927,
     "geom:longitude":-126.851208,
     "iso:country":"CA",
     "lbl:latitude":49.876931,
     "lbl:longitude":-126.851261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.876931,
     "mps:longitude":-126.851261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oke 10"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101743171,
-    "wof:lastmodified":1533335874,
+    "wof:lastmodified":1566520006,
     "wof:name":"Oke 10",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

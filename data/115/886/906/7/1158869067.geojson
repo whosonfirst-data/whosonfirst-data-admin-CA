@@ -12,18 +12,21 @@
     "iso:country":"CA",
     "lbl:latitude":50.554075,
     "lbl:longitude":-56.829171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.554075,
     "mps:longitude":-56.829171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Division No.  9"
+        "Division No. 9"
     ],
     "name:eng_x_variant":[
-        "Division No.  9"
+        "Division No. 9"
     ],
     "src:geom":"statcan",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Division No.  9",
     "statcan:cdtype":"CDR",
     "statcan:cduid":"1009",
@@ -46,8 +49,8 @@
         }
     ],
     "wof:id":1158869067,
-    "wof:lastmodified":1554759722,
-    "wof:name":"Division No.  9",
+    "wof:lastmodified":1566520382,
+    "wof:name":"Division No. 9",
     "wof:parent_id":85682123,
     "wof:placetype":"county",
     "wof:placetype_local":"census division",

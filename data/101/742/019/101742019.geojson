@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
+    "geom:area_square_m":3890063.526984,
     "geom:bbox":"-109.8622734,52.7474632,-109.801726,52.7693095",
     "geom:latitude":52.759646,
     "geom:longitude":-109.823862,
     "iso:country":"CA",
     "lbl:latitude":52.762074,
     "lbl:longitude":-109.813744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.762074,
     "mps:longitude":-109.813744,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poundmaker I.R. 114-6B2"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101742019,
-    "wof:lastmodified":1531524349,
+    "wof:lastmodified":1566520025,
     "wof:name":"Poundmaker I.R. 114-6B2",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

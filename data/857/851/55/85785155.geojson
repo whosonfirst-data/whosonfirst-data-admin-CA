@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":2881308.575409,
+    "geom:area_square_m":2881308.575403,
     "geom:bbox":"-114.071953,50.905044,-114.039501,50.926233",
     "geom:latitude":50.914768,
     "geom:longitude":-114.057575,
@@ -21,6 +21,7 @@
     "iso:country":"CA",
     "lbl:latitude":50.914911,
     "lbl:longitude":-114.057463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.913352,
     "mps:longitude":-114.059385,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":1040.0,
     "wd:latitude":50.9156,
     "wd:longitude":-114.056,
@@ -55,7 +56,6 @@
     "wof:concordances":{
         "gn:id":6073377,
         "gp:id":8241,
-        "qs:id":899695,
         "qs_pg:id":899695,
         "wd:id":"Q6842606",
         "wk:page":"Midnapore, Calgary"
@@ -75,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639318,
+    "wof:lastmodified":1566518910,
     "wof:name":"Midnapore",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

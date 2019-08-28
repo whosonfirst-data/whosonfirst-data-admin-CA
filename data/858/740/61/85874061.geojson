@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5143961.118735,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.642249,44.370706,-79.642249,44.370706",
     "geom:latitude":44.370706,
     "geom:longitude":-79.642249,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-79.647249,44.365706,-79.637249,44.375706",
     "lbl:latitude":44.370706,
     "lbl:longitude":-79.642249,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.38495,
     "mps:longitude":-79.626145,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:swe_x_preferred":[
         "South Shore"
     ],
-    "name:unk_x_variant":[
-        "Southshore"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0648\u062a\u06be \u0634\u0648\u0631"
     ],
@@ -88,19 +87,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":215,
     "wof:belongsto":[
+        85682057,
         102191575,
         85633041,
         101735527,
-        890456339,
-        85682057
+        890456339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855613,
-        "qs:id":48771,
         "qs_pg:id":48771
     },
     "wof:country":"CA",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871873,
+    "wof:lastmodified":1566518972,
     "wof:name":"Southshore",
     "wof:parent_id":101735527,
     "wof:placetype":"neighbourhood",

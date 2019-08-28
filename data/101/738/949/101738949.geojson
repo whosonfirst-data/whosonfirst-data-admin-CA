@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":52.079626,
     "lbl:longitude":-109.390078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.079626,
     "mps:longitude":-109.390078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0443\u0441\u0435\u043b\u0430\u043d\u0434"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.0818,
     "wd:longitude":-109.39,
     "wd:wordcount":1689,
@@ -69,7 +72,6 @@
         "fct:id":"03c00f80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6062129,
         "gp:id":2185,
-        "qs:id":178569,
         "qs_pg:id":178569,
         "wd:id":"Q1915299",
         "wk:page":"Luseland"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563284653,
+    "wof:lastmodified":1566519520,
     "wof:name":"Luseland",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

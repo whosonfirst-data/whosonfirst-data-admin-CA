@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
+    "geom:area_square_m":100195.515791,
     "geom:bbox":"-97.0175238,55.0752284,-97.0100607,55.0789576",
     "geom:latitude":55.077011,
     "geom:longitude":-97.013544,
     "iso:country":"CA",
     "lbl:latitude":55.077378,
     "lbl:longitude":-97.012608,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.077378,
     "mps:longitude":-97.012608,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cross Lake 19X06"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741685,
-    "wof:lastmodified":1533069801,
+    "wof:lastmodified":1566519887,
     "wof:name":"Cross Lake 19X06",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

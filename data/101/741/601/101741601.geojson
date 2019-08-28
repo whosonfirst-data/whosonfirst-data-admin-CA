@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003544,
+    "geom:area_square_m":24530320.320422,
     "geom:bbox":"-114.0017452,55.941105,-113.891368,55.9846311",
     "geom:latitude":55.958849,
     "geom:longitude":-113.953823,
     "iso:country":"CA",
     "lbl:latitude":55.95697,
     "lbl:longitude":-113.953816,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.95697,
     "mps:longitude":-113.953816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wabasca 166B"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101741601,
-    "wof:lastmodified":1533250159,
+    "wof:lastmodified":1566519894,
     "wof:name":"Wabasca 166B",
     "wof:parent_id":1158863325,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CA",
     "lbl:latitude":44.682914,
     "lbl:longitude":-81.451269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.682914,
     "mps:longitude":-81.451269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648\u062b \u0628\u0631\u0648\u0633 \u0628\u064a\u0646\u064a\u0633\u0648\u0644\u0627"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":44.7333,
     "wd:longitude":-81.2,
     "wd:wordcount":326,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":6151762,
         "gp:id":29374108,
-        "qs:id":1210618,
+        "qs_pg:id":1210618,
         "wd:id":"Q3492590",
         "wk:page":"South Bruce Peninsula"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101736047,
-    "wof:lastmodified":1563284396,
+    "wof:lastmodified":1566519466,
     "wof:name":"South Bruce Peninsula",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

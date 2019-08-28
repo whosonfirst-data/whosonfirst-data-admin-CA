@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15643042.653934,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-63.571716,44.62793,-63.571716,44.62793",
     "geom:latitude":44.62793,
     "geom:longitude":-63.571716,
     "gn:id":"",
     "iso:country":"CA",
+    "lbl:bbox":"-63.576716,44.62293,-63.566716,44.63293",
     "lbl:latitude":44.62793,
     "lbl:longitude":-63.571716,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.621747,
     "mps:longitude":-63.571663,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "South End"
-    ],
-    "name:unk_x_variant":[
         "South End"
     ],
     "qs:gn_adm0_cc":"CA",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85682075,
         102191575,
         85633041,
-        890456491,
-        85682075
+        890456491
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55856309,
-        "qs:id":1089533,
         "qs_pg:id":1089533
     },
     "wof:country":"CA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872015,
+    "wof:lastmodified":1566519001,
     "wof:name":"South End",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
