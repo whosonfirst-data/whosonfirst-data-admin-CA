@@ -1,15 +1,17 @@
 {
   "id": 890457677,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ca",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"7903b2522d86111955e189396070d5fd",
-    "wof:id":890457677
+    "wof:geomhash":"9ee2c39cd8c4289968e0d0af528d2de0",
+    "wof:id":890457677,
+    "wof:repo":"whosonfirst-data-admin-ca"
 },
   "bbox": [
-    -60.179980714545934,
+    -60.17998071454593,
     46.06611452135951,
-    -60.179980714545934,
+    -60.17998071454593,
     46.06611452135951
 ],
   "geometry": {"coordinates":[-60.17998071454593,46.06611452135951],"type":"Point"}

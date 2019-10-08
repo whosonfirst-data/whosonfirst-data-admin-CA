@@ -1,10 +1,12 @@
 {
   "id": 101736307,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ca",
+  "properties": {
+    "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
     "wof:geomhash":"c36ada68ba10a8b1dc09489dc865511d",
-    "wof:id":101736307
+    "wof:id":101736307,
+    "wof:repo":"whosonfirst-data-admin-ca"
 },
   "bbox": [
     -81.21644,
