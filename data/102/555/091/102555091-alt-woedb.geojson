@@ -1,11 +1,13 @@
 {
   "id": 102555091,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ca",
+  "properties": {
+    "src:alt_label":"woedb",
     "src:geom":"woedb",
     "wof:geomhash":"5920e82704e0e2d0185b73c8c509b910",
     "wof:id":102555091,
-    "wof:placetype":"campus"
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca"
 },
   "bbox": [
     -79.658508,

@@ -1,11 +1,13 @@
 {
   "id": 102554373,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ca",
+  "properties": {
+    "src:alt_label":"ourairports",
     "src:geom":"ourairports",
     "wof:geomhash":"dceb47394c4d8f9759f1748293eb4255",
     "wof:id":102554373,
-    "wof:placetype":"campus"
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ca"
 },
   "bbox": [
     -123.111,

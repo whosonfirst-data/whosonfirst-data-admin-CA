@@ -1,11 +1,13 @@
 {
   "id": 1108936311,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ca",
+  "properties": {
+    "src:alt_label":"unknown",
     "src:geom":"unknown",
     "wof:geomhash":"2d1e538ad5b4fa2fcf6dddcc2bc31181",
     "wof:id":1108936311,
-    "wof:placetype":"neighbourhood"
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ca"
 },
   "bbox": [
     -113.42858530145504,

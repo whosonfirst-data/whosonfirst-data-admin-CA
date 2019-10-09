@@ -1,10 +1,12 @@
 {
   "id": 85633041,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ca",
+  "properties": {
+    "src:alt_label":"whosonfirst-reversegeo",
     "src:geom":"whosonfirst",
     "wof:geomhash":"a2784a64b46e1412d11d6a4e318a903a",
-    "wof:id":85633041
+    "wof:id":85633041,
+    "wof:repo":"whosonfirst-data-admin-ca"
 },
   "bbox": [
     -141.00275,
