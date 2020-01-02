@@ -12,8 +12,6 @@
     "iso:country":"CA",
     "lbl:latitude":51.416779,
     "lbl:longitude":-112.645231,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
     "mps:latitude":51.416779,
     "mps:longitude":-112.645231,
     "mz:hierarchy_label":0,
@@ -99,15 +97,15 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":1511799793,
+            "county_id":1511799793,
             "region_id":85682091
         }
     ],
     "wof:id":1511799793,
-    "wof:lastmodified":1577997629,
+    "wof:lastmodified":1578006341,
     "wof:name":"Drumheller",
     "wof:parent_id":85682091,
-    "wof:placetype":"locality",
+    "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:statistical_gore":1,
     "wof:superseded_by":[],
