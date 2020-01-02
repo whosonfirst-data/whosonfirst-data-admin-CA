@@ -1,10 +1,7 @@
 {
-  "id": 890458269,
+  "id": 1511799793,
   "type": "Feature",
   "properties": {
-    "can-abog:geocode":"0532",
-    "can-abog:geoname":"TOWN OF DRUMHELLER",
-    "can-abog:pid":29947,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01438,
@@ -12,23 +9,15 @@
     "geom:bbox":"-112.80803713,51.3214769724,-112.454354127,51.4887869444",
     "geom:latitude":51.414385,
     "geom:longitude":-112.633228,
-    "gn:country":"CA",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "gp:adm0":23424775,
     "iso:country":"CA",
-    "label:eng_x_preferred_longname":[
-        "Town of Drumheller"
-    ],
     "lbl:latitude":51.416779,
     "lbl:longitude":-112.645231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":51.416779,
     "mps:longitude":-112.645231,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Drumheller"
     ],
@@ -83,21 +72,7 @@
     "name:zho_x_preferred":[
         "\u5fb7\u62c9\u59c6\u9ed1\u52d2"
     ],
-    "qs:name":"Drumheller",
-    "qs:name_adm0":"Canada",
-    "qs:name_adm1":"Alberta",
-    "qs:photos":4995,
-    "qs:photos_1k":1000,
-    "qs:photos_9k":22,
-    "qs:photos_9r":14,
-    "qs:photos_all":4995,
-    "qs:photos_sr":24,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"9",
     "src:geom":"can-abog",
-    "src:geom_alt":[
-        "unknown"
-    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1267,
@@ -115,7 +90,7 @@
         "wk:page":"Drumheller"
     },
     "wof:coterminous":[
-        1511799793
+        890458269
     ],
     "wof:country":"CA",
     "wof:created":1469053199,
@@ -124,17 +99,18 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":890458269,
+            "county_id":1511799793,
+            "locality_id":1511799793,
             "region_id":85682091
         }
     ],
-    "wof:id":890458269,
-    "wof:lastmodified":1577993858,
+    "wof:id":1511799793,
+    "wof:lastmodified":1577993851,
     "wof:name":"Drumheller",
     "wof:parent_id":85682091,
     "wof:placetype":"locality",
-    "wof:placetype_local":"town",
     "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:statistical_gore":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
