@@ -33,7 +33,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682091
+        85682091,
+        1511799793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,15 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":1511799793,
             "locality_id":1277091861,
             "region_id":85682091
         }
     ],
     "wof:id":1277091861,
-    "wof:lastmodified":1566519090,
+    "wof:lastmodified":1578006339,
     "wof:name":"Kneehill",
-    "wof:parent_id":85682091,
+    "wof:parent_id":1511799793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],

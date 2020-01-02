@@ -201,6 +201,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
+        890458223,
+        1511799797,
         85682091
     ],
     "wof:breaches":[],
@@ -215,7 +217,8 @@
         {
             "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":-1,
+            "county_id":1511799797,
+            "locality_id":890458223,
             "neighbourhood_id":85894567,
             "region_id":85682091
         }
@@ -224,9 +227,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519019,
+    "wof:lastmodified":1578005441,
     "wof:name":"Downtown Fort Saskatchewan",
-    "wof:parent_id":-1,
+    "wof:parent_id":890458223,
     "wof:placetype":"neighbourhood",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",

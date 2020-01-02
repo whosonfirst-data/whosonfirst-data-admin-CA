@@ -1,11 +1,7 @@
 {
-  "id": 890458621,
+  "id": 1511799799,
   "type": "Feature",
   "properties": {
-    "can-abog:CITY_ID":15,
-    "can-abog:GEOCODE":"0292",
-    "can-abog:GEONAME":"CITY OF ST. ALBERT",
-    "can-abog:PID":30143,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006759,
@@ -13,20 +9,13 @@
     "geom:bbox":"-113.707606627,53.5995952756,-113.565622056,53.6826602001",
     "geom:latitude":53.6407,
     "geom:longitude":-113.63844,
-    "gn:country":"CA",
-    "gn:fcode":"PPL",
-    "gn:population":57719,
-    "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:latitude":53.63344,
     "lbl:longitude":-113.63533,
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.5,
     "mps:latitude":53.639748,
     "mps:longitude":-113.633609,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0623\u0644\u0628\u0631\u062a"
     ],
@@ -174,30 +163,15 @@
     "name:zho_x_preferred":[
         "\u5723\u827e\u4f2f\u7279"
     ],
-    "qs:name":"St. Albert",
-    "qs:name_adm0":"Canada",
-    "qs:name_adm1":"Alberta",
-    "qs:photos":1008,
-    "qs:photos_1k":204,
-    "qs:photos_9k":11,
-    "qs:photos_9r":10,
-    "qs:photos_all":2412,
-    "qs:photos_sr":11,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"8",
     "reversegeo:latitude":53.639748,
     "reversegeo:longitude":-113.633609,
     "src:geom":"can-abog",
-    "src:geom_alt":[
-        "unknown"
-    ],
     "src:population":"geonames",
     "wd:wordcount":326,
     "wof:belongsto":[
         102191575,
         85633041,
-        85682091,
-        1511799799
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,7 +182,7 @@
         "wk:page":"Saint Albert"
     },
     "wof:coterminous":[
-        1511799799
+        890458621
     ],
     "wof:country":"CA",
     "wof:created":1469053228,
@@ -218,18 +192,18 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":1511799799,
-            "locality_id":890458621,
             "region_id":85682091
         }
     ],
-    "wof:id":890458621,
-    "wof:lastmodified":1578005464,
+    "wof:id":1511799799,
+    "wof:lastmodified":1578005473,
     "wof:name":"St. Albert",
-    "wof:parent_id":1511799799,
-    "wof:placetype":"locality",
+    "wof:parent_id":85682091,
+    "wof:placetype":"county",
     "wof:population":57719,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:statistical_gore":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
