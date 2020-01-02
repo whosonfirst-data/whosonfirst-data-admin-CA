@@ -105,12 +105,13 @@
     "reversegeo:longitude":-113.623491,
     "src:geom":"can-edmdsd",
     "wof:belongsto":[
+        85682091,
         102191575,
         1108970619,
         85633041,
         890458485,
         1108971223,
-        85682091
+        1511799791
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -122,6 +123,7 @@
             "borough_id":1108971223,
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":1511799791,
             "locality_id":890458485,
             "macrohood_id":1108970619,
             "neighbourhood_id":1108972477,
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":1108972477,
-    "wof:lastmodified":1566519316,
+    "wof:lastmodified":1577998017,
     "wof:name":"Windermere",
     "wof:parent_id":1108970619,
     "wof:placetype":"neighbourhood",

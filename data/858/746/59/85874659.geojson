@@ -57,11 +57,13 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":75,
     "wof:belongsto":[
+        85682091,
         102191575,
+        1108970651,
         85633041,
         890458485,
-        1108971557,
-        85682091
+        1108971115,
+        1511799791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,10 +75,12 @@
     "wof:geomhash":"63303952492efe42aba852d513af52af",
     "wof:hierarchy":[
         {
-            "borough_id":1108971557,
+            "borough_id":1108971115,
             "continent_id":102191575,
             "country_id":85633041,
+            "county_id":1511799791,
             "locality_id":890458485,
+            "macrohood_id":1108970651,
             "neighbourhood_id":85874659,
             "region_id":85682091
         }
@@ -85,9 +89,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518985,
+    "wof:lastmodified":1577998019,
     "wof:name":"McQueen",
-    "wof:parent_id":1108971557,
+    "wof:parent_id":1108970651,
     "wof:placetype":"neighbourhood",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
