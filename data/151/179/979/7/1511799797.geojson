@@ -1,10 +1,7 @@
 {
-  "id": 890458223,
+  "id": 1511799797,
   "type": "Feature",
   "properties": {
-    "can-abog:geocode":"0117",
-    "can-abog:geoname":"CITY OF FORT SASKATCHEWAN",
-    "can-abog:pid":30135,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006573,
@@ -12,23 +9,16 @@
     "geom:bbox":"-113.29355196,53.6717279173,-113.124391003,53.7743928396",
     "geom:latitude":53.717749,
     "geom:longitude":-113.188613,
-    "gn:country":"CA",
-    "gn:fcode":"PPL",
-    "gn:population":14957,
-    "gp:adm0":23424775,
     "iso:country":"CA",
     "label:eng_x_preferred_longname":[
         "City of Fort Saskatchewan"
     ],
     "lbl:latitude":53.716832,
     "lbl:longitude":-113.189925,
-    "lbl:max_zoom":15.0,
-    "lbl:min_zoom":10.5,
     "mps:latitude":53.716832,
     "mps:longitude":-113.189925,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u062a \u0633\u0627\u0633\u0643\u0627\u062a\u0634\u0648\u0627\u0646"
     ],
@@ -173,29 +163,14 @@
     "name:zho_x_preferred":[
         "\u8428\u65af\u5580\u5f7b\u6e29\u5821"
     ],
-    "qs:name":"Fort Saskatchewan",
-    "qs:name_adm0":"Canada",
-    "qs:name_adm1":"Alberta",
-    "qs:photos":282,
-    "qs:photos_1k":57,
-    "qs:photos_9k":2,
-    "qs:photos_9r":5,
-    "qs:photos_all":373,
-    "qs:photos_sr":5,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"7",
     "src:geom":"can-abog",
-    "src:geom_alt":[
-        "unknown"
-    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3322,
     "wof:belongsto":[
         102191575,
         85633041,
-        85682091,
-        1511799797
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,7 +181,7 @@
         "wk:page":"Fort Saskatchewan"
     },
     "wof:coterminous":[
-        1511799797
+        890458223
     ],
     "wof:country":"CA",
     "wof:created":1469053197,
@@ -216,19 +191,18 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":1511799797,
-            "locality_id":890458223,
             "region_id":85682091
         }
     ],
-    "wof:id":890458223,
-    "wof:lastmodified":1578005412,
+    "wof:id":1511799797,
+    "wof:lastmodified":1578005442,
     "wof:name":"Fort Saskatchewan",
-    "wof:parent_id":1511799797,
-    "wof:placetype":"locality",
-    "wof:placetype_local":"city",
+    "wof:parent_id":85682091,
+    "wof:placetype":"county",
     "wof:population":14957,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ca",
+    "wof:statistical_gore":1,
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
