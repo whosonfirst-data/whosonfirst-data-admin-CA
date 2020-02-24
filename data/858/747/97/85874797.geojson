@@ -124,7 +124,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":1455,
@@ -143,6 +144,10 @@
         "wd:id":"Q659530"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"afd22c2b86db1d38660050462ad4d740",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518976,
+    "wof:lastmodified":1582309593,
     "wof:name":"Tissot",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

@@ -82,7 +82,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"East Kootenay",
@@ -105,6 +105,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053052,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"3e44f081feca667607c1caae21eff47b",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":890456529,
-    "wof:lastmodified":1566520173,
+    "wof:lastmodified":1582310004,
     "wof:name":"East Kootenay",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -254,7 +254,8 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1300,
@@ -273,6 +274,10 @@
         "wk:page":"Dryden, Ontario"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"9bd693d5bbff9b85533e96a3abc0ff84",
     "wof:hierarchy":[
         {
@@ -284,7 +289,7 @@
         }
     ],
     "wof:id":101735531,
-    "wof:lastmodified":1566519943,
+    "wof:lastmodified":1582309887,
     "wof:name":"Dryden",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

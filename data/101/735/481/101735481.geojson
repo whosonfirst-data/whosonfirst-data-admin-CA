@@ -187,6 +187,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -207,6 +208,10 @@
         "wk:page":"Naujaat"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a13a54215f5fef384e3db6e73a1b2fbd",
     "wof:hierarchy":[
         {
@@ -221,7 +226,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519947,
+    "wof:lastmodified":1582309890,
     "wof:name":"Repulse Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

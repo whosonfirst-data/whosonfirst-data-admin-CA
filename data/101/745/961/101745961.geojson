@@ -163,6 +163,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -183,6 +184,10 @@
         "wd:id":"Q1020012"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34252e4b6b73f4a9dc93d28a5126412e",
     "wof:hierarchy":[
         {
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":101745961,
-    "wof:lastmodified":1566520057,
+    "wof:lastmodified":1582309913,
     "wof:name":"Norway House 17",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

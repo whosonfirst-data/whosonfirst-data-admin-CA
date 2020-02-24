@@ -44,7 +44,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "src:population":"geonames",
@@ -70,6 +71,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cdb8cf09a229379f338ff1ccc4eecb15",
     "wof:hierarchy":[
         {
@@ -86,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518960,
+    "wof:lastmodified":1582309582,
     "wof:name":"Bell's Corners",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

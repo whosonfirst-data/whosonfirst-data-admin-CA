@@ -63,12 +63,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":377,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126115071,
         85633041,
         101740015,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "wd:id":"Q4979465"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fc92b498287d1d3ef3307bde2755f93",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870959,
+    "wof:lastmodified":1582309614,
     "wof:name":"Brunskill",
     "wof:parent_id":1126115071,
     "wof:placetype":"neighbourhood",

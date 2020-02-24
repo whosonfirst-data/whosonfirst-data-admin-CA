@@ -33,6 +33,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -54,6 +55,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4e0c2691dbf58aa705703458e77d6c7",
     "wof:hierarchy":[
         {
@@ -71,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519017,
+    "wof:lastmodified":1582309624,
     "wof:name":"Greenbrook Paulson",
     "wof:parent_id":1108833429,
     "wof:placetype":"neighbourhood",

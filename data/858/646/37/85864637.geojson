@@ -41,6 +41,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -63,6 +64,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5282f88ccc7aee476a6a5c590bb7d366",
     "wof:hierarchy":[
         {
@@ -79,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519008,
+    "wof:lastmodified":1582309616,
     "wof:name":"The Glebe",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

@@ -63,7 +63,8 @@
     "reversegeo:longitude":-79.471231,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Junction Area (90)",
@@ -84,6 +85,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"37d5039633c9f5a83651a5446917577e",
     "wof:hierarchy":[
         {
@@ -100,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519012,
+    "wof:lastmodified":1582309618,
     "wof:name":"The Junction",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

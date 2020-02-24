@@ -257,6 +257,7 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -277,6 +278,10 @@
         "wd:id":"Q993714"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea1651f5ccbb8ff2a612ca38c51b6453",
     "wof:hierarchy":[
         {
@@ -288,7 +293,7 @@
         }
     ],
     "wof:id":101735705,
-    "wof:lastmodified":1566519940,
+    "wof:lastmodified":1582309885,
     "wof:name":"Kenora",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

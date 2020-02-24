@@ -69,12 +69,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":30,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108906827,
         85633041,
         101741071,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +84,10 @@
         "wd:id":"Q7985827"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"70c5a3348d1cb7640ee3b6eddbf74a8e",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931290,
+    "wof:lastmodified":1582309596,
     "wof:name":"West Lynn",
     "wof:parent_id":1108906827,
     "wof:placetype":"neighbourhood",

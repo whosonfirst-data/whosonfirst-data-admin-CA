@@ -65,11 +65,11 @@
     "wd:longitude":-79.309,
     "wd:wordcount":574,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        85682057
     ],
     "wof:breaches":[
         85895301
@@ -81,6 +81,10 @@
         "wd:id":"Q6455538"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"665a9b08c1e4c022b419143acc2e3eeb",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871184,
+    "wof:lastmodified":1582309619,
     "wof:name":"L'Amoreaux",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

@@ -75,8 +75,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Fraser-Fort George",
@@ -98,6 +98,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053126,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"f82e43dfba18389ec5eec4bc55f495c0",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890457209,
-    "wof:lastmodified":1566520246,
+    "wof:lastmodified":1582310072,
     "wof:name":"Fraser-Fort George",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

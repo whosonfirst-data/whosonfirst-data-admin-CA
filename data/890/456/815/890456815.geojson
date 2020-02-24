@@ -67,7 +67,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Powell River",
@@ -89,6 +89,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053087,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"61eae4c8caeae2ec7c168816e9274896",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890456815,
-    "wof:lastmodified":1566520183,
+    "wof:lastmodified":1582310012,
     "wof:name":"Powell River",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

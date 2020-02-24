@@ -148,7 +148,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Peace River",
@@ -170,6 +170,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053126,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"6132365eff268a3dfff006b95921914c",
     "wof:hierarchy":[
         {
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":890457207,
-    "wof:lastmodified":1566520247,
+    "wof:lastmodified":1582310074,
     "wof:name":"Peace River",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

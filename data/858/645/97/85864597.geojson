@@ -42,6 +42,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -62,6 +63,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c101337227037532aff7e973cc04789",
     "wof:hierarchy":[
         {
@@ -78,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518961,
+    "wof:lastmodified":1582309583,
     "wof:name":"Overbrook",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

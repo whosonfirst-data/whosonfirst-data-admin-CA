@@ -648,6 +648,7 @@
     "reversegeo:longitude":-73.587778,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -673,6 +674,10 @@
         "wk:page":"Montreal"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40777e862d8a4fa636105d1aa63c2606",
     "wof:hierarchy":[
         {
@@ -687,7 +692,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519483,
+    "wof:lastmodified":1582309749,
     "wof:megacity":1,
     "wof:name":"Montreal",
     "wof:parent_id":890458661,

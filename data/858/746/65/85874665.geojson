@@ -40,18 +40,19 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":26,
     "wof:belongsto":[
-        85682091,
         102191575,
         1108970679,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +61,10 @@
         "wd:id":"Q5523598"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f41eaa46a7ac62eb31470560cbec4e1",
     "wof:hierarchy":[
         {
@@ -77,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998020,
+    "wof:lastmodified":1582309600,
     "wof:name":"Garneau",
     "wof:parent_id":1108970679,
     "wof:placetype":"neighbourhood",

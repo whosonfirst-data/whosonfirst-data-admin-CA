@@ -92,12 +92,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":29,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108833673,
         85633041,
         101735835,
-        1108833313
+        1108833313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,6 +107,10 @@
         "wd:id":"Q403330"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c240390dfa61f923cb670b37fdb566d",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871907,
+    "wof:lastmodified":1582309627,
     "wof:name":"Eatonville",
     "wof:parent_id":1108833673,
     "wof:placetype":"neighbourhood",

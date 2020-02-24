@@ -38,6 +38,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -58,6 +59,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a296bf17ba49402956d73f82b44520c1",
     "wof:hierarchy":[
         {
@@ -74,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519022,
+    "wof:lastmodified":1582309628,
     "wof:name":"Forbes",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

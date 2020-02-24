@@ -271,7 +271,8 @@
     "qs:type":"MU",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
@@ -293,6 +294,10 @@
         "wk:page":"Chilliwack"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"0bd8ae90f50f5b0ed001794e336d4a4c",
     "wof:hierarchy":[
         {
@@ -304,7 +309,7 @@
         }
     ],
     "wof:id":101740939,
-    "wof:lastmodified":1566519545,
+    "wof:lastmodified":1582309775,
     "wof:name":"Chilliwack",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

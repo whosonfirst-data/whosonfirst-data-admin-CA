@@ -48,7 +48,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:latitude":45.5272,
@@ -69,6 +70,10 @@
         "wd:id":"Q3363748"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa4de98a4cc1daf4a451e7ed9bd4555a",
     "wof:hierarchy":[
         {
@@ -85,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519011,
+    "wof:lastmodified":1582309618,
     "wof:name":"Parc-Extension",
     "wof:parent_id":1108955737,
     "wof:placetype":"neighbourhood",

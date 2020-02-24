@@ -160,6 +160,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -180,6 +181,10 @@
         "wd:id":"Q402571"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"391129390deefb4c39e79e139f99c716",
     "wof:hierarchy":[
         {
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101734699,
-    "wof:lastmodified":1566519913,
+    "wof:lastmodified":1582309865,
     "wof:name":"Lynn Lake",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

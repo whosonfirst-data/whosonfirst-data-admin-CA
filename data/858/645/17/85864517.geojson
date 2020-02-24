@@ -60,11 +60,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":49,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833319
+        1108833319,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +74,10 @@
         "wd:id":"Q5056999"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5368b660950ef8e3453414b0aca67b4",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870907,
+    "wof:lastmodified":1582309583,
     "wof:name":"Cedarvale",
     "wof:parent_id":1108833319,
     "wof:placetype":"neighbourhood",

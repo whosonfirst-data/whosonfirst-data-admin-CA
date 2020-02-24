@@ -37,7 +37,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Lawrence Park South (103)",
@@ -62,6 +63,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"09605172103e9bf9d8069f865b5a7ada",
     "wof:hierarchy":[
         {
@@ -79,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519020,
+    "wof:lastmodified":1582309626,
     "wof:name":"Lawrence Park South",
     "wof:parent_id":1108905207,
     "wof:placetype":"neighbourhood",

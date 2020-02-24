@@ -65,12 +65,12 @@
     "wd:longitude":-79.332039,
     "wd:wordcount":837,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834627,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,6 +82,10 @@
         "wk:page":"Leslieville"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c29b9556cb2d79119f584dd0b171695b",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871912,
+    "wof:lastmodified":1582309627,
     "wof:name":"Leslieville",
     "wof:parent_id":1108834627,
     "wof:placetype":"neighbourhood",

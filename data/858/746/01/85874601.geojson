@@ -42,6 +42,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -50,11 +51,11 @@
     "wd:longitude":-114.114,
     "wd:wordcount":325,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,6 +64,10 @@
         "wd:id":"Q6721875"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ac6aa8f030e892634a6841ac6f6b16a",
     "wof:hierarchy":[
         {
@@ -78,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998125,
+    "wof:lastmodified":1582309600,
     "wof:name":"MacEwan Glen",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

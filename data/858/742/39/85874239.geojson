@@ -69,11 +69,11 @@
     "wd:longitude":-79.422,
     "wd:wordcount":1668,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,6 +83,10 @@
         "wd:id":"Q14875253"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f66235527f86341530b810f56c64515",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871910,
+    "wof:lastmodified":1582309627,
     "wof:name":"Liberty Village",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

@@ -62,6 +62,7 @@
     "reversegeo:longitude":-97.116157,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -79,6 +80,10 @@
         "qs_pg:id":899234
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cd81cb00c1e25841b41c273ca17b9e5",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518974,
+    "wof:lastmodified":1582309592,
     "wof:name":"Central St. Boniface",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

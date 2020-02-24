@@ -37,7 +37,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -55,6 +56,10 @@
         "wd:id":"Q3315549"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1fe7112fff6a8f0623f5e32e8827f63f",
     "wof:hierarchy":[
         {
@@ -71,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519018,
+    "wof:lastmodified":1582309624,
     "wof:name":"Minnetonka",
     "wof:parent_id":1108968473,
     "wof:placetype":"neighbourhood",

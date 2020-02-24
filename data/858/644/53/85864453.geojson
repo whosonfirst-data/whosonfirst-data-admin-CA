@@ -62,7 +62,8 @@
     "reversegeo:longitude":-75.444268,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -81,6 +82,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca985693f5f77dc272f7005f7d107619",
     "wof:hierarchy":[
         {
@@ -97,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518958,
+    "wof:lastmodified":1582309582,
     "wof:name":"Navan",
     "wof:parent_id":1126040691,
     "wof:placetype":"neighbourhood",

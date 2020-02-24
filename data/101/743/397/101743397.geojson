@@ -160,6 +160,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -177,6 +178,10 @@
         "wd:id":"Q921964"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cadee9746c60b9c27291460662af9ca",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":101743397,
-    "wof:lastmodified":1566519986,
+    "wof:lastmodified":1582309905,
     "wof:name":"Dease Lake 9",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

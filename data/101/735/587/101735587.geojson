@@ -169,7 +169,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1080,
@@ -188,6 +189,10 @@
         "wk:page":"Cobalt, Ontario"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"7fa97a1230b7808771b218d283b87155",
     "wof:hierarchy":[
         {
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":101735587,
-    "wof:lastmodified":1566519940,
+    "wof:lastmodified":1582309885,
     "wof:name":"Cobalt",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

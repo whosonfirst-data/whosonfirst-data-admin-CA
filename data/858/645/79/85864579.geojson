@@ -47,6 +47,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -69,6 +70,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"400b4f4c8eebcadee32a1304ddfcfccb",
     "wof:hierarchy":[
         {
@@ -85,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518961,
+    "wof:lastmodified":1582309583,
     "wof:name":"Newtonbrook",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

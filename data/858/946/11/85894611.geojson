@@ -64,12 +64,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":1090783
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc70a55ba3ce79330e63a9fa55b488d6",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931231,
+    "wof:lastmodified":1582309590,
     "wof:name":"Downtown Burnaby",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

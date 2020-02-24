@@ -61,12 +61,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":376,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108906827,
         85633041,
         101741071,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +76,10 @@
         "wd:id":"Q6709272"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c9b2e365405989f4312556f6d8d0f45",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870985,
+    "wof:lastmodified":1582309588,
     "wof:name":"Lynn Valley",
     "wof:parent_id":1108906827,
     "wof:placetype":"neighbourhood",

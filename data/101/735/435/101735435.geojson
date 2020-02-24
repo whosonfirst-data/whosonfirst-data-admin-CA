@@ -249,6 +249,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -269,6 +270,10 @@
         "wk:page":"Arviat"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"edbf46286f7c0e310ddd910725baea74",
     "wof:hierarchy":[
         {
@@ -283,7 +288,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519955,
+    "wof:lastmodified":1582309897,
     "wof:name":"Arviat",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

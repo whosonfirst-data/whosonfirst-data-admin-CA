@@ -108,15 +108,16 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,6 +126,10 @@
         "wd:id":"Q5072927"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2039ce290b48c175b9aa70263b6d0f76",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998123,
+    "wof:lastmodified":1582309586,
     "wof:name":"Chaparral",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

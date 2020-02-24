@@ -62,11 +62,11 @@
     "wd:longitude":-79.4244,
     "wd:wordcount":1883,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +76,10 @@
         "wd:id":"Q14875402"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1788ae9a89b987f4bd0d3c6418160384",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871919,
+    "wof:lastmodified":1582309624,
     "wof:name":"Regal Heights",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

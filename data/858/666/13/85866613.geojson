@@ -106,6 +106,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -123,6 +124,10 @@
         "qs_pg:id":210247
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a90e755351fe8db3fee3573fb05298a",
     "wof:hierarchy":[
         {
@@ -139,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518966,
+    "wof:lastmodified":1582309587,
     "wof:name":"Buchanan",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

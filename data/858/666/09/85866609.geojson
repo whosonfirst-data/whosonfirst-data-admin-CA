@@ -70,6 +70,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -87,6 +88,10 @@
         "qs_pg:id":368653
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0cbb8c72fdd4beb9fa2bfffa7d9b355",
     "wof:hierarchy":[
         {
@@ -103,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518965,
+    "wof:lastmodified":1582309586,
     "wof:name":"Montcalm",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

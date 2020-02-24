@@ -32,6 +32,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -50,6 +51,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"782fea97de0a7de33f9eb9cd9f0d1732",
     "wof:hierarchy":[
         {
@@ -73,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518954,
+    "wof:lastmodified":1582309579,
     "wof:name":"Rougemount",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

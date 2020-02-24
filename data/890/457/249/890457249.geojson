@@ -69,8 +69,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kootenay Boundary",
@@ -93,6 +93,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053129,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"6c081591be4fb7479b76fda0da0368bc",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890457249,
-    "wof:lastmodified":1566520244,
+    "wof:lastmodified":1582310071,
     "wof:name":"Kootenay Boundary",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

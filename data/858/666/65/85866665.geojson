@@ -39,16 +39,17 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":33,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,6 +58,10 @@
         "wd:id":"Q5084241"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6c981bf7174d45d8219a6b9083359ed",
     "wof:hierarchy":[
         {
@@ -72,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998124,
+    "wof:lastmodified":1582309586,
     "wof:name":"Charleswood",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

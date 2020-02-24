@@ -157,7 +157,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":5.0,
@@ -180,6 +181,10 @@
         "wk:page":"Paulatuk"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"16b0eb1806639d1174ccb0732f17b78d",
     "wof:hierarchy":[
         {
@@ -194,7 +199,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519948,
+    "wof:lastmodified":1582309891,
     "wof:name":"Paulatuk",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

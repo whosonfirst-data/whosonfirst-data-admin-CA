@@ -64,8 +64,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Okanagan-Similkameen",
@@ -88,6 +88,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053124,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"09d051149ecb579e541e1e7c1d25922d",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890457193,
-    "wof:lastmodified":1566520203,
+    "wof:lastmodified":1582310032,
     "wof:name":"Okanagan-Similkameen",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

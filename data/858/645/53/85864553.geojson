@@ -32,6 +32,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -53,6 +54,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"01613e0da696a495efd09cb8b5b58d4b",
     "wof:hierarchy":[
         {
@@ -70,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518961,
+    "wof:lastmodified":1582309583,
     "wof:name":"Keelesdale",
     "wof:parent_id":1108833429,
     "wof:placetype":"neighbourhood",

@@ -156,7 +156,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":525.0,
@@ -179,6 +180,10 @@
         "wk:page":"Radisson, Saskatchewan"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"66fc2ab7d4b49a4aa6cff79e84c9788b",
     "wof:hierarchy":[
         {
@@ -193,7 +198,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519399,
+    "wof:lastmodified":1582309707,
     "wof:name":"Radisson",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

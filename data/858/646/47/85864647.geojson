@@ -39,6 +39,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -59,6 +60,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86fa15db68619b176532f3c11666a2bd",
     "wof:hierarchy":[
         {
@@ -75,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519009,
+    "wof:lastmodified":1582309616,
     "wof:name":"Westboro",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

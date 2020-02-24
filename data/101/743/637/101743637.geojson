@@ -151,7 +151,8 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1557,
@@ -169,6 +170,10 @@
         "wd:id":"Q2894612"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"7b775cdfac56110835a8b1800ad2a5ff",
     "wof:hierarchy":[
         {
@@ -180,7 +185,7 @@
         }
     ],
     "wof:id":101743637,
-    "wof:lastmodified":1566520001,
+    "wof:lastmodified":1582309906,
     "wof:name":"Bella Bella 1",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",

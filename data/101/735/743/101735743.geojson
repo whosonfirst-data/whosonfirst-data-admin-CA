@@ -170,7 +170,8 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2052,
@@ -188,6 +189,10 @@
         "wd:id":"Q36504"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"c4127b1eb459dfb11522e8cee7646b27",
     "wof:hierarchy":[
         {
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":101735743,
-    "wof:lastmodified":1566519956,
+    "wof:lastmodified":1582309898,
     "wof:name":"Sioux Lookout",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

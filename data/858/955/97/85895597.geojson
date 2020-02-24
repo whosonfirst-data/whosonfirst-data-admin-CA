@@ -32,7 +32,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -50,6 +51,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"99a81ca1a87c6b4b3d15345d906e6eed",
     "wof:hierarchy":[
         {
@@ -73,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518954,
+    "wof:lastmodified":1582309578,
     "wof:name":"Highbrush",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

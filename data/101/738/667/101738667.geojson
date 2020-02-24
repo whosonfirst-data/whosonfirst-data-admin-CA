@@ -202,7 +202,8 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.8,
@@ -223,6 +224,10 @@
         "wk:page":"Schefferville"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"c2246240ff91d97c29f6c24085cca8a1",
     "wof:hierarchy":[
         {
@@ -234,7 +239,7 @@
         }
     ],
     "wof:id":101738667,
-    "wof:lastmodified":1566519515,
+    "wof:lastmodified":1582309761,
     "wof:name":"Schefferville",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

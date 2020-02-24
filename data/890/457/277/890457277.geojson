@@ -64,8 +64,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Central Coast",
@@ -87,6 +87,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053130,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"1223e7a8bf1906ab7cbd3e08b3d3a7ba",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890457277,
-    "wof:lastmodified":1566520237,
+    "wof:lastmodified":1582310064,
     "wof:name":"Central Coast",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

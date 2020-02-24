@@ -39,6 +39,7 @@
     "reversegeo:geometry":"101748007-alt-quattroshapes-reversegeo.geojson",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -51,6 +52,10 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes-reversegeo",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cdeff37800c00915433710eb412ef989",
     "wof:hierarchy":[
         {
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":101748007,
-    "wof:lastmodified":1566519782,
+    "wof:lastmodified":1582309829,
     "wof:name":"Sahtu Lands",
     "wof:parent_id":1158869057,
     "wof:placetype":"locality",

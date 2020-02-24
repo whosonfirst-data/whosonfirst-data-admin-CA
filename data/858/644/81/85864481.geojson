@@ -40,7 +40,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -59,6 +60,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"298aa96a25fe2062270b9a672d0407ed",
     "wof:hierarchy":[
         {
@@ -75,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518958,
+    "wof:lastmodified":1582309581,
     "wof:name":"Corkery",
     "wof:parent_id":1125978557,
     "wof:placetype":"neighbourhood",

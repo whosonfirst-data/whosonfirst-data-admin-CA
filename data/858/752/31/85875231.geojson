@@ -60,12 +60,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":436,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113663,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[
         85864811
@@ -77,6 +77,10 @@
         "wd:id":"Q679"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"07d362fcc4a1aa954dfd4be13ad0b47a",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872046,
+    "wof:lastmodified":1582309569,
     "wof:name":"West",
     "wof:parent_id":1126113663,
     "wof:placetype":"neighbourhood",

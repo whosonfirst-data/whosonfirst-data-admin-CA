@@ -40,7 +40,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":568,
@@ -62,6 +63,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"019c6f8a5ac427c2e8dd9896273ba67d",
     "wof:hierarchy":[
         {
@@ -78,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518957,
+    "wof:lastmodified":1582309580,
     "wof:name":"North Gower",
     "wof:parent_id":1126023271,
     "wof:placetype":"neighbourhood",

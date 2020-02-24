@@ -133,6 +133,7 @@
     "qs:type":"Land Claim",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -150,6 +151,10 @@
         "qs_pg:id":231777
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"232a0def3ba276777ef2ed276e192dfb",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":101741635,
-    "wof:lastmodified":1566519872,
+    "wof:lastmodified":1582309851,
     "wof:name":"Mistassini",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

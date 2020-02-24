@@ -75,8 +75,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Central Kootenay",
@@ -99,6 +99,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053187,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"e87b3908ee9cb087ffd113b8555e3ad2",
     "wof:hierarchy":[
         {
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890458089,
-    "wof:lastmodified":1566520126,
+    "wof:lastmodified":1582309958,
     "wof:name":"Central Kootenay",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

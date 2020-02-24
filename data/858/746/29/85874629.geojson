@@ -40,7 +40,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:elevation":667.0,
@@ -48,12 +49,12 @@
     "wd:longitude":-113.487,
     "wd:wordcount":709,
     "wof:belongsto":[
-        85682091,
         102191575,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,10 @@
         "wd:id":"Q4711580"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"49e5968c0fac29fb5eaa5cf27ddbe84f",
     "wof:hierarchy":[
         {
@@ -78,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998019,
+    "wof:lastmodified":1582309600,
     "wof:name":"Alberta Avenue",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

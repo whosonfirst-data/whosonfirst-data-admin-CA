@@ -64,12 +64,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":1090808
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0aa3c0dc4220ac91703cba69445bf5c",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931288,
+    "wof:lastmodified":1582309597,
     "wof:name":"Vancouver Heights",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

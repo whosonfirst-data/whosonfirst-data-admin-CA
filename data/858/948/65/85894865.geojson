@@ -63,12 +63,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915103,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "qs_pg:id":986994
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"44abc56b755c25d263e89946ae93c79c",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931273,
+    "wof:lastmodified":1582309589,
     "wof:name":"Burnaby West",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

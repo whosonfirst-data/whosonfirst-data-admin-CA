@@ -30,6 +30,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -52,6 +53,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41c149d4ba6155be886a3222a5a441ee",
     "wof:hierarchy":[
         {
@@ -69,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519017,
+    "wof:lastmodified":1582309623,
     "wof:name":"Greenwood-Coxwell",
     "wof:parent_id":1108834627,
     "wof:placetype":"neighbourhood",

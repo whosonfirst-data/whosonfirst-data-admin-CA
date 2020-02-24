@@ -196,6 +196,7 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -215,6 +216,10 @@
         "wk:page":"Wawa, Ontario"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17c7f93167ea540f7c13882faca30452",
     "wof:hierarchy":[
         {
@@ -226,7 +231,7 @@
         }
     ],
     "wof:id":101735845,
-    "wof:lastmodified":1566519923,
+    "wof:lastmodified":1582309873,
     "wof:name":"Wawa",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

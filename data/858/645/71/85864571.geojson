@@ -60,6 +60,7 @@
     "reversegeo:longitude":-75.752302,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -80,6 +81,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5866bd8abe8f5475e203ce630638f330",
     "wof:hierarchy":[
         {
@@ -96,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518961,
+    "wof:lastmodified":1582309583,
     "wof:name":"Mckellar Heights",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

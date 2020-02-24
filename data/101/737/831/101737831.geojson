@@ -296,6 +296,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -319,6 +320,10 @@
         "wk:page":"Rimouski"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2797024e3221cf816e713b9def5b6f8",
     "wof:hierarchy":[
         {
@@ -330,7 +335,7 @@
         }
     ],
     "wof:id":101737831,
-    "wof:lastmodified":1566519447,
+    "wof:lastmodified":1582309725,
     "wof:name":"Rimouski",
     "wof:parent_id":890456467,
     "wof:placetype":"locality",

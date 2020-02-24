@@ -69,8 +69,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Squamish-Lillooet",
@@ -93,6 +93,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053109,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"33cb5cb15b6aedd00354b1b176e3eced",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890456953,
-    "wof:lastmodified":1566520147,
+    "wof:lastmodified":1582309979,
     "wof:name":"Squamish-Lillooet",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -45,15 +45,16 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,10 @@
         "wd:id":"Q5430737"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5543807fdf39528f581a1e2915a2352",
     "wof:hierarchy":[
         {
@@ -77,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998181,
+    "wof:lastmodified":1582309586,
     "wof:name":"Fairview",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
