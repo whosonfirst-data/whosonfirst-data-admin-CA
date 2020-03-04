@@ -70,7 +70,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Alberni-Clayoquot",
@@ -93,6 +93,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053227,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"2f4a399363c1b9120357b21f682a44f3",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890458599,
-    "wof:lastmodified":1566520122,
+    "wof:lastmodified":1582309953,
     "wof:name":"Alberni-Clayoquot",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

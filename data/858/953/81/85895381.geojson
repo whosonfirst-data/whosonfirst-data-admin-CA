@@ -51,7 +51,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Agincourt South-Malvern West (128)",
@@ -76,6 +77,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"91e65573eed00d73ee1c2a6b8afc22b8",
     "wof:hierarchy":[
         {
@@ -93,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518946,
+    "wof:lastmodified":1582309573,
     "wof:name":"Agincourt South",
     "wof:parent_id":1108833323,
     "wof:placetype":"neighbourhood",

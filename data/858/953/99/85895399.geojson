@@ -30,7 +30,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Humbermede (22)",
@@ -55,6 +56,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0db32f1f46bfadee9ae66ddb72ece483",
     "wof:hierarchy":[
         {
@@ -71,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518946,
+    "wof:lastmodified":1582309573,
     "wof:name":"Humbermede",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

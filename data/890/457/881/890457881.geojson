@@ -220,7 +220,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -248,6 +248,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053174,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"02cb2fa203f38fb348f7e2255ecaf423",
     "wof:hierarchy":[
         {
@@ -258,7 +262,7 @@
         }
     ],
     "wof:id":890457881,
-    "wof:lastmodified":1566520216,
+    "wof:lastmodified":1582310045,
     "wof:name":"Nanaimo",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

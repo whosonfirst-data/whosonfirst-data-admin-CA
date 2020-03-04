@@ -79,6 +79,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -97,6 +98,10 @@
         "qs_pg:id":368219
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4018338cafc1a0a6a647f28a70968ea8",
     "wof:hierarchy":[
         {
@@ -113,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518964,
+    "wof:lastmodified":1582309586,
     "wof:name":"Booth",
     "wof:parent_id":1108968515,
     "wof:placetype":"neighbourhood",

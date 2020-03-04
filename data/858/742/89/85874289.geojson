@@ -36,7 +36,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Lawrence Park North (105)",
@@ -62,6 +63,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b124975a4002df9c4cf31212b7f08447",
     "wof:hierarchy":[
         {
@@ -79,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519021,
+    "wof:lastmodified":1582309627,
     "wof:name":"Lawrence Park North",
     "wof:parent_id":1108905207,
     "wof:placetype":"neighbourhood",

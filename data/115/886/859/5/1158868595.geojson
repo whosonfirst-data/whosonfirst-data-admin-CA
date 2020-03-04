@@ -45,7 +45,7 @@
     ],
     "src:geom":"statcan",
     "src:geom_alt":[
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Stikine",
@@ -61,6 +61,9 @@
     "wof:breaches":[],
     "wof:country":"CA",
     "wof:created":1512762158,
+    "wof:geom_alt":[
+        "can-databc"
+    ],
     "wof:geomhash":"5df35b825df2c0029a9ef6c36e4edc7f",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1158868595,
-    "wof:lastmodified":1566520393,
+    "wof:lastmodified":1582310121,
     "wof:name":"Stikine",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

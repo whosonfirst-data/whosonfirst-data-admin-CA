@@ -178,6 +178,7 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -199,6 +200,10 @@
         "wk:page":"Mingan, Quebec"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2026c6f50f589ba1cd04461a7198200b",
     "wof:hierarchy":[
         {
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":101747639,
-    "wof:lastmodified":1566519740,
+    "wof:lastmodified":1582309819,
     "wof:name":"Mingan",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

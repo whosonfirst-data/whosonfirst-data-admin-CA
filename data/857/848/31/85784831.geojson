@@ -82,6 +82,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -100,6 +101,10 @@
         "wd:id":"Q2042095"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"210da046dd0b557a76379f7feff6b44b",
     "wof:hierarchy":[
         {
@@ -115,7 +120,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566518911,
+    "wof:lastmodified":1582309542,
     "wof:name":"Outremont",
     "wof:parent_id":101736545,
     "wof:placetype":"neighbourhood",

@@ -59,16 +59,17 @@
     "reversegeo:longitude":-113.521509,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682091,
         102191575,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +77,10 @@
         "qs_pg:id":381281
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d98cb8b54177a79d51fff70b37ce29d2",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998021,
+    "wof:lastmodified":1582309601,
     "wof:name":"McKeman",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

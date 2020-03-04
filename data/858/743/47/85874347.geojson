@@ -36,7 +36,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Briar Hill-Belgravia (108)",
@@ -57,6 +58,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"191d0e5df68a572dae11c7dc9506f659",
     "wof:hierarchy":[
         {
@@ -74,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519018,
+    "wof:lastmodified":1582309624,
     "wof:name":"Briar Hill-Belgravia",
     "wof:parent_id":1108834637,
     "wof:placetype":"neighbourhood",

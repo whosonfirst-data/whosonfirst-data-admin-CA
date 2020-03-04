@@ -34,7 +34,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -52,6 +53,10 @@
         "wd:id":"Q14875040"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c33e3190a2dc21969d48b95881f3486e",
     "wof:hierarchy":[
         {
@@ -68,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519006,
+    "wof:lastmodified":1582309614,
     "wof:name":"Island Lakes",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

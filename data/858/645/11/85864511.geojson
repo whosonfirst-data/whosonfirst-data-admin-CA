@@ -37,6 +37,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -58,6 +59,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04e2f756b6d93fbe7b9520e459ce30b4",
     "wof:hierarchy":[
         {
@@ -74,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518960,
+    "wof:lastmodified":1582309583,
     "wof:name":"Brittania",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

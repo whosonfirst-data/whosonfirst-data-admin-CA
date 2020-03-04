@@ -32,7 +32,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -50,6 +51,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d00ba3728603b2cea354875a6a28fc6",
     "wof:hierarchy":[
         {
@@ -66,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519015,
+    "wof:lastmodified":1582309621,
     "wof:name":"Fisher Glen",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

@@ -54,7 +54,7 @@
     ],
     "src:geom":"statcan",
     "src:geom_alt":[
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Strathcona",
@@ -70,6 +70,9 @@
     "wof:breaches":[],
     "wof:country":"CA",
     "wof:created":1512762150,
+    "wof:geom_alt":[
+        "can-databc"
+    ],
     "wof:geomhash":"453ad6a7449457a592174cebfefa4416",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1158868591,
-    "wof:lastmodified":1566520390,
+    "wof:lastmodified":1582310118,
     "wof:name":"Strathcona",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

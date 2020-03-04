@@ -64,12 +64,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":68,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,10 @@
         "wd:id":"Q4999593"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b3aa720fd183cd117b18107358303ff",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931288,
+    "wof:lastmodified":1582309597,
     "wof:name":"Burnaby North",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

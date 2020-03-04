@@ -260,7 +260,8 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -281,6 +282,10 @@
         "wk:page":"Bathurst, New Brunswick"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"4a45c56139804452c0b277d0bc9ace67",
     "wof:hierarchy":[
         {
@@ -291,7 +296,7 @@
         }
     ],
     "wof:id":101735275,
-    "wof:lastmodified":1566519927,
+    "wof:lastmodified":1582309875,
     "wof:name":"Bathurst",
     "wof:parent_id":85682065,
     "wof:placetype":"locality",

@@ -254,7 +254,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":55.0,
@@ -278,6 +279,10 @@
         "wk:page":"Pond Inlet"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"611dea48a8a985778fecdbf882a7209c",
     "wof:hierarchy":[
         {
@@ -292,7 +297,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519926,
+    "wof:lastmodified":1582309875,
     "wof:name":"Pond Inlet",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

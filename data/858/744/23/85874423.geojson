@@ -32,7 +32,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:latitude":45.3653,
@@ -54,6 +55,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5e5325486bc545367e1ea055c507a34",
     "wof:hierarchy":[
         {
@@ -70,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519016,
+    "wof:lastmodified":1582309622,
     "wof:name":"Fisher Heights",
     "wof:parent_id":1125922669,
     "wof:placetype":"neighbourhood",

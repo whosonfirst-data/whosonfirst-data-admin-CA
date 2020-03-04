@@ -186,7 +186,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -209,6 +210,10 @@
         "wk:page":"Watson Lake, Yukon"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"097e69453ed9ececb1d348713a3eb9bd",
     "wof:hierarchy":[
         {
@@ -223,7 +228,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519578,
+    "wof:lastmodified":1582309785,
     "wof:name":"Watson Lake",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",

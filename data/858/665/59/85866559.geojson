@@ -670,6 +670,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -689,6 +690,10 @@
         "wd:id":"Q16876114"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d0537bdf45e7f4eb028c30237e6637dd",
     "wof:hierarchy":[
         {
@@ -705,7 +710,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519013,
+    "wof:lastmodified":1582309619,
     "wof:name":"Luxton",
     "wof:parent_id":1108968519,
     "wof:placetype":"neighbourhood",

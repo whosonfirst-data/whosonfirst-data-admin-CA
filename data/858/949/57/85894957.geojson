@@ -61,12 +61,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":598,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915099,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +76,10 @@
         "wd:id":"Q4999585"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"699b6b4a49b133fdb421a4736a83fec4",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931289,
+    "wof:lastmodified":1582309596,
     "wof:name":"Burnaby East",
     "wof:parent_id":1108915099,
     "wof:placetype":"neighbourhood",

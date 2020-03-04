@@ -311,7 +311,8 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
@@ -331,6 +332,10 @@
         "wk:page":"Belleville, Ontario"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"7b86b9c4fa272c62625a7da349c1c6a7",
     "wof:hierarchy":[
         {
@@ -342,7 +347,7 @@
         }
     ],
     "wof:id":101735759,
-    "wof:lastmodified":1566519945,
+    "wof:lastmodified":1582309889,
     "wof:name":"Belleville",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",

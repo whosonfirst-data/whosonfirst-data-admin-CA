@@ -63,11 +63,11 @@
     "wd:longitude":-79.1258,
     "wd:wordcount":399,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "wd:id":"Q7986395"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9da5dfbb0e0dfddb465b706b31cdefc9",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871185,
+    "wof:lastmodified":1582309618,
     "wof:name":"West Rouge",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

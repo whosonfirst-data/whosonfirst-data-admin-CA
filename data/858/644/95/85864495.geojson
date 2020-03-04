@@ -61,12 +61,12 @@
     "wd:longitude":-79.429,
     "wd:wordcount":514,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108905395,
         85633041,
         101735835,
-        1108833315
+        1108833315,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,6 +74,9 @@
         "wd:id":"Q4793777"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c56b57d16e882df59ae985536a3c2159",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870903,
+    "wof:lastmodified":1582309580,
     "wof:name":"Armour Heights",
     "wof:parent_id":1108905395,
     "wof:placetype":"neighbourhood",

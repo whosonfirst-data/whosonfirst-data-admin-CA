@@ -34,16 +34,17 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682091,
         102191575,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +53,10 @@
         "wd:id":"Q5330999"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e4e8583ff432290375d5a5e0992f44d",
     "wof:hierarchy":[
         {
@@ -68,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998020,
+    "wof:lastmodified":1582309601,
     "wof:name":"Eastwood",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

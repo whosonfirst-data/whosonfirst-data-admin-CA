@@ -253,7 +253,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -270,6 +271,10 @@
         "qs_pg:id":899238
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8dc53db38ef94007dd343bd4ec8624b9",
     "wof:hierarchy":[
         {
@@ -286,7 +291,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518976,
+    "wof:lastmodified":1582309593,
     "wof:name":"Colony",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

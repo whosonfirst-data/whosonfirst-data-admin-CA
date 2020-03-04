@@ -34,6 +34,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -51,6 +52,10 @@
         "qs_pg:id":1087879
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f1d095254e9f06340c62d55bd90393d",
     "wof:hierarchy":[
         {
@@ -67,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519014,
+    "wof:lastmodified":1582309620,
     "wof:name":"Burrows-Keewatin",
     "wof:parent_id":1108968501,
     "wof:placetype":"neighbourhood",

@@ -258,6 +258,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -280,6 +281,10 @@
         "wk:page":"Grise Fiord"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9f068fc96f761194021ca4b5db1ee52",
     "wof:hierarchy":[
         {
@@ -294,7 +299,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519947,
+    "wof:lastmodified":1582309890,
     "wof:name":"Grise Fiord",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

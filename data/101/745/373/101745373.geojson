@@ -166,7 +166,8 @@
     "qs:type":"Indian Reserve",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -185,6 +186,10 @@
         "wd:id":"Q606045"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"b3529462ed77a947f7b1996801c2cff4",
     "wof:hierarchy":[
         {
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":101745373,
-    "wof:lastmodified":1566520071,
+    "wof:lastmodified":1582309915,
     "wof:name":"Fort Nelson 2",
     "wof:parent_id":890458063,
     "wof:placetype":"locality",

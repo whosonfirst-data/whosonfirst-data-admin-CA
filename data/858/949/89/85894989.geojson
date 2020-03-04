@@ -30,6 +30,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -55,6 +56,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d63d32136cbfc56fcb2bbbb4f993da4b",
     "wof:hierarchy":[
         {
@@ -71,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518980,
+    "wof:lastmodified":1582309596,
     "wof:name":"Guildwood",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

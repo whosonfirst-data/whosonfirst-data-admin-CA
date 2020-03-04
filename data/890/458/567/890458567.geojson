@@ -64,7 +64,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Cowichan Valley",
@@ -87,6 +87,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053225,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"8a81ad04e62e21b3e7f403c08dcd6d56",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890458567,
-    "wof:lastmodified":1566520095,
+    "wof:lastmodified":1582309929,
     "wof:name":"Cowichan Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

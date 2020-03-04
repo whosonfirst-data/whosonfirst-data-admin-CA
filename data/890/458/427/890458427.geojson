@@ -63,8 +63,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Columbia-Shuswap",
@@ -87,6 +87,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053215,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"3f0cfe772e79694c4adde8fdff137fa0",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890458427,
-    "wof:lastmodified":1566520129,
+    "wof:lastmodified":1582309960,
     "wof:name":"Columbia-Shuswap",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

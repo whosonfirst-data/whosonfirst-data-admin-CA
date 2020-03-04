@@ -61,6 +61,7 @@
     "qs:id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -83,6 +84,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dcb801b6a6893ceb91d78e8c6a43514f",
     "wof:hierarchy":[
         {
@@ -99,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519016,
+    "wof:lastmodified":1582309622,
     "wof:name":"Stittsville",
     "wof:parent_id":1126017307,
     "wof:placetype":"neighbourhood",

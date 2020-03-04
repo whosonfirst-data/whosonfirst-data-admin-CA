@@ -258,6 +258,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -282,6 +283,10 @@
         "wk:page":"Igloolik"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3189ef17b5f64fc55a7aaee23a38a9d",
     "wof:hierarchy":[
         {
@@ -296,7 +301,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519930,
+    "wof:lastmodified":1582309878,
     "wof:name":"Igloolik",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

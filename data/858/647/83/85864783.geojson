@@ -63,12 +63,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":261,
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113665,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "wd:id":"Q3108716"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90c7514f4ed08f5218b19726fd64334b",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870967,
+    "wof:lastmodified":1582309614,
     "wof:name":"Glencairn",
     "wof:parent_id":1126113665,
     "wof:placetype":"neighbourhood",

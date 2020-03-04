@@ -53,7 +53,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:latitude":45.481194,
@@ -74,6 +75,10 @@
         "wd:id":"Q3393563"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b27d2dca4dee67ce6178c6b84bef5afa",
     "wof:hierarchy":[
         {
@@ -90,7 +95,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566518982,
+    "wof:lastmodified":1582309598,
     "wof:name":"Point-Saint-Charles",
     "wof:parent_id":1108955759,
     "wof:placetype":"neighbourhood",

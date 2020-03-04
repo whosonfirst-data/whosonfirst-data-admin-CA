@@ -66,8 +66,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Thompson-Nicola",
@@ -90,6 +90,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053218,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"fbb2bc7c4b7a771bed73bbedba0eb571",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890458465,
-    "wof:lastmodified":1566520110,
+    "wof:lastmodified":1582309942,
     "wof:name":"Thompson-Nicola",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

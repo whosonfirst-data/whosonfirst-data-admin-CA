@@ -64,11 +64,11 @@
     "wd:longitude":-79.437,
     "wd:wordcount":440,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833315
+        1108833315,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +76,9 @@
         "wd:id":"Q6504365"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e364db8c8ffa079d16f252879852f1a4",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870922,
+    "wof:lastmodified":1582309582,
     "wof:name":"Lawrence Manor",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

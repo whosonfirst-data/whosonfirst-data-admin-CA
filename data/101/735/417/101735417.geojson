@@ -166,6 +166,7 @@
     "qs:type":"Charter Community",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -189,6 +190,10 @@
         "wk:page":"Tsiigehtchic"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89a98b4ad7685b286305b64756f0ebba",
     "wof:hierarchy":[
         {
@@ -203,7 +208,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519946,
+    "wof:lastmodified":1582309889,
     "wof:name":"Tsiigehtchic",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

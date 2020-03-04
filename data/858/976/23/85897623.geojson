@@ -52,7 +52,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:latitude":45.4557,
@@ -73,6 +74,10 @@
         "wd:id":"Q3559086"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bc2519a654e796594e75c825a83d8e5",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566518982,
+    "wof:lastmodified":1582309598,
     "wof:name":"Ville \u00c9mard",
     "wof:parent_id":1108955759,
     "wof:placetype":"neighbourhood",

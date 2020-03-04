@@ -65,7 +65,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":388,
@@ -84,6 +85,10 @@
         "wd:id":"Q3377317"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"37803a7f2727343bd853ff5e6b8daf84",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         "fre",
         "eng"
     ],
-    "wof:lastmodified":1566518982,
+    "wof:lastmodified":1582309598,
     "wof:name":"Petit Bourgogne",
     "wof:parent_id":1108955759,
     "wof:placetype":"neighbourhood",

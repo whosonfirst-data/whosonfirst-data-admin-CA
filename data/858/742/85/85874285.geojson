@@ -88,12 +88,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":69,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834637,
         85633041,
         101735835,
-        1108833319
+        1108833319,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,6 +103,10 @@
         "wd:id":"Q421784"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b08903576eef82135e586339db091d09",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531871914,
+    "wof:lastmodified":1582309627,
     "wof:name":"Fairbank",
     "wof:parent_id":1108834637,
     "wof:placetype":"neighbourhood",

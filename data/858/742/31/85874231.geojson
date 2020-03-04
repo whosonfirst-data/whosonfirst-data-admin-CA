@@ -57,6 +57,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -80,6 +81,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba4381ec973ae925988528311665fe78",
     "wof:hierarchy":[
         {
@@ -96,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519021,
+    "wof:lastmodified":1582309627,
     "wof:name":"Little Portugal",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

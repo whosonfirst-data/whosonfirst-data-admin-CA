@@ -78,7 +78,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Oakridge (121)",
@@ -101,6 +102,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3131db04918366cfc9ac48718a5e9244",
     "wof:hierarchy":[
         {
@@ -117,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518952,
+    "wof:lastmodified":1582309577,
     "wof:name":"Oakridge",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

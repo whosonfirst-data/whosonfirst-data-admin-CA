@@ -45,7 +45,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:elevation":70.0,
@@ -68,6 +69,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c1b672811e52d924b38f513de8c90bb",
     "wof:hierarchy":[
         {
@@ -84,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519015,
+    "wof:lastmodified":1582309622,
     "wof:name":"Centretown West",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

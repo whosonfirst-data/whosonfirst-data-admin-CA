@@ -112,8 +112,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Mount Waddington",
@@ -135,6 +135,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053089,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"fdec28b57503bdd242a5ac4bfed2d4fb",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":890456837,
-    "wof:lastmodified":1566520191,
+    "wof:lastmodified":1582310020,
     "wof:name":"Mount Waddington",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

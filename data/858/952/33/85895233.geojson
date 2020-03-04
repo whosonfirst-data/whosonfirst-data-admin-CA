@@ -42,7 +42,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Agincourt North (129)",
@@ -68,6 +69,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bda8f48d65a07b70cada88143e3f55e2",
     "wof:hierarchy":[
         {
@@ -85,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518951,
+    "wof:lastmodified":1582309576,
     "wof:name":"Agincourt North",
     "wof:parent_id":1108833323,
     "wof:placetype":"neighbourhood",

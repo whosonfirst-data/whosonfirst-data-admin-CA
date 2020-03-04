@@ -62,11 +62,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,6 +76,10 @@
         "qs_pg:id":958741
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"07d0acba026cbf419803df71e6ba6c60",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860662,
+    "wof:lastmodified":1582309543,
     "wof:name":"Swansea",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

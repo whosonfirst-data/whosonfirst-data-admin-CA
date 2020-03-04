@@ -185,6 +185,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -206,6 +207,10 @@
         "wk:page":"Cochrane, Ontario"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dbf369ce310e523c6b8292f7342ecc54",
     "wof:hierarchy":[
         {
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":101735731,
-    "wof:lastmodified":1566519922,
+    "wof:lastmodified":1582309871,
     "wof:name":"Cochrane",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

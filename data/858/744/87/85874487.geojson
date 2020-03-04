@@ -38,7 +38,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":100,
@@ -58,6 +59,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"10e8ead470dc4a6f9210fa5674c84613",
     "wof:hierarchy":[
         {
@@ -74,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519015,
+    "wof:lastmodified":1582309622,
     "wof:name":"Manor Park",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

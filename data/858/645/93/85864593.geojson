@@ -39,7 +39,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:elevation":70.0,
@@ -62,6 +63,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"30f3def6414367f36594f90838a2101c",
     "wof:hierarchy":[
         {
@@ -78,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518960,
+    "wof:lastmodified":1582309583,
     "wof:name":"Old Ottawa East",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

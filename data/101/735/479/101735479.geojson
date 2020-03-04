@@ -254,6 +254,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -278,6 +279,10 @@
         "qs_pg:id":1073222
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"081571bfc79606f30588949910856e1e",
     "wof:hierarchy":[
         {
@@ -292,7 +297,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519926,
+    "wof:lastmodified":1582309875,
     "wof:name":"Arctic Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

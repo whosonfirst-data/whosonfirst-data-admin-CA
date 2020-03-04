@@ -32,7 +32,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":682,
@@ -52,6 +53,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"314efcc5b8a3b7ad24dc4bae9b1ef38d",
     "wof:hierarchy":[
         {
@@ -68,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519016,
+    "wof:lastmodified":1582309622,
     "wof:name":"South Keys",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

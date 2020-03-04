@@ -79,12 +79,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":290,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915097,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,6 +94,10 @@
         "wd:id":"Q416379"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"af52335273993b68832d2fc94aa3f6dc",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931287,
+    "wof:lastmodified":1582309596,
     "wof:name":"Simon Fraser",
     "wof:parent_id":1108915097,
     "wof:placetype":"neighbourhood",

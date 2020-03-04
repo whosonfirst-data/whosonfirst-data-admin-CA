@@ -470,6 +470,7 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -490,6 +491,10 @@
         "wk:page":"Winnipeg"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3efa0bf1d8005df82de384c0505e954",
     "wof:hierarchy":[
         {
@@ -504,7 +509,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519910,
+    "wof:lastmodified":1582309864,
     "wof:megacity":0,
     "wof:name":"Winnipeg",
     "wof:parent_id":1158868941,

@@ -79,7 +79,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Cariboo",
@@ -102,6 +102,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053087,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"05a567ae8ce0b46afeab04c6b564d57b",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890456813,
-    "wof:lastmodified":1566520186,
+    "wof:lastmodified":1582310015,
     "wof:name":"Cariboo",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

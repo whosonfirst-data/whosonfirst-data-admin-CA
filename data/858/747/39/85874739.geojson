@@ -45,7 +45,8 @@
     "reversegeo:longitude":-97.138111,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -63,6 +64,10 @@
         "wd:id":"Q652258"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5380e05f855e27c46ab7755832ef875",
     "wof:hierarchy":[
         {
@@ -79,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518975,
+    "wof:lastmodified":1582309593,
     "wof:name":"Osborne Village",
     "wof:parent_id":1108969341,
     "wof:placetype":"neighbourhood",

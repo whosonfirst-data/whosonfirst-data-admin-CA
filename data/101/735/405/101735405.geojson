@@ -188,6 +188,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -212,6 +213,10 @@
         "wk:page":"Hay River, Northwest Territories"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a78dad6af3785afa8760138a227e363b",
     "wof:hierarchy":[
         {
@@ -226,7 +231,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519952,
+    "wof:lastmodified":1582309895,
     "wof:name":"Hay River",
     "wof:parent_id":1158869055,
     "wof:placetype":"locality",

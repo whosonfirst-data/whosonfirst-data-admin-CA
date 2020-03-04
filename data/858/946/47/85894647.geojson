@@ -64,12 +64,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915103,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,10 @@
         "qs_pg:id":212681
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49ce7180cd4d0e877e5a1d8e76a53fcd",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931234,
+    "wof:lastmodified":1582309591,
     "wof:name":"Deer Lake",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

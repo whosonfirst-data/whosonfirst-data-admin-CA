@@ -151,6 +151,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -170,6 +171,10 @@
         "wk:page":"Chapleau, Ontario"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c163c5903e49aa1e8edc906eb1ad13ed",
     "wof:hierarchy":[
         {
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":101735597,
-    "wof:lastmodified":1566519942,
+    "wof:lastmodified":1582309886,
     "wof:name":"Chapleau",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",

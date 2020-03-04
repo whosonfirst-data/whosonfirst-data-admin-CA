@@ -39,7 +39,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Tam O'Shanter-Sullivan (118)",
@@ -61,6 +62,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"63fd581e8ceb595d31f8bf1971bcefc3",
     "wof:hierarchy":[
         {
@@ -77,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518981,
+    "wof:lastmodified":1582309597,
     "wof:name":"Tam O' Shanter",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

@@ -163,7 +163,8 @@
     "qs:type":"Charter Community",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":268.0,
@@ -186,6 +187,10 @@
         "wk:page":"Fort Good Hope"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"57b9674412aec3ef0e7c6a0f66131f75",
     "wof:hierarchy":[
         {
@@ -200,7 +205,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519958,
+    "wof:lastmodified":1582309899,
     "wof:name":"Fort Good Hope",
     "wof:parent_id":1158869057,
     "wof:placetype":"locality",

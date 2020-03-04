@@ -185,7 +185,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -208,6 +209,10 @@
         "wk:page":"Tuktoyaktuk"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"580d2f2cd1f3ea8daaef3ceae94c90c2",
     "wof:hierarchy":[
         {
@@ -222,7 +227,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519945,
+    "wof:lastmodified":1582309889,
     "wof:name":"Tuktoyaktuk",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

@@ -32,7 +32,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Wychwood (94)",
@@ -53,6 +54,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e7b607a20bc19f4d2ec5f56ad3ff738",
     "wof:hierarchy":[
         {
@@ -69,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519018,
+    "wof:lastmodified":1582309624,
     "wof:name":"Wychwood",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

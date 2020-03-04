@@ -30,7 +30,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Morningside (135)",
@@ -52,6 +53,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f617454aca91a899f87b9c83834d13f8",
     "wof:hierarchy":[
         {
@@ -68,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518954,
+    "wof:lastmodified":1582309579,
     "wof:name":"Morningside",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

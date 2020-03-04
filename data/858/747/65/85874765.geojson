@@ -34,6 +34,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -51,6 +52,10 @@
         "qs_pg:id":230676
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccf19eab7cf037bb5b71e10e832018ee",
     "wof:hierarchy":[
         {
@@ -67,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518975,
+    "wof:lastmodified":1582309593,
     "wof:name":"The Mint",
     "wof:parent_id":1108968469,
     "wof:placetype":"neighbourhood",

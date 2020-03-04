@@ -68,7 +68,8 @@
     "reversegeo:longitude":-73.548396,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -85,6 +86,10 @@
         "qs_pg:id":1089187
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"501322f56a03fe34fae84ef6b7c32b41",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519024,
+    "wof:lastmodified":1582309630,
     "wof:name":"\u00cele-des-Soeurs",
     "wof:parent_id":1108955749,
     "wof:placetype":"neighbourhood",

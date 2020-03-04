@@ -234,6 +234,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -255,6 +256,10 @@
         "wk:page":"Longueuil"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96114de2b5ae73b5ec081d0914edd3f6",
     "wof:hierarchy":[
         {
@@ -269,7 +274,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519523,
+    "wof:lastmodified":1582309764,
     "wof:name":"Longueuil",
     "wof:parent_id":890456297,
     "wof:placetype":"locality",

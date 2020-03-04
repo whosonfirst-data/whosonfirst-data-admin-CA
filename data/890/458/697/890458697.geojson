@@ -79,7 +79,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Central Okanagan",
@@ -102,6 +102,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053233,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"819a4fddf768f9069263643dd5c7eefd",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890458697,
-    "wof:lastmodified":1566520134,
+    "wof:lastmodified":1582309965,
     "wof:name":"Central Okanagan",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

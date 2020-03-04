@@ -86,11 +86,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":4498,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833321
+        1108833321,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,6 +98,9 @@
         "wd:id":"Q1617812"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92d604cd2d8e82862fe0c2325fc4414b",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531870916,
+    "wof:lastmodified":1582309584,
     "wof:name":"High Park",
     "wof:parent_id":1108833321,
     "wof:placetype":"neighbourhood",

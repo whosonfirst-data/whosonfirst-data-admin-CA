@@ -179,6 +179,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -200,6 +201,10 @@
         "wk:page":"Moosonee"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"020c85a8266d380476446c46a2e34a03",
     "wof:hierarchy":[
         {
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":101735677,
-    "wof:lastmodified":1566519951,
+    "wof:lastmodified":1582309894,
     "wof:name":"Moosonee",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

@@ -273,6 +273,7 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -297,6 +298,10 @@
         "wk:page":"Cambridge Bay"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"510ec4f3f6d407417b28e4369f00b17d",
     "wof:hierarchy":[
         {
@@ -311,7 +316,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519951,
+    "wof:lastmodified":1582309894,
     "wof:name":"Cambridge Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

@@ -35,7 +35,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "torsdfa:AREA_NAME":"Oakwood Village (107)",
@@ -66,6 +67,10 @@
         "wof:parent_id"
     ],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"39ec7b860ffd7b1f58b89eeefcbe4c0a",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519021,
+    "wof:lastmodified":1582309627,
     "wof:name":"Oakwood Vaughan",
     "wof:parent_id":-3,
     "wof:placetype":"neighbourhood",

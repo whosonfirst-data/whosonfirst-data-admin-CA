@@ -59,12 +59,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113665,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +73,10 @@
         "qs_pg:id":986467
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"095a98117bfbcd7363c7921fdecfe9ab",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872048,
+    "wof:lastmodified":1582309569,
     "wof:name":"Arcola East - North",
     "wof:parent_id":1126113665,
     "wof:placetype":"neighbourhood",

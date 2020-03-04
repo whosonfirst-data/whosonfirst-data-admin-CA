@@ -82,6 +82,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -101,6 +102,10 @@
         "wd:id":"Q1364018"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddbe734c55a1f5dd07648817baa62a2d",
     "wof:hierarchy":[
         {
@@ -117,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519006,
+    "wof:lastmodified":1582309614,
     "wof:name":"Maybank",
     "wof:parent_id":1108968781,
     "wof:placetype":"neighbourhood",

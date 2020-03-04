@@ -181,7 +181,8 @@
     "qs:type":"Village",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":169.0,
@@ -204,6 +205,10 @@
         "wk:page":"Fort Simpson"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"06b428c1c18e328f921dc5d3741966b5",
     "wof:hierarchy":[
         {
@@ -218,7 +223,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519921,
+    "wof:lastmodified":1582309871,
     "wof:name":"Fort Simpson",
     "wof:parent_id":1158869037,
     "wof:placetype":"locality",

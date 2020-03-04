@@ -52,6 +52,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -73,6 +74,10 @@
         "wd:id":"Q3010614"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3061a871da7d717d359742da62a77df1",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566518982,
+    "wof:lastmodified":1582309598,
     "wof:name":"C\u00f4te Saint Paul",
     "wof:parent_id":1108955759,
     "wof:placetype":"neighbourhood",

@@ -191,7 +191,8 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -208,6 +209,10 @@
         "wd:id":"Q1018643"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"04c8c08057d95b4a3755f1776bee93db",
     "wof:hierarchy":[
         {
@@ -219,7 +224,7 @@
         }
     ],
     "wof:id":101735671,
-    "wof:lastmodified":1566519947,
+    "wof:lastmodified":1582309890,
     "wof:name":"Red Lake",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

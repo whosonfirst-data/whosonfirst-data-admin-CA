@@ -191,6 +191,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -211,6 +212,10 @@
         "wk:page":"Mont-Laurier"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67cb0ab7d74d3d37bb0ac15d70c3e9fe",
     "wof:hierarchy":[
         {
@@ -222,7 +227,7 @@
         }
     ],
     "wof:id":101738919,
-    "wof:lastmodified":1566519540,
+    "wof:lastmodified":1582309770,
     "wof:name":"Mont-Laurier",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",

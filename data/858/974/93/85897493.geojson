@@ -49,7 +49,8 @@
     "reversegeo:longitude":-73.708532,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:latitude":45.5318,
@@ -72,6 +73,10 @@
         "wk:page":"Cartierville"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cd6433e18f50ac35a79c418854a695b",
     "wof:hierarchy":[
         {
@@ -88,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519018,
+    "wof:lastmodified":1582309624,
     "wof:name":"Cartierville",
     "wof:parent_id":1108906763,
     "wof:placetype":"neighbourhood",

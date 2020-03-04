@@ -272,6 +272,7 @@
     "qs:type":"Ville",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -293,6 +294,10 @@
         "wk:page":"Gatineau"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e71327747590e2b413539535e310ae9",
     "wof:hierarchy":[
         {
@@ -307,7 +312,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519509,
+    "wof:lastmodified":1582309760,
     "wof:name":"Gatineau",
     "wof:parent_id":890456843,
     "wof:placetype":"locality",

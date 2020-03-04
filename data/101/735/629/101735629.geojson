@@ -152,6 +152,7 @@
     "qs:type":"Township",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -172,6 +173,10 @@
         "wk:page":"Atikokan"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3df6a0522f936a826fcb6ec757ac3ca7",
     "wof:hierarchy":[
         {
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":101735629,
-    "wof:lastmodified":1566519927,
+    "wof:lastmodified":1582309875,
     "wof:name":"Atikokan",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

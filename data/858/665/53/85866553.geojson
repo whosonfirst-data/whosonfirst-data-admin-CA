@@ -40,6 +40,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -59,6 +60,10 @@
         "wd:id":"Q5100157"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a8eab7de223c3993dea2f8aad195dcd",
     "wof:hierarchy":[
         {
@@ -75,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519014,
+    "wof:lastmodified":1582309620,
     "wof:name":"China Town",
     "wof:parent_id":1108968511,
     "wof:placetype":"neighbourhood",

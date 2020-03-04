@@ -328,6 +328,7 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:latitude":"46.233611",
@@ -350,6 +351,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053117,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a176bf376a3ab92c2776d99df5cf1c3c",
     "wof:hierarchy":[
         {
@@ -361,7 +366,7 @@
         }
     ],
     "wof:id":890457067,
-    "wof:lastmodified":1561844539,
+    "wof:lastmodified":1582310075,
     "wof:name":"Charlottetown",
     "wof:parent_id":890457737,
     "wof:placetype":"locality",

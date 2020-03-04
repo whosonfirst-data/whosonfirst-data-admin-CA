@@ -80,7 +80,7 @@
     "src:geom":"statcan",
     "src:geom_alt":[
         "unknown",
-        "can-databc"
+        "can"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Sunshine Coast",
@@ -102,6 +102,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053088,
+    "wof:geom_alt":[
+        "unknown",
+        "can-databc"
+    ],
     "wof:geomhash":"b0f56adaf915876817e91a50b63e8b49",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890456829,
-    "wof:lastmodified":1566520151,
+    "wof:lastmodified":1582309982,
     "wof:name":"Sunshine Coast",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

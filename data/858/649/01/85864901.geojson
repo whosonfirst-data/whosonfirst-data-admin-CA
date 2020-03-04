@@ -37,16 +37,17 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682091,
         102191575,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,6 +56,10 @@
         "wd:id":"Q14874821"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"878f9944df3ae32b4e0bab2ded18f726",
     "wof:hierarchy":[
         {
@@ -71,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998006,
+    "wof:lastmodified":1582309613,
     "wof:name":"Inglewood",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

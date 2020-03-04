@@ -34,17 +34,18 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":24,
     "wof:belongsto":[
-        85682091,
         102191575,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +54,10 @@
         "wd:id":"Q5688057"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"87ef8cfe3fff3bf426a7df08296b73bf",
     "wof:hierarchy":[
         {
@@ -69,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998007,
+    "wof:lastmodified":1582309616,
     "wof:name":"Hazeldean",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

@@ -175,6 +175,7 @@
     "qs:type":"MU",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -197,6 +198,10 @@
         "wk:page":"Lillooet"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21aadf20972889f838bb429981c8aea4",
     "wof:hierarchy":[
         {
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":101740897,
-    "wof:lastmodified":1566519583,
+    "wof:lastmodified":1582309786,
     "wof:name":"Lillooet",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

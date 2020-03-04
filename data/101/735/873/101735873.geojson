@@ -575,7 +575,8 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"gn",
@@ -600,6 +601,10 @@
         "wk:page":"Ottawa"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"41ade467e821c5619d43ef81d25522a6",
     "wof:hierarchy":[
         {
@@ -614,7 +619,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519925,
+    "wof:lastmodified":1582309874,
     "wof:megacity":1,
     "wof:name":"Ottawa",
     "wof:parent_id":890458681,

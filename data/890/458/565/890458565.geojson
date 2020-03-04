@@ -71,8 +71,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Comox Valley",
@@ -95,6 +95,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053224,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"79caab6f4baecb2294fe94b15e9e4196",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890458565,
-    "wof:lastmodified":1566520125,
+    "wof:lastmodified":1582309956,
     "wof:name":"Comox Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -34,16 +34,17 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682091,
         102191575,
         85633041,
         890458485,
         1108971557,
-        1511799791
+        1511799791,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +52,10 @@
         "qs_pg:id":220553
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e69b432c29a2df23bae33384f2e7d0e0",
     "wof:hierarchy":[
         {
@@ -67,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998018,
+    "wof:lastmodified":1582309600,
     "wof:name":"River Valley Riverside",
     "wof:parent_id":1108971557,
     "wof:placetype":"neighbourhood",

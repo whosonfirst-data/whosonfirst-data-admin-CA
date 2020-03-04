@@ -278,7 +278,7 @@
     "reversegeo:longitude":-111.383315,
     "src:geom":"can-abog",
     "src:geom_alt":[
-        "naturalearth"
+        "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -298,6 +298,9 @@
     },
     "wof:country":"CA",
     "wof:created":1499131060,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"05d31b3b63f2cf5b61fd085d0525fec4",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":1141909293,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1582310138,
     "wof:name":"Fort McMurray",
     "wof:parent_id":1158863321,
     "wof:placetype":"locality",

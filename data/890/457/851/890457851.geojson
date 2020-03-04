@@ -92,7 +92,10 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "src:geom":"can-abog",
-    "src:geom_alt":"unknown",
+    "src:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1051.0,
@@ -118,6 +121,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053172,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f4622eafc65897e6cdf910a67b83854",
     "wof:hierarchy":[
         {
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":890457851,
-    "wof:lastmodified":1566520218,
+    "wof:lastmodified":1582310047,
     "wof:name":"Okotoks",
     "wof:parent_id":1158863173,
     "wof:placetype":"locality",

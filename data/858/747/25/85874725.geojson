@@ -115,6 +115,7 @@
     "reversegeo:longitude":-97.20127,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -132,6 +133,10 @@
         "qs_pg:id":381333
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1af0e4a9f9569261ebc9faaedb390f95",
     "wof:hierarchy":[
         {
@@ -148,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518976,
+    "wof:lastmodified":1582309594,
     "wof:name":"Brooklands",
     "wof:parent_id":1108968515,
     "wof:placetype":"neighbourhood",

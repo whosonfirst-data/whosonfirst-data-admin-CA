@@ -42,6 +42,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -64,6 +65,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d68d3f2886ead6ee56e6a86d132469a",
     "wof:hierarchy":[
         {
@@ -80,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518912,
+    "wof:lastmodified":1582309542,
     "wof:name":"Richmond",
     "wof:parent_id":1126017307,
     "wof:placetype":"neighbourhood",

@@ -60,12 +60,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682113,
         102191575,
         1126113667,
         85633041,
         101739917,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,6 +77,10 @@
         "wk:page":"Southey, Saskatchewan"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8745144d063acc8df6554badb038199c",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531872043,
+    "wof:lastmodified":1582309569,
     "wof:name":"South",
     "wof:parent_id":1126113667,
     "wof:placetype":"neighbourhood",

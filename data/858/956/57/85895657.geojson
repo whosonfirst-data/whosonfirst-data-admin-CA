@@ -59,12 +59,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834661,
         85633041,
         101735835,
-        1108833313
+        1108833313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +73,10 @@
         "qs_pg:id":1090837
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c403062bcc00063bcaea694ba8a7e07a",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931462,
+    "wof:lastmodified":1582309607,
     "wof:name":"South Mimico",
     "wof:parent_id":1108834661,
     "wof:placetype":"neighbourhood",

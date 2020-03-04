@@ -64,12 +64,12 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":49,
     "wof:belongsto":[
-        85682117,
         102191575,
         1108915103,
         85633041,
         101741055,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +79,10 @@
         "wd:id":"Q268645"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fff455e2e527f4d5dd7458cb6c914fcb",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931273,
+    "wof:lastmodified":1582309588,
     "wof:name":"Metrotown",
     "wof:parent_id":1108915103,
     "wof:placetype":"neighbourhood",

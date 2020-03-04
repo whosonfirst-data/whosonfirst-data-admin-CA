@@ -30,6 +30,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -56,6 +57,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3dc72d615173ca24d75b91e4c9b43e4f",
     "wof:hierarchy":[
         {
@@ -72,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518944,
+    "wof:lastmodified":1582309572,
     "wof:name":"Cliffcrest",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

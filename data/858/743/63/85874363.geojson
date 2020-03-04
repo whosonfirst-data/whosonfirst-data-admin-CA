@@ -74,7 +74,8 @@
     "reversegeo:longitude":-73.567984,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -91,6 +92,10 @@
         "qs_pg:id":220546
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"341fe0e59ecb254ee37794c14e55a3a2",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519017,
+    "wof:lastmodified":1582309624,
     "wof:name":"Wellington-de-L'\u00c9glise",
     "wof:parent_id":1108955749,
     "wof:placetype":"neighbourhood",

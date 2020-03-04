@@ -51,7 +51,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:elevation":75.0,
@@ -74,6 +75,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d190c584bbd5a940bfdb3f7b3775547f",
     "wof:hierarchy":[
         {
@@ -90,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518973,
+    "wof:lastmodified":1582309592,
     "wof:name":"Centretown",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

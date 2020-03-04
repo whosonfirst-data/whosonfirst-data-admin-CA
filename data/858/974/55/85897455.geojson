@@ -34,6 +34,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -52,6 +53,10 @@
         "qs_pg:id":385092
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49abfc81e5d7750b5aa5664b86ba0f92",
     "wof:hierarchy":[
         {
@@ -68,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519018,
+    "wof:lastmodified":1582309625,
     "wof:name":"Assiniboia Downs",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",

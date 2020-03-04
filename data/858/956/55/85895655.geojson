@@ -64,12 +64,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":24,
     "wof:belongsto":[
-        85682057,
         102191575,
         1108834661,
         85633041,
         101735835,
-        1108833313
+        1108833313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,6 +80,10 @@
         "wd:id":"Q2290842"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cbfd683442ce23c680938e3099821ce",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931461,
+    "wof:lastmodified":1582309608,
     "wof:name":"Six Points",
     "wof:parent_id":1108834661,
     "wof:placetype":"neighbourhood",

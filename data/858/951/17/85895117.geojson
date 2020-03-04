@@ -70,11 +70,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":184,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +84,10 @@
         "wd:id":"Q1438694"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d072931764c4d9e76b1d78069e8d88f8",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931329,
+    "wof:lastmodified":1582309609,
     "wof:name":"Nugget",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

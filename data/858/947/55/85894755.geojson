@@ -37,7 +37,8 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wd:latitude":49.9089,
@@ -58,6 +59,10 @@
         "wd:id":"Q7056370"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"083288484faea1d630dae0afcca5b60c",
     "wof:hierarchy":[
         {
@@ -74,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518979,
+    "wof:lastmodified":1582309596,
     "wof:name":"South Point Douglas",
     "wof:parent_id":1108968477,
     "wof:placetype":"neighbourhood",

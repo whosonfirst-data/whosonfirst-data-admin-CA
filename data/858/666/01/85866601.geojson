@@ -238,6 +238,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -257,6 +258,10 @@
         "wd:id":"Q2655"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a87c47df27e7faa3d4bcd18296d3e0f8",
     "wof:hierarchy":[
         {
@@ -273,7 +278,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518965,
+    "wof:lastmodified":1582309586,
     "wof:name":"Sir John Franklin",
     "wof:parent_id":1108968513,
     "wof:placetype":"neighbourhood",

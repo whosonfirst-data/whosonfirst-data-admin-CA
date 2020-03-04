@@ -42,6 +42,7 @@
     "reversegeo:longitude":-73.5051,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -65,6 +66,10 @@
         "wk:page":"Pointe-aux-Trembles"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6371381940b3e522b3bbf19d9b47701a",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566518911,
+    "wof:lastmodified":1582309542,
     "wof:name":"Pointe-aux-Trembles",
     "wof:parent_id":1108955733,
     "wof:placetype":"neighbourhood",

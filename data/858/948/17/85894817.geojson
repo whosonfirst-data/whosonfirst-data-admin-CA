@@ -60,11 +60,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682117,
         102191575,
         1108952743,
         85633041,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,6 +73,10 @@
         "qs_pg:id":212694
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10d255d43a1770477184880026c71848",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931268,
+    "wof:lastmodified":1582309589,
     "wof:name":"Southarm",
     "wof:parent_id":1108952743,
     "wof:placetype":"neighbourhood",

@@ -35,6 +35,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -60,6 +61,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89e44ca13aa00045093d1de994130f8a",
     "wof:hierarchy":[
         {
@@ -76,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518913,
+    "wof:lastmodified":1582309544,
     "wof:name":"Downsview",
     "wof:parent_id":1108833315,
     "wof:placetype":"neighbourhood",

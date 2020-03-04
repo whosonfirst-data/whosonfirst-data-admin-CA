@@ -246,7 +246,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":66.0,
@@ -269,6 +270,10 @@
         "wk:page":"Resolute, Nunavut"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"8cd9b018f19a6e69aa59fa2a6ab560a6",
     "wof:hierarchy":[
         {
@@ -283,7 +288,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519923,
+    "wof:lastmodified":1582309872,
     "wof:name":"Resolute",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

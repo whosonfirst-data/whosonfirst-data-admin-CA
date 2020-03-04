@@ -162,7 +162,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
@@ -181,6 +182,10 @@
         "wd:id":"Q118259"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"eb8fac3521d681ba3f6f77265083829c",
     "wof:hierarchy":[
         {
@@ -195,7 +200,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519904,
+    "wof:lastmodified":1582309863,
     "wof:name":"Gillam",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

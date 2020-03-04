@@ -608,6 +608,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -630,6 +631,10 @@
     },
     "wof:controlled":[],
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47a99da2594c8364501d92361d4bb87a",
     "wof:hierarchy":[
         {
@@ -646,7 +651,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519022,
+    "wof:lastmodified":1582309628,
     "wof:name":"Tunney's Pasture",
     "wof:parent_id":1126058431,
     "wof:placetype":"neighbourhood",

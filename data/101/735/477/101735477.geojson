@@ -255,7 +255,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1003,
@@ -275,6 +276,10 @@
         "wk:page":"Cape Dorset"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"ad4a2ebba9ca5221dcaeaa94edd693e9",
     "wof:hierarchy":[
         {
@@ -289,7 +294,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519925,
+    "wof:lastmodified":1582309874,
     "wof:name":"Cape Dorset",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

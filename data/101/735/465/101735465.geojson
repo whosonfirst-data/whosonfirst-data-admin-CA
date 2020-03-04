@@ -246,7 +246,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":8.0,
@@ -268,6 +269,10 @@
         "wd:id":"Q1571291"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"87fa7bcdac80ffc157ce963776fc2573",
     "wof:hierarchy":[
         {
@@ -282,7 +287,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519934,
+    "wof:lastmodified":1582309881,
     "wof:name":"Hall Beach",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

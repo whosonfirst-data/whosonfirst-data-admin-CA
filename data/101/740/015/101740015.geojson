@@ -447,7 +447,8 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -471,6 +472,10 @@
         "wk:page":"Saskatoon"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"808493b0ad3bc005268b4412fd7f2719",
     "wof:hierarchy":[
         {
@@ -485,7 +490,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519549,
+    "wof:lastmodified":1582309775,
     "wof:megacity":0,
     "wof:name":"Saskatoon",
     "wof:parent_id":1158868949,

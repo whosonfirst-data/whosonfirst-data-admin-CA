@@ -66,8 +66,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Kitimat-Stikine",
@@ -89,6 +89,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053189,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"383a34c95588d21832eb465a8e5348f6",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890458111,
-    "wof:lastmodified":1566520112,
+    "wof:lastmodified":1582309944,
     "wof:name":"Kitimat-Stikine",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

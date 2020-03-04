@@ -171,6 +171,7 @@
     "qs:type":"MU",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -190,6 +191,10 @@
         "wk:page":"Port Hardy"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00b4b7f9869ab1c7e12b8b03d3773490",
     "wof:hierarchy":[
         {
@@ -201,7 +206,7 @@
         }
     ],
     "wof:id":101740801,
-    "wof:lastmodified":1566519581,
+    "wof:lastmodified":1582309785,
     "wof:name":"Port Hardy",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

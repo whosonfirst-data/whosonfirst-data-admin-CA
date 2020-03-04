@@ -638,6 +638,7 @@
     "qs:type":"City",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -667,6 +668,10 @@
         "wk:page":"Toronto"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e4d1489376d5d8d74b1f892b40ecb21",
     "wof:hierarchy":[
         {
@@ -681,7 +686,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519930,
+    "wof:lastmodified":1582309877,
     "wof:megacity":1,
     "wof:name":"Toronto",
     "wof:parent_id":890457465,

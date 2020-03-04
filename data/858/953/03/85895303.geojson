@@ -66,11 +66,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":57,
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735835,
-        1108833311
+        1108833311,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,6 +81,10 @@
         "wd:id":"Q1906476"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ee465abed03fc7a319f6fddac4c3b26",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531931375,
+    "wof:lastmodified":1582309572,
     "wof:name":"Maryvale",
     "wof:parent_id":1108833311,
     "wof:placetype":"neighbourhood",

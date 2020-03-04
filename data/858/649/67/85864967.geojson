@@ -39,6 +39,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -47,11 +48,11 @@
     "wd:longitude":-114.089,
     "wd:wordcount":235,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +61,10 @@
         "wd:id":"Q5025289"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb9dc4a0f13051d082e9e4d3d56a0ee0",
     "wof:hierarchy":[
         {
@@ -75,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1577998183,
+    "wof:lastmodified":1582309612,
     "wof:name":"Cambrian Heights",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

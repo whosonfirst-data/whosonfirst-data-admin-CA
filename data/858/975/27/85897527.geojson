@@ -124,6 +124,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
@@ -144,6 +145,10 @@
         "wd:id":"Q7548586"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93424c636ae9c36c872b25315693c6aa",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519024,
+    "wof:lastmodified":1582309630,
     "wof:name":"Snowdon",
     "wof:parent_id":1108955923,
     "wof:placetype":"neighbourhood",

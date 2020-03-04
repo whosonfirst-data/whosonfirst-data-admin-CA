@@ -249,7 +249,8 @@
     "qs:type":"Hamlet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:elevation":53.0,
@@ -272,6 +273,10 @@
         "wk:page":"Kimmirut"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"1267d154e26f84b70910205456fd7d89",
     "wof:hierarchy":[
         {
@@ -286,7 +291,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519928,
+    "wof:lastmodified":1582309876,
     "wof:name":"Kimmirut",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

@@ -44,7 +44,8 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -64,6 +65,10 @@
         "wd:id":"Q3345012"
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e8c2fadef2756605e57fd4d5ad4ff03",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566519018,
+    "wof:lastmodified":1582309624,
     "wof:name":"Bordeaux",
     "wof:parent_id":1108955857,
     "wof:placetype":"neighbourhood",

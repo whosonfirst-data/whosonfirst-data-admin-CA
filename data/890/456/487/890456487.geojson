@@ -150,8 +150,8 @@
     "qs:pop_sr":"0",
     "src:geom":"statcan",
     "src:geom_alt":[
-        "unknown",
-        "can-databc"
+        "can",
+        "unknown"
     ],
     "src:lbl_centroid":"mapshaper",
     "statcan:cdname":"Capital",
@@ -173,6 +173,10 @@
     },
     "wof:country":"CA",
     "wof:created":1469053048,
+    "wof:geom_alt":[
+        "can-databc",
+        "unknown"
+    ],
     "wof:geomhash":"02c190259ff13d182de0adf56286a346",
     "wof:hierarchy":[
         {
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":890456487,
-    "wof:lastmodified":1566520185,
+    "wof:lastmodified":1582310014,
     "wof:name":"Capital",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

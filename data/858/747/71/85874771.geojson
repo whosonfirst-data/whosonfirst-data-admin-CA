@@ -131,7 +131,8 @@
     "reversegeo:longitude":-97.302704,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -148,6 +149,10 @@
         "qs_pg:id":899245
     },
     "wof:country":"CA",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ca217c9c1b365945a61a01361a8e3ab",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566518976,
+    "wof:lastmodified":1582309593,
     "wof:name":"Westwood",
     "wof:parent_id":1108968457,
     "wof:placetype":"neighbourhood",
