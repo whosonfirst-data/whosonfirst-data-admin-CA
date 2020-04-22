@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.072812,
-    "geom:area_square_m":61658517251.910553,
+    "geom:area_square_m":61658520249.812241,
     "geom:bbox":"-66.391035,43.395943,-59.693917,47.226082",
     "geom:latitude":45.164165,
     "geom:longitude":-63.280037,
@@ -56,6 +56,9 @@
     "name:arc_x_preferred":[
         "\u0722\u0718\u0712\u0710 \u0723\u0729\u0718\u071b\u071d\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u06a4\u0627 \u0633\u0643\u0648\u0634\u0627"
+    ],
     "name:ast_x_preferred":[
         "Nueva Escocia"
     ],
@@ -102,6 +105,9 @@
     "name:ces_x_preferred":[
         "Nov\u00e9 Skotsko"
     ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06c6\u06a4\u0627 \u0633\u06a9\u06c6\u0634\u06cc\u0627"
+    ],
     "name:cor_x_preferred":[
         "Alban Nowydh"
     ],
@@ -118,10 +124,17 @@
         "\u0130sko\u00e7yay Newey"
     ],
     "name:diq_x_variant":[
-        "\u0130sko\u00e7yaya Newiye"
+        "\u0130sko\u00e7yaya Newiye",
+        "\u0130sko\u00e7yay Newe"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a3\u03ba\u03c9\u03c4\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Colony of Nova Scotia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Nova Scotia"
     ],
     "name:eng_x_preferred":[
         "Nova Scotia"
@@ -315,6 +328,9 @@
     "name:pol_x_preferred":[
         "Nowa Szkocja"
     ],
+    "name:por_br_x_preferred":[
+        "Nova Esc\u00f3cia"
+    ],
     "name:por_x_preferred":[
         "Nova Esc\u00f3cia"
     ],
@@ -417,8 +433,26 @@
     "name:yue_x_preferred":[
         "\u8afe\u83ef\u65af\u9ad8\u6c99"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Nova Scotia"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65b0\u65af\u79d1\u820d"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u65af\u79d1\u820d"
@@ -545,7 +579,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1583882705,
+    "wof:lastmodified":1587428262,
     "wof:name":"Nova Scotia",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

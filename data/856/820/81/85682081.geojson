@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.774673,
-    "geom:area_square_m":6607861682.699732,
+    "geom:area_square_m":6607862387.15451,
     "geom:bbox":"-64.418152,45.946797,-61.98653,47.060444",
     "geom:latitude":46.383042,
     "geom:longitude":-63.256369,
@@ -104,6 +104,9 @@
     "name:ces_x_variant":[
         "Ostrov prince Edvarda"
     ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06cc \u067e\u0631\u06cc\u0646\u0633 \u0626\u06ce\u062f\u0648\u0627\u0631\u062f"
+    ],
     "name:cor_x_preferred":[
         "Ynys an Pryns Edward"
     ],
@@ -111,6 +114,9 @@
         "Prince Edward Island"
     ],
     "name:dan_x_preferred":[
+        "Prince Edward Island"
+    ],
+    "name:deu_ch_x_preferred":[
         "Prince Edward Island"
     ],
     "name:deu_x_preferred":[
@@ -121,6 +127,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ae\u03c3\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03c1\u03af\u03b3\u03ba\u03b7\u03c0\u03b1 \u0395\u03b4\u03bf\u03c5\u03ac\u03c1\u03b4\u03bf\u03c5"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Colony of Prince Edward Island"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Prince Edward Island"
     ],
     "name:eng_x_preferred":[
         "Prince Edward Island"
@@ -329,6 +341,9 @@
     "name:slv_x_preferred":[
         "Otok princa Edvarda"
     ],
+    "name:som_x_preferred":[
+        "Prince Edward Island"
+    ],
     "name:spa_x_preferred":[
         "Isla del Pr\u00edncipe Eduardo"
     ],
@@ -352,6 +367,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd \u0b8e\u0b9f\u0bcd\u0bb5\u0bb0\u0bcd\u0b9f\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441-\u042d\u0434\u0432\u0430\u0440\u0434 \u0443\u0442\u0440\u0430\u0432\u044b"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c30\u0c3f\u0c28\u0c4d\u0c38\u0c4d \u0c0e\u0c21\u0c4d\u0c35\u0c30\u0c4d\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c3f"
@@ -388,6 +406,9 @@
     ],
     "name:war_x_preferred":[
         "Pur\u00f4 han Prinsipe Edwardo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7231\u5fb7\u534e\u738b\u5b50\u5c9b\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10e0\u10d8\u10dc\u10ea-\u10d4\u10d3\u10e3\u10d0\u10e0\u10d3\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d8"
@@ -526,7 +547,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1583882715,
+    "wof:lastmodified":1587428264,
     "wof:name":"Prince Edward Island",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

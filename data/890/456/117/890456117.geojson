@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u0631\u0643"
+    ],
     "name:ast_x_preferred":[
         "York"
     ],
@@ -119,11 +122,17 @@
     "name:glg_x_preferred":[
         "York"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf39\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf3a"
+    ],
     "name:hak_x_preferred":[
         "York"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d5\u05e8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0949\u0930\u094d\u0915"
     ],
     "name:hrv_x_preferred":[
         "York"
@@ -196,6 +205,9 @@
     ],
     "name:nrm_x_preferred":[
         "\u00c9v\u00e8roui"
+    ],
+    "name:nrm_x_variant":[
+        "\u00c9verouic"
     ],
     "name:pms_x_preferred":[
         "York"
@@ -295,8 +307,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458415
+        890458415,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -317,7 +329,7 @@
         }
     ],
     "wof:id":890456117,
-    "wof:lastmodified":1566520174,
+    "wof:lastmodified":1587428300,
     "wof:name":"York",
     "wof:parent_id":890458415,
     "wof:placetype":"localadmin",
