@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.7200136735,44.0399591258,-64.7200136735,44.0399591258",
+    "geom:bbox":"-64.720014,44.039959,-64.720014,44.039959",
     "geom:latitude":44.039959,
     "geom:longitude":-64.720014,
     "gn:country":"CA",
@@ -163,23 +163,23 @@
     "reversegeo:longitude":-64.720014,
     "src:geom":"naturalearth",
     "src:population":"wk",
+    "src:population_date":"2011",
     "wof:belongsto":[
         102191575,
         85633041,
-        85682075,
-        890456819
+        890456819,
+        85682075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6057856,
         "gp:id":4186,
         "qs_pg:id":240935,
-        "wd:id":"Q1866453",
-        "wk:page":"Liverpool"
+        "wd:id":"Q1866453"
     },
     "wof:country":"CA",
     "wof:created":1499130625,
-    "wof:geomhash":"53d192e4b9de4b1835ee43aabebb3cb3",
+    "wof:geomhash":"c6ae2851bef8dd81512da189935822e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -190,12 +190,12 @@
         }
     ],
     "wof:id":1141906685,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1593217693,
     "wof:name":"Liverpool",
     "wof:parent_id":890456819,
     "wof:placetype":"locality",
-    "wof:population":466415,
-    "wof:population_rank":10,
+    "wof:population":2653,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[
@@ -204,10 +204,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.72001367354858,
-    44.03995912584361,
-    -64.72001367354858,
-    44.03995912584361
+    -64.720014,
+    44.039959,
+    -64.720014,
+    44.039959
 ],
-  "geometry": {"coordinates":[-64.72001367354858,44.03995912584361],"type":"Point"}
+  "geometry": {"coordinates":[-64.72001400000001,44.039959],"type":"Point"}
 }
