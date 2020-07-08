@@ -93,11 +93,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        102191575,
         85682057,
+        102191575,
         85633041,
-        890458415,
-        101736093
+        101736093,
+        890458415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,13 +118,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890458415,
-            "neighbourhood_id":85894991,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458415,
             "locality_id":101736093,
             "neighbourhood_id":85894991,
             "region_id":85682057
@@ -134,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1594208127,
+    "wof:lastmodified":1594246398,
     "wof:name":"Woodbridge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

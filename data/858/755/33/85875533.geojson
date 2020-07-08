@@ -113,11 +113,11 @@
     "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191575,
         85682057,
+        102191575,
         85633041,
-        890456827,
-        101735927
+        101735927,
+        890456827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,13 +138,6 @@
             "continent_id":102191575,
             "country_id":85633041,
             "county_id":890456827,
-            "neighbourhood_id":85875533,
-            "region_id":85682057
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456827,
             "locality_id":101735927,
             "neighbourhood_id":85875533,
             "region_id":85682057
@@ -154,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1594208116,
+    "wof:lastmodified":1594246389,
     "wof:name":"Brant",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
