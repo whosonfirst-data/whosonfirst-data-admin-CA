@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.26667,49.0,-122.26667,49.0",
-    "geom:latitude":49.0,
-    "geom:longitude":-122.26667,
+    "geom:bbox":"-122.268006,49.005358,-122.268006,49.005358",
+    "geom:latitude":49.005358,
+    "geom:longitude":-122.268006,
     "gn:admin1_code":"2",
     "gn:admin2_code":"5909.0",
     "gn:asciiname":"Huntingdon",
@@ -25,10 +25,12 @@
     "gn:timezone":"America/Los_Angeles",
     "iso:country":"CA",
     "lbl:bbox":"-122.28667,48.98,-122.24667,49.02",
+    "lbl:latitude":49.005358,
+    "lbl:longitude":-122.268006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Huntand\u016bn"
@@ -138,32 +140,35 @@
     "name:zho_x_preferred":[
         "\u4ea8\u5ef7\u767b"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191575,
-        85633793,
-        85688623,
-        102085363
+        85633041,
+        890458867,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5978686
     },
     "wof:country":"CA",
-    "wof:geomhash":"38b40091f9d96fc0a50ddfa67696c655",
+    "wof:geomhash":"c114324f5f9ae9320de8bf80d1b68d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085363,
+            "country_id":85633041,
+            "county_id":890458867,
             "locality_id":1242877063,
-            "region_id":85688623
+            "region_id":85682117
         }
     ],
     "wof:id":1242877063,
-    "wof:lastmodified":1566520474,
+    "wof:lastmodified":1599870572,
     "wof:name":"Huntingdon",
-    "wof:parent_id":102085363,
+    "wof:parent_id":890458867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
@@ -171,10 +176,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.26667,
-    49.0,
-    -122.26667,
-    49.0
+    -122.268006,
+    49.005358,
+    -122.268006,
+    49.005358
 ],
-  "geometry": {"coordinates":[-122.26667,49.0],"type":"Point"}
+  "geometry": {"coordinates":[-122.268006,49.005358],"type":"Point"}
 }
