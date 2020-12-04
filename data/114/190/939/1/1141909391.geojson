@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.1313251156,46.2492816356,-63.1313251156,46.2492816356",
+    "geom:bbox":"-63.131325,46.249282,-63.131325,46.249282",
     "geom:latitude":46.249282,
     "geom:longitude":-63.131325,
     "gn:country":"CA",
@@ -349,10 +349,11 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682081,
-        890457737
+        890457737,
+        85682081
     ],
     "wof:breaches":[],
+    "wof:capital_of":85682081,
     "wof:concordances":{
         "gn:id":5920288,
         "gp:id":3789,
@@ -365,7 +366,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131072,
-    "wof:geomhash":"b80baf4cb4e543ba7751f5c4311a7640",
+    "wof:geomhash":"ca0f7e42872f65ec100d964d776b780c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -376,7 +377,7 @@
         }
     ],
     "wof:id":1141909391,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1607124755,
     "wof:name":"Charlottetown",
     "wof:parent_id":890457737,
     "wof:placetype":"locality",
@@ -388,10 +389,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.1313251155994,
-    46.2492816356181,
-    -63.1313251155994,
-    46.2492816356181
+    -63.131325,
+    46.249282,
+    -63.131325,
+    46.249282
 ],
-  "geometry": {"coordinates":[-63.1313251155994,46.2492816356181],"type":"Point"}
+  "geometry": {"coordinates":[-63.131325,46.249282],"type":"Point"}
 }
