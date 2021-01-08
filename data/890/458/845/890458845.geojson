@@ -22,7 +22,7 @@
     "mps:longitude":-114.033822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":5.0,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Calgary"
     ],
@@ -488,13 +488,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682091,
-        1511799789
+        1511799789,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5913490,
         "gp:id":8775,
+        "ne:id":1159151035,
         "qs_pg:id":239666,
         "wd:id":"Q36312",
         "wk:page":"Calgary"
@@ -518,7 +519,8 @@
         }
     ],
     "wof:id":890458845,
-    "wof:lastmodified":1582309935,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"Calgary",
     "wof:parent_id":1511799789,
     "wof:placetype":"locality",
