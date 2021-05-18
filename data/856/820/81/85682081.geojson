@@ -18,7 +18,7 @@
         "P.E.I."
     ],
     "label:eng_x_preferred_longname":[
-        "Prince Edward Island Province"
+        "Prince Edward Island"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
@@ -26,8 +26,21 @@
     "label:eng_x_preferred_shortcode":[
         "PE"
     ],
+    "label:eng_x_variant_longname":[
+        "Prince Edward Island Province",
+        "Province of Prince Edward Island"
+    ],
     "label:fra_x_preferred_abbreviation":[
-        "\u00ce.-P.-\u00c9."
+        "\u00ce.P.\u00c9."
+    ],
+    "label:fra_x_preferred_longname":[
+        "\u00cele-du-Prince-\u00c9douard"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fra_x_preferred_shortcode":[
+        "PE"
     ],
     "lbl:latitude":46.196558,
     "lbl:longitude":-62.735184,
@@ -550,7 +563,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1607462652,
+    "wof:lastmodified":1621371470,
     "wof:name":"Prince Edward Island",
     "wof:parent_id":85633041,
     "wof:placetype":"region",
