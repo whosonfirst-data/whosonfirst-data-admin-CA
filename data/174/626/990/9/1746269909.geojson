@@ -16,11 +16,68 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u062a\u0632\u0647 \u0641\u0627\u0646\u062a\u0648\u062a \u0627\u0644\u0648\u0637\u0646\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u043f\u0430\u0440\u043a \u0412\u0443\u043d\u0442\u0443\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Vuntut National Park"
+    ],
+    "name:deu_x_preferred":[
+        "Vuntut-Nationalpark"
+    ],
     "name:eng_x_preferred":[
         "Vuntut National Park"
     ],
+    "name:epo_x_preferred":[
+        "Nacia Parko Vuntut"
+    ],
     "name:fra_x_preferred":[
         "Parc National Vuntut"
+    ],
+    "name:fra_x_variant":[
+        "parc national Vuntut"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0578\u0582\u0576\u057f\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Parco nazionale Vuntut"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30f3\u30c8\u30a5\u30c8\u56fd\u7acb\u516c\u5712"
+    ],
+    "name:lit_x_preferred":[
+        "Vuntuto nacionalinis parkas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d7b\u0d1f\u0d41\u0d1f\u0d4d\u0d1f\u0d4d \u0d26\u0d47\u0d36\u0d40\u0d2f\u0d4b\u0d26\u0d4d\u0d2f\u0d3e\u0d28\u0d02"
+    ],
+    "name:nld_x_preferred":[
+        "Vuntut National Park"
+    ],
+    "name:pol_x_preferred":[
+        "Park Narodowy Vuntut"
+    ],
+    "name:por_x_preferred":[
+        "Parque Nacional Vuntut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043d\u0442\u0443\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Parque nacional Vuntut"
+    ],
+    "name:swe_x_preferred":[
+        "Vuntuts nationalpark"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0412\u043e\u043d\u0442\u0443\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e29\u56fe\u7279\u56fd\u5bb6\u516c\u56ed"
     ],
     "src:geom":"ca-clab",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +93,7 @@
     "wof:geomhash":"68f85fa2e04a47ee045331e9c8d5f022",
     "wof:hierarchy":[],
     "wof:id":1746269909,
-    "wof:lastmodified":1630449198,
+    "wof:lastmodified":1630451183,
     "wof:name":"Vuntut National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

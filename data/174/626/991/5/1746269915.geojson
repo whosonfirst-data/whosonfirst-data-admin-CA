@@ -16,11 +16,104 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u064a\u0642\u0629 \u062c\u0627\u0645\u0648\u0633 \u0627\u0644\u063a\u0627\u0628\u0627\u062a \u0627\u0644\u0648\u0637\u0646\u064a\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Vud Buffalo Milli Park\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u043f\u0430\u0440\u043a \u0412\u0443\u0434-\u0411\u0443\u0444\u0430\u043b\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0434 \u0411\u044a\u0444\u0430\u043b\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Parc nacional Wood Buffalo"
+    ],
+    "name:ces_x_preferred":[
+        "N\u00e1rodn\u00ed park Wood Buffalo"
+    ],
+    "name:dan_x_preferred":[
+        "Wood Buffalo National Park"
+    ],
     "name:eng_x_preferred":[
         "Wood Buffalo National Park"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u06a9 \u0645\u0644\u06cc \u0648\u0648\u062f \u0628\u0648\u0641\u0627\u0644\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Wood Buffalon kansallispuisto"
+    ],
     "name:fra_x_preferred":[
         "Parc National Wood Buffalo"
+    ],
+    "name:fra_x_variant":[
+        "parc national Wood Buffalo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e4\u05d0\u05e8\u05e7 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05d5\u05d3 \u05d1\u05d0\u05e4\u05dc\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Nacionalni park Wood Buffalo"
+    ],
+    "name:hun_x_preferred":[
+        "Wood Buffalo Nemzeti Park"
+    ],
+    "name:isl_x_preferred":[
+        "Wood Buffalo-\u00fej\u00f3\u00f0gar\u00f0urinn"
+    ],
+    "name:ita_x_preferred":[
+        "Parco nazionale Wood Buffalo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e3\u10d3-\u10d1\u10e3\u10e4\u10d0\u10da\u10dd\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Vud Bafalo nacionalinis parkas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d41\u0d21\u0d4d \u0d2c\u0d41\u0d2b\u0d32\u0d4a \u0d28\u0d3e\u0d37\u0d23\u0d7d \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4d"
+    ],
+    "name:mya_x_preferred":[
+        "\u101d\u102f\u1012\u103a\u1018\u1010\u103a\u1016\u1032\u101c\u102d\u102f\u1038 \u1021\u1019\u103b\u102d\u102f\u1038\u101e\u102c\u1038\u1025\u101a\u103b\u102c\u1009\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Nationaal park Wood Buffalo"
+    ],
+    "name:nob_x_preferred":[
+        "Wood Buffalo nasjonalpark"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a41\u0a71\u0a21 \u0a2c\u0a41\u0a2b\u0a48\u0a32\u0a4b \u0a28\u0a48\u0a38\u0a3c\u0a28\u0a32 \u0a2a\u0a3e\u0a30\u0a15"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0688 \u0628\u0641\u06cc\u0644\u0648 \u0646\u06cc\u0634\u0646\u0644 \u067e\u0627\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Park Narodowy Bizona Le\u015bnego"
+    ],
+    "name:por_x_preferred":[
+        "Parque Nacional Wood Buffalo"
+    ],
+    "name:ron_x_preferred":[
+        "Parcul Na\u021bional Wood-Buffalo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u0434 \u0411\u0430\u0444\u0430\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Wood Buffalo nationalpark"
+    ],
+    "name:tur_x_preferred":[
+        "Wood Buffalo Ulusal Park\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "V\u01b0\u1eddn qu\u1ed1c gia Wood Buffalo"
+    ],
+    "name:war_x_preferred":[
+        "Nasodnon nga Parke han Wood Buffalo"
     ],
     "src:geom":"ca-clab",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +129,7 @@
     "wof:geomhash":"549c173f62d5f1f834fa6d5a25d152ad",
     "wof:hierarchy":[],
     "wof:id":1746269915,
-    "wof:lastmodified":1630449201,
+    "wof:lastmodified":1630451178,
     "wof:name":"Wood Buffalo National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

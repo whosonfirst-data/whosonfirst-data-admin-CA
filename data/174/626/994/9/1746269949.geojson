@@ -16,11 +16,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u064a\u0642\u0629 \u0642\u0648\u0633\u062a\u0643 \u0627\u0644\u0648\u0637\u0646\u064a\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Qausuittuq-Nationalpark"
+    ],
     "name:eng_x_preferred":[
         "Qausuittuq National Park"
     ],
     "name:fra_x_preferred":[
         "Parc National Qausuittuq"
+    ],
+    "name:fra_x_variant":[
+        "parc national Qausuittuq"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30b9\u30a4\u30bf\u30c3\u30af\u56fd\u7acb\u516c\u5712"
+    ],
+    "name:lit_x_preferred":[
+        "Kvasuituko nacionalinis parkas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u043a \u041a\u0443\u0430\u0441\u0443\u0438\u0442\u0442\u0443\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Parque nacional Qausuittuq"
+    ],
+    "name:vie_x_preferred":[
+        "V\u01b0\u1eddn qu\u1ed1c gia Qausuittuq"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u82cf\u4f0a\u56fe\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
     "src:geom":"ca-clab",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +63,7 @@
     "wof:geomhash":"5333d83b4600b8fa6de83477d75e6525",
     "wof:hierarchy":[],
     "wof:id":1746269949,
-    "wof:lastmodified":1630449219,
+    "wof:lastmodified":1630451195,
     "wof:name":"Qausuittuq National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

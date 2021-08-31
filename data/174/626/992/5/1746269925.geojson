@@ -16,11 +16,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:dan_x_preferred":[
+        "Saguenay\u2013St. Lawrence Marine Park"
+    ],
     "name:eng_x_preferred":[
         "Saguenay-St. Lawrence Marine Park"
     ],
+    "name:eng_x_variant":[
+        "Saguenay\u2013St. Lawrence Marine Park"
+    ],
+    "name:epo_x_preferred":[
+        "Nacia Mar-Parko Saguenay - Sankt-La\u016drenco"
+    ],
     "name:fra_x_preferred":[
         "Parc Marin du Saguenay-Saint-Laurent"
+    ],
+    "name:fra_x_variant":[
+        "parc marin du Saguenay\u2013Saint-Laurent"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uac8c\ub124-\uc0dd\ub85c\ub791 \ud574\uc591\uacf5\uc6d0"
+    ],
+    "name:nld_x_preferred":[
+        "Saguenay\u2013St. Lawrence Marine Park"
+    ],
+    "name:spa_x_preferred":[
+        "parque nacional marino Saguenay-Saint-Laurent"
+    ],
+    "name:swe_x_preferred":[
+        "Saguenay\u2013Saint Lawrence marinpark"
     ],
     "src:geom":"ca-clab",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +60,7 @@
     "wof:geomhash":"70f55b3a727b45af07fb248164204e5e",
     "wof:hierarchy":[],
     "wof:id":1746269925,
-    "wof:lastmodified":1630449206,
+    "wof:lastmodified":1630451193,
     "wof:name":"Saguenay-St. Lawrence Marine Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
