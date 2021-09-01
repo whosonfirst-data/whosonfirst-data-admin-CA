@@ -57,7 +57,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"PELE",
@@ -67,9 +70,15 @@
     "wof:country":"CA",
     "wof:created":1630449200,
     "wof:geomhash":"663eec278c99d3384ad35ceaf9332342",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269913,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269913,
-    "wof:lastmodified":1630516963,
+    "wof:lastmodified":1630523953,
     "wof:name":"Point Pelee National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

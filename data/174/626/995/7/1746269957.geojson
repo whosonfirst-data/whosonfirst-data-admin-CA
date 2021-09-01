@@ -54,7 +54,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"FIVE",
@@ -64,9 +67,15 @@
     "wof:country":"CA",
     "wof:created":1630449222,
     "wof:geomhash":"ea183e42043b42bb859351a311f5c007",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269957,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269957,
-    "wof:lastmodified":1630516973,
+    "wof:lastmodified":1630523965,
     "wof:name":"Fathom Five National Marine Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

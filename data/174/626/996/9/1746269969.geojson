@@ -63,7 +63,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"REVE",
@@ -73,9 +76,15 @@
     "wof:country":"CA",
     "wof:created":1630449234,
     "wof:geomhash":"4673bc6a7825cb3f894840e23744ec3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269969,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269969,
-    "wof:lastmodified":1630516963,
+    "wof:lastmodified":1630523954,
     "wof:name":"Mount Revelstoke National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

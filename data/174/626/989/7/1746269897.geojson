@@ -129,7 +129,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"JASP",
@@ -139,9 +142,15 @@
     "wof:country":"CA",
     "wof:created":1630449191,
     "wof:geomhash":"d338c6b8074def46d8fb7180a0481268",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269897,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269897,
-    "wof:lastmodified":1630516981,
+    "wof:lastmodified":1630523973,
     "wof:name":"Jasper National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

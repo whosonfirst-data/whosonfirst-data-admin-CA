@@ -54,7 +54,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"GULF",
@@ -64,9 +67,15 @@
     "wof:country":"CA",
     "wof:created":1630449202,
     "wof:geomhash":"a77813d07f43fe2fb7d4afbef0744ebb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269917,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269917,
-    "wof:lastmodified":1630516962,
+    "wof:lastmodified":1630523953,
     "wof:name":"Gulf Islands National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -60,7 +60,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"PALB",
@@ -70,9 +73,15 @@
     "wof:country":"CA",
     "wof:created":1630449224,
     "wof:geomhash":"a828deb1c091cccea65310cdb3189cad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269961,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269961,
-    "wof:lastmodified":1630516964,
+    "wof:lastmodified":1630523954,
     "wof:name":"Prince Albert National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

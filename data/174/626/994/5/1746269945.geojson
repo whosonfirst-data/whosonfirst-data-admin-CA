@@ -60,7 +60,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"GBIS",
@@ -70,9 +73,15 @@
     "wof:country":"CA",
     "wof:created":1630449217,
     "wof:geomhash":"2ef68b1a6a405ecd946e2912af66744a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269945,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269945,
-    "wof:lastmodified":1630516980,
+    "wof:lastmodified":1630523972,
     "wof:name":"Georgian Bay Islands National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

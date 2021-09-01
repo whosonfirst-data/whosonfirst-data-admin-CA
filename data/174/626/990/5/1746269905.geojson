@@ -39,7 +39,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"GWAA",
@@ -49,9 +52,15 @@
     "wof:country":"CA",
     "wof:created":1630449195,
     "wof:geomhash":"465c3c232fa78be0f2e5579ad3b85d57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269905,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269905,
-    "wof:lastmodified":1630516972,
+    "wof:lastmodified":1630523963,
     "wof:name":"Gwaii Haanas National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

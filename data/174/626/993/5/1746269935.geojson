@@ -60,7 +60,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"PEIS",
@@ -70,9 +73,15 @@
     "wof:country":"CA",
     "wof:created":1630449213,
     "wof:geomhash":"4171f545f02901d78872178ef9a258f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269935,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269935,
-    "wof:lastmodified":1630516979,
+    "wof:lastmodified":1630523970,
     "wof:name":"Prince Edward Island National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

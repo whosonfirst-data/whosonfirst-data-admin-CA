@@ -84,7 +84,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"WAPU",
@@ -94,9 +97,15 @@
     "wof:country":"CA",
     "wof:created":1630449203,
     "wof:geomhash":"368e5c383af3df0b9ce43dde6fd654fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269921,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269921,
-    "wof:lastmodified":1630516977,
+    "wof:lastmodified":1630523969,
     "wof:name":"Wapusk National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

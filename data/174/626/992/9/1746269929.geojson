@@ -51,7 +51,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"PRIM",
@@ -61,9 +64,15 @@
     "wof:country":"CA",
     "wof:created":1630449210,
     "wof:geomhash":"abd71e511ddf580f6e36c8ef78205061",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269929,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269929,
-    "wof:lastmodified":1630516974,
+    "wof:lastmodified":1630523965,
     "wof:name":"Pacific Rim National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

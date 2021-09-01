@@ -51,7 +51,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"SAGU",
@@ -61,9 +64,15 @@
     "wof:country":"CA",
     "wof:created":1630449206,
     "wof:geomhash":"70f55b3a727b45af07fb248164204e5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269925,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269925,
-    "wof:lastmodified":1630516978,
+    "wof:lastmodified":1630523969,
     "wof:name":"Saguenay-St. Lawrence Marine Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

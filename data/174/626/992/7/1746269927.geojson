@@ -180,7 +180,10 @@
     ],
     "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "can-clab:id":"BANF",
@@ -190,9 +193,15 @@
     "wof:country":"CA",
     "wof:created":1630449207,
     "wof:geomhash":"acc6d4162f5aca40f978a405960e5aee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746269927,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
     "wof:id":1746269927,
-    "wof:lastmodified":1630516975,
+    "wof:lastmodified":1630523966,
     "wof:name":"Banff National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
