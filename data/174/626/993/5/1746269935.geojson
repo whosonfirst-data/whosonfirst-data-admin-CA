@@ -2,6 +2,9 @@
   "id": 1746269935,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"PEIS",
+    "can-clab:name_e":"PRINCE EDWARD ISLAND NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DE L\u2019\u00ceLE-DU-PRINCE-\u00c9DOUARD",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001972,
@@ -55,12 +58,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u041e\u0441\u0442\u0440\u0456\u0432 \u041f\u0440\u0438\u043d\u0446\u0430 \u0415\u0434\u0432\u0430\u0440\u0434\u0430"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"PEIS",
+        "can-clab:id":"PEIS",
         "wd:id":"Q1314367",
         "wk:page":"https://en.wikipedia.org/wiki/Prince_Edward_Island_National_Park"
     },
@@ -69,7 +72,7 @@
     "wof:geomhash":"4171f545f02901d78872178ef9a258f9",
     "wof:hierarchy":[],
     "wof:id":1746269935,
-    "wof:lastmodified":1630451195,
+    "wof:lastmodified":1630516979,
     "wof:name":"Prince Edward Island National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

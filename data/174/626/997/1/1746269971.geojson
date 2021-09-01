@@ -2,6 +2,9 @@
   "id": 1746269971,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"33245",
+    "can-clab:name_e":"ROUGE NATIONAL URBAN PARK",
+    "can-clab:name_f":"PARC URBAIN NATIONAL DE LA ROUGE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0051,
@@ -34,12 +37,12 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u044c\u043a\u0438\u0439 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0420\u0443\u0436"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"33245",
+        "can-clab:id":"33245",
         "wd:id":"Q26810464",
         "wk:page":"https://en.wikipedia.org/wiki/Rouge_National_Urban_Park"
     },
@@ -48,7 +51,7 @@
     "wof:geomhash":"c87215dc72815eadd10573cf7be241cb",
     "wof:hierarchy":[],
     "wof:id":1746269971,
-    "wof:lastmodified":1630451182,
+    "wof:lastmodified":1630516971,
     "wof:name":"Rouge National Urban Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

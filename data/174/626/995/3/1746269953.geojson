@@ -2,6 +2,9 @@
   "id": 1746269953,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"UKKU",
+    "can-clab:name_e":"UKKUSIKSALIK NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL UKKUSIKSALIK",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.100669,
@@ -73,12 +76,12 @@
     "name:zho_x_preferred":[
         "\u4e4c\u5e93\u4ec0\u6c99\u91cc\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"UKKU",
+        "can-clab:id":"UKKU",
         "wd:id":"Q862318",
         "wk:page":"https://en.wikipedia.org/wiki/Ukkusiksalik_National_Park"
     },
@@ -87,7 +90,7 @@
     "wof:geomhash":"2d462e1fa38da051507c3ae6ce9b318a",
     "wof:hierarchy":[],
     "wof:id":1746269953,
-    "wof:lastmodified":1630451187,
+    "wof:lastmodified":1630516974,
     "wof:name":"Ukkusiksalik National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

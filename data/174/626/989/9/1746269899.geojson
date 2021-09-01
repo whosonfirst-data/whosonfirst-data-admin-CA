@@ -2,6 +2,9 @@
   "id": 1746269899,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"RIDM",
+    "can-clab:name_e":"RIDING MOUNTAIN NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DU MONT-RIDING",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390424,
@@ -61,12 +64,12 @@
     "name:swe_x_preferred":[
         "Riding Mountains nationalpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"RIDM",
+        "can-clab:id":"RIDM",
         "wd:id":"Q795190",
         "wk:page":"https://en.wikipedia.org/wiki/Riding_Mountain_National_Park"
     },
@@ -75,7 +78,7 @@
     "wof:geomhash":"09f50dc3813537bbfd0ff788ecc48d6b",
     "wof:hierarchy":[],
     "wof:id":1746269899,
-    "wof:lastmodified":1630451198,
+    "wof:lastmodified":1630516981,
     "wof:name":"Riding Mountain National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

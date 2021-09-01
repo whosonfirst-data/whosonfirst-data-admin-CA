@@ -2,6 +2,9 @@
   "id": 1746269939,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"KLUA",
+    "can-clab:name_e":"KLUANE NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL KLUANE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.957377,
@@ -106,12 +109,12 @@
     "name:zho_x_preferred":[
         "\u514b\u9c81\u74e6\u5c3c\u56fd\u5bb6\u516c\u56ed\u53ca\u4fdd\u7559\u5730"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"KLUA",
+        "can-clab:id":"KLUA",
         "wd:id":"Q738582",
         "wk:page":"https://en.wikipedia.org/wiki/Kluane_National_Park_and_Reserve"
     },
@@ -120,7 +123,7 @@
     "wof:geomhash":"cacef45e3ae0358833f1502a78c8d726",
     "wof:hierarchy":[],
     "wof:id":1746269939,
-    "wof:lastmodified":1630451194,
+    "wof:lastmodified":1630516978,
     "wof:name":"Kluane National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

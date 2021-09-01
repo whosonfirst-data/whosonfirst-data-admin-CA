@@ -2,6 +2,9 @@
   "id": 1746269945,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"GBIS",
+    "can-clab:name_e":"GEORGIAN BAY ISLANDS NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DES \u00ceLES-DE-LA-BAIE-GEORGIENNE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002893,
@@ -55,12 +58,12 @@
     "name:swe_x_preferred":[
         "Georgian Bay Islands nationalpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"GBIS",
+        "can-clab:id":"GBIS",
         "wd:id":"Q583518",
         "wk:page":"https://en.wikipedia.org/wiki/Georgian_Bay_Islands_National_Park"
     },
@@ -69,7 +72,7 @@
     "wof:geomhash":"2ef68b1a6a405ecd946e2912af66744a",
     "wof:hierarchy":[],
     "wof:id":1746269945,
-    "wof:lastmodified":1630451197,
+    "wof:lastmodified":1630516980,
     "wof:name":"Georgian Bay Islands National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

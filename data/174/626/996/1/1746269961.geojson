@@ -2,6 +2,9 @@
   "id": 1746269961,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"PALB",
+    "can-clab:name_e":"PRINCE ALBERT NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DE PRINCE ALBERT",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.541517,
@@ -55,12 +58,12 @@
     "name:swe_x_preferred":[
         "Prince Alberts nationalpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"PALB",
+        "can-clab:id":"PALB",
         "wd:id":"Q1122878",
         "wk:page":"https://en.wikipedia.org/wiki/Prince_Albert_National_Park"
     },
@@ -69,7 +72,7 @@
     "wof:geomhash":"a828deb1c091cccea65310cdb3189cad",
     "wof:hierarchy":[],
     "wof:id":1746269961,
-    "wof:lastmodified":1630451180,
+    "wof:lastmodified":1630516964,
     "wof:name":"Prince Albert National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

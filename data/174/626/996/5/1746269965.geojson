@@ -2,6 +2,9 @@
   "id": 1746269965,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"NAHA",
+    "can-clab:name_e":"NAHANNI NATIONAL PARK RESERVE",
+    "can-clab:name_f":"R\u00c9SERVE \u00c0 VOCATION DE PARC NATIONAL NAHANNI",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.083702,
@@ -112,12 +115,12 @@
     "name:vie_x_preferred":[
         "V\u01b0\u1eddn qu\u1ed1c gia Nahanni"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"NAHA",
+        "can-clab:id":"NAHA",
         "wd:id":"Q391391",
         "wk:page":"https://en.wikipedia.org/wiki/Nahanni_National_Park_Reserve"
     },
@@ -126,7 +129,7 @@
     "wof:geomhash":"de2b19963c051fa5c4d1abdb1d7ef85a",
     "wof:hierarchy":[],
     "wof:id":1746269965,
-    "wof:lastmodified":1630451181,
+    "wof:lastmodified":1630516970,
     "wof:name":"Nahanni National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

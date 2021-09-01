@@ -2,6 +2,9 @@
   "id": 1746269931,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"GROS",
+    "can-clab:name_e":"GROS MORNE NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DU GROS-MORNE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225013,
@@ -112,12 +115,12 @@
     "name:vie_x_preferred":[
         "V\u01b0\u1eddn qu\u1ed1c gia Gros Morne"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"GROS",
+        "can-clab:id":"GROS",
         "wd:id":"Q257598",
         "wk:page":"https://en.wikipedia.org/wiki/Gros_Morne_National_Park"
     },
@@ -126,7 +129,7 @@
     "wof:geomhash":"4c69bf2c5f79988d0f86bf222d871305",
     "wof:hierarchy":[],
     "wof:id":1746269931,
-    "wof:lastmodified":1630451194,
+    "wof:lastmodified":1630516979,
     "wof:name":"Gros Morne National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

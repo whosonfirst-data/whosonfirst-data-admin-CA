@@ -2,6 +2,9 @@
   "id": 1746269913,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"PELE",
+    "can-clab:name_e":"POINT PELEE NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DE LA POINTE-PEL\u00c9E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001628,
@@ -52,12 +55,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u041f\u043e\u0439\u043d\u0442-\u041f\u0456\u043b\u0456"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"PELE",
+        "can-clab:id":"PELE",
         "wd:id":"Q1153938",
         "wk:page":"https://en.wikipedia.org/wiki/Point_Pelee_National_Park"
     },
@@ -66,7 +69,7 @@
     "wof:geomhash":"663eec278c99d3384ad35ceaf9332342",
     "wof:hierarchy":[],
     "wof:id":1746269913,
-    "wof:lastmodified":1630451178,
+    "wof:lastmodified":1630516963,
     "wof:name":"Point Pelee National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

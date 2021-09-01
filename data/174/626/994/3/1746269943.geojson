@@ -2,6 +2,9 @@
   "id": 1746269943,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"NOVA",
+    "can-clab:name_e":"TERRA NOVA NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL TERRA-NOVA",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04895,
@@ -61,12 +64,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0422\u0435\u0440\u0440\u0430-\u041d\u043e\u0432\u0430"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"NOVA",
+        "can-clab:id":"NOVA",
         "wd:id":"Q1422693",
         "wk:page":"https://en.wikipedia.org/wiki/Terra_Nova_National_Park"
     },
@@ -75,7 +78,7 @@
     "wof:geomhash":"69932bd16dd7877eb5a9b5b0ad650f5f",
     "wof:hierarchy":[],
     "wof:id":1746269943,
-    "wof:lastmodified":1630451197,
+    "wof:lastmodified":1630516980,
     "wof:name":"Terra Nova National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

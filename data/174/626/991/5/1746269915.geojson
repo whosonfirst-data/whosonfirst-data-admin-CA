@@ -2,6 +2,9 @@
   "id": 1746269915,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"WOOD",
+    "can-clab:name_e":"WOOD BUFFALO NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL WOOD BUFFALO",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.190622,
@@ -115,12 +118,12 @@
     "name:war_x_preferred":[
         "Nasodnon nga Parke han Wood Buffalo"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"WOOD",
+        "can-clab:id":"WOOD",
         "wd:id":"Q391338",
         "wk:page":"https://en.wikipedia.org/wiki/Wood_Buffalo_National_Park"
     },
@@ -129,7 +132,7 @@
     "wof:geomhash":"549c173f62d5f1f834fa6d5a25d152ad",
     "wof:hierarchy":[],
     "wof:id":1746269915,
-    "wof:lastmodified":1630451178,
+    "wof:lastmodified":1630516963,
     "wof:name":"Wood Buffalo National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

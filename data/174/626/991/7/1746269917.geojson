@@ -2,6 +2,9 @@
   "id": 1746269917,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"GULF",
+    "can-clab:name_e":"GULF ISLANDS NATIONAL PARK RESERVE",
+    "can-clab:name_f":"R\u00c9SERVE \u00c0 VOCATION DE PARC NATIONAL DES \u00ceLES-GULF",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00431,
@@ -49,12 +52,12 @@
     "name:swe_x_preferred":[
         "Gulf Islands nationalpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"GULF",
+        "can-clab:id":"GULF",
         "wd:id":"Q775595",
         "wk:page":"https://en.wikipedia.org/wiki/Gulf_Islands_National_Park_Reserve"
     },
@@ -63,7 +66,7 @@
     "wof:geomhash":"a77813d07f43fe2fb7d4afbef0744ebb",
     "wof:hierarchy":[],
     "wof:id":1746269917,
-    "wof:lastmodified":1630451177,
+    "wof:lastmodified":1630516962,
     "wof:name":"Gulf Islands National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

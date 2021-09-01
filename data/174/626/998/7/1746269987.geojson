@@ -2,6 +2,9 @@
   "id": 1746269987,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"TORN",
+    "can-clab:name_e":"TORNGAT MOUNTAINS NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DES MONTS-TORNGAT",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.527376,
@@ -52,12 +55,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0413\u043e\u0440\u0438 \u0422\u043e\u0440\u043d\u0433\u0430\u0442\u0430"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"TORN",
+        "can-clab:id":"TORN",
         "wd:id":"Q152688",
         "wk:page":"https://en.wikipedia.org/wiki/Torngat_Mountains_National_Park"
     },
@@ -66,7 +69,7 @@
     "wof:geomhash":"81c3d54f8d2ac62a82bc8e1bef118ade",
     "wof:hierarchy":[],
     "wof:id":1746269987,
-    "wof:lastmodified":1630451174,
+    "wof:lastmodified":1630516960,
     "wof:name":"Torngat Mountains National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

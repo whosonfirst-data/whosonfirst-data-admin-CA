@@ -2,6 +2,9 @@
   "id": 1746269941,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"QUTT",
+    "can-clab:name_e":"QUTTINIRPAAQ NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DE QUTTINIRPAAQ",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.164441,
@@ -85,12 +88,12 @@
     "name:zho_x_preferred":[
         "\u53e4\u4e01\u5c3c\u67cf\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"QUTT",
+        "can-clab:id":"QUTT",
         "wd:id":"Q1327341",
         "wk:page":"https://en.wikipedia.org/wiki/Quttinirpaaq_National_Park"
     },
@@ -99,7 +102,7 @@
     "wof:geomhash":"803d195f2b5edbc4c283352c314f9cb9",
     "wof:hierarchy":[],
     "wof:id":1746269941,
-    "wof:lastmodified":1630451196,
+    "wof:lastmodified":1630516980,
     "wof:name":"Quttinirpaaq National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

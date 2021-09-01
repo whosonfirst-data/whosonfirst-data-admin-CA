@@ -2,6 +2,9 @@
   "id": 1746269949,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"QAUS",
+    "can-clab:name_e":"QAUSUITTUQ NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL QAUSUITTUQ",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.698744,
@@ -49,12 +52,12 @@
     "name:zho_x_preferred":[
         "\u8003\u82cf\u4f0a\u56fe\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"QAUS",
+        "can-clab:id":"QAUS",
         "wd:id":"Q18167998",
         "wk:page":"https://en.wikipedia.org/wiki/Qausuittuq_National_Park"
     },
@@ -63,7 +66,7 @@
     "wof:geomhash":"5333d83b4600b8fa6de83477d75e6525",
     "wof:hierarchy":[],
     "wof:id":1746269949,
-    "wof:lastmodified":1630451195,
+    "wof:lastmodified":1630516979,
     "wof:name":"Qausuittuq National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

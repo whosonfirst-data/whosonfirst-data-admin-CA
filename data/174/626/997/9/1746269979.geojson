@@ -2,6 +2,9 @@
   "id": 1746269979,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"KEJI",
+    "can-clab:name_e":"KEJIMKUJIK NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL KEJIMKUJIK",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045553,
@@ -70,12 +73,12 @@
     "name:zho_x_preferred":[
         "\u514b\u5409\u59c6\u5e93\u5409\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"KEJI",
+        "can-clab:id":"KEJI",
         "wd:id":"Q795176",
         "wk:page":"https://en.wikipedia.org/wiki/Kejimkujik_National_Park"
     },
@@ -84,7 +87,7 @@
     "wof:geomhash":"30195fbfbd0328523dd09090e5e4cc0b",
     "wof:hierarchy":[],
     "wof:id":1746269979,
-    "wof:lastmodified":1630451181,
+    "wof:lastmodified":1630516970,
     "wof:name":"Kejimkujik National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

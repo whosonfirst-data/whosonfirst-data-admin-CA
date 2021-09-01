@@ -2,6 +2,9 @@
   "id": 1746269951,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"WATE",
+    "can-clab:name_e":"WATERTON LAKES NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DES LACS-WATERTON",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061148,
@@ -97,12 +100,12 @@
     "name:vie_x_preferred":[
         "V\u01b0\u1eddn qu\u1ed1c gia C\u00e1c h\u1ed3 Waterton"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"WATE",
+        "can-clab:id":"WATE",
         "wd:id":"Q902778",
         "wk:page":"https://en.wikipedia.org/wiki/Waterton_Lakes_National_Park"
     },
@@ -111,7 +114,7 @@
     "wof:geomhash":"c7067362a15240fb2a3b04878fa49114",
     "wof:hierarchy":[],
     "wof:id":1746269951,
-    "wof:lastmodified":1630451187,
+    "wof:lastmodified":1630516974,
     "wof:name":"Waterton Lakes National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

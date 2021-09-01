@@ -2,6 +2,9 @@
   "id": 1746269985,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"IVVA",
+    "can-clab:name_e":"IVVAVIK NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL IVVAVIK",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.200159,
@@ -85,12 +88,12 @@
     "name:zho_x_preferred":[
         "\u4f0a\u74e6\u7ef4\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"IVVA",
+        "can-clab:id":"IVVA",
         "wd:id":"Q200590",
         "wk:page":"https://en.wikipedia.org/wiki/Ivvavik_National_Park"
     },
@@ -99,7 +102,7 @@
     "wof:geomhash":"b9a443f85603a3aad21bcf783fcd8b4e",
     "wof:hierarchy":[],
     "wof:id":1746269985,
-    "wof:lastmodified":1630451177,
+    "wof:lastmodified":1630516962,
     "wof:name":"Ivvavik National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -2,6 +2,9 @@
   "id": 1746269967,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"AULA",
+    "can-clab:name_e":"AULAVIK NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL AULAVIK",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.495131,
@@ -82,12 +85,12 @@
     "name:zho_x_preferred":[
         "\u5965\u62c9\u7ef4\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"AULA",
+        "can-clab:id":"AULA",
         "wd:id":"Q771612",
         "wk:page":"https://en.wikipedia.org/wiki/Aulavik_National_Park"
     },
@@ -96,7 +99,7 @@
     "wof:geomhash":"557ca2032a34af044a134f20ab1ca47d",
     "wof:hierarchy":[],
     "wof:id":1746269967,
-    "wof:lastmodified":1630451179,
+    "wof:lastmodified":1630516963,
     "wof:name":"Aulavik National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

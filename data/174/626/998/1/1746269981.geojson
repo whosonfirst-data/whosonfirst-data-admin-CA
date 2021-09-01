@@ -2,6 +2,9 @@
   "id": 1746269981,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"KOOT",
+    "can-clab:name_e":"KOOTENAY NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL KOOTENAY",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17689,
@@ -103,12 +106,12 @@
     "name:zho_x_preferred":[
         "\u5e93\u7279\u5c3c\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"KOOT",
+        "can-clab:id":"KOOT",
         "wd:id":"Q903323",
         "wk:page":"https://en.wikipedia.org/wiki/Kootenay_National_Park"
     },
@@ -117,7 +120,7 @@
     "wof:geomhash":"c8ba98662b1519f612d4741867963be2",
     "wof:hierarchy":[],
     "wof:id":1746269981,
-    "wof:lastmodified":1630451176,
+    "wof:lastmodified":1630516962,
     "wof:name":"Kootenay National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

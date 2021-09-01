@@ -2,6 +2,9 @@
   "id": 1746269957,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"FIVE",
+    "can-clab:name_e":"FATHOM FIVE NATIONAL MARINE PARK",
+    "can-clab:name_f":"PARC MARIN NATIONAL FATHOM FIVE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011448,
@@ -49,12 +52,12 @@
     "name:swe_x_preferred":[
         "Fathom Five marinpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"FIVE",
+        "can-clab:id":"FIVE",
         "wd:id":"Q862200",
         "wk:page":"https://en.wikipedia.org/wiki/Fathom_Five_National_Marine_Park"
     },
@@ -63,7 +66,7 @@
     "wof:geomhash":"ea183e42043b42bb859351a311f5c007",
     "wof:hierarchy":[],
     "wof:id":1746269957,
-    "wof:lastmodified":1630451187,
+    "wof:lastmodified":1630516973,
     "wof:name":"Fathom Five National Marine Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

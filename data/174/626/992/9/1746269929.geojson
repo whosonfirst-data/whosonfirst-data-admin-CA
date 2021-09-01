@@ -2,6 +2,9 @@
   "id": 1746269929,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"PRIM",
+    "can-clab:name_e":"PACIFIC RIM NATIONAL PARK RESERVE",
+    "can-clab:name_f":"R\u00c9SERVE \u00c0 VOCATION DE PARC NATIONAL PACIFIC RIM",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063226,
@@ -46,12 +49,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u041f\u0430\u0441\u0438\u0444\u0438\u043a-\u0420\u0438\u043c"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"PRIM",
+        "can-clab:id":"PRIM",
         "wd:id":"Q1756401",
         "wk:page":"https://en.wikipedia.org/wiki/Pacific_Rim_National_Park_Reserve"
     },
@@ -60,7 +63,7 @@
     "wof:geomhash":"abd71e511ddf580f6e36c8ef78205061",
     "wof:hierarchy":[],
     "wof:id":1746269929,
-    "wof:lastmodified":1630451188,
+    "wof:lastmodified":1630516974,
     "wof:name":"Pacific Rim National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

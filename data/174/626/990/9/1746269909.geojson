@@ -2,6 +2,9 @@
   "id": 1746269909,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"VUNT",
+    "can-clab:name_e":"VUNTUT NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL VUNTUT",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.947366,
@@ -79,12 +82,12 @@
     "name:zho_x_preferred":[
         "\u6e29\u56fe\u7279\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"VUNT",
+        "can-clab:id":"VUNT",
         "wd:id":"Q862271",
         "wk:page":"https://en.wikipedia.org/wiki/Vuntut_National_Park"
     },
@@ -93,7 +96,7 @@
     "wof:geomhash":"68f85fa2e04a47ee045331e9c8d5f022",
     "wof:hierarchy":[],
     "wof:id":1746269909,
-    "wof:lastmodified":1630451183,
+    "wof:lastmodified":1630516971,
     "wof:name":"Vuntut National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

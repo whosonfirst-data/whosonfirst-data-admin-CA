@@ -2,6 +2,9 @@
   "id": 1746269891,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"TUKT",
+    "can-clab:name_e":"TUKTUT NOGAIT NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL TUKTUT NOGAIT",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.803042,
@@ -52,12 +55,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a \u0422\u043e\u043a\u0442\u043e\u0442 \u041d\u043e\u0491\u0430\u0439\u0442"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"TUKT",
+        "can-clab:id":"TUKT",
         "wd:id":"Q597959",
         "wk:page":"https://en.wikipedia.org/wiki/Tuktut_Nogait_National_Park"
     },
@@ -66,7 +69,7 @@
     "wof:geomhash":"15920f438d5199393966ec51c4b4c75f",
     "wof:hierarchy":[],
     "wof:id":1746269891,
-    "wof:lastmodified":1630451199,
+    "wof:lastmodified":1630516982,
     "wof:name":"Tuktut Nogait National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

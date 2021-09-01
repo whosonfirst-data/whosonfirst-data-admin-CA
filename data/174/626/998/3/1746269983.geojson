@@ -2,6 +2,9 @@
   "id": 1746269983,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"THAI",
+    "can-clab:name_e":"THAIDENE NENE NATIONAL PARK RESERVE",
+    "can-clab:name_f":"R\u00c9SERVE \u00c0 VOCATION DE PARC NATIONAL THAIDENE NENE",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.467909,
@@ -25,12 +28,12 @@
     "name:fra_x_preferred":[
         "R\u00e9serve \u00c0 Vocation de Parc National Thaidene Nene"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"THAI",
+        "can-clab:id":"THAI",
         "wd:id":"Q724310",
         "wk:page":"https://en.wikipedia.org/wiki/Thaidene_N%C3%ABn%C3%A9_National_Park_Reserve"
     },
@@ -39,7 +42,7 @@
     "wof:geomhash":"45cb386305d10a7a7337e91030d206c9",
     "wof:hierarchy":[],
     "wof:id":1746269983,
-    "wof:lastmodified":1630451176,
+    "wof:lastmodified":1630516962,
     "wof:name":"Thaidene Nene National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

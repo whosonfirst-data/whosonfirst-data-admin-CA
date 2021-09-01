@@ -2,6 +2,9 @@
   "id": 1746269977,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"FORI",
+    "can-clab:name_e":"FORILLON NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL FORILLON",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030192,
@@ -67,12 +70,12 @@
     "name:zho_x_preferred":[
         "\u4f5b\u91cc\u6602\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"FORI",
+        "can-clab:id":"FORI",
         "wd:id":"Q1437338",
         "wk:page":"https://en.wikipedia.org/wiki/Forillon_National_Park"
     },
@@ -81,7 +84,7 @@
     "wof:geomhash":"b18e68e19e476ad6659db66456329ab2",
     "wof:hierarchy":[],
     "wof:id":1746269977,
-    "wof:lastmodified":1630451182,
+    "wof:lastmodified":1630516970,
     "wof:name":"Forillon National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

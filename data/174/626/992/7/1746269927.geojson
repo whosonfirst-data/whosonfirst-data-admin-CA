@@ -2,6 +2,9 @@
   "id": 1746269927,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"BANF",
+    "can-clab:name_e":"BANFF NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL BANFF",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.887913,
@@ -175,12 +178,12 @@
     "name:zho_x_preferred":[
         "\u73ed\u592b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"BANF",
+        "can-clab:id":"BANF",
         "wd:id":"Q41858",
         "wk:page":"https://en.wikipedia.org/wiki/Banff_National_Park"
     },
@@ -189,7 +192,7 @@
     "wof:geomhash":"acc6d4162f5aca40f978a405960e5aee",
     "wof:hierarchy":[],
     "wof:id":1746269927,
-    "wof:lastmodified":1630451189,
+    "wof:lastmodified":1630516975,
     "wof:name":"Banff National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

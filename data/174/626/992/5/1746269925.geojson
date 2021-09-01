@@ -2,6 +2,9 @@
   "id": 1746269925,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"SAGU",
+    "can-clab:name_e":"SAGUENAY-ST. LAWRENCE MARINE PARK",
+    "can-clab:name_f":"PARC MARIN DU SAGUENAY-SAINT-LAURENT",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150648,
@@ -46,12 +49,12 @@
     "name:swe_x_preferred":[
         "Saguenay\u2013Saint Lawrence marinpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"SAGU",
+        "can-clab:id":"SAGU",
         "wd:id":"Q862222",
         "wk:page":"https://en.wikipedia.org/wiki/Saguenay%E2%80%93St._Lawrence_Marine_Park"
     },
@@ -60,7 +63,7 @@
     "wof:geomhash":"70f55b3a727b45af07fb248164204e5e",
     "wof:hierarchy":[],
     "wof:id":1746269925,
-    "wof:lastmodified":1630451193,
+    "wof:lastmodified":1630516978,
     "wof:name":"Saguenay-St. Lawrence Marine Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

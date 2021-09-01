@@ -2,6 +2,9 @@
   "id": 1746269975,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"AUYU",
+    "can-clab:name_e":"AUYUITTUQ NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL D\u2019AUYUITTUQ",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.069689,
@@ -85,12 +88,12 @@
     "name:zho_x_preferred":[
         "\u5965\u5c24\u7279\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"AUYU",
+        "can-clab:id":"AUYU",
         "wd:id":"Q789743",
         "wk:page":"https://en.wikipedia.org/wiki/Auyuittuq_National_Park"
     },
@@ -99,7 +102,7 @@
     "wof:geomhash":"b1e60c8d5cab0a6357d726c417a049f1",
     "wof:hierarchy":[],
     "wof:id":1746269975,
-    "wof:lastmodified":1630451182,
+    "wof:lastmodified":1630516971,
     "wof:name":"Auyuittuq National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

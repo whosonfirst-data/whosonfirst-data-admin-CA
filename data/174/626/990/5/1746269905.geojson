@@ -2,6 +2,9 @@
   "id": 1746269905,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"GWAA",
+    "can-clab:name_e":"GWAII HAANAS NATIONAL PARK RESERVE",
+    "can-clab:name_f":"R\u00c9SERVE \u00c0 VOCATION DE PARC NATIONAL GWAII HAANAS",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169911,
@@ -34,12 +37,12 @@
     "name:uzb_x_preferred":[
         "Qirolicha sharlotta orollari"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"GWAA",
+        "can-clab:id":"GWAA",
         "wd:id":"Q210907",
         "wk:page":"https://en.wikipedia.org/wiki/Haida_Gwaii"
     },
@@ -48,7 +51,7 @@
     "wof:geomhash":"465c3c232fa78be0f2e5579ad3b85d57",
     "wof:hierarchy":[],
     "wof:id":1746269905,
-    "wof:lastmodified":1630451185,
+    "wof:lastmodified":1630516972,
     "wof:name":"Gwaii Haanas National Park Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

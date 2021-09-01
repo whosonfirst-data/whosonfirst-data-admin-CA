@@ -2,6 +2,9 @@
   "id": 1746269947,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"ELKI",
+    "can-clab:name_e":"ELK ISLAND NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL ELK-ISLAND",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026185,
@@ -67,12 +70,12 @@
     "name:swe_x_preferred":[
         "Elk Islands nationalpark"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"ELKI",
+        "can-clab:id":"ELKI",
         "wd:id":"Q1331433",
         "wk:page":"https://en.wikipedia.org/wiki/Elk_Island_National_Park"
     },
@@ -81,7 +84,7 @@
     "wof:geomhash":"95b8380fe266bf834c8969378ff2f964",
     "wof:hierarchy":[],
     "wof:id":1746269947,
-    "wof:lastmodified":1630451196,
+    "wof:lastmodified":1630516980,
     "wof:name":"Elk Island National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

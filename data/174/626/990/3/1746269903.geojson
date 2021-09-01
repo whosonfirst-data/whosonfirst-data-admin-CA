@@ -2,6 +2,9 @@
   "id": 1746269903,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"GLAC",
+    "can-clab:name_e":"GLACIER NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DES GLACIERS",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174352,
@@ -109,12 +112,12 @@
     "name:zho_x_preferred":[
         "\u51b0\u5ddd\u570b\u5bb6\u516c\u5712"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"GLAC",
+        "can-clab:id":"GLAC",
         "wd:id":"Q1161253",
         "wk:page":"https://en.wikipedia.org/wiki/Glacier_National_Park_(Canada)"
     },
@@ -123,7 +126,7 @@
     "wof:geomhash":"d3ebcccc19140a503efb1a4b0c21ef43",
     "wof:hierarchy":[],
     "wof:id":1746269903,
-    "wof:lastmodified":1630451184,
+    "wof:lastmodified":1630516972,
     "wof:name":"Glacier National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

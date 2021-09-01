@@ -2,6 +2,9 @@
   "id": 1746269895,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"SIRM",
+    "can-clab:name_e":"SIRMILIK NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL DE SIRMILIK",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.128101,
@@ -76,12 +79,12 @@
     "name:zho_x_preferred":[
         "\u8c22\u7c73\u91cc\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"SIRM",
+        "can-clab:id":"SIRM",
         "wd:id":"Q795332",
         "wk:page":"https://en.wikipedia.org/wiki/Sirmilik_National_Park"
     },
@@ -90,7 +93,7 @@
     "wof:geomhash":"27c2b83a1de8135f707d538df500fa0a",
     "wof:hierarchy":[],
     "wof:id":1746269895,
-    "wof:lastmodified":1630451200,
+    "wof:lastmodified":1630516982,
     "wof:name":"Sirmilik National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

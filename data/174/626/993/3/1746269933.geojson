@@ -2,6 +2,9 @@
   "id": 1746269933,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"KOUC",
+    "can-clab:name_e":"KOUCHIBOUGUAC NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL KOUCHIBOUGUAC",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02802,
@@ -64,12 +67,12 @@
     "name:zho_x_preferred":[
         "\u53e4\u4ec0\u5e03\u683c\u74e6\u514b\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"KOUC",
+        "can-clab:id":"KOUC",
         "wd:id":"Q862260",
         "wk:page":"https://en.wikipedia.org/wiki/Kouchibouguac_National_Park"
     },
@@ -78,7 +81,7 @@
     "wof:geomhash":"757e29232f5917c428564a098433371a",
     "wof:hierarchy":[],
     "wof:id":1746269933,
-    "wof:lastmodified":1630451194,
+    "wof:lastmodified":1630516979,
     "wof:name":"Kouchibouguac National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

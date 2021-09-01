@@ -2,6 +2,9 @@
   "id": 1746269907,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"YOHO",
+    "can-clab:name_e":"YOHO NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL YOHO",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167143,
@@ -109,12 +112,12 @@
     "name:zho_x_preferred":[
         "\u5e7d\u9e64\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"YOHO",
+        "can-clab:id":"YOHO",
         "wd:id":"Q828404",
         "wk:page":"https://en.wikipedia.org/wiki/Yoho_National_Park"
     },
@@ -123,7 +126,7 @@
     "wof:geomhash":"e3fd8d6ab00aa5dbb86f0113d429be99",
     "wof:hierarchy":[],
     "wof:id":1746269907,
-    "wof:lastmodified":1630451184,
+    "wof:lastmodified":1630516971,
     "wof:name":"Yoho National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -2,6 +2,9 @@
   "id": 1746269893,
   "type": "Feature",
   "properties": {
+    "can-clab:id":"FUND",
+    "can-clab:name_e":"FUNDY NATIONAL PARK",
+    "can-clab:name_f":"PARC NATIONAL FUNDY",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023596,
@@ -67,12 +70,12 @@
     "name:zho_x_preferred":[
         "\u82ac\u8fea\u56fd\u5bb6\u516c\u56ed"
     ],
-    "src:geom":"ca-clab",
+    "src:geom":"can-clab",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ca-clab:id":"FUND",
+        "can-clab:id":"FUND",
         "wd:id":"Q1474238",
         "wk:page":"https://en.wikipedia.org/wiki/Fundy_National_Park"
     },
@@ -81,7 +84,7 @@
     "wof:geomhash":"d3d1454ab790a338facbbd7c7cde7c2d",
     "wof:hierarchy":[],
     "wof:id":1746269893,
-    "wof:lastmodified":1630451200,
+    "wof:lastmodified":1630516982,
     "wof:name":"Fundy National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
