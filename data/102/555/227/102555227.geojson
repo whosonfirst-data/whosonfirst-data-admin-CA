@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-66.2655555556,50.2233333333,-66.2655555556,50.2233333333",
+    "geom:bbox":"-66.265556,50.223333,-66.265556,50.223333",
     "geom:latitude":50.223333,
     "geom:longitude":-66.265556,
     "iso:country":"CA",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Sept-\u00celes Airport"
+    ],
+    "name:eng_x_variant":[
+        "YZV",
+        "CYZV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u067e\u062a\u200c\u0627\u0626\u06cc\u0644\u0633"
@@ -66,7 +70,7 @@
         "wd:id":"Q2875916"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d99594ecd1e1e1e8bff8ed26d3517e66",
+    "wof:geomhash":"269ad0c15234df06268316b0d73f2674",
     "wof:hierarchy":[
         {
             "campus_id":102555227,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102555227,
-    "wof:lastmodified":1566518862,
+    "wof:lastmodified":1631734361,
     "wof:name":"A\u00e9roport de Sept-\u00celes",
     "wof:parent_id":101737833,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    -66.265555555556,
-    50.223333333333,
-    -66.265555555556,
-    50.223333333333
+    -66.265556,
+    50.223333,
+    -66.265556,
+    50.223333
 ],
-  "geometry": {"coordinates":[-66.26555555555601,50.223333333333],"type":"Point"}
+  "geometry": {"coordinates":[-66.265556,50.223333],"type":"Point"}
 }

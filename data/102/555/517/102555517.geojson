@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-57.1861111111,51.4419444444,-57.1861111111,51.4419444444",
+    "geom:bbox":"-57.186111,51.441944,-57.186111,51.441944",
     "geom:latitude":51.441944,
     "geom:longitude":-57.186111,
     "iso:country":"CA",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Lourdes-de-Blanc-Sablon Airport"
+    ],
+    "name:eng_x_variant":[
+        "YBX",
+        "CYBX"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u0631\u062f\u0632 \u062f \u0628\u0644\u0627\u0646\u06a9 \u0633\u0627\u0628\u0644\u0648\u0646"
@@ -66,7 +70,7 @@
         "wd:id":"Q3912632"
     },
     "wof:country":"CA",
-    "wof:geomhash":"dbe8ef201f03a4467388dd30611e49de",
+    "wof:geomhash":"4e9c816e4e2a86d00aea2a8bd8f82705",
     "wof:hierarchy":[
         {
             "campus_id":102555517,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102555517,
-    "wof:lastmodified":1566518863,
+    "wof:lastmodified":1631734361,
     "wof:name":"Aeroport d\u00e9 Lourdes-d\u00e9-Blanc-Sablon",
     "wof:parent_id":101737663,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    -57.186111111111,
-    51.441944444444,
-    -57.186111111111,
-    51.441944444444
+    -57.186111,
+    51.441944,
+    -57.186111,
+    51.441944
 ],
-  "geometry": {"coordinates":[-57.186111111111,51.441944444444],"type":"Point"}
+  "geometry": {"coordinates":[-57.186111,51.441944],"type":"Point"}
 }
