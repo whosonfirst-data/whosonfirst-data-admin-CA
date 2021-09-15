@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-60.4258333333,53.3191666667,-60.4258333333,53.3191666667",
+    "geom:bbox":"-60.425833,53.319167,-60.425833,53.319167",
     "geom:latitude":53.319167,
     "geom:longitude":-60.425833,
     "iso:country":"CA",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "CFB Goose Bay"
+    ],
+    "name:eng_x_variant":[
+        "YYR",
+        "CYYR"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u200c\u0627\u0641\u200c\u0628\u06cc \u06af\u0648\u0633 \u0628\u06cc"
@@ -73,7 +77,7 @@
         "wd:id":"Q1032124"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9b8b4aac33698b12b0a4dcd7327914ac",
+    "wof:geomhash":"b8ccdd6f2e225e2dcb1d52aaaad416ae",
     "wof:hierarchy":[
         {
             "campus_id":102554519,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102554519,
-    "wof:lastmodified":1566518863,
+    "wof:lastmodified":1631734362,
     "wof:name":"Goose Bay Airport",
     "wof:parent_id":85682123,
     "wof:placetype":"campus",
@@ -94,10 +98,10 @@
     ]
 },
   "bbox": [
-    -60.425833333333,
-    53.319166666667,
-    -60.425833333333,
-    53.319166666667
+    -60.425833,
+    53.319167,
+    -60.425833,
+    53.319167
 ],
-  "geometry": {"coordinates":[-60.425833333333,53.319166666667],"type":"Point"}
+  "geometry": {"coordinates":[-60.425833,53.319167],"type":"Point"}
 }

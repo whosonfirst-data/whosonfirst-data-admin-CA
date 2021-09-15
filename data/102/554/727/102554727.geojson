@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.8119444444,79.9944444444,-85.8119444444,79.9944444444",
+    "geom:bbox":"-85.811944,79.994444,-85.811944,79.994444",
     "geom:latitude":79.994444,
     "geom:longitude":-85.811944,
     "iso:country":"CA",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Eureka Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "YEU",
+        "CYEU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u06cc\u06a9\u0627"
@@ -70,7 +74,7 @@
         "wd:id":"Q3914292"
     },
     "wof:country":"CA",
-    "wof:geomhash":"b4d1e1184960ea953dc1e7cf656cac12",
+    "wof:geomhash":"3bf2e04ee518a85184d6df7c243fd9f8",
     "wof:hierarchy":[
         {
             "campus_id":102554727,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102554727,
-    "wof:lastmodified":1566518863,
+    "wof:lastmodified":1631734362,
     "wof:name":"Eureka Airport",
     "wof:parent_id":85682105,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    -85.811944444444,
-    79.994444444444,
-    -85.811944444444,
-    79.994444444444
+    -85.811944,
+    79.994444,
+    -85.811944,
+    79.994444
 ],
-  "geometry": {"coordinates":[-85.81194444444399,79.994444444444],"type":"Point"}
+  "geometry": {"coordinates":[-85.811944,79.994444],"type":"Point"}
 }
