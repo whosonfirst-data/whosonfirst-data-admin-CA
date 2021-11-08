@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.682982424,59.0332816764,-117.682982424,59.0332816764",
+    "geom:bbox":"-117.682982,59.033282,-117.682982,59.033282",
     "geom:latitude":59.033282,
     "geom:longitude":-117.682982,
     "iso:country":"CA",
@@ -18,11 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u0645\u064a\u0646\u062f\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09df\u09be\u09a8\u09cd\u09a1\u09be\u09b0 \u09b0\u09bf\u09ad\u09be\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Meander River"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03b1\u03bd\u03c4\u03b5\u03c1 \u03a1\u03af\u03b2\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Meander River"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u062f\u0631 \u0631\u06cc\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Meander River"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d4\u05e8 \u05de\u05d0\u05e0\u05d3\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0940\u090f\u0902\u0921\u0930 \u0930\u093f\u0935\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Meander River"
+    ],
+    "name:ind_x_preferred":[
+        "Meander River"
+    ],
+    "name:ita_x_preferred":[
+        "Meander River"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a2\u30f3\u30c0\u30fc\u30fb\u30ea\u30d0\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\uc564\ub354 \ub9ac\ubc84"
+    ],
     "name:nld_x_preferred":[
         "Meander River"
+    ],
+    "name:pol_x_preferred":[
+        "Meander River"
+    ],
+    "name:por_x_preferred":[
+        "Meander River"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0430\u043d\u0434\u0435\u0440-\u0420\u0438\u0432\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Meander River"
+    ],
+    "name:swe_x_preferred":[
+        "Meander River"
+    ],
+    "name:tur_x_preferred":[
+        "Meander River"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0430\u043d\u0434\u0440-\u0420\u0456\u0432\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u0688\u0631 \u0631\u06cc\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Meander River"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7c73\u5b89\u5fb7\u91cc\u5f17"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7c73\u5b89\u5fb7\u6cb3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -132,7 +204,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130620,
-    "wof:geomhash":"17be45ef550ccfd91d02fba1df44b31d",
+    "wof:geomhash":"73672d889f0741eaf56e4817e85e03f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +215,7 @@
         }
     ],
     "wof:id":1141906645,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414470,
     "wof:name":"Meander River",
     "wof:parent_id":1158863313,
     "wof:placetype":"locality",
@@ -153,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.6829824237604,
-    59.03328167635931,
-    -117.6829824237604,
-    59.03328167635931
+    -117.682982,
+    59.033282,
+    -117.682982,
+    59.033282
 ],
-  "geometry": {"coordinates":[-117.68298242376039,59.03328167635931],"type":"Point"}
+  "geometry": {"coordinates":[-117.682982,59.033282],"type":"Point"}
 }

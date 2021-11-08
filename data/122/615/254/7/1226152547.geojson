@@ -29,6 +29,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u0993 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a6\u09c7"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05d2\u05e8\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u092f\u094b \u0917\u094d\u0930\u0948\u0902\u0921\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u0688\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Rio Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,7 +66,7 @@
         "wk:page":"Rio_Grande%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ca3f305f9a4b2a1fdedb82a125dd97fc",
+    "wof:geomhash":"f87adb422ef7eacd2add51eb57ee7749",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1226152547,
-    "wof:lastmodified":1566520607,
+    "wof:lastmodified":1636414452,
     "wof:name":"Rio Grande",
     "wof:parent_id":1158863179,
     "wof:placetype":"locality",
@@ -64,9 +88,9 @@
 },
   "bbox": [
     -119.70277,
-    55.09993000000001,
+    55.09993,
     -119.70277,
-    55.09993000000001
+    55.09993
 ],
-  "geometry": {"coordinates":[-119.70277,55.09993000000001],"type":"Point"}
+  "geometry": {"coordinates":[-119.70277,55.09993],"type":"Point"}
 }

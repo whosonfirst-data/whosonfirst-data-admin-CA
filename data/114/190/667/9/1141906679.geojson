@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.5166909197,52.2333349804,-78.5166909197,52.2333349804",
+    "geom:bbox":"-78.516691,52.233335,-78.516691,52.233335",
     "geom:latitude":52.233335,
     "geom:longitude":-78.516691,
     "iso:country":"CA",
@@ -19,16 +19,85 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0625\u064a\u0633\u0645\u0627\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
         "\u0642\u0631\u064a\u0629 \u0625\u064a\u0633\u062a\u0645\u0627\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b8\u09cd\u099f\u09ae\u09c7\u0987\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Eastmain"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03c3\u03c4\u03bc\u03b5\u03ca\u03bd"
     ],
     "name:eng_x_preferred":[
         "Eastmain"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a \u0645\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Eastmain"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e1\u05d8\u05de\u05d9\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0908\u0938\u094d\u091f\u092e\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Eastmain"
+    ],
+    "name:ind_x_preferred":[
+        "Eastmain"
+    ],
+    "name:ita_x_preferred":[
+        "Eastmain"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b9\u30c8\u30e1\u30fc\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc2a4\ud2b8\uba54\uc778"
+    ],
+    "name:nld_x_preferred":[
+        "Eastmain"
+    ],
+    "name:pol_x_preferred":[
         "Eastmain"
     ],
     "name:por_x_preferred":[
         "Eastmain"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0442\u043c\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Eastmain"
+    ],
+    "name:swe_x_preferred":[
+        "Eastmain"
+    ],
+    "name:tur_x_preferred":[
+        "Eastmain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0442\u043c\u0435\u0439\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u0679\u0645\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Eastmain"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f0a\u65af\u7279\u6885\u6069\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u65af\u7279\u7f8e\u56e0\u6cb3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -138,7 +207,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130624,
-    "wof:geomhash":"55a77f32147b3930fc429a68991fdc1b",
+    "wof:geomhash":"0df1dcea54165943022ea9f2449217cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +218,7 @@
         }
     ],
     "wof:id":1141906679,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414463,
     "wof:name":"Eastmain",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
@@ -159,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.51669091969745,
-    52.23333498036857,
-    -78.51669091969745,
-    52.23333498036857
+    -78.516691,
+    52.233335,
+    -78.516691,
+    52.233335
 ],
-  "geometry": {"coordinates":[-78.51669091969745,52.23333498036857],"type":"Point"}
+  "geometry": {"coordinates":[-78.51669099999999,52.233335],"type":"Point"}
 }

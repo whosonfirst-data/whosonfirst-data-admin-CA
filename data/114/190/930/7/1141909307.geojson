@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-139.416668744,64.0666436962,-139.416668744,64.0666436962",
+    "geom:bbox":"-139.416669,64.066644,-139.416669,64.066644",
     "geom:latitude":64.066644,
     "geom:longitude":-139.416669,
     "iso:country":"CA",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0648\u0633\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09b8\u09a8 \u09b8\u09bf\u099f\u09bf"
     ],
     "name:cat_x_preferred":[
         "Dawson City"
@@ -59,6 +62,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e1\u05d5\u05df \u05e1\u05d9\u05d8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0949\u0938\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Dawson City"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0578\u0582\u057d\u0578\u0576"
@@ -121,6 +130,9 @@
         "\u0414\u043e\u0441\u043e\u043d"
     ],
     "name:swe_x_preferred":[
+        "Dawson City"
+    ],
+    "name:tur_x_preferred":[
         "Dawson City"
     ],
     "name:ukr_x_preferred":[
@@ -243,7 +255,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131062,
-    "wof:geomhash":"836a182d0bce96391f918fa695084340",
+    "wof:geomhash":"e88a500225beff49aa519a9747c768b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -254,7 +266,7 @@
         }
     ],
     "wof:id":1141909307,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414459,
     "wof:name":"Dawson City",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",
@@ -264,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -139.41666874383435,
-    64.06664369623621,
-    -139.41666874383435,
-    64.06664369623621
+    -139.416669,
+    64.066644,
+    -139.416669,
+    64.066644
 ],
-  "geometry": {"coordinates":[-139.41666874383435,64.06664369623621],"type":"Point"}
+  "geometry": {"coordinates":[-139.41666900000001,64.066644],"type":"Point"}
 }

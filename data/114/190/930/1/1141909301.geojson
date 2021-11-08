@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.0586067183,61.1085921112,-94.0586067183,61.1085921112",
+    "geom:bbox":"-94.058607,61.108592,-94.058607,61.108592",
     "geom:latitude":61.108592,
     "geom:longitude":-94.058607,
     "iso:country":"CA",
@@ -34,6 +34,12 @@
         "Arviat"
     ],
     "name:fra_x_preferred":[
+        "Arviat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d5\u05d9\u05d0\u05d8"
+    ],
+    "name:hun_x_preferred":[
         "Arviat"
     ],
     "name:iku_x_preferred":[
@@ -174,7 +180,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499131061,
-    "wof:geomhash":"dc3ace6921296cb0dd79d8bff5f00296",
+    "wof:geomhash":"8ca6112997f4c7825b981ddebed8c277",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":1141909301,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414459,
     "wof:name":"Arviat",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -194,10 +200,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.05860671826849,
-    61.10859211118731,
-    -94.05860671826849,
-    61.10859211118731
+    -94.058607,
+    61.108592,
+    -94.058607,
+    61.108592
 ],
-  "geometry": {"coordinates":[-94.05860671826849,61.10859211118731],"type":"Point"}
+  "geometry": {"coordinates":[-94.05860699999999,61.108592],"type":"Point"}
 }

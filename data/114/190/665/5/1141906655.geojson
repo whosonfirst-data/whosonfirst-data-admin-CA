@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-115.700002687,60.8499924918,-115.700002687,60.8499924918",
+    "geom:bbox":"-115.700003,60.849992,-115.700003,60.849992",
     "geom:latitude":60.849992,
     "geom:longitude":-115.700003,
     "iso:country":"CA",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0647\u0627\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09c7 \u09b0\u09bf\u09ad\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Hay River"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:deu_x_preferred":[
         "Hay River"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03b9 \u03a1\u03af\u03b2\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Hay River"
@@ -39,11 +45,26 @@
     "name:fra_x_preferred":[
         "Hay River"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d4\u05e8 \u05d4\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0947 \u0930\u093f\u0935\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Hay River"
+    ],
+    "name:ind_x_preferred":[
+        "Hay River"
+    ],
     "name:ita_x_preferred":[
         "Hay River"
     ],
     "name:jpn_x_preferred":[
         "\u30d8\u30a4\u30ea\u30d0\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e4\uc774 \ub9ac\ubc84"
     ],
     "name:lit_x_preferred":[
         "Hei Riveris"
@@ -69,8 +90,17 @@
     "name:swe_x_preferred":[
         "Hay River"
     ],
+    "name:tur_x_preferred":[
+        "Hay River"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0439-\u0420\u0456\u0432\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06d2 \u0631\u06cc\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Hay River"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -180,7 +210,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130621,
-    "wof:geomhash":"85b6dc629d4e9f450efe9e66904fc021",
+    "wof:geomhash":"40be3c18035a109f03341c67e006bc4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -191,7 +221,7 @@
         }
     ],
     "wof:id":1141906655,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414471,
     "wof:name":"Hay River",
     "wof:parent_id":1158869037,
     "wof:placetype":"locality",
@@ -201,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -115.70000268742433,
-    60.8499924917964,
-    -115.70000268742433,
-    60.8499924917964
+    -115.700003,
+    60.849992,
+    -115.700003,
+    60.849992
 ],
-  "geometry": {"coordinates":[-115.70000268742433,60.8499924917964],"type":"Point"}
+  "geometry": {"coordinates":[-115.700003,60.849992],"type":"Point"}
 }

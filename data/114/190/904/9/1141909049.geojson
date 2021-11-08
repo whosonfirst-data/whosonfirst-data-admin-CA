@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-133.049201337,69.4547745935,-133.049201337,69.4547745935",
+    "geom:bbox":"-133.049201,69.454775,-133.049201,69.454775",
     "geom:latitude":69.454775,
     "geom:longitude":-133.049201,
     "iso:country":"CA",
@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0643\u062a\u0648\u064a\u0627\u0643\u062a\u0648\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u0995\u09a4\u09cb\u0987\u09df\u09be\u0995\u09a4\u09c1\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043a\u0442\u043e\u044f\u043a\u0442\u0443\u043a"
     ],
@@ -29,6 +35,9 @@
     ],
     "name:deu_x_preferred":[
         "Tuktoyaktuk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03ba\u03c4\u03bf\u03b3\u03b9\u03ac\u03ba\u03c4\u03bf\u03c5\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tuktoyaktuk"
@@ -45,11 +54,20 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e7\u05d8\u05d5\u05d9\u05d0\u05d8\u05d5\u05e7"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u0941\u0915\u094d\u0924\u094b\u092f\u093e\u0915\u094d\u0924\u0941\u0915"
+    ],
+    "name:ind_x_preferred":[
+        "Tuktoyaktuk"
+    ],
     "name:ita_x_preferred":[
         "Tuktoyaktuk"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30af\u30c8\u30e4\u30af\u30c8\u30a5\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub69d\ud1a0\uc57d\ud22d"
     ],
     "name:nld_x_preferred":[
         "Tuktoyaktuk"
@@ -63,6 +81,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043a\u0442\u043e\u044f\u043a\u0442\u0443\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Tuktoyaktuk"
+    ],
     "name:sqi_x_preferred":[
         "Tuktoyaktuk"
     ],
@@ -70,6 +91,12 @@
         "Tuktoyaktuk"
     ],
     "name:tur_x_preferred":[
+        "Tuktoyaktuk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06a9\u0679\u0648\u06cc\u0627\u06a9\u0679\u06a9"
+    ],
+    "name:vie_x_preferred":[
         "Tuktoyaktuk"
     ],
     "name:zho_x_preferred":[
@@ -183,7 +210,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131017,
-    "wof:geomhash":"651fd91f3382b2151393ee06caec9b84",
+    "wof:geomhash":"d3a6db9d91f445690a761859985a7025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -194,7 +221,7 @@
         }
     ],
     "wof:id":1141909049,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414467,
     "wof:name":"Tuktoyaktuk",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",
@@ -204,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -133.04920133669958,
-    69.45477459351974,
-    -133.04920133669958,
-    69.45477459351974
+    -133.049201,
+    69.454775,
+    -133.049201,
+    69.454775
 ],
-  "geometry": {"coordinates":[-133.04920133669958,69.45477459351974],"type":"Point"}
+  "geometry": {"coordinates":[-133.04920100000001,69.454775],"type":"Point"}
 }

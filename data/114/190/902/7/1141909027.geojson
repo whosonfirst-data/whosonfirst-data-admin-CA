@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.532970624,58.8167057486,-122.532970624,58.8167057486",
+    "geom:bbox":"-122.532971,58.816706,-122.532971,58.816706",
     "geom:latitude":58.816706,
     "geom:longitude":-122.532971,
     "iso:country":"CA",
@@ -24,11 +24,17 @@
     "name:ara_x_variant":[
         "\u062d\u0635\u0646 \u0646\u0644\u0633\u0648\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09cb\u09b0\u09cd\u099f \u09a8\u09c7\u09b2\u09b8\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Fort Nelson"
     ],
     "name:deu_x_preferred":[
         "Fort Nelson"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c1\u03c4 \u039d\u03ad\u03bb\u03c3\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Fort Nelson"
@@ -39,13 +45,37 @@
     "name:fra_x_preferred":[
         "Fort Nelson"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e0\u05dc\u05e1\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u094b\u0930\u094d\u091f \u0928\u0947\u0932\u0938\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Fort Nelson"
+    ],
+    "name:ind_x_preferred":[
+        "Fort Nelson"
+    ],
     "name:ita_x_preferred":[
         "Fort Nelson"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8 \ub12c\uc2a8"
     ],
     "name:nld_x_preferred":[
         "Fort Nelson"
     ],
+    "name:pol_x_preferred":[
+        "Fort Nelson"
+    ],
     "name:por_x_preferred":[
+        "Fort Nelson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u0442-\u041d\u0435\u043b\u044c\u0441\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
         "Fort Nelson"
     ],
     "name:sqi_x_preferred":[
@@ -53,6 +83,24 @@
     ],
     "name:swe_x_preferred":[
         "Fort Nelson"
+    ],
+    "name:tur_x_preferred":[
+        "Fort Nelson"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0440\u0442-\u041d\u0435\u043b\u044c\u0441\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0631\u0679 \u0646\u06cc\u0644\u0633\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Fort Nelson"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7eb3\u5c14\u900a\u5821"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d0d\u723e\u905c\u5821"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -162,7 +210,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131013,
-    "wof:geomhash":"56733a227e749dc8b2e4e83595f24818",
+    "wof:geomhash":"9d8b367db5f839ee8c141e653173f485",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,7 +221,7 @@
         }
     ],
     "wof:id":1141909027,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414468,
     "wof:name":"Fort Nelson",
     "wof:parent_id":890458063,
     "wof:placetype":"locality",
@@ -183,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.53297062364959,
-    58.81670574862409,
-    -122.53297062364959,
-    58.81670574862409
+    -122.532971,
+    58.816706,
+    -122.532971,
+    58.816706
 ],
-  "geometry": {"coordinates":[-122.53297062364959,58.81670574862409],"type":"Point"}
+  "geometry": {"coordinates":[-122.532971,58.816706],"type":"Point"}
 }

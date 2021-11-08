@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u042e\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u09b0\u09be"
+    ],
     "name:bre_x_preferred":[
         "Jura"
     ],
@@ -174,6 +177,9 @@
         "\u042e\u0440\u0430"
     ],
     "name:vie_x_preferred":[
+        "D\u00e3y Jura"
+    ],
+    "name:vie_x_variant":[
         "Jura"
     ],
     "src:geom":"geonames",
@@ -188,7 +194,7 @@
         "gn:id":5988475
     },
     "wof:country":"CA",
-    "wof:geomhash":"f9f3ef7b0b4623b2382f174546b91e6a",
+    "wof:geomhash":"aafc71c782b4c09466d220e6a1d51f56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":1243540047,
-    "wof:lastmodified":1566520469,
+    "wof:lastmodified":1636414439,
     "wof:name":"Jura",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",
@@ -209,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.90916999999997,
+    -81.90917,
     43.10417,
-    -81.90916999999997,
+    -81.90917,
     43.10417
 ],
-  "geometry": {"coordinates":[-81.90916999999997,43.10417],"type":"Point"}
+  "geometry": {"coordinates":[-81.90917,43.10417],"type":"Point"}
 }

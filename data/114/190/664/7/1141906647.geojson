@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.949982953,49.1666487824,-121.949982953,49.1666487824",
+    "geom:bbox":"-121.949983,49.166649,-121.949983,49.166649",
     "geom:latitude":49.166649,
     "geom:longitude":-121.949983,
     "iso:country":"CA",
@@ -62,6 +62,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0ab2\u0abf\u0ab5\u0ac5\u0a95"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05dc\u05d9\u05d5\u05d5\u05d0\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u0932\u0940\u0935\u0948\u0915"
@@ -270,7 +273,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130620,
-    "wof:geomhash":"a9f6dc608be07acb5b4ad427d5f55472",
+    "wof:geomhash":"cc706e2080d25f8411d4bc69c7173756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":1141906647,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414470,
     "wof:name":"Chilliwack",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",
@@ -291,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.94998295274883,
-    49.16664878243972,
-    -121.94998295274883,
-    49.16664878243972
+    -121.949983,
+    49.166649,
+    -121.949983,
+    49.166649
 ],
-  "geometry": {"coordinates":[-121.94998295274883,49.16664878243972],"type":"Point"}
+  "geometry": {"coordinates":[-121.949983,49.166649],"type":"Point"}
 }

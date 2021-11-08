@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-68.516681154,48.4337477815,-68.516681154,48.4337477815",
+    "geom:bbox":"-68.516681,48.433748,-68.516681,48.433748",
     "geom:latitude":48.433748,
     "geom:longitude":-68.516681,
     "iso:country":"CA",
@@ -83,6 +83,9 @@
     ],
     "name:hak_x_preferred":[
         "Rimouski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05de\u05d5\u05e1\u05e7\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u092e\u0942\u0938\u0915\u0940"
@@ -288,7 +291,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130800,
-    "wof:geomhash":"3e13f7836f4747c9550dd52a5e0b2f3e",
+    "wof:geomhash":"582fd8e5cc7ffee02a67b113d47f4f71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":1141907997,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414457,
     "wof:name":"Rimouski",
     "wof:parent_id":890456467,
     "wof:placetype":"locality",
@@ -309,10 +312,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.51668115403243,
-    48.43374778146011,
-    -68.51668115403243,
-    48.43374778146011
+    -68.516681,
+    48.433748,
+    -68.516681,
+    48.433748
 ],
-  "geometry": {"coordinates":[-68.51668115403243,48.43374778146011],"type":"Point"}
+  "geometry": {"coordinates":[-68.51668100000001,48.433748],"type":"Point"}
 }

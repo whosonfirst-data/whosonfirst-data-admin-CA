@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Selkirk"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05e7\u05d9\u05e8\u05e7"
+    ],
     "name:ita_x_preferred":[
         "Selkirk"
     ],
@@ -80,7 +83,7 @@
         "gn:id":6144051
     },
     "wof:country":"CA",
-    "wof:geomhash":"8855bb2a1435169ef415a592601adfad",
+    "wof:geomhash":"66a6bdb1a8dca4cb59d14dd84f977865",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1209710099,
-    "wof:lastmodified":1566519166,
+    "wof:lastmodified":1636414307,
     "wof:name":"Selkirk",
     "wof:parent_id":890456459,
     "wof:placetype":"locality",
@@ -101,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.44864000000001,
+    -62.44864,
     46.4168,
-    -62.44864000000001,
+    -62.44864,
     46.4168
 ],
-  "geometry": {"coordinates":[-62.44864000000001,46.4168],"type":"Point"}
+  "geometry": {"coordinates":[-62.44864,46.4168],"type":"Point"}
 }

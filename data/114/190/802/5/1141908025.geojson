@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.9806789567,53.5264085074,-63.9806789567,53.5264085074",
+    "geom:bbox":"-63.980679,53.526409,-63.980679,53.526409",
     "geom:latitude":53.526409,
     "geom:longitude":-63.980679,
     "iso:country":"CA",
@@ -16,6 +16,84 @@
     "lbl:longitude":-63.980679,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u0644\u0627\u0644\u0627\u062a \u062a\u0634\u0631\u0634\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09b0\u09cd\u099a\u09bf\u09b2 \u09ab\u09b2\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03c4\u03c3\u03b9\u03bb \u03a6\u03bf\u03bb\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631\u0686\u06cc\u0644 \u0641\u0627\u0644\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05dc\u05d9 \u05e6'\u05e8\u05e6'\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0930\u094d\u091a\u093f\u0932 \u092b\u093c\u0949\u0932\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:ind_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:ita_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30fc\u30c1\u30eb\u30d5\u30a9\u30fc\u30eb\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc98\uce60 \ud3f4\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:pol_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:por_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0447\u0438\u043b\u043b-\u0424\u043e\u043b\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Cascadas Churchill"
+    ],
+    "name:swe_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:tur_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0447\u0456\u043b\u044c-\u0424\u043e\u043b\u0437"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0631\u0686\u0644 \u0641\u0627\u0644\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Churchill Falls"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e18\u5409\u5c14\u7011\u5e03"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e18\u5409\u723e\u7011\u5e03"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
     "ne:ADM0_A3":"CAN",
@@ -122,7 +200,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130805,
-    "wof:geomhash":"3353fe4362eb8ae709e52f2a1fe8833d",
+    "wof:geomhash":"51094a6a1ee2601916d838b04a7263ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +211,7 @@
         }
     ],
     "wof:id":1141908025,
-    "wof:lastmodified":1534379244,
+    "wof:lastmodified":1636414465,
     "wof:name":"Churchill Falls",
     "wof:parent_id":1158869065,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.9806789567487,
-    53.52640850739203,
-    -63.9806789567487,
-    53.52640850739203
+    -63.980679,
+    53.526409,
+    -63.980679,
+    53.526409
 ],
-  "geometry": {"coordinates":[-63.9806789567487,53.52640850739203],"type":"Point"}
+  "geometry": {"coordinates":[-63.980679,53.526409],"type":"Point"}
 }

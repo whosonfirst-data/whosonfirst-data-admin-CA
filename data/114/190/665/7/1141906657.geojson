@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-123.416663454,65.1833455598,-123.416663454,65.1833455598",
+    "geom:bbox":"-123.416663,65.183346,-123.416663,65.183346",
     "geom:latitude":65.183346,
     "geom:longitude":-123.416663,
     "iso:country":"CA",
@@ -18,7 +18,49 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09cb\u09b2\u09bf\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03bb\u03af\u03bd"
+    ],
     "name:fra_x_preferred":[
+        "Doline"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0932\u0940\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Doline"
+    ],
+    "name:ind_x_preferred":[
+        "Doline"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00e9l\u0131\u0328n\u0119"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ea\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3cc\ub9b0"
+    ],
+    "name:pol_x_preferred":[
+        "Doline"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0439\u043b\u0438\u043d\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Doline"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0644\u0627\u0626\u0646"
+    ],
+    "name:vie_x_preferred":[
         "Doline"
     ],
     "ne:ADM0CAP":0.0,
@@ -127,7 +169,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130622,
-    "wof:geomhash":"96e450875bcb8a1a6378031a219ce82e",
+    "wof:geomhash":"faed74ceb487d0f5398f76270cb19aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +180,7 @@
         }
     ],
     "wof:id":1141906657,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414471,
     "wof:name":"Doline",
     "wof:parent_id":1158869057,
     "wof:placetype":"locality",
@@ -148,10 +190,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.41666345405667,
-    65.18334555984757,
-    -123.41666345405667,
-    65.18334555984757
+    -123.416663,
+    65.183346,
+    -123.416663,
+    65.183346
 ],
-  "geometry": {"coordinates":[-123.41666345405667,65.18334555984757],"type":"Point"}
+  "geometry": {"coordinates":[-123.416663,65.183346],"type":"Point"}
 }

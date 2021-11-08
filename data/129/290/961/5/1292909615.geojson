@@ -32,6 +32,9 @@
     "name:arg_x_preferred":[
         "Salina"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09b2\u09bf\u09a8\u09be"
+    ],
     "name:cat_x_preferred":[
         "Salina"
     ],
@@ -53,6 +56,12 @@
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d9\u05e0\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u0932\u0940\u0928\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Salina"
+    ],
     "name:ita_x_preferred":[
         "Salina"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:por_x_preferred":[
         "Salina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u043d\u0430"
     ],
     "name:spa_x_preferred":[
         "Salina"
@@ -98,7 +110,7 @@
         "gn:id":6139344
     },
     "wof:country":"CA",
-    "wof:geomhash":"caf43d49ab4950ad5ea2811bfd75fb53",
+    "wof:geomhash":"13fdca8e5bdaa5b608f9269fbc4322b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1292909615,
-    "wof:lastmodified":1566519067,
+    "wof:lastmodified":1636414294,
     "wof:name":"Salina",
     "wof:parent_id":890456055,
     "wof:placetype":"locality",
@@ -119,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.70548000000001,
+    -65.70548,
     45.52841,
-    -65.70548000000001,
+    -65.70548,
     45.52841
 ],
-  "geometry": {"coordinates":[-65.70548000000001,45.52841],"type":"Point"}
+  "geometry": {"coordinates":[-65.70547999999999,45.52841],"type":"Point"}
 }

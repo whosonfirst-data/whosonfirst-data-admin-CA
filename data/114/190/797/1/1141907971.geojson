@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.9333299171,45.9670249624,-81.9333299171,45.9670249624",
+    "geom:bbox":"-81.93333,45.967025,-81.93333,45.967025",
     "geom:latitude":45.967025,
     "geom:longitude":-81.93333,
     "iso:country":"CA",
@@ -16,6 +16,66 @@
     "lbl:longitude":-81.93333,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062a\u064a\u0644 \u0643\u0627\u0631\u0646\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u099f\u09b2 \u0995\u09be\u09b0\u09c7\u09a8\u09cd\u099f"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03c4\u03bb \u039a\u03ac\u03c1\u03b5\u03bd\u03c4"
+    ],
+    "name:fra_x_preferred":[
+        "Little Current"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d8\u05dc \u05e7\u05d5\u05e8\u05e0\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u091f\u0932 \u0915\u0930\u0947\u0902\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Little Current"
+    ],
+    "name:ind_x_preferred":[
+        "Little Current"
+    ],
+    "name:ita_x_preferred":[
+        "Little Current"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30c8\u30eb\u30ab\u30ec\u30f3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ud2c0 \ucee4\ub7f0\ud2b8"
+    ],
+    "name:por_x_preferred":[
+        "Little Current"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u043b-\u041a\u0435\u0440\u0440\u0435\u043d\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Little Current"
+    ],
+    "name:swe_x_preferred":[
+        "Little Current"
+    ],
+    "name:tur_x_preferred":[
+        "Little Current"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0442\u043b-\u041a\u0430\u0440\u0440\u0435\u043d\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Little Current"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5c0f\u67ef\u4f26\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c0f\u67ef\u502b\u7279"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
     "ne:ADM0_A3":"CAN",
@@ -122,7 +182,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130796,
-    "wof:geomhash":"2204b9a4c0f72f46a52d4f9c79b21abb",
+    "wof:geomhash":"abebd760aa7c137ee8f1262d01890075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +193,7 @@
         }
     ],
     "wof:id":1141907971,
-    "wof:lastmodified":1534379245,
+    "wof:lastmodified":1636414455,
     "wof:name":"Little Current",
     "wof:parent_id":890458809,
     "wof:placetype":"locality",
@@ -145,10 +205,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.93332991710702,
-    45.96702496243995,
-    -81.93332991710702,
-    45.96702496243995
+    -81.93333,
+    45.967025,
+    -81.93333,
+    45.967025
 ],
-  "geometry": {"coordinates":[-81.93332991710702,45.96702496243995],"type":"Point"}
+  "geometry": {"coordinates":[-81.93333,45.967025],"type":"Point"}
 }

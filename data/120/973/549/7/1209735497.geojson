@@ -29,20 +29,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09c1\u0995\u09cd\u09b8\u099f\u09cb\u09a8"
+    ],
     "name:dan_x_preferred":[
         "Crookston"
     ],
     "name:deu_x_preferred":[
         "Crookston"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03bf\u03cd\u03ba\u03c3\u03c4\u03bf\u03bd"
+    ],
     "name:fra_x_preferred":[
         "Crookston"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05e7\u05e1\u05d8\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u0941\u0915\u0938\u094d\u091f\u094b\u0928"
     ],
     "name:ido_x_preferred":[
         "Crookston"
     ],
+    "name:ind_x_preferred":[
+        "Crookston"
+    ],
     "name:ita_x_preferred":[
         "Crookston"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub8e9\uc2a4\ud134"
     ],
     "name:nld_x_preferred":[
         "Crookston"
@@ -77,7 +95,7 @@
         "gn:id":5932991
     },
     "wof:country":"CA",
-    "wof:geomhash":"6d857e6c838988d12ff93bd25f37c35b",
+    "wof:geomhash":"577b9513ad22fba8ebfd33afd0e26f03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +106,7 @@
         }
     ],
     "wof:id":1209735497,
-    "wof:lastmodified":1566519189,
+    "wof:lastmodified":1636414311,
     "wof:name":"Crookston",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",
@@ -98,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.44946999999998,
+    -77.44947,
     44.43342,
-    -77.44946999999998,
+    -77.44947,
     44.43342
 ],
-  "geometry": {"coordinates":[-77.44946999999998,44.43342],"type":"Point"}
+  "geometry": {"coordinates":[-77.44947000000001,44.43342],"type":"Point"}
 }

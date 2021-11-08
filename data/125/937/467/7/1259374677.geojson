@@ -87,10 +87,25 @@
         "Pembroke"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0435\u043c\u0431\u0440\u043e\u0443\u043a"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u0435\u043c\u0431\u0440\u0443\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0645\u0628\u0631\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Pembroke"
     ],
     "name:vol_x_preferred":[
         "Pembroke"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5f6d\u5e03\u7f57\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u670b\u5e03\u6d1b\u514b"
     ],
     "name:zho_x_preferred":[
         "\u5f6d\u5e03\u7f85\u514b"
@@ -107,7 +122,7 @@
         "gn:id":6100830
     },
     "wof:country":"CA",
-    "wof:geomhash":"6b8b36ea8f9eb2f9c6bb87980d992256",
+    "wof:geomhash":"f815620bbd09b70f533e9129e946afb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":1259374677,
-    "wof:lastmodified":1566520535,
+    "wof:lastmodified":1636414444,
     "wof:name":"Pembroke",
     "wof:parent_id":890458099,
     "wof:placetype":"locality",
@@ -128,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.93794000000001,
+    -62.93794,
     45.2629,
-    -62.93794000000001,
+    -62.93794,
     45.2629
 ],
-  "geometry": {"coordinates":[-62.93794000000001,45.2629],"type":"Point"}
+  "geometry": {"coordinates":[-62.93794,45.2629],"type":"Point"}
 }

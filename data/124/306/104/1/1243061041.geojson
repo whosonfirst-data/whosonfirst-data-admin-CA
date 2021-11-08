@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09cb\u09b8\u09c7\u09ab"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u094b\u0938\u0947\u092b\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "St. Joseph"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -41,7 +50,7 @@
         "gn:id":6156927
     },
     "wof:country":"CA",
-    "wof:geomhash":"35a1a367bff7d605bbff21022904b9c5",
+    "wof:geomhash":"b3f63dda4deffd556e3449c267e09760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243061041,
-    "wof:lastmodified":1566520472,
+    "wof:lastmodified":1636414439,
     "wof:name":"St. Joseph",
     "wof:parent_id":890458765,
     "wof:placetype":"locality",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.70555999999998,
+    -81.70556,
     43.41444,
-    -81.70555999999998,
+    -81.70556,
     43.41444
 ],
-  "geometry": {"coordinates":[-81.70555999999998,43.41444],"type":"Point"}
+  "geometry": {"coordinates":[-81.70556000000001,43.41444],"type":"Point"}
 }

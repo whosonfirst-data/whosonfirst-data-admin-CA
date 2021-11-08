@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "\u0644\u064a\u0641\u0631\u0628\u0648\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09ad\u09be\u09b0\u09aa\u09c1\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Liverpool"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:deu_x_preferred":[
         "Liverpool"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03b2\u03b5\u03c1\u03c0\u03bf\u03c5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Liverpool"
@@ -51,8 +57,26 @@
     "name:gla_x_preferred":[
         "Liverpool"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d1\u05e8\u05e4\u05d5\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0935\u0930\u092a\u0942\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Liverpool"
+    ],
+    "name:ind_x_preferred":[
+        "Liverpool"
+    ],
+    "name:ita_x_preferred":[
+        "Liverpool"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30d0\u30d7\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ubc84\ud480"
     ],
     "name:nld_x_preferred":[
         "Liverpool"
@@ -60,7 +84,25 @@
     "name:por_x_preferred":[
         "Liverpool"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0432\u0435\u0440\u043f\u0443\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Liverpool"
+    ],
     "name:swe_x_preferred":[
+        "Liverpool"
+    ],
+    "name:tur_x_preferred":[
+        "Liverpool"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0432\u0435\u0440\u043f\u0443\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u0631\u067e\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
         "Liverpool"
     ],
     "name:zho_x_preferred":[
@@ -167,8 +209,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890456819,
-        85682075
+        85682075,
+        890456819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,7 +232,7 @@
         }
     ],
     "wof:id":1141906685,
-    "wof:lastmodified":1593217693,
+    "wof:lastmodified":1636414465,
     "wof:name":"Liverpool",
     "wof:parent_id":890456819,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09af\u09be\u09b2\u09c7\u09b8\u09ac\u09c1\u09b0\u09cd\u0997"
+    ],
     "name:cat_x_preferred":[
         "Galesburg"
     ],
@@ -38,14 +41,26 @@
     "name:deu_x_preferred":[
         "Galesburg"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ad\u03b9\u03bb\u03c3\u03c0\u03b5\u03c1\u03b3\u03ba"
+    ],
     "name:fra_x_preferred":[
         "Galesburg"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0947\u0932\u094d\u0938\u092c\u0930\u094d\u0917"
     ],
     "name:hun_x_preferred":[
         "Galesburg"
     ],
+    "name:ind_x_preferred":[
+        "Galesburg"
+    ],
     "name:ita_x_preferred":[
         "Galesburg"
+    ],
+    "name:kor_x_preferred":[
+        "\uac08\ub808\uc2a4\ubd80\ub974\ud06c"
     ],
     "name:nld_x_preferred":[
         "Galesburg"
@@ -86,7 +101,7 @@
         "gn:id":5959076
     },
     "wof:country":"CA",
-    "wof:geomhash":"cdb8a65caec0bd74a333bb8dd45eec48",
+    "wof:geomhash":"2fa4f05094c3cbc72381426d17a06e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":1293709039,
-    "wof:lastmodified":1566519044,
+    "wof:lastmodified":1636414292,
     "wof:name":"Galesburg",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",
@@ -107,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.19778000000002,
+    -78.19778,
     44.46306,
-    -78.19778000000002,
+    -78.19778,
     44.46306
 ],
-  "geometry": {"coordinates":[-78.19778000000002,44.46306],"type":"Point"}
+  "geometry": {"coordinates":[-78.19777999999999,44.46306],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-139.00000167,61.3503753857,-139.00000167,61.3503753857",
+    "geom:bbox":"-139.000002,61.350375,-139.000002,61.350375",
     "geom:latitude":61.350375,
     "geom:longitude":-139.000002,
     "gn:country":"CA",
@@ -21,8 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0648\u0627\u0634 \u0644\u0627\u0646\u062f\u0646\u062c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b0\u0993\u09df\u09be\u09b6 \u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf\u0982"
+    ],
     "name:deu_x_preferred":[
         "Burwash Landing"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03c1\u03b3\u03bf\u03c5\u03bf\u03c2 \u039b\u03ac\u03bd\u03c4\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Burwash Landing"
@@ -33,17 +42,56 @@
     "name:fra_x_preferred":[
         "Burwash Landing"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d5\u05d5\u05e9 \u05dc\u05e0\u05d3\u05d9\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0930\u0935\u0949\u0936 \u0932\u0948\u0902\u0921\u093f\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Burwash Landing"
+    ],
+    "name:ind_x_preferred":[
+        "Burwash Landing"
+    ],
     "name:ita_x_preferred":[
         "Burwash Landing"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30a6\u30a9\u30c3\u30b7\u30e5\u30e9\u30f3\u30c7\u30a3\u30f3\u30b0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc84\uc6cc\uc2dc \ub79c\ub529"
+    ],
     "name:nld_x_preferred":[
+        "Burwash Landing"
+    ],
+    "name:pol_x_preferred":[
+        "Burwash Landing"
+    ],
+    "name:por_x_preferred":[
         "Burwash Landing"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0443\u043e\u0448-\u041b\u0435\u043d\u0434\u0438\u043d\u0433"
     ],
+    "name:spa_x_preferred":[
+        "Burwash Landing"
+    ],
+    "name:swe_x_preferred":[
+        "Burwash Landing"
+    ],
+    "name:tur_x_preferred":[
+        "Burwash Landing"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0432\u043e\u0448-\u041b\u0435\u043d\u0434\u0456\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0648\u0627\u0634 \u0644\u06cc\u0646\u0688\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Burwash Landing"
     ],
     "name:zho_x_preferred":[
         "\u4f2f\u6c83\u4ec0\u5170\u4e01"
@@ -179,7 +227,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130795,
-    "wof:geomhash":"a38456eea66a05299169aa8d988726b7",
+    "wof:geomhash":"43a41bafb5d3b054f5e3ed4558862ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -190,7 +238,7 @@
         }
     ],
     "wof:id":1141907965,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414461,
     "wof:name":"Burwash Landing",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",
@@ -202,10 +250,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -139.00000167026496,
-    61.35037538567855,
-    -139.00000167026496,
-    61.35037538567855
+    -139.000002,
+    61.350375,
+    -139.000002,
+    61.350375
 ],
-  "geometry": {"coordinates":[-139.00000167026496,61.35037538567855],"type":"Point"}
+  "geometry": {"coordinates":[-139.00000199999999,61.350375],"type":"Point"}
 }

@@ -29,6 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09ab\u09bf\u09b2\u09cd\u09a1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03c3\u03c6\u03b9\u03bb\u03bd\u03c4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0928\u094d\u0938\u092b\u093c\u0940\u0932\u094d\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Mansfield"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,7 +54,7 @@
         "wk:page":"Mansfield%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ee2b28d24cfe8046407c1216852baea4",
+    "wof:geomhash":"4b6608e8944cca718c2f26287defca80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259775123,
-    "wof:lastmodified":1566520541,
+    "wof:lastmodified":1636414445,
     "wof:name":"Mansfield",
     "wof:parent_id":890457197,
     "wof:placetype":"locality",
@@ -63,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.93859000000001,
+    -63.93859,
     45.80362,
-    -63.93859000000001,
+    -63.93859,
     45.80362
 ],
-  "geometry": {"coordinates":[-63.93859000000001,45.80362],"type":"Point"}
+  "geometry": {"coordinates":[-63.93859,45.80362],"type":"Point"}
 }

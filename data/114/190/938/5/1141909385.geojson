@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.649983563,55.9833386425,-87.649983563,55.9833386425",
+    "geom:bbox":"-87.649984,55.983339,-87.649984,55.983339",
     "geom:latitude":55.983339,
     "geom:longitude":-87.649984,
     "iso:country":"CA",
@@ -18,8 +18,74 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0631\u062a \u0633\u064a\u0641\u064a\u0631\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09cb\u09b0\u09cd\u099f \u09b8\u09c7\u09ad\u09c7\u09b0\u09cd\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c1\u03c4 \u03a3\u03ad\u03b2\u03b5\u03c1\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0631\u062a \u0633\u0648\u0631\u0646"
+    ],
     "name:fra_x_preferred":[
         "Fort Severn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e1\u05d1\u05e8\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u094b\u0930\u094d\u091f \u0938\u0947\u0935\u0930\u094d\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:ind_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:ita_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30fc\u30c8\u30bb\u30d0\u30fc\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8 \uc138\ubc88"
+    ],
+    "name:pol_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u0442-\u0421\u0435\u0432\u0435\u0440\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:swe_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:tur_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0440\u0442-\u0421\u0435\u0432\u0435\u0440\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0631\u0679 \u0633\u06cc\u0648\u0631\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Fort Severn"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u585e\u6587\u5821"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u585e\u6587\u5821"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -127,7 +193,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499131072,
-    "wof:geomhash":"7c57d6209f2be572b2848517e8ebbc6b",
+    "wof:geomhash":"0d96cdc7d784a0f58757f46a94d3838f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +204,7 @@
         }
     ],
     "wof:id":1141909385,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414456,
     "wof:name":"Fort Severn",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
@@ -148,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.6499835629632,
-    55.98333864249298,
-    -87.6499835629632,
-    55.98333864249298
+    -87.649984,
+    55.983339,
+    -87.649984,
+    55.983339
 ],
-  "geometry": {"coordinates":[-87.6499835629632,55.98333864249298],"type":"Point"}
+  "geometry": {"coordinates":[-87.649984,55.983339],"type":"Point"}
 }

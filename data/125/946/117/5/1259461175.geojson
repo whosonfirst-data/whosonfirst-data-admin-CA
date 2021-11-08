@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u09a8\u09cd\u09a1"
+    ],
     "name:ceb_x_preferred":[
         "West Bend"
     ],
     "name:deu_x_preferred":[
         "West Bend"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u039c\u03c0\u03b5\u03bd\u03c4"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0633\u062a \u0628\u0646\u062f"
@@ -41,8 +47,20 @@
     "name:fra_x_preferred":[
         "West Bend"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e1\u05d8 \u05d1\u05e0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0938\u094d\u091f \u092c\u0947\u0902\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "West Bend"
+    ],
     "name:ita_x_preferred":[
         "West Bend"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8 \ubca4\ub4dc"
     ],
     "name:nld_x_preferred":[
         "West Bend"
@@ -77,7 +95,7 @@
         "gn:id":6178337
     },
     "wof:country":"CA",
-    "wof:geomhash":"3f63f13386f80384928f538c32ea2792",
+    "wof:geomhash":"da851c664b1cfcaa449fe7cb77110eab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +106,7 @@
         }
     ],
     "wof:id":1259461175,
-    "wof:lastmodified":1566520544,
+    "wof:lastmodified":1636414445,
     "wof:name":"West Bend",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",
@@ -99,9 +117,9 @@
 },
   "bbox": [
     -103.68433,
-    51.48334000000001,
+    51.48334,
     -103.68433,
-    51.48334000000001
+    51.48334
 ],
-  "geometry": {"coordinates":[-103.68433,51.48334000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.68433,51.48334],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.1666209327,73.0333056836,-85.1666209327,73.0333056836",
+    "geom:bbox":"-85.166621,73.033306,-85.166621,73.033306",
     "geom:latitude":73.033306,
     "geom:longitude":-85.166621,
     "iso:country":"CA",
@@ -57,6 +57,15 @@
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0a95\u0a9f\u0abf\u0a95 \u0aac\u0ac7"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05d0\u05e8\u05e7\u05d8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0930\u094d\u0915\u091f\u093f\u0915 \u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Arctic Bay"
+    ],
     "name:iku_x_preferred":[
         "\u1403\u1483\u1431\u140a\u1550\u152a\u1483"
     ],
@@ -74,6 +83,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0cb0\u0ccd\u0c95\u0ccd\u0c9f\u0cbf\u0c95\u0ccd \u0cac\u0cc7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc545\ud2f1 \ubca0\uc774"
     ],
     "name:lav_x_preferred":[
         "Arktikbeja"
@@ -107,6 +119,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d86\u0dbb\u0dca\u0d9a\u0dca\u0da7\u0dd2\u0d9a\u0dca \u0db6\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Arctic Bay"
     ],
     "name:sqi_x_preferred":[
         "Arctic Bay"
@@ -246,7 +261,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131071,
-    "wof:geomhash":"371a2ff96746aa7ab780ee482957177f",
+    "wof:geomhash":"d7ffca69efc77ef325c6cd5740483f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -257,7 +272,7 @@
         }
     ],
     "wof:id":1141909377,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414461,
     "wof:name":"Arctic Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -267,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.16662093274493,
-    73.03330568357688,
-    -85.16662093274493,
-    73.03330568357688
+    -85.166621,
+    73.033306,
+    -85.166621,
+    73.033306
 ],
-  "geometry": {"coordinates":[-85.16662093274493,73.03330568357688],"type":"Point"}
+  "geometry": {"coordinates":[-85.16662100000001,73.033306],"type":"Point"}
 }

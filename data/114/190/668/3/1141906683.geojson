@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.6595009783,62.1825984895,-75.6595009783,62.1825984895",
+    "geom:bbox":"-75.659501,62.182598,-75.659501,62.182598",
     "geom:latitude":62.182598,
     "geom:longitude":-75.659501,
     "iso:country":"CA",
@@ -27,7 +27,16 @@
     "name:deu_x_preferred":[
         "Salluit"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0648\u062a"
+    ],
     "name:fra_x_preferred":[
+        "Salluit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d5\u05d9\u05d8"
+    ],
+    "name:hun_x_preferred":[
         "Salluit"
     ],
     "name:ita_x_preferred":[
@@ -160,7 +169,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130625,
-    "wof:geomhash":"c0cf142d90bc3bee57418384fb154fc8",
+    "wof:geomhash":"3b070c07887dd8680f76c4db1cd90bef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -171,7 +180,7 @@
         }
     ],
     "wof:id":1141906683,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414464,
     "wof:name":"Salluit",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
@@ -181,10 +190,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.65950097827982,
-    62.18259848952306,
-    -75.65950097827982,
-    62.18259848952306
+    -75.659501,
+    62.182598,
+    -75.659501,
+    62.182598
 ],
-  "geometry": {"coordinates":[-75.65950097827982,62.18259848952306],"type":"Point"}
+  "geometry": {"coordinates":[-75.65950100000001,62.182598],"type":"Point"}
 }

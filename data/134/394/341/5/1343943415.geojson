@@ -44,6 +44,9 @@
     "name:bel_x_preferred":[
         "\u0421\u043e\u043b\u0444\u0430\u0440\u0434"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09ab\u09cb\u09b0\u09cd\u09a1"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0444\u043e\u0440\u0434"
     ],
@@ -82,6 +85,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05e4\u05d5\u05e8\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0932\u092b\u094b\u0930\u094d\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Salford"
+    ],
+    "name:ind_x_preferred":[
+        "Salford"
     ],
     "name:isl_x_preferred":[
         "Salford"
@@ -164,7 +176,7 @@
         "gn:id":6139336
     },
     "wof:country":"CA",
-    "wof:geomhash":"7f371f4f33feb8a87315469962ad81c2",
+    "wof:geomhash":"13f4d5c98bab9e8aba29eea344004408",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +187,7 @@
         }
     ],
     "wof:id":1343943415,
-    "wof:lastmodified":1566518894,
+    "wof:lastmodified":1636414271,
     "wof:name":"Salford",
     "wof:parent_id":890458399,
     "wof:placetype":"locality",
@@ -185,10 +197,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.82694000000002,
+    -80.82694,
     42.9975,
-    -80.82694000000002,
+    -80.82694,
     42.9975
 ],
-  "geometry": {"coordinates":[-80.82694000000002,42.9975],"type":"Point"}
+  "geometry": {"coordinates":[-80.82693999999999,42.9975],"type":"Point"}
 }

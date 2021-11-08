@@ -38,6 +38,12 @@
     "name:deu_x_preferred":[
         "Cross River"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05e1 \u05e8\u05d9\u05d1\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Cross River"
+    ],
     "name:nds_x_preferred":[
         "Cross River"
     ],
@@ -56,7 +62,7 @@
         "gn:id":5933189
     },
     "wof:country":"CA",
-    "wof:geomhash":"7ac719fa3d0416ca1b2844ef04d1626a",
+    "wof:geomhash":"43133a06d80358f8d5ce8600f2768e31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1310596157,
-    "wof:lastmodified":1566519359,
+    "wof:lastmodified":1636414326,
     "wof:name":"Cross River",
     "wof:parent_id":890457725,
     "wof:placetype":"locality",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.96543000000001,
+    -63.96543,
     46.50014,
-    -63.96543000000001,
+    -63.96543,
     46.50014
 ],
-  "geometry": {"coordinates":[-63.96543000000001,46.50014],"type":"Point"}
+  "geometry": {"coordinates":[-63.96543,46.50014],"type":"Point"}
 }

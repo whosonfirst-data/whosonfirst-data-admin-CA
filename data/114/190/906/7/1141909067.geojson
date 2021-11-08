@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.017265317,50.3017589045,-64.017265317,50.3017589045",
+    "geom:bbox":"-64.017265,50.301759,-64.017265,50.301759",
     "geom:latitude":50.301759,
     "geom:longitude":-64.017265,
     "iso:country":"CA",
@@ -18,6 +18,9 @@
     "mz:is_current":0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u063a\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u0982\u0997\u09be\u09a8"
     ],
     "name:bre_x_preferred":[
         "Mingan"
@@ -31,10 +34,25 @@
     "name:deu_x_preferred":[
         "Mingan"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bd\u03b3\u03ba\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Mingan"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u06af\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Mingan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05d2\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0902\u0917\u0928"
+    ],
+    "name:hun_x_preferred":[
         "Mingan"
     ],
     "name:ind_x_preferred":[
@@ -43,10 +61,19 @@
     "name:ita_x_preferred":[
         "Mingan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30f3\u30ac\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc0d\uac04"
+    ],
     "name:nds_x_preferred":[
         "Mingan"
     ],
     "name:nld_x_preferred":[
+        "Mingan"
+    ],
+    "name:pol_x_preferred":[
         "Mingan"
     ],
     "name:por_x_preferred":[
@@ -54,6 +81,9 @@
     ],
     "name:ron_x_preferred":[
         "Mingan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0433\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Mingan"
@@ -63,6 +93,24 @@
     ],
     "name:tah_x_preferred":[
         "Mingan"
+    ],
+    "name:tur_x_preferred":[
+        "Mingan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0433\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u06af\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Mingan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u660e\u6839"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c11\u5b89"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -172,7 +220,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131020,
-    "wof:geomhash":"1039505e611dcfa28001295c1b445026",
+    "wof:geomhash":"954278126fccde9444a8209bdaaf6847",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -183,7 +231,7 @@
         }
     ],
     "wof:id":1141909067,
-    "wof:lastmodified":1561844599,
+    "wof:lastmodified":1636414459,
     "wof:name":"Mingan",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",
@@ -195,10 +243,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.01726531703048,
-    50.30175890446168,
-    -64.01726531703048,
-    50.30175890446168
+    -64.017265,
+    50.301759,
+    -64.017265,
+    50.301759
 ],
-  "geometry": {"coordinates":[-64.01726531703048,50.30175890446168],"type":"Point"}
+  "geometry": {"coordinates":[-64.01726499999999,50.301759],"type":"Point"}
 }

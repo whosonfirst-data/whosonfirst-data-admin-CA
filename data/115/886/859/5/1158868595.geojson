@@ -31,6 +31,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u064a\u0643\u064a\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09bf\u0995\u09be\u0987\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03af\u03b3\u03b9\u03bd\u03b5"
+    ],
     "name:eng_x_official":[
         "Stikine Regional District (Unincorporated)"
     ],
@@ -43,8 +52,38 @@
     "name:eng_x_variant":[
         "Stikine Regional District (Unincorporated)"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u06cc\u06a9\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Stikine"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d9\u05e7\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u093f\u0915\u093f\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Stikine"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud2f0\ud0a8"
+    ],
+    "name:por_x_preferred":[
+        "Stikine"
+    ],
+    "name:tur_x_preferred":[
+        "Stikine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0456\u043a\u0456\u043d\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0679\u06cc\u06a9\u0627\u0626\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Stikine"
     ],
     "src:geom":"statcan",
     "src:geom_alt":[
@@ -77,7 +116,7 @@
         }
     ],
     "wof:id":1158868595,
-    "wof:lastmodified":1627521984,
+    "wof:lastmodified":1636414435,
     "wof:name":"Stikine",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

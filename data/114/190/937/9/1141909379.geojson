@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.900006146,74.6833341667,-94.900006146,74.6833341667",
+    "geom:bbox":"-94.900006,74.683334,-94.900006,74.683334",
     "geom:latitude":74.683334,
     "geom:longitude":-94.900006,
     "iso:country":"CA",
@@ -46,6 +46,15 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0ab8\u0acb\u0ab2\u0acd\u0aaf\u0ac1\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d6\u05d5\u05dc\u05d5\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0938\u094b\u0932\u0942\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Resolute"
+    ],
     "name:iku_x_preferred":[
         "\u1583\u1405\u14f1\u1403\u1466\u1450\u1585"
     ],
@@ -60,6 +69,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb0\u0cc6\u0cb8\u0cb2\u0ccd\u0caf\u0cc2\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc194\ub8e8\ud2b8"
     ],
     "name:lav_x_preferred":[
         "Rezoljuta"
@@ -120,6 +132,12 @@
     ],
     "name:vie_x_preferred":[
         "Resolute"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u96f7\u7d22\u5362\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u52aa\u52d2\u7dad\u7279"
     ],
     "name:zho_x_preferred":[
         "\u5805\u6bc5\u7063"
@@ -232,7 +250,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131071,
-    "wof:geomhash":"545e3fa91446630c75eb26b45df4203c",
+    "wof:geomhash":"dd8e067564efa5920bf0390894ff85b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -243,7 +261,7 @@
         }
     ],
     "wof:id":1141909379,
-    "wof:lastmodified":1561844599,
+    "wof:lastmodified":1636414461,
     "wof:name":"Resolute",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -255,10 +273,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.90000614600001,
-    74.68333416665632,
-    -94.90000614600001,
-    74.68333416665632
+    -94.900006,
+    74.683334,
+    -94.900006,
+    74.683334
 ],
-  "geometry": {"coordinates":[-94.90000614600001,74.68333416665632],"type":"Point"}
+  "geometry": {"coordinates":[-94.900006,74.683334],"type":"Point"}
 }

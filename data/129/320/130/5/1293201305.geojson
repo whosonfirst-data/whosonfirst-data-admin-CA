@@ -110,6 +110,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d1\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0935\u0930"
+    ],
     "name:hun_x_preferred":[
         "Dover"
     ],
@@ -200,6 +203,9 @@
     "name:urd_x_preferred":[
         "\u0688\u0648\u0648\u0631"
     ],
+    "name:vie_x_preferred":[
+        "Dover"
+    ],
     "name:vol_x_preferred":[
         "Dover"
     ],
@@ -221,7 +227,7 @@
         "gn:id":5942236
     },
     "wof:country":"CA",
-    "wof:geomhash":"a1c0aaf176241ae592cae8eed6605a16",
+    "wof:geomhash":"bce6b8dc0c05478ba4f7e12643cef036",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -232,7 +238,7 @@
         }
     ],
     "wof:id":1293201305,
-    "wof:lastmodified":1566519070,
+    "wof:lastmodified":1636414295,
     "wof:name":"Dover",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",
@@ -242,10 +248,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.69003000000001,
+    -64.69003,
     45.99829,
-    -64.69003000000001,
+    -64.69003,
     45.99829
 ],
-  "geometry": {"coordinates":[-64.69003000000001,45.99829],"type":"Point"}
+  "geometry": {"coordinates":[-64.69002999999999,45.99829],"type":"Point"}
 }

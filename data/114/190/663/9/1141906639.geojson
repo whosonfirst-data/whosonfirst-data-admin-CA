@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.316617067,55.7332763866,-101.316617067,55.7332763866",
+    "geom:bbox":"-101.316617,55.733276,-101.316617,55.733276",
     "geom:latitude":55.733276,
     "geom:longitude":-101.316617,
     "iso:country":"CA",
@@ -18,14 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0627\u062a\u0627\u0648\u0627\u063a\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u0995\u09be\u099f\u09be\u0993\u09df\u09be\u0997\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ba\u03b1\u03c4\u03b1\u03b3\u03bf\u03c5\u03b1\u03b3\u03ba\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Pukatawagan"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0627\u062a\u0627\u0648\u0627\u06af\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Pukatawagan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05d0\u05d8\u05d0\u05d5\u05d5\u05d0\u05d2\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0915\u093e\u0924\u093e\u0935\u0948\u0917\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:ind_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:ita_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ab\u30bf\u30ef\u30ac\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uce74\ud0c0\uc640\uac04"
+    ],
     "name:nld_x_preferred":[
         "Pukatawagan"
+    ],
+    "name:pol_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:por_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u0442\u0430\u0432\u0430\u0433\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:swe_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:tur_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u0442\u0430\u0432\u0430\u0433\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u06a9\u0627\u062a\u0627\u0648\u06af\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Pukatawagan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e15\u5361\u5854\u74e6\u6839"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u666e\u5361\u5854\u74e6\u7518"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -135,7 +204,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130619,
-    "wof:geomhash":"a12ef8ecb82c57707db01fd3c6e050ce",
+    "wof:geomhash":"fb7ad6487bb924bb0ffbdcd39648f27f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +215,7 @@
         }
     ],
     "wof:id":1141906639,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414471,
     "wof:name":"Pukatawagan",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",
@@ -156,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -101.31661706724964,
-    55.73327638663267,
-    -101.31661706724964,
-    55.73327638663267
+    -101.316617,
+    55.733276,
+    -101.316617,
+    55.733276
 ],
-  "geometry": {"coordinates":[-101.31661706724964,55.73327638663267],"type":"Point"}
+  "geometry": {"coordinates":[-101.31661699999999,55.733276],"type":"Point"}
 }

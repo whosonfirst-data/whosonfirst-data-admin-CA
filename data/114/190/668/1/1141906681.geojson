@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-66.8166557227,54.8000000194,-66.8166557227,54.8000000194",
+    "geom:bbox":"-66.816656,54.8,-66.816656,54.8",
     "geom:latitude":54.8,
     "geom:longitude":-66.816656,
     "iso:country":"CA",
@@ -22,11 +22,17 @@
     "name:atj_x_preferred":[
         "Schefferville"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u0995\u09c7\u09ab\u09c7\u09b0\u09ad\u09bf\u09b2\u09c7"
+    ],
     "name:ces_x_preferred":[
         "Schefferville"
     ],
     "name:deu_x_preferred":[
         "Schefferville"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03c6\u03b5\u03c1\u03b2\u03b9\u03bb"
     ],
     "name:eng_x_preferred":[
         "Schefferville"
@@ -43,8 +49,26 @@
     "name:fra_x_preferred":[
         "Schefferville"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e4\u05e8\u05d5\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0947\u092b\u093c\u0930\u0935\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Schefferville"
+    ],
     "name:iku_x_preferred":[
         "\u14ef\u1557\u1555\u140a\u14ea"
+    ],
+    "name:ind_x_preferred":[
+        "Schefferville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30d5\u30a1\u30fc\u30d3\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc250\ud37c\ube4c"
     ],
     "name:lat_x_preferred":[
         "Schefferville"
@@ -73,11 +97,26 @@
     "name:swe_x_preferred":[
         "Schefferville"
     ],
+    "name:tur_x_preferred":[
+        "Schefferville"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0444\u0444\u0435\u0440\u0432\u0456\u043b\u044c"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0641\u0631 \u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Schefferville"
+    ],
     "name:vol_x_preferred":[
         "Schefferville"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8c22\u5f17\u7ef4\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8b1d\u5f17\u7dad\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -187,7 +226,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130625,
-    "wof:geomhash":"770ee310609ff45c18158252e373b7a5",
+    "wof:geomhash":"eabea1ae5ceea4739e648af43b859ded",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -198,7 +237,7 @@
         }
     ],
     "wof:id":1141906681,
-    "wof:lastmodified":1561844600,
+    "wof:lastmodified":1636414464,
     "wof:name":"Schefferville",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",
@@ -210,10 +249,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.81665572271055,
-    54.80000001944143,
-    -66.81665572271055,
-    54.80000001944143
+    -66.816656,
+    54.8,
+    -66.816656,
+    54.8
 ],
-  "geometry": {"coordinates":[-66.81665572271055,54.80000001944143],"type":"Point"}
+  "geometry": {"coordinates":[-66.81665599999999,54.8],"type":"Point"}
 }

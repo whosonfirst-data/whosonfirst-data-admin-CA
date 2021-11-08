@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.82999577,43.2499815054,-79.82999577,43.2499815054",
+    "geom:bbox":"-79.829996,43.249982,-79.829996,43.249982",
     "geom:latitude":43.249982,
     "geom:longitude":-79.829996,
     "iso:country":"CA",
@@ -256,10 +256,10 @@
         "\u0413\u0430\u043c\u0456\u043b\u044c\u0442\u043e\u043d"
     ],
     "name:urd_x_preferred":[
-        "\u06c1\u06cc\u0645\u0644\u0679\u0646\u060c \u0627\u0646\u0679\u0627\u0631\u06cc\u0648"
+        "\u06c1\u06cc\u0645\u0644\u0679\u0646"
     ],
     "name:urd_x_variant":[
-        "\u06c1\u06cc\u0645\u0644\u0679\u0646"
+        "\u06c1\u06cc\u0645\u0644\u0679\u0646\u060c \u0627\u0646\u0679\u0627\u0631\u06cc\u0648"
     ],
     "name:uzb_x_preferred":[
         "Gamilton"
@@ -272,6 +272,12 @@
     ],
     "name:war_x_preferred":[
         "Hamilton"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u54c8\u5bc6\u5c14\u987f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6f22\u7c73\u9813"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u5bc6\u5c14\u987f"
@@ -384,7 +390,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130971,
-    "wof:geomhash":"739ad3850e3e30665cae17eca6625869",
+    "wof:geomhash":"9fe0fc5f736cef36b49f938ce2059956",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -395,7 +401,7 @@
         }
     ],
     "wof:id":1141908751,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414462,
     "wof:name":"Hamilton",
     "wof:parent_id":890456341,
     "wof:placetype":"locality",
@@ -405,10 +411,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.82999576996315,
-    43.24998150539773,
-    -79.82999576996315,
-    43.24998150539773
+    -79.829996,
+    43.249982,
+    -79.829996,
+    43.249982
 ],
-  "geometry": {"coordinates":[-79.82999576996315,43.24998150539773],"type":"Point"}
+  "geometry": {"coordinates":[-79.82999599999999,43.249982],"type":"Point"}
 }

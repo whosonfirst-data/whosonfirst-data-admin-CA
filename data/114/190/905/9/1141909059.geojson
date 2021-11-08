@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.883328493,52.2166434927,-87.883328493,52.2166434927",
+    "geom:bbox":"-87.883328,52.216643,-87.883328,52.216643",
     "geom:latitude":52.216643,
     "geom:longitude":-87.883328,
     "iso:country":"CA",
@@ -18,11 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0632\u0644 \u0644\u0627\u0646\u0633\u062f\u0627\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8\u09a1\u09be\u0989\u09a8 \u09b9\u09be\u0989\u09b8"
+    ],
     "name:deu_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03bd\u03c3\u03bd\u03c4\u03b1\u03bf\u03c5\u03bd \u03a7\u03ac\u03bf\u03c5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Neskantaga First Nation"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u0633\u062f\u0627\u0646 \u0647\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05d3\u05e1\u05d5\u05d5\u05df \u05d4\u05d0\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0948\u0902\u091c\u093c\u094d\u0921\u093e\u0909\u0928 \u0939\u093e\u0909\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:ind_x_preferred":[
         "Lansdowne House"
     ],
     "name:ita_x_preferred":[
         "Lansdowne House"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30ba\u30c0\u30a6\u30f3\u30cf\u30a6\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub79c\uc2a4\ub2e4\uc6b4 \ud558\uc6b0\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:pol_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:por_x_preferred":[
+        "Neskantaga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u0441\u0434\u0430\u0443\u043d-\u0425\u0430\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:swe_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:tur_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0441\u0434\u043e\u0443\u043d-\u0425\u0430\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0632\u0688\u0627\u0624\u0646 \u06c1\u0627\u0624\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Lansdowne House"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5170\u65af\u5f53\u8c6a\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u862d\u65af\u7576\u8c6a\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -130,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499131018,
-    "wof:geomhash":"fc74324d799dd09678aa7351c40afe02",
+    "wof:geomhash":"39f823659b68809ba581fa8154e23812",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +213,7 @@
         }
     ],
     "wof:id":1141909059,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414467,
     "wof:name":"Lansdowne House",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
@@ -151,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.88332849297711,
-    52.21664349273829,
-    -87.88332849297711,
-    52.21664349273829
+    -87.883328,
+    52.216643,
+    -87.883328,
+    52.216643
 ],
-  "geometry": {"coordinates":[-87.88332849297711,52.21664349273829],"type":"Point"}
+  "geometry": {"coordinates":[-87.88332800000001,52.216643],"type":"Point"}
 }

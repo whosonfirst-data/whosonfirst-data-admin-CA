@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.0665944842,52.6170324901,-94.0665944842,52.6170324901",
+    "geom:bbox":"-94.066594,52.617032,-94.066594,52.617032",
     "geom:latitude":52.617032,
     "geom:longitude":-94.066594,
     "iso:country":"CA",
@@ -46,7 +46,22 @@
         "Deer Lake"
     ],
     "name:ukr_x_preferred":[
+        "\u0414\u0456\u0440-\u041b\u0435\u0439\u043a"
+    ],
+    "name:ukr_x_variant":[
         "\u0414\u0456\u0435\u0440-\u041b\u0435\u0439\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0626\u0631 \u0644\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Deer Lake"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8fea\u5c14\u83b1\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8fea\u723e\u840a\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -154,7 +169,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130798,
-    "wof:geomhash":"aa779e4a1afabe7fe83f8a09e2a7a0e1",
+    "wof:geomhash":"b09dc7ae5eb039e19454966750bcc1e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -165,7 +180,7 @@
         }
     ],
     "wof:id":1141907981,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414458,
     "wof:name":"Deer Lake",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
@@ -175,10 +190,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.06659448421271,
-    52.61703249013573,
-    -94.06659448421271,
-    52.61703249013573
+    -94.066594,
+    52.617032,
+    -94.066594,
+    52.617032
 ],
-  "geometry": {"coordinates":[-94.06659448421271,52.61703249013573],"type":"Point"}
+  "geometry": {"coordinates":[-94.06659399999999,52.617032],"type":"Point"}
 }

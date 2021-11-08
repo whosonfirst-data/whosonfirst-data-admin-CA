@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
     "geom:area_square_m":3873317.182494,
-    "geom:bbox":"-103.7497197,53.510929,-103.7007899,53.5254456",
+    "geom:bbox":"-103.74972,53.510929,-103.70079,53.525446",
     "geom:latitude":53.517004,
-    "geom:longitude":-103.729364,
+    "geom:longitude":-103.729365,
     "iso:country":"CA",
     "lbl:latitude":53.518215,
     "lbl:longitude":-103.733791,
@@ -19,20 +19,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0629 \u062a\u0648\u0628\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09ac\u09bf\u09a8 \u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Tobin Lake"
     ],
     "name:ces_x_preferred":[
         "Tobin Lake"
     ],
+    "name:deu_x_preferred":[
+        "Tobin Lake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u03a4\u03cc\u03bc\u03c0\u03b9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Tobin Lake"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0686\u0647 \u062a\u0648\u0628\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Tobin Lake"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05d8\u05d5\u05d1\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094b\u092c\u093f\u0928 \u091d\u0940\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Tobin-t\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Tobin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30fc\u30d3\u30f3\u8caf\u6c34\u6c60"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ube48 \ub808\uc774\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Tobin Lake"
+    ],
+    "name:pol_x_preferred":[
+        "Tobin Lake"
+    ],
+    "name:por_x_preferred":[
+        "Lago Tobin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0432\u043e\u0434\u043e\u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435 \u0422\u043e\u0431\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Tobin"
+    ],
     "name:swe_x_preferred":[
         "Tobin Lake"
+    ],
+    "name:tur_x_preferred":[
+        "Tobin G\u00f6l\u00fc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043e\u0437\u0435\u0440\u043e \u0422\u043e\u0431\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0628\u0646 \u062c\u06be\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Tobin"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6258\u5bbe\u6e56"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6258\u8cd3\u6e56"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Saskatchewan",
@@ -65,7 +131,7 @@
         "wd:id":"Q7811695"
     },
     "wof:country":"CA",
-    "wof:geomhash":"ffd716ddda7ae125b751ec8f570d7823",
+    "wof:geomhash":"dad69a9ea65abf9a7c91c053b61d49fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519400,
+    "wof:lastmodified":1636414332,
     "wof:name":"Tobin Lake",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",
@@ -90,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.7497197,
+    -103.74972,
     53.510929,
-    -103.7007899,
-    53.5254456
+    -103.70079,
+    53.525446
 ],
-  "geometry": {"coordinates":[[[-103.7395209,53.5110017],[-103.73982239999999,53.5110016],[-103.74460550000001,53.510999],[-103.74463299999999,53.5109361],[-103.744634,53.5109361],[-103.7449654,53.5109357],[-103.7451094,53.5109355],[-103.7497197,53.510929],[-103.74967239999999,53.5181875],[-103.7496689,53.5187155],[-103.7496244,53.5254456],[-103.73751590000001,53.5254302],[-103.72540739999999,53.5254134],[-103.7254361,53.5181856],[-103.725133,53.5181862],[-103.7129644,53.518209],[-103.70079629999999,53.5182304],[-103.7007936,53.515136],[-103.7007899,53.5110648],[-103.7129753,53.5110373],[-103.72516160000001,53.5110088],[-103.7254647,53.5110081],[-103.73759010000001,53.5110027],[-103.7377089,53.5110026],[-103.7395209,53.5110017]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-103.739521,53.511002],[-103.739822,53.511002],[-103.744606,53.510999],[-103.74463299999999,53.510936],[-103.744634,53.510936],[-103.74496499999999,53.510936],[-103.745109,53.510936],[-103.74972,53.510929],[-103.749672,53.518188],[-103.749669,53.518715],[-103.749624,53.525446],[-103.737516,53.52543],[-103.725407,53.525413],[-103.725436,53.518186],[-103.725133,53.518186],[-103.712964,53.518209],[-103.700796,53.51823],[-103.700794,53.515136],[-103.70079,53.511065],[-103.712975,53.511037],[-103.725162,53.511009],[-103.725465,53.511008],[-103.73759,53.511003],[-103.737709,53.511003],[-103.739521,53.511002]]],"type":"Polygon"}
 }

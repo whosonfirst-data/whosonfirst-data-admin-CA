@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.8333364276,49.7833294872,-92.8333364276,49.7833294872",
+    "geom:bbox":"-92.833336,49.783329,-92.833336,49.783329",
     "geom:latitude":49.783329,
     "geom:longitude":-92.833336,
     "iso:country":"CA",
@@ -46,8 +46,14 @@
     "name:guj_x_preferred":[
         "\u0aa1\u0acd\u0ab0\u0abe\u0aaf\u0aa1\u0ac7\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05d9\u05d9\u05d3\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u094d\u0930\u093e\u0921\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Dryden"
     ],
     "name:ind_x_preferred":[
         "Dryden"
@@ -241,7 +247,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130970,
-    "wof:geomhash":"0cb26860f46badd34e4ad644850b50fd",
+    "wof:geomhash":"0017b0f49614f52c6f12299d3bb8c4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -252,7 +258,7 @@
         }
     ],
     "wof:id":1141908747,
-    "wof:lastmodified":1561844599,
+    "wof:lastmodified":1636414461,
     "wof:name":"Dryden",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
@@ -264,10 +270,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.83333642756719,
-    49.78332948719464,
-    -92.83333642756719,
-    49.78332948719464
+    -92.833336,
+    49.783329,
+    -92.833336,
+    49.783329
 ],
-  "geometry": {"coordinates":[-92.83333642756719,49.78332948719464],"type":"Point"}
+  "geometry": {"coordinates":[-92.833336,49.783329],"type":"Point"}
 }

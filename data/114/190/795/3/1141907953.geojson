@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-131.833281496,53.2404052929,-131.833281496,53.2404052929",
+    "geom:bbox":"-131.833281,53.240405,-131.833281,53.240405",
     "geom:latitude":53.240405,
     "geom:longitude":-131.833281,
     "iso:country":"CA",
@@ -19,19 +19,73 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062f\u0633\u0628\u064a\u062a\u060c \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8\u09cd\u09aa\u09bf\u099f"
+    ],
+    "name:deu_x_preferred":[
+        "Sandspit"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03c3\u03c0\u03b9\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Sandspit"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062f\u0627\u0633\u067e\u06cc\u062a"
+    ],
     "name:fin_x_preferred":[
+        "Sandspit"
+    ],
+    "name:fra_x_preferred":[
+        "Sandspit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d3\u05e1\u05e4\u05d9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u0921\u0938\u094d\u092a\u093f\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Sandspit"
+    ],
+    "name:ind_x_preferred":[
         "Sandspit"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c9\u30b9\u30d4\u30c3\u30c8"
     ],
+    "name:kor_x_preferred":[
+        "\uc0cc\ub4dc\uc2a4\ud54f"
+    ],
     "name:nld_x_preferred":[
         "Sandspit"
     ],
+    "name:pol_x_preferred":[
+        "Sandspit"
+    ],
     "name:por_x_preferred":[
+        "Sandspit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0441\u043f\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Sandspit"
+    ],
+    "name:swe_x_preferred":[
+        "Sandspit"
+    ],
+    "name:tur_x_preferred":[
+        "Sandspit"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0434\u0441\u043f\u0456\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0688\u0633\u067e\u0679"
+    ],
+    "name:vie_x_preferred":[
         "Sandspit"
     ],
     "ne:ADM0CAP":0.0,
@@ -142,7 +196,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130793,
-    "wof:geomhash":"302628fa2052a23bcb55660fa52aad02",
+    "wof:geomhash":"f2d5dc21fdfa3f3b02c7103489f1b87e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +207,7 @@
         }
     ],
     "wof:id":1141907953,
-    "wof:lastmodified":1561844601,
+    "wof:lastmodified":1636414469,
     "wof:name":"Sandspit",
     "wof:parent_id":890456453,
     "wof:placetype":"locality",
@@ -165,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -131.83328149608263,
-    53.24040529287271,
-    -131.83328149608263,
-    53.24040529287271
+    -131.833281,
+    53.240405,
+    -131.833281,
+    53.240405
 ],
-  "geometry": {"coordinates":[-131.83328149608263,53.24040529287271],"type":"Point"}
+  "geometry": {"coordinates":[-131.833281,53.240405],"type":"Point"}
 }

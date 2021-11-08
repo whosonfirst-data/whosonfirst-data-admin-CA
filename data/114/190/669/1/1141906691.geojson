@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-55.5830003272,49.9670133658,-55.5830003272,49.9670133658",
+    "geom:bbox":"-55.583,49.967013,-55.583,49.967013",
     "geom:latitude":49.967013,
     "geom:longitude":-55.583,
     "iso:country":"CA",
@@ -18,17 +18,77 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0633\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09b8\u09cd\u0995\u09bf\u09df\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "La Scie"
+    ],
+    "name:deu_x_preferred":[
+        "La Scie"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a3\u03ba\u03b9\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
         "LaScie"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e1\u05e7\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0936\u093e\u0907"
+    ],
+    "name:hun_x_preferred":[
+        "La Scie"
+    ],
+    "name:ind_x_preferred":[
+        "La Scie"
+    ],
+    "name:ita_x_preferred":[
+        "La Scie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b7\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c \uc2dc"
+    ],
     "name:nld_x_preferred":[
         "LaScie"
     ],
+    "name:pol_x_preferred":[
+        "La Scie"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "La Scie"
+    ],
     "name:swe_x_preferred":[
         "La Scie"
+    ],
+    "name:tur_x_preferred":[
+        "La Scie"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u0627\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "La Scie"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u897f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u897f\u8036"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -136,7 +196,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130626,
-    "wof:geomhash":"271facb70f3cdd5302829895ee5c9830",
+    "wof:geomhash":"1e70f4f8ccb196550c91bb7d79883dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +207,7 @@
         }
     ],
     "wof:id":1141906691,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414462,
     "wof:name":"La Scie",
     "wof:parent_id":1158869015,
     "wof:placetype":"locality",
@@ -157,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -55.58300032715778,
-    49.96701336577632,
-    -55.58300032715778,
-    49.96701336577632
+    -55.583,
+    49.967013,
+    -55.583,
+    49.967013
 ],
-  "geometry": {"coordinates":[-55.58300032715778,49.96701336577632],"type":"Point"}
+  "geometry": {"coordinates":[-55.583,49.967013],"type":"Point"}
 }

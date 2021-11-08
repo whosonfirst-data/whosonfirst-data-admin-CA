@@ -32,6 +32,9 @@
     "name:azb_x_preferred":[
         "\u0628\u0631\u0648\u0645\u0644\u06cc"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09ae\u09b2\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Bromley"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0930\u0949\u092e\u0932\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Bromley"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ed\u30e0\u30ea\u30fc"
@@ -95,7 +101,7 @@
         "gn:id":5909393
     },
     "wof:country":"CA",
-    "wof:geomhash":"7bf3ec38de11bfd9c1c7f0897ede32ed",
+    "wof:geomhash":"283f0500523a076ed1cebf5d6443bcfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1276330035,
-    "wof:lastmodified":1566519107,
+    "wof:lastmodified":1636414300,
     "wof:name":"Bromley",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",
@@ -116,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.88403000000002,
-    45.53964000000001,
-    -76.88403000000002,
-    45.53964000000001
+    -76.88403,
+    45.53964,
+    -76.88403,
+    45.53964
 ],
-  "geometry": {"coordinates":[-76.88403000000002,45.53964000000001],"type":"Point"}
+  "geometry": {"coordinates":[-76.88403,45.53964],"type":"Point"}
 }

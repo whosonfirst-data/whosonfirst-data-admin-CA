@@ -102,7 +102,13 @@
         "Narva"
     ],
     "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e8\u05d5\u05d5\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e0\u05e8\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0930\u094d\u0935\u093e"
     ],
     "name:hrv_x_preferred":[
         "Narva"
@@ -233,6 +239,9 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0432\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0648\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Narva"
     ],
@@ -240,6 +249,9 @@
         "Narv"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Narva"
+    ],
+    "name:vie_x_variant":[
         "Narva"
     ],
     "name:vol_x_preferred":[
@@ -260,7 +272,7 @@
         "gn:id":6086109
     },
     "wof:country":"CA",
-    "wof:geomhash":"e344443c2c9641cd9724c6a6e186662c",
+    "wof:geomhash":"2fc4bba10f3f36a20b3c03b6d042dbf0",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -268,7 +280,7 @@
         }
     ],
     "wof:id":1209608437,
-    "wof:lastmodified":1566519178,
+    "wof:lastmodified":1636414309,
     "wof:name":"Narva",
     "wof:parent_id":85633041,
     "wof:placetype":"locality",
@@ -278,10 +290,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.35618000000002,
+    -81.35618,
     44.19851,
-    -81.35618000000002,
+    -81.35618,
     44.19851
 ],
-  "geometry": {"coordinates":[-81.35618000000002,44.19851],"type":"Point"}
+  "geometry": {"coordinates":[-81.35617999999999,44.19851],"type":"Point"}
 }
