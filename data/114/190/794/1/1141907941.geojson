@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.0832788511,55.8503751822,-92.0832788511,55.8503751822",
+    "geom:bbox":"-92.083279,55.850375,-92.083279,55.850375",
     "geom:latitude":55.850375,
     "geom:longitude":-92.083279,
     "iso:country":"CA",
@@ -21,22 +21,61 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0627\u062a\u0627\u0648\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09ae\u09be\u09a4\u09cd\u09a4\u09be\u0993\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Shamattawa"
     ],
     "name:deu_x_preferred":[
         "Shamattawa"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03b1\u03c4\u03ac\u03b2\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Shamattawa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645\u0627\u062a\u0627\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Shamattawa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05d0\u05d8\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u092e\u093e\u0924\u094d\u0924\u093e\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Shamattawa"
+    ],
+    "name:ind_x_preferred":[
+        "Shamattawa"
+    ],
+    "name:ita_x_preferred":[
+        "Shamattawa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30de\u30bf\u30ef"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ub9c8\ud0c0\uc640"
+    ],
     "name:nld_x_preferred":[
         "Shamattawa"
     ],
+    "name:pol_x_preferred":[
+        "Shamattawa"
+    ],
     "name:por_x_preferred":[
+        "Shamattawa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u0442\u0430\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
         "Shamattawa"
     ],
     "name:swe_x_preferred":[
@@ -44,6 +83,24 @@
     ],
     "name:swe_x_variant":[
         "Fort Chipewyan"
+    ],
+    "name:tur_x_preferred":[
+        "Shamattawa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u0442\u0442\u0430\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0645\u0627\u0679\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Shamattawa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6c99\u739b\u5854\u74e6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c99\u746a\u5854\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -153,7 +210,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130791,
-    "wof:geomhash":"92f92bf7387e531dcf6219cf40876d8a",
+    "wof:geomhash":"3f82a1fc04fdf9e085269c70e38ae8da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +221,7 @@
         }
     ],
     "wof:id":1141907941,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414466,
     "wof:name":"Shamattawa",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",
@@ -174,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.0832788510669,
-    55.85037518220599,
-    -92.0832788510669,
-    55.85037518220599
+    -92.083279,
+    55.850375,
+    -92.083279,
+    55.850375
 ],
-  "geometry": {"coordinates":[-92.08327885106689,55.85037518220599],"type":"Point"}
+  "geometry": {"coordinates":[-92.083279,55.850375],"type":"Point"}
 }

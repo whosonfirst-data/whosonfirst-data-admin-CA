@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.666595705,57.8832226757,-101.666595705,57.8832226757",
+    "geom:bbox":"-101.666596,57.883223,-101.666596,57.883223",
     "geom:latitude":57.883223,
     "geom:longitude":-101.666596,
     "iso:country":"CA",
@@ -18,11 +18,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0648\u0634\u064a\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09b6\u09c7\u099f"
+    ],
     "name:ces_x_preferred":[
         "Brochet"
     ],
+    "name:deu_x_preferred":[
+        "Brochet"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03bf\u03c3\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Brochet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0686\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Brochet"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d5\u05e9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u094b\u0915\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Brochet"
+    ],
+    "name:ind_x_preferred":[
+        "Brochet"
+    ],
+    "name:ita_x_preferred":[
+        "Brochet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ed\u30b7\u30a7\u30c3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub85c\uc170"
+    ],
+    "name:nld_x_preferred":[
+        "Brochet"
+    ],
+    "name:pol_x_preferred":[
+        "Brochet"
+    ],
+    "name:por_x_preferred":[
+        "Brochet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0448\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Brochet"
+    ],
+    "name:swe_x_preferred":[
+        "Brochet"
+    ],
+    "name:tur_x_preferred":[
+        "Brochet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u043e\u0448\u0435\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0648\u0634\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Brochet"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e03\u7f57\u8c22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u7f85\u8b1d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -132,7 +207,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130969,
-    "wof:geomhash":"aae124992b5579ba225d5ed0cb3705ef",
+    "wof:geomhash":"ce49f679c93092f31b3b832e7b08a5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +218,7 @@
         }
     ],
     "wof:id":1141908735,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414462,
     "wof:name":"Brochet",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",
@@ -153,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -101.6665957049463,
-    57.88322267570373,
-    -101.6665957049463,
-    57.88322267570373
+    -101.666596,
+    57.883223,
+    -101.666596,
+    57.883223
 ],
-  "geometry": {"coordinates":[-101.6665957049463,57.88322267570373],"type":"Point"}
+  "geometry": {"coordinates":[-101.666596,57.883223],"type":"Point"}
 }

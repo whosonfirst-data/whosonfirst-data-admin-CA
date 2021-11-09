@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-128.117280926,52.1484047639,-128.117280926,52.1484047639",
+    "geom:bbox":"-128.117281,52.148405,-128.117281,52.148405",
     "geom:latitude":52.148405,
     "geom:longitude":-128.117281,
     "iso:country":"CA",
@@ -21,23 +21,80 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627 \u0628\u064a\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09cd\u09b2\u09be \u09ac\u09c7\u09b2\u09cd\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Bella Bella"
+    ],
+    "name:deu_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03bb\u03b1 \u039c\u03c0\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bella Bella"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627 \u0628\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Bella Bella"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d4 \u05d1\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u093e \u092c\u0947\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:ind_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:ita_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub77c \ubca8\ub77c"
+    ],
     "name:nld_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:pol_x_preferred":[
         "Bella Bella"
     ],
     "name:por_x_preferred":[
         "Bella Bella"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u0430-\u0411\u0435\u043b\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bella Bella"
+    ],
     "name:swe_x_preferred":[
         "Bella Bella"
+    ],
+    "name:tur_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u0430-\u0411\u0435\u043b\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u0627 \u0628\u06cc\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bella Bella"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u62c9\u8d1d\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u62c9\u8c9d\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -147,7 +204,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130792,
-    "wof:geomhash":"39c4e9f205efcf499d5616e8240853c8",
+    "wof:geomhash":"b700d2f1dab6815b63ae16b226803d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -158,7 +215,7 @@
         }
     ],
     "wof:id":1141907951,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414469,
     "wof:name":"Bella Bella",
     "wof:parent_id":890457277,
     "wof:placetype":"locality",
@@ -168,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -128.11728092640635,
-    52.14840476389702,
-    -128.11728092640635,
-    52.14840476389702
+    -128.117281,
+    52.148405,
+    -128.117281,
+    52.148405
 ],
-  "geometry": {"coordinates":[-128.11728092640635,52.14840476389702],"type":"Point"}
+  "geometry": {"coordinates":[-128.11728099999999,52.148405],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.6666465675,47.5000063264,-79.6666465675,47.5000063264",
+    "geom:bbox":"-79.666647,47.500006,-79.666647,47.500006",
     "geom:latitude":47.500006,
     "geom:longitude":-79.666647,
     "iso:country":"CA",
@@ -22,6 +22,12 @@
         "New Liskeard"
     ],
     "name:eng_x_preferred":[
+        "New Liskeard"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d5 \u05dc\u05d9\u05e1\u05e7\u05d0\u05e8\u05d3"
+    ],
+    "name:hun_x_preferred":[
         "New Liskeard"
     ],
     "name:nld_x_preferred":[
@@ -138,7 +144,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130623,
-    "wof:geomhash":"f808bbc853e3fb7ecdef73b5f31fb36c",
+    "wof:geomhash":"e544014616bcbe09be743d000f04e51d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1141906667,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1636414464,
     "wof:name":"New Liskeard",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",
@@ -159,10 +165,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.66664656748844,
-    47.50000632637841,
-    -79.66664656748844,
-    47.50000632637841
+    -79.666647,
+    47.500006,
+    -79.666647,
+    47.500006
 ],
-  "geometry": {"coordinates":[-79.66664656748844,47.50000632637841],"type":"Point"}
+  "geometry": {"coordinates":[-79.666647,47.500006],"type":"Point"}
 }

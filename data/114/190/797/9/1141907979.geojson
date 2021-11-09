@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.8333012306,51.0336924429,-93.8333012306,51.0336924429",
+    "geom:bbox":"-93.833301,51.033692,-93.833301,51.033692",
     "geom:latitude":51.033692,
     "geom:longitude":-93.833301,
     "iso:country":"CA",
@@ -21,11 +21,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062d\u064a\u0631\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u09a1 \u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Madsen"
     ],
     "name:deu_x_preferred":[
         "Red Lake"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03bd\u03c4 \u039b\u03ad\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Red Lake"
@@ -39,8 +45,26 @@
     "name:fra_x_preferred":[
         "Red Lake"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d2\u05dd \u05d4\u05d0\u05d3\u05d5\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0921 \u0932\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Red Lake"
+    ],
+    "name:ind_x_preferred":[
+        "Red Lake"
+    ],
+    "name:ita_x_preferred":[
+        "Red Lake"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30c3\u30c9\u30ec\u30a4\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ub4dc \ub808\uc774\ud06c"
     ],
     "name:nld_x_preferred":[
         "Red Lake"
@@ -51,14 +75,29 @@
     "name:por_x_preferred":[
         "Red Lake"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0434-\u041b\u0435\u0439\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Red Lake"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0434 \u041b\u0435\u0458\u043a"
     ],
     "name:swe_x_preferred":[
         "Madsen"
     ],
+    "name:tur_x_preferred":[
+        "Red Lake"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0434-\u041b\u0435\u0439\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0688 \u0644\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Red Lake"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -168,7 +207,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130798,
-    "wof:geomhash":"0f910e49f921bf6d32943ed62c450428",
+    "wof:geomhash":"345e56aef332407a63cbda3d8854e06c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -179,7 +218,7 @@
         }
     ],
     "wof:id":1141907979,
-    "wof:lastmodified":1566520623,
+    "wof:lastmodified":1636414455,
     "wof:name":"Red Lake",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
@@ -189,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.83330123063115,
-    51.03369244292901,
-    -93.83330123063115,
-    51.03369244292901
+    -93.833301,
+    51.033692,
+    -93.833301,
+    51.033692
 ],
-  "geometry": {"coordinates":[-93.83330123063115,51.03369244292901],"type":"Point"}
+  "geometry": {"coordinates":[-93.83330100000001,51.033692],"type":"Point"}
 }

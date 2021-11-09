@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-62.2499835629,82.4833231804,-62.2499835629,82.4833231804",
+    "geom:bbox":"-62.249984,82.483323,-62.249984,82.483323",
     "geom:latitude":82.483323,
     "geom:longitude":-62.249984,
     "iso:country":"CA",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Alert"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0631\u062a"
     ],
     "name:arg_x_preferred":[
         "Alert"
@@ -35,6 +38,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u0435\u0440\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09cd\u09af\u09be\u09b0\u09cd\u099f"
     ],
     "name:bre_x_preferred":[
         "Alert"
@@ -234,6 +240,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u0440\u0442"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0631\u0679"
+    ],
     "name:vec_x_preferred":[
         "Alert"
     ],
@@ -366,7 +375,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131015,
-    "wof:geomhash":"100227053387d0312b6c1c282d559844",
+    "wof:geomhash":"39c3a4791804edf639da8b01af4892da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -377,7 +386,7 @@
         }
     ],
     "wof:id":1141909039,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414466,
     "wof:name":"Alert",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -387,10 +396,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.24998356286153,
-    82.48332318035943,
-    -62.24998356286153,
-    82.48332318035943
+    -62.249984,
+    82.483323,
+    -62.249984,
+    82.483323
 ],
-  "geometry": {"coordinates":[-62.24998356286153,82.48332318035943],"type":"Point"}
+  "geometry": {"coordinates":[-62.249984,82.483323],"type":"Point"}
 }

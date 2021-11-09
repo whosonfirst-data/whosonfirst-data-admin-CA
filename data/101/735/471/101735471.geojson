@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.059147,
     "geom:area_square_m":255668670.772843,
-    "geom:bbox":"-93.9169774,69.4367119,-93.3334865,69.6338987",
+    "geom:bbox":"-93.916977,69.436712,-93.333487,69.633899",
     "geom:latitude":69.533309,
     "geom:longitude":-93.635728,
     "iso:country":"CA",
@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u0648\u064a\u0648\u0627\u0643"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b2\u09cb\u09df\u09be\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043b\u043e\u0439\u043e\u0430\u043a"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:deu_x_preferred":[
         "Taloyoak"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03bf\u03b3\u03b9\u03bf\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Taloyoak"
@@ -43,8 +49,20 @@
     "name:fra_x_preferred":[
         "Taloyoak"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05d5\u05d9\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093e\u0932\u094b\u092f\u094b\u0906\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Taloyoak"
+    ],
     "name:iku_x_preferred":[
         "\u1455\u14d7\u1550\u152a\u140a\u1585"
+    ],
+    "name:ind_x_preferred":[
+        "Taloyoak"
     ],
     "name:ita_x_preferred":[
         "Taloyoak"
@@ -52,10 +70,16 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30ed\u30e8\u30fc\u30af"
     ],
+    "name:kor_x_preferred":[
+        "\ud0c8\ub85c\uc694\ud06c"
+    ],
     "name:nld_x_preferred":[
         "Taloyoak"
     ],
     "name:nob_x_preferred":[
+        "Taloyoak"
+    ],
+    "name:pol_x_preferred":[
         "Taloyoak"
     ],
     "name:por_x_preferred":[
@@ -63,6 +87,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u043e\u0439\u043e\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Taloyoak"
     ],
     "name:sqi_x_preferred":[
         "Taloyoak"
@@ -75,6 +102,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u043e\u0439\u043e\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0644\u0648\u06cc\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Taloyoak"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -210,7 +243,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"0583a75467587180db51fb3861039cbd",
+    "wof:geomhash":"fdde56ca6ecbd9f00fd5289dd11beab0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -224,7 +257,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309872,
+    "wof:lastmodified":1636414362,
     "wof:name":"Taloyoak",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -235,10 +268,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.9169774,
-    69.4367119,
-    -93.3334865,
-    69.6338987
+    -93.916977,
+    69.436712,
+    -93.333487,
+    69.633899
 ],
-  "geometry": {"coordinates":[[[-93.88460569999999,69.4399104],[-93.8877744,69.439401],[-93.90186300000001,69.4382793],[-93.9108617,69.43688710000001],[-93.91697739999999,69.43671190000001],[-93.9168384,69.5172281],[-93.50015860000001,69.6338987],[-93.33348650000001,69.5838962],[-93.4566835,69.50054280000001],[-93.8834356,69.44019849999999],[-93.88460569999999,69.4399104]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-93.88460600000001,69.43991],[-93.88777399999999,69.439401],[-93.90186300000001,69.43827899999999],[-93.91086199999999,69.436887],[-93.916977,69.436712],[-93.916838,69.517228],[-93.500159,69.633899],[-93.33348700000001,69.583896],[-93.456683,69.50054299999999],[-93.883436,69.440198],[-93.88460600000001,69.43991]]],"type":"Polygon"}
 }

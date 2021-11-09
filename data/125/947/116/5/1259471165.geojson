@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0989\u0987\u09a8\u09cd\u099f\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Winton"
     ],
     "name:deu_x_preferred":[
         "Winton"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03af\u03bd\u03c4\u03bf\u03bd"
     ],
     "name:fin_x_preferred":[
         "Winton"
@@ -41,8 +47,17 @@
     "name:fra_x_preferred":[
         "Winton"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0902\u091f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Winton"
+    ],
     "name:ita_x_preferred":[
         "Winton"
+    ],
+    "name:kor_x_preferred":[
+        "\uc708\ud2bc"
     ],
     "name:nds_x_preferred":[
         "Winton"
@@ -65,6 +80,18 @@
     "name:swe_x_preferred":[
         "Winton"
     ],
+    "name:tur_x_preferred":[
+        "Winton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0646\u0679\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Winton"
+    ],
     "name:vol_x_preferred":[
         "Winton"
     ],
@@ -80,7 +107,7 @@
         "gn:id":6183365
     },
     "wof:country":"CA",
-    "wof:geomhash":"f70b3429367aeadea4a5bc7db0af9fd4",
+    "wof:geomhash":"2644c05b9d275bb86edbeae57e29f488",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -91,7 +118,7 @@
         }
     ],
     "wof:id":1259471165,
-    "wof:lastmodified":1566520547,
+    "wof:lastmodified":1636414446,
     "wof:name":"Winton",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",
@@ -102,9 +129,9 @@
 },
   "bbox": [
     -105.36771,
-    53.13336999999999,
+    53.13337,
     -105.36771,
-    53.13336999999999
+    53.13337
 ],
-  "geometry": {"coordinates":[-105.36771,53.13336999999999],"type":"Point"}
+  "geometry": {"coordinates":[-105.36771,53.13337],"type":"Point"}
 }

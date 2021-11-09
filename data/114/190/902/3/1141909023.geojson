@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.833289634,53.9665883577,-97.833289634,53.9665883577",
+    "geom:bbox":"-97.83329,53.966588,-97.83329,53.966588",
     "geom:latitude":53.966588,
     "geom:longitude":-97.83329,
     "iso:country":"CA",
@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u0648\u0627\u064a \u0647\u0627\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u0993\u09df\u09c7 \u09b9\u09be\u0989\u09b8"
+    ],
     "name:deu_x_preferred":[
         "Norway House"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c1\u03b3\u03bf\u03c5\u03b5\u03ca \u03a7\u03ac\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Norway House"
@@ -33,8 +42,26 @@
     "name:fra_x_preferred":[
         "Norway House"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8\u05d5\u05d5\u05d9 \u05d4\u05d0\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0935\u0947 \u0939\u093e\u0909\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Norway House"
+    ],
+    "name:ind_x_preferred":[
+        "Norway House"
+    ],
+    "name:ita_x_preferred":[
+        "Norway House"
+    ],
     "name:jpn_x_preferred":[
         "\u30ce\u30eb\u30a6\u30a7\u30fc\u30fb\u30cf\u30a6\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ub974\uc6e8\uc774 \ud558\uc6b0\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Norway House"
@@ -47,6 +74,33 @@
     ],
     "name:por_x_preferred":[
         "Norway House"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0443\u044d\u0439-\u0425\u0430\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Norway House"
+    ],
+    "name:swe_x_preferred":[
+        "Norway House"
+    ],
+    "name:tur_x_preferred":[
+        "Norway House"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0432\u0435\u0439-\u0425\u0430\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0648\u06d2 \u06c1\u0627\u0624\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Norway House"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u632a\u5a01\u8c6a\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8afe\u5a01\u8c6a\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -156,7 +210,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131013,
-    "wof:geomhash":"e741d433c2013f6d31bbdd71d0cdcad1",
+    "wof:geomhash":"3a99c18e22d7638c6ac508316d95eab6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -167,7 +221,7 @@
         }
     ],
     "wof:id":1141909023,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414468,
     "wof:name":"Norway House",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",
@@ -177,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.83328963396741,
-    53.96658835765419,
-    -97.83328963396741,
-    53.96658835765419
+    -97.83329,
+    53.966588,
+    -97.83329,
+    53.966588
 ],
-  "geometry": {"coordinates":[-97.83328963396741,53.96658835765419],"type":"Point"}
+  "geometry": {"coordinates":[-97.83329000000001,53.966588],"type":"Point"}
 }

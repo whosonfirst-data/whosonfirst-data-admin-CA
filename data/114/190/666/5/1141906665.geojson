@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.3833492449,44.1666697378,-77.3833492449,44.1666697378",
+    "geom:bbox":"-77.383349,44.16667,-77.383349,44.16667",
     "geom:latitude":44.16667,
     "geom:longitude":-77.383349,
     "iso:country":"CA",
@@ -65,6 +65,9 @@
         "\u05d1\u05dc\u05d5\u05d5\u05d9\u05dc"
     ],
     "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u0947\u0935\u093f\u0932"
+    ],
+    "name:hin_x_variant":[
         "\u092c\u0947\u0932\u0947\u0935\u093f\u0932\u0947"
     ],
     "name:hun_x_preferred":[
@@ -289,7 +292,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130623,
-    "wof:geomhash":"d15ecc4c287943356e57518c908a9a1a",
+    "wof:geomhash":"08808fbefbe21b8d8d90d742e7013d41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":1141906665,
-    "wof:lastmodified":1561844600,
+    "wof:lastmodified":1636414464,
     "wof:name":"Belleville",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",
@@ -312,10 +315,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.38334924488822,
-    44.16666973782321,
-    -77.38334924488822,
-    44.16666973782321
+    -77.383349,
+    44.16667,
+    -77.383349,
+    44.16667
 ],
-  "geometry": {"coordinates":[-77.38334924488822,44.16666973782321],"type":"Point"}
+  "geometry": {"coordinates":[-77.383349,44.16667],"type":"Point"}
 }

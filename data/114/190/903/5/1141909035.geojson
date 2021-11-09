@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.8833160824,62.8500254508,-69.8833160824,62.8500254508",
+    "geom:bbox":"-69.883316,62.850025,-69.883316,62.850025",
     "geom:latitude":62.850025,
     "geom:longitude":-69.883316,
     "iso:country":"CA",
@@ -57,8 +57,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aae\u0abf\u0ab0\u0ac1\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05de\u05d9\u05e8\u05d5\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u092e\u094d\u092e\u093f\u0930\u0941\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Kimmirut"
     ],
     "name:iku_x_preferred":[
         "\u146d\u14bb\u14a5\u1548\u1466"
@@ -248,7 +254,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131015,
-    "wof:geomhash":"9be8e2cbe4630345fc8c8f995e68c0eb",
+    "wof:geomhash":"f925132116200a9218d456dacf3dd375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -258,7 +264,7 @@
         }
     ],
     "wof:id":1141909035,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414467,
     "wof:name":"Kimmirut",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -268,10 +274,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.88331608242333,
-    62.85002545078868,
-    -69.88331608242333,
-    62.85002545078868
+    -69.883316,
+    62.850025,
+    -69.883316,
+    62.850025
 ],
-  "geometry": {"coordinates":[-69.88331608242333,62.85002545078868],"type":"Point"}
+  "geometry": {"coordinates":[-69.88331599999999,62.850025],"type":"Point"}
 }

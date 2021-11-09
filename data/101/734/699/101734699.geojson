@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.151933,
     "geom:area_square_m":1028032068.842415,
-    "geom:bbox":"-101.3333344,56.6817707,-100.8000003,56.966668",
+    "geom:bbox":"-101.333334,56.681771,-100.8,56.966668",
     "geom:latitude":56.82423,
     "geom:longitude":-101.066673,
     "gn:id":"6062333,6062335",
@@ -20,14 +20,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646 \u0644\u064a\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09a8 \u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Lynn Lake"
     ],
     "name:ces_x_preferred":[
         "Lynn Lake"
     ],
+    "name:deu_x_preferred":[
+        "Lynn Lake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bd \u039b\u03ad\u03b9\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Lynn Lake"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646 \u0644\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "Lynn Lake"
@@ -35,14 +50,38 @@
     "name:fra_x_preferred":[
         "Lynn Lake"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05dc\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0928 \u0932\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Lynn Lake"
+    ],
+    "name:ind_x_preferred":[
+        "Lynn Lake"
+    ],
     "name:ita_x_preferred":[
         "Lynn Lake"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30ec\u30a4\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9b0 \ub808\uc774\ud06c"
     ],
     "name:nld_x_preferred":[
         "Lynn Lake"
     ],
+    "name:pol_x_preferred":[
+        "Lynn Lake"
+    ],
     "name:por_x_preferred":[
         "Lynn Lake"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u043d-\u041b\u0435\u0439\u043a"
     ],
     "name:spa_x_preferred":[
         "Lynn Lake"
@@ -52,6 +91,21 @@
     ],
     "name:swe_x_preferred":[
         "Lynn Lake"
+    ],
+    "name:tur_x_preferred":[
+        "Lynn Lake"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0646 \u0644\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Lynn Lake"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6797\u83b1\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6797\u6069\u6e56"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -185,7 +239,7 @@
         "naturalearth",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"391129390deefb4c39e79e139f99c716",
+    "wof:geomhash":"83bd5aedb225c58dd6533c9eff841e88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +250,7 @@
         }
     ],
     "wof:id":101734699,
-    "wof:lastmodified":1582309865,
+    "wof:lastmodified":1636414359,
     "wof:name":"Lynn Lake",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",
@@ -207,10 +261,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -101.3333344,
-    56.6817707,
-    -100.8000003,
+    -101.333334,
+    56.681771,
+    -100.8,
     56.966668
 ],
-  "geometry": {"coordinates":[[[-100.80000029999999,56.9666671],[-100.8000011,56.6818185],[-100.8123708,56.6818102],[-100.9718804,56.6817992],[-101.1313901,56.6817906],[-101.2908979,56.6817707],[-101.3333344,56.6817872],[-101.33333349999999,56.9666677],[-101.32684500000001,56.9666677],[-101.1658437,56.9666675],[-101.0048425,56.9666671],[-100.84384059999999,56.966668],[-100.80000029999999,56.9666671]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-100.8,56.966667],[-100.80000099999999,56.681818],[-100.812371,56.68181],[-100.97188,56.681799],[-101.13139,56.681791],[-101.290898,56.681771],[-101.33333399999999,56.681787],[-101.333333,56.966668],[-101.32684500000001,56.966668],[-101.16584400000001,56.966667],[-101.004842,56.966667],[-100.843841,56.966668],[-100.8,56.966667]]],"type":"Polygon"}
 }

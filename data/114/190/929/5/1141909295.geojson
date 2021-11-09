@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-105.033315269,69.1169555859,-105.033315269,69.1169555859",
+    "geom:bbox":"-105.033315,69.116956,-105.033315,69.116956",
     "geom:latitude":69.116956,
     "geom:longitude":-105.033315,
     "iso:country":"CA",
@@ -47,6 +47,9 @@
     ],
     "name:fra_x_preferred":[
         "Ikaluktutiak"
+    ],
+    "name:hun_x_preferred":[
+        "Cambridge Bay"
     ],
     "name:iku_x_preferred":[
         "Iqaluktutiaak"
@@ -199,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499131060,
-    "wof:geomhash":"c49123b1bd83ba937a390f9291948155",
+    "wof:geomhash":"ced5ddcefe7df11b5d299398a7725b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":1141909295,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414473,
     "wof:name":"Cambridge Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -220,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -105.0333152687619,
-    69.11695558590492,
-    -105.0333152687619,
-    69.11695558590492
+    -105.033315,
+    69.116956,
+    -105.033315,
+    69.116956
 ],
-  "geometry": {"coordinates":[-105.0333152687619,69.11695558590492],"type":"Point"}
+  "geometry": {"coordinates":[-105.033315,69.116956],"type":"Point"}
 }

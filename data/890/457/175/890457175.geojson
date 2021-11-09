@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-61.0472845,46.6075235,-61.0472845,46.6075235",
+    "geom:bbox":"-61.047285,46.607523,-61.047285,46.607523",
     "geom:latitude":46.607523,
     "geom:longitude":-61.047285,
     "gp:adm0":23424775,
@@ -18,6 +18,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Plateau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e9\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
         "Plateau"
     ],
     "name:nld_x_preferred":[
@@ -50,7 +56,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053124,
-    "wof:geomhash":"77ad2b95579bbbcd735c9de69581d90f",
+    "wof:geomhash":"dd748278bb83f3961f87e7941ba230d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890457175,
-    "wof:lastmodified":1566520228,
+    "wof:lastmodified":1636414410,
     "wof:name":"Plateau",
     "wof:parent_id":890458013,
     "wof:placetype":"locality",
@@ -72,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.0472845,
-    46.6075235,
-    -61.0472845,
-    46.6075235
+    -61.047285,
+    46.607523,
+    -61.047285,
+    46.607523
 ],
-  "geometry": {"coordinates":[-61.0472845,46.6075235],"type":"Point"}
+  "geometry": {"coordinates":[-61.047285,46.607523],"type":"Point"}
 }

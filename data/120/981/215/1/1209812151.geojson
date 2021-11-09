@@ -29,6 +29,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u0627\u0645\u064a\u062a\u0634\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09b0\u09be\u09ae\u09bf\u099a\u09bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c1\u03b1\u03bc\u03af\u03c4\u03c3\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u0645\u06cc\u0686\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e8\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0930\u093e\u092e\u093f\u091a\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Miramichi"
+    ],
+    "name:ind_x_preferred":[
+        "Miramichi"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ub77c\ubbf8\uce58"
+    ],
+    "name:pol_x_preferred":[
+        "Miramichi"
+    ],
+    "name:por_x_preferred":[
+        "Miramichi"
+    ],
+    "name:spa_x_preferred":[
+        "Miramichi"
+    ],
+    "name:tur_x_preferred":[
+        "Miramichi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u0645\u06cc\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Miramichi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7c73\u62c9\u7c73\u5947\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7c73\u62c9\u7c73\u5951"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,7 +93,7 @@
         "wk:page":"Miramichi%2C_Nova_Scotia"
     },
     "wof:country":"CA",
-    "wof:geomhash":"9d32961d000ec3e64c4e5f8c32b518db",
+    "wof:geomhash":"f95751ada9bf58d1b967ec05c30c0298",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1209812151,
-    "wof:lastmodified":1566519199,
+    "wof:lastmodified":1636414313,
     "wof:name":"Miramichi",
     "wof:parent_id":890458013,
     "wof:placetype":"locality",
@@ -63,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.31523000000001,
+    -61.31523,
     46.03344,
-    -61.31523000000001,
+    -61.31523,
     46.03344
 ],
-  "geometry": {"coordinates":[-61.31523000000001,46.03344],"type":"Point"}
+  "geometry": {"coordinates":[-61.31523,46.03344],"type":"Point"}
 }

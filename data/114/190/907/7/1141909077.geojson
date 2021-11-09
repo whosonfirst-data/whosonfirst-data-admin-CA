@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.6499827491,47.5999743846,-65.6499827491,47.5999743846",
+    "geom:bbox":"-65.649983,47.599974,-65.649983,47.599974",
     "geom:latitude":47.599974,
     "geom:longitude":-65.649983,
     "iso:country":"CA",
@@ -48,6 +48,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0925\u0930\u094d\u0938\u094d\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Bathurst"
     ],
     "name:ind_x_preferred":[
         "Bathurst"
@@ -241,7 +244,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131022,
-    "wof:geomhash":"a67467bb010f6f20a92548778cb9cadb",
+    "wof:geomhash":"2f11be08eb2bc21c86e2c21797689dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":1141909077,
-    "wof:lastmodified":1561844598,
+    "wof:lastmodified":1636414456,
     "wof:name":"Bathurst",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",
@@ -264,10 +267,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.6499827490731,
-    47.599974384647,
-    -65.6499827490731,
-    47.599974384647
+    -65.649983,
+    47.599974,
+    -65.649983,
+    47.599974
 ],
-  "geometry": {"coordinates":[-65.6499827490731,47.599974384647],"type":"Point"}
+  "geometry": {"coordinates":[-65.64998300000001,47.599974],"type":"Point"}
 }

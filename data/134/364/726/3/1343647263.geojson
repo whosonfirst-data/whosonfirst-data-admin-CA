@@ -32,6 +32,9 @@
     "name:azb_x_preferred":[
         "\u0645\u0646\u0632\u0641\u06cc\u0644\u062f"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09ab\u09bf\u09b2\u09cd\u09a1"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0441\u0444\u0438\u0439\u043b\u0434"
     ],
@@ -50,6 +53,9 @@
     "name:deu_x_preferred":[
         "Mansfield"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03c3\u03c6\u03b9\u03bb\u03bd\u03c4"
+    ],
     "name:est_x_preferred":[
         "Mansfield"
     ],
@@ -62,7 +68,13 @@
     "name:gle_x_preferred":[
         "Mansfield"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0928\u094d\u0938\u092b\u093c\u0940\u0932\u094d\u0921"
+    ],
     "name:ile_x_preferred":[
+        "Mansfield"
+    ],
+    "name:ind_x_preferred":[
         "Mansfield"
     ],
     "name:ita_x_preferred":[
@@ -137,7 +149,7 @@
         "gn:id":8556285
     },
     "wof:country":"CA",
-    "wof:geomhash":"1150c25da52fb5ae8e34b57157a0fd4d",
+    "wof:geomhash":"3bc7b5f4e50dda17d63b6cec6918cfeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":1343647263,
-    "wof:lastmodified":1566518872,
+    "wof:lastmodified":1636414267,
     "wof:name":"Mansfield",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",
@@ -159,9 +171,9 @@
 },
   "bbox": [
     -80.0336,
-    44.16934000000001,
+    44.16934,
     -80.0336,
-    44.16934000000001
+    44.16934
 ],
-  "geometry": {"coordinates":[-80.03360000000001,44.16934000000001],"type":"Point"}
+  "geometry": {"coordinates":[-80.03360000000001,44.16934],"type":"Point"}
 }

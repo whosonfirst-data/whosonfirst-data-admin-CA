@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.0333126239,52.3665568228,-97.0333126239,52.3665568228",
+    "geom:bbox":"-97.033313,52.366557,-97.033313,52.366557",
     "geom:latitude":52.366557,
     "geom:longitude":-97.033313,
     "iso:country":"CA",
@@ -18,14 +18,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u0628\u064a\u0631\u064a\u0646\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b0\u09c7\u09a8\u09cd\u09b8 \u09b0\u09bf\u09ad\u09be\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Berens River"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03c1\u03b5\u03bd\u03c2 \u03a1\u03af\u03b2\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Berens River"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0646\u0632 \u0631\u06cc\u0648\u0632"
     ],
     "name:fin_x_preferred":[
         "Berens River"
     ],
     "name:fra_x_preferred":[
         "Berens River"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d4\u05e8 \u05d1\u05e8\u05e0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0930\u0947\u0902\u0938 \u0930\u093f\u0935\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Berens River"
+    ],
+    "name:ind_x_preferred":[
+        "Berens River"
+    ],
+    "name:ita_x_preferred":[
+        "Berens River"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ec\u30f3\u30ba\u30ea\u30d0\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub80c\uc2a4 \ub9ac\ubc84"
+    ],
+    "name:nld_x_preferred":[
+        "Berens River"
+    ],
+    "name:pol_x_preferred":[
+        "Berens River"
+    ],
+    "name:por_x_preferred":[
+        "Rio Berens"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043d\u0441-\u0420\u0438\u0432\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Berens"
+    ],
+    "name:swe_x_preferred":[
+        "Berens River"
+    ],
+    "name:tur_x_preferred":[
+        "Berens River"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043d\u0441-\u0420\u0456\u0432\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646\u0632 \u0631\u06cc\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Berens"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u4f26\u65af\u91cc\u5f17"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u502b\u65af\u6cb3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -135,7 +207,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130619,
-    "wof:geomhash":"3a6e895546a8630143ab94dcf33ac852",
+    "wof:geomhash":"7982f8aa72b75bf43c6e28888656a81c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +218,7 @@
         }
     ],
     "wof:id":1141906637,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414471,
     "wof:name":"Berens River",
     "wof:parent_id":1158869039,
     "wof:placetype":"locality",
@@ -156,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.03331262387314,
-    52.36655682281707,
-    -97.03331262387314,
-    52.36655682281707
+    -97.033313,
+    52.366557,
+    -97.033313,
+    52.366557
 ],
-  "geometry": {"coordinates":[-97.03331262387314,52.36655682281707],"type":"Point"}
+  "geometry": {"coordinates":[-97.03331300000001,52.366557],"type":"Point"}
 }

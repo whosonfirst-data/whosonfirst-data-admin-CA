@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.7833368344,48.0004150585,-84.7833368344,48.0004150585",
+    "geom:bbox":"-84.783337,48.000415,-84.783337,48.000415",
     "geom:latitude":48.000415,
     "geom:longitude":-84.783337,
     "iso:country":"CA",
@@ -19,17 +19,35 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u0648\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09be\u0993\u09df\u09be"
+    ],
     "name:deu_x_preferred":[
         "Wawa"
     ],
     "name:eng_x_preferred":[
         "Wawa"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Wawa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05dc\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Wawa"
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30ef"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\uc640"
     ],
     "name:nld_x_preferred":[
         "Wawa"
@@ -40,10 +58,25 @@
     "name:por_x_preferred":[
         "Wawa"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0432\u0430"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u0432\u0430"
     ],
     "name:swe_x_preferred":[
+        "Wawa"
+    ],
+    "name:tur_x_preferred":[
+        "Wawa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Wawa"
     ],
     "ne:ADM0CAP":0.0,
@@ -154,7 +187,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130796,
-    "wof:geomhash":"ffd061aceda781f90d72913a200ca876",
+    "wof:geomhash":"4cba86b353bde767867f4fce61c8d77b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -165,7 +198,7 @@
         }
     ],
     "wof:id":1141907975,
-    "wof:lastmodified":1561844598,
+    "wof:lastmodified":1636414455,
     "wof:name":"Wawa",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",
@@ -177,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.78333683443606,
-    48.00041505847662,
-    -84.78333683443606,
-    48.00041505847662
+    -84.783337,
+    48.000415,
+    -84.783337,
+    48.000415
 ],
-  "geometry": {"coordinates":[-84.78333683443606,48.00041505847662],"type":"Point"}
+  "geometry": {"coordinates":[-84.783337,48.000415],"type":"Point"}
 }

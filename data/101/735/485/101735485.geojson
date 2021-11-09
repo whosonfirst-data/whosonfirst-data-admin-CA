@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.026192,
     "geom:area_square_m":117950838.958431,
-    "geom:bbox":"-95.999999,68.5865275,-95.7502398,68.6982928",
+    "geom:bbox":"-95.999999,68.586528,-95.75024,68.698293",
     "geom:latitude":68.641982,
     "geom:longitude":-95.878393,
     "gn:population":1109,
@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u063a\u0648\u0627 \u0647\u0627\u0641\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u099c\u09cb\u09df\u09be \u09b9\u09be\u09ad\u09c7\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Gjoa Haven"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Gjoa Haven"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03b1 \u03a7\u03ad\u03b9\u03b2\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Gjoa Haven"
@@ -47,17 +53,32 @@
     "name:fra_x_preferred":[
         "Gjoa Haven"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d2'\u05d5\u05d0\u05d4 \u05d4\u05d0\u05d1\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u094b\u0906 \u0939\u0947\u0935\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Gjoa Haven"
+    ],
     "name:iku_x_preferred":[
         "Uqsuqtuuq"
     ],
     "name:iku_x_variant":[
         "\u1405\u1585\u14f1\u1585\u1451\u1585"
     ],
+    "name:ind_x_preferred":[
+        "Gjoa Haven"
+    ],
     "name:ita_x_preferred":[
         "Gjoa Haven"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30a2\u30fb\u30d8\u30a4\u30f4\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc870\uc544 \ud5e4\uc774\ube10"
     ],
     "name:nld_x_preferred":[
         "Gjoa Haven"
@@ -91,6 +112,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0430-\u0413\u0435\u0439\u0432\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0627 \u06c1\u06cc\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Gjoa Haven"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -226,7 +253,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d1de668ad47e3ad6986c9f1cbc6d4222",
+    "wof:geomhash":"9f209f2299ba7aca97d1cfb7a53b3d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -240,7 +267,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309872,
+    "wof:lastmodified":1636414362,
     "wof:name":"Gjoa Haven",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -253,9 +280,9 @@
 },
   "bbox": [
     -95.999999,
-    68.5865275,
-    -95.7502398,
-    68.6982928
+    68.586528,
+    -95.75024,
+    68.698293
 ],
-  "geometry": {"coordinates":[[[-95.999999,68.6942598],[-95.7634668,68.6982928],[-95.7502398,68.5907953],[-95.9999777,68.5865275],[-95.999999,68.6942598]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-95.999999,68.69426],[-95.76346700000001,68.69829300000001],[-95.75024000000001,68.590795],[-95.999978,68.586528],[-95.999999,68.69426]]],"type":"Polygon"}
 }

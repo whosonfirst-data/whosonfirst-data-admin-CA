@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062a\u064a\u062c\u0648\u0646\u064a\u0634"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0997\u09a8\u09bf\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0442\u0438\u0433\u043e\u043d\u0438\u0448"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Antigonish"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03b9\u03b3\u03ba\u03cc\u03bd\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Antigonish"
@@ -47,11 +56,23 @@
     "name:gle_x_preferred":[
         "Antigonis"
     ],
+    "name:hin_x_preferred":[
+        "\u0910\u0902\u091f\u0940\u0917\u094b\u0928\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Antigonish"
+    ],
+    "name:ind_x_preferred":[
+        "Antigonish"
+    ],
     "name:ita_x_preferred":[
         "Antigonish"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c6\u30a3\u30b4\u30cb\u30c3\u30b7\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ud2f0\uace0\ub2c8\uc2dc"
     ],
     "name:nld_x_preferred":[
         "Antigonish"
@@ -82,6 +103,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0456\u0433\u043e\u043d\u0456\u0448"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0646\u06cc\u0634"
     ],
     "name:vie_x_preferred":[
         "Antigonish"
@@ -223,7 +247,7 @@
         }
     ],
     "wof:id":890458657,
-    "wof:lastmodified":1566520110,
+    "wof:lastmodified":1636414386,
     "wof:name":"Antigonish",
     "wof:parent_id":890458003,
     "wof:placetype":"locality",

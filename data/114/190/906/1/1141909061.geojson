@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.6579814064,51.2806024364,-80.6579814064,51.2806024364",
+    "geom:bbox":"-80.657981,51.280602,-80.657981,51.280602",
     "geom:latitude":51.280602,
     "geom:longitude":-80.657981,
     "iso:country":"CA",
@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0648\u0646\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09b8\u09cb\u09a8\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u043e\u043d\u0435"
     ],
     "name:deu_x_preferred":[
         "Moosonee"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c3\u03bf\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Moosonee"
@@ -31,11 +37,26 @@
     "name:fra_x_preferred":[
         "Moosonee"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05e1\u05d5\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0942\u0938\u094b\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Moosonee"
+    ],
+    "name:ind_x_preferred":[
+        "Moosonee"
+    ],
     "name:ita_x_preferred":[
         "Moosonee"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30fc\u30b9\u30cb\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc18c\ub2c8"
     ],
     "name:nld_x_preferred":[
         "Moosonee"
@@ -59,6 +80,18 @@
         "\u041c\u0443\u0441\u043e\u043d\u0438"
     ],
     "name:swe_x_preferred":[
+        "Moosonee"
+    ],
+    "name:tur_x_preferred":[
+        "Moosonee"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Moosonee"
     ],
     "ne:ADM0CAP":0.0,
@@ -169,7 +202,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131019,
-    "wof:geomhash":"dec0cb72f9218e377fead7c974893a15",
+    "wof:geomhash":"89a80b76a6d9b1dea4ba5142b299b9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +213,7 @@
         }
     ],
     "wof:id":1141909061,
-    "wof:lastmodified":1561844599,
+    "wof:lastmodified":1636414459,
     "wof:name":"Moosonee",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",
@@ -192,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.65798140635968,
-    51.28060243641949,
-    -80.65798140635968,
-    51.28060243641949
+    -80.657981,
+    51.280602,
+    -80.657981,
+    51.280602
 ],
-  "geometry": {"coordinates":[-80.65798140635968,51.28060243641949],"type":"Point"}
+  "geometry": {"coordinates":[-80.65798100000001,51.280602],"type":"Point"}
 }

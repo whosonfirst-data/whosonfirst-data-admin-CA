@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.4000104184,47.8337068879,-83.4000104184,47.8337068879",
+    "geom:bbox":"-83.40001,47.833707,-83.40001,47.833707",
     "geom:latitude":47.833707,
     "geom:longitude":-83.40001,
     "iso:country":"CA",
@@ -16,17 +16,47 @@
     "lbl:longitude":-83.40001,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0628\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09cd\u09af\u09aa\u09cd\u09b2\u09c7\u0989"
+    ],
     "name:deu_x_preferred":[
         "Chapleau"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c0\u03bb\u03cc"
     ],
     "name:eng_x_preferred":[
         "Chapleau"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u067e\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Chapleau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e4\u05dc\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0948\u092a\u0932\u0947\u090a"
+    ],
+    "name:hun_x_preferred":[
+        "Chapleau"
+    ],
+    "name:ind_x_preferred":[
+        "Chapleau"
+    ],
+    "name:ita_x_preferred":[
         "Chapleau"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30d7\u30ed\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ud50c\ub85c"
     ],
     "name:nld_x_preferred":[
         "Chapleau"
@@ -34,11 +64,35 @@
     "name:pol_x_preferred":[
         "Chapleau"
     ],
+    "name:por_x_preferred":[
+        "Chapleau"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043f\u043b\u043e"
     ],
     "name:spa_x_preferred":[
         "Chapleau"
+    ],
+    "name:swe_x_preferred":[
+        "Chapleau"
+    ],
+    "name:tur_x_preferred":[
+        "Chapleau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u067e\u0644\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Chapleau"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6c99\u666e\u6d1b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u67e5\u666e\u7f85"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -148,7 +202,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130796,
-    "wof:geomhash":"654d24495cdeb2d48690e6a87910020b",
+    "wof:geomhash":"52e73f1c210606079d5cee6a8a1e1eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -159,7 +213,7 @@
         }
     ],
     "wof:id":1141907973,
-    "wof:lastmodified":1561844598,
+    "wof:lastmodified":1636414455,
     "wof:name":"Chapleau",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",
@@ -171,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.40001041841487,
-    47.83370688790313,
-    -83.40001041841487,
-    47.83370688790313
+    -83.40001,
+    47.833707,
+    -83.40001,
+    47.833707
 ],
-  "geometry": {"coordinates":[-83.40001041841487,47.83370688790313],"type":"Point"}
+  "geometry": {"coordinates":[-83.40000999999999,47.833707],"type":"Point"}
 }

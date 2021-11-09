@@ -20,8 +20,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0631\u0648\u0628\u0633\u0648\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u043e\u0431\u0441\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0989\u09a8\u09cd\u099f \u09b0\u09ac\u09b8\u09a8"
     ],
     "name:ceb_x_preferred":[
         "Mount Robson"
@@ -31,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "Mount Robson"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03c1\u03bf\u03c2 \u03a1\u03cc\u03bc\u03c0\u03c3\u03bf\u03bd"
     ],
     "name:epo_x_preferred":[
         "Monto Robson"
@@ -47,6 +56,15 @@
     "name:heb_x_preferred":[
         "\u05d4\u05e8 \u05e8\u05d5\u05d1\u05e1\u05d5\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u0949\u092c\u0938\u0928 \u092a\u0930\u094d\u0935\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Mount Robson"
+    ],
+    "name:ind_x_preferred":[
+        "Gunung Robson"
+    ],
     "name:isl_x_preferred":[
         "Mount Robson"
     ],
@@ -55,6 +73,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30d6\u30bd\u30f3\u5c71"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc6b4\ud2b8 \ub86d\uc2a8"
     ],
     "name:nds_x_preferred":[
         "Mount Robson"
@@ -70,6 +91,9 @@
     ],
     "name:pol_x_preferred":[
         "Mount Robson"
+    ],
+    "name:por_x_preferred":[
+        "Monte Robson"
     ],
     "name:ron_x_preferred":[
         "Muntele Robson"
@@ -94,6 +118,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0431\u0441\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0624\u0646\u0679 \u0631\u0627\u0628\u0633\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00fai Robson"
     ],
     "name:zho_x_preferred":[
         "\u7f57\u5e03\u68ee\u5c71"
@@ -145,7 +175,7 @@
         }
     ],
     "wof:id":1125861747,
-    "wof:lastmodified":1566520297,
+    "wof:lastmodified":1636414424,
     "wof:name":"Mount Robson",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",

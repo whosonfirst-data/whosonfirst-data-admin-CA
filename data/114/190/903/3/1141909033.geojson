@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.5385786302,64.3125197156,-76.5385786302,64.3125197156",
+    "geom:bbox":"-76.538579,64.31252,-76.538579,64.31252",
     "geom:latitude":64.31252,
     "geom:longitude":-76.538579,
     "iso:country":"CA",
@@ -57,8 +57,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aaa \u0aa1\u0acb\u0ab0\u0acd\u0ab8\u0ac7\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e4\u05d4 \u05d3\u05d5\u05e8\u05e1\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u092a \u0921\u094b\u0930\u0938\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Cape Dorset"
     ],
     "name:hye_x_preferred":[
         "\u0554\u0565\u0575\u0583-\u0534\u0578\u0580\u057d\u0565\u057f"
@@ -255,7 +261,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131014,
-    "wof:geomhash":"940a794b868002c3a4fc0fd620d4a862",
+    "wof:geomhash":"16023537b03e4e247898f5357f255a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -266,7 +272,7 @@
         }
     ],
     "wof:id":1141909033,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414467,
     "wof:name":"Cape Dorset",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -276,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.53857863022199,
-    64.31251971559755,
-    -76.53857863022199,
-    64.31251971559755
+    -76.538579,
+    64.31252,
+    -76.538579,
+    64.31252
 ],
-  "geometry": {"coordinates":[-76.53857863022199,64.31251971559755],"type":"Point"}
+  "geometry": {"coordinates":[-76.538579,64.31252000000001],"type":"Point"}
 }

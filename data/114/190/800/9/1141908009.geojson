@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.5000275082,46.5503743684,-75.5000275082,46.5503743684",
+    "geom:bbox":"-75.500028,46.550374,-75.500028,46.550374",
     "geom:latitude":46.550374,
     "geom:longitude":-75.500028,
     "iso:country":"CA",
@@ -27,7 +27,13 @@
     "name:atj_x_preferred":[
         "Mont-Laurier"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09a8\u09cd\u099f-\u09b2\u09cb\u0989\u09b0\u09bf\u09df\u09c7\u09b0"
+    ],
     "name:ceb_x_preferred":[
+        "Mont-Laurier"
+    ],
+    "name:deu_x_preferred":[
         "Mont-Laurier"
     ],
     "name:ell_x_preferred":[
@@ -45,8 +51,26 @@
     "name:fra_x_preferred":[
         "Mont-Laurier"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8-\u05dc\u05d0\u05d5\u05e8\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f-\u0932\u094c\u0930\u0940\u092f\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Mont-Laurier"
+    ],
+    "name:ind_x_preferred":[
+        "Mont-Laurier"
+    ],
     "name:ita_x_preferred":[
         "Mont-Laurier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30ed\u30fc\u30ea\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubabd\ub85c\ub9ac\uc5d0"
     ],
     "name:nld_x_preferred":[
         "Mont-Laurier"
@@ -56,6 +80,9 @@
     ],
     "name:por_x_preferred":[
         "Mont-Laurier"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d-\u041b\u043e\u0440\u044c\u0435"
     ],
     "name:spa_x_preferred":[
         "Mont-Laurier"
@@ -74,6 +101,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d-\u041b\u043e\u0440\u044c\u0454"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679 \u0644\u0648\u0631\u06cc\u0626\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Mont-Laurier"
     ],
     "name:vol_x_preferred":[
         "Mont-Laurier"
@@ -189,7 +222,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130802,
-    "wof:geomhash":"e8cf7dd8439b42ea3a1f940292b2ca43",
+    "wof:geomhash":"373943cae65c7e4800f964194ba59b35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -200,7 +233,7 @@
         }
     ],
     "wof:id":1141908009,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414469,
     "wof:name":"Mont-Laurier",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",
@@ -210,10 +243,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.50002750822705,
-    46.5503743683667,
-    -75.50002750822705,
-    46.5503743683667
+    -75.500028,
+    46.550374,
+    -75.500028,
+    46.550374
 ],
-  "geometry": {"coordinates":[-75.50002750822705,46.5503743683667],"type":"Point"}
+  "geometry": {"coordinates":[-75.500028,46.550374],"type":"Point"}
 }

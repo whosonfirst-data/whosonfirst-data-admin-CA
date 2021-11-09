@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.2360830335,68.7674668406,-81.2360830335,68.7674668406",
+    "geom:bbox":"-81.236083,68.767467,-81.236083,68.767467",
     "geom:latitude":68.767467,
     "geom:longitude":-81.236083,
     "iso:country":"CA",
@@ -53,6 +53,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab2 \u0aac\u0ac0\u0a9a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e3 \u05d4\u05d5\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u0939\u0949\u0932 \u092c\u0940\u091a"
@@ -246,7 +249,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130621,
-    "wof:geomhash":"604114700ce1692b5c8e7fedbcd00671",
+    "wof:geomhash":"845b6654dfe49580ddf3d1108ed546ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":1141906649,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414470,
     "wof:name":"Hall Beach",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -267,10 +270,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.23608303346055,
-    68.76746684063727,
-    -81.23608303346055,
-    68.76746684063727
+    -81.236083,
+    68.767467,
+    -81.236083,
+    68.767467
 ],
-  "geometry": {"coordinates":[-81.23608303346055,68.76746684063727],"type":"Point"}
+  "geometry": {"coordinates":[-81.23608299999999,68.767467],"type":"Point"}
 }

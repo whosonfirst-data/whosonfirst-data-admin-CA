@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.2665987567,54.9504042756,-95.2665987567,54.9504042756",
+    "geom:bbox":"-95.266599,54.950404,-95.266599,54.950404",
     "geom:latitude":54.950404,
     "geom:longitude":-95.266599,
     "iso:country":"CA",
@@ -18,20 +18,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0633\u0641\u0648\u0631\u062f \u0647\u0627\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u0995\u09cd\u09b8\u09ab\u09cb\u09b0\u09cd\u09a1 \u09b9\u09be\u0989\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Oxford House"
+    ],
+    "name:deu_x_preferred":[
+        "Oxford House"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03be\u03c6\u03bf\u03c1\u03bd\u03c4 \u03a7\u03ac\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Oxford House"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0633\u0641\u0648\u0631\u062f \u0647\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Oxford House"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05e1\u05e4\u05d5\u05e8\u05d3 \u05d4\u05d0\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0915\u094d\u0938\u094d\u092b\u093c\u0930\u094d\u0921 \u0939\u093e\u0909\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Oxford House"
+    ],
+    "name:ind_x_preferred":[
+        "Oxford House"
+    ],
+    "name:ita_x_preferred":[
+        "Oxford House"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c3\u30af\u30b9\u30d5\u30a9\u30fc\u30c9\u30cf\u30a6\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc625\uc2a4\ud3ec\ub4dc \ud558\uc6b0\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Oxford House"
     ],
+    "name:pol_x_preferred":[
+        "Oxford House"
+    ],
+    "name:por_x_preferred":[
+        "Oxford House"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0441\u0444\u043e\u0440\u0434-\u0425\u0430\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Oxford House"
+    ],
     "name:swe_x_preferred":[
         "Oxford House"
+    ],
+    "name:tur_x_preferred":[
+        "Oxford House"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0441\u0444\u043e\u0440\u0434-\u0425\u0430\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06a9\u0633\u0641\u0648\u0631\u0688 \u06c1\u0627\u0624\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Oxford House"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u725b\u6d25\u8c6a\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u725b\u6d25\u8c6a\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -141,7 +207,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130791,
-    "wof:geomhash":"413ca2d88bd7cd922e92882d7a98bf2d",
+    "wof:geomhash":"b6ee4f5eb253dc4b21caee4f9a5847e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +218,7 @@
         }
     ],
     "wof:id":1141907943,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414466,
     "wof:name":"Oxford House",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",
@@ -162,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.26659875667843,
-    54.95040427562697,
-    -95.26659875667843,
-    54.95040427562697
+    -95.266599,
+    54.950404,
+    -95.266599,
+    54.950404
 ],
-  "geometry": {"coordinates":[-95.26659875667843,54.95040427562697],"type":"Point"}
+  "geometry": {"coordinates":[-95.266599,54.950404],"type":"Point"}
 }

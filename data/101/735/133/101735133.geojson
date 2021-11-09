@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
     "geom:area_square_m":1518283.325419,
-    "geom:bbox":"-99.347099,49.0887368,-99.3302649,49.0999017",
+    "geom:bbox":"-99.347099,49.088737,-99.330265,49.099902",
     "geom:latitude":49.094319,
     "geom:longitude":-99.338679,
     "iso:country":"CA",
@@ -23,13 +23,55 @@
         "Cartwright"
     ],
     "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u062a\u0631\u0627\u06cc\u062a"
+    ],
+    "name:fas_x_variant":[
         "\u06a9\u0627\u0631\u062a\u200c\u0631\u0627\u06cc\u062a"
     ],
     "name:fra_x_preferred":[
         "Cartwright"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d8\u05e8\u05d9\u05d9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0930\u094d\u091f\u0930\u093e\u0907\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Cartwright"
+    ],
+    "name:ind_x_preferred":[
+        "Cartwright"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ud2b8\ub77c\uc774\ud2b8"
+    ],
     "name:nld_x_preferred":[
         "Cartwright"
+    ],
+    "name:pol_x_preferred":[
+        "Cartwright"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0440\u0430\u0439\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Cartwright"
+    ],
+    "name:tur_x_preferred":[
+        "Cartwright"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0631\u0679\u0631\u0627\u0626\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Cartwright"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u7279\u8d56\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u7279\u8cf4\u7279"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Manitoba",
@@ -65,7 +107,7 @@
         "wk:page":"Cartwright, Manitoba"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f8f11f7b9c2e2eff9aef9e37de526f38",
+    "wof:geomhash":"37b643d83a805d6c16f441b291d1ce8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566519921,
+    "wof:lastmodified":1636414361,
     "wof:name":"Cartwright",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",
@@ -91,9 +133,9 @@
 },
   "bbox": [
     -99.347099,
-    49.0887368,
-    -99.3302649,
-    49.0999017
+    49.088737,
+    -99.330265,
+    49.099902
 ],
-  "geometry": {"coordinates":[[[-99.3302704,49.0962611],[-99.3302882,49.0887368],[-99.33576499999999,49.0887394],[-99.3466837,49.0887439],[-99.3470971,49.0887427],[-99.347099,49.0890141],[-99.3470755,49.0962806],[-99.3470638,49.0999017],[-99.3357376,49.0998966],[-99.3302649,49.0998938],[-99.3302704,49.0962611]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.33027,49.096261],[-99.330288,49.088737],[-99.33576499999999,49.088739],[-99.346684,49.088744],[-99.34709700000001,49.088743],[-99.347099,49.089014],[-99.347076,49.096281],[-99.347064,49.099902],[-99.33573800000001,49.099897],[-99.330265,49.099894],[-99.33027,49.096261]]],"type":"Polygon"}
 }

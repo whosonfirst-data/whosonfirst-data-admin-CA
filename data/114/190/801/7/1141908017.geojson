@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-55.5999501969,51.3837485953,-55.5999501969,51.3837485953",
+    "geom:bbox":"-55.59995,51.383749,-55.59995,51.383749",
     "geom:latitude":51.383749,
     "geom:longitude":-55.59995,
     "gn:country":"CA",
@@ -28,13 +28,31 @@
         "St. Anthony"
     ],
     "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u06cc \u0627\u0646\u062a\u0648\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
         "\u0633\u0646\u062a \u0622\u0646\u062a\u0648\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Saint Anthony"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u090f\u0902\u0925\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "St. Anthony"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30a2\u30f3\u30bd\u30cb\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8 \uc548\ud1a0\ub2c8"
+    ],
+    "name:pol_x_preferred":[
+        "St. Anthony"
     ],
     "name:por_x_preferred":[
         "Saint Anthony"
@@ -44,6 +62,21 @@
     ],
     "name:swe_x_preferred":[
         "Saint Anthony"
+    ],
+    "name:tur_x_preferred":[
+        "St. Anthony"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u062a\u06be\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "St. Anthony"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5b89\u4e1c\u5c3c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -157,7 +190,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130803,
-    "wof:geomhash":"7a1d1d06a8b29dfc48ce465a4653a880",
+    "wof:geomhash":"36c304a43df8765e755cddc4aab87839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -168,7 +201,7 @@
         }
     ],
     "wof:id":1141908017,
-    "wof:lastmodified":1566520627,
+    "wof:lastmodified":1636414472,
     "wof:name":"St. Anthony",
     "wof:parent_id":1158869067,
     "wof:placetype":"locality",
@@ -181,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -55.59995019694958,
-    51.38374859527408,
-    -55.59995019694958,
-    51.38374859527408
+    -55.59995,
+    51.383749,
+    -55.59995,
+    51.383749
 ],
-  "geometry": {"coordinates":[-55.59995019694958,51.38374859527408],"type":"Point"}
+  "geometry": {"coordinates":[-55.59995,51.383749],"type":"Point"}
 }

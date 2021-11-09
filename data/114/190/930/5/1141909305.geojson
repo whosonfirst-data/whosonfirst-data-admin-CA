@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.7935921274,69.2565350612,-81.7935921274,69.2565350612",
+    "geom:bbox":"-81.793592,69.256535,-81.793592,69.256535",
     "geom:latitude":69.256535,
     "geom:longitude":-81.793592,
     "iso:country":"CA",
@@ -57,10 +57,16 @@
     "name:guj_x_preferred":[
         "\u0a87\u0a97\u0acd\u0ab2\u0ac2\u0ab2\u0abf\u0a95"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d2\u05dc\u05d5\u05dc\u05d9\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0907\u0917\u094d\u0932\u0942\u0932\u093f\u0915"
     ],
     "name:hrv_x_preferred":[
+        "Igloolik"
+    ],
+    "name:hun_x_preferred":[
         "Igloolik"
     ],
     "name:iku_x_preferred":[
@@ -252,7 +258,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131061,
-    "wof:geomhash":"2f452ae9d357e26b68af6b535cdeb78c",
+    "wof:geomhash":"93224f16b8bb1373bfb18042a04dd513",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -263,7 +269,7 @@
         }
     ],
     "wof:id":1141909305,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1636414460,
     "wof:name":"Igloolik",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -273,10 +279,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.7935921273588,
-    69.25653506117754,
-    -81.7935921273588,
-    69.25653506117754
+    -81.793592,
+    69.256535,
+    -81.793592,
+    69.256535
 ],
-  "geometry": {"coordinates":[-81.79359212735881,69.25653506117754],"type":"Point"}
+  "geometry": {"coordinates":[-81.793592,69.256535],"type":"Point"}
 }

@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.0166563332,64.3169901725,-96.0166563332,64.3169901725",
+    "geom:bbox":"-96.016656,64.31699,-96.016656,64.31699",
     "geom:latitude":64.31699,
     "geom:longitude":-96.016656,
     "iso:country":"CA",
@@ -16,6 +16,51 @@
     "lbl:longitude":-96.016656,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0629 \u0628\u064a\u0643\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u0995\u09be\u09b0 \u09b0\u09bf\u09ad\u09be\u09b0"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u039c\u03c0\u03ad\u03b9\u03ba\u03b5\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0686\u0647 \u0628\u06cc\u06a9\u0631"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05d1\u05d9\u05d9\u05e7\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0915\u0930 \u091d\u0940\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Baker-t\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Baker"
+    ],
+    "name:ita_x_preferred":[
+        "Baker Lake"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ucee4 \ub808\uc774\ud06c"
+    ],
+    "name:pol_x_preferred":[
+        "Jezioro Baker"
+    ],
+    "name:spa_x_preferred":[
+        "Baker Lake"
+    ],
+    "name:tur_x_preferred":[
+        "Baker G\u00f6l\u00fc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u06a9\u0631 \u062c\u06be\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Baker"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
     "ne:ADM0_A3":"CAN",
@@ -122,7 +167,7 @@
     "wof:concordances":{},
     "wof:country":"CA",
     "wof:created":1499130795,
-    "wof:geomhash":"e89586c2eafa100b005cfab258be84cc",
+    "wof:geomhash":"61f8a68b4cbef0d91d527362f2b2fe91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +178,7 @@
         }
     ],
     "wof:id":1141907963,
-    "wof:lastmodified":1534379247,
+    "wof:lastmodified":1636414461,
     "wof:name":"Baker Lake",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
@@ -145,10 +190,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.0166563331789,
-    64.31699017247422,
-    -96.0166563331789,
-    64.31699017247422
+    -96.016656,
+    64.31699,
+    -96.016656,
+    64.31699
 ],
-  "geometry": {"coordinates":[-96.0166563331789,64.31699017247422],"type":"Point"}
+  "geometry": {"coordinates":[-96.016656,64.31699],"type":"Point"}
 }

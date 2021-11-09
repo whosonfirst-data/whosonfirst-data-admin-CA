@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0631\u062a \u0648\u064a\u0644\u064a\u0627\u0645"
+    ],
     "name:bre_x_preferred":[
         "Fort William"
     ],
@@ -43,10 +46,19 @@
     "name:deu_x_preferred":[
         "Fort William"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c1\u03c4 \u0393\u03bf\u03c5\u03af\u03bb\u03b9\u03b1\u03bc"
+    ],
     "name:fin_x_preferred":[
         "Fort William"
     ],
     "name:fra_x_preferred":[
+        "Fort William"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u094b\u0930\u094d\u091f \u0935\u093f\u0932\u093f\u092f\u092e"
+    ],
+    "name:ind_x_preferred":[
         "Fort William"
     ],
     "name:jpn_x_preferred":[
@@ -62,6 +74,12 @@
         "\u0424\u043e\u0440\u0442-\u0423\u0438\u043b\u044c\u044f\u043c"
     ],
     "name:swe_x_preferred":[
+        "Fort William"
+    ],
+    "name:tur_x_preferred":[
+        "Fort William"
+    ],
+    "name:vie_x_preferred":[
         "Fort William"
     ],
     "src:geom":"geonames",
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":1293672919,
-    "wof:lastmodified":1566519063,
+    "wof:lastmodified":1636414293,
     "wof:name":"Fort William",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-98.8500234393,55.8004557486,-98.8500234393,55.8004557486",
+    "geom:bbox":"-98.850023,55.800456,-98.850023,55.800456",
     "geom:latitude":55.800456,
     "geom:longitude":-98.850023,
     "iso:country":"CA",
@@ -18,8 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0644\u0633\u0648\u0646 \u0647\u0627\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c7\u09b2\u09b8\u09a8 \u09b9\u09be\u0989\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Nelson House"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bb\u03c3\u03bf\u03bd \u03a7\u03ac\u03bf\u03c5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Nelson House"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0644\u0633\u0648\u0646 \u0647\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Nelson House"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05dc\u05e1\u05d5\u05df \u05d4\u05d0\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0947\u0932\u0938\u0928 \u0939\u093e\u0909\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Nelson House"
+    ],
+    "name:ind_x_preferred":[
+        "Nelson House"
+    ],
+    "name:ita_x_preferred":[
+        "Nelson House"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30eb\u30bd\u30f3\u30cf\u30a6\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub12c\uc2a8 \ud558\uc6b0\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Nelson House"
+    ],
+    "name:pol_x_preferred":[
+        "Nelson House"
+    ],
+    "name:por_x_preferred":[
+        "Nelson House"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043b\u044c\u0441\u043e\u043d-\u0425\u0430\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Nelson House"
+    ],
+    "name:swe_x_preferred":[
+        "Nelson House"
+    ],
+    "name:tur_x_preferred":[
+        "Nelson House"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043b\u044c\u0441\u043e\u043d-\u0425\u0430\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0644\u0633\u0646 \u06c1\u0627\u0624\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Nelson House"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7eb3\u5c14\u900a\u8c6a\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c3c\u723e\u68ee\u8c6a\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -129,7 +204,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130790,
-    "wof:geomhash":"734580fb04c1aad16aae7d64dda0e7ee",
+    "wof:geomhash":"b03a61c7222b4dab5ba2ea9c67c2f044",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +215,7 @@
         }
     ],
     "wof:id":1141907939,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414465,
     "wof:name":"Nelson House",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",
@@ -150,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -98.85002343931012,
-    55.80045574861208,
-    -98.85002343931012,
-    55.80045574861208
+    -98.850023,
+    55.800456,
+    -98.850023,
+    55.800456
 ],
-  "geometry": {"coordinates":[-98.85002343931012,55.80045574861208],"type":"Point"}
+  "geometry": {"coordinates":[-98.85002299999999,55.800456],"type":"Point"}
 }

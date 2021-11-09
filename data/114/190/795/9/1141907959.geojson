@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-130.033288006,58.4503456819,-130.033288006,58.4503456819",
+    "geom:bbox":"-130.033288,58.450346,-130.033288,58.450346",
     "geom:latitude":58.450346,
     "geom:longitude":-130.033288,
     "iso:country":"CA",
@@ -24,11 +24,17 @@
     "name:ara_x_variant":[
         "\u0628\u062d\u064a\u0631\u0629 \u062f\u064a\u0627\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u099c \u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Dease Lake"
     ],
     "name:deu_x_preferred":[
         "Dease Lake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03b6 \u039b\u03ad\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Dease Lake"
@@ -39,14 +45,62 @@
     "name:fra_x_preferred":[
         "Dease Lake"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05d3\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0940\u0938 \u0932\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Dease Lake"
+    ],
+    "name:ind_x_preferred":[
+        "Dease Lake"
+    ],
+    "name:ita_x_preferred":[
+        "Dease Lake"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30fc\u30ba\u30ec\u30a4\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\uc2a4 \ub808\uc774\ud06c"
+    ],
     "name:nld_x_preferred":[
+        "Dease Lake"
+    ],
+    "name:pol_x_preferred":[
         "Dease Lake"
     ],
     "name:por_x_preferred":[
         "Dease Lake"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0441-\u041b\u0435\u0439\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Dease Lake"
+    ],
     "name:swe_x_preferred":[
         "Dease Lake"
+    ],
+    "name:tur_x_preferred":[
+        "Dease Lake"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0437-\u041b\u0435\u0439\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0632 \u0644\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Dease Lake"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8fea\u65af\u83b1\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fb7\u65af\u6e56"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -156,7 +210,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130794,
-    "wof:geomhash":"92d660804bfd9c5cd5dc4df2be9ddeeb",
+    "wof:geomhash":"d5898ce4bab691cc9d65f38c3e47f3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -167,7 +221,7 @@
         }
     ],
     "wof:id":1141907959,
-    "wof:lastmodified":1566520626,
+    "wof:lastmodified":1636414468,
     "wof:name":"Dease Lake",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",
@@ -177,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -130.0332880064921,
-    58.45034568189089,
-    -130.0332880064921,
-    58.45034568189089
+    -130.033288,
+    58.450346,
+    -130.033288,
+    58.450346
 ],
-  "geometry": {"coordinates":[-130.03328800649211,58.45034568189089],"type":"Point"}
+  "geometry": {"coordinates":[-130.033288,58.450346],"type":"Point"}
 }

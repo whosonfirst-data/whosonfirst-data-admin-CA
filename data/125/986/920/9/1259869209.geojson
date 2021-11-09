@@ -29,7 +29,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u062b \u0634\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u09cd\u09a5 \u09b6\u09cb\u09b0"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062b \u0634\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
+        "North Shore"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0925 \u0936\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "North Shore"
+    ],
+    "name:por_x_preferred":[
+        "North Shore"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u0634\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
         "North Shore"
     ],
     "src:geom":"geonames",
@@ -45,7 +69,7 @@
         "wk:page":"North_Shore%2C_Prince_Edward_Island"
     },
     "wof:country":"CA",
-    "wof:geomhash":"8393a2a079379780a4b16fdd7723e04a",
+    "wof:geomhash":"0f0dc4144fc7a96ca98d61beece077bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1259869209,
-    "wof:lastmodified":1566520566,
+    "wof:lastmodified":1636414448,
     "wof:name":"North Shore",
     "wof:parent_id":890457737,
     "wof:placetype":"locality",
@@ -66,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.11539000000001,
+    -63.11539,
     46.38342,
-    -63.11539000000001,
+    -63.11539,
     46.38342
 ],
-  "geometry": {"coordinates":[-63.11539000000001,46.38342],"type":"Point"}
+  "geometry": {"coordinates":[-63.11539,46.38342],"type":"Point"}
 }

@@ -58,6 +58,15 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0ab8\u0acb\u0ab2\u0acd\u0aaf\u0ac1\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d6\u05d5\u05dc\u05d5\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0938\u094b\u0932\u0942\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Resolute"
+    ],
     "name:iku_x_preferred":[
         "\u1583\u1405\u14f1\u1403\u1466\u1450\u1585"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb0\u0cc6\u0cb8\u0cb2\u0ccd\u0caf\u0cc2\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc194\ub8e8\ud2b8"
     ],
     "name:lav_x_preferred":[
         "Rezoljuta"
@@ -135,6 +147,12 @@
     ],
     "name:vie_x_preferred":[
         "Resolute"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u96f7\u7d22\u5362\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u52aa\u52d2\u7dad\u7279"
     ],
     "name:zho_x_preferred":[
         "\u5805\u6bc5\u7063"
@@ -257,8 +275,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        1158869063,
-        85682105
+        85682105,
+        1158869063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -288,7 +306,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587163108,
+    "wof:lastmodified":1636414362,
     "wof:name":"Resolute",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

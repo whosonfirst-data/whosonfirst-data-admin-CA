@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0411\u043b\u044d\u043a-\u0420\u044b\u0432\u0435\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b2\u09cd\u09af\u09be\u0995 \u09b0\u09bf\u09ad\u09be\u09b0"
+    ],
     "name:bre_x_preferred":[
         "Black River"
     ],
@@ -47,11 +50,23 @@
     "name:fra_x_preferred":[
         "Black River"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0932\u0948\u0915 \u0930\u093f\u0935\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Black River"
+    ],
+    "name:ind_x_preferred":[
+        "Black River"
+    ],
     "name:ita_x_preferred":[
         "Black River"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30c3\u30af\u30fb\u30ea\u30d0\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub799 \ub9ac\ubc84"
     ],
     "name:nld_x_preferred":[
         "Black River"
@@ -71,6 +86,12 @@
     "name:swe_x_preferred":[
         "Black River"
     ],
+    "name:tur_x_preferred":[
+        "Black River"
+    ],
+    "name:vie_x_preferred":[
+        "Black River"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +104,7 @@
         "gn:id":5903131
     },
     "wof:country":"CA",
-    "wof:geomhash":"2122241811bff3bf68e8d654de28b36b",
+    "wof:geomhash":"19bfebe2eef7482f51247bc1fa49072c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +115,7 @@
         }
     ],
     "wof:id":1243575469,
-    "wof:lastmodified":1566520500,
+    "wof:lastmodified":1636414441,
     "wof:name":"Black River",
     "wof:parent_id":890457745,
     "wof:placetype":"locality",
@@ -105,9 +126,9 @@
 },
   "bbox": [
     -64.41085,
-    45.00859000000001,
+    45.00859,
     -64.41085,
-    45.00859000000001
+    45.00859
 ],
-  "geometry": {"coordinates":[-64.41085,45.00859000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.41085,45.00859],"type":"Point"}
 }

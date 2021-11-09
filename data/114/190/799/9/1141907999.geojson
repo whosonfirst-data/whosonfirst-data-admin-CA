@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.6666532813,46.1171449982,-70.6666532813,46.1171449982",
+    "geom:bbox":"-70.666653,46.117145,-70.666653,46.117145",
     "geom:latitude":46.117145,
     "geom:longitude":-70.666653,
     "iso:country":"CA",
@@ -29,13 +29,31 @@
         "Saint-Georges"
     ],
     "name:fas_x_preferred":[
+        "\u0633\u0646-\u062c\u0648\u0631\u062c\u0632"
+    ],
+    "name:fas_x_variant":[
         "\u0633\u0646-\u0698\u0631\u0698\u060c \u06a9\u0628\u06a9"
     ],
     "name:fra_x_preferred":[
         "Saint-Georges"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8-\u05d2'\u05d5\u05e8\u05d2'"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f-\u091c\u0949\u0930\u094d\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Saint-Georges"
+    ],
+    "name:ind_x_preferred":[
+        "Saint-Georges"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30b8\u30e7\u30eb\u30b8\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8 \uc870\uc9c0\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Saint-Georges"
@@ -61,8 +79,14 @@
     "name:tur_x_preferred":[
         "Saint-Georges"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0439\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436\u0435\u0441"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u06af\u06cc\u0648\u0631\u06af\u0633\u060c \u06a9\u06cc\u0648\u0628\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Saint-Georges"
     ],
     "name:vol_x_preferred":[
         "Saint-Georges"
@@ -175,7 +199,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130800,
-    "wof:geomhash":"a677c331b9b27c258c798841e9b54aa1",
+    "wof:geomhash":"dbbe75e8c1e57a0e75cbed0a47bab413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -186,7 +210,7 @@
         }
     ],
     "wof:id":1141907999,
-    "wof:lastmodified":1561844598,
+    "wof:lastmodified":1636414457,
     "wof:name":"Saint-Georges",
     "wof:parent_id":890457819,
     "wof:placetype":"locality",
@@ -198,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.66665328131973,
-    46.11714499824774,
-    -70.66665328131973,
-    46.11714499824774
+    -70.666653,
+    46.117145,
+    -70.666653,
+    46.117145
 ],
-  "geometry": {"coordinates":[-70.66665328131973,46.11714499824774],"type":"Point"}
+  "geometry": {"coordinates":[-70.666653,46.117145],"type":"Point"}
 }
