@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u064a\u0641\u062a \u0643\u0648\u0631\u0646\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u064a\u0641\u062a \u0643\u0648\u0631\u0646\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Swift Current"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u0987\u09ab\u099f \u0995\u09be\u09b0\u09c7\u09a8\u09cd\u099f"
     ],
@@ -116,6 +122,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0432\u0438\u0444\u0442-\u041a\u0435\u0440\u0440\u0435\u043d\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u0438\u0444\u0442-\u041a\u0430\u0440\u0440\u0435\u043d\u0442"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dc0\u0dd2\u0dc6\u0dca\u0da7\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0da7\u0dca"
     ],
@@ -145,6 +154,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0456\u0444\u0442-\u041a\u0435\u0440\u0440\u0435\u043d\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u0456\u0444\u0442-\u041a\u0430\u0440\u0440\u0435\u043d\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06cc\u0641\u0679 \u06a9\u0631\u0646\u0679"
@@ -303,7 +315,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551752,
+    "wof:lastmodified":1690864190,
     "wof:name":"Swift Current",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

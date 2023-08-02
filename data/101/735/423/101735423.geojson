@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.194748,
     "geom:area_square_m":792996256.258629,
-    "geom:bbox":"-117.9984,70.5942227,-117.2721478,70.9175381",
+    "geom:bbox":"-117.9984,70.594223,-117.272148,70.917538",
     "geom:latitude":70.775756,
     "geom:longitude":-117.599382,
     "iso:country":"CA",
@@ -52,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30eb\u30af\u30cf\u30af\u30c8\u30fc\u30af"
     ],
+    "name:lav_x_preferred":[
+        "Ulukhakt\u016bka"
+    ],
     "name:mal_x_preferred":[
         "\u0d09\u0d32\u0d41\u0d16\u0d3e\u0d16\u0d4d\u200c\u0d1f\u0d41\u0d35\u0d42\u0d2a\u0d4d"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0443\u043a\u0445\u0430\u043a\u0442\u043e\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u8def\u5361\u6258\u514b"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Northwest Territories",
@@ -109,7 +115,7 @@
         "wd:id":"Q718822"
     },
     "wof:country":"CA",
-    "wof:geomhash":"77d6efbe735a080a0d614028adbba9fc",
+    "wof:geomhash":"f0eef6f57d048230f43864287c73a68d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101735423,
-    "wof:lastmodified":1566519927,
+    "wof:lastmodified":1690864888,
     "wof:name":"Ulukhaktok",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",
@@ -132,9 +138,9 @@
 },
   "bbox": [
     -117.9984,
-    70.5942227,
-    -117.2721478,
-    70.9175381
+    70.594223,
+    -117.272148,
+    70.917538
 ],
-  "geometry": {"coordinates":[[[-117.9984,70.91505069999999],[-117.2763317,70.9175381],[-117.2721478,70.6126811],[-117.4610792,70.6123003],[-117.5146008,70.5942227],[-117.758967,70.6382076],[-117.99198060000001,70.7868508],[-117.9984,70.91505069999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-117.9984,70.91505100000001],[-117.276332,70.91753799999999],[-117.272148,70.61268099999999],[-117.461079,70.6123],[-117.514601,70.594223],[-117.758967,70.63820800000001],[-117.991981,70.786851],[-117.9984,70.91505100000001]]],"type":"Polygon"}
 }

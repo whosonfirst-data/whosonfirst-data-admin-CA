@@ -206,6 +206,9 @@
     "name:oci_x_preferred":[
         "Halifax"
     ],
+    "name:oss_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0444\u0430\u043a\u0441"
+    ],
     "name:pcd_x_preferred":[
         "Halifax"
     ],
@@ -259,6 +262,9 @@
     ],
     "name:swe_x_preferred":[
         "Halifax"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2e\u0e25\u0e34\u0e41\u0e1f\u0e01\u0e0b\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u0456\u0444\u0430\u043a\u0441"
@@ -395,8 +401,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890456491,
-        85682075
+        85682075,
+        890456491
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -422,7 +428,7 @@
         }
     ],
     "wof:id":890456547,
-    "wof:lastmodified":1607462652,
+    "wof:lastmodified":1690865159,
     "wof:name":"Halifax",
     "wof:parent_id":890456491,
     "wof:placetype":"locality",

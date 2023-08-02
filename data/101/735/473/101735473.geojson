@@ -26,8 +26,14 @@
     "name:ara_x_variant":[
         "\u0646\u0647\u0631 \u0643\u0644\u0627\u064a\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0647\u0631 \u0643\u0644\u0627\u064a\u062f"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b2\u09be\u0987\u09a1\u09bf \u09a8\u09a6\u09c0"
+    ],
+    "name:cat_x_preferred":[
+        "Clyde River"
     ],
     "name:ceb_x_preferred":[
         "Clyde River"
@@ -143,10 +149,14 @@
         "\u06a9\u0644\u06cc\u062f\u06cc \u0631\u06cc\u0648\u0631 \u060c \u0646\u0648\u0646\u0627\u0648\u0648\u062a"
     ],
     "name:urd_x_variant":[
-        "\u06a9\u0644\u06cc\u062f\u06cc \u0631\u06cc\u0648\u0631"
+        "\u06a9\u0644\u06cc\u062f\u06cc \u0631\u06cc\u0648\u0631",
+        "\u06a9\u0644\u06cc\u062f\u06cc \u0631\u06cc\u0648\u0631 "
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Clyde"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u840a\u5fb7\u6cb3"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
@@ -174,8 +184,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        1158869063,
-        85682105
+        85682105,
+        1158869063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -207,7 +217,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587163108,
+    "wof:lastmodified":1690864944,
     "wof:name":"Clyde River",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

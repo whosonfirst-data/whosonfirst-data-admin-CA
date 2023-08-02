@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lower Post"
+    ],
     "name:eng_x_preferred":[
         "Lower Post"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:nld_x_preferred":[
         "Lower Post"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0432\u0435\u0440-\u041f\u043e\u0441\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u723e\u7ad9"
     ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":"CA",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1125810469,
-    "wof:lastmodified":1566520300,
+    "wof:lastmodified":1690865301,
     "wof:name":"Lower Post",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",

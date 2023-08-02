@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.555736,45.6128665,-63.555736,45.6128665",
+    "geom:bbox":"-63.555736,45.612867,-63.555736,45.612867",
     "geom:latitude":45.612867,
     "geom:longitude":-63.555736,
     "gp:adm0":23424775,
@@ -19,6 +19,9 @@
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wentworth"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30f3\u30c8\u30ef\u30fc\u30b9"
     ],
     "name:nld_x_preferred":[
         "Wentworth"
@@ -50,7 +53,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053139,
-    "wof:geomhash":"e63a65657cbaf3be86204fb9dd93731d",
+    "wof:geomhash":"9a6f24cd73dd960757222bfd506d6e17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890457433,
-    "wof:lastmodified":1566520248,
+    "wof:lastmodified":1690865228,
     "wof:name":"Wentworth",
     "wof:parent_id":890457197,
     "wof:placetype":"locality",
@@ -73,9 +76,9 @@
 },
   "bbox": [
     -63.555736,
-    45.6128665,
+    45.612867,
     -63.555736,
-    45.6128665
+    45.612867
 ],
-  "geometry": {"coordinates":[-63.555736,45.6128665],"type":"Point"}
+  "geometry": {"coordinates":[-63.555736,45.612867],"type":"Point"}
 }

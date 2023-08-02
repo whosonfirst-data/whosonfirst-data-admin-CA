@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Louisbourg"
+    ],
     "name:eng_x_preferred":[
         "Louisburg"
     ],
@@ -39,14 +42,41 @@
     "name:gla_x_preferred":[
         "Louisbourg"
     ],
+    "name:gle_x_preferred":[
+        "Louisbourg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e6\u05d5\u05d3\u05ea \u05dc\u05d5\u05d0\u05d9\u05d1\u05d5\u05e8"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u057d\u0562\u0578\u0580\u0563"
+    ],
+    "name:ita_x_preferred":[
+        "Louisbourg"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30a4\u30b9\u30d0\u30fc\u30b0\u8981\u585e"
+    ],
+    "name:nob_x_preferred":[
+        "Louisbourg"
+    ],
+    "name:pol_x_preferred":[
+        "Louisbourg"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0438\u0441\u0431\u043e\u0440\u0433"
     ],
+    "name:slv_x_preferred":[
+        "Louisbourg"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0457\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u0456\u0441\u0431\u0443\u0440\u0491"
+    ],
+    "name:zho_x_preferred":[
+        "\u8def\u6613\u65af\u5821"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -111,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309540,
+    "wof:lastmodified":1690863859,
     "wof:name":"Louisburg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

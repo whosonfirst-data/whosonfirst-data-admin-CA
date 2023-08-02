@@ -26,8 +26,14 @@
     "mz:max_zoom":19.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0628\u0631\u064a\u0627\u0644 \u0623\u0648\u064a\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0645\u067e\u0631\u06cc\u0627\u0644 \u0627\u0648\u06cc\u0644"
+    ],
+    "name:dan_x_preferred":[
+        "Imperial Oil"
     ],
     "name:deu_x_preferred":[
         "Imperial Oil"
@@ -41,8 +47,14 @@
     "name:fra_x_preferred":[
         "L'Imp\u00e9riale Esso"
     ],
+    "name:gle_x_preferred":[
+        "Imperial Oil"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05de\u05e4\u05e8\u05d9\u05d0\u05dc \u05d0\u05d5\u05d9\u05dc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30da\u30ea\u30a2\u30eb\u30fb\u30aa\u30a4\u30eb"
     ],
     "name:nld_x_preferred":[
         "Imperial Oil"
@@ -58,6 +70,9 @@
     ],
     "name:ukr_x_preferred":[
         "Imperial Oil"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e1d\u56fd\u77f3\u6cb9"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -123,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309570,
+    "wof:lastmodified":1690863894,
     "wof:name":"Imperial Oil",
     "wof:parent_id":101735369,
     "wof:placetype":"neighbourhood",

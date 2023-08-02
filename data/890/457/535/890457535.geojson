@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.0200075,44.9562185,-65.0200075,44.9562185",
+    "geom:bbox":"-65.020008,44.956218,-65.020008,44.956218",
     "geom:latitude":44.956218,
     "geom:longitude":-65.020008,
     "gp:adm0":23424775,
@@ -25,6 +25,9 @@
     ],
     "name:nld_x_preferred":[
         "Wilmot"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u043b\u043c\u043e\u0442"
     ],
     "qs:name":"Wilmot",
     "qs:name_adm0":"Canada",
@@ -53,7 +56,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053147,
-    "wof:geomhash":"0028c847f0f078723422ac23c632c9c4",
+    "wof:geomhash":"0640bfbd6637c2216cc19b168e77f786",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890457535,
-    "wof:lastmodified":1566520204,
+    "wof:lastmodified":1690865174,
     "wof:name":"Wilmot",
     "wof:parent_id":890456461,
     "wof:placetype":"locality",
@@ -75,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.0200075,
-    44.9562185,
-    -65.0200075,
-    44.9562185
+    -65.020008,
+    44.956218,
+    -65.020008,
+    44.956218
 ],
-  "geometry": {"coordinates":[-65.02000750000001,44.9562185],"type":"Point"}
+  "geometry": {"coordinates":[-65.020008,44.956218],"type":"Point"}
 }

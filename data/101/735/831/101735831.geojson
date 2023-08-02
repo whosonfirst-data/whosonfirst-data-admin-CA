@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0643\u0641\u064a\u0644"
     ],
+    "name:atj_x_preferred":[
+        "Brockville"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0648\u06cc\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u043e\u043a\u0432\u0456\u043b"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u043e\u043a\u0432\u0456\u043b"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u0995\u09ad\u09bf\u09b2"
@@ -39,6 +48,9 @@
         "Brockville"
     ],
     "name:deu_x_preferred":[
+        "Brockville"
+    ],
+    "name:diq_x_preferred":[
         "Brockville"
     ],
     "name:ell_x_preferred":[
@@ -86,6 +98,9 @@
     "name:kor_x_preferred":[
         "\ube0c\ub8e9\ube4c"
     ],
+    "name:kur_x_preferred":[
+        "Brockville"
+    ],
     "name:lav_x_preferred":[
         "Brokvila"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0949\u0915\u0935\u093f\u0932"
+    ],
+    "name:mlg_x_preferred":[
+        "Brockville"
     ],
     "name:msa_x_preferred":[
         "Brockville"
@@ -150,7 +168,8 @@
         "\u0411\u0440\u043e\u043a\u0432\u0456\u043b\u044c(\u041e\u043d\u0442\u0430\u0440\u0456\u043e)"
     ],
     "name:ukr_x_variant":[
-        "\u0411\u0440\u043e\u043a\u0432\u0456\u043b"
+        "\u0411\u0440\u043e\u043a\u0432\u0456\u043b",
+        "\u0411\u0440\u043e\u043a\u0432\u0456\u043b\u043b"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u06a9-\u0648\u0644"
@@ -306,7 +325,7 @@
         }
     ],
     "wof:id":101735831,
-    "wof:lastmodified":1636414375,
+    "wof:lastmodified":1690864949,
     "wof:name":"Brockville",
     "wof:parent_id":890457573,
     "wof:placetype":"locality",

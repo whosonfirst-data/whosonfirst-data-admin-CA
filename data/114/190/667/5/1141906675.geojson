@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.5333116065,47.8332934764,-69.5333116065,47.8332934764",
+    "geom:bbox":"-69.533312,47.833293,-69.533312,47.833293",
     "geom:latitude":47.833293,
     "geom:longitude":-69.533312,
     "iso:country":"CA",
@@ -24,6 +24,9 @@
     "name:atj_x_preferred":[
         "Rivi\u00e8re-du-Loup"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0648\u06cc\u0631-\u062f\u0648-\u0644\u0648\u067e"
+    ],
     "name:cat_x_preferred":[
         "Rivi\u00e8re-du-Loup"
     ],
@@ -39,10 +42,19 @@
     "name:deu_x_preferred":[
         "Rivi\u00e8re-du-Loup"
     ],
+    "name:diq_x_preferred":[
+        "Rivi\u00e8re-du-Loup"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b2\u03b9\u03ad\u03c1-\u03bd\u03c4\u03c5-\u039b\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Rivi\u00e8re-du-Loup"
     ],
     "name:epo_x_preferred":[
+        "Rivi\u00e8re-du-Loup"
+    ],
+    "name:est_x_preferred":[
         "Rivi\u00e8re-du-Loup"
     ],
     "name:eus_x_preferred":[
@@ -222,7 +234,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130624,
-    "wof:geomhash":"997de3ffd22eb50fdd88c620544f0d66",
+    "wof:geomhash":"580705cd223dc3b241a0f1671f2a4612",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -233,7 +245,7 @@
         }
     ],
     "wof:id":1141906675,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1690865423,
     "wof:name":"Riviere-du-Loup",
     "wof:parent_id":890456305,
     "wof:placetype":"locality",
@@ -243,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.53331160651055,
-    47.83329347644479,
-    -69.53331160651055,
-    47.83329347644479
+    -69.533312,
+    47.833293,
+    -69.533312,
+    47.833293
 ],
-  "geometry": {"coordinates":[-69.53331160651055,47.83329347644479],"type":"Point"}
+  "geometry": {"coordinates":[-69.533312,47.833293],"type":"Point"}
 }

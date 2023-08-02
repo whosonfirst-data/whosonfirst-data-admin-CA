@@ -50,11 +50,20 @@
     "name:fra_x_preferred":[
         "Metro Vancouver"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e0\u05e7\u05d5\u05d1\u05e8 \u05e8\u05d1\u05ea\u05d9"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30ec\u30fc\u30bf\u30fc\u30fb\u30d0\u30f3\u30af\u30fc\u30d0\u30fc"
     ],
     "name:por_x_preferred":[
         "Metro Vancouver"
+    ],
+    "name:por_x_variant":[
+        "Grande Vancouver"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0442\u0440\u043e \u0412\u0430\u043d\u043a\u0443\u0432\u0435\u0440"
     ],
     "name:yue_x_preferred":[
         "\u5927\u6eab\u54e5\u83ef\u5730\u5340"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":890457467,
-    "wof:lastmodified":1627521964,
+    "wof:lastmodified":1690865226,
     "wof:name":"Greater Vancouver",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

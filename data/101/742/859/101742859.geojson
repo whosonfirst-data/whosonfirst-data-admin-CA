@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000179,
     "geom:area_square_m":1275405.882833,
-    "geom:bbox":"-127.0260452,54.7430767,-127.0008821,54.7503689",
+    "geom:bbox":"-127.026045,54.743077,-127.000882,54.750369",
     "geom:latitude":54.746721,
     "geom:longitude":-127.013463,
     "iso:country":"CA",
@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Jean Baptiste Plauch\u00e9"
     ],
+    "name:ces_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Jean Baptiste Plauch\u00e9"
     ],
@@ -32,6 +38,9 @@
         "Jean Baptiste 28"
     ],
     "name:eng_x_variant":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
+    "name:fin_x_preferred":[
         "Jean Baptiste Plauch\u00e9"
     ],
     "name:fra_x_preferred":[
@@ -46,10 +55,28 @@
     "name:nld_x_preferred":[
         "Jean Baptiste Plauch\u00e9"
     ],
+    "name:nob_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
+    "name:pap_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
     "name:slv_x_preferred":[
         "Jean Baptiste Plauch\u00e9"
     ],
     "name:spa_x_preferred":[
+        "Jean Baptiste Plauch\u00e9"
+    ],
+    "name:sqi_x_preferred":[
+        "Jean Baptiste Plauche"
+    ],
+    "name:swe_x_preferred":[
         "Jean Baptiste Plauch\u00e9"
     ],
     "qs:a0":"Canada",
@@ -82,7 +109,7 @@
         "wd:id":"Q6170208"
     },
     "wof:country":"CA",
-    "wof:geomhash":"d31082a10b6e134d5a01cadc4b5707a5",
+    "wof:geomhash":"8f9dbf2786228e725f742b641b219f33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +120,7 @@
         }
     ],
     "wof:id":101742859,
-    "wof:lastmodified":1566520013,
+    "wof:lastmodified":1690864989,
     "wof:name":"Jean Baptiste 28",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",
@@ -104,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -127.0260452,
-    54.74307670000002,
-    -127.00088210000001,
-    54.75036890000001
+    -127.026045,
+    54.743077,
+    -127.000882,
+    54.750369
 ],
-  "geometry": {"coordinates":[[[-127.00100450000002,54.74307670000002],[-127.0260452,54.74322840000002],[-127.02591089999999,54.75036890000001],[-127.0133965,54.7502902],[-127.00088210000001,54.75021020000003],[-127.00100450000002,54.74307670000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-127.00100500000001,54.743077],[-127.026045,54.743228],[-127.02591099999999,54.750369],[-127.013396,54.75029],[-127.000882,54.75021],[-127.00100500000001,54.743077]]],"type":"Polygon"}
 }

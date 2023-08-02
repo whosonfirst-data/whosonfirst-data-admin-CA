@@ -38,10 +38,16 @@
     "name:deu_x_preferred":[
         "Richmond"
     ],
+    "name:diq_x_preferred":[
+        "Richmond"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03af\u03c4\u03c3\u03bc\u03bf\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
+        "Richmond"
+    ],
+    "name:est_x_preferred":[
         "Richmond"
     ],
     "name:eus_x_preferred":[
@@ -95,7 +101,6 @@
     "name:spa_x_preferred":[
         "Richmond"
     ],
-    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u0420\u0438\u0447\u043c\u043e\u043d\u0434"
     ],
@@ -119,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b41\u5317\u514b\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u91cc\u58eb\u6ee1"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -170,7 +178,7 @@
         }
     ],
     "wof:id":101737895,
-    "wof:lastmodified":1636414334,
+    "wof:lastmodified":1690864290,
     "wof:name":"Richmond",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

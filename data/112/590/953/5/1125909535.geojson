@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0633\u0627\u0643\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0633\u0627\u0643\u0633"
+    ],
     "name:cat_x_preferred":[
         "Sachs Harbour"
     ],
@@ -41,11 +47,17 @@
     "name:fra_x_preferred":[
         "Sachs Harbour"
     ],
+    "name:gle_x_preferred":[
+        "Sachs Harbour"
+    ],
     "name:ita_x_preferred":[
         "Sachs Harbour"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c3\u30af\u30b9\u30fb\u30cf\u30fc\u30d0\u30fc"
+    ],
+    "name:lav_x_preferred":[
+        "Saksh\u0101rbora"
     ],
     "name:lit_x_preferred":[
         "Saks Harboras"
@@ -77,8 +89,14 @@
     "name:tur_x_preferred":[
         "Sachs Harbour"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043a\u0441-\u0413\u0430\u0440\u0431\u043e\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0686\u0633 \u062d\u0631\u0628\u0648\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u514b\u65af\u6e2f"
     ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":null,
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1125909535,
-    "wof:lastmodified":1566520317,
+    "wof:lastmodified":1690865334,
     "wof:name":"Sachs Harbour",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

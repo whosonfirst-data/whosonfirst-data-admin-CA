@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.8365825,43.836569,-64.8365825,43.836569",
+    "geom:bbox":"-64.836583,43.836569,-64.836583,43.836569",
     "geom:latitude":43.836569,
     "geom:longitude":-64.836583,
     "gp:adm0":23424775,
@@ -25,6 +25,9 @@
     ],
     "name:fra_x_preferred":[
         "Port Joli"
+    ],
+    "name:fra_x_variant":[
+        "port Joli"
     ],
     "name:gla_x_preferred":[
         "Port Joli"
@@ -62,7 +65,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053232,
-    "wof:geomhash":"fed8e70edfe50694af1755a8aee3b6fa",
+    "wof:geomhash":"c2fcb22a08bc492ca303187a6416f127",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890458679,
-    "wof:lastmodified":1566520130,
+    "wof:lastmodified":1690865067,
     "wof:name":"Port Joli",
     "wof:parent_id":890456819,
     "wof:placetype":"locality",
@@ -84,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.8365825,
+    -64.836583,
     43.836569,
-    -64.8365825,
+    -64.836583,
     43.836569
 ],
-  "geometry": {"coordinates":[-64.83658250000001,43.836569],"type":"Point"}
+  "geometry": {"coordinates":[-64.836583,43.836569],"type":"Point"}
 }

@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u0995 \u09b2\u09c1\u0987\u099c\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Lake Louise"
+    ],
     "name:deu_x_preferred":[
         "Lake Louise"
     ],
@@ -36,11 +39,17 @@
     "name:fas_x_preferred":[
         "\u0644\u06cc\u06a9 \u0644\u0648\u0626\u06cc\u0633"
     ],
+    "name:fin_x_preferred":[
+        "Lake Louise"
+    ],
     "name:fra_x_preferred":[
         "Lake Louise"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d2\u05dd \u05dc\u05d5\u05d0\u05d9\u05d6"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d9\u05d9\u05e7 \u05dc\u05d5\u05d0\u05d9\u05d6"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u0908\u0938 \u091d\u0940\u0932"
@@ -83,6 +92,9 @@
     ],
     "name:spa_x_preferred":[
         "Lago Louise"
+    ],
+    "name:spa_x_variant":[
+        "Lake Louise"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u0458\u043a \u041b\u0443\u0438\u0437"
@@ -227,7 +239,7 @@
         }
     ],
     "wof:id":1141907945,
-    "wof:lastmodified":1636414466,
+    "wof:lastmodified":1690865424,
     "wof:name":"Lake Louise",
     "wof:parent_id":1158863183,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.5002435,50.757608,-111.5002435,50.757608",
+    "geom:bbox":"-111.500243,50.757608,-111.500243,50.757608",
     "geom:latitude":50.757608,
     "geom:longitude":-111.500243,
     "gp:adm0":23424775,
@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u064a\u0631\u0647"
+    ],
     "name:ast_x_preferred":[
         "princesa"
     ],
+    "name:aze_x_preferred":[
+        "\u015fahzad\u0259 q\u0131z"
+    ],
     "name:bak_x_preferred":[
         "\u0448\u0430\u04bb\u0431\u0438\u043a\u04d9"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044b\u043d\u0446\u044d\u0441\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u099c\u0995\u09a8\u09cd\u09af\u09be"
     ],
     "name:bul_x_preferred":[
         "\u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0430"
@@ -37,6 +49,9 @@
     ],
     "name:cym_x_preferred":[
         "tywysoges"
+    ],
+    "name:dag_x_preferred":[
+        "Nabipu\u0263in\u014bga"
     ],
     "name:dan_x_preferred":[
         "prinsesse"
@@ -59,17 +74,35 @@
     "name:epo_x_preferred":[
         "princino"
     ],
+    "name:est_x_preferred":[
+        "printsess"
+    ],
     "name:eus_x_preferred":[
         "printzesa"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647\u062f\u062e\u062a"
+    ],
     "name:fin_x_preferred":[
         "Prinsessa"
+    ],
+    "name:fin_x_variant":[
+        "prinsessa"
     ],
     "name:fra_x_preferred":[
         "princesse"
     ],
     "name:gle_x_preferred":[
         "Banphrionsa"
+    ],
+    "name:gle_x_variant":[
+        "banphrionsa"
+    ],
+    "name:glg_x_preferred":[
+        "princesa"
+    ],
+    "name:hat_x_preferred":[
+        "prens\u00e8s"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e1\u05d9\u05db\u05d4"
@@ -80,8 +113,20 @@
     "name:hrv_x_preferred":[
         "Princeza"
     ],
+    "name:hrv_x_variant":[
+        "princeza"
+    ],
+    "name:hsb_x_preferred":[
+        "princesna"
+    ],
     "name:hun_x_preferred":[
         "hercegn\u0151"
+    ],
+    "name:hye_x_preferred":[
+        "\u0561\u0580\u0584\u0561\u0575\u0561\u0564\u0578\u0582\u057d\u057f\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Putri raja"
     ],
     "name:ita_x_preferred":[
         "principessa"
@@ -89,8 +134,17 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30f3\u30bb\u30b9"
     ],
+    "name:kas_x_preferred":[
+        "\u0634\u0627\u06c1 \u0632\u0672\u062f\u0620"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10dc\u10ea\u10d4\u10e1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uacf5\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "dotm\u00eer"
     ],
     "name:lat_x_preferred":[
         "Principissa"
@@ -107,8 +161,17 @@
     "name:msa_x_preferred":[
         "Puteri"
     ],
+    "name:msa_x_variant":[
+        "puteri"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0631\u0646\u0633\u0633"
+    ],
     "name:nan_x_preferred":[
         "Princess"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u093e\u091c\u0915\u0941\u092e\u093e\u0930\u0940"
     ],
     "name:nld_x_preferred":[
         "prinses"
@@ -119,8 +182,14 @@
     "name:pol_x_preferred":[
         "ksi\u0119\u017cniczka"
     ],
+    "name:por_x_preferred":[
+        "princesa"
+    ],
     "name:ron_x_preferred":[
         "Prin\u021bes\u0103"
+    ],
+    "name:ron_x_variant":[
+        "prin\u021bes\u0103"
     ],
     "name:rus_x_preferred":[
         "\u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430"
@@ -128,8 +197,23 @@
     "name:sco_x_preferred":[
         "Princess"
     ],
+    "name:slv_x_preferred":[
+        "princesa"
+    ],
+    "name:sme_x_preferred":[
+        "prinseassa"
+    ],
+    "name:smn_x_preferred":[
+        "prinses"
+    ],
+    "name:sms_x_preferred":[
+        "prinse\u02b9ss"
+    ],
     "name:spa_x_preferred":[
         "princesa"
+    ],
+    "name:sqi_x_preferred":[
+        "Princesha"
     ],
     "name:srp_x_preferred":[
         "\u043f\u0440\u0438\u043d\u0446\u0435\u0437\u0430"
@@ -140,17 +224,26 @@
     "name:tat_x_preferred":[
         "\u0448\u0430\u04bb\u0431\u0438\u043a\u04d9"
     ],
+    "name:tgk_x_preferred":[
+        "\u0448\u043e\u04b3\u0434\u0443\u0445\u0442"
+    ],
     "name:tur_x_preferred":[
         "Prenses"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0632\u0627\u062f\u06cc"
     ],
     "name:vie_x_preferred":[
         "C\u00f4ng ch\u00faa"
+    ],
+    "name:vie_x_variant":[
+        "Ho\u00e0ng n\u1eef"
     ],
     "name:wuu_x_preferred":[
         "\u516c\u4e3b"
@@ -191,7 +284,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053062,
-    "wof:geomhash":"cfb2a70faeea7b1d5e56fb762c0ba856",
+    "wof:geomhash":"16896cf47e9b09870db38983eb13c1f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -202,7 +295,7 @@
         }
     ],
     "wof:id":890456603,
-    "wof:lastmodified":1566520160,
+    "wof:lastmodified":1690865113,
     "wof:name":"Princess",
     "wof:parent_id":1158863209,
     "wof:placetype":"locality",
@@ -213,10 +306,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.5002435,
+    -111.500243,
     50.757608,
-    -111.5002435,
+    -111.500243,
     50.757608
 ],
-  "geometry": {"coordinates":[-111.5002435,50.757608],"type":"Point"}
+  "geometry": {"coordinates":[-111.500243,50.757608],"type":"Point"}
 }

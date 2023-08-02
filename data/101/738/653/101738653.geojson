@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Saint-Antonin"
     ],
+    "name:est_x_preferred":[
+        "Saint-Antonin"
+    ],
     "name:eus_x_preferred":[
         "Saint-Antonin"
     ],
@@ -80,7 +83,8 @@
         "\u0633\u06cc\u0646\u0679-\u0627\u0646\u0679\u0648\u0646\u06cc\u06ba \u060c \u06a9\u06cc\u0648\u0628\u06a9"
     ],
     "name:urd_x_variant":[
-        "\u0633\u06cc\u0646\u0679-\u0627\u0646\u0679\u0648\u0646\u06cc\u06ba"
+        "\u0633\u06cc\u0646\u0679-\u0627\u0646\u0679\u0648\u0646\u06cc\u06ba",
+        "\u0633\u06cc\u0646\u0679-\u0627\u0646\u0679\u0648\u0646\u06cc\u06ba "
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
@@ -103,8 +107,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890456305,
-        136251273
+        136251273,
+        890456305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":101738653,
-    "wof:lastmodified":1587163109,
+    "wof:lastmodified":1690864581,
     "wof:name":"Saint-Antonin",
     "wof:parent_id":890456305,
     "wof:placetype":"locality",

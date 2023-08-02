@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.8505635,45.644588,-79.8505635,45.644588",
+    "geom:bbox":"-79.850564,45.644588,-79.850564,45.644588",
     "geom:latitude":45.644588,
     "geom:longitude":-79.850564,
     "gn:country":null,
@@ -20,7 +20,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Dunchurch"
+    ],
     "name:eng_x_preferred":[
+        "Dunchurch"
+    ],
+    "name:fra_x_preferred":[
+        "Dunchurch"
+    ],
+    "name:ita_x_preferred":[
         "Dunchurch"
     ],
     "name:nld_x_preferred":[
@@ -63,7 +72,7 @@
     },
     "wof:country":"CA",
     "wof:created":1497299344,
-    "wof:geomhash":"79c4737d22f12aa733f4b522064961ee",
+    "wof:geomhash":"733276d43cdcc7c8ec1ea31a5f540404",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1125996087,
-    "wof:lastmodified":1566520316,
+    "wof:lastmodified":1690865332,
     "wof:name":"Dunchurch",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",
@@ -84,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.8505635,
+    -79.850564,
     45.644588,
-    -79.8505635,
+    -79.850564,
     45.644588
 ],
-  "geometry": {"coordinates":[-79.85056350000001,45.644588],"type":"Point"}
+  "geometry": {"coordinates":[-79.85056400000001,45.644588],"type":"Point"}
 }

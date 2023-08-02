@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628 \u062f\u0648\u0631\u0633\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0628 \u062f\u0648\u0631\u0633\u062a"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09aa \u09a1\u09b0\u09b8\u09c7\u099f"
     ],
@@ -37,11 +40,17 @@
     "name:deu_x_preferred":[
         "Cape Dorset"
     ],
+    "name:deu_x_variant":[
+        "Kinngait"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03ad\u03b9\u03c0 \u039d\u03c4\u03cc\u03c1\u03c3\u03b5\u03c4"
     ],
     "name:eng_x_preferred":[
         "Cape Dorset"
+    ],
+    "name:eng_x_variant":[
+        "Kinngait"
     ],
     "name:est_x_preferred":[
         "Cape Dorset"
@@ -54,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "Cape Dorset"
+    ],
+    "name:fra_x_variant":[
+        "Kinngait"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aaa \u0aa1\u0acb\u0ab0\u0acd\u0ab8\u0ac7\u0a9f"
@@ -109,6 +121,9 @@
     "name:pol_x_preferred":[
         "Cape Dorset"
     ],
+    "name:pol_x_variant":[
+        "Kinngait"
+    ],
     "name:por_x_preferred":[
         "Cape Dorset"
     ],
@@ -129,6 +144,9 @@
     ],
     "name:swe_x_preferred":[
         "Cape Dorset"
+    ],
+    "name:swe_x_variant":[
+        "Kinngait"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc7\u0baa\u0bcd \u0b9f\u0bcb\u0bb0\u0bcd\u0b9a\u0bc6\u0b9f\u0bcd"
@@ -153,6 +171,9 @@
     ],
     "name:vie_x_preferred":[
         "Cape Dorset"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u585e\u7279\u89d2"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -300,7 +321,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636414364,
+    "wof:lastmodified":1690864883,
     "wof:name":"Cape Dorset",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

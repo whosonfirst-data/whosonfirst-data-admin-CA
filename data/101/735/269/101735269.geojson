@@ -26,17 +26,29 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u062f\u0631\u064a\u0643\u062a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u064a\u062f\u0631\u064a\u0643\u062a\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Fredericton"
     ],
     "name:azb_x_preferred":[
         "\u0641\u0631\u062f\u0631\u06cc\u06a9\u062a\u0648\u0646"
     ],
+    "name:ban_x_preferred":[
+        "Fredericton"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0440\u044d\u0434\u044d\u0440\u044b\u043a\u0442\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0424\u0440\u044d\u0434\u044d\u0440\u044b\u043a\u0442\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b0\u09c7\u09a1\u09c7\u09b0\u09bf\u0995\u099f\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09cd\u09b0\u09c7\u09a1\u09b0\u09bf\u0995\u099f\u09a8"
     ],
     "name:bos_x_preferred":[
         "Fredericton"
@@ -65,6 +77,9 @@
     "name:deu_x_preferred":[
         "Fredericton"
     ],
+    "name:diq_x_preferred":[
+        "Fredericton"
+    ],
     "name:ell_x_preferred":[
         "\u03a6\u03c1\u03ad\u03bd\u03c4\u03c1\u03b9\u03ba\u03c4\u03bf\u03bd"
     ],
@@ -73,6 +88,9 @@
     ],
     "name:epo_x_preferred":[
         "Frederiktono"
+    ],
+    "name:est_x_preferred":[
+        "Fredericton"
     ],
     "name:eus_x_preferred":[
         "Fredericton"
@@ -87,6 +105,9 @@
         "Fredericton"
     ],
     "name:fra_x_preferred":[
+        "Fredericton"
+    ],
+    "name:frr_x_preferred":[
         "Fredericton"
     ],
     "name:fry_x_preferred":[
@@ -119,6 +140,9 @@
     "name:hun_x_preferred":[
         "Fredericton"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u0580\u0565\u0564\u0565\u0580\u056b\u056f\u0569\u0578\u0576"
+    ],
     "name:ile_x_preferred":[
         "Fredericton"
     ],
@@ -146,17 +170,26 @@
     "name:kor_x_preferred":[
         "\ud504\ub808\ub354\ub9ad\ud134"
     ],
+    "name:kur_x_preferred":[
+        "Fredericton"
+    ],
     "name:lat_x_preferred":[
         "Fredericopolis"
     ],
     "name:lav_x_preferred":[
         "Frederiktona"
     ],
+    "name:lij_x_preferred":[
+        "Fredericton"
+    ],
     "name:lit_x_preferred":[
         "Frederiktonas"
     ],
     "name:mar_x_preferred":[
         "\u092b\u094d\u0930\u0947\u0921\u0930\u093f\u0915\u094d\u091f\u0928"
+    ],
+    "name:mlg_x_preferred":[
+        "Fredericton"
     ],
     "name:msa_x_preferred":[
         "Fredericton"
@@ -206,6 +239,9 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0dca\u200d\u0dbb\u0dd9\u0da9\u0dbb\u0dd2\u0d9a\u0dca\u0da7\u0db1\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Fredericton"
+    ],
     "name:slv_x_preferred":[
         "Fredericton"
     ],
@@ -242,6 +278,9 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0435\u0440\u0456\u043a\u0442\u043e\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0442\u043e\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u06cc\u0688\u0631\u06cc\u06a9\u0679\u0646"
     ],
@@ -253,6 +292,9 @@
     ],
     "name:war_x_preferred":[
         "Fredericton"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5f17\u96f7\u5fb7\u91cc\u514b\u987f"
     ],
     "name:yue_x_preferred":[
         "\u8153\u7279\u70c8\u9813"
@@ -382,8 +424,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        890458685,
-        85682065
+        85682065,
+        890458685
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -414,7 +456,7 @@
         }
     ],
     "wof:id":101735269,
-    "wof:lastmodified":1607462651,
+    "wof:lastmodified":1690864902,
     "wof:name":"Fredericton",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

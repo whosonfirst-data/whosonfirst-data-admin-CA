@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-116.416765,58.1840585,-116.416765,58.1840585",
+    "geom:bbox":"-116.416765,58.184058,-116.416765,58.184058",
     "geom:latitude":58.184058,
     "geom:longitude":-116.416765,
     "gp:adm0":23424775,
@@ -25,6 +25,9 @@
     ],
     "name:fra_x_preferred":[
         "La Crete"
+    ],
+    "name:fra_x_variant":[
+        "La Cr\u00eate"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0631\u06cc\u0679\u06cc"
@@ -56,7 +59,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053117,
-    "wof:geomhash":"96fb961d25520c1c3726cc2671ae6bce",
+    "wof:geomhash":"0a91b25deaeaf07d16e782543dafbac1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890457063,
-    "wof:lastmodified":1566520219,
+    "wof:lastmodified":1690865192,
     "wof:name":"La Cr\u00eate",
     "wof:parent_id":1158863313,
     "wof:placetype":"locality",
@@ -79,9 +82,9 @@
 },
   "bbox": [
     -116.416765,
-    58.1840585,
+    58.184058,
     -116.416765,
-    58.1840585
+    58.184058
 ],
-  "geometry": {"coordinates":[-116.416765,58.1840585],"type":"Point"}
+  "geometry": {"coordinates":[-116.416765,58.184058],"type":"Point"}
 }
