@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.6174205,50.480189,-122.6174205,50.480189",
+    "geom:bbox":"-122.61742,50.480189,-122.61742,50.480189",
     "geom:latitude":50.480189,
     "geom:longitude":-122.61742,
     "gn:country":null,
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
+        "Birken"
+    ],
+    "name:fra_x_preferred":[
         "Birken"
     ],
     "name:nld_x_preferred":[
@@ -63,7 +66,7 @@
     },
     "wof:country":"CA",
     "wof:created":1497303883,
-    "wof:geomhash":"c0cce12b0a724012805813bfae494631",
+    "wof:geomhash":"29d59e75e9d2f6a98a29d3e27f211cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126059359,
-    "wof:lastmodified":1566520286,
+    "wof:lastmodified":1690865276,
     "wof:name":"Birken",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",
@@ -84,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.6174205,
+    -122.61742,
     50.480189,
-    -122.6174205,
+    -122.61742,
     50.480189
 ],
-  "geometry": {"coordinates":[-122.61742049999999,50.480189],"type":"Point"}
+  "geometry": {"coordinates":[-122.61742,50.480189],"type":"Point"}
 }

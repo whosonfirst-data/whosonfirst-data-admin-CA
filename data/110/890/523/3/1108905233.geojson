@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.3884080638,43.6429125428,-79.3884080638,43.6429125428",
+    "geom:bbox":"-79.388408,43.642913,-79.388408,43.642913",
     "geom:latitude":43.642913,
     "geom:longitude":-79.388408,
     "iso:country":"CA",
@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Railway Lands"
     ],
+    "name:nld_x_preferred":[
+        "Railway Lands"
+    ],
     "reversegeo:latitude":43.642913,
     "reversegeo:longitude":3688719791087.0,
     "src:geom":"mz",
@@ -39,7 +42,7 @@
         "wd:id":"Q14875397"
     },
     "wof:country":"CA",
-    "wof:geomhash":"bdb6a35209b17d5b20b29ef85e2b2102",
+    "wof:geomhash":"deb3a4bc298980cbaac4e99da4c219ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1108905233,
-    "wof:lastmodified":1566519300,
+    "wof:lastmodified":1690864113,
     "wof:name":"Railway Lands",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.38840806383396,
-    43.64291254275147,
-    -79.38840806383396,
-    43.64291254275147
+    -79.388408,
+    43.642913,
+    -79.388408,
+    43.642913
 ],
-  "geometry": {"coordinates":[-79.38840806383396,43.64291254275147],"type":"Point"}
+  "geometry": {"coordinates":[-79.388408,43.642913],"type":"Point"}
 }

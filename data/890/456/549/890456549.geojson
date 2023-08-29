@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.3640465,44.2880385,-64.3640465,44.2880385",
+    "geom:bbox":"-64.364047,44.288038,-64.364047,44.288038",
     "geom:latitude":44.288038,
     "geom:longitude":-64.364047,
     "gp:adm0":23424775,
@@ -29,11 +29,17 @@
     "name:nld_x_preferred":[
         "LaHave"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0425\u0430\u0432"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06c1\u0627\u0648\u06cc\u060c \u0646\u0648\u0648\u0627 \u0633\u06a9\u0648\u0679\u06cc\u0627"
     ],
     "name:urd_x_variant":[
         "\u0644\u0627\u06c1\u0627\u0648\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8d6b\u592b"
     ],
     "qs:name":"Lahave",
     "qs:name_adm0":"Canada",
@@ -62,7 +68,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053053,
-    "wof:geomhash":"cddd048e7c5e12fd298b4ed15fbadb90",
+    "wof:geomhash":"04c77b43bd9cd3724d8f42c255fac41d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890456549,
-    "wof:lastmodified":1566520196,
+    "wof:lastmodified":1690865158,
     "wof:name":"Lahave",
     "wof:parent_id":890457729,
     "wof:placetype":"locality",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.3640465,
-    44.2880385,
-    -64.3640465,
-    44.2880385
+    -64.364047,
+    44.288038,
+    -64.364047,
+    44.288038
 ],
-  "geometry": {"coordinates":[-64.3640465,44.2880385],"type":"Point"}
+  "geometry": {"coordinates":[-64.364047,44.288038],"type":"Point"}
 }

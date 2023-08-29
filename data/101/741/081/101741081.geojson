@@ -23,10 +23,16 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u062a\u0634\u0645\u0648\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u062a\u0634\u0645\u0648\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Richmond"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0686\u0645\u0648\u0646\u062f"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0420\u044b\u0447\u043c\u0430\u043d\u0434"
     ],
     "name:bul_x_preferred":[
@@ -43,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Richmond"
+    ],
+    "name:diq_x_preferred":[
+        "Richmond"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03c4\u03c3\u03bc\u03bf\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Richmond"
@@ -67,6 +79,9 @@
     ],
     "name:hrv_x_preferred":[
         "Richmond"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0579\u0574\u0578\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Richmond"
@@ -173,6 +188,9 @@
     "name:zho_x_preferred":[
         "\u5217\u6cbb\u6587"
     ],
+    "name:zho_x_variant":[
+        "\u91cc\u58eb\u6ee1"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5217\u6cbb\u6587"
     ],
@@ -232,7 +250,7 @@
         }
     ],
     "wof:id":101741081,
-    "wof:lastmodified":1636414355,
+    "wof:lastmodified":1690864821,
     "wof:name":"Richmond",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

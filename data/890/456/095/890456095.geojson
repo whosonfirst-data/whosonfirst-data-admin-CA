@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.437724,44.6755195,-63.437724,44.6755195",
+    "geom:bbox":"-63.437724,44.67552,-63.437724,44.67552",
     "geom:latitude":44.67552,
     "geom:longitude":-63.437724,
     "gp:adm0":23424775,
@@ -17,7 +17,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0443\u043b \u0425\u0430\u0440\u0431\u044a\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Cole Harbour"
+    ],
     "name:ceb_x_preferred":[
+        "Cole Harbour"
+    ],
+    "name:dan_x_preferred":[
+        "Cole Harbour"
+    ],
+    "name:deu_x_preferred":[
         "Cole Harbour"
     ],
     "name:eng_x_preferred":[
@@ -34,6 +46,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30fc\u30eb\u30fb\u30cf\u30fc\u30d0\u30fc"
+    ],
+    "name:mlg_x_preferred":[
+        "Cole Harbour"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0443\u043b \u0425\u0430\u0440\u0431\u043e\u0440"
     ],
     "name:swe_x_preferred":[
         "Cole Harbour"
@@ -64,7 +82,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053011,
-    "wof:geomhash":"702c432355bd1150cdbbfc3097b90015",
+    "wof:geomhash":"09dc84c19ff7ea0627948fa252253f26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +92,7 @@
         }
     ],
     "wof:id":890456095,
-    "wof:lastmodified":1566520189,
+    "wof:lastmodified":1690865151,
     "wof:name":"Cole Harbour",
     "wof:parent_id":85682075,
     "wof:placetype":"locality",
@@ -86,9 +104,9 @@
 },
   "bbox": [
     -63.437724,
-    44.6755195,
+    44.67552,
     -63.437724,
-    44.6755195
+    44.67552
 ],
-  "geometry": {"coordinates":[-63.437724,44.6755195],"type":"Point"}
+  "geometry": {"coordinates":[-63.437724,44.67552],"type":"Point"}
 }

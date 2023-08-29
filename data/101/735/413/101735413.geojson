@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.014545,
     "geom:area_square_m":55612107.089915,
-    "geom:bbox":"-125.5554796,71.967885,-125.145646,72.0086107",
+    "geom:bbox":"-125.55548,71.967885,-125.145646,72.008611",
     "geom:latitude":71.988251,
-    "geom:longitude":-125.350368,
+    "geom:longitude":-125.350367,
     "gn:population":90,
     "iso:country":"CA",
     "lbl:latitude":71.988245,
@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0633\u0627\u0643\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0633\u0627\u0643\u0633"
+    ],
     "name:cat_x_preferred":[
         "Sachs Harbour"
     ],
@@ -41,11 +47,17 @@
     "name:fra_x_preferred":[
         "Sachs Harbour"
     ],
+    "name:gle_x_preferred":[
+        "Sachs Harbour"
+    ],
     "name:ita_x_preferred":[
         "Sachs Harbour"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c3\u30af\u30b9\u30fb\u30cf\u30fc\u30d0\u30fc"
+    ],
+    "name:lav_x_preferred":[
+        "Saksh\u0101rbora"
     ],
     "name:lit_x_preferred":[
         "Saks Harboras"
@@ -77,8 +89,14 @@
     "name:tur_x_preferred":[
         "Sachs Harbour"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043a\u0441-\u0413\u0430\u0440\u0431\u043e\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0686\u0633 \u062d\u0631\u0628\u0648\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u514b\u65af\u6e2f"
     ],
     "qs:a0":"Canada",
     "qs:a1":"*Northwest Territories",
@@ -120,7 +138,7 @@
         "wk:page":"Sachs Harbour"
     },
     "wof:country":"CA",
-    "wof:geomhash":"f18a3cee15db3da36d2a95e21ba51d2d",
+    "wof:geomhash":"cc16aa65b054a5e9f0992631c3cecd4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":101735413,
-    "wof:lastmodified":1566519924,
+    "wof:lastmodified":1690864881,
     "wof:name":"Sachs Harbour",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",
@@ -143,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -125.5554796,
+    -125.55548,
     71.967885,
     -125.145646,
-    72.0086107
+    72.008611
 ],
-  "geometry": {"coordinates":[[[-125.1497775,72.00861070000001],[-125.145646,71.97277440000001],[-125.5505699,71.967885],[-125.5554796,72.0037109],[-125.1497775,72.00861070000001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-125.149777,72.008611],[-125.145646,71.972774],[-125.55056999999999,71.967885],[-125.55548,72.003711],[-125.149777,72.008611]]],"type":"Polygon"}
 }

@@ -46,6 +46,9 @@
     "name:deu_x_preferred":[
         "Georgian Bay"
     ],
+    "name:deu_x_variant":[
+        "Georgian Bucht"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03cc\u03c1\u03c4\u03b6\u03b9\u03b1\u03bd \u039c\u03c0\u03ad\u03b9"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:epo_x_preferred":[
         "Georgian Bay"
+    ],
+    "name:eus_x_preferred":[
+        "Georgiar badia"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0644\u06cc\u062c \u062c\u0648\u0631\u062c\u06cc\u0627\u0646"
@@ -66,6 +72,9 @@
     ],
     "name:glg_x_preferred":[
         "Georgian Bay"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05d2'\u05d5\u05e8\u05d2'\u05d9\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c\u093f\u0905\u0928 \u0916\u093e\u095c\u0940"
@@ -88,8 +97,14 @@
     "name:kor_x_preferred":[
         "\uc870\uc9c0\uc544 \ub9cc"
     ],
+    "name:kor_x_variant":[
+        "\uc870\uc9c0\uc544\ub9cc"
+    ],
     "name:min_x_preferred":[
         "Georgian Bay"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u0440\u045f\u0438\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
     "name:msa_x_preferred":[
         "Georgian Bay"
@@ -99,6 +114,9 @@
     ],
     "name:nld_x_preferred":[
         "Georgian Bay"
+    ],
+    "name:nld_x_variant":[
+        "Georgian Baai"
     ],
     "name:nob_x_preferred":[
         "Georgian Bay"
@@ -127,11 +145,17 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0442\u043e\u043a\u0430 \u0414\u0436\u043e\u0440\u0434\u0436\u0456\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436\u0435\u043d-\u0411\u0435\u0439"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u062c\u06cc\u0646 \u0628\u06d2"
     ],
     "name:vie_x_preferred":[
         "H\u1ed3 Georgian Bay"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e54\u6cbb\u4e9a\u6e7e"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u6cbb\u4e9e\u7063"
@@ -168,7 +192,7 @@
         }
     ],
     "wof:id":890458383,
-    "wof:lastmodified":1636414386,
+    "wof:lastmodified":1690865038,
     "wof:name":"Georgian Bay",
     "wof:parent_id":890458545,
     "wof:placetype":"localadmin",

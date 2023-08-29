@@ -56,8 +56,14 @@
     "name:ita_x_preferred":[
         "Fraser"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ec\u30a4\u30b6\u30fc"
+    ],
     "name:kor_x_preferred":[
         "\ud504\ub808\uc774\uc800"
+    ],
+    "name:nld_x_preferred":[
+        "Fraser"
     ],
     "name:pol_x_preferred":[
         "Fraser"
@@ -88,6 +94,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5f17\u96f7\u6fa4\u6cb3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u96f7\u6fa4"
     ],
     "reversegeo:latitude":53.611161,
     "reversegeo:longitude":-113.372484,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1108971877,
-    "wof:lastmodified":1636414321,
+    "wof:lastmodified":1690864136,
     "wof:name":"Fraser",
     "wof:parent_id":1108970583,
     "wof:placetype":"neighbourhood",

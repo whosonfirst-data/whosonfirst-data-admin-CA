@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-66.752929,45.8906425,-66.752929,45.8906425",
+    "geom:bbox":"-66.752929,45.890642,-66.752929,45.890642",
     "geom:latitude":45.890642,
     "geom:longitude":-66.752929,
     "gn:country":null,
@@ -25,6 +25,12 @@
     ],
     "name:fra_x_preferred":[
         "Hanwell"
+    ],
+    "name:por_x_preferred":[
+        "Hanwell"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0432\u0435\u043b\u043b"
     ],
     "qs_pg:aaroncc":"CA",
     "qs_pg:gn_country":null,
@@ -63,7 +69,7 @@
     },
     "wof:country":"CA",
     "wof:created":1497293961,
-    "wof:geomhash":"ec72841c9d8739a7db3aa26fdad63e09",
+    "wof:geomhash":"e75b296022271910c5a492e272c55e92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1125864237,
-    "wof:lastmodified":1566520297,
+    "wof:lastmodified":1690865296,
     "wof:name":"Hanwell",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",
@@ -85,9 +91,9 @@
 },
   "bbox": [
     -66.752929,
-    45.8906425,
+    45.890642,
     -66.752929,
-    45.8906425
+    45.890642
 ],
-  "geometry": {"coordinates":[-66.75292899999999,45.8906425],"type":"Point"}
+  "geometry": {"coordinates":[-66.75292899999999,45.890642],"type":"Point"}
 }

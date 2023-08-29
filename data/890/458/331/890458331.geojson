@@ -26,11 +26,17 @@
     "name:arg_x_preferred":[
         "Rama"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u063a\u0627\u062c \u062f\u0627\u0644\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u043b\u0456\u043d\u0430\u0432\u0430\u043d\u043d\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09be\u0996\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u043e\u043d"
     ],
     "name:cat_x_preferred":[
         "branca"
@@ -38,8 +44,17 @@
     "name:ces_x_preferred":[
         "v\u011btev"
     ],
+    "name:chv_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u0442"
+    ],
+    "name:dag_x_preferred":[
+        "wulli"
+    ],
     "name:dan_x_preferred":[
         "Gren"
+    ],
+    "name:dan_x_variant":[
+        "gren"
     ],
     "name:deu_x_preferred":[
         "Ast"
@@ -52,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Bran\u0109o"
+    ],
+    "name:epo_x_variant":[
+        "bran\u0109o"
     ],
     "name:est_x_preferred":[
         "Oks"
@@ -89,14 +107,32 @@
     "name:hin_x_preferred":[
         "\u0936\u093e\u0916\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Grana"
+    ],
+    "name:hsb_x_preferred":[
+        "ha\u0142uza"
+    ],
+    "name:hun_x_preferred":[
+        "\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0573\u0575\u0578\u0582\u0572"
+    ],
     "name:ido_x_preferred":[
         "Brancho"
     ],
     "name:ina_x_preferred":[
         "Ramo"
     ],
+    "name:ind_x_preferred":[
+        "cabang pohon"
+    ],
     "name:ita_x_preferred":[
         "ramo"
+    ],
+    "name:jbo_x_preferred":[
+        "tricu jimca"
     ],
     "name:jpn_x_preferred":[
         "\u679d"
@@ -107,8 +143,20 @@
     "name:kor_x_preferred":[
         "\uac00\uc9c0"
     ],
+    "name:kur_x_preferred":[
+        "liq"
+    ],
     "name:lat_x_preferred":[
         "Ramus"
+    ],
+    "name:lat_x_variant":[
+        "ramus"
+    ],
+    "name:lav_x_preferred":[
+        "zari"
+    ],
+    "name:lin_x_preferred":[
+        "Et\u00e1pi"
     ],
     "name:lit_x_preferred":[
         "\u0160aka"
@@ -118,6 +166,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d36\u0d3e\u0d16"
+    ],
+    "name:mcn_x_preferred":[
+        "m\u0253\u00f9 g\u00f9n\u00e0"
     ],
     "name:mzn_x_preferred":[
         "\u0686\u0644\u0647"
@@ -130,6 +181,9 @@
     ],
     "name:nno_x_preferred":[
         "grein"
+    ],
+    "name:nob_x_preferred":[
+        "gren"
     ],
     "name:nrm_x_preferred":[
         "Braunque"
@@ -152,8 +206,14 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0442\u0432\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u0432\u0435\u0442\u0432\u044c"
+    ],
     "name:sah_x_preferred":[
         "\u0421\u0430\u043b\u0430\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c5f\u1c79\u1c68"
     ],
     "name:sco_x_preferred":[
         "brainch"
@@ -164,14 +224,32 @@
     "name:slk_x_preferred":[
         "Kon\u00e1r"
     ],
+    "name:slv_x_preferred":[
+        "veja"
+    ],
     "name:som_x_preferred":[
         "Laan"
     ],
     "name:spa_x_preferred":[
         "Rama"
     ],
+    "name:spa_x_variant":[
+        "rama"
+    ],
+    "name:sqi_x_preferred":[
+        "Dega"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Tawi"
+    ],
     "name:swe_x_preferred":[
         "Gren"
+    ],
+    "name:swe_x_variant":[
+        "gren"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4a\u0c2e\u0c4d\u0c2e"
@@ -179,8 +257,14 @@
     "name:tgk_x_preferred":[
         "\u041d\u0430\u0432\u0434\u0430"
     ],
+    "name:tur_x_preferred":[
+        "A\u011fa\u00e7 dal\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06c1\u0646\u06cc"
     ],
     "qs:name":"Branch",
     "qs:name_adm0":"Canada",
@@ -220,7 +304,7 @@
         }
     ],
     "wof:id":890458331,
-    "wof:lastmodified":1566520096,
+    "wof:lastmodified":1690865007,
     "wof:name":"Branch",
     "wof:parent_id":85682123,
     "wof:placetype":"locality",

@@ -53,8 +53,14 @@
     "name:ind_x_preferred":[
         "Albany"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d0\u30cb"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ubc14\ub2c8"
+    ],
+    "name:nld_x_preferred":[
+        "Albany"
     ],
     "name:tur_x_preferred":[
         "Albany"
@@ -67,6 +73,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5967\u5df4\u5c3c"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u5df4\u5c3c"
     ],
     "reversegeo:latitude":53.632116,
     "reversegeo:longitude":-113.548878,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108971619,
-    "wof:lastmodified":1636414321,
+    "wof:lastmodified":1690864117,
     "wof:name":"Albany",
     "wof:parent_id":1108970591,
     "wof:placetype":"neighbourhood",

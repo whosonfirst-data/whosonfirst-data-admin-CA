@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062f\u064a\u062a\u0648\u0631\u064a\u0648\u0645"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0627\u0639\u0629 \u0627\u0633\u062a\u0645\u0627\u0639"
+    ],
     "name:ast_x_preferred":[
         "Auditoriu"
     ],
     "name:aze_x_preferred":[
         "Auditoriya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0433\u043b\u044f\u0434\u0437\u0435\u043b\u044c\u043d\u0430\u044f \u0437\u0430\u043b\u0430"
     ],
     "name:cat_x_preferred":[
         "Auditori"
@@ -53,6 +59,12 @@
     "name:deu_x_preferred":[
         "Zuschauerraum"
     ],
+    "name:deu_x_variant":[
+        "Auditorium"
+    ],
+    "name:ell_x_preferred":[
+        "\u03b1\u03af\u03b8\u03bf\u03c5\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Auditorium"
     ],
@@ -68,8 +80,14 @@
     "name:eus_x_preferred":[
         "Auditorio"
     ],
+    "name:eus_x_variant":[
+        "auditorium"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u062f\u06cc\u062a\u0648\u0631\u06cc\u0648\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "auditorio"
     ],
     "name:fra_x_preferred":[
         "Auditorium"
@@ -80,6 +98,9 @@
     "name:glg_x_preferred":[
         "Auditorio"
     ],
+    "name:glg_x_variant":[
+        "auditorio"
+    ],
     "name:hbs_x_preferred":[
         "Auditorijum"
     ],
@@ -89,6 +110,9 @@
     "name:hrv_x_preferred":[
         "Auditorij"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0570\u056c\u056b\u0573"
+    ],
     "name:ita_x_preferred":[
         "Auditorium"
     ],
@@ -97,6 +121,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30c7\u30a3\u30c8\u30ea\u30a2\u30e0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cad\u0cbe\u0c82\u0c97\u0ca3"
     ],
     "name:kor_x_preferred":[
         "\uc624\ub514\ud1a0\ub9ac\uc5c4"
@@ -113,17 +140,44 @@
     "name:pol_x_preferred":[
         "Widownia"
     ],
+    "name:pol_x_variant":[
+        "widownia"
+    ],
+    "name:por_x_preferred":[
+        "audit\u00f3rio"
+    ],
     "name:ron_x_preferred":[
         "Aul\u0103"
     ],
     "name:rus_x_preferred":[
         "\u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c5a\u1c5d\u1c75\u1c77\u1c5a\u1c75\u1c5a\u1c71"
+    ],
     "name:sco_x_preferred":[
         "auditorium"
     ],
     "name:slk_x_preferred":[
         "Audit\u00f3rium"
+    ],
+    "name:slv_x_preferred":[
+        "avditorij"
+    ],
+    "name:sme_x_preferred":[
+        "auditoria"
+    ],
+    "name:smn_x_preferred":[
+        "auditorio"
+    ],
+    "name:sms_x_preferred":[
+        "auditorio"
+    ],
+    "name:snd_x_preferred":[
+        "\u0622\u068a\u064a\u067d\u0648\u0631\u064a\u0645"
+    ],
+    "name:som_x_preferred":[
+        "Qolka shirarka"
     ],
     "name:spa_x_preferred":[
         "Auditorio"
@@ -134,6 +188,9 @@
     "name:swe_x_preferred":[
         "Auditorium"
     ],
+    "name:swe_x_variant":[
+        "auditorium"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb2\u0bc8\u0baf\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd"
     ],
@@ -143,11 +200,20 @@
     "name:tur_x_preferred":[
         "Oditoryum"
     ],
+    "name:ukr_x_preferred":[
+        "\u0430\u0432\u0434\u0438\u0442\u043e\u0440\u0456\u044f"
+    ],
     "name:vie_x_preferred":[
         "Kh\u00e1n ph\u00f2ng"
     ],
+    "name:vie_x_variant":[
+        "kh\u00e1n ph\u00f2ng"
+    ],
     "name:zho_x_preferred":[
         "\u8868\u6f14\u5ef3"
+    ],
+    "name:zho_x_variant":[
+        "\u96c6\u6703\u5802"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -221,7 +287,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309610,
+    "wof:lastmodified":1690863963,
     "wof:name":"Auditorium",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

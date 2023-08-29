@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-66.3600169288,50.3160876659,-66.3600169288,50.3160876659",
+    "geom:bbox":"-66.360017,50.316088,-66.360017,50.316088",
     "geom:latitude":50.316088,
     "geom:longitude":-66.360017,
     "iso:country":"CA",
@@ -27,6 +27,9 @@
     "name:atj_x_preferred":[
         "Sept-\u00celes"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u067e\u062a-\u06cc\u0644\u0632"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u0442-\u0406\u043b\u044c"
     ],
@@ -46,6 +49,9 @@
         "\u03a3\u03b5\u03c4-\u0399\u03bb"
     ],
     "name:eng_x_preferred":[
+        "Sept-\u00celes"
+    ],
+    "name:epo_x_preferred":[
         "Sept-\u00celes"
     ],
     "name:est_x_preferred":[
@@ -110,6 +116,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u092a\u094d\u091f-\u090f\u0932\u094d\u0938"
+    ],
+    "name:mlg_x_preferred":[
+        "Sept-\u00celes"
     ],
     "name:msa_x_preferred":[
         "Sept-Iles"
@@ -285,7 +294,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499130971,
-    "wof:geomhash":"7862ae409bb1a8324181d631982efa07",
+    "wof:geomhash":"d7b0f3885dbc4492d0637bc282389b98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -296,7 +305,7 @@
         }
     ],
     "wof:id":1141908753,
-    "wof:lastmodified":1566520625,
+    "wof:lastmodified":1690865422,
     "wof:name":"Sept-Iles",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",
@@ -306,10 +315,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.3600169287634,
-    50.31608766590784,
-    -66.3600169287634,
-    50.31608766590784
+    -66.360017,
+    50.316088,
+    -66.360017,
+    50.316088
 ],
-  "geometry": {"coordinates":[-66.3600169287634,50.31608766590784],"type":"Point"}
+  "geometry": {"coordinates":[-66.360017,50.316088],"type":"Point"}
 }

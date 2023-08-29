@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "La Scie"
     ],
+    "name:ceb_x_variant":[
+        "LaScie"
+    ],
     "name:deu_x_preferred":[
         "La Scie"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "La Scie"
+    ],
+    "name:eng_x_variant":[
+        "LaScie"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0633\u06cc"
@@ -71,6 +77,9 @@
     "name:pol_x_preferred":[
         "La Scie"
     ],
+    "name:por_x_preferred":[
+        "LaScie"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0441\u0446\u0438"
     ],
@@ -80,8 +89,14 @@
     "name:swe_x_preferred":[
         "La Scie"
     ],
+    "name:swe_x_variant":[
+        "LaScie"
+    ],
     "name:tur_x_preferred":[
         "La Scie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0421\u0456"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u0627\u0626\u06cc"
@@ -94,6 +109,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u62c9\u897f\u8036"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u897f\u9547"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -235,7 +253,7 @@
         }
     ],
     "wof:id":890456201,
-    "wof:lastmodified":1636414405,
+    "wof:lastmodified":1690865153,
     "wof:name":"La Scie",
     "wof:parent_id":1158869015,
     "wof:placetype":"locality",

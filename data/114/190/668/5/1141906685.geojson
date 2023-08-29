@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "\u0644\u064a\u0641\u0631\u0628\u0648\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0641\u0631\u0628\u0648\u0644"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ad\u09be\u09b0\u09aa\u09c1\u09b2"
     ],
@@ -81,11 +84,20 @@
     "name:nld_x_preferred":[
         "Liverpool"
     ],
+    "name:nob_x_preferred":[
+        "Liverpool"
+    ],
+    "name:pol_x_preferred":[
+        "Liverpool"
+    ],
     "name:por_x_preferred":[
         "Liverpool"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0432\u0435\u0440\u043f\u0443\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u0432\u0435\u0440\u043f\u0443\u043b"
     ],
     "name:spa_x_preferred":[
         "Liverpool"
@@ -232,7 +244,7 @@
         }
     ],
     "wof:id":1141906685,
-    "wof:lastmodified":1636414465,
+    "wof:lastmodified":1690865423,
     "wof:name":"Liverpool",
     "wof:parent_id":890456819,
     "wof:placetype":"locality",

@@ -23,8 +23,14 @@
     "name:cat_x_preferred":[
         "Bur\u00ed"
     ],
+    "name:cat_x_variant":[
+        "bur\u00ed"
+    ],
     "name:ces_x_preferred":[
         "Rydlo"
+    ],
+    "name:ces_x_variant":[
+        "rydlo"
     ],
     "name:deu_x_preferred":[
         "Stichel"
@@ -33,7 +39,8 @@
         "Burin"
     ],
     "name:eng_x_variant":[
-        "burin"
+        "burin",
+        "stone burin"
     ],
     "name:eus_x_preferred":[
         "Beran"
@@ -53,14 +60,26 @@
     "name:mkd_x_preferred":[
         "\u0440\u0438\u043b\u043e"
     ],
+    "name:nds_x_preferred":[
+        "Gravur"
+    ],
     "name:nld_x_preferred":[
         "burijn"
     ],
     "name:pol_x_preferred":[
         "Rylec"
     ],
+    "name:pol_x_variant":[
+        "rylec"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0442\u0438\u0445\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0448\u0442\u0438\u0445\u0435\u043b\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "bulinu"
     ],
     "name:spa_x_preferred":[
         "buril"
@@ -112,7 +131,7 @@
         }
     ],
     "wof:id":890458337,
-    "wof:lastmodified":1566520097,
+    "wof:lastmodified":1690865010,
     "wof:name":"Burin",
     "wof:parent_id":85682123,
     "wof:placetype":"locality",

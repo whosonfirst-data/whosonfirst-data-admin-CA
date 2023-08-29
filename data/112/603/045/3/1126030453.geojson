@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bowmanville"
+    ],
     "name:deu_x_preferred":[
         "Bowmanville"
     ],
@@ -31,11 +34,20 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u0645\u0646\u200c\u0648\u06cc\u0644"
     ],
+    "name:fin_x_preferred":[
+        "Bowmanville"
+    ],
     "name:fra_x_preferred":[
         "Bowmanville"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d5\u05de\u05e0\u05d5\u05d9\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Bowmanville"
+    ],
+    "name:ita_x_preferred":[
+        "Bowmanville"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30a6\u30de\u30f3\u30d3\u30eb"
@@ -43,8 +55,20 @@
     "name:nld_x_preferred":[
         "Bowmanville"
     ],
+    "name:pol_x_preferred":[
+        "Bowmanville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0443\u043c\u044d\u043d\u0432\u0438\u043b\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "Bowmanville"
+    ],
+    "name:swe_x_preferred":[
+        "Bowmanville"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0443\u043c\u0430\u043d\u0432\u0456\u043b"
     ],
     "name:zho_x_preferred":[
         "\u9b91\u66fc\u7dad\u723e"
@@ -99,7 +123,7 @@
         }
     ],
     "wof:id":1126030453,
-    "wof:lastmodified":1566520294,
+    "wof:lastmodified":1690865290,
     "wof:name":"Bowmanville",
     "wof:parent_id":890456493,
     "wof:placetype":"locality",

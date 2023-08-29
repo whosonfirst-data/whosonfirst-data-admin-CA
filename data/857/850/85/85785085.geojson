@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:cat_x_preferred":[
+        "New Waterford"
+    ],
     "name:eng_x_preferred":[
         "New Waterford"
     ],
@@ -35,6 +38,12 @@
     ],
     "name:gla_x_variant":[
         "Portlairge \u00d9r"
+    ],
+    "name:pol_x_preferred":[
+        "New Waterford"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e-\u0423\u043e\u0442\u0435\u0440\u0444\u043e\u0440\u0434"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_fcode":"PPL",
@@ -99,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309540,
+    "wof:lastmodified":1690863860,
     "wof:name":"New Waterford",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

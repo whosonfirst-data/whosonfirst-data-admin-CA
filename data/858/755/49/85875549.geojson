@@ -32,6 +32,9 @@
     "name:aka_x_preferred":[
         "kuro"
     ],
+    "name:anp_x_preferred":[
+        "\u0936\u0939\u0930"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u0629"
     ],
@@ -53,11 +56,17 @@
     "name:bar_x_preferred":[
         "St\u00e5d"
     ],
+    "name:bcl_x_preferred":[
+        "banwaan"
+    ],
     "name:bel_x_preferred":[
         "\u043c\u044f\u0441\u0442\u044d\u0447\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u0997\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u099b\u09cb\u099f \u09b6\u09b9\u09b0"
     ],
     "name:bho_x_preferred":[
         "\u0915\u0938\u094d\u092c\u093e"
@@ -67,6 +76,9 @@
     ],
     "name:bos_x_preferred":[
         "Kasaba"
+    ],
+    "name:bos_x_variant":[
+        "gradi\u0107"
     ],
     "name:bre_x_preferred":[
         "bourc'h"
@@ -86,6 +98,12 @@
     "name:ckb_x_preferred":[
         "\u0634\u0627\u0631\u06c6\u0686\u06a9\u06d5"
     ],
+    "name:cor_x_preferred":[
+        "Tre"
+    ],
+    "name:csb_x_preferred":[
+        "miastk\u00f2"
+    ],
     "name:cym_x_preferred":[
         "tref"
     ],
@@ -94,6 +112,12 @@
     ],
     "name:deu_x_preferred":[
         "Kleinstadt"
+    ],
+    "name:diq_x_preferred":[
+        "Qeze"
+    ],
+    "name:dsb_x_preferred":[
+        "m\u011bstko"
     ],
     "name:ell_x_preferred":[
         "\u03ba\u03c9\u03bc\u03cc\u03c0\u03bf\u03bb\u03b7"
@@ -106,6 +130,9 @@
     ],
     "name:epo_x_preferred":[
         "urbo"
+    ],
+    "name:epo_x_variant":[
+        "urbeto"
     ],
     "name:est_x_preferred":[
         "linn"
@@ -125,14 +152,23 @@
     "name:gla_x_preferred":[
         "Baile"
     ],
+    "name:gla_x_variant":[
+        "baile"
+    ],
     "name:gle_x_preferred":[
         "Baile"
+    ],
+    "name:gle_x_variant":[
+        "baile"
     ],
     "name:glg_x_preferred":[
         "vila"
     ],
     "name:glv_x_preferred":[
         "balley"
+    ],
+    "name:grc_x_preferred":[
+        "\u1f04\u03c3\u03c4\u03c5"
     ],
     "name:gsw_x_preferred":[
         "Chliistadt"
@@ -148,6 +184,9 @@
     ],
     "name:hif_x_preferred":[
         "Town"
+    ],
+    "name:hif_x_variant":[
+        "town"
     ],
     "name:hrv_x_preferred":[
         "gradi\u0107"
@@ -173,6 +212,9 @@
     "name:ind_x_preferred":[
         "kota madya"
     ],
+    "name:ind_x_variant":[
+        "kota kecil"
+    ],
     "name:isl_x_preferred":[
         "b\u00e6r"
     ],
@@ -185,14 +227,23 @@
     "name:kan_x_preferred":[
         "\u0caa\u0c9f\u0ccd\u0c9f\u0ca3"
     ],
+    "name:kas_x_preferred":[
+        "\u0642\u064e\u0635\u0628\u06c1\u0655"
+    ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049b\u0430\u043b\u0430\u0448\u044b\u049b"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc744"
     ],
     "name:kur_x_preferred":[
         "Bajarok"
+    ],
+    "name:kur_x_variant":[
+        "bajarok"
     ],
     "name:lat_x_preferred":[
         "oppidum"
@@ -209,14 +260,26 @@
     "name:mal_x_preferred":[
         "\u0d2a\u0d1f\u0d4d\u0d1f\u0d23\u0d02"
     ],
+    "name:mdf_x_preferred":[
+        "\u0451\u043c\u043b\u0430\u043e\u0448"
+    ],
     "name:mkd_x_preferred":[
         "\u0433\u0440\u0430\u0442\u0447\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u043f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabcc\uabe3\uabdc\uabc2\uabdd"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u043b\u0433\u0430\u0441"
     ],
     "name:msa_x_preferred":[
         "Bandar"
+    ],
+    "name:msa_x_variant":[
+        "bandar"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103c\u102d\u102f\u1037"
@@ -227,8 +290,17 @@
     "name:nds_x_preferred":[
         "l\u00fcttjere Stadt"
     ],
+    "name:nep_x_preferred":[
+        "\u0928\u0917\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "town"
+    ],
     "name:nno_x_preferred":[
         "by"
+    ],
+    "name:nno_x_variant":[
+        "sm\u00e5by"
     ],
     "name:nob_x_preferred":[
         "mindre by"
@@ -242,6 +314,12 @@
     "name:oci_x_preferred":[
         "vila mejana"
     ],
+    "name:oss_x_preferred":[
+        "\u0441\u0430\u0445\u0430\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a17\u0a30"
+    ],
     "name:pnb_x_preferred":[
         "\u0642\u0635\u0628\u06c1"
     ],
@@ -251,8 +329,17 @@
     "name:por_x_preferred":[
         "vila"
     ],
+    "name:pus_x_preferred":[
+        "\u069a\u0627\u0631\u06ab\u06cc"
+    ],
     "name:ron_x_preferred":[
         "ora\u0219"
+    ],
+    "name:ron_x_variant":[
+        "or\u0103\u0219el"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u0463\u0441\u0442\u0435\u0447\u043a\u043e"
     ],
     "name:rus_x_preferred":[
         "\u043c\u0430\u043b\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
@@ -275,6 +362,9 @@
     "name:sme_x_preferred":[
         "g\u00e1vpot"
     ],
+    "name:sna_x_preferred":[
+        "Jarati"
+    ],
     "name:snd_x_preferred":[
         "\u0642\u0635\u0628\u0648"
     ],
@@ -283,6 +373,9 @@
     ],
     "name:sqi_x_preferred":[
         "Qyteza"
+    ],
+    "name:sqi_x_variant":[
+        "qytez\u00eb"
     ],
     "name:srp_x_preferred":[
         "\u0432\u0430\u0440\u043e\u0448\u0438\u0446\u0430"
@@ -296,11 +389,17 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u043a\u0435\u0447\u0435 \u0448\u04d9\u04bb\u04d9\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c1f\u0c4d\u0c1f\u0c23\u0c02"
     ],
     "name:tgk_x_preferred":[
         "\u0448\u0430\u04b3\u0440\u0438 \u0445\u0443\u0440\u0434"
+    ],
+    "name:tgl_x_preferred":[
+        "Bayan"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07"
@@ -316,6 +415,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0628\u06c1"
+    ],
+    "name:vec_x_preferred":[
+        "borgada"
     ],
     "name:vie_x_preferred":[
         "th\u1ecb tr\u1ea5n"
@@ -340,6 +442,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9547"
+    ],
+    "name:zul_x_preferred":[
+        "Idolobhana"
     ],
     "qs:gn_adm0_cc":"CA",
     "qs:gn_id":0,
@@ -404,7 +509,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309570,
+    "wof:lastmodified":1690863896,
     "wof:name":"Town",
     "wof:parent_id":101735747,
     "wof:placetype":"neighbourhood",

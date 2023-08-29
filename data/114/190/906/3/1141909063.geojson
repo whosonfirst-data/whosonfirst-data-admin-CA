@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.4666475848,49.766689676,-94.4666475848,49.766689676",
+    "geom:bbox":"-94.466648,49.76669,-94.466648,49.76669",
     "geom:latitude":49.76669,
     "geom:longitude":-94.466648,
     "iso:country":"CA",
@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u0643\u064a\u0646\u0648\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0646\u0648\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kenora"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09a8\u09cb\u09b0\u09be"
     ],
@@ -34,6 +40,9 @@
         "Kenora"
     ],
     "name:deu_x_preferred":[
+        "Kenora"
+    ],
+    "name:diq_x_preferred":[
         "Kenora"
     ],
     "name:ell_x_preferred":[
@@ -110,6 +119,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd9\u0db1\u0ddc\u0dbb\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Kenora"
     ],
     "name:spa_x_preferred":[
         "Kenora"
@@ -255,7 +267,7 @@
     },
     "wof:country":"CA",
     "wof:created":1499131019,
-    "wof:geomhash":"b88aee2c1cff6e5ac2c96e8955b7e925",
+    "wof:geomhash":"74f30449ff7010ae9f2d532797fc1961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -266,7 +278,7 @@
         }
     ],
     "wof:id":1141909063,
-    "wof:lastmodified":1566520624,
+    "wof:lastmodified":1690865419,
     "wof:name":"Kenora",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
@@ -276,10 +288,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.4666475848004,
-    49.76668967599676,
-    -94.4666475848004,
-    49.76668967599676
+    -94.466648,
+    49.76669,
+    -94.466648,
+    49.76669
 ],
-  "geometry": {"coordinates":[-94.4666475848004,49.76668967599676],"type":"Point"}
+  "geometry": {"coordinates":[-94.46664800000001,49.76669],"type":"Point"}
 }

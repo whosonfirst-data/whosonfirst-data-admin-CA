@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0628\u0627\u062a \u0645\u0631\u0648\u062c"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0636\u0631\u0627\u0621"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0645\u0646"
     ],
@@ -41,11 +44,17 @@
     "name:bjn_x_preferred":[
         "Kumpay"
     ],
+    "name:bre_x_preferred":[
+        "Leton"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u0432\u043d\u0430 \u043f\u043b\u043e\u0449"
     ],
     "name:cat_x_preferred":[
         "Gespa"
+    ],
+    "name:cat_x_variant":[
+        "gespa"
     ],
     "name:ces_x_preferred":[
         "tr\u00e1vn\u00edk"
@@ -95,8 +104,14 @@
     "name:glg_x_preferred":[
         "C\u00e9spede"
     ],
+    "name:glg_x_variant":[
+        "c\u00e9spede"
+    ],
     "name:grn_x_preferred":[
         "Kapi'ipe"
+    ],
+    "name:hat_x_preferred":[
+        "Gazon"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d3\u05e9\u05d0\u05d4"
@@ -107,11 +122,20 @@
     "name:hun_x_preferred":[
         "Gyep"
     ],
+    "name:hun_x_variant":[
+        "gyep"
+    ],
+    "name:hye_x_preferred":[
+        "\u0563\u0561\u0566\u0578\u0576"
+    ],
     "name:ido_x_preferred":[
         "Gazono"
     ],
     "name:ind_x_preferred":[
         "Rumput"
+    ],
+    "name:ind_x_variant":[
+        "rerumputan"
     ],
     "name:ita_x_preferred":[
         "tappeto erboso"
@@ -167,6 +191,9 @@
     "name:nld_x_preferred":[
         "gazon"
     ],
+    "name:nno_x_preferred":[
+        "plen"
+    ],
     "name:nob_x_preferred":[
         "plen"
     ],
@@ -175,6 +202,12 @@
     ],
     "name:pol_x_preferred":[
         "Trawnik"
+    ],
+    "name:pol_x_variant":[
+        "trawnik"
+    ],
+    "name:por_x_preferred":[
+        "relvado"
     ],
     "name:que_x_preferred":[
         "Qachu-qachu"
@@ -188,6 +221,9 @@
     "name:sah_x_preferred":[
         "\u041e\u0442"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c5f\u1c65\u1c5f\u1c6b"
+    ],
     "name:sco_x_preferred":[
         "lawn"
     ],
@@ -196,6 +232,12 @@
     ],
     "name:slk_x_preferred":[
         "Tr\u00e1vnik"
+    ],
+    "name:slk_x_variant":[
+        "tr\u00e1vnik"
+    ],
+    "name:slv_x_preferred":[
+        "trava"
     ],
     "name:sna_x_preferred":[
         "Huswa"
@@ -217,6 +259,9 @@
     ],
     "name:swe_x_preferred":[
         "Gr\u00e4smatta"
+    ],
+    "name:swe_x_variant":[
+        "gr\u00e4smatta"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb2\u0bcd"
@@ -242,6 +287,9 @@
     "name:vie_x_preferred":[
         "B\u00e3i c\u1ecf"
     ],
+    "name:vie_x_variant":[
+        "b\u00e3i c\u1ecf"
+    ],
     "name:vls_x_preferred":[
         "Ges"
     ],
@@ -250,6 +298,9 @@
     ],
     "name:wln_x_preferred":[
         "Rimouye"
+    ],
+    "name:yue_x_preferred":[
+        "\u8349\u76ae\u5730"
     ],
     "name:zho_x_preferred":[
         "\u8349\u5730"
@@ -294,7 +345,7 @@
         }
     ],
     "wof:id":890458347,
-    "wof:lastmodified":1566520117,
+    "wof:lastmodified":1690865043,
     "wof:name":"Lawn",
     "wof:parent_id":1158869027,
     "wof:placetype":"locality",

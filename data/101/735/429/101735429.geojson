@@ -23,14 +23,23 @@
     "name:afr_x_preferred":[
         "Yellowknife"
     ],
+    "name:amh_x_preferred":[
+        "\u12e8\u120e\u1293\u12ed\u134d"
+    ],
     "name:ang_x_preferred":[
         "Geoluseax"
     ],
     "name:ara_x_preferred":[
         "\u064a\u0644\u0648\u0646\u0627\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0644\u0648\u0646\u0627\u064a\u0641"
+    ],
     "name:ast_x_preferred":[
         "Yellowknife"
+    ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0626\u0644\u0648\u0646\u0627\u06cc\u0641"
     ],
     "name:aze_x_preferred":[
         "Yellounayf"
@@ -43,6 +52,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09cb\u09b2\u09cb\u09a8\u09be\u0987\u09ab"
+    ],
+    "name:ben_x_variant":[
+        "\u0987\u09af\u09bc\u09c7\u09b2\u09cb\u09a8\u09be\u0987\u09ab"
     ],
     "name:bos_x_preferred":[
         "Yellowknife"
@@ -66,6 +78,9 @@
         "Yellowknife"
     ],
     "name:deu_x_preferred":[
+        "Yellowknife"
+    ],
+    "name:diq_x_preferred":[
         "Yellowknife"
     ],
     "name:ell_x_preferred":[
@@ -111,6 +126,9 @@
     "name:fra_x_preferred":[
         "Yellowknife"
     ],
+    "name:frr_x_preferred":[
+        "Yellowknife"
+    ],
     "name:fry_x_preferred":[
         "Yellowknife"
     ],
@@ -140,6 +158,9 @@
     ],
     "name:hun_x_preferred":[
         "Yellowknife"
+    ],
+    "name:hye_x_preferred":[
+        "\u0535\u056c\u0578\u0578\u0582\u0576\u0561\u0575\u0586"
     ],
     "name:hyw_x_preferred":[
         "\u0535\u056c\u0578\u0576\u0561\u0575\u0586"
@@ -185,6 +206,9 @@
     ],
     "name:ltz_x_preferred":[
         "Yellowknife"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2f\u0d46\u0d32\u0d4d\u0d32\u0d4b\u0d28\u0d48\u0d2b\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092f\u0932\u094b\u0928\u093e\u0907\u092b"
@@ -287,6 +311,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0404\u043b\u043b\u043e\u0443\u043d\u0430\u0439\u0444"
+    ],
+    "name:ukr_x_variant":[
+        "\u0404\u043b\u043b\u043e\u0432\u043d\u0430\u0439\u0444"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0644\u0648\u06a9\u0646\u06cc\u0641\u06d2"
@@ -428,8 +455,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        1158869041,
-        85682067
+        85682067,
+        1158869041
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -462,7 +489,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1607462651,
+    "wof:lastmodified":1690864942,
     "wof:megacity":0,
     "wof:name":"Yellowknife",
     "wof:parent_id":1158869041,

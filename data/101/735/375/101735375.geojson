@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.005534,
     "geom:area_square_m":25382661.217515,
-    "geom:bbox":"-135.1342188,68.1955528,-134.9518375,68.2574341",
+    "geom:bbox":"-135.134219,68.195553,-134.951838,68.257434",
     "geom:latitude":68.226004,
-    "geom:longitude":-135.037747,
+    "geom:longitude":-135.037748,
     "gn:population":648,
     "iso:country":"CA",
     "lbl:latitude":68.228671,
@@ -50,10 +50,16 @@
     "name:ita_x_preferred":[
         "Aklavik"
     ],
+    "name:lit_x_preferred":[
+        "Aklavikas"
+    ],
     "name:mrj_x_preferred":[
         "\u0410\u043a\u043b\u0430\u0432\u0438\u043a"
     ],
     "name:nld_x_preferred":[
+        "Aklavik"
+    ],
+    "name:nno_x_preferred":[
         "Aklavik"
     ],
     "name:nob_x_preferred":[
@@ -79,6 +85,9 @@
     ],
     "name:tur_x_preferred":[
         "Aklavik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u043b\u0430\u0432\u0456\u043a"
     ],
     "name:zho_x_preferred":[
         "\u963f\u514b\u62c9\u7ef4\u514b"
@@ -129,7 +138,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c8079aebb319d49a9cb2be0fe2ac4a87",
+    "wof:geomhash":"2113a08a0d7590eb8e53f7b8d49b1d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309903,
+    "wof:lastmodified":1690864973,
     "wof:name":"Aklavik",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",
@@ -155,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -135.1342188,
-    68.1955528,
-    -134.9518375,
-    68.2574341
+    -135.134219,
+    68.195553,
+    -134.951838,
+    68.257434
 ],
-  "geometry": {"coordinates":[[[-135.10406280000001,68.2358815],[-135.0436866,68.2574341],[-134.95183750000001,68.2233504],[-135.01220699999999,68.1955528],[-135.13421880000001,68.22689080000001],[-135.10406280000001,68.2358815]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-135.104063,68.235882],[-135.04368700000001,68.257434],[-134.95183800000001,68.22335],[-135.01220699999999,68.195553],[-135.134219,68.22689099999999],[-135.104063,68.235882]]],"type":"Polygon"}
 }

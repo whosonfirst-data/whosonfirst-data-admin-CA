@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u064a\u0631"
+    ],
     "name:ast_x_preferred":[
         "pr\u00edncipe"
+    ],
+    "name:aze_x_preferred":[
+        "\u015fahzad\u0259"
     ],
     "name:bak_x_preferred":[
         "\u043f\u0440\u0438\u043d\u0446"
@@ -34,11 +40,23 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u043d\u0446"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u044b\u043d\u0446"
+    ],
+    "name:bre_x_preferred":[
+        "pri\u00f1s"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043d\u0446"
     ],
+    "name:bul_x_variant":[
+        "\u043f\u0440\u0438\u043d\u0446"
+    ],
     "name:bxr_x_preferred":[
         "\u0425\u0430\u043d \u0445\u04af\u0431\u04af\u04af\u043d"
+    ],
+    "name:bxr_x_variant":[
+        "\u0445\u0430\u043d \u0445\u04af\u0431\u04af\u04af\u043d"
     ],
     "name:cat_x_preferred":[
         "pr\u00edncep"
@@ -49,6 +67,12 @@
     "name:cym_x_preferred":[
         "Tywysog"
     ],
+    "name:cym_x_variant":[
+        "tywysog"
+    ],
+    "name:dag_x_preferred":[
+        "Nabia"
+    ],
     "name:dan_x_preferred":[
         "prins"
     ],
@@ -58,8 +82,14 @@
     "name:diq_x_preferred":[
         "Prens"
     ],
+    "name:diq_x_variant":[
+        "prens"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03af\u03b3\u03ba\u03b9\u03c0\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03c0\u03c1\u03af\u03b3\u03ba\u03b9\u03c0\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Prince"
@@ -72,6 +102,9 @@
     ],
     "name:est_x_preferred":[
         "Prints"
+    ],
+    "name:est_x_variant":[
+        "prints"
     ],
     "name:eus_x_preferred":[
         "printze"
@@ -94,11 +127,20 @@
     "name:gle_x_preferred":[
         "Prionsa"
     ],
+    "name:gle_x_variant":[
+        "prionsa"
+    ],
     "name:glg_x_preferred":[
         "Pr\u00edncipe"
     ],
+    "name:glg_x_variant":[
+        "pr\u00edncipe"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a82\u0ab5\u0ab0"
+    ],
+    "name:hat_x_preferred":[
+        "prens"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e1\u05d9\u05da"
@@ -106,23 +148,38 @@
     "name:hrv_x_preferred":[
         "Princ"
     ],
+    "name:hrv_x_variant":[
+        "princ"
+    ],
     "name:hun_x_preferred":[
         "herceg"
     ],
     "name:hye_x_preferred":[
         "\u0561\u0580\u0584\u0561\u0575\u0561\u0566\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Princo"
+    ],
     "name:ind_x_preferred":[
         "Pangeran"
     ],
+    "name:ind_x_variant":[
+        "pangeran"
+    ],
     "name:isl_x_preferred":[
         "Prins"
+    ],
+    "name:isl_x_variant":[
+        "prins"
     ],
     "name:ita_x_preferred":[
         "principe"
     ],
     "name:jav_x_preferred":[
         "Pang\u00e9ran"
+    ],
+    "name:jav_x_variant":[
+        "pang\u00e9ran"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30f3\u30b9"
@@ -136,6 +193,9 @@
     "name:lat_x_preferred":[
         "Princeps"
     ],
+    "name:lat_x_variant":[
+        "princeps"
+    ],
     "name:lav_x_preferred":[
         "princis"
     ],
@@ -145,8 +205,14 @@
     "name:msa_x_preferred":[
         "Putera"
     ],
+    "name:msa_x_variant":[
+        "putera"
+    ],
     "name:nan_x_preferred":[
         "Th\u00e2u-l\u00e2ng"
+    ],
+    "name:nan_x_variant":[
+        "th\u00e2u-l\u00e2ng"
     ],
     "name:nep_x_preferred":[
         "\u0930\u093e\u091c\u0915\u0941\u092e\u093e\u0930"
@@ -160,6 +226,9 @@
     "name:nob_x_preferred":[
         "prins"
     ],
+    "name:oci_x_preferred":[
+        "Prince"
+    ],
     "name:pol_x_preferred":[
         "ksi\u0105\u017c\u0119"
     ],
@@ -169,8 +238,14 @@
     "name:rmy_x_preferred":[
         "Rayon"
     ],
+    "name:rmy_x_variant":[
+        "rayon"
+    ],
     "name:ron_x_preferred":[
         "Prin\u021b"
+    ],
+    "name:ron_x_variant":[
+        "prin\u021b"
     ],
     "name:rus_x_preferred":[
         "\u043f\u0440\u0438\u043d\u0446"
@@ -178,17 +253,44 @@
     "name:scn_x_preferred":[
         "Pr\u00ecncipi"
     ],
+    "name:scn_x_variant":[
+        "pr\u00ecncipi"
+    ],
     "name:sco_x_preferred":[
         "Prince"
+    ],
+    "name:sco_x_variant":[
+        "prince"
     ],
     "name:slk_x_preferred":[
         "Princ"
     ],
+    "name:slk_x_variant":[
+        "princ"
+    ],
     "name:slv_x_preferred":[
         "Princ"
     ],
+    "name:slv_x_variant":[
+        "princ"
+    ],
+    "name:sme_x_preferred":[
+        "prinsa"
+    ],
+    "name:smj_x_preferred":[
+        "prinssa"
+    ],
+    "name:smn_x_preferred":[
+        "prinss\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "prinss"
+    ],
     "name:spa_x_preferred":[
         "pr\u00edncipe"
+    ],
+    "name:sqi_x_preferred":[
+        "Princi"
     ],
     "name:srp_x_preferred":[
         "\u043f\u0440\u0438\u043d\u0446"
@@ -196,26 +298,53 @@
     "name:sun_x_preferred":[
         "Pang\u00e9ran"
     ],
+    "name:sun_x_variant":[
+        "pang\u00e9ran"
+    ],
     "name:swe_x_preferred":[
         "prins"
+    ],
+    "name:tat_x_preferred":[
+        "\u0448\u0430\u04bb\u0437\u0430\u0434\u04d9"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e49\u0e32"
     ],
+    "name:tuk_x_preferred":[
+        "\u015fazada"
+    ],
     "name:tur_x_preferred":[
         "Prens"
+    ],
+    "name:tur_x_variant":[
+        "prens"
+    ],
+    "name:uig_x_preferred":[
+        "\u0634\u0627\u06be\u0632\u0627\u062f\u06d5"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043d\u0446"
     ],
+    "name:ukr_x_variant":[
+        "\u043f\u0440\u0438\u043d\u0446"
+    ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0632\u0627\u062f\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "shahzoda"
     ],
     "name:vec_x_preferred":[
         "Principe"
     ],
+    "name:vec_x_variant":[
+        "principe"
+    ],
     "name:vie_x_preferred":[
         "v\u01b0\u01a1ng"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05e0\u05e5"
     ],
     "name:yue_x_preferred":[
         "\u89aa\u738b"
@@ -255,7 +384,7 @@
         }
     ],
     "wof:id":890456907,
-    "wof:lastmodified":1566520145,
+    "wof:lastmodified":1690865093,
     "wof:name":"Prince",
     "wof:parent_id":890457893,
     "wof:placetype":"localadmin",

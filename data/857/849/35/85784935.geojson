@@ -37,11 +37,17 @@
     "name:ang_x_preferred":[
         "Sandw\u012bc"
     ],
+    "name:ang_x_variant":[
+        "sandw\u012bc"
+    ],
     "name:ara_x_preferred":[
         "\u0634\u0637\u064a\u0631\u0629"
     ],
     "name:arg_x_preferred":[
         "Entrop\u00e1n"
+    ],
+    "name:arg_x_variant":[
+        "entrop\u00e1n"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0646\u062f\u0648\u064a\u062a\u0634"
@@ -49,8 +55,14 @@
     "name:ast_x_preferred":[
         "S\u00e1ndwich"
     ],
+    "name:ast_x_variant":[
+        "s\u00e1ndwich"
+    ],
     "name:atj_x_preferred":[
         "Saniwitc"
+    ],
+    "name:atj_x_variant":[
+        "saniwitc"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646\u062f\u0648\u06cc\u0686"
@@ -58,14 +70,26 @@
     "name:aze_x_preferred":[
         "Sandvi\u00e7"
     ],
+    "name:aze_x_variant":[
+        "sandvi\u00e7"
+    ],
+    "name:bak_x_preferred":[
+        "\u0441\u044d\u043d\u0434\u0432\u0438\u0447"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0989\u0987\u099a"
     ],
     "name:bos_x_preferred":[
         "Sendvi\u010d"
     ],
+    "name:bos_x_variant":[
+        "sendvi\u010d"
+    ],
     "name:bre_x_preferred":[
         "Sandwich"
+    ],
+    "name:bre_x_variant":[
+        "sandwich"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0432\u0438\u0447"
@@ -74,7 +98,8 @@
         "Entrep\u00e0"
     ],
     "name:cat_x_variant":[
-        "entrep\u00e0"
+        "entrep\u00e0",
+        "sandvitx"
     ],
     "name:cdo_x_preferred":[
         "S\u0103ng-m\u00ecng-d\u00ea"
@@ -138,11 +163,15 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062f\u0648\u06cc\u0686"
     ],
+    "name:fij_x_preferred":[
+        "Seniwiji"
+    ],
     "name:fin_x_preferred":[
         "Voileip\u00e4"
     ],
     "name:fin_x_variant":[
-        "voileip\u00e4"
+        "voileip\u00e4",
+        "sandwich"
     ],
     "name:fra_x_preferred":[
         "Sandwich"
@@ -158,6 +187,9 @@
     ],
     "name:gle_x_preferred":[
         "Ceapaire"
+    ],
+    "name:gle_x_variant":[
+        "ceapaire"
     ],
     "name:glg_x_preferred":[
         "S\u00e1ndwich"
@@ -186,8 +218,14 @@
     "name:hun_x_preferred":[
         "Szendvics"
     ],
+    "name:hun_x_variant":[
+        "szendvics"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u0576\u0564\u057e\u056b\u0579"
+    ],
+    "name:hye_x_variant":[
+        "\u057d\u0565\u0576\u0564\u057e\u056b\u0579"
     ],
     "name:hyw_x_preferred":[
         "\u054d\u0565\u0576\u057f\u0578\u0582\u056b\u0579"
@@ -197,6 +235,9 @@
     ],
     "name:ind_x_preferred":[
         "Roti lapis"
+    ],
+    "name:ind_x_variant":[
+        "roti lapis"
     ],
     "name:isl_x_preferred":[
         "Samloka"
@@ -319,7 +360,11 @@
         "Sandu\u00edche"
     ],
     "name:por_x_variant":[
-        "sandes"
+        "sandes",
+        "sandu\u00edche"
+    ],
+    "name:rmf_x_preferred":[
+        "t\u0161ilmaaro"
     ],
     "name:ron_x_preferred":[
         "Sandvi\u0219"
@@ -348,14 +393,30 @@
     "name:slv_x_preferred":[
         "Sendvi\u010d"
     ],
+    "name:slv_x_variant":[
+        "sendvi\u010d"
+    ],
     "name:sme_x_preferred":[
         "Vuodjal\u00e1ibi"
+    ],
+    "name:sme_x_variant":[
+        "vuodjal\u00e1ibi"
+    ],
+    "name:smn_x_preferred":[
+        "vuoj\u00e2leibi"
+    ],
+    "name:sms_x_preferred":[
+        "vu\u00f5jjlei\u02b9bb"
+    ],
+    "name:som_x_preferred":[
+        "sandwij"
     ],
     "name:spa_x_preferred":[
         "S\u00e1ndwich"
     ],
     "name:spa_x_variant":[
-        "s\u00e1ndwich"
+        "s\u00e1ndwich",
+        "bocadillo"
     ],
     "name:sqi_x_preferred":[
         "sandui\u00e7"
@@ -371,6 +432,9 @@
     ],
     "name:swe_x_variant":[
         "sandwich"
+    ],
+    "name:szl_x_preferred":[
+        "Klapsznita"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd\u0bb5\u0bbf\u0b9a\u0bcd"
@@ -390,20 +454,36 @@
     "name:tur_x_preferred":[
         "Sandvi\u00e7"
     ],
+    "name:tur_x_variant":[
+        "sandvi\u00e7"
+    ],
+    "name:uig_x_preferred":[
+        "\u0633\u0627\u0646\u062f\u0649\u06cb\u0649\u0698"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0434\u0432\u0456\u0447"
     ],
     "name:ukr_x_variant":[
-        "\u0441\u0435\u043d\u0434\u0432\u0456\u0447"
+        "\u0441\u0435\u043d\u0434\u0432\u0456\u0447",
+        "\u0441\u0430\u043d\u0434\u0432\u0456\u0447"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0688\u0648\u0686"
+    ],
+    "name:uzb_x_preferred":[
+        "sendvich"
     ],
     "name:vie_x_preferred":[
         "B\u00e1nh m\u00ec k\u1eb9p"
     ],
     "name:vol_x_preferred":[
         "s\u00e4ndvig"
+    ],
+    "name:war_x_preferred":[
+        "Sandwich"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e09\u660e\u6cbb"
     ],
     "name:xho_x_preferred":[
         "Sandwich"
@@ -486,7 +566,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309543,
+    "wof:lastmodified":1690863866,
     "wof:name":"Sandwich",
     "wof:parent_id":101735855,
     "wof:placetype":"neighbourhood",

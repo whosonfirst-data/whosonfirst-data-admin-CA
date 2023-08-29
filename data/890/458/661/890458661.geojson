@@ -26,6 +26,9 @@
     "name:afr_x_preferred":[
         "Montreal"
     ],
+    "name:aka_x_preferred":[
+        "Montreal"
+    ],
     "name:amh_x_preferred":[
         "\u121e\u1295\u1275\u122c\u12eb\u120d"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:arg_x_preferred":[
         "Mont-reyal"
+    ],
+    "name:ary_x_preferred":[
+        "\u0645\u0648\u0631\u064a\u0627\u0644"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0631\u064a\u0627\u0644"
@@ -56,6 +62,9 @@
     "name:bak_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
     ],
+    "name:ban_x_preferred":[
+        "Montr\u00e9al"
+    ],
     "name:bar_x_preferred":[
         "Montreal"
     ],
@@ -68,8 +77,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09cd\u09b0\u09bf\u0985\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09a8\u09cd\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09b2"
+    ],
     "name:bos_x_preferred":[
         "Montreal"
+    ],
+    "name:bos_x_variant":[
+        "Montr\u00e9al"
     ],
     "name:bre_x_preferred":[
         "Montreal"
@@ -80,6 +95,9 @@
     "name:cat_x_preferred":[
         "Mont-real"
     ],
+    "name:cat_x_variant":[
+        "Montreal"
+    ],
     "name:ceb_x_preferred":[
         "Montr\u00e9al"
     ],
@@ -88,6 +106,12 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u06c6\u0646\u062a\u0631\u06cc\u0627\u0644"
     ],
     "name:cor_x_preferred":[
         "Montreal"
@@ -105,6 +129,9 @@
         "Montreal"
     ],
     "name:deu_x_preferred":[
+        "Montreal"
+    ],
+    "name:diq_x_preferred":[
         "Montreal"
     ],
     "name:ell_x_preferred":[
@@ -131,7 +158,16 @@
     "name:fin_x_preferred":[
         "Montreal"
     ],
+    "name:fit_x_preferred":[
+        "Montr\u00e9al"
+    ],
     "name:fra_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:frp_x_preferred":[
+        "Montrey\u00e2l"
+    ],
+    "name:frr_x_preferred":[
         "Montr\u00e9al"
     ],
     "name:fry_x_preferred":[
@@ -221,11 +257,17 @@
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
     ],
+    "name:khm_x_preferred":[
+        "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784 Montreal"
+    ],
     "name:kir_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ud2b8\ub9ac\uc62c"
+    ],
+    "name:kur_x_preferred":[
+        "Montreal"
     ],
     "name:lad_x_preferred":[
         "Montreal"
@@ -239,6 +281,9 @@
     "name:lav_x_preferred":[
         "Monre\u0101la"
     ],
+    "name:lfn_x_preferred":[
+        "Montreal"
+    ],
     "name:lin_x_preferred":[
         "Montr\u00e9al"
     ],
@@ -251,20 +296,32 @@
     "name:ltz_x_preferred":[
         "Montr\u00e9al"
     ],
+    "name:lzh_x_preferred":[
+        "\u8499\u7279\u5a41"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d7a\u0d1f\u0d4d\u0d30\u0d3f\u0d2f\u0d3e\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0901\u0924\u094d\u0930\u093f\u092f\u093e\u0932"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u044d\u0430\u043b\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
+    ],
+    "name:min_x_preferred":[
+        "Montreal"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0440\u0435\u0430\u043b"
     ],
     "name:mlg_x_preferred":[
         "Montr\u00e9al"
+    ],
+    "name:mlt_x_preferred":[
+        "Montreal"
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b"
@@ -274,6 +331,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1019\u103d\u1014\u103a\u1038\u1011\u101b\u102e\u1038\u1021\u1031\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0631\u0626\u0627\u0644"
     ],
     "name:nah_x_preferred":[
         "Montreal"
@@ -298,6 +358,9 @@
     ],
     "name:nob_x_preferred":[
         "Montr\u00e9al"
+    ],
+    "name:nrm_x_preferred":[
+        "Mountriy\u00e2o"
     ],
     "name:nso_x_preferred":[
         "Montr\u00e9al"
@@ -338,6 +401,9 @@
     "name:que_x_preferred":[
         "Montreal"
     ],
+    "name:rmf_x_preferred":[
+        "Montr\u00e9al"
+    ],
     "name:ron_x_preferred":[
         "Montr\u00e9al"
     ],
@@ -346,6 +412,9 @@
     ],
     "name:sah_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c73\u1c71\u1c74\u1c68\u1c64\u1c5e"
     ],
     "name:scn_x_preferred":[
         "Montr\u00e9al"
@@ -356,13 +425,40 @@
     "name:sgs_x_preferred":[
         "Muonreal\u0117s"
     ],
+    "name:shy_x_preferred":[
+        "\u2d4eo\u2d4f\u2d54\u2d49\u2d30\u2d4d"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dbd\u0dca"
+    ],
+    "name:sjd_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
+    ],
+    "name:sje_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:sju_x_preferred":[
+        "Montr\u00e9al"
     ],
     "name:slk_x_preferred":[
         "Montreal"
     ],
     "name:slv_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:sma_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:sme_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:smj_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:smn_x_preferred":[
+        "Montr\u00e9al"
+    ],
+    "name:sms_x_preferred":[
         "Montr\u00e9al"
     ],
     "name:som_x_preferred":[
@@ -511,7 +607,7 @@
         }
     ],
     "wof:id":890458661,
-    "wof:lastmodified":1617130349,
+    "wof:lastmodified":1690865035,
     "wof:name":"Montreal",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

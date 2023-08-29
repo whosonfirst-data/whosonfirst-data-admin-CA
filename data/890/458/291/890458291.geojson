@@ -26,11 +26,23 @@
     "name:ara_x_preferred":[
         "\u0632\u0647\u0631\u0629 \u0627\u0644\u0632\u0646\u0628\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0647\u0631\u0629 \u0627\u0644\u0644\u064a\u0644\u0649"
+    ],
+    "name:aze_x_preferred":[
+        "Heraldik zanbaq"
+    ],
+    "name:ban_x_preferred":[
+        "Fleur-de-lis"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0435\u0440\u0430\u043b\u044c\u0434\u044b\u0447\u043d\u0430\u044f \u043b\u0456\u043b\u0435\u044f"
     ],
     "name:bos_x_preferred":[
         "Ljiljan"
+    ],
+    "name:bre_x_preferred":[
+        "Flourdiliz"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u0430\u043b\u0434\u0438\u0447\u0435\u0441\u043a\u0430 \u043b\u0438\u043b\u0438\u044f"
@@ -52,6 +64,9 @@
     ],
     "name:epo_x_preferred":[
         "Lilifloro"
+    ],
+    "name:epo_x_variant":[
+        "lilifloro"
     ],
     "name:eus_x_preferred":[
         "Lis lore"
@@ -89,17 +104,26 @@
     "name:pol_x_preferred":[
         "Fleur-de-lis"
     ],
+    "name:pol_x_variant":[
+        "\u017b\u00f3\u0142ty Irys"
+    ],
     "name:por_x_preferred":[
         "flor-de-lis"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0440\u0430\u043b\u044c\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043b\u0438\u043b\u0438\u044f"
     ],
+    "name:slv_x_preferred":[
+        "Fleur-de-lis"
+    ],
     "name:srp_x_preferred":[
         "\u0459\u0438\u0459\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Heraldisk lilja"
+    ],
+    "name:swe_x_variant":[
+        "heraldisk lilja"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e31\u0e0d\u0e25\u0e31\u0e01\u0e29\u0e13\u0e4c\u0e14\u0e2d\u0e01\u0e25\u0e34\u0e25\u0e25\u0e35"
@@ -109,6 +133,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0430\u043b\u044c\u0434\u0438\u0447\u043d\u0430 \u043b\u0456\u043b\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0433\u0435\u0440\u0430\u043b\u044c\u0434\u0438\u0447\u043d\u0430 \u043b\u0456\u043b\u0456\u044f"
     ],
     "name:vie_x_preferred":[
         "hoa b\u00e1ch h\u1ee3p"
@@ -156,7 +183,7 @@
         }
     ],
     "wof:id":890458291,
-    "wof:lastmodified":1566520136,
+    "wof:lastmodified":1690865075,
     "wof:name":"Fleur de Lys",
     "wof:parent_id":1158869015,
     "wof:placetype":"locality",

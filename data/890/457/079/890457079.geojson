@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-53.512172,49.2029055,-53.512172,49.2029055",
+    "geom:bbox":"-53.512172,49.202905,-53.512172,49.202905",
     "geom:latitude":49.202905,
     "geom:longitude":-53.512172,
     "gp:adm0":23424775,
@@ -19,6 +19,9 @@
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Newtown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u00b7\u30e9\u30d6\u30e9\u30c9\u30fc\u30eb\u5dde"
     ],
     "name:nld_x_preferred":[
         "Newtown"
@@ -49,7 +52,7 @@
     },
     "wof:country":"CA",
     "wof:created":1469053117,
-    "wof:geomhash":"bfc8760fcf69c296d52d4d24dc75b97a",
+    "wof:geomhash":"88b5e458e1871c65921b5b25195d1e19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890457079,
-    "wof:lastmodified":1566520213,
+    "wof:lastmodified":1690865178,
     "wof:name":"Newtown",
     "wof:parent_id":85682123,
     "wof:placetype":"locality",
@@ -71,9 +74,9 @@
 },
   "bbox": [
     -53.512172,
-    49.2029055,
+    49.202905,
     -53.512172,
-    49.2029055
+    49.202905
 ],
-  "geometry": {"coordinates":[-53.512172,49.2029055],"type":"Point"}
+  "geometry": {"coordinates":[-53.512172,49.202905],"type":"Point"}
 }

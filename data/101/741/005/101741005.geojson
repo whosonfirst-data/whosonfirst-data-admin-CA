@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0646\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Vernon"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09c7\u09a8\u09a8"
     ],
@@ -35,8 +38,14 @@
     "name:deu_x_preferred":[
         "Vernon"
     ],
+    "name:diq_x_preferred":[
+        "Vernon"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b5\u03c1\u03bd\u03cc\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03ad\u03c1\u03bd\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Vernon"
@@ -74,6 +83,9 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30fc\u30ce\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30fc\u30ce\u30f3"
+    ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb0\u0ccd\u0cae\u0cca\u0ca8\u0ccd"
     ],
@@ -86,6 +98,9 @@
     "name:lit_x_preferred":[
         "Vernonas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d46\u0d7c\u0d28\u0d4b\u0d7a"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u0930\u094d\u0928\u094b\u0928"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:nob_x_preferred":[
         "Vernon"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0631\u0646\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Vernon"
@@ -208,7 +226,7 @@
         }
     ],
     "wof:id":101741005,
-    "wof:lastmodified":1642551778,
+    "wof:lastmodified":1690864827,
     "wof:name":"Vernon",
     "wof:parent_id":890458113,
     "wof:placetype":"locality",

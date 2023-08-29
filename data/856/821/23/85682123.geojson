@@ -72,8 +72,14 @@
     "name:ast_x_preferred":[
         "Terranova y Llabrador"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0648\u0641\u0627\u0646\u062f\u0644\u0646\u062f \u0648 \u0644\u0627\u0628\u0631\u0627\u062f\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "Nyufaundlend v\u0259 Labrador"
+    ],
+    "name:ban_x_preferred":[
+        "Newfoundland miwah Labrador"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u044c\u044e\u0444\u0430\u045e\u043d\u0434\u043b\u0435\u043d\u0434 \u0456 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440"
@@ -83,6 +89,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989\u09ab\u09be\u0989\u09a8\u09cd\u09a1\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u098f\u09ac\u0982 \u09b2\u09cd\u09af\u09be\u09ac\u09cd\u09b0\u09be\u09a1\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09bf\u0989\u09ab\u09be\u0989\u09a8\u09cd\u09a1\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0993 \u09b2\u09be\u09ac\u09cd\u09b0\u09be\u09a1\u09b0"
     ],
     "name:bos_x_preferred":[
         "Newfoundland i Labrador"
@@ -113,6 +122,9 @@
     ],
     "name:cor_x_preferred":[
         "Tir Nowydh ha Labrador"
+    ],
+    "name:cos_x_preferred":[
+        "Terranova \u00e8 Labrador"
     ],
     "name:cym_x_preferred":[
         "Newfoundland a Labrador"
@@ -204,8 +216,17 @@
     "name:hye_x_preferred":[
         "\u0546\u0575\u0578\u0582\u0586\u0561\u0578\u0582\u0576\u0564\u056c\u0565\u0576\u0564 \u0587 \u053c\u0561\u0562\u0580\u0561\u0564\u0578\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0546\u0575\u0578\u0582\u0586\u0561\u0578\u0582\u0576\u0564\u056c\u0565\u0576\u0564 \u0565\u0582 \u053c\u0561\u0562\u0580\u0561\u0564\u0578\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0546\u056b\u0582\u0586\u0561\u0578\u0582\u0576\u057f\u056c\u0565\u0576\u057f \u0565\u0582 \u053c\u0561\u057a\u0580\u0561\u057f\u0578\u0580"
+    ],
     "name:ido_x_preferred":[
         "Newfoundland e Labrador"
+    ],
+    "name:iku_x_preferred":[
+        "\u14c2\u1405\u1559\u14d0\u14db\u14d0 \u14db\u1438\u1450\u140a"
     ],
     "name:ile_x_preferred":[
         "Nov-Fundland e Labrador"
@@ -231,13 +252,20 @@
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10e3\u10e4\u10d0\u10e3\u10dc\u10d3\u10da\u10d4\u10dc\u10d3\u10d8 \u10d3\u10d0 \u10da\u10d0\u10d1\u10e0\u10d0\u10d3\u10dd\u10e0\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0436\u04d9\u043d\u0435 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440"
+    ],
     "name:kor_x_preferred":[
         "\ub274\ud380\ub4e4\ub79c\ub4dc \ub798\ube0c\ub77c\ub3c4 \uc8fc"
     ],
     "name:kor_x_variant":[
         "\ub274\ud380\ub4e4\ub79c\ub4dc",
         "\ub274\ud380\ub4e4\ub79c\ub4dc \ub798\ubcf4\ub77c\ub3c4",
-        "\ub274\ud380\ub4e4\ub79c\ub4dc\ub798\ube0c\ub77c\ub3c4\uc8fc"
+        "\ub274\ud380\ub4e4\ub79c\ub4dc\ub798\ube0c\ub77c\ub3c4\uc8fc",
+        "\ub274\ud380\ub4e4\ub79c\ub4dc \ub798\ube0c\ub77c\ub3c4\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "Newfoundland and Labrador"
     ],
     "name:lad_x_preferred":[
         "Newfoundland i Labrador"
@@ -246,13 +274,17 @@
         "Terra Nova et Estotilandia"
     ],
     "name:lat_x_variant":[
-        "Terra Nova et Labrador"
+        "Terra Nova et Labrador",
+        "Terra Nova et Terra Laboratoria"
     ],
     "name:lav_x_preferred":[
         "\u0145\u016bfaundlenda un Labradora"
     ],
     "name:lij_x_preferred":[
         "T\u00e6raneuva e Labrador"
+    ],
+    "name:lim_x_preferred":[
+        "Newfoundland en Labrador"
     ],
     "name:lit_x_preferred":[
         "Niufaundlandas ir Labradoras"
@@ -334,6 +366,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0438 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440"
+    ],
+    "name:sah_x_preferred":[
+        "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0443\u043e\u043d\u043d\u0430 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440"
     ],
     "name:sco_x_preferred":[
         "Newfoundland an Labrador"
@@ -457,6 +492,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d10\u82ac\u862d\u8207\u62c9\u5e03\u62c9\u591a"
+    ],
+    "name:zho_x_variant":[
+        "\u7d10\u82ac\u862d-\u62c9\u5e03\u62c9\u591a\u7701"
     ],
     "name:zho_yue_x_preferred":[
         "\u7d10\u82ac\u862d\u8207\u62c9\u5e03\u62c9\u591a"
@@ -583,7 +621,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1621371468,
+    "wof:lastmodified":1690863889,
     "wof:name":"Newfoundland and Labrador",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

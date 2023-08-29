@@ -69,13 +69,25 @@
     "name:arc_x_preferred":[
         "\u0710\u0718\u0722\u071b\u0710\u072a\u071d\u0718"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0648\u0646\u0637\u0627\u0631\u064a\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0646\u062a\u0627\u0631\u064a\u0648"
     ],
     "name:ast_x_preferred":[
         "Ontario"
     ],
+    "name:atj_x_preferred":[
+        "Ontario"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0646\u062a\u0627\u0631\u06cc\u0648"
+    ],
     "name:aze_x_preferred":[
+        "Ontario"
+    ],
+    "name:ban_x_preferred":[
         "Ontario"
     ],
     "name:bar_x_preferred":[
@@ -89,6 +101,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0985\u09a8\u09cd\u099f\u09be\u09b0\u09bf\u0993"
+    ],
+    "name:bho_x_preferred":[
+        "\u0913\u0902\u091f\u0947\u0930\u093f\u092f\u094b"
     ],
     "name:bos_x_preferred":[
         "Ontario"
@@ -114,6 +129,9 @@
     "name:ces_x_preferred":[
         "Ontario"
     ],
+    "name:chr_x_preferred":[
+        "\u13a3\u13c2\u13d4\u13eb\u13a3"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0646\u062a\u0627\u0631\u06cc\u06c6"
     ],
@@ -122,6 +140,9 @@
     ],
     "name:cos_x_preferred":[
         "Ontario"
+    ],
+    "name:cos_x_variant":[
+        "Ontariu"
     ],
     "name:cre_x_preferred":[
         "\u1405\u14d0\u144c\u1547\u1424"
@@ -216,6 +237,9 @@
     "name:hin_x_preferred":[
         "\u0913\u0923\u094d\u091f\u093e\u0930\u093f\u092f\u094b"
     ],
+    "name:hin_x_variant":[
+        "\u0911\u0928\u094d\u091f\u0947\u0930\u093f\u0913"
+    ],
     "name:hrv_x_preferred":[
         "Ontario"
     ],
@@ -224,6 +248,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u0576\u057f\u0561\u0580\u056b\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0555\u0576\u0569\u0561\u0580\u056b\u0585"
     ],
     "name:ido_x_preferred":[
         "Ontario"
@@ -261,12 +288,18 @@
     "name:kat_x_preferred":[
         "\u10dd\u10dc\u10e2\u10d0\u10e0\u10d8\u10dd"
     ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043d\u0442\u0430\u0440\u0438\u043e"
+    ],
     "name:kor_x_preferred":[
         "\uc628\ud0c0\ub9ac\uc624"
     ],
     "name:kor_x_variant":[
         "\uc628\ud0c0\ub9ac\uc624\uc8fc",
         "\uc628\ud0c0\ub9ac\uc624 \uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "Ontario"
     ],
     "name:lad_x_preferred":[
         "Ontariyo"
@@ -278,6 +311,9 @@
         "Ont\u0101rio"
     ],
     "name:lij_x_preferred":[
+        "Ontario"
+    ],
+    "name:lim_x_preferred":[
         "Ontario"
     ],
     "name:lin_x_preferred":[
@@ -297,6 +333,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0911\u0928\u094d\u091f\u093e\u0930\u093f\u092f\u094b"
+    ],
+    "name:mar_x_variant":[
+        "\u0911\u0928\u094d\u091f\u0947\u0930\u093f\u0913"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043d\u0442\u0430\u0440\u0438\u043e"
@@ -320,6 +359,9 @@
         "Ontario"
     ],
     "name:nan_x_preferred":[
+        "Ontario"
+    ],
+    "name:nau_x_preferred":[
         "Ontario"
     ],
     "name:nds_x_preferred":[
@@ -478,6 +520,9 @@
     "name:vie_x_preferred":[
         "Ontario"
     ],
+    "name:vls_x_preferred":[
+        "Ontario"
+    ],
     "name:vol_x_preferred":[
         "Ontario"
     ],
@@ -516,6 +561,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5927\u7565"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5927\u7565\u7701"
     ],
     "ne:abbrev":"Ont.",
     "ne:adm0_a3":"CAN",
@@ -638,7 +686,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1636414277,
+    "wof:lastmodified":1690863876,
     "wof:name":"Ontario",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

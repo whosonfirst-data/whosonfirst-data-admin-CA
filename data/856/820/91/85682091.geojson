@@ -69,14 +69,26 @@
     "name:arc_x_preferred":[
         "\u0710\u0720\u0712\u072a\u071b\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u062a\u0627"
+    ],
+    "name:asm_x_preferred":[
+        "\u098f\u09b2\u09ac\u09be\u09f0\u09cd\u099f\u09be"
+    ],
     "name:ast_x_preferred":[
         "Alberta"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0628\u0626\u0631\u062a\u0627"
     ],
     "name:aze_x_preferred":[
         "Alberta"
     ],
     "name:bak_x_preferred":[
         "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Alberta"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430"
@@ -87,6 +99,12 @@
     ],
     "name:ben_x_preferred":[
         "\u098f\u09cd\u09af\u09be\u09b2\u09ac\u09be\u09b0\u09cd\u099f\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0985\u09cd\u09af\u09be\u09b2\u09ac\u09be\u09b0\u09cd\u099f\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u0932\u094d\u092c\u0930\u094d\u091f\u093e"
     ],
     "name:bos_x_preferred":[
         "Alberta"
@@ -217,6 +235,9 @@
     "name:ido_x_preferred":[
         "Alberta"
     ],
+    "name:iku_x_preferred":[
+        "\u140a\u140a\u1558\u1455"
+    ],
     "name:ile_x_preferred":[
         "Alberta"
     ],
@@ -250,11 +271,20 @@
     "name:kaz_x_preferred":[
         "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430"
     ],
+    "name:kea_x_preferred":[
+        "Alberta"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430"
+    ],
     "name:kor_x_preferred":[
         "\uc568\ubc84\ud0c0 \uc8fc"
     ],
     "name:kor_x_variant":[
         "\uc568\ubc84\ud0c0\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "Alberta"
     ],
     "name:lad_x_preferred":[
         "Alberta"
@@ -265,7 +295,13 @@
     "name:lav_x_preferred":[
         "Alberta"
     ],
+    "name:lfn_x_preferred":[
+        "Alberta"
+    ],
     "name:lij_x_preferred":[
+        "Alberta"
+    ],
+    "name:lim_x_preferred":[
         "Alberta"
     ],
     "name:lit_x_preferred":[
@@ -313,6 +349,9 @@
     "name:nor_x_preferred":[
         "Alberta"
     ],
+    "name:nrm_x_preferred":[
+        "Alb\u00e8rta"
+    ],
     "name:oci_x_preferred":[
         "Alb\u00e8rta"
     ],
@@ -334,6 +373,9 @@
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u0644\u0628\u0631\u0679\u0627"
     ],
+    "name:pnb_x_variant":[
+        "\u0627\u0644\u0628\u0631\u0679\u0627"
+    ],
     "name:pol_x_preferred":[
         "Alberta"
     ],
@@ -342,6 +384,9 @@
     ],
     "name:por_x_preferred":[
         "Alberta"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u0644\u0628\u0631\u062a\u0627"
     ],
     "name:que_x_preferred":[
         "Alberta pruwinsya"
@@ -433,6 +478,9 @@
     "name:vie_x_preferred":[
         "Alberta"
     ],
+    "name:vls_x_preferred":[
+        "Alberta"
+    ],
     "name:vol_x_preferred":[
         "Alberta"
     ],
@@ -459,6 +507,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u4f2f\u5854"
+    ],
+    "name:zho_x_variant":[
+        "\u827e\u4f2f\u5854\u7701"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e9e\u4f2f\u9054"
@@ -585,7 +636,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1621371467,
+    "wof:lastmodified":1690863880,
     "wof:name":"Alberta",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

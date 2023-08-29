@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.251556,43.7413455,-81.251556,43.7413455",
+    "geom:bbox":"-81.251556,43.741346,-81.251556,43.741346",
     "geom:latitude":43.741346,
     "geom:longitude":-81.251556,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Brussels"
+    ],
     "name:dan_x_preferred":[
         "Brussels"
     ],
@@ -84,7 +87,7 @@
     },
     "wof:country":"CA",
     "wof:created":1497300988,
-    "wof:geomhash":"fdbc3f97fd0e29f98a9ae1f192cc6d75",
+    "wof:geomhash":"8ef169428ef448d252341eb426c9a09b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126023603,
-    "wof:lastmodified":1566520282,
+    "wof:lastmodified":1690865269,
     "wof:name":"Brussels",
     "wof:parent_id":890458765,
     "wof:placetype":"locality",
@@ -106,9 +109,9 @@
 },
   "bbox": [
     -81.251556,
-    43.7413455,
+    43.741346,
     -81.251556,
-    43.7413455
+    43.741346
 ],
-  "geometry": {"coordinates":[-81.25155599999999,43.7413455],"type":"Point"}
+  "geometry": {"coordinates":[-81.25155599999999,43.741346],"type":"Point"}
 }

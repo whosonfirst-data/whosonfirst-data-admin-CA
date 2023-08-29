@@ -86,6 +86,9 @@
     "name:tur_x_preferred":[
         "Port Hope Simpson"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0413\u043e\u0443\u043f-\u0421\u0456\u043c\u043f\u0441\u043e\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679 \u06c1\u0648\u067e \u0633\u0645\u067e\u0633\u0646"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u970d\u666e\u8f9b\u666e\u68ee\u6e2f"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u666e\u00b7\u8f9b\u666e\u68ee\u6e2f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Canada",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":890458167,
-    "wof:lastmodified":1636414383,
+    "wof:lastmodified":1690865013,
     "wof:name":"Port Hope Simpson",
     "wof:parent_id":1158869065,
     "wof:placetype":"locality",

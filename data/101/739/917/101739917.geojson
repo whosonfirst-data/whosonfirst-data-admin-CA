@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u062c\u0627\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u062c\u0627\u064a\u0646\u0627"
+    ],
     "name:ast_x_preferred":[
         "Regina"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09c7\u099c\u09bf\u09a8\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b0\u09bf\u099c\u09be\u0987\u09a8\u09be"
     ],
     "name:bos_x_preferred":[
         "Regina"
@@ -89,6 +95,9 @@
     "name:eus_x_preferred":[
         "Regina"
     ],
+    "name:fao_x_preferred":[
+        "Regina"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u062c\u0627\u06cc\u0646\u0627"
     ],
@@ -100,6 +109,9 @@
     ],
     "name:fra_x_variant":[
         "R\u00e9gina"
+    ],
+    "name:frr_x_preferred":[
+        "Regina"
     ],
     "name:gla_x_preferred":[
         "Regina"
@@ -159,11 +171,20 @@
     "name:lav_x_preferred":[
         "Rid\u017eaina"
     ],
+    "name:lij_x_preferred":[
+        "Regina"
+    ],
     "name:lit_x_preferred":[
         "Red\u017eaina"
     ],
+    "name:mal_x_preferred":[
+        "\u0d31\u0d46\u0d1c\u0d3f\u0d28"
+    ],
     "name:mar_x_preferred":[
         "\u0930\u0947\u091c\u093f\u0928\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0420\u044d\u0434\u0436\u0430\u0439\u043d\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0420\u0435\u0436\u0430\u0439\u043d\u0430"
@@ -198,6 +219,9 @@
     "name:pan_x_preferred":[
         "\u0a30\u0a3f\u0a1c\u0a3e\u0a07\u0a28\u0a3e"
     ],
+    "name:pnb_x_preferred":[
+        "\u0631\u06cc\u062c\u0627\u0626\u0646\u0627"
+    ],
     "name:pol_x_preferred":[
         "Regina"
     ],
@@ -215,6 +239,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0420\u0438\u0434\u0436\u0430\u0439\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Regina"
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0dd9\u0da2\u0dd2\u0db1\u0dcf"
@@ -282,6 +309,9 @@
     "name:uzb_x_preferred":[
         "Rejayna"
     ],
+    "name:vec_x_preferred":[
+        "Regina"
+    ],
     "name:vie_x_preferred":[
         "Regina"
     ],
@@ -290,6 +320,9 @@
     ],
     "name:war_x_preferred":[
         "Regina"
+    ],
+    "name:wuu_x_preferred":[
+        "\u91cc\u8d3e\u7eb3"
     ],
     "name:yue_x_preferred":[
         "\u5229\u8f09\u62ff"
@@ -420,8 +453,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        1158868963,
-        85682113
+        85682113,
+        1158868963
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -457,7 +490,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1607462661,
+    "wof:lastmodified":1690864256,
     "wof:megacity":0,
     "wof:name":"Regina",
     "wof:parent_id":1158868963,

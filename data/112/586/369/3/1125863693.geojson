@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.9507405,50.43261,-96.9507405,50.43261",
+    "geom:bbox":"-96.95074,50.43261,-96.95074,50.43261",
     "geom:latitude":50.43261,
     "geom:longitude":-96.95074,
     "gn:country":null,
@@ -242,6 +242,9 @@
     "name:wol_x_preferred":[
         "Matlock"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7279\u6d1b\u514b"
+    ],
     "name:zul_x_preferred":[
         "Matlock"
     ],
@@ -282,7 +285,7 @@
     },
     "wof:country":"CA",
     "wof:created":1497293938,
-    "wof:geomhash":"bae7fa4fa2e16c43f91aaa3f4312474e",
+    "wof:geomhash":"a5989a0889964f9af4ab43e871bea5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":1125863693,
-    "wof:lastmodified":1566520298,
+    "wof:lastmodified":1690865297,
     "wof:name":"Matlock",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",
@@ -303,10 +306,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.9507405,
+    -96.95074,
     50.43261,
-    -96.9507405,
+    -96.95074,
     50.43261
 ],
-  "geometry": {"coordinates":[-96.95074049999999,50.43261],"type":"Point"}
+  "geometry": {"coordinates":[-96.95074,50.43261],"type":"Point"}
 }
