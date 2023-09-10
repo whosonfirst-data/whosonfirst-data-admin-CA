@@ -10,8 +10,8 @@
     "geom:latitude":51.037941,
     "geom:longitude":-114.086027,
     "iso:country":"CA",
-    "lbl:latitude":51.037892,
-    "lbl:longitude":-114.070811,
+    "lbl:latitude":51.037805,
+    "lbl:longitude":-114.086245,
     "lbl:max_zoom":18.0,
     "mps:latitude":51.037805,
     "mps:longitude":-114.086245,
@@ -34,6 +34,7 @@
     "reversegeo:latitude":51.037805,
     "reversegeo:longitude":-114.086245,
     "src:geom":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682091,
         102191575,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1108963905,
-    "wof:lastmodified":1690864092,
+    "wof:lastmodified":1694320291,
     "wof:name":"Red Mile",
     "wof:parent_id":-3,
     "wof:placetype":"microhood",
