@@ -6,15 +6,15 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":25610.448073,
-    "geom:bbox":"-73.5874605912,45.4880169037,-73.5845133126,45.4900870733",
+    "geom:bbox":"-73.587461,45.488017,-73.584513,45.490087",
     "geom:latitude":45.489036,
     "geom:longitude":-73.585973,
     "iso:country":"CA",
-    "lbl:latitude":45.490921,
-    "lbl:longitude":-73.581879,
+    "lbl:latitude":45.489031,
+    "lbl:longitude":-73.585973,
     "lbl:max_zoom":18.0,
-    "mps:latitude":45.489029,
-    "mps:longitude":-73.585975,
+    "mps:latitude":45.489031,
+    "mps:longitude":-73.585973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,6 +30,7 @@
     "reversegeo:latitude":45.489029,
     "reversegeo:longitude":-73.585975,
     "src:geom":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -43,7 +44,7 @@
         "wof:parent_id"
     ],
     "wof:country":"CA",
-    "wof:geomhash":"4046663d90d90bef2e948c0d82b4f822",
+    "wof:geomhash":"0cfce2980bc34978b40cddc29bf22cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1108959333,
-    "wof:lastmodified":1566519252,
+    "wof:lastmodified":1694320290,
     "wof:name":"Place Alexis-Nihon",
     "wof:parent_id":-3,
     "wof:placetype":"microhood",
@@ -68,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.58746059123932,
-    45.48801690365956,
-    -73.5845133125862,
-    45.49008707328282
+    -73.587461,
+    45.488017,
+    -73.584513,
+    45.490087
 ],
-  "geometry": {"coordinates":[[[[-73.58580383005217,45.49008707328282],[-73.5845133125862,45.48934538009942],[-73.58478445065988,45.48911740372696],[-73.58609330326222,45.48801690365956],[-73.58746059123932,45.48868016801701],[-73.58635634179049,45.48961788576196],[-73.58580383005217,45.49008707328282]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-73.585804,45.490087],[-73.584513,45.489345],[-73.584784,45.489117],[-73.58609300000001,45.488017],[-73.587461,45.48868],[-73.58635599999999,45.489618],[-73.585804,45.490087]]]],"type":"MultiPolygon"}
 }

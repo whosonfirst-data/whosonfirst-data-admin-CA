@@ -10,8 +10,8 @@
     "geom:latitude":45.36794,
     "geom:longitude":-75.705635,
     "iso:country":"CA",
-    "lbl:latitude":45.365556,
-    "lbl:longitude":-75.704121,
+    "lbl:latitude":45.368005,
+    "lbl:longitude":-75.705703,
     "lbl:max_zoom":18.0,
     "mps:latitude":45.368005,
     "mps:longitude":-75.705703,
@@ -33,6 +33,7 @@
     "reversegeo:latitude":45.368005,
     "reversegeo:longitude":-75.705703,
     "src:geom":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85864475,
         102191575,
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1109387521,
-    "wof:lastmodified":1690864067,
+    "wof:lastmodified":1694320291,
     "wof:name":"Rideau View",
     "wof:parent_id":85864475,
     "wof:placetype":"microhood",
