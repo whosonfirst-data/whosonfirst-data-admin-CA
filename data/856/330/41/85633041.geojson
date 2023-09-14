@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1867-07-01",
     "geom:area":1685.71852,
-    "geom:area_square_m":9824950729127.517578,
+    "geom:area_square_m":9825089002765.652344,
     "geom:bbox":"-141.002742,41.729668,-52.619409,83.13505",
     "geom:latitude":61.488938,
     "geom:longitude":-98.35202,
@@ -15,6 +15,9 @@
     "iso:country":"CA",
     "itu:country_code":[
         "1"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CA"
@@ -1248,7 +1251,8 @@
     ],
     "src:geom_via":"statcan",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"1",
     "statoids:ds":"CDN",
     "statoids:fifa":"CAN",
@@ -1308,7 +1312,7 @@
         "whosonfirst-reversegeo",
         "naturalearth"
     ],
-    "wof:geomhash":"850becd8a1693b79d9dd3ee256c0cc68",
+    "wof:geomhash":"4d2cf7c54ed8668d2e71ee36d2fe9afe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1326,12 +1330,12 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1690863871,
+    "wof:lastmodified":1694639580,
     "wof:name":"Canada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":33679000,
-    "wof:population_rank":14,
+    "wof:population":37589262,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:shortcode":"CA",
     "wof:superseded_by":[],
