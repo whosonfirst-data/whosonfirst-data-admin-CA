@@ -131,8 +131,10 @@
     "wof:concordances":{
         "gp:id":29375139,
         "qs_pg:id":379362,
+        "statcan:cduid":"1201",
         "wk:page":"Shelburne"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053086,
     "wof:geom_alt":[
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":890456803,
-    "wof:lastmodified":1694498083,
+    "wof:lastmodified":1695886461,
     "wof:name":"Shelburne",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

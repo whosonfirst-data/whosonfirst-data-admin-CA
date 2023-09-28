@@ -263,8 +263,10 @@
     "wof:concordances":{
         "gp:id":29375082,
         "qs_pg:id":897310,
+        "statcan:cduid":"1215",
         "wk:page":"Inverness"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053181,
     "wof:geom_alt":[
@@ -280,7 +282,7 @@
         }
     ],
     "wof:id":890458013,
-    "wof:lastmodified":1694497848,
+    "wof:lastmodified":1695886286,
     "wof:name":"Inverness",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

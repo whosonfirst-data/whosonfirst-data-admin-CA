@@ -196,9 +196,11 @@
     "wof:concordances":{
         "gp:id":29375238,
         "qs_pg:id":1316171,
+        "statcan:cduid":"3560",
         "wd:id":"Q993714",
         "wk:page":"Kenora"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053052,
     "wof:geom_alt":[
@@ -214,7 +216,7 @@
         }
     ],
     "wof:id":890456531,
-    "wof:lastmodified":1694497863,
+    "wof:lastmodified":1695886332,
     "wof:name":"Kenora",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

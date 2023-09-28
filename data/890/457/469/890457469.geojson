@@ -215,8 +215,10 @@
     "wof:concordances":{
         "gp:id":29375211,
         "qs_pg:id":988489,
+        "statcan:cduid":"3539",
         "wk:page":"Middlesex"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053141,
     "wof:geom_alt":[
@@ -232,7 +234,7 @@
         }
     ],
     "wof:id":890457469,
-    "wof:lastmodified":1694497889,
+    "wof:lastmodified":1695886408,
     "wof:name":"Middlesex",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

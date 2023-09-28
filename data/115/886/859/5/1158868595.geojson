@@ -107,6 +107,14 @@
         85682117
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "can-databc:aa_id":"361",
+        "statcan:cduid":"5957"
+    },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1512762158,
     "wof:geom_alt":[
@@ -122,7 +130,7 @@
         }
     ],
     "wof:id":1158868595,
-    "wof:lastmodified":1694498180,
+    "wof:lastmodified":1695886507,
     "wof:name":"Stikine",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

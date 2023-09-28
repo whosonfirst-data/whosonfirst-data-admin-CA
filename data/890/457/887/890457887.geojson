@@ -63,8 +63,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375182,
-        "qs_pg:id":1119938
+        "qs_pg:id":1119938,
+        "statcan:cduid":"2442"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053174,
     "wof:geom_alt":[
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":890457887,
-    "wof:lastmodified":1694498179,
+    "wof:lastmodified":1695886497,
     "wof:name":"Le Val-Saint-Francois",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -62,8 +62,10 @@
     "wof:concordances":{
         "gp:id":29375241,
         "qs_pg:id":890841,
+        "statcan:cduid":"2487",
         "wk:page":"Abitibi-Ouest"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053149,
     "wof:geom_alt":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":890457577,
-    "wof:lastmodified":1694497962,
+    "wof:lastmodified":1695886226,
     "wof:name":"Abitibi-Ouest",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -116,8 +116,10 @@
     "wof:concordances":{
         "gp:id":29375057,
         "qs_pg:id":232965,
+        "statcan:cduid":"3540",
         "wk:page":"Huron"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053237,
     "wof:geom_alt":[
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":890458765,
-    "wof:lastmodified":1694497846,
+    "wof:lastmodified":1695886280,
     "wof:name":"Huron",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

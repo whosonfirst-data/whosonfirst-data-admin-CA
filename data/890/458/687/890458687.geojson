@@ -280,9 +280,11 @@
     "wof:concordances":{
         "gp:id":29375089,
         "qs_pg:id":225132,
+        "statcan:cduid":"3558",
         "wd:id":"Q34116",
         "wk:page":"Thunder Bay"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053232,
     "wof:geom_alt":[
@@ -298,7 +300,7 @@
         }
     ],
     "wof:id":890458687,
-    "wof:lastmodified":1694497849,
+    "wof:lastmodified":1695886288,
     "wof:name":"Thunder Bay",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

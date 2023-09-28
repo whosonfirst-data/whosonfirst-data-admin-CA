@@ -110,9 +110,11 @@
     "wof:concordances":{
         "gp:id":29375106,
         "qs_pg:id":897313,
+        "statcan:cduid":"3528",
         "wd:id":"Q385346",
         "wk:page":"Haldimand County"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053182,
     "wof:geom_alt":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":890458019,
-    "wof:lastmodified":1694498005,
+    "wof:lastmodified":1695886343,
     "wof:name":"Haldimand-Norfolk",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

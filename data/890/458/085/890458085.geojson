@@ -69,9 +69,11 @@
     "wof:concordances":{
         "gp:id":29375071,
         "qs_pg:id":890797,
+        "statcan:cduid":"3553",
         "wd:id":"Q383434",
         "wk:page":"Greater Sudbury"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053187,
     "wof:geom_alt":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":890458085,
-    "wof:lastmodified":1694498003,
+    "wof:lastmodified":1695886338,
     "wof:name":"Greater Sudbury / Grand Sudbury",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

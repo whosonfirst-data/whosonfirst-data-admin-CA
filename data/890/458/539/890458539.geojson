@@ -60,8 +60,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375142,
-        "qs_pg:id":890814
+        "qs_pg:id":890814,
+        "statcan:cduid":"1213"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053222,
     "wof:geom_alt":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":890458539,
-    "wof:lastmodified":1694498004,
+    "wof:lastmodified":1695886339,
     "wof:name":"Guysborough",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

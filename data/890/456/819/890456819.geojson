@@ -284,8 +284,10 @@
     "wof:concordances":{
         "gp:id":29375167,
         "qs_pg:id":379411,
+        "statcan:cduid":"1204",
         "wk:page":"Queens"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053087,
     "wof:geom_alt":[
@@ -301,7 +303,7 @@
         }
     ],
     "wof:id":890456819,
-    "wof:lastmodified":1694497859,
+    "wof:lastmodified":1695886319,
     "wof:name":"Queens",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

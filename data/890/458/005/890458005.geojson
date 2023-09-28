@@ -153,8 +153,10 @@
     "wof:concordances":{
         "gp:id":29375162,
         "qs_pg:id":890821,
+        "statcan:cduid":"1301",
         "wk:page":"Saint John"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053181,
     "wof:geom_alt":[
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":890458005,
-    "wof:lastmodified":1694498080,
+    "wof:lastmodified":1695886453,
     "wof:name":"Saint John",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

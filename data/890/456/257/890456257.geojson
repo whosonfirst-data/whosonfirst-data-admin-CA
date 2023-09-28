@@ -60,8 +60,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375250,
-        "qs_pg:id":1290423
+        "qs_pg:id":1290423,
+        "statcan:cduid":"3502"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053024,
     "wof:geom_alt":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":890456257,
-    "wof:lastmodified":1694498026,
+    "wof:lastmodified":1695886405,
     "wof:name":"Prescott and Russell",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

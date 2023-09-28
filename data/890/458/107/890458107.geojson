@@ -89,9 +89,11 @@
     "wof:concordances":{
         "gp:id":29375202,
         "qs_pg:id":890831,
+        "statcan:cduid":"2452",
         "wd:id":"Q975170",
         "wk:page":"D'Autray Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053189,
     "wof:geom_alt":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":890458107,
-    "wof:lastmodified":1694497851,
+    "wof:lastmodified":1695886296,
     "wof:name":"D'Autray",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

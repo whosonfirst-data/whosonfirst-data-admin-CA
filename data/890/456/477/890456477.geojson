@@ -99,8 +99,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375251,
-        "qs_pg:id":1290424
+        "qs_pg:id":1290424,
+        "statcan:cduid":"3501"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053048,
     "wof:geom_alt":[
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":890456477,
-    "wof:lastmodified":1694497858,
+    "wof:lastmodified":1695886316,
     "wof:name":"Stormont, Dundas and Glengarry",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

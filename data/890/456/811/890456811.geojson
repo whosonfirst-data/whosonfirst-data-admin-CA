@@ -402,8 +402,10 @@
     "wof:concordances":{
         "gp:id":29375152,
         "qs_pg:id":379392,
+        "statcan:cduid":"3531",
         "wk:page":"Perth"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053087,
     "wof:geom_alt":[
@@ -419,7 +421,7 @@
         }
     ],
     "wof:id":890456811,
-    "wof:lastmodified":1694497857,
+    "wof:lastmodified":1695886313,
     "wof:name":"Perth",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

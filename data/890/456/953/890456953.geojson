@@ -98,11 +98,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"142",
         "gp:id":29375187,
         "qs_pg:id":988473,
+        "statcan:cduid":"5931",
         "wd:id":"Q132115",
         "wk:page":"Squamish-Lillooet Regional District"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053109,
     "wof:geom_alt":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":890456953,
-    "wof:lastmodified":1694498042,
+    "wof:lastmodified":1695886451,
     "wof:name":"Squamish-Lillooet",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

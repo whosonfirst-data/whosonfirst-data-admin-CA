@@ -86,9 +86,11 @@
     "wof:concordances":{
         "gp:id":29375044,
         "qs_pg:id":1089191,
+        "statcan:cduid":"2415",
         "wd:id":"Q1066730",
         "wk:page":"Charlevoix-Est Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053158,
     "wof:geom_alt":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":890457727,
-    "wof:lastmodified":1694497890,
+    "wof:lastmodified":1695886412,
     "wof:name":"Charlevoix-Est",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

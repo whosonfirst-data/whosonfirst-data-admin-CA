@@ -97,11 +97,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"280",
         "gp:id":29375117,
         "qs_pg:id":903227,
+        "statcan:cduid":"5926",
         "wd:id":"Q645582",
         "wk:page":"Comox-Strathcona Regional District"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053224,
     "wof:geom_alt":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":890458565,
-    "wof:lastmodified":1694498182,
+    "wof:lastmodified":1695886523,
     "wof:name":"Comox Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -116,8 +116,10 @@
     "wof:concordances":{
         "gp:id":29375242,
         "qs_pg:id":1290421,
+        "statcan:cduid":"3556",
         "wk:page":"Cochrane"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053028,
     "wof:geom_alt":[
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":890456315,
-    "wof:lastmodified":1694498084,
+    "wof:lastmodified":1695886463,
     "wof:name":"Cochrane",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

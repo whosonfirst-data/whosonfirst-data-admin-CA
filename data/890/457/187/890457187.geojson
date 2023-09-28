@@ -71,8 +71,10 @@
     "wof:concordances":{
         "gp:id":29375110,
         "qs_pg:id":890810,
+        "statcan:cduid":"3546",
         "wk:page":"Haliburton"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053124,
     "wof:geom_alt":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":890457187,
-    "wof:lastmodified":1694497897,
+    "wof:lastmodified":1695886290,
     "wof:name":"Haliburton",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

@@ -218,8 +218,10 @@
     "wof:concordances":{
         "gp:id":29375247,
         "qs_pg:id":379514,
+        "statcan:cduid":"2476",
         "wk:page":"Argenteuil"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053090,
     "wof:geom_alt":[
@@ -235,7 +237,7 @@
         }
     ],
     "wof:id":890456845,
-    "wof:lastmodified":1694497857,
+    "wof:lastmodified":1695886316,
     "wof:name":"Argenteuil",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

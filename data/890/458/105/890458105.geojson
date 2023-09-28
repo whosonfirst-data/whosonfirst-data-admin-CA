@@ -62,8 +62,10 @@
     "wof:concordances":{
         "gp:id":29375108,
         "qs_pg:id":890807,
+        "statcan:cduid":"1314",
         "wk:page":"Restigouche"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053189,
     "wof:geom_alt":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":890458105,
-    "wof:lastmodified":1694497846,
+    "wof:lastmodified":1695886279,
     "wof:name":"Restigouche",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

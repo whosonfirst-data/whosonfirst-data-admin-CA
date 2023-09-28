@@ -601,9 +601,11 @@
     "wof:concordances":{
         "gp:id":29375205,
         "qs_pg:id":988486,
+        "statcan:cduid":"3520",
         "wd:id":"Q172",
         "wk:page":"Toronto"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:coterminous":[
         101735835
     ],
@@ -622,7 +624,7 @@
         }
     ],
     "wof:id":890457465,
-    "wof:lastmodified":1694497946,
+    "wof:lastmodified":1695886592,
     "wof:name":"Toronto",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

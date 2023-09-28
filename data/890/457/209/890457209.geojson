@@ -101,10 +101,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"35",
         "gp:id":29375235,
         "qs_pg:id":890839,
+        "statcan:cduid":"5953",
         "wk:page":"Regional District of Fraser-Fort George"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053126,
     "wof:geom_alt":[
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":890457209,
-    "wof:lastmodified":1694498180,
+    "wof:lastmodified":1695886502,
     "wof:name":"Fraser-Fort George",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

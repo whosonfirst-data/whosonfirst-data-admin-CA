@@ -740,9 +740,11 @@
     "wof:concordances":{
         "gp:id":29375185,
         "qs_pg:id":890842,
+        "statcan:cduid":"3541",
         "wd:id":"Q579371",
         "wk:page":"Bruce"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053149,
     "wof:geom_alt":[
@@ -758,7 +760,7 @@
         }
     ],
     "wof:id":890457581,
-    "wof:lastmodified":1694497884,
+    "wof:lastmodified":1695886396,
     "wof:name":"Bruce",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

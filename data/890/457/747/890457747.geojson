@@ -251,9 +251,11 @@
     "wof:concordances":{
         "gp:id":29375130,
         "qs_pg:id":1089200,
+        "statcan:cduid":"1217",
         "wd:id":"Q188489",
         "wk:page":"Cape Breton Island"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053165,
     "wof:geom_alt":[
@@ -269,7 +271,7 @@
         }
     ],
     "wof:id":890457747,
-    "wof:lastmodified":1694497885,
+    "wof:lastmodified":1695886398,
     "wof:name":"Cape Breton",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

@@ -101,11 +101,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"221",
         "gp:id":29375116,
         "qs_pg:id":903215,
+        "statcan:cduid":"5905",
         "wd:id":"Q2138253",
         "wk:page":"Regional District of Kootenay Boundary"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053129,
     "wof:geom_alt":[
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":890457249,
-    "wof:lastmodified":1694498182,
+    "wof:lastmodified":1695886526,
     "wof:name":"Kootenay Boundary",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

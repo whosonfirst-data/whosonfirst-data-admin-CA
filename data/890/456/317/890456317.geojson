@@ -143,8 +143,10 @@
     "wof:concordances":{
         "gp:id":29375181,
         "qs_pg:id":1291505,
+        "statcan:cduid":"1307",
         "wk:page":"Westmorland"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053028,
     "wof:geom_alt":[
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":890456317,
-    "wof:lastmodified":1694497870,
+    "wof:lastmodified":1695886356,
     "wof:name":"Westmorland",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

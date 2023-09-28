@@ -164,8 +164,10 @@
     "wof:concordances":{
         "gp:id":29375176,
         "qs_pg:id":1291460,
+        "statcan:cduid":"1209",
         "wk:page":"Halifax"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053049,
     "wof:geom_alt":[
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":890456491,
-    "wof:lastmodified":1694497860,
+    "wof:lastmodified":1695886322,
     "wof:name":"Halifax",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

@@ -95,11 +95,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"287",
         "gp:id":29375119,
         "qs_pg:id":903228,
+        "statcan:cduid":"5919",
         "wd:id":"Q5179709",
         "wk:page":"Cowichan Valley"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053225,
     "wof:geom_alt":[
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":890458567,
-    "wof:lastmodified":1694497965,
+    "wof:lastmodified":1695886238,
     "wof:name":"Cowichan Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

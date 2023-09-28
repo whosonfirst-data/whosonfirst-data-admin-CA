@@ -131,8 +131,10 @@
     "wof:concordances":{
         "gp:id":29375189,
         "qs_pg:id":888319,
+        "statcan:cduid":"3534",
         "wk:page":"Elgin"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053222,
     "wof:geom_alt":[
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":890458529,
-    "wof:lastmodified":1694497851,
+    "wof:lastmodified":1695886295,
     "wof:name":"Elgin",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

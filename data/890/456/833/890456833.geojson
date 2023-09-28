@@ -137,9 +137,11 @@
     "wof:concordances":{
         "gp:id":29375215,
         "qs_pg:id":379460,
+        "statcan:cduid":"2474",
         "wd:id":"Q141921",
         "wk:page":"Mirabel, Quebec"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:coterminous":[
         101738507
     ],
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":890456833,
-    "wof:lastmodified":1694497948,
+    "wof:lastmodified":1695886621,
     "wof:name":"Mirabel",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

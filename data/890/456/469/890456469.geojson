@@ -86,9 +86,11 @@
     "wof:concordances":{
         "gp:id":29375170,
         "qs_pg:id":1290390,
+        "statcan:cduid":"2462",
         "wd:id":"Q1908110",
         "wk:page":"Matawinie Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053047,
     "wof:geom_alt":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":890456469,
-    "wof:lastmodified":1694497868,
+    "wof:lastmodified":1695886351,
     "wof:name":"Matawinie",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

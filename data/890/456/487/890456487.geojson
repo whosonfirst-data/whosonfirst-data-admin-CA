@@ -173,10 +173,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"257",
         "gp:id":29375156,
         "qs_pg:id":1291444,
+        "statcan:cduid":"5917",
         "wk:page":"Capital"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053048,
     "wof:geom_alt":[
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":890456487,
-    "wof:lastmodified":1694497866,
+    "wof:lastmodified":1695886342,
     "wof:name":"Capital",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

@@ -647,9 +647,11 @@
     "wof:concordances":{
         "gp:id":29375164,
         "qs_pg:id":225115,
+        "statcan:cduid":"3506",
         "wd:id":"Q1930",
         "wk:page":"Ottawa"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:coterminous":[
         101735873
     ],
@@ -668,7 +670,7 @@
         }
     ],
     "wof:id":890458681,
-    "wof:lastmodified":1694498078,
+    "wof:lastmodified":1695886444,
     "wof:name":"Ottawa",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

@@ -62,8 +62,10 @@
     "wof:concordances":{
         "gp:id":29375114,
         "qs_pg:id":379349,
+        "statcan:cduid":"3522",
         "wk:page":"Dufferin"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053086,
     "wof:geom_alt":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":890456799,
-    "wof:lastmodified":1694497854,
+    "wof:lastmodified":1695886305,
     "wof:name":"Dufferin",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

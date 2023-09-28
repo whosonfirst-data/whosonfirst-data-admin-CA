@@ -101,10 +101,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"322",
         "gp:id":29375154,
         "qs_pg:id":379394,
+        "statcan:cduid":"5927",
         "wk:page":"Powell River"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053087,
     "wof:geom_alt":[
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":890456815,
-    "wof:lastmodified":1694498084,
+    "wof:lastmodified":1695886464,
     "wof:name":"Powell River",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

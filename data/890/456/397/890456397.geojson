@@ -93,9 +93,11 @@
     "wof:concordances":{
         "gp:id":29375035,
         "qs_pg:id":1320740,
+        "statcan:cduid":"2411",
         "wd:id":"Q1517282",
         "wk:page":"Les Basques RCM"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053043,
     "wof:geom_alt":[
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":890456397,
-    "wof:lastmodified":1694497856,
+    "wof:lastmodified":1695886309,
     "wof:name":"Les Basques",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

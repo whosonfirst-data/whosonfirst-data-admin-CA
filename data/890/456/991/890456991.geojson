@@ -173,8 +173,10 @@
     "wof:concordances":{
         "gp:id":29375033,
         "qs_pg:id":40730,
+        "statcan:cduid":"3526",
         "wk:page":"Niagara"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053112,
     "wof:geom_alt":[
@@ -190,7 +192,7 @@
         }
     ],
     "wof:id":890456991,
-    "wof:lastmodified":1694498082,
+    "wof:lastmodified":1695886459,
     "wof:name":"Niagara",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

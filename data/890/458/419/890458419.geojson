@@ -203,8 +203,10 @@
     "wof:concordances":{
         "gp:id":29375063,
         "qs_pg:id":1291361,
+        "statcan:cduid":"1216",
         "wk:page":"Richmond"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053215,
     "wof:geom_alt":[
@@ -220,7 +222,7 @@
         }
     ],
     "wof:id":890458419,
-    "wof:lastmodified":1694498079,
+    "wof:lastmodified":1695886448,
     "wof:name":"Richmond",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

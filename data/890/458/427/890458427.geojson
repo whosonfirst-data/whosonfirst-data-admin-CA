@@ -95,11 +95,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"194",
         "gp:id":29375237,
         "qs_pg:id":1316165,
+        "statcan:cduid":"5939",
         "wd:id":"Q1112324",
         "wk:page":"Columbia-Shuswap Regional District"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053215,
     "wof:geom_alt":[
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":890458427,
-    "wof:lastmodified":1694497965,
+    "wof:lastmodified":1695886237,
     "wof:name":"Columbia-Shuswap",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

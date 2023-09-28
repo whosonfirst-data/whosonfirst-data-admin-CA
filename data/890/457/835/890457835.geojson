@@ -266,9 +266,11 @@
     "wof:concordances":{
         "gp:id":29375203,
         "qs_pg:id":1111214,
+        "statcan:cduid":"2443",
         "wd:id":"Q139473",
         "wk:page":"Sherbrooke"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:coterminous":[
         101738289
     ],
@@ -287,7 +289,7 @@
         }
     ],
     "wof:id":890457835,
-    "wof:lastmodified":1694497934,
+    "wof:lastmodified":1695886392,
     "wof:name":"Sherbrooke",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

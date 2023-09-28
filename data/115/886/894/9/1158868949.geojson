@@ -46,6 +46,10 @@
         85682113
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "statcan:cduid":"4711"
+    },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1512779088,
     "wof:geomhash":"814eb440aa3bc6f51ada6bbebfa8722b",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1158868949,
-    "wof:lastmodified":1694497974,
+    "wof:lastmodified":1695886258,
     "wof:name":"Division No. 11",
     "wof:parent_id":85682113,
     "wof:placetype":"county",

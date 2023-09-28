@@ -464,8 +464,10 @@
     "wof:concordances":{
         "gp:id":29375207,
         "qs_pg:id":379440,
+        "statcan:cduid":"3523",
         "wk:page":"Wellington"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053088,
     "wof:geom_alt":[
@@ -481,7 +483,7 @@
         }
     ],
     "wof:id":890456827,
-    "wof:lastmodified":1694497856,
+    "wof:lastmodified":1695886310,
     "wof:name":"Wellington",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

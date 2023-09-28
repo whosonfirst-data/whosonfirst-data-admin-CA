@@ -215,9 +215,11 @@
     "wof:concordances":{
         "gp:id":29375051,
         "qs_pg:id":237968,
+        "statcan:cduid":"2405",
         "wd:id":"Q43746",
         "wk:page":"Bonaventure"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053050,
     "wof:geom_alt":[
@@ -233,7 +235,7 @@
         }
     ],
     "wof:id":890456501,
-    "wof:lastmodified":1694497964,
+    "wof:lastmodified":1695886234,
     "wof:name":"Bonaventure",
     "wof:parent_id":136251273,
     "wof:placetype":"county",
