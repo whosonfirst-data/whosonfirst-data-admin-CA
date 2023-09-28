@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":136.446824,
-    "geom:area_square_m":974376733738.663574,
+    "geom:area_square_m":974376733738.661377,
     "geom:bbox":"-139.06111,48.224554,-114.053822,60.002048",
     "geom:latitude":54.654369,
     "geom:longitude":-124.834255,
@@ -605,12 +605,14 @@
         "gn:id":5909050,
         "gp:id":2344916,
         "hasc:id":"CA.BC",
+        "iso:code":"CA-BC",
         "iso:id":"CA-BC",
         "unlc:id":"CA-BC",
         "wd:id":"Q1974"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CA",
-    "wof:geomhash":"851f714959dbfa6ffd9fd1e7a9dab5c6",
+    "wof:geomhash":"b195f08194992672494d485e3ab3ad12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -629,7 +631,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1690863888,
+    "wof:lastmodified":1695884717,
     "wof:name":"British Columbia",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

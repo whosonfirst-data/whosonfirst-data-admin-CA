@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":90.420983,
-    "geom:area_square_m":649580597024.726562,
+    "geom:area_square_m":649580597024.734009,
     "geom:bbox":"-110.006365,48.998854,-101.361908,59.99982",
     "geom:latitude":54.417196,
     "geom:longitude":-105.892466,
@@ -605,12 +605,14 @@
         "gn:id":6141242,
         "gp:id":2344925,
         "hasc:id":"CA.SK",
+        "iso:code":"CA-SK",
         "iso:id":"CA-SK",
         "unlc:id":"CA-SK",
         "wd:id":"Q1989"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CA",
-    "wof:geomhash":"130092951289f10f703888d2ee575965",
+    "wof:geomhash":"fbbdaf936c23522380955093492c421c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -629,7 +631,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1690863890,
+    "wof:lastmodified":1695884761,
     "wof:name":"Saskatchewan",
     "wof:parent_id":85633041,
     "wof:placetype":"region",
