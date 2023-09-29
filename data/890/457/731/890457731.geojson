@@ -138,8 +138,10 @@
     "wof:concordances":{
         "gp:id":29375054,
         "qs_pg:id":1089193,
+        "statcan:cduid":"2467",
         "wk:page":"Roussillon"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053158,
     "wof:geom_alt":[
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":890457731,
-    "wof:lastmodified":1694497872,
+    "wof:lastmodified":1695886362,
     "wof:name":"Roussillon",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -116,8 +116,10 @@
     "wof:concordances":{
         "gp:id":29375049,
         "qs_pg:id":237967,
+        "statcan:cduid":"1203",
         "wk:page":"Digby"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053239,
     "wof:geom_alt":[
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":890458811,
-    "wof:lastmodified":1694498078,
+    "wof:lastmodified":1695886445,
     "wof:name":"Digby",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

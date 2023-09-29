@@ -171,10 +171,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"301",
         "gp:id":29375223,
         "qs_pg:id":379473,
+        "statcan:cduid":"5943",
         "wk:page":"Mount Waddington"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053089,
     "wof:geom_alt":[
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":890456837,
-    "wof:lastmodified":1694498085,
+    "wof:lastmodified":1695886466,
     "wof:name":"Mount Waddington",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

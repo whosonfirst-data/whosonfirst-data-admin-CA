@@ -104,8 +104,10 @@
     "wof:concordances":{
         "gp:id":29375078,
         "qs_pg:id":1291329,
+        "statcan:cduid":"3524",
         "wk:page":"Halton"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053215,
     "wof:geom_alt":[
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":890458413,
-    "wof:lastmodified":1694498184,
+    "wof:lastmodified":1695886532,
     "wof:name":"Halton",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

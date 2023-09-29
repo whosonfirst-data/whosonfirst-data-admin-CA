@@ -62,8 +62,10 @@
     "wof:concordances":{
         "gp:id":29375053,
         "qs_pg:id":1121291,
+        "statcan:cduid":"2446",
         "wk:page":"Brome-Missisquoi"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053174,
     "wof:geom_alt":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":890457889,
-    "wof:lastmodified":1694497965,
+    "wof:lastmodified":1695886237,
     "wof:name":"Brome-Missisquoi",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

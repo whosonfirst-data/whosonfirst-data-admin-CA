@@ -74,8 +74,10 @@
     "wof:concordances":{
         "gp:id":29375144,
         "qs_pg:id":1291445,
+        "statcan:cduid":"3538",
         "wk:page":"Lambton"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053048,
     "wof:geom_alt":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":890456489,
-    "wof:lastmodified":1694497867,
+    "wof:lastmodified":1695886347,
     "wof:name":"Lambton",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

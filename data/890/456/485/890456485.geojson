@@ -132,9 +132,11 @@
     "wof:concordances":{
         "gp:id":29375061,
         "qs_pg:id":1291331,
+        "statcan:cduid":"2472",
         "wd:id":"Q141943",
         "wk:page":"Deux-Montagnes, Quebec"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053048,
     "wof:geom_alt":[
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":890456485,
-    "wof:lastmodified":1694497857,
+    "wof:lastmodified":1695886313,
     "wof:name":"Deux-Montagnes",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

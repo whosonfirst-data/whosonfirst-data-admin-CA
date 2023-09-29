@@ -89,8 +89,10 @@
     "wof:concordances":{
         "gp:id":29375169,
         "qs_pg:id":379413,
+        "statcan:cduid":"3529",
         "wk:page":"Brant"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053088,
     "wof:geom_alt":[
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":890456825,
-    "wof:lastmodified":1694497867,
+    "wof:lastmodified":1695886345,
     "wof:name":"Brant",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

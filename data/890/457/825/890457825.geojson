@@ -129,9 +129,11 @@
     "wof:concordances":{
         "gp:id":29375179,
         "qs_pg:id":1111210,
+        "statcan:cduid":"2460",
         "wd:id":"Q141754",
         "wk:page":"L'Assomption, Quebec"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053170,
     "wof:geom_alt":[
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":890457825,
-    "wof:lastmodified":1694497889,
+    "wof:lastmodified":1695886407,
     "wof:name":"L'Assomption",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

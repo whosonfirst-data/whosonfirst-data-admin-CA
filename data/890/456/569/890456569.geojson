@@ -572,9 +572,11 @@
     "wof:concordances":{
         "gp:id":29375221,
         "qs_pg:id":503952,
+        "statcan:cduid":"3542",
         "wd:id":"Q42519",
         "wk:page":"Grey"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053055,
     "wof:geom_alt":[
@@ -590,7 +592,7 @@
         }
     ],
     "wof:id":890456569,
-    "wof:lastmodified":1694498081,
+    "wof:lastmodified":1695886454,
     "wof:name":"Grey",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

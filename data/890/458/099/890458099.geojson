@@ -223,8 +223,10 @@
     "wof:concordances":{
         "gp:id":29375102,
         "qs_pg:id":890805,
+        "statcan:cduid":"1210",
         "wk:page":"Colchester"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053188,
     "wof:geom_alt":[
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":890458099,
-    "wof:lastmodified":1694497850,
+    "wof:lastmodified":1695886292,
     "wof:name":"Colchester",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

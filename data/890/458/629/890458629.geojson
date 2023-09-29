@@ -62,8 +62,10 @@
     "wof:concordances":{
         "gp:id":29375171,
         "qs_pg:id":220443,
+        "statcan:cduid":"2470",
         "wk:page":"Beauharnois-Salaberry"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053229,
     "wof:geom_alt":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":890458629,
-    "wof:lastmodified":1694497964,
+    "wof:lastmodified":1695886235,
     "wof:name":"Beauharnois-Salaberry",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -86,9 +86,11 @@
     "wof:concordances":{
         "gp:id":29375134,
         "qs_pg:id":1290375,
+        "statcan:cduid":"2478",
         "wd:id":"Q1517938",
         "wk:page":"Les Laurentides Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053028,
     "wof:geom_alt":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":890456307,
-    "wof:lastmodified":1694497854,
+    "wof:lastmodified":1695886304,
     "wof:name":"Les Laurentides",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

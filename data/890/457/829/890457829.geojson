@@ -83,9 +83,11 @@
     "wof:concordances":{
         "gp:id":29375194,
         "qs_pg:id":1111212,
+        "statcan:cduid":"2426",
         "wd:id":"Q125495",
         "wk:page":"La Nouvelle-Beauce Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053171,
     "wof:geom_alt":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":890457829,
-    "wof:lastmodified":1694497879,
+    "wof:lastmodified":1695886383,
     "wof:name":"La Nouvelle-Beauce",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

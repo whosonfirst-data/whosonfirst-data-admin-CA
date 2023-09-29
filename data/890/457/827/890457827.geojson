@@ -92,9 +92,11 @@
     "wof:concordances":{
         "gp:id":29375183,
         "qs_pg:id":1111211,
+        "statcan:cduid":"2454",
         "wd:id":"Q1517861",
         "wk:page":"Les Maskoutains Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053170,
     "wof:geom_alt":[
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":890457827,
-    "wof:lastmodified":1694497879,
+    "wof:lastmodified":1695886383,
     "wof:name":"Les Maskoutains",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -83,11 +83,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"235",
         "gp:id":29375210,
         "qs_pg:id":890834,
+        "statcan:cduid":"5937",
         "wd:id":"Q7056212",
         "wk:page":"North Okanagan"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053190,
     "wof:geom_alt":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890458113,
-    "wof:lastmodified":1694498180,
+    "wof:lastmodified":1695886501,
     "wof:name":"North Okanagan",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

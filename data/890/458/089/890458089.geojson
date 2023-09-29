@@ -107,11 +107,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"173",
         "gp:id":29375076,
         "qs_pg:id":890800,
+        "statcan:cduid":"5903",
         "wd:id":"Q1700010",
         "wk:page":"Regional District of Central Kootenay"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053187,
     "wof:geom_alt":[
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":890458089,
-    "wof:lastmodified":1694498181,
+    "wof:lastmodified":1695886509,
     "wof:name":"Central Kootenay",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

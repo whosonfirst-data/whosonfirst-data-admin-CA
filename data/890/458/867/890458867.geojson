@@ -98,11 +98,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"89",
         "gp:id":29375118,
         "qs_pg:id":242099,
+        "statcan:cduid":"5909",
         "wd:id":"Q3554074",
         "wk:page":"Fraser Valley"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053242,
     "wof:geom_alt":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":890458867,
-    "wof:lastmodified":1694497851,
+    "wof:lastmodified":1695886294,
     "wof:name":"Fraser Valley",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

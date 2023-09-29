@@ -60,8 +60,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375201,
-        "qs_pg:id":890830
+        "qs_pg:id":890830,
+        "statcan:cduid":"3507"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053149,
     "wof:geom_alt":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":890457573,
-    "wof:lastmodified":1694498021,
+    "wof:lastmodified":1695886393,
     "wof:name":"Leeds and Grenville",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

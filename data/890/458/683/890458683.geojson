@@ -294,8 +294,10 @@
     "wof:concordances":{
         "gp:id":29375056,
         "qs_pg:id":225126,
+        "statcan:cduid":"3537",
         "wk:page":"Essex"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053232,
     "wof:geom_alt":[
@@ -311,7 +313,7 @@
         }
     ],
     "wof:id":890458683,
-    "wof:lastmodified":1694497947,
+    "wof:lastmodified":1695886612,
     "wof:name":"Essex",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

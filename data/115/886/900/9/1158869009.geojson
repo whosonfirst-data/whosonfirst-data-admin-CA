@@ -46,6 +46,10 @@
         85682123
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "statcan:cduid":"1001"
+    },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1512779119,
     "wof:geomhash":"bbd8501ecdaa91784edddbb3170c28b2",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1158869009,
-    "wof:lastmodified":1694497968,
+    "wof:lastmodified":1695886245,
     "wof:name":"Division No. 1",
     "wof:parent_id":85682123,
     "wof:placetype":"county",

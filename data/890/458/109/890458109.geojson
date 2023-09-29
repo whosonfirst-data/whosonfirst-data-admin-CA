@@ -143,9 +143,11 @@
     "wof:concordances":{
         "gp:id":29375206,
         "qs_pg:id":890832,
+        "statcan:cduid":"3516",
         "wd:id":"Q384755",
         "wk:page":"Kawartha Lakes"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:coterminous":[
         101735495
     ],
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":890458109,
-    "wof:lastmodified":1694497947,
+    "wof:lastmodified":1695886593,
     "wof:name":"Kawartha Lakes",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

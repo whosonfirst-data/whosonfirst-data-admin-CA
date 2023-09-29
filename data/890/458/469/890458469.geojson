@@ -133,8 +133,10 @@
     "wof:concordances":{
         "gp:id":29375055,
         "qs_pg:id":379292,
+        "statcan:cduid":"3509",
         "wk:page":"Lanark"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053219,
     "wof:geom_alt":[
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":890458469,
-    "wof:lastmodified":1694497852,
+    "wof:lastmodified":1695886299,
     "wof:name":"Lanark",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

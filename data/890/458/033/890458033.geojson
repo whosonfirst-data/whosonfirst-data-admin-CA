@@ -470,8 +470,10 @@
     "wof:concordances":{
         "gp:id":29375121,
         "qs_pg:id":903213,
+        "statcan:cduid":"2423",
         "wk:page":"Quebec"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:coterminous":[
         101737491
     ],
@@ -490,7 +492,7 @@
         }
     ],
     "wof:id":890458033,
-    "wof:lastmodified":1694497947,
+    "wof:lastmodified":1695886594,
     "wof:name":"Quebec",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

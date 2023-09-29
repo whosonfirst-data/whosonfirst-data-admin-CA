@@ -221,9 +221,11 @@
     "wof:concordances":{
         "gp:id":29375096,
         "qs_pg:id":890802,
+        "statcan:cduid":"3536",
         "wd:id":"Q113464",
         "wk:page":"Chatham-Kent"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053188,
     "wof:geom_alt":[
@@ -239,7 +241,7 @@
         }
     ],
     "wof:id":890458093,
-    "wof:lastmodified":1694497853,
+    "wof:lastmodified":1695886300,
     "wof:name":"Chatham-Kent",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

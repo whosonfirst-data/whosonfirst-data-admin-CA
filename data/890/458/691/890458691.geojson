@@ -134,8 +134,10 @@
     "wof:concordances":{
         "gp:id":29375091,
         "qs_pg:id":225134,
+        "statcan:cduid":"1202",
         "wk:page":"Yarmouth"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053233,
     "wof:geom_alt":[
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":890458691,
-    "wof:lastmodified":1694498080,
+    "wof:lastmodified":1695886451,
     "wof:name":"Yarmouth",
     "wof:parent_id":85682075,
     "wof:placetype":"county",

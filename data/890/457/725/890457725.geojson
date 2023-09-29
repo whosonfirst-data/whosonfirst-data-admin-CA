@@ -389,9 +389,11 @@
     "wof:concordances":{
         "gp:id":29375043,
         "qs_pg:id":1089190,
+        "statcan:cduid":"1103",
         "wd:id":"Q2747456",
         "wk:page":"Prince"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053158,
     "wof:geom_alt":[
@@ -407,7 +409,7 @@
         }
     ],
     "wof:id":890457725,
-    "wof:lastmodified":1694497882,
+    "wof:lastmodified":1695886392,
     "wof:name":"Prince",
     "wof:parent_id":85682081,
     "wof:placetype":"county",

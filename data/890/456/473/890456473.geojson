@@ -149,8 +149,10 @@
     "wof:concordances":{
         "gp:id":29375220,
         "qs_pg:id":1290412,
+        "statcan:cduid":"3547",
         "wk:page":"Renfrew"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053047,
     "wof:geom_alt":[
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":890456473,
-    "wof:lastmodified":1694497946,
+    "wof:lastmodified":1695886559,
     "wof:name":"Renfrew",
     "wof:parent_id":85682057,
     "wof:placetype":"county",

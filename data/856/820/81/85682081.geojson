@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.774673,
-    "geom:area_square_m":6607862387.15451,
+    "geom:area_square_m":6607862387.154302,
     "geom:bbox":"-64.418152,45.946797,-61.98653,47.060444",
     "geom:latitude":46.383042,
     "geom:longitude":-63.256369,
@@ -564,12 +564,14 @@
         "gn:id":6113358,
         "gp:id":2344923,
         "hasc:id":"CA.PE",
+        "iso:code":"CA-PE",
         "iso:id":"CA-PE",
         "unlc:id":"CA-PE",
         "wd:id":"Q1979"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CA",
-    "wof:geomhash":"737bd832e758d16ab86720d673e3623c",
+    "wof:geomhash":"22ec9fbd0560cc561b31f9424c2bdc87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -588,7 +590,7 @@
         "iku",
         "ikt"
     ],
-    "wof:lastmodified":1690863879,
+    "wof:lastmodified":1695884718,
     "wof:name":"Prince Edward Island",
     "wof:parent_id":85633041,
     "wof:placetype":"region",

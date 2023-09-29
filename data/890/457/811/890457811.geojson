@@ -62,8 +62,10 @@
     "wof:concordances":{
         "gp:id":29375109,
         "qs_pg:id":1111198,
+        "statcan:cduid":"2471",
         "wk:page":"Vaudreuil-Soulanges"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053168,
     "wof:geom_alt":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":890457811,
-    "wof:lastmodified":1694497879,
+    "wof:lastmodified":1695886383,
     "wof:name":"Vaudreuil-Soulanges",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

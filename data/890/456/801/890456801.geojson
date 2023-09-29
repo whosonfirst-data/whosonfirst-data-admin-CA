@@ -123,9 +123,11 @@
     "wof:concordances":{
         "gp:id":29375137,
         "qs_pg:id":379361,
+        "statcan:cduid":"2444",
         "wd:id":"Q142053",
         "wk:page":"Coaticook"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053086,
     "wof:geom_alt":[
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":890456801,
-    "wof:lastmodified":1694497870,
+    "wof:lastmodified":1695886355,
     "wof:name":"Coaticook",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

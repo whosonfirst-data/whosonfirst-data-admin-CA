@@ -52,6 +52,10 @@
         85682105
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "statcan:cduid":"6208"
+    },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1512779208,
     "wof:geom_alt":[
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1158869069,
-    "wof:lastmodified":1694498007,
+    "wof:lastmodified":1695886350,
     "wof:name":"Kitikmeot",
     "wof:parent_id":85682105,
     "wof:placetype":"county",

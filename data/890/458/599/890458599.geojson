@@ -98,11 +98,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"247",
         "gp:id":29375188,
         "qs_pg:id":212517,
+        "statcan:cduid":"5923",
         "wd:id":"Q1778727",
         "wk:page":"Alberni-Clayoquot Regional District"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053227,
     "wof:geom_alt":[
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":890458599,
-    "wof:lastmodified":1694497962,
+    "wof:lastmodified":1695886229,
     "wof:name":"Alberni-Clayoquot",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

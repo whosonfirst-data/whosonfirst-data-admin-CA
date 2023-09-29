@@ -83,9 +83,11 @@
     "wof:concordances":{
         "gp:id":29375172,
         "qs_pg:id":220444,
+        "statcan:cduid":"2431",
         "wd:id":"Q1517564",
         "wk:page":"Les Appalaches Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053229,
     "wof:geom_alt":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":890458631,
-    "wof:lastmodified":1694497853,
+    "wof:lastmodified":1695886302,
     "wof:name":"Les Appalaches",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

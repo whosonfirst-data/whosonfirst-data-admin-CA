@@ -46,6 +46,10 @@
         136251273
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "statcan:cduid":"2440"
+    },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1513023429,
     "wof:geomhash":"7c459cc85cd1f9b0b818d40a47119707",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1158884885,
-    "wof:lastmodified":1694498183,
+    "wof:lastmodified":1695886529,
     "wof:name":"Les Sources",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

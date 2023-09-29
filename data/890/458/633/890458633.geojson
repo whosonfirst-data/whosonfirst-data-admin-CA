@@ -89,9 +89,11 @@
     "wof:concordances":{
         "gp:id":29375173,
         "qs_pg:id":220445,
+        "statcan:cduid":"2492",
         "wd:id":"Q1517952",
         "wk:page":"Maria-Chapdelaine"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053229,
     "wof:geom_alt":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":890458633,
-    "wof:lastmodified":1694497850,
+    "wof:lastmodified":1695886292,
     "wof:name":"Maria-Chapdelaine",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

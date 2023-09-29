@@ -63,8 +63,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375068,
-        "qs_pg:id":1111194
+        "qs_pg:id":1111194,
+        "statcan:cduid":"2432"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053168,
     "wof:geom_alt":[
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":890457803,
-    "wof:lastmodified":1694498183,
+    "wof:lastmodified":1695886530,
     "wof:name":"L'erable",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

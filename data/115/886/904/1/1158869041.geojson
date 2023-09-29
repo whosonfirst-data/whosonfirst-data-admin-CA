@@ -46,6 +46,10 @@
         85682067
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "statcan:cduid":"6106"
+    },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1512779150,
     "wof:geomhash":"1850b5b1f1a496320cde0957696f5469",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1158869041,
-    "wof:lastmodified":1694498183,
+    "wof:lastmodified":1695886529,
     "wof:name":"Region 6",
     "wof:parent_id":85682067,
     "wof:placetype":"county",

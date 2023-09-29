@@ -197,9 +197,11 @@
     "wof:concordances":{
         "gp:id":29375244,
         "qs_pg:id":1290422,
+        "statcan:cduid":"2484",
         "wd:id":"Q40990",
         "wk:page":"Pontiac"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053048,
     "wof:geom_alt":[
@@ -215,7 +217,7 @@
         }
     ],
     "wof:id":890456475,
-    "wof:lastmodified":1694498179,
+    "wof:lastmodified":1695886498,
     "wof:name":"Pontiac",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

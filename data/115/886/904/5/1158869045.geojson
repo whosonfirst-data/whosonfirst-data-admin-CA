@@ -51,6 +51,10 @@
         85682105
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "statcan:cduid":"6205"
+    },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1512779152,
     "wof:geomhash":"ffc43dd222ac1fdb1f70ef4d091c355b",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1158869045,
-    "wof:lastmodified":1694498015,
+    "wof:lastmodified":1695886374,
     "wof:name":"Kivalliq",
     "wof:parent_id":85682105,
     "wof:placetype":"county",

@@ -104,9 +104,11 @@
     "wof:concordances":{
         "gp:id":29375226,
         "qs_pg:id":890836,
+        "statcan:cduid":"2416",
         "wd:id":"Q14875515",
         "wk:page":"Charlevoix"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053190,
     "wof:geom_alt":[
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":890458115,
-    "wof:lastmodified":1694497854,
+    "wof:lastmodified":1695886303,
     "wof:name":"Charlevoix",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

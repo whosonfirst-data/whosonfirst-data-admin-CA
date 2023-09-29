@@ -274,11 +274,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"310",
         "gp:id":29375073,
         "qs_pg:id":1119930,
+        "statcan:cduid":"5921",
         "wd:id":"Q16461",
         "wk:page":"Nanaimo"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053174,
     "wof:geom_alt":[
@@ -295,7 +301,7 @@
         }
     ],
     "wof:id":890457881,
-    "wof:lastmodified":1694498088,
+    "wof:lastmodified":1695886474,
     "wof:name":"Nanaimo",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

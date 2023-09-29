@@ -63,8 +63,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375107,
-        "qs_pg:id":890806
+        "qs_pg:id":890806,
+        "statcan:cduid":"2493"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053189,
     "wof:geom_alt":[
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":890458103,
-    "wof:lastmodified":1694498021,
+    "wof:lastmodified":1695886393,
     "wof:name":"Lac-Saint-Jean-Est",
     "wof:parent_id":136251273,
     "wof:placetype":"county",

@@ -107,11 +107,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"82",
         "gp:id":29375224,
         "qs_pg:id":225136,
+        "statcan:cduid":"5935",
         "wd:id":"Q945201",
         "wk:page":"Regional District of Central Okanagan"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053233,
     "wof:geom_alt":[
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":890458697,
-    "wof:lastmodified":1694498182,
+    "wof:lastmodified":1695886524,
     "wof:name":"Central Okanagan",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

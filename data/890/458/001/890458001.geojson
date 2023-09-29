@@ -257,8 +257,10 @@
     "wof:concordances":{
         "gp:id":29375159,
         "qs_pg:id":890819,
+        "statcan:cduid":"1309",
         "wk:page":"Northumberland"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053181,
     "wof:geom_alt":[
@@ -274,7 +276,7 @@
         }
     ],
     "wof:id":890458001,
-    "wof:lastmodified":1694497850,
+    "wof:lastmodified":1695886293,
     "wof:name":"Northumberland",
     "wof:parent_id":85682065,
     "wof:placetype":"county",

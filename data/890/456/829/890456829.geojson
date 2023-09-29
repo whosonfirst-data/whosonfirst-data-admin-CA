@@ -153,10 +153,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "can-databc:aa_id":"329",
         "gp:id":29375208,
         "qs_pg:id":379441,
+        "statcan:cduid":"5929",
         "wk:page":"Sunshine Coast"
     },
+    "wof:concordances_official":"statcan:cduid",
+    "wof:concordances_official_alt":[
+        "can-databc:aa_id"
+    ],
     "wof:country":"CA",
     "wof:created":1469053088,
     "wof:geom_alt":[
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890456829,
-    "wof:lastmodified":1694498083,
+    "wof:lastmodified":1695886459,
     "wof:name":"Sunshine Coast",
     "wof:parent_id":85682117,
     "wof:placetype":"county",

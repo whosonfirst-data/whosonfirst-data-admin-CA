@@ -63,8 +63,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29375090,
-        "qs_pg:id":225133
+        "qs_pg:id":225133,
+        "statcan:cduid":"2441"
     },
+    "wof:concordances_official":"statcan:cduid",
     "wof:country":"CA",
     "wof:created":1469053232,
     "wof:geom_alt":[
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":890458689,
-    "wof:lastmodified":1694498178,
+    "wof:lastmodified":1695886494,
     "wof:name":"Le Haut-Saint-Francois",
     "wof:parent_id":136251273,
     "wof:placetype":"county",
