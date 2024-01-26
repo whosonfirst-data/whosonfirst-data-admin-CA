@@ -9,9 +9,22 @@
     "geom:bbox":"-77.422948,45.809521,-77.16036,45.983138",
     "geom:latitude":45.8942,
     "geom:longitude":-77.308593,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Petawawa",
+    "gn:country_code":"CA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6101606,
     "gn:id":"6101606,6101607",
+    "gn:latitude":45.89452,
+    "gn:longitude":-77.28007,
+    "gn:modification_date":"2013-10-26",
+    "gn:name":"Petawawa",
     "gn:population":15988,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-77.30007,45.87452,-77.26007,45.91452",
     "lbl:latitude":45.895581,
     "lbl:longitude":-77.319537,
     "lbl:max_zoom":15.0,
@@ -121,7 +134,15 @@
         "wk:page":"Petawawa"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1041612
+        "gn:id":[
+            6101606
+        ],
+        "qs_pg:id":[
+            1041612
+        ],
+        "wk:page":[
+            "Petawawa"
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -138,7 +159,7 @@
         }
     ],
     "wof:id":101736059,
-    "wof:lastmodified":1690864471,
+    "wof:lastmodified":1706239358,
     "wof:name":"Petawawa",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",
@@ -146,7 +167,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327353585
+    ],
     "wof:tags":[]
 },
   "bbox": [

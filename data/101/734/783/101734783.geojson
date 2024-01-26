@@ -9,7 +9,21 @@
     "geom:bbox":"-99.531047,51.051757,-99.506455,51.066511",
     "geom:latitude":51.059224,
     "geom:longitude":-99.517548,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ste. Rose du Lac",
+    "gn:country_code":"CA",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6156291,
+    "gn:latitude":51.05941,
+    "gn:longitude":-99.5241,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Ste. Rose du Lac",
+    "gn:population":0,
+    "gn:timezone":"America/Winnipeg",
     "iso:country":"CA",
+    "lbl:bbox":"-99.5441,51.03941,-99.5041,51.07941",
     "lbl:latitude":51.059143,
     "lbl:longitude":-99.517546,
     "lbl:max_zoom":18.0,
@@ -104,6 +118,14 @@
         "wd:id":"Q138976",
         "wk:page":"Sainte Rose du Lac"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6156291
+        ],
+        "wk:page":[
+            "Sainte_Rose_du_Lac"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -122,14 +144,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864844,
+    "wof:lastmodified":1706239353,
     "wof:name":"Ste. Rose du Lac",
     "wof:parent_id":1158868997,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276125825
+    ],
     "wof:tags":[]
 },
   "bbox": [

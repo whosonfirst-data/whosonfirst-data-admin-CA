@@ -10,6 +10,7 @@
     "geom:latitude":50.572646,
     "geom:longitude":-73.68473,
     "iso:country":"CA",
+    "lbl:bbox":"-73.8865871599,50.3970634146,-73.8465871599,50.4370634146",
     "lbl:latitude":50.597104,
     "lbl:longitude":-73.650298,
     "lbl:max_zoom":18.0,
@@ -183,6 +184,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
     "qs:a1_lc":"QC",
@@ -197,6 +199,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Land Claim",
+    "reversegeo:latitude":50.417063,
+    "reversegeo:longitude":-73.866587,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -232,14 +236,16 @@
         }
     ],
     "wof:id":101741635,
-    "wof:lastmodified":1636414353,
+    "wof:lastmodified":1706239367,
     "wof:name":"Mistassini",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141908005
+    ],
     "wof:tags":[]
 },
   "bbox": [

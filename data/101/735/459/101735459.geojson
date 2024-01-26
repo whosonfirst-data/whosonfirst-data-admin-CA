@@ -10,6 +10,7 @@
     "geom:latitude":64.161223,
     "geom:longitude":-83.314451,
     "iso:country":"CA",
+    "lbl:bbox":"-83.1965873634,64.1337701611,-83.1565873634,64.1737701611",
     "lbl:latitude":64.161351,
     "lbl:longitude":-83.372583,
     "lbl:max_zoom":18.0,
@@ -258,6 +259,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -271,6 +273,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":64.15377,
+    "reversegeo:longitude":-83.176587,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -291,6 +295,11 @@
         "wd:id":"Q652770",
         "wk:page":"Coral Harbour"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q652770"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -309,14 +318,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864956,
+    "wof:lastmodified":1706239355,
     "wof:name":"Coral Harbour",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907961
+    ],
     "wof:tags":[]
 },
   "bbox": [

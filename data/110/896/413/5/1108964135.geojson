@@ -17,6 +17,7 @@
     "geom:latitude":51.011867,
     "geom:longitude":-113.970091,
     "iso:country":"CA",
+    "lbl:bbox":"-113.973633418,51.0062687211,-113.963633418,51.0162687211",
     "lbl:latitude":51.011859,
     "lbl:longitude":-113.970092,
     "lbl:max_zoom":18.0,
@@ -25,21 +26,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:pol_x_preferred":[
         "Eastfield"
     ],
     "reversegeo:latitude":51.011859,
     "reversegeo:longitude":-113.970092,
     "src:geom":"can-calcai",
+    "wd:wordcount":45,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1108964135,
-    "wof:lastmodified":1577998161,
+    "wof:lastmodified":1706239376,
     "wof:name":"Eastfield",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783959
+    ],
     "wof:tags":[]
 },
   "bbox": [

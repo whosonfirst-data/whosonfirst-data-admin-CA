@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-79.84194,43.56917,-79.84194,43.56917",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hornby"
@@ -68,7 +70,7 @@
         "gn:id":5976991
     },
     "wof:country":"CA",
-    "wof:geomhash":"b471c18e25875d0bbc67c41f8cdd8393",
+    "wof:geomhash":"ec09b18eb6d99d440070501a59838987",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,20 +81,22 @@
         }
     ],
     "wof:id":1343546651,
-    "wof:lastmodified":1566518868,
+    "wof:lastmodified":1706239386,
     "wof:name":"Hornby",
     "wof:parent_id":890458413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276652101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -79.84194000000002,
+    -79.84194,
     43.56917,
-    -79.84194000000002,
+    -79.84194,
     43.56917
 ],
-  "geometry": {"coordinates":[-79.84194000000002,43.56917],"type":"Point"}
+  "geometry": {"coordinates":[-79.84193999999999,43.56917],"type":"Point"}
 }

@@ -9,7 +9,23 @@
     "geom:bbox":"-73.39375,46.113859,-73.235843,46.264162",
     "geom:latitude":46.183984,
     "geom:longitude":-73.318542,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"52070.0",
+    "gn:asciiname":"Saint-Norbert",
+    "gn:country_code":"CA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429023,
+    "gn:latitude":46.16949,
+    "gn:longitude":-73.31494,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Saint-Norbert",
+    "gn:population":1059,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-73.33494,46.14949,-73.29494,46.18949",
     "lbl:latitude":46.185129,
     "lbl:longitude":-73.330495,
     "lbl:max_zoom":18.0,
@@ -78,6 +94,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191575,
@@ -92,6 +109,14 @@
         "wd:id":"Q3463063",
         "wk:page":"Saint-Norbert, Quebec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11429023
+        ],
+        "wk:page":[
+            "Saint-Norbert,_Quebec"
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"b4e431b7070c12283ed1f0c654653fe6",
     "wof:hierarchy":[
@@ -104,14 +129,17 @@
         }
     ],
     "wof:id":101738373,
-    "wof:lastmodified":1690864593,
+    "wof:lastmodified":1706239363,
     "wof:name":"Saint-Norbert",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",
+    "wof:population":1059,
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360269107
+    ],
     "wof:tags":[]
 },
   "bbox": [

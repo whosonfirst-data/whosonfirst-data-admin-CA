@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-72.18188,48.99993,-72.18188,48.99993",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saint-Stanislas"
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":1293872727,
-    "wof:lastmodified":1566519076,
+    "wof:lastmodified":1706239363,
     "wof:name":"Saint-Stanislas",
     "wof:parent_id":890458633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101738703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

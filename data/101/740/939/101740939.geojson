@@ -11,6 +11,7 @@
     "geom:longitude":-121.930894,
     "gn:population":77000,
     "iso:country":"CA",
+    "lbl:bbox":"-121.969982953,49.1466487824,-121.929982953,49.1866487824",
     "lbl:latitude":49.154357,
     "lbl:longitude":-121.919106,
     "lbl:max_zoom":14.0,
@@ -21,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0644\u064a\u0648\u0627\u0643"
+    ],
+    "name:ara_x_variant":[
         "\u062a\u0634\u064a\u0644\u064a\u0648\u0627\u0643"
     ],
     "name:ast_x_preferred":[
@@ -274,6 +278,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
     "qs:a1_lc":"BC",
@@ -287,6 +292,8 @@
     "qs:pop":0,
     "qs:source":"NBC Gov",
     "qs:type":"MU",
+    "reversegeo:latitude":49.166649,
+    "reversegeo:longitude":-121.949983,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -311,6 +318,11 @@
         "wd:id":"Q983026",
         "wk:page":"Chilliwack"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q983026"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -327,7 +339,7 @@
         }
     ],
     "wof:id":101740939,
-    "wof:lastmodified":1690864606,
+    "wof:lastmodified":1706239365,
     "wof:name":"Chilliwack",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",
@@ -335,7 +347,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906647
+    ],
     "wof:tags":[]
 },
   "bbox": [

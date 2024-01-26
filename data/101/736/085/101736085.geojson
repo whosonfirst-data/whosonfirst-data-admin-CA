@@ -9,8 +9,22 @@
     "geom:bbox":"-83.149681,41.836218,-82.967355,42.191437",
     "geom:latitude":42.055157,
     "geom:longitude":-83.054043,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Amherstburg",
+    "gn:country_code":"CA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5884472,
     "gn:id":"5884472,5884473",
+    "gn:latitude":42.10009,
+    "gn:longitude":-83.09985,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Amherstburg",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-83.11985,42.08009,-83.07985,42.12009",
     "lbl:latitude":42.053196,
     "lbl:longitude":-83.070528,
     "lbl:max_zoom":18.0,
@@ -119,7 +133,15 @@
         "wk:page":"Amherstburg"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1113290
+        "gn:id":[
+            5884472
+        ],
+        "qs_pg:id":[
+            1113290
+        ],
+        "wk:page":[
+            "Amherstburg"
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -136,14 +158,16 @@
         }
     ],
     "wof:id":101736085,
-    "wof:lastmodified":1690864404,
+    "wof:lastmodified":1706239358,
     "wof:name":"Amherstburg",
     "wof:parent_id":890458683,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226035757
+    ],
     "wof:tags":[]
 },
   "bbox": [

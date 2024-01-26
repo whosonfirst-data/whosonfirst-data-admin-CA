@@ -10,6 +10,7 @@
     "geom:latitude":49.002655,
     "geom:longitude":-88.334483,
     "iso:country":"CA",
+    "lbl:bbox":"-88.2699727801,48.997045511,-88.2299727801,49.037045511",
     "lbl:latitude":49.002795,
     "lbl:longitude":-88.334347,
     "lbl:max_zoom":18.0,
@@ -192,6 +193,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
     "qs:a1_lc":"ON",
@@ -206,6 +208,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Township",
+    "reversegeo:latitude":49.017046,
+    "reversegeo:longitude":-88.249973,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -229,6 +233,11 @@
         "wd:id":"Q1993247",
         "wk:page":"Nipigon"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1993247"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -245,14 +254,16 @@
         }
     ],
     "wof:id":101735773,
-    "wof:lastmodified":1690864969,
+    "wof:lastmodified":1706239357,
     "wof:name":"Nipigon",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907993
+    ],
     "wof:tags":[]
 },
   "bbox": [

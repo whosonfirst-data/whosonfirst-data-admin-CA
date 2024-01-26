@@ -10,6 +10,7 @@
     "geom:latitude":72.665956,
     "geom:longitude":-77.935599,
     "iso:country":"CA",
+    "lbl:bbox":"-78.0200557879,72.6649806917,-77.9800557879,72.7049806917",
     "lbl:latitude":72.666245,
     "lbl:longitude":-77.935597,
     "lbl:max_zoom":18.0,
@@ -257,6 +258,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -270,6 +272,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":72.684981,
+    "reversegeo:longitude":-78.000056,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -296,6 +300,11 @@
         "wd:id":"Q1017702",
         "wk:page":"Pond Inlet"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1017702"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -315,14 +324,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864885,
+    "wof:lastmodified":1706239354,
     "wof:name":"Pond Inlet",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909031
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-79.84963,43.25011,-79.84963,43.25011",
@@ -19,7 +21,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
@@ -375,14 +377,16 @@
         }
     ],
     "wof:id":1125828707,
-    "wof:lastmodified":1690865378,
+    "wof:lastmodified":1706239356,
     "wof:name":"Hamilton",
     "wof:parent_id":890456341,
     "wof:placetype":"locality",
     "wof:population":519949,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101735515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

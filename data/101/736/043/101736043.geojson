@@ -9,8 +9,22 @@
     "geom:bbox":"-82.84264,41.676937,-82.600227,42.177241",
     "geom:latitude":41.939633,
     "geom:longitude":-82.734857,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kingsville",
+    "gn:country_code":"CA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5992526,
     "gn:id":"5992525,5992526",
+    "gn:latitude":42.10009,
+    "gn:longitude":-82.73312,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Kingsville",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-82.75312,42.08009,-82.71312,42.12009",
     "lbl:latitude":41.940618,
     "lbl:longitude":-82.741021,
     "lbl:max_zoom":18.0,
@@ -111,6 +125,14 @@
         "wd:id":"Q3085326",
         "wk:page":"Kingsville, Nova Scotia"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5992526
+        ],
+        "wk:page":[
+            "Kingsville%2C_Ontario"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -125,14 +147,16 @@
         }
     ],
     "wof:id":101736043,
-    "wof:lastmodified":1690864462,
+    "wof:lastmodified":1706239358,
     "wof:name":"Kingsville",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243283837
+    ],
     "wof:tags":[]
 },
   "bbox": [

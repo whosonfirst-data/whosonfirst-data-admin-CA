@@ -13,7 +13,21 @@
     "geom:bbox":"-112.832886,52.462968,-112.799775,52.479733",
     "geom:latitude":52.46931,
     "geom:longitude":-112.81086,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"White Sands",
+    "gn:country_code":"CA",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6181035,
+    "gn:latitude":52.46683,
+    "gn:longitude":-112.81863,
+    "gn:modification_date":"2006-01-18",
+    "gn:name":"White Sands",
+    "gn:population":0,
+    "gn:timezone":"America/Edmonton",
     "iso:country":"CA",
+    "lbl:bbox":"-112.83863,52.44683,-112.79863,52.48683",
     "lbl:latitude":52.47169,
     "lbl:longitude":-112.805125,
     "lbl:max_zoom":18.0,
@@ -23,6 +37,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0644 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09c1\u09df\u09be\u0987\u099f \u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
     "name:ceb_x_preferred":[
         "White Sands"
     ],
@@ -32,16 +52,46 @@
     "name:deu_x_preferred":[
         "White Sands"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ac\u03b9\u03c4 \u03a3\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "White Sands"
     ],
     "name:eng_x_variant":[
         "S.V. of White Sands"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u062a \u0633\u0646\u062f\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "White Sands"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05d1\u05e8 \u05d4\u05d7\u05d5\u05dc\u05d5\u05ea \u05d4\u05dc\u05d1\u05e0\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u095e\u0947\u0926 \u0930\u0947\u0924 "
+    ],
+    "name:hun_x_preferred":[
+        "White Sands"
+    ],
+    "name:ind_x_preferred":[
+        "White Sands"
+    ],
     "name:ita_x_preferred":[
         "White Sands"
     ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ef\u30a4\u30c8\u30b5\u30f3\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\ud654\uc774\ud2b8 \uc0cc\uc988"
+    ],
     "name:nld_x_preferred":[
+        "White Sands"
+    ],
+    "name:pol_x_preferred":[
         "White Sands"
     ],
     "name:por_x_preferred":[
@@ -52,6 +102,9 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0435\u043b\u044b\u0435 \u043f\u0435\u0441\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "White Sands"
     ],
     "name:swe_x_preferred":[
         "White Sands"
@@ -81,6 +134,18 @@
         1158863241
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6181035,
+        "wk:page":"White_Sands%2C_Alberta"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6181035
+        ],
+        "wk:page":[
+            "White_Sands%2C_Alberta"
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1512692239,
     "wof:geomhash":"311e9205a0c059d3d615bd4d2bac056b",
@@ -94,14 +159,16 @@
         }
     ],
     "wof:id":1158868379,
-    "wof:lastmodified":1636414437,
+    "wof:lastmodified":1706239381,
     "wof:name":"White Sands",
     "wof:parent_id":1158863241,
     "wof:placetype":"locality",
     "wof:placetype_local":"summer village",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293598847
+    ],
     "wof:tags":[]
 },
   "bbox": [

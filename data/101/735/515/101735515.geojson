@@ -9,8 +9,11 @@
     "geom:bbox":"-80.248689,43.050506,-79.582132,43.470698",
     "geom:latitude":43.253944,
     "geom:longitude":-79.93939,
+    "gn:country":"CA",
+    "gn:fcode":"PPL",
     "gn:population":519949,
     "iso:country":"CA",
+    "lbl:bbox":"-79.84999577,43.2299815054,-79.80999577,43.2699815054",
     "lbl:latitude":43.276797,
     "lbl:longitude":-80.027986,
     "lbl:max_zoom":13.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Hamilton"
     ],
@@ -412,6 +416,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
     "qs:a1_lc":"ON",
@@ -426,6 +431,28 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"City",
+    "qs_pg:aaroncc":"CA",
+    "qs_pg:gn_country":"CA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":5969782,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hamilton",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Ontario",
+    "qs_pg:photos":1772,
+    "qs_pg:photos_1k":359,
+    "qs_pg:photos_9k":115,
+    "qs_pg:photos_9r":22,
+    "qs_pg:photos_all":25881,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":767105,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":4125,
+    "reversegeo:latitude":43.249982,
+    "reversegeo:longitude":-79.829996,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -437,6 +464,10 @@
     "wd:longitude":-79.8667,
     "wd:population":519949,
     "wd:wordcount":7325,
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Ontario",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191575,
         85633041,
@@ -452,7 +483,18 @@
         "wk:page":"Hamilton, Ontario"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":767105
+        "gn:id":[
+            5969782
+        ],
+        "gp:id":[
+            4125
+        ],
+        "qs_pg:id":[
+            767105
+        ],
+        "wd:id":[
+            "Q133116"
+        ]
     },
     "wof:coterminous":[
         890456341
@@ -473,7 +515,7 @@
         }
     ],
     "wof:id":101735515,
-    "wof:lastmodified":1690864975,
+    "wof:lastmodified":1706239356,
     "wof:name":"Hamilton",
     "wof:parent_id":890456341,
     "wof:placetype":"locality",
@@ -481,7 +523,10 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141908751,
+        1125828707
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -17,6 +17,7 @@
     "geom:latitude":51.040986,
     "geom:longitude":-113.940014,
     "iso:country":"CA",
+    "lbl:bbox":"-113.945595379,51.0355644997,-113.935595379,51.0455644997",
     "lbl:latitude":51.041057,
     "lbl:longitude":-113.938663,
     "lbl:max_zoom":18.0,
@@ -25,21 +26,94 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u0440\u0432\u043e\u043d\u0430\u044f \u0434\u0430\u0440\u043e\u0436\u043a\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u0641\u0648\u0648\u0631\u06cc \u0633\u0648\u0648\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Roter Teppich"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf \u03c7\u03b1\u03bb\u03af"
+    ],
     "name:eng_x_preferred":[
         "Red Carpet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0634 \u0642\u0631\u0645\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Punainen matto"
+    ],
+    "name:fra_x_preferred":[
+        "Tapis rouge"
+    ],
+    "name:hbs_x_preferred":[
+        "Crveni tepih"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d8\u05d9\u05d7 \u05d0\u05d3\u05d5\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f6r\u00f6s sz\u0151nyeg"
+    ],
+    "name:ita_x_preferred":[
+        "Tappeto rosso"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30c3\u30c9 \u30ab\u30fc\u30da\u30c3\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u30ec\u30c3\u30c9 \u30ab\u30fc\u30da\u30c3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ub4dc \uce74\ud3ab"
+    ],
+    "name:lat_x_preferred":[
+        "Tapetum purpureum"
+    ],
     "name:nld_x_preferred":[
         "Red Carpet"
+    ],
+    "name:nld_x_variant":[
+        "Red Carpet"
+    ],
+    "name:nor_x_preferred":[
+        "R\u00f8d l\u00f8per"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a48\u0a71\u0a21 \u0a15\u0a3e\u0a30\u0a2a\u0a47\u0a1f"
+    ],
+    "name:por_x_preferred":[
+        "Tapete vermelho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0434\u043e\u0440\u043e\u0436\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Alfombra roja"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f6da mattan"
+    ],
+    "name:tur_x_preferred":[
+        "K\u0131rm\u0131z\u0131 hal\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ea3m \u0111\u1ecf"
     ],
     "reversegeo:latitude":51.041057,
     "reversegeo:longitude":-113.938663,
     "src:geom":"can-calcai",
+    "wd:wordcount":526,
     "wof:belongsto":[
         85682091,
         102191575,
@@ -49,7 +123,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":23404847,
         "wd:id":"Q7303855"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q7303855"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"23282c4bbe5834743088897f5eb46072",
@@ -64,13 +144,15 @@
         }
     ],
     "wof:id":1108964029,
-    "wof:lastmodified":1690864102,
+    "wof:lastmodified":1706239372,
     "wof:name":"Red Carpet",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783949
+    ],
     "wof:tags":[]
 },
   "bbox": [

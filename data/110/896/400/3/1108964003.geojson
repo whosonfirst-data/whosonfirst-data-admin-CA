@@ -17,6 +17,7 @@
     "geom:latitude":51.087972,
     "geom:longitude":-114.065011,
     "iso:country":"CA",
+    "lbl:bbox":"-114.069323488,51.0829380569,-114.059323488,51.0929380569",
     "lbl:latitude":51.088207,
     "lbl:longitude":-114.065784,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Highland Park"
     ],
@@ -46,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":26342805,
         "wd:id":"Q5758915"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q5758915"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"dcd429b30295db391163c619d2a7d4c8",
@@ -61,13 +71,15 @@
         }
     ],
     "wof:id":1108964003,
-    "wof:lastmodified":1690864097,
+    "wof:lastmodified":1706239371,
     "wof:name":"Highland Park",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420784055
+    ],
     "wof:tags":[]
 },
   "bbox": [

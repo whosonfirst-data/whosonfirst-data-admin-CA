@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-117.10546,55.72786,-117.10546,55.72786",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u0644\u064a\u064a"
@@ -77,12 +79,14 @@
         }
     ],
     "wof:id":1343565249,
-    "wof:lastmodified":1566518892,
+    "wof:lastmodified":1706239384,
     "wof:name":"Donnelly",
     "wof:parent_id":1158863233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1158868443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

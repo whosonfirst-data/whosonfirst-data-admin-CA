@@ -9,8 +9,24 @@
     "geom:bbox":"-71.585665,45.606746,-71.313455,45.79906",
     "geom:latitude":45.702485,
     "geom:longitude":-71.449594,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"41098.0",
+    "gn:asciiname":"Weedon",
+    "gn:country_code":"CA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6177594,
     "gn:id":"6177594,6177596",
+    "gn:latitude":45.70007,
+    "gn:longitude":-71.44908,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Weedon",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-71.46908,45.68007,-71.42908,45.72007",
     "lbl:latitude":45.703217,
     "lbl:longitude":-71.449594,
     "lbl:max_zoom":18.0,
@@ -92,6 +108,11 @@
         "qs_pg:id":246426,
         "wd:id":"Q3567038"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6177594
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -107,14 +128,16 @@
         }
     ],
     "wof:id":101737015,
-    "wof:lastmodified":1690864276,
+    "wof:lastmodified":1706239361,
     "wof:name":"Weedon",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293275927
+    ],
     "wof:tags":[]
 },
   "bbox": [

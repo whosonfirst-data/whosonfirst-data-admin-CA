@@ -6,10 +6,24 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
     "geom:area_square_m":2727108.927217,
-    "geom:bbox":"-101.3159867,50.4394225,-101.2923189,50.4543072",
+    "geom:bbox":"-101.315987,50.439422,-101.292319,50.454307",
     "geom:latitude":50.446826,
     "geom:longitude":-101.304159,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"St-Lazare",
+    "gn:country_code":"CA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6156987,
+    "gn:latitude":50.4489,
+    "gn:longitude":-101.30511,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"St-Lazare",
+    "gn:population":0,
+    "gn:timezone":"America/Winnipeg",
     "iso:country":"CA",
+    "lbl:bbox":"-101.32511,50.4289,-101.28511,50.4689",
     "lbl:latitude":50.446835,
     "lbl:longitude":-101.304159,
     "lbl:max_zoom":18.0,
@@ -77,11 +91,19 @@
         "wd:id":"Q2848417",
         "wk:page":"St. Lazare"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6156987
+        ],
+        "wk:page":[
+            "St._Lazare"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ff21c41a09f1722973becf699a785af",
+    "wof:geomhash":"e0c8e73fa73f1ccf26bdf47eb2e4d6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,21 +117,23 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309864,
+    "wof:lastmodified":1706239353,
     "wof:name":"St-Lazare",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293600705
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -101.3159867,
-    50.4394225,
-    -101.2923189,
-    50.4543072
+    -101.315987,
+    50.439422,
+    -101.292319,
+    50.454307
 ],
-  "geometry": {"coordinates":[[[-101.3159735,50.4465752],[-101.3159867,50.4468464],[-101.31585130000001,50.4541177],[-101.3154266,50.4541262],[-101.3039733,50.4542172],[-101.2925201,50.4543072],[-101.2924774,50.4470719],[-101.29246430000001,50.4468007],[-101.2923189,50.4394797],[-101.3038573,50.4394559],[-101.3153958,50.439431],[-101.3158205,50.4394225],[-101.3159735,50.4465752]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-101.315973,50.446575],[-101.31598700000001,50.446846],[-101.31585099999999,50.454118],[-101.315427,50.454126],[-101.303973,50.454217],[-101.29252,50.454307],[-101.29247700000001,50.447072],[-101.292464,50.446801],[-101.29231900000001,50.43948],[-101.30385699999999,50.439456],[-101.31539600000001,50.439431],[-101.315821,50.439422],[-101.315973,50.446575]]],"type":"Polygon"}
 }

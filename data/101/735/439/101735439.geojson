@@ -10,6 +10,7 @@
     "geom:latitude":62.849172,
     "geom:longitude":-69.837802,
     "iso:country":"CA",
+    "lbl:bbox":"-69.9033160824,62.8300254508,-69.8633160824,62.8700254508",
     "lbl:latitude":62.855175,
     "lbl:longitude":-69.828958,
     "lbl:max_zoom":18.0,
@@ -249,6 +250,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -262,6 +264,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":62.850025,
+    "reversegeo:longitude":-69.883316,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -287,6 +291,11 @@
         "wd:id":"Q284160",
         "wk:page":"Kimmirut"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q284160"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -306,14 +315,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864891,
+    "wof:lastmodified":1706239354,
     "wof:name":"Kimmirut",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909035
+    ],
     "wof:tags":[]
 },
   "bbox": [

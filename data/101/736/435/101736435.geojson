@@ -9,8 +9,24 @@
     "geom:bbox":"-77.341194,47.512932,-75.520379,49.000106",
     "geom:latitude":48.375967,
     "geom:longitude":-76.327029,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"08",
+    "gn:admin3_code":"89040.0",
+    "gn:asciiname":"Senneterre",
+    "gn:country_code":"CA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6144195,
     "gn:id":"6144195,6144197",
+    "gn:latitude":48.39302,
+    "gn:longitude":-77.23951,
+    "gn:modification_date":"2018-01-15",
+    "gn:name":"Senneterre",
+    "gn:population":3228,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-77.25951,48.37302,-77.21951,48.41302",
     "lbl:latitude":48.40208,
     "lbl:longitude":-76.253262,
     "lbl:max_zoom":18.0,
@@ -71,6 +87,9 @@
     "name:ron_x_preferred":[
         "Senneterre"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u0435\u0440"
+    ],
     "name:spa_x_preferred":[
         "Senneterre"
     ],
@@ -100,6 +119,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":844,
     "wof:belongsto":[
         102191575,
@@ -109,6 +129,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6144195,
         "gp:id":3259,
         "wd:id":"Q142379"
     },
@@ -124,14 +145,17 @@
         }
     ],
     "wof:id":101736435,
-    "wof:lastmodified":1690864476,
+    "wof:lastmodified":1706239359,
     "wof:name":"Senneterre",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",
+    "wof:population":3228,
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242666637
+    ],
     "wof:tags":[]
 },
   "bbox": [

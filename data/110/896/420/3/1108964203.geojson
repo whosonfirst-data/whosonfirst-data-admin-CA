@@ -17,6 +17,7 @@
     "geom:latitude":51.088956,
     "geom:longitude":-113.991885,
     "iso:country":"CA",
+    "lbl:bbox":"-113.996789947,51.0840751115,-113.986789947,51.0940751115",
     "lbl:latitude":51.088764,
     "lbl:longitude":-113.991886,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:ara_x_preferred":[
         "\u0623\u0641\u0642"
     ],
@@ -42,6 +46,9 @@
     ],
     "name:aze_x_preferred":[
         "\u00dcf\u00fcq"
+    ],
+    "name:bak_x_preferred":[
+        "\u041e\u0444\u043e\u04a1"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u044b\u0437\u043e\u043d\u0442"
@@ -70,8 +77,14 @@
     "name:ces_x_preferred":[
         "Obzor"
     ],
+    "name:ces_x_variant":[
+        "horizont"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043d\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0633\u06c6"
     ],
     "name:cym_x_preferred":[
         "Gorwel"
@@ -79,11 +92,17 @@
     "name:dan_x_preferred":[
         "Horisont"
     ],
+    "name:dan_x_variant":[
+        "horisont"
+    ],
     "name:deu_x_preferred":[
         "Horizont"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "horizon"
     ],
     "name:epo_x_preferred":[
         "Horizonto"
@@ -94,8 +113,14 @@
     "name:eus_x_preferred":[
         "Ostertz"
     ],
+    "name:eus_x_variant":[
+        "ostertz"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0641\u0642"
+    ],
+    "name:fij_x_preferred":[
+        "Vunilagi"
     ],
     "name:fin_x_preferred":[
         "Horisontti"
@@ -108,6 +133,9 @@
     ],
     "name:gle_x_preferred":[
         "L\u00e9asl\u00edne"
+    ],
+    "name:gle_x_variant":[
+        "l\u00e9asl\u00edne"
     ],
     "name:glg_x_preferred":[
         "Horizonte"
@@ -124,14 +152,23 @@
     "name:hun_x_preferred":[
         "Horizont"
     ],
+    "name:hun_x_variant":[
+        "horizont"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u0580\u056b\u0566\u0578\u0576"
     ],
     "name:ido_x_preferred":[
         "Horizonto"
     ],
+    "name:ina_x_preferred":[
+        "Horizonte"
+    ],
     "name:ind_x_preferred":[
         "Cakrawala"
+    ],
+    "name:ind_x_variant":[
+        "ufuk"
     ],
     "name:isl_x_preferred":[
         "Sj\u00f3ndeildarhringur"
@@ -141,6 +178,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u5730\u5e73\u7dda"
+    ],
+    "name:kab_x_preferred":[
+        "Igli"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb7\u0cbf\u0ca4\u0cbf\u0c9c"
@@ -157,11 +197,17 @@
     "name:kor_x_preferred":[
         "\uc9c0\ud3c9\uc120"
     ],
+    "name:kur_x_preferred":[
+        "Aso"
+    ],
     "name:lat_x_preferred":[
         "Finitor"
     ],
     "name:lav_x_preferred":[
         "Horizonts"
+    ],
+    "name:lav_x_variant":[
+        "horizonts"
     ],
     "name:lim_x_preferred":[
         "Horizon"
@@ -181,11 +227,23 @@
     "name:mkd_x_preferred":[
         "\u0425\u043e\u0440\u0438\u0437\u043e\u043d\u0442"
     ],
+    "name:mkd_x_variant":[
+        "\u0412\u0438\u0434\u043e\u043a\u0440\u0443\u0433"
+    ],
     "name:msa_x_preferred":[
         "Ufuk"
     ],
     "name:mya_x_preferred":[
         "\u1019\u102d\u102f\u1038\u1000\u102f\u1010\u103a\u1005\u1000\u103a\u101d\u102d\u102f\u1004\u103a\u1038"
+    ],
+    "name:myv_x_preferred":[
+        "\u043c\u0435\u043d\u0435\u043b\u044c\u0447\u0438\u0440\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "T\u0113-p\u00eang-s\u00f2a\u207f"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094d\u0937\u093f\u0924\u093f\u091c"
     ],
     "name:new_x_preferred":[
         "\u0915\u0941\u0932\u093e\u0902"
@@ -196,6 +254,9 @@
     "name:nno_x_preferred":[
         "Horisont"
     ],
+    "name:nob_x_preferred":[
+        "horisont"
+    ],
     "name:nor_x_preferred":[
         "Horisont"
     ],
@@ -205,20 +266,35 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a41\u0a2e\u0a47\u0a32"
     ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0641\u0642"
+    ],
     "name:pol_x_preferred":[
         "Horyzont"
     ],
     "name:por_x_preferred":[
         "Horizonte"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0641\u0642"
+    ],
     "name:que_x_preferred":[
         "Pachapanta"
+    ],
+    "name:rki_x_preferred":[
+        "\u1019\u102d\u102f\u1003\u103a\u1038\u1000\u102f\u1010\u103a\u1005\u1000\u103a\u101d\u102d\u102f\u1004\u103a\u1038"
     ],
     "name:ron_x_preferred":[
         "Orizont"
     ],
+    "name:rue_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442"
     ],
     "name:sah_x_preferred":[
         "\u0421\u0430\u0495\u0430\u0445"
@@ -226,17 +302,35 @@
     "name:sco_x_preferred":[
         "Easins"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u200d\u0dc2\u0dd2\u0dad\u0dd2\u0da2\u0dba"
+    ],
+    "name:sjd_x_preferred":[
+        "\u0410\u0304\u0432\u0432\u044c"
+    ],
     "name:slk_x_preferred":[
         "Obzor"
     ],
+    "name:slk_x_variant":[
+        "obzor"
+    ],
     "name:slv_x_preferred":[
         "Obzorje"
+    ],
+    "name:slv_x_variant":[
+        "obzorje"
+    ],
+    "name:sna_x_preferred":[
+        "Jengachenga"
     ],
     "name:spa_x_preferred":[
         "Horizonte"
     ],
     "name:sqi_x_preferred":[
         "Horizonti"
+    ],
+    "name:sqi_x_variant":[
+        "horizont"
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u0438\u0437\u043e\u043d\u0442"
@@ -249,6 +343,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bca\u0b9f\u0bc1\u0bb5\u0bbe\u0ba9\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c37\u0c3f\u0c24\u0c3f\u0c1c\u0c02"
     ],
     "name:tgl_x_preferred":[
         "Abot-tanaw"
@@ -271,6 +368,9 @@
     "name:vie_x_preferred":[
         "Ch\u00e2n tr\u1eddi"
     ],
+    "name:vie_x_variant":[
+        "ch\u00e2n tr\u1eddi"
+    ],
     "name:vol_x_preferred":[
         "Horit"
     ],
@@ -283,21 +383,28 @@
     "name:xmf_x_preferred":[
         "\u10f0\u10dd\u10e0\u10d8\u10d6\u10dd\u10dc\u10e2\u10d8"
     ],
+    "name:yue_x_preferred":[
+        "\u5730\u5e73\u7dda"
+    ],
     "name:zho_x_preferred":[
         "\u5730\u5e73\u7dda"
     ],
     "reversegeo:latitude":51.088764,
     "reversegeo:longitude":-113.991886,
     "src:geom":"can-calcai",
+    "wd:wordcount":3513,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":55855957,
+        "wd:id":"Q43261"
+    },
     "wof:country":"CA",
     "wof:geomhash":"f15802557dc408f5bae4cf9aa93af565",
     "wof:hierarchy":[
@@ -311,13 +418,15 @@
         }
     ],
     "wof:id":1108964203,
-    "wof:lastmodified":1577998163,
+    "wof:lastmodified":1706239378,
     "wof:name":"Horizon",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783907
+    ],
     "wof:tags":[]
 },
   "bbox": [

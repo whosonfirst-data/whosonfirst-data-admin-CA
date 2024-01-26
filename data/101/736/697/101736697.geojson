@@ -9,8 +9,24 @@
     "geom:bbox":"-73.639818,46.186332,-73.443553,46.302488",
     "geom:latitude":46.246979,
     "geom:longitude":-73.533171,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"62015.0",
+    "gn:asciiname":"Saint-Jean-de-Matha",
+    "gn:country_code":"CA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6138474,
     "gn:id":"6138472,6138474",
+    "gn:latitude":46.23337,
+    "gn:longitude":-73.53246,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saint-Jean-de-Matha",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-73.55246,46.21337,-73.51246,46.25337",
     "lbl:latitude":46.239746,
     "lbl:longitude":-73.531692,
     "lbl:max_zoom":18.0,
@@ -92,7 +108,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138472,
-        "wd:id":"Q3462533"
+        "wd:id":"Q3462533",
+        "wk:page":"Saint-Jean-de-Matha%2C_Quebec"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6138474
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"66131b4911ad473721d315d7d8d5923f",
@@ -106,14 +128,16 @@
         }
     ],
     "wof:id":101736697,
-    "wof:lastmodified":1690864468,
+    "wof:lastmodified":1706239360,
     "wof:name":"Saint-Jean-de-Matha",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310400731
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,22 @@
     "geom:bbox":"-122.893764,49.219878,-122.619909,49.351379",
     "geom:latitude":49.297341,
     "geom:longitude":-122.771284,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Coquitlam",
+    "gn:country_code":"CA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5927689,
     "gn:id":"5927689,5927690",
+    "gn:latitude":49.28297,
+    "gn:longitude":-122.75262,
+    "gn:modification_date":"2010-09-22",
+    "gn:name":"Coquitlam",
+    "gn:population":114565,
+    "gn:timezone":"America/Vancouver",
     "iso:country":"CA",
+    "lbl:bbox":"-122.77262,49.26297,-122.73262,49.30297",
     "lbl:latitude":49.318345,
     "lbl:longitude":-122.746344,
     "lbl:max_zoom":18.0,
@@ -98,6 +112,10 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30ad\u30c3\u30c8\u30e9\u30e0"
     ],
+    "name:jpn_x_variant":[
+        "\u30b3\u30af\u30a4\u30c3\u30c8\u30e9\u30e0",
+        "\u30b3\u30ad\u30c3\u30c8\u30e9\u30e0\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0c95\u0ccd\u0cb5\u0cbf\u0c9f\u0ccd\u0cb2\u0c82"
     ],
@@ -126,6 +144,9 @@
         "Coquitlam"
     ],
     "name:nob_x_preferred":[
+        "Coquitlam"
+    ],
+    "name:nor_x_preferred":[
         "Coquitlam"
     ],
     "name:oss_x_preferred":[
@@ -227,6 +248,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:elevation":24.0,
     "wd:latitude":49.2839,
     "wd:longitude":-122.792,
@@ -244,6 +266,11 @@
         "qs_pg:id":1113323,
         "wd:id":"Q643215"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5927689
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -259,14 +286,17 @@
         }
     ],
     "wof:id":101741053,
-    "wof:lastmodified":1690864808,
+    "wof:lastmodified":1706239365,
     "wof:name":"Coquitlam",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",
+    "wof:population":114565,
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326833395
+    ],
     "wof:tags":[]
 },
   "bbox": [

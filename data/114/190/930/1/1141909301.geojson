@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-94.058607,61.108592,-94.058607,61.108592",
@@ -16,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Arviat"
@@ -190,12 +192,14 @@
         }
     ],
     "wof:id":1141909301,
-    "wof:lastmodified":1636414459,
+    "wof:lastmodified":1706239354,
     "wof:name":"Arviat",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101735435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-82.88317,46.33336,-82.88317,46.33336",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blind River"
@@ -50,7 +52,7 @@
         "gn:id":5903853
     },
     "wof:country":"CA",
-    "wof:geomhash":"f1d85ac207169ce39646895760811835",
+    "wof:geomhash":"e2dcbde87e40b9eb0d327eb1a2f2e3c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1327219361,
-    "wof:lastmodified":1566518859,
+    "wof:lastmodified":1706239357,
     "wof:name":"Blind River",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101735711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -82.88316999999998,
+    -82.88317,
     46.33336,
-    -82.88316999999998,
+    -82.88317,
     46.33336
 ],
-  "geometry": {"coordinates":[-82.88316999999998,46.33336],"type":"Point"}
+  "geometry": {"coordinates":[-82.88317000000001,46.33336],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.58263,45.7668,-75.58263,45.7668",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Notre-Dame-de-la-Salette"
@@ -59,7 +61,7 @@
         "wk:page":"Notre-Dame-de-la-Salette%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"fa6018144d0807608403e00622ca4991",
+    "wof:geomhash":"0295d1799360489331d1de15389612fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,20 +72,22 @@
         }
     ],
     "wof:id":1209804339,
-    "wof:lastmodified":1566519191,
+    "wof:lastmodified":1706239362,
     "wof:name":"Notre-Dame-de-la-Salette",
     "wof:parent_id":890458027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101737823
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -75.58263000000002,
+    -75.58263,
     45.7668,
-    -75.58263000000002,
+    -75.58263,
     45.7668
 ],
-  "geometry": {"coordinates":[-75.58263000000002,45.7668],"type":"Point"}
+  "geometry": {"coordinates":[-75.58262999999999,45.7668],"type":"Point"}
 }

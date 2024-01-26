@@ -10,6 +10,7 @@
     "geom:latitude":61.125495,
     "geom:longitude":-113.656884,
     "iso:country":"CA",
+    "lbl:bbox":"-113.70299402,61.1465881542,-113.66299402,61.1865881542",
     "lbl:latitude":61.12708,
     "lbl:longitude":-113.672714,
     "lbl:max_zoom":18.0,
@@ -195,6 +196,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Northwest Territories",
     "qs:a1_lc":"NT",
@@ -209,6 +211,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":61.166588,
+    "reversegeo:longitude":-113.682994,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -229,6 +233,11 @@
         "wd:id":"Q1438687",
         "wk:page":"Fort Resolution"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1438687"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -247,14 +256,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864921,
+    "wof:lastmodified":1706239353,
     "wof:name":"Fort Resolution",
     "wof:parent_id":1158869055,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909043
+    ],
     "wof:tags":[]
 },
   "bbox": [

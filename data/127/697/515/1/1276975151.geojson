@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-73.14423,46.46172,-73.14423,46.46172",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -43,7 +45,7 @@
         "gn:id":11257133
     },
     "wof:country":"CA",
-    "wof:geomhash":"9de746bd33fdd97760270fb2343efe1f",
+    "wof:geomhash":"36eef5ee02eaad4750c5bcc0fc4f4961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1276975151,
-    "wof:lastmodified":1566519132,
+    "wof:lastmodified":1706239362,
     "wof:name":"Saint-Alexis-des-Monts",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101737321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -73.14423000000002,
+    -73.14423,
     46.46172,
-    -73.14423000000002,
+    -73.14423,
     46.46172
 ],
-  "geometry": {"coordinates":[-73.14423000000002,46.46172],"type":"Point"}
+  "geometry": {"coordinates":[-73.14422999999999,46.46172],"type":"Point"}
 }

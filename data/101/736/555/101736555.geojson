@@ -9,9 +9,24 @@
     "geom:bbox":"-73.523292,45.413546,-73.379884,45.48548",
     "geom:latitude":45.447544,
     "geom:longitude":-73.454296,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"58007.0",
+    "gn:asciiname":"Brossard",
+    "gn:country_code":"CA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5909628,
     "gn:id":"5909628,5909629",
+    "gn:latitude":45.45008,
+    "gn:longitude":-73.46587,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Brossard",
     "gn:population":69575,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-73.48587,45.43008,-73.44587,45.47008",
     "lbl:latitude":45.44975,
     "lbl:longitude":-73.459158,
     "lbl:max_zoom":14.0,
@@ -158,6 +173,11 @@
         "wd:id":"Q139104",
         "wk:page":"Brossard"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5909628
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -173,7 +193,7 @@
         }
     ],
     "wof:id":101736555,
-    "wof:lastmodified":1690864442,
+    "wof:lastmodified":1706239360,
     "wof:name":"Brossard",
     "wof:parent_id":890456297,
     "wof:placetype":"locality",
@@ -181,7 +201,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243438147
+    ],
     "wof:tags":[]
 },
   "bbox": [

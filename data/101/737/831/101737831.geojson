@@ -11,6 +11,7 @@
     "geom:longitude":-68.602944,
     "gn:population":42240,
     "iso:country":"CA",
+    "lbl:bbox":"-68.536681154,48.4137477815,-68.496681154,48.4537477815",
     "lbl:latitude":48.424607,
     "lbl:longitude":-68.559021,
     "lbl:max_zoom":14.0,
@@ -24,6 +25,9 @@
         "Rimouski"
     ],
     "name:ara_x_preferred":[
+        "\u0631\u064a\u0645\u0648\u0633\u0643\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u0631\u064a\u0645\u0648\u0633\u0643\u064a"
     ],
     "name:atj_x_preferred":[
@@ -301,6 +305,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
     "qs:a1_lc":"QC",
@@ -315,6 +320,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Ville",
+    "reversegeo:latitude":48.433748,
+    "reversegeo:longitude":-68.516681,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -340,6 +347,11 @@
         "wd:id":"Q1336",
         "wk:page":"Rimouski"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1336"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -356,7 +368,7 @@
         }
     ],
     "wof:id":101737831,
-    "wof:lastmodified":1690864349,
+    "wof:lastmodified":1706239362,
     "wof:name":"Rimouski",
     "wof:parent_id":890456467,
     "wof:placetype":"locality",
@@ -364,7 +376,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907997
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -17,6 +17,7 @@
     "geom:latitude":51.00035,
     "geom:longitude":-114.036715,
     "iso:country":"CA",
+    "lbl:bbox":"-114.045044587,50.99561112,-114.035044587,51.00561112",
     "lbl:latitude":51.000134,
     "lbl:longitude":-114.036471,
     "lbl:max_zoom":18.0,
@@ -25,21 +26,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "reversegeo:latitude":51.000134,
     "reversegeo:longitude":-114.036471,
     "src:geom":"can-calcai",
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":91878321
+    },
     "wof:country":"CA",
     "wof:geomhash":"814786115334f076d8b07bb970b3879d",
     "wof:hierarchy":[
@@ -53,13 +59,15 @@
         }
     ],
     "wof:id":1108964137,
-    "wof:lastmodified":1577998161,
+    "wof:lastmodified":1706239376,
     "wof:name":"Burns Industrial",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783973
+    ],
     "wof:tags":[]
 },
   "bbox": [

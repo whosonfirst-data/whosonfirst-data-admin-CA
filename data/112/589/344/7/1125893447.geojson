@@ -9,9 +9,21 @@
     "geom:bbox":"-122.05034,49.08207,-122.05034,49.08207",
     "geom:latitude":49.08207,
     "geom:longitude":-122.05034,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yarrow",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":9,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6185230,
+    "gn:latitude":49.08333,
+    "gn:longitude":-122.05,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Yarrow",
     "gn:population":0,
+    "gn:timezone":"America/Vancouver",
     "iso:country":"CA",
     "lbl:bbox":"-122.07034,49.06207,-122.03034,49.10207",
     "lbl:latitude":49.08207,
@@ -72,6 +84,11 @@
         "qs_pg:id":1117783,
         "wd:id":"Q3571891"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6185230
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1497295432,
     "wof:geomhash":"5a9f32676b6d91be3f127b47555c0eb4",
@@ -85,13 +102,15 @@
         }
     ],
     "wof:id":1125893447,
-    "wof:lastmodified":1566520308,
+    "wof:lastmodified":1706239378,
     "wof:name":"Yarrow",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344265869
+    ],
     "wof:tags":[]
 },
   "bbox": [

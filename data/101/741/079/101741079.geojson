@@ -9,8 +9,22 @@
     "geom:bbox":"-122.768632,49.196062,-122.579421,49.353255",
     "geom:latitude":49.27179,
     "geom:longitude":-122.663241,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Pitt Meadows",
+    "gn:country_code":"CA",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6105816,
     "gn:id":"6105815,6105816",
+    "gn:latitude":49.23297,
+    "gn:longitude":-122.68591,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pitt Meadows",
+    "gn:population":0,
+    "gn:timezone":"America/Vancouver",
     "iso:country":"CA",
+    "lbl:bbox":"-122.70591,49.21297,-122.66591,49.25297",
     "lbl:latitude":49.251028,
     "lbl:longitude":-122.686787,
     "lbl:max_zoom":18.0,
@@ -21,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u064a\u062f\u0648\u0632"
+    ],
+    "name:ara_x_variant":[
         "\u0628\u064a\u062a \u0645\u064a\u062f\u0648\u0632"
     ],
     "name:ast_x_preferred":[
@@ -60,6 +77,9 @@
         "Pitt Meadows"
     ],
     "name:nob_x_preferred":[
+        "Pitt Meadows"
+    ],
+    "name:nor_x_preferred":[
         "Pitt Meadows"
     ],
     "name:pol_x_preferred":[
@@ -127,6 +147,11 @@
         "qs_pg:id":1121256,
         "wd:id":"Q1369892"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6105816
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -142,14 +167,16 @@
         }
     ],
     "wof:id":101741079,
-    "wof:lastmodified":1690864803,
+    "wof:lastmodified":1706239365,
     "wof:name":"Pitt Meadows",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242686677
+    ],
     "wof:tags":[]
 },
   "bbox": [

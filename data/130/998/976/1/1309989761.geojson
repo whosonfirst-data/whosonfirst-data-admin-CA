@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-73.06985,45.12504,-73.06985,45.12504",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pike River"
@@ -62,7 +64,7 @@
         "wk:page":"Pike_River%2C_Quebec"
     },
     "wof:country":"CA",
-    "wof:geomhash":"053db7652504705f4c9f8aafc1d97dc5",
+    "wof:geomhash":"f2c5ede4ee968109dc74f2f8a583d375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,20 +75,22 @@
         }
     ],
     "wof:id":1309989761,
-    "wof:lastmodified":1566520073,
+    "wof:lastmodified":1706239363,
     "wof:name":"Pike River",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101738571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -73.06985,
-    45.12504000000001,
+    45.12504,
     -73.06985,
-    45.12504000000001
+    45.12504
 ],
-  "geometry": {"coordinates":[-73.06985,45.12504000000001],"type":"Point"}
+  "geometry": {"coordinates":[-73.06985,45.12504],"type":"Point"}
 }

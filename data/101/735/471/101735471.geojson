@@ -10,6 +10,7 @@
     "geom:latitude":69.533309,
     "geom:longitude":-93.635728,
     "iso:country":"CA",
+    "lbl:bbox":"-93.5533195412,69.5133126009,-93.5133195412,69.5533126009",
     "lbl:latitude":69.535584,
     "lbl:longitude":-93.63572,
     "lbl:max_zoom":18.0,
@@ -207,6 +208,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -220,6 +222,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":69.533313,
+    "reversegeo:longitude":-93.53332,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -245,6 +249,11 @@
         "wd:id":"Q719605",
         "wk:page":"Taloyoak"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q719605"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -263,14 +272,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864878,
+    "wof:lastmodified":1706239355,
     "wof:name":"Taloyoak",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909303
+    ],
     "wof:tags":[]
 },
   "bbox": [

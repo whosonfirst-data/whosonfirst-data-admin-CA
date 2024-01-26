@@ -2,6 +2,9 @@
   "id": 890457105,
   "type": "Feature",
   "properties": {
+    "can-abog:geocode":103,
+    "can-abog:geoname":"VILLAGE OF EMPRESS",
+    "can-abog:pid":30067,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -15,8 +18,12 @@
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:bbox":"-110.02162,50.93013,-109.98162,50.97013",
+    "lbl:latitude":50.954973,
+    "lbl:longitude":-110.012748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":50.954973,
+    "mps:longitude":-110.012748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -28,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Empress"
+    ],
+    "name:eng_x_variant":[
+        "Village of Empress"
     ],
     "name:fra_x_preferred":[
         "Empress"
@@ -85,14 +95,17 @@
         }
     ],
     "wof:id":890457105,
-    "wof:lastmodified":1690865171,
+    "wof:lastmodified":1706239370,
     "wof:name":"Empress",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",
+    "wof:placetype_local":"village",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1158868455
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,9 +9,22 @@
     "geom:bbox":"-79.2104,44.54742,-79.2104,44.54742",
     "geom:latitude":44.54742,
     "geom:longitude":-79.2104,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"3543.0",
+    "gn:asciiname":"Lagoon City",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":221,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6047951,
+    "gn:latitude":44.54866,
+    "gn:longitude":-79.2084,
+    "gn:modification_date":"2018-01-20",
+    "gn:name":"Lagoon City",
     "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
     "lbl:bbox":"-79.2304,44.52742,-79.1904,44.56742",
     "lbl:latitude":44.54742,
@@ -56,6 +69,11 @@
         "gp:id":23398669,
         "qs_pg:id":905215
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6047951
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1497294810,
     "wof:geomhash":"73916c257c0180e19673640ec3d11b89",
@@ -69,13 +87,15 @@
         }
     ],
     "wof:id":1125881123,
-    "wof:lastmodified":1566520305,
+    "wof:lastmodified":1706239378,
     "wof:name":"Lagoon City",
     "wof:parent_id":890456339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310290651
+    ],
     "wof:tags":[]
 },
   "bbox": [

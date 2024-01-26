@@ -9,9 +9,21 @@
     "geom:bbox":"-66.16379,44.18922,-66.16379,44.18922",
     "geom:latitude":44.18922,
     "geom:longitude":-66.16379,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Meteghan",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":16,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6072486,
+    "gn:latitude":44.18835,
+    "gn:longitude":-66.16167,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Meteghan",
     "gn:population":0,
+    "gn:timezone":"America/Halifax",
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:bbox":"-66.18379,44.16922,-66.14379,44.20922",
@@ -53,6 +65,14 @@
         "wd:id":"Q6823386",
         "wk:page":"Meteghan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6072486
+        ],
+        "wk:page":[
+            "Meteghan"
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1469053028,
     "wof:geomhash":"50147dde18ee1ae29b5221a0645645a7",
@@ -66,14 +86,16 @@
         }
     ],
     "wof:id":890456323,
-    "wof:lastmodified":1566520171,
+    "wof:lastmodified":1706239370,
     "wof:name":"Meteghan",
     "wof:parent_id":890458811,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242994225
+    ],
     "wof:tags":[]
 },
   "bbox": [

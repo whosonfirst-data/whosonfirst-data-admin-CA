@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-79.829996,43.249982,-79.829996,43.249982",
@@ -16,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hamilton"
@@ -431,12 +433,14 @@
         }
     ],
     "wof:id":1141908751,
-    "wof:lastmodified":1690865422,
+    "wof:lastmodified":1706239356,
     "wof:name":"Hamilton",
     "wof:parent_id":890456341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101735515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

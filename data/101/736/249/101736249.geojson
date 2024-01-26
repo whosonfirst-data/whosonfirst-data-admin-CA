@@ -9,8 +9,22 @@
     "geom:bbox":"-80.144183,43.674881,-79.694819,43.989761",
     "geom:latitude":43.849053,
     "geom:longitude":-79.902262,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caledon",
+    "gn:country_code":"CA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5913414,
     "gn:id":"5913414,5913415",
+    "gn:latitude":43.8501,
+    "gn:longitude":-79.99966,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caledon",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-80.01966,43.8301,-79.97966,43.8701",
     "lbl:latitude":43.842903,
     "lbl:longitude":-79.89885,
     "lbl:max_zoom":18.0,
@@ -151,6 +165,14 @@
         "wd:id":"Q424659",
         "wk:page":"Caledon, Ontario"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5913414
+        ],
+        "wk:page":[
+            "Caledon%2C_Ontario"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -166,14 +188,16 @@
         }
     ],
     "wof:id":101736249,
-    "wof:lastmodified":1690864461,
+    "wof:lastmodified":1706239359,
     "wof:name":"Caledon",
     "wof:parent_id":890456343,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193122843
+    ],
     "wof:tags":[]
 },
   "bbox": [

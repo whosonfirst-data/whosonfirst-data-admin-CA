@@ -9,8 +9,22 @@
     "geom:bbox":"-78.508654,43.631405,-78.112297,44.119918",
     "geom:latitude":43.859817,
     "geom:longitude":-78.317728,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Port Hope",
+    "gn:country_code":"CA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6111881,
     "gn:id":"6111881,6111882",
+    "gn:latitude":43.95117,
+    "gn:longitude":-78.29299,
+    "gn:modification_date":"2013-11-02",
+    "gn:name":"Port Hope",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-78.31299,43.93117,-78.27299,43.97117",
     "lbl:latitude":43.858133,
     "lbl:longitude":-78.320624,
     "lbl:max_zoom":18.0,
@@ -119,8 +133,10 @@
         101740737
     ],
     "wof:concordances":{
+        "gn:id":6111881,
         "gp:id":56622399,
-        "wd:id":"Q613870"
+        "wd:id":"Q613870",
+        "wk:page":"Port_Hope%2C_Ontario"
     },
     "wof:country":"CA",
     "wof:geomhash":"d8eab4b2510d407c43d701d553c60ddb",
@@ -133,14 +149,16 @@
         }
     ],
     "wof:id":101736375,
-    "wof:lastmodified":1690864491,
+    "wof:lastmodified":1706239359,
     "wof:name":"Port Hope",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327129645
+    ],
     "wof:tags":[]
 },
   "bbox": [

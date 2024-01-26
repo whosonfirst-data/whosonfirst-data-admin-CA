@@ -9,7 +9,23 @@
     "geom:bbox":"-69.84871,47.468817,-69.704204,47.5728",
     "geom:latitude":47.526228,
     "geom:longitude":-69.783249,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"14018.0",
+    "gn:asciiname":"Saint-Pascal",
+    "gn:country_code":"CA",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8593671,
+    "gn:latitude":47.51813,
+    "gn:longitude":-69.80301,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saint-Pascal",
+    "gn:population":3490,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-69.82301,47.49813,-69.78301,47.53813",
     "lbl:latitude":47.529905,
     "lbl:longitude":-69.784311,
     "lbl:max_zoom":18.0,
@@ -96,6 +112,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191575,
@@ -107,7 +124,13 @@
     "wof:concordances":{
         "gn:id":6098930,
         "gp:id":3665,
-        "wd:id":"Q142451"
+        "wd:id":"Q142451",
+        "wk:page":"Saint-Pascal,_Quebec"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8593671
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"129293545127d4381bcb9b6f6c586694",
@@ -121,14 +144,17 @@
         }
     ],
     "wof:id":101738423,
-    "wof:lastmodified":1690864520,
+    "wof:lastmodified":1706239363,
     "wof:name":"Saint-Pascal",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",
+    "wof:population":3490,
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225940277
+    ],
     "wof:tags":[]
 },
   "bbox": [

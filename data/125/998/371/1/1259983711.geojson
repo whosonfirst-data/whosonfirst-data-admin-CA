@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-114.03929,52.97692,-114.03929,52.97692",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Crystal Springs"
@@ -46,7 +48,7 @@
         "wk:page":"Crystal_Springs%2C_Alberta"
     },
     "wof:country":"CA",
-    "wof:geomhash":"63a820cca84b60a995a69f86182d6bfd",
+    "wof:geomhash":"bdb6680616e925bf6fca5c09b1803961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1259983711,
-    "wof:lastmodified":1566520531,
+    "wof:lastmodified":1706239379,
     "wof:name":"Crystal Springs",
     "wof:parent_id":1158863267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1158868315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -114.03929,
-    52.97691999999999,
+    52.97692,
     -114.03929,
-    52.97691999999999
+    52.97692
 ],
-  "geometry": {"coordinates":[-114.03928999999999,52.97691999999999],"type":"Point"}
+  "geometry": {"coordinates":[-114.03928999999999,52.97692],"type":"Point"}
 }

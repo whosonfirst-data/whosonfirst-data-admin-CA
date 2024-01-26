@@ -9,7 +9,23 @@
     "geom:bbox":"-70.898087,46.362146,-70.688794,46.528433",
     "geom:latitude":46.446716,
     "geom:longitude":-70.786897,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"26005.0",
+    "gn:asciiname":"Frampton",
+    "gn:country_code":"CA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10859991,
+    "gn:latitude":46.4621,
+    "gn:longitude":-70.80637,
+    "gn:modification_date":"2015-10-27",
+    "gn:name":"Frampton",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-70.82637,46.4421,-70.78637,46.4821",
     "lbl:latitude":46.441524,
     "lbl:longitude":-70.785321,
     "lbl:max_zoom":18.0,
@@ -94,6 +110,11 @@
         "gp:id":3460,
         "wd:id":"Q770970"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10859991
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"42d59d8203b562c4bb77dfaa847ff838",
     "wof:hierarchy":[
@@ -106,14 +127,16 @@
         }
     ],
     "wof:id":101736971,
-    "wof:lastmodified":1690864432,
+    "wof:lastmodified":1706239361,
     "wof:name":"Frampton",
     "wof:parent_id":890457829,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309889513
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -17,6 +17,7 @@
     "geom:latitude":50.995164,
     "geom:longitude":-113.975791,
     "iso:country":"CA",
+    "lbl:bbox":"-113.975464474,50.9901373462,-113.965464474,51.0001373462",
     "lbl:latitude":50.995535,
     "lbl:longitude":-113.972987,
     "lbl:max_zoom":18.0,
@@ -25,20 +26,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0633\u0641\u062d\u064a"
     ],
     "name:arg_x_preferred":[
         "Semontano"
     ],
+    "name:arg_x_variant":[
+        "semontano"
+    ],
+    "name:cat_x_preferred":[
+        "contrafort"
+    ],
     "name:ces_x_preferred":[
         "Hornatina"
     ],
+    "name:ces_x_variant":[
+        "podh\u016f\u0159\u00ed"
+    ],
     "name:deu_x_preferred":[
         "Vorberge"
+    ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03c1\u03cc\u03c0\u03bf\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "foothills"
     ],
     "name:epo_x_preferred":[
         "Montetaro"
@@ -46,20 +65,56 @@
     "name:est_x_preferred":[
         "Jalam"
     ],
+    "name:est_x_variant":[
+        "jalam"
+    ],
+    "name:eus_x_preferred":[
+        "mendi-oin"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0647\u200c\u067e\u0627\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
         "Contrefort"
     ],
+    "name:fra_x_variant":[
+        "contrefort"
+    ],
+    "name:glg_x_preferred":[
+        "faldra"
+    ],
+    "name:ind_x_preferred":[
+        "Kaki bukit"
+    ],
+    "name:ita_x_preferred":[
+        "colline pedemontane"
+    ],
+    "name:mkd_x_preferred":[
+        "\u043f\u0440\u0435\u0434\u0433\u043e\u0440\u0458\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u043f\u043e\u0434\u043d\u043e\u0436\u0458\u0435"
+    ],
     "name:nld_x_preferred":[
         "Uitloper"
+    ],
+    "name:nld_x_variant":[
+        "uitlopers"
     ],
     "name:pol_x_preferred":[
         "Pog\u00f3rze"
     ],
+    "name:pol_x_variant":[
+        "pog\u00f3rze"
+    ],
     "name:por_x_preferred":[
         "Contraforte"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u0433\u043e\u0440\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u043f\u0440\u0435\u0434\u0433\u043e\u0440\u044c\u0435"
     ],
     "name:slk_x_preferred":[
         "Hornatina"
@@ -67,21 +122,36 @@
     "name:spa_x_preferred":[
         "Piedemonte"
     ],
+    "name:spa_x_variant":[
+        "estribaciones"
+    ],
     "name:wln_x_preferred":[
         "P\u00eemont"
+    ],
+    "name:wln_x_variant":[
+        "p\u00eemont"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c71\u8173"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u9e93\u4e18\u9675"
     ],
     "reversegeo:latitude":50.995535,
     "reversegeo:longitude":-113.972987,
     "src:geom":"can-calcai",
+    "wd:wordcount":274,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "wd:id":"Q1354045"
+    },
     "wof:country":"CA",
     "wof:geomhash":"186f510d6dcb150033428bf83d7eedd1",
     "wof:hierarchy":[
@@ -95,13 +165,15 @@
         }
     ],
     "wof:id":1108964175,
-    "wof:lastmodified":1577998150,
+    "wof:lastmodified":1706239377,
     "wof:name":"Foothills",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783961
+    ],
     "wof:tags":[]
 },
   "bbox": [

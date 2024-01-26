@@ -9,7 +9,23 @@
     "geom:bbox":"-72.292481,48.540564,-72.220078,48.590246",
     "geom:latitude":48.566803,
     "geom:longitude":-72.252795,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"02",
+    "gn:admin3_code":"91025.0",
+    "gn:asciiname":"Mashteuiatsh",
+    "gn:country_code":"CA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125844,
+    "gn:latitude":48.57632,
+    "gn:longitude":-72.23017,
+    "gn:modification_date":"2016-04-13",
+    "gn:name":"Mashteuiatsh",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-72.25017,48.55632,-72.21017,48.59632",
     "lbl:latitude":48.564134,
     "lbl:longitude":-72.248609,
     "lbl:max_zoom":15.0,
@@ -84,6 +100,11 @@
         "wd:id":"Q1907079",
         "wk:page":"Mashteuiatsh, Quebec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11125844
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"e833916ff9b59aa43884c7ec5ef2c412",
     "wof:hierarchy":[
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":101747877,
-    "wof:lastmodified":1690864775,
+    "wof:lastmodified":1706239369,
     "wof:name":"Mashteuiatsh",
     "wof:parent_id":890458021,
     "wof:placetype":"locality",
@@ -104,7 +125,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310495345
+    ],
     "wof:tags":[]
 },
   "bbox": [

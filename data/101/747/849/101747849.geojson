@@ -9,7 +9,22 @@
     "geom:bbox":"-76.426005,49.642016,-75.680055,49.902151",
     "geom:latitude":49.796429,
     "geom:longitude":-75.914084,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Waswanipi",
+    "gn:country_code":"CA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6176653,
+    "gn:latitude":49.69728,
+    "gn:longitude":-75.9605,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Waswanipi",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-75.9805,49.67728,-75.9405,49.71728",
     "lbl:latitude":49.833167,
     "lbl:longitude":-75.913248,
     "lbl:max_zoom":18.0,
@@ -21,6 +36,9 @@
     "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Waswanipi"
+    ],
+    "name:cre_x_preferred":[
+        "\u1419\u1502\u14c2\u1432"
     ],
     "name:deu_x_preferred":[
         "Waswanipi"
@@ -68,6 +86,14 @@
         "wd:id":"Q3566580",
         "wk:page":"Waswanipi, Quebec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6176653
+        ],
+        "wk:page":[
+            "Waswanipi%2C_Quebec"
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"293e111886f0cc928ab5b3533154843f",
     "wof:hierarchy":[
@@ -80,14 +106,16 @@
         }
     ],
     "wof:id":101747849,
-    "wof:lastmodified":1690864778,
+    "wof:lastmodified":1706239368,
     "wof:name":"Waswanipi",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226526063
+    ],
     "wof:tags":[]
 },
   "bbox": [

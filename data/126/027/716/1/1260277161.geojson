@@ -117,6 +117,11 @@
     "wof:concordances":{
         "gn:id":6065476
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8556288
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"ec2aac283f2f6fda5766878d1a3996d2",
     "wof:hierarchy":[
@@ -129,13 +134,15 @@
         }
     ],
     "wof:id":1260277161,
-    "wof:lastmodified":1566519234,
+    "wof:lastmodified":1706239386,
     "wof:name":"Mansonville",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293373711
+    ],
     "wof:tags":[]
 },
   "bbox": [

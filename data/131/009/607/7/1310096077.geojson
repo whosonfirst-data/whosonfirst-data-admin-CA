@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-77.76619,44.10012,-77.76619,44.10012",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Brighton"
@@ -260,7 +262,7 @@
         "gn:id":5908836
     },
     "wof:country":"CA",
-    "wof:geomhash":"fbd8100c14d6feb9633f5f57a8ec1e22",
+    "wof:geomhash":"f352dfd12fa41f59a1670b7ce5c56b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -271,20 +273,22 @@
         }
     ],
     "wof:id":1310096077,
-    "wof:lastmodified":1566519340,
+    "wof:lastmodified":1706239357,
     "wof:name":"Brighton",
     "wof:parent_id":890457749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101735987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -77.76619000000002,
+    -77.76619,
     44.10012,
-    -77.76619000000002,
+    -77.76619,
     44.10012
 ],
-  "geometry": {"coordinates":[-77.76619000000002,44.10012],"type":"Point"}
+  "geometry": {"coordinates":[-77.76618999999999,44.10012],"type":"Point"}
 }

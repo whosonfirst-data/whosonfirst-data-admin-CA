@@ -9,7 +9,22 @@
     "geom:bbox":"-79.152181,53.524928,-78.510574,53.835326",
     "geom:latitude":53.660687,
     "geom:longitude":-78.792586,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Chisasibi",
+    "gn:country_code":"CA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5921588,
+    "gn:latitude":53.78333,
+    "gn:longitude":-78.9,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Chisasibi",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-78.92,53.76333,-78.88,53.80333",
     "lbl:latitude":53.640219,
     "lbl:longitude":-78.791916,
     "lbl:max_zoom":18.0,
@@ -74,6 +89,14 @@
         "wd:id":"Q2094132",
         "wk:page":"Chisasibi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5921588
+        ],
+        "wk:page":[
+            "Chisasibi%2C_Quebec"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -89,14 +112,16 @@
         }
     ],
     "wof:id":101741467,
-    "wof:lastmodified":1690864824,
+    "wof:lastmodified":1706239366,
     "wof:name":"Chisasibi",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259968747
+    ],
     "wof:tags":[]
 },
   "bbox": [
