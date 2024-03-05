@@ -13,7 +13,21 @@
     "geom:bbox":"-113.564825,54.831697,-113.542396,54.856743",
     "geom:latitude":54.845145,
     "geom:longitude":-113.556549,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Island Lake",
+    "gn:country_code":"CA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5984440,
+    "gn:latitude":54.85017,
+    "gn:longitude":-113.55211,
+    "gn:modification_date":"2006-01-18",
+    "gn:name":"Island Lake",
+    "gn:population":0,
+    "gn:timezone":"America/Edmonton",
     "iso:country":"CA",
+    "lbl:bbox":"-113.57211,54.83017,-113.53211,54.87017",
     "lbl:latitude":54.842726,
     "lbl:longitude":-113.556384,
     "lbl:max_zoom":18.0,
@@ -23,11 +37,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0622\u064a\u0644\u0627\u0646\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Island Lake"
     ],
     "name:deu_x_preferred":[
         "Island Lake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u039b\u03ad\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Island Lake"
@@ -109,6 +132,18 @@
         1158863155
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5984440,
+        "wk:page":"Island_Lake%2C_Alberta"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5984440
+        ],
+        "wk:page":[
+            "Island_Lake%2C_Alberta"
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1512692232,
     "wof:geomhash":"b3dc92c41ad288f739b74aebf21185c1",
@@ -122,14 +157,16 @@
         }
     ],
     "wof:id":1158868325,
-    "wof:lastmodified":1642551800,
+    "wof:lastmodified":1706239379,
     "wof:name":"Island Lake",
     "wof:parent_id":1158863155,
     "wof:placetype":"locality",
     "wof:placetype_local":"summer village",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309729993
+    ],
     "wof:tags":[]
 },
   "bbox": [

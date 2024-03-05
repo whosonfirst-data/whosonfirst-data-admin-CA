@@ -11,6 +11,7 @@
     "geom:longitude":-93.728353,
     "gn:id":"6118417,6118425",
     "iso:country":"CA",
+    "lbl:bbox":"-93.8533012306,51.0136924429,-93.8133012306,51.0536924429",
     "lbl:latitude":51.089754,
     "lbl:longitude":-93.78099,
     "lbl:max_zoom":18.0,
@@ -32,6 +33,9 @@
     "name:atj_x_preferred":[
         "Red Lake"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u09a1 \u09b2\u09c7\u0995"
+    ],
     "name:cat_x_preferred":[
         "Red Lake"
     ],
@@ -43,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "Red Lake"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03bd\u03c4 \u039b\u03ad\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Red Lake"
@@ -61,6 +68,21 @@
     ],
     "name:hbs_x_preferred":[
         "Red Lejk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d2\u05dd \u05d4\u05d0\u05d3\u05d5\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0921 \u0932\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Red Lake"
+    ],
+    "name:ind_x_preferred":[
+        "Red Lake"
+    ],
+    "name:ita_x_preferred":[
+        "Red Lake"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30c3\u30c9\u30ec\u30a4\u30af"
@@ -205,6 +227,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Canada",
     "qs:a1":"*Ontario",
     "qs:a1_lc":"ON",
@@ -219,6 +242,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Municipality",
+    "reversegeo:latitude":51.033692,
+    "reversegeo:longitude":-93.833301,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -238,6 +263,11 @@
         "qs_pg:id":1229795,
         "wd:id":"Q1018643"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1018643"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -254,14 +284,16 @@
         }
     ],
     "wof:id":101735671,
-    "wof:lastmodified":1690864938,
+    "wof:lastmodified":1706239356,
     "wof:name":"Red Lake",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907979
+    ],
     "wof:tags":[]
 },
   "bbox": [

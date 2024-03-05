@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-80.11637,43.7334,-80.11637,43.7334",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Erin"
@@ -71,7 +73,7 @@
         "gn:id":5949249
     },
     "wof:country":"CA",
-    "wof:geomhash":"80758a2875e1dbde250c2cd6e4c52159",
+    "wof:geomhash":"41e33bdfb7b5fe0fa257e079d8f826a4",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -79,20 +81,22 @@
         }
     ],
     "wof:id":1209405485,
-    "wof:lastmodified":1566519165,
+    "wof:lastmodified":1706239358,
     "wof:name":"Erin",
     "wof:parent_id":85633041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101736161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -80.11636999999997,
+    -80.11637,
     43.7334,
-    -80.11636999999997,
+    -80.11637,
     43.7334
 ],
-  "geometry": {"coordinates":[-80.11636999999997,43.7334],"type":"Point"}
+  "geometry": {"coordinates":[-80.11637,43.7334],"type":"Point"}
 }

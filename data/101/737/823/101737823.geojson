@@ -9,8 +9,24 @@
     "geom:bbox":"-75.640866,45.703856,-75.487807,45.845357",
     "geom:latitude":45.778374,
     "geom:longitude":-75.550219,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"82010.0",
+    "gn:asciiname":"Notre-Dame-de-la-Salette",
+    "gn:country_code":"CA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6091354,
     "gn:id":"6091351,6091354",
+    "gn:latitude":45.7668,
+    "gn:longitude":-75.58263,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Notre-Dame-de-la-Salette",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-75.60263,45.7468,-75.56263,45.7868",
     "lbl:latitude":45.791551,
     "lbl:longitude":-75.54874,
     "lbl:max_zoom":18.0,
@@ -81,7 +97,13 @@
         "gn:id":6091351,
         "gp:id":3351,
         "qs_pg:id":977770,
-        "wd:id":"Q3344617"
+        "wd:id":"Q3344617",
+        "wk:page":"Notre-Dame-de-la-Salette%2C_Quebec"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6091354
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -98,14 +120,16 @@
         }
     ],
     "wof:id":101737823,
-    "wof:lastmodified":1690864338,
+    "wof:lastmodified":1706239362,
     "wof:name":"Notre-Dame-de-la-Salette",
     "wof:parent_id":890458027,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209804339
+    ],
     "wof:tags":[]
 },
   "bbox": [

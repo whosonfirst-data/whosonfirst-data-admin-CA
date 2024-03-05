@@ -9,7 +9,22 @@
     "geom:bbox":"-66.087891,48.134895,-65.906889,48.265042",
     "geom:latitude":48.201157,
     "geom:longitude":-66.023113,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Maria",
+    "gn:country_code":"CA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616967,
+    "gn:latitude":48.1749,
+    "gn:longitude":-65.98595,
+    "gn:modification_date":"2013-09-17",
+    "gn:name":"Maria",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-66.00595,48.1549,-65.96595,48.1949",
     "lbl:latitude":48.204404,
     "lbl:longitude":-66.031049,
     "lbl:max_zoom":18.0,
@@ -146,9 +161,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8616967,
         "gp:id":3613,
         "qs_pg:id":1026864,
-        "wd:id":"Q1579913"
+        "wd:id":"Q1579913",
+        "wk:page":"Maria%2C_Quebec"
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -165,14 +182,16 @@
         }
     ],
     "wof:id":101736535,
-    "wof:lastmodified":1690864391,
+    "wof:lastmodified":1706239360,
     "wof:name":"Maria",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326619121
+    ],
     "wof:tags":[]
 },
   "bbox": [

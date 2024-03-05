@@ -9,8 +9,22 @@
     "geom:bbox":"-80.171611,43.922739,-79.951207,44.123236",
     "geom:latitude":44.019551,
     "geom:longitude":-80.060768,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mono",
+    "gn:country_code":"CA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6076360,
     "gn:id":"6076359,6076360",
+    "gn:latitude":44.0001,
+    "gn:longitude":-80.08297,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-80.10297,43.9801,-80.06297,44.0201",
     "lbl:latitude":44.017591,
     "lbl:longitude":-80.06078,
     "lbl:max_zoom":18.0,
@@ -36,6 +50,9 @@
         "Mono"
     ],
     "name:deu_x_preferred":[
+        "Mono"
+    ],
+    "name:ell_x_preferred":[
         "Mono"
     ],
     "name:eng_x_preferred":[
@@ -71,10 +88,16 @@
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043d\u043e"
     ],
+    "name:kir_x_preferred":[
+        "\u041c\u043e\u043d\u043e..."
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\ub178"
     ],
     "name:nld_x_preferred":[
+        "Mono"
+    ],
+    "name:nno_x_preferred":[
         "Mono"
     ],
     "name:nor_x_preferred":[
@@ -148,6 +171,11 @@
         "gp:id":23400951,
         "wd:id":"Q4859513"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6076360
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"38cb09670d980725dcde6cd37c8ff392",
     "wof:hierarchy":[
@@ -160,14 +188,16 @@
         }
     ],
     "wof:id":101736109,
-    "wof:lastmodified":1690864443,
+    "wof:lastmodified":1706239358,
     "wof:name":"Mono",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226162967
+    ],
     "wof:tags":[]
 },
   "bbox": [

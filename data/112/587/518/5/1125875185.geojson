@@ -9,9 +9,21 @@
     "geom:bbox":"-66.9615,45.18252,-66.9615,45.18252",
     "geom:latitude":45.18252,
     "geom:longitude":-66.9615,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Digdeguash",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":17,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5939249,
+    "gn:latitude":45.18151,
+    "gn:longitude":-66.96169,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Digdeguash",
     "gn:population":0,
+    "gn:timezone":"America/Moncton",
     "iso:country":"CA",
     "lbl:bbox":"-66.9815,45.16252,-66.9415,45.20252",
     "lbl:latitude":45.18252,
@@ -62,7 +74,13 @@
         "gn:id":7302873,
         "gp:id":23393536,
         "qs_pg:id":42919,
-        "wd:id":"Q16980410"
+        "wd:id":"Q16980410",
+        "wk:page":"Digdeguash%2C_New_Brunswick"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5939249
+        ]
     },
     "wof:country":"CA",
     "wof:created":1497294503,
@@ -77,13 +95,15 @@
         }
     ],
     "wof:id":1125875185,
-    "wof:lastmodified":1566520312,
+    "wof:lastmodified":1706239378,
     "wof:name":"Digdeguash",
     "wof:parent_id":1158869023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259383673
+    ],
     "wof:tags":[]
 },
   "bbox": [

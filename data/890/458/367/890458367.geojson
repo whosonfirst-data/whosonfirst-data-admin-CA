@@ -9,9 +9,21 @@
     "geom:bbox":"-113.32466,50.72103,-113.32466,50.72103",
     "geom:latitude":50.72103,
     "geom:longitude":-113.32466,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mossleigh",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":948,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6079323,
+    "gn:latitude":50.72028,
+    "gn:longitude":-113.32444,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Mossleigh",
     "gn:population":0,
+    "gn:timezone":"America/Edmonton",
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:bbox":"-113.34466,50.70103,-113.30466,50.74103",
@@ -53,6 +65,14 @@
         "wd:id":"Q6916672",
         "wk:page":"Mossleigh"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6079323
+        ],
+        "wk:page":[
+            "Mossleigh"
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1469053212,
     "wof:geomhash":"3da9c3a0dfd9f77896789956e16b7014",
@@ -66,14 +86,16 @@
         }
     ],
     "wof:id":890458367,
-    "wof:lastmodified":1566520124,
+    "wof:lastmodified":1706239370,
     "wof:name":"Mossleigh",
     "wof:parent_id":1158863257,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293112825
+    ],
     "wof:tags":[]
 },
   "bbox": [

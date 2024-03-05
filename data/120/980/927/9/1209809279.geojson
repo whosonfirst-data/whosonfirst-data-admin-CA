@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.95364,45.81229,-75.95364,45.81229",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Low"
@@ -88,7 +90,7 @@
         "gn:id":11350713
     },
     "wof:country":"CA",
-    "wof:geomhash":"98fbe64aa83b208ec6322d3e47dfe9c8",
+    "wof:geomhash":"06361b5ac704b845a7c612b24fbf3057",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,20 +101,22 @@
         }
     ],
     "wof:id":1209809279,
-    "wof:lastmodified":1566519191,
+    "wof:lastmodified":1706239361,
     "wof:name":"Low",
     "wof:parent_id":890456545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101737315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -75.95364000000002,
+    -75.95364,
     45.81229,
-    -75.95364000000002,
+    -75.95364,
     45.81229
 ],
-  "geometry": {"coordinates":[-75.95364000000002,45.81229],"type":"Point"}
+  "geometry": {"coordinates":[-75.95363999999999,45.81229],"type":"Point"}
 }

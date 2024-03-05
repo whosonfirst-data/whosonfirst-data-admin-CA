@@ -9,8 +9,22 @@
     "geom:bbox":"-83.080498,46.007815,-82.811329,46.534212",
     "geom:latitude":46.27679,
     "geom:longitude":-82.942203,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Blind River",
+    "gn:country_code":"CA",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5903853,
     "gn:id":"5903851,5903853",
+    "gn:latitude":46.33336,
+    "gn:longitude":-82.88317,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Blind River",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-82.90317,46.31336,-82.86317,46.35336",
     "lbl:latitude":46.10158,
     "lbl:longitude":-82.96645,
     "lbl:max_zoom":18.0,
@@ -118,6 +132,11 @@
         "qs_pg:id":898133,
         "wd:id":"Q4859518"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5903853
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -132,14 +151,16 @@
         }
     ],
     "wof:id":101735711,
-    "wof:lastmodified":1690864973,
+    "wof:lastmodified":1706239357,
     "wof:name":"Blind River",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327219361
+    ],
     "wof:tags":[]
 },
   "bbox": [

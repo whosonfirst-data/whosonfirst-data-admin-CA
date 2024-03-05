@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":7871322
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5942324
+        ]
+    },
     "wof:country":"CA",
-    "wof:geomhash":"603341c3c46b6df2b2a770ec17dc800d",
+    "wof:geomhash":"453685dfec7363cbc3effed808553c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1193263985,
-    "wof:lastmodified":1566519219,
+    "wof:lastmodified":1706239385,
     "wof:name":"Downeys",
     "wof:parent_id":890456827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343948779
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -80.22594000000002,
+    -80.22594,
     43.47958,
-    -80.22594000000002,
+    -80.22594,
     43.47958
 ],
-  "geometry": {"coordinates":[-80.22594000000002,43.47958],"type":"Point"}
+  "geometry": {"coordinates":[-80.22593999999999,43.47958],"type":"Point"}
 }

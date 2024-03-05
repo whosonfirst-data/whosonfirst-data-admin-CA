@@ -9,9 +9,22 @@
     "geom:bbox":"-76.712781,44.160512,-76.234177,44.480144",
     "geom:latitude":44.300569,
     "geom:longitude":-76.461286,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kingston",
+    "gn:country_code":"CA",
+    "gn:dem":104,
     "gn:elevation":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5992499,
+    "gn:latitude":44.23472,
+    "gn:longitude":-76.51083,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Kingston",
     "gn:population":114195,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-76.53083,44.21472,-76.49083,44.25472",
     "lbl:latitude":44.263277,
     "lbl:longitude":-76.524396,
     "lbl:max_zoom":14.0,
@@ -72,6 +85,9 @@
     "name:chv_x_preferred":[
         "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d"
     ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06cc\u0646\u06af\u0633\u062a\u06c6\u0646"
+    ],
     "name:cym_x_preferred":[
         "Kingston"
     ],
@@ -115,6 +131,12 @@
         "Kingston"
     ],
     "name:fra_x_preferred":[
+        "Kingston"
+    ],
+    "name:fry_x_preferred":[
+        "Kingston"
+    ],
+    "name:gla_x_preferred":[
         "Kingston"
     ],
     "name:gle_x_preferred":[
@@ -210,6 +232,9 @@
     "name:nob_x_preferred":[
         "Kingston"
     ],
+    "name:nor_x_preferred":[
+        "Kingston"
+    ],
     "name:pms_x_preferred":[
         "Kingston"
     ],
@@ -230,6 +255,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Kingston"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dba"
@@ -308,6 +336,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4eac\u58eb\u9813"
+    ],
+    "name:zea_x_preferred":[
+        "Kingston"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u65af\u987f"
@@ -440,6 +471,11 @@
         "wd:id":"Q202973",
         "wk:page":"Kingston, Ontario"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5992499
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -455,7 +491,7 @@
         }
     ],
     "wof:id":101735601,
-    "wof:lastmodified":1690864953,
+    "wof:lastmodified":1706239356,
     "wof:name":"Kingston",
     "wof:parent_id":890457247,
     "wof:placetype":"locality",
@@ -463,7 +499,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310090999
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,21 @@
     "geom:bbox":"-114.306883,64.178551,-114.012209,64.219497",
     "geom:latitude":64.202495,
     "geom:longitude":-114.16035,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Wekweeti",
+    "gn:country_code":"CA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6177776,
+    "gn:latitude":64.1899,
+    "gn:longitude":-114.18184,
+    "gn:modification_date":"2013-06-23",
+    "gn:name":"Wekwe\u00e8t\u00ec",
+    "gn:population":0,
+    "gn:timezone":"America/Yellowknife",
     "iso:country":"CA",
+    "lbl:bbox":"-114.20184,64.1699,-114.16184,64.2099",
     "lbl:latitude":64.200305,
     "lbl:longitude":-114.199261,
     "lbl:max_zoom":18.0,
@@ -78,8 +92,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6177776,
         "gp:id":90874649,
-        "wd:id":"Q7980483"
+        "wd:id":"Q7980483",
+        "wk:page":"Wekweeti"
     },
     "wof:country":"CA",
     "wof:geomhash":"3d741079f4270709add046aba47f7b65",
@@ -93,14 +109,16 @@
         }
     ],
     "wof:id":101735425,
-    "wof:lastmodified":1690864880,
+    "wof:lastmodified":1706239354,
     "wof:name":"Wekweeti",
     "wof:parent_id":1158869031,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276534875
+    ],
     "wof:tags":[]
 },
   "bbox": [

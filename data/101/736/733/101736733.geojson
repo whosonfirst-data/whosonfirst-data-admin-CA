@@ -9,8 +9,24 @@
     "geom:bbox":"-79.43693,48.763546,-79.299093,48.908183",
     "geom:latitude":48.836728,
     "geom:longitude":-79.36509,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"87085.0",
+    "gn:asciiname":"Dupuy",
+    "gn:country_code":"CA",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5944335,
     "gn:id":"5944335,5944337",
+    "gn:latitude":48.83049,
+    "gn:longitude":-79.35825,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dupuy",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-79.37825,48.81049,-79.33825,48.85049",
     "lbl:latitude":48.835848,
     "lbl:longitude":-79.363757,
     "lbl:max_zoom":18.0,
@@ -51,6 +67,9 @@
         "\u062f\u0648\u067e\u0648\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Dupuy"
+    ],
+    "name:ita_x_preferred":[
         "Dupuy"
     ],
     "name:nld_x_preferred":[
@@ -94,6 +113,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":5944335,
         "gp:id":433,
         "wd:id":"Q3041482"
     },
@@ -109,14 +129,16 @@
         }
     ],
     "wof:id":101736733,
-    "wof:lastmodified":1690864440,
+    "wof:lastmodified":1706239360,
     "wof:name":"Dupuy",
     "wof:parent_id":890457577,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276860309
+    ],
     "wof:tags":[]
 },
   "bbox": [

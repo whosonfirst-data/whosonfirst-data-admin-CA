@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.9605,49.69728,-75.9605,49.69728",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:cre_x_preferred":[
         "\u1419\u1502\u14c2\u1432"
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1226526063,
-    "wof:lastmodified":1566520610,
+    "wof:lastmodified":1706239367,
     "wof:name":"Waswanipi",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101747849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -17,6 +17,7 @@
     "geom:latitude":51.034176,
     "geom:longitude":-113.996132,
     "iso:country":"CA",
+    "lbl:bbox":"-113.99617829,51.0290879121,-113.98617829,51.0390879121",
     "lbl:latitude":51.033989,
     "lbl:longitude":-113.995909,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Southview"
     ],
@@ -46,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":91977788,
         "wd:id":"Q7571097"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q7571097"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"0b965263089a73e88c9d6ceabaee5046",
@@ -61,13 +71,15 @@
         }
     ],
     "wof:id":1108963991,
-    "wof:lastmodified":1690864092,
+    "wof:lastmodified":1706239371,
     "wof:name":"Southview",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783953
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Lake Charlotte"
+    ],
+    "name:swe_x_preferred":[
+        "Lake Charlotte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633041
@@ -37,6 +43,11 @@
     "wof:concordances":{
         "gn:id":6048305,
         "wk:page":"Lake_Charlotte%2C_Nova_Scotia"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6949443
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"7dafdcc2055ffccf50e6e8cb375b177f",
@@ -47,13 +58,15 @@
         }
     ],
     "wof:id":1209309063,
-    "wof:lastmodified":1566519148,
+    "wof:lastmodified":1706239385,
     "wof:name":"Lake Charlotte",
     "wof:parent_id":85633041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260176309
+    ],
     "wof:tags":[]
 },
   "bbox": [

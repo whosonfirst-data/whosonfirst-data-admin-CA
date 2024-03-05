@@ -17,6 +17,7 @@
     "geom:latitude":50.884791,
     "geom:longitude":-114.07174,
     "iso:country":"CA",
+    "lbl:bbox":"-114.081447659,50.8796428037,-114.071447659,50.8896428037",
     "lbl:latitude":50.885078,
     "lbl:longitude":-114.071759,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Silverado"
     ],
@@ -37,9 +41,13 @@
     "name:nld_x_preferred":[
         "Silverado"
     ],
+    "name:por_x_preferred":[
+        "Silverado"
+    ],
     "reversegeo:latitude":50.885078,
     "reversegeo:longitude":-114.071759,
     "src:geom":"can-calcai",
+    "wd:wordcount":162,
     "wof:belongsto":[
         85682091,
         102191575,
@@ -50,6 +58,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q7516618"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q7516618"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"1d09db164e2ba20ff2b1c8cc6c0dae7c",
@@ -64,13 +77,15 @@
         }
     ],
     "wof:id":1108964093,
-    "wof:lastmodified":1690864096,
+    "wof:lastmodified":1706239374,
     "wof:name":"Silverado",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783891
+    ],
     "wof:tags":[]
 },
   "bbox": [

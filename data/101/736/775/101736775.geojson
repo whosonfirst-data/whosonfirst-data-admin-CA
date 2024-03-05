@@ -9,7 +9,23 @@
     "geom:bbox":"-74.212031,45.670831,-74.039016,45.795033",
     "geom:latitude":45.739595,
     "geom:longitude":-74.138918,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"75005.0",
+    "gn:asciiname":"Saint-Colomban",
+    "gn:country_code":"CA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6137626,
+    "gn:latitude":45.73338,
+    "gn:longitude":-74.13251,
+    "gn:modification_date":"2014-03-02",
+    "gn:name":"Saint-Colomban",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-74.15251,45.71338,-74.11251,45.75338",
     "lbl:latitude":45.74204,
     "lbl:longitude":-74.140214,
     "lbl:max_zoom":18.0,
@@ -123,6 +139,14 @@
         "wd:id":"Q141584",
         "wk:page":"Saint-Colomban, Quebec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6137626
+        ],
+        "wk:page":[
+            "Saint-Colomban,_Quebec"
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"321956c1abe3a6539e7d67bf0b279610",
     "wof:hierarchy":[
@@ -135,14 +159,16 @@
         }
     ],
     "wof:id":101736775,
-    "wof:lastmodified":1690864482,
+    "wof:lastmodified":1706239361,
     "wof:name":"Saint-Colomban",
     "wof:parent_id":890458417,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310495399
+    ],
     "wof:tags":[]
 },
   "bbox": [

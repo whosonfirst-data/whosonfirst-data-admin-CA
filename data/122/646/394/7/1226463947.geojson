@@ -38,7 +38,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6621042
+        "gn:id":6621042,
+        "wk:page":"Liscomb_Mills%2C_Nova_Scotia"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6054631
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"1fba8f90b1c856caab9b24782f70c692",
@@ -52,13 +58,15 @@
         }
     ],
     "wof:id":1226463947,
-    "wof:lastmodified":1566520607,
+    "wof:lastmodified":1706239386,
     "wof:name":"Liscomb Mills",
     "wof:parent_id":890458539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260000833
+    ],
     "wof:tags":[]
 },
   "bbox": [

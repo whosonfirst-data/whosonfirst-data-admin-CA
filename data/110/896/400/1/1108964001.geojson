@@ -17,6 +17,7 @@
     "geom:latitude":51.004862,
     "geom:longitude":-114.081594,
     "iso:country":"CA",
+    "lbl:bbox":"-114.086203532,50.9996941097,-114.076203532,51.0096941097",
     "lbl:latitude":51.00509,
     "lbl:longitude":-114.081605,
     "lbl:max_zoom":18.0,
@@ -25,18 +26,82 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0646\u062f\u0633\u0648\u0631 \u0628\u0627\u0631\u0643"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0438\u043d\u0434\u0437\u044a\u0440 \u041f\u0430\u0440\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Windsor Park"
+    ],
     "name:eng_x_preferred":[
         "Windsor Park"
     ],
+    "name:est_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:eus_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:fin_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:fra_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e0\u05d3\u05d6\u05d5\u05e8 \u05e4\u05d0\u05e8\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:ita_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30f3\u30b6\u30fc\u30fb\u30d1\u30fc\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc708\uc800 \ud30c\ud06c"
+    ],
     "name:nld_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:nor_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:pol_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:por_x_preferred":[
+        "Parque de Windsor"
+    ],
+    "name:ron_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u043d\u0434\u0437\u043e\u0440 \u041f\u0430\u0440\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:swe_x_preferred":[
+        "Windsor Park"
+    ],
+    "name:tur_x_preferred":[
         "Windsor Park"
     ],
     "reversegeo:latitude":51.00509,
     "reversegeo:longitude":-114.081605,
     "src:geom":"can-calcai",
+    "wd:wordcount":1263,
     "wof:belongsto":[
         85682091,
         102191575,
@@ -46,7 +111,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":91978335,
         "wd:id":"Q8024665"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q8024665"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"f140b41421978bfaac94e48abe74c3c8",
@@ -61,13 +132,15 @@
         }
     ],
     "wof:id":1108964001,
-    "wof:lastmodified":1690864096,
+    "wof:lastmodified":1706239371,
     "wof:name":"Windsor Park",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420784001
+    ],
     "wof:tags":[]
 },
   "bbox": [

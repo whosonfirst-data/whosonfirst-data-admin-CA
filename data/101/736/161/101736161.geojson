@@ -9,8 +9,22 @@
     "geom:bbox":"-80.261218,43.629097,-79.969041,43.861543",
     "geom:latitude":43.744743,
     "geom:longitude":-80.114492,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Erin",
+    "gn:country_code":"CA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5949248,
     "gn:id":"5949247,5949248,5949249",
+    "gn:latitude":43.75801,
+    "gn:longitude":-80.0972,
+    "gn:modification_date":"2011-06-22",
+    "gn:name":"Erin",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-80.1172,43.73801,-80.0772,43.77801",
     "lbl:latitude":43.745956,
     "lbl:longitude":-80.114511,
     "lbl:max_zoom":18.0,
@@ -35,7 +49,13 @@
     "name:bre_x_preferred":[
         "Erin"
     ],
+    "name:cat_x_preferred":[
+        "Erin"
+    ],
     "name:ceb_x_preferred":[
+        "Erin"
+    ],
+    "name:ces_x_preferred":[
         "Erin"
     ],
     "name:cos_x_preferred":[
@@ -53,11 +73,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0631\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Erin"
+    ],
     "name:fra_x_preferred":[
         "Erin"
     ],
     "name:hbs_x_preferred":[
         "Erin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d9\u05df"
     ],
     "name:ind_x_preferred":[
         "Erin"
@@ -79,6 +105,9 @@
     ],
     "name:ron_x_preferred":[
         "Erin"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0438\u043d"
     ],
     "name:slv_x_preferred":[
         "Erin"
@@ -136,6 +165,11 @@
         "wd:id":"Q3492596",
         "wk:page":"Erin, Ontario"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5949249
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -151,14 +185,17 @@
         }
     ],
     "wof:id":101736161,
-    "wof:lastmodified":1690864383,
+    "wof:lastmodified":1706239359,
     "wof:name":"Erin",
     "wof:parent_id":890456827,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259706115,
+        1209405485
+    ],
     "wof:tags":[]
 },
   "bbox": [

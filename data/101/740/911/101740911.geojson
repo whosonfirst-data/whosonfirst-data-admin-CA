@@ -9,8 +9,21 @@
     "geom:bbox":"-123.153322,50.02676,-122.861038,50.175888",
     "geom:latitude":50.090198,
     "geom:longitude":-122.994291,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Whistler",
+    "gn:country_code":"CA",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6180142,
+    "gn:latitude":50.1164,
+    "gn:longitude":-122.95275,
+    "gn:modification_date":"2014-07-20",
+    "gn:name":"Whistler",
     "gn:population":10600,
+    "gn:timezone":"America/Vancouver",
     "iso:country":"CA",
+    "lbl:bbox":"-122.97275,50.0964,-122.93275,50.1364",
     "lbl:latitude":50.10232,
     "lbl:longitude":-122.9796,
     "lbl:max_zoom":15.0,
@@ -194,6 +207,14 @@
         "wd:id":"Q203122",
         "wk:page":"Whistler, British Columbia"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6180142
+        ],
+        "wk:page":[
+            "Whistler%2C_British_Columbia"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -209,7 +230,7 @@
         }
     ],
     "wof:id":101740911,
-    "wof:lastmodified":1690864658,
+    "wof:lastmodified":1706239364,
     "wof:name":"Whistler",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",
@@ -217,7 +238,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226552835
+    ],
     "wof:tags":[]
 },
   "bbox": [

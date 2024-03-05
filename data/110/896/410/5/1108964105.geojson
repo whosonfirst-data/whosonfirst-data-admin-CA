@@ -17,6 +17,7 @@
     "geom:latitude":50.91517,
     "geom:longitude":-113.927031,
     "iso:country":"CA",
+    "lbl:bbox":"-113.932165979,50.9112142177,-113.922165979,50.9212142177",
     "lbl:latitude":50.915748,
     "lbl:longitude":-113.923631,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Copperfield"
     ],
@@ -37,6 +41,7 @@
     "reversegeo:latitude":50.915748,
     "reversegeo:longitude":-113.923631,
     "src:geom":"can-calcai",
+    "wd:wordcount":83,
     "wof:belongsto":[
         85682091,
         102191575,
@@ -47,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q5168814"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q5168814"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"fe13378259b8f0f16ca57e5e52cd8e7f",
@@ -61,13 +71,15 @@
         }
     ],
     "wof:id":1108964105,
-    "wof:lastmodified":1690864099,
+    "wof:lastmodified":1706239375,
     "wof:name":"Copperfield",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420784035
+    ],
     "wof:tags":[]
 },
   "bbox": [

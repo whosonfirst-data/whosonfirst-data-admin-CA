@@ -9,7 +9,23 @@
     "geom:bbox":"-74.166525,45.987927,-73.960622,46.117163",
     "geom:latitude":46.055978,
     "geom:longitude":-74.072033,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"77012.0",
+    "gn:asciiname":"Sainte-Marguerite-du-Lac-Masson",
+    "gn:country_code":"CA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6137982,
+    "gn:latitude":46.03338,
+    "gn:longitude":-74.0659,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"Sainte-Marguerite-du-Lac-Masson",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-74.0859,46.01338,-74.0459,46.05338",
     "lbl:latitude":46.0553,
     "lbl:longitude":-74.09905,
     "lbl:max_zoom":18.0,
@@ -104,6 +120,11 @@
         "wd:id":"Q142500",
         "wk:page":"Masson-Angers"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6137982
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"df82129005d27a4b4b83ebdd811cb780",
     "wof:hierarchy":[
@@ -116,14 +137,16 @@
         }
     ],
     "wof:id":101737181,
-    "wof:lastmodified":1690864312,
+    "wof:lastmodified":1706239361,
     "wof:name":"Sainte-Marguerite-du-Lac-Masson",
     "wof:parent_id":890458097,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327013539
+    ],
     "wof:tags":[]
 },
   "bbox": [

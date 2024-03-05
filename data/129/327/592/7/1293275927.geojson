@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-71.44908,45.70007,-71.44908,45.70007",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weedon"
@@ -58,7 +60,7 @@
         "gn:id":6177594
     },
     "wof:country":"CA",
-    "wof:geomhash":"cddc73625a5b87dbb752d14954685e9d",
+    "wof:geomhash":"a89a523ad55123283092548831b28fff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1293275927,
-    "wof:lastmodified":1566519072,
+    "wof:lastmodified":1706239361,
     "wof:name":"Weedon",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101737015
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -71.44908000000002,
+    -71.44908,
     45.70007,
-    -71.44908000000002,
+    -71.44908,
     45.70007
 ],
-  "geometry": {"coordinates":[-71.44908000000002,45.70007],"type":"Point"}
+  "geometry": {"coordinates":[-71.44908,45.70007],"type":"Point"}
 }

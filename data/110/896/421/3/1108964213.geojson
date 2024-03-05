@@ -17,6 +17,7 @@
     "geom:latitude":51.05431,
     "geom:longitude":-114.114511,
     "iso:country":"CA",
+    "lbl:bbox":"-114.120386201,51.0491993532,-114.110386201,51.0591993532",
     "lbl:latitude":51.053818,
     "lbl:longitude":-114.11424,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "West Hillhurst"
     ],
@@ -37,6 +41,10 @@
     "reversegeo:latitude":51.053818,
     "reversegeo:longitude":-114.11424,
     "src:geom":"can-calcai",
+    "wd:elevation":1055.0,
+    "wd:latitude":51.0583,
+    "wd:longitude":-114.11,
+    "wd:wordcount":342,
     "wof:belongsto":[
         85682091,
         102191575,
@@ -46,7 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":91977506,
         "wd:id":"Q7985388"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q7985388"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"7fe436966c5acaf974a0b91970040302",
@@ -61,13 +75,15 @@
         }
     ],
     "wof:id":1108964213,
-    "wof:lastmodified":1690864099,
+    "wof:lastmodified":1706239378,
     "wof:name":"West Hillhurst",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783915
+    ],
     "wof:tags":[]
 },
   "bbox": [

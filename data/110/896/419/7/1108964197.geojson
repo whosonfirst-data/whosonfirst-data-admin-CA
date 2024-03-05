@@ -17,6 +17,7 @@
     "geom:latitude":51.150973,
     "geom:longitude":-114.203029,
     "iso:country":"CA",
+    "lbl:bbox":"-114.209496269,51.1463894471,-114.199496269,51.1563894471",
     "lbl:latitude":51.149645,
     "lbl:longitude":-114.204686,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Royal Vista"
     ],
@@ -46,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":55855961,
         "wd:id":"Q7374986"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q7374986"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"e6afb026b16a9f9b13f2d29ec4ea5594",
@@ -61,13 +71,15 @@
         }
     ],
     "wof:id":1108964197,
-    "wof:lastmodified":1690864098,
+    "wof:lastmodified":1706239377,
     "wof:name":"Royal Vista",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783927
+    ],
     "wof:tags":[]
 },
   "bbox": [

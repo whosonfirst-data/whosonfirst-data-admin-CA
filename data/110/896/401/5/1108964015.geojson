@@ -17,6 +17,7 @@
     "geom:latitude":51.042039,
     "geom:longitude":-114.145372,
     "iso:country":"CA",
+    "lbl:bbox":"-114.150176038,51.0371256286,-114.140176038,51.0471256286",
     "lbl:latitude":51.042132,
     "lbl:longitude":-114.145368,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Rosscarrock"
     ],
@@ -37,6 +41,10 @@
     "reversegeo:latitude":51.042132,
     "reversegeo:longitude":-114.145368,
     "src:geom":"can-calcai",
+    "wd:elevation":1140.0,
+    "wd:latitude":51.0408,
+    "wd:longitude":-114.153,
+    "wd:wordcount":298,
     "wof:belongsto":[
         85682091,
         102191575,
@@ -46,7 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":23404547,
         "wd:id":"Q7369754"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q7369754"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"4d96a993653041300c7445ec00aac8d2",
@@ -61,13 +75,15 @@
         }
     ],
     "wof:id":1108964015,
-    "wof:lastmodified":1690864093,
+    "wof:lastmodified":1706239372,
     "wof:name":"Rosscarrock",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783985
+    ],
     "wof:tags":[]
 },
   "bbox": [

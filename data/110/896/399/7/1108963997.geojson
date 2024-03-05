@@ -17,6 +17,7 @@
     "geom:latitude":50.982788,
     "geom:longitude":-114.089241,
     "iso:country":"CA",
+    "lbl:bbox":"-114.094214401,50.977797067,-114.084214401,50.987797067",
     "lbl:latitude":50.982554,
     "lbl:longitude":-114.089241,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Chinook Park"
     ],
@@ -46,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":26342786,
         "wd:id":"Q5101244"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q5101244"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"e5378a739999a1647bf1b544128631ab",
@@ -61,13 +71,15 @@
         }
     ],
     "wof:id":1108963997,
-    "wof:lastmodified":1690864091,
+    "wof:lastmodified":1706239371,
     "wof:name":"Chinook Park",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420784007
+    ],
     "wof:tags":[]
 },
   "bbox": [

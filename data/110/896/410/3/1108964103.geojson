@@ -17,6 +17,7 @@
     "geom:latitude":50.896084,
     "geom:longitude":-113.924868,
     "iso:country":"CA",
+    "lbl:bbox":"-113.933539271,50.8970706653,-113.923539271,50.9070706653",
     "lbl:latitude":50.895941,
     "lbl:longitude":-113.924864,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0647\u0648\u062c\u0646\u064a"
     ],
@@ -37,14 +41,38 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b9\u0997\u09a8\u09bf"
     ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0433\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Caoba"
     ],
     "name:ces_x_preferred":[
         "Mahagon"
     ],
+    "name:ces_x_variant":[
+        "mahagon"
+    ],
     "name:dan_x_preferred":[
         "Mahogni"
+    ],
+    "name:deu_x_preferred":[
+        "Mahagoni"
+    ],
+    "name:ell_x_preferred":[
+        "\u03bc\u03b1\u03cc\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "mahogany"
+    ],
+    "name:eng_x_variant":[
+        "mahogany wood"
+    ],
+    "name:epo_x_preferred":[
+        "Grandfolia svitenio"
+    ],
+    "name:est_x_preferred":[
+        "mahagonipuit"
     ],
     "name:eus_x_preferred":[
         "Kaoba"
@@ -58,6 +86,9 @@
     "name:fra_x_preferred":[
         "Acajou"
     ],
+    "name:fur_x_preferred":[
+        "Acaz\u00f9"
+    ],
     "name:gle_x_preferred":[
         "Mahagaine"
     ],
@@ -67,6 +98,9 @@
     "name:hat_x_preferred":[
         "Akajou"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d4\u05d2\u05d5\u05e0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0939\u094b\u0917\u0928\u0940"
     ],
@@ -75,6 +109,9 @@
     ],
     "name:hun_x_preferred":[
         "Mahag\u00f3ni"
+    ],
+    "name:hye_x_preferred":[
+        "\u056f\u0561\u0580\u0574\u0580\u0561\u0583\u0561\u0575\u057f \u056e\u0561\u057c"
     ],
     "name:ido_x_preferred":[
         "Mahagono"
@@ -91,14 +128,23 @@
     "name:lad_x_preferred":[
         "Akaj\u00fa"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d39\u0d3e\u0d17\u0d23\u0d3f"
+    ],
     "name:mya_x_preferred":[
         "\u1019\u101f\u1031\u102c\u103a\u1002\u1014\u102e"
+    ],
+    "name:nds_x_preferred":[
+        "Mahagoniholt"
     ],
     "name:nld_x_preferred":[
         "Mahonie"
     ],
     "name:nno_x_preferred":[
         "Mahogni"
+    ],
+    "name:nob_x_preferred":[
+        "mahogni"
     ],
     "name:nor_x_preferred":[
         "Mahogni"
@@ -109,8 +155,14 @@
     "name:pcd_x_preferred":[
         "\u00c0rcajou"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06c1\u0648\u06af\u0646\u06cc"
+    ],
     "name:pol_x_preferred":[
         "Maho\u0144"
+    ],
+    "name:pol_x_variant":[
+        "maho\u0144"
     ],
     "name:por_x_preferred":[
         "Mogno"
@@ -127,8 +179,14 @@
     "name:swe_x_preferred":[
         "Mahogny"
     ],
+    "name:swe_x_variant":[
+        "mahogny"
+    ],
     "name:tgl_x_preferred":[
         "Nara"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e30\u0e2e\u0e2d\u0e01\u0e01\u0e32\u0e19\u0e35\u0e43\u0e1a\u0e43\u0e2b\u0e0d\u0e48"
     ],
     "name:tur_x_preferred":[
         "Maun"
@@ -139,21 +197,30 @@
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0648\u06af\u0646\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "mogano"
+    ],
+    "name:vie_x_preferred":[
+        "Nh\u1ea1c ng\u1ef1a"
+    ],
     "name:zho_x_preferred":[
         "\u6843\u82b1\u5fc3\u6728"
     ],
     "reversegeo:latitude":50.895941,
     "reversegeo:longitude":-113.924864,
     "src:geom":"can-calcai",
+    "wd:wordcount":3235,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "wd:id":"Q239788"
+    },
     "wof:country":"CA",
     "wof:geomhash":"969076e4933141d2693ac1299575a4e1",
     "wof:hierarchy":[
@@ -167,13 +234,15 @@
         }
     ],
     "wof:id":1108964103,
-    "wof:lastmodified":1577998170,
+    "wof:lastmodified":1706239375,
     "wof:name":"Mahogany",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420784033
+    ],
     "wof:tags":[]
 },
   "bbox": [

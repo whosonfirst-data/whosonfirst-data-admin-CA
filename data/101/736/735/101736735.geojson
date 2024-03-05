@@ -9,8 +9,23 @@
     "geom:bbox":"-72.117904,46.805595,-71.633242,47.166281",
     "geom:latitude":46.992417,
     "geom:longitude":-71.8591,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"03",
+    "gn:admin3_code":"34128.0",
+    "gn:asciiname":"Saint-Raymond",
+    "gn:country_code":"CA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8593826,
+    "gn:latitude":46.8901,
+    "gn:longitude":-71.83415,
+    "gn:modification_date":"2016-06-25",
+    "gn:name":"Saint-Raymond",
     "gn:population":9273,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-71.85415,46.8701,-71.81415,46.9101",
     "lbl:latitude":46.993738,
     "lbl:longitude":-71.835162,
     "lbl:max_zoom":15.0,
@@ -127,7 +142,15 @@
         "wk:page":"Raymond, Alberta"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":279539
+        "gn:id":[
+            8593826
+        ],
+        "qs_pg:id":[
+            279539
+        ],
+        "wk:page":[
+            "Saint-Raymond%2C_Quebec"
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -144,7 +167,7 @@
         }
     ],
     "wof:id":101736735,
-    "wof:lastmodified":1690864446,
+    "wof:lastmodified":1706239361,
     "wof:name":"Saint-Raymond",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",
@@ -152,7 +175,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259466893
+    ],
     "wof:tags":[]
 },
   "bbox": [

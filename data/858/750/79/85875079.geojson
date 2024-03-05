@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Halifax Peninsula"
@@ -59,12 +60,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":4177,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Halifax Peninsula",
+    "qs_pg:name_adm0":"Canada",
+    "qs_pg:name_adm1":"Nova Scotia",
+    "qs_pg:photos":3005,
+    "qs_pg:photos_1k":609,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3005,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089535,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424775,
+    "qs_pg:woe_id":55856311,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":965,
+    "woe:adm0_id":23424775,
+    "woe:name_adm0":"Canada",
+    "woe:name_adm1":"Nova Scotia",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85682075,
         102191575,
@@ -76,6 +96,14 @@
         "gp:id":55856311,
         "qs_pg:id":1089535,
         "wd:id":"Q5642209"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55856311
+        ],
+        "qs_pg:id":[
+            1089535
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -96,13 +124,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582309610,
+    "wof:lastmodified":1706239352,
     "wof:name":"Halifax Peninsula",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126094905
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,21 @@
     "geom:bbox":"-80.599945,44.372765,-80.266394,44.973312",
     "geom:latitude":44.634586,
     "geom:longitude":-80.429772,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"The Blue Mountains",
+    "gn:country_code":"CA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5904414,
+    "gn:latitude":44.5584,
+    "gn:longitude":-80.458,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"The Blue Mountains",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-80.478,44.5384,-80.438,44.5784",
     "lbl:latitude":44.625576,
     "lbl:longitude":-80.418409,
     "lbl:max_zoom":18.0,
@@ -115,9 +129,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":5904414,
         "gp:id":23397245,
         "qs_pg:id":990079,
-        "wd:id":"Q4864447"
+        "wd:id":"Q4864447",
+        "wk:page":"The_Blue_Mountains%2C%E2%80%A6"
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -133,14 +149,16 @@
         }
     ],
     "wof:id":101736157,
-    "wof:lastmodified":1690864381,
+    "wof:lastmodified":1706239358,
     "wof:name":"The Blue Mountains",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327253651
+    ],
     "wof:tags":[]
 },
   "bbox": [

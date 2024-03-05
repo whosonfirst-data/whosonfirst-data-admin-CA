@@ -17,6 +17,7 @@
     "geom:latitude":51.001471,
     "geom:longitude":-113.940037,
     "iso:country":"CA",
+    "lbl:bbox":"-113.944794292,50.9966193763,-113.934794292,51.0066193763",
     "lbl:latitude":51.001473,
     "lbl:longitude":-113.940037,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:jpn_x_preferred":[
         "\u30b9\u30bf\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9"
     ],
@@ -37,12 +41,13 @@
     "reversegeo:latitude":51.001473,
     "reversegeo:longitude":-113.940037,
     "src:geom":"can-calcai",
+    "wd:wordcount":33,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1108964195,
-    "wof:lastmodified":1577998150,
+    "wof:lastmodified":1706239377,
     "wof:name":"Starfield",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783963
+    ],
     "wof:tags":[]
 },
   "bbox": [

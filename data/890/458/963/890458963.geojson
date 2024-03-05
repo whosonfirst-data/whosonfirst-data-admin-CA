@@ -9,9 +9,21 @@
     "geom:bbox":"-63.09868,46.31682,-63.09868,46.31682",
     "geom:latitude":46.31682,
     "geom:longitude":-63.09868,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"York",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":44,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6185555,
+    "gn:latitude":46.31682,
+    "gn:longitude":-63.09868,
+    "gn:modification_date":"2006-01-18",
+    "gn:name":"York",
     "gn:population":0,
+    "gn:timezone":"America/Halifax",
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:bbox":"-63.11868,46.29682,-63.07868,46.33682",
@@ -309,6 +321,11 @@
         "qs_pg:id":262193,
         "wk:page":"York"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6185555
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1469053248,
     "wof:geomhash":"095db591e3a9e74cd7f496ed63d40b17",
@@ -322,14 +339,16 @@
         }
     ],
     "wof:id":890458963,
-    "wof:lastmodified":1566520098,
+    "wof:lastmodified":1706239370,
     "wof:name":"York",
     "wof:parent_id":890457737,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259567691
+    ],
     "wof:tags":[]
 },
   "bbox": [

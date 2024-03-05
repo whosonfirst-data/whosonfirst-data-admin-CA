@@ -9,7 +9,23 @@
     "geom:bbox":"-78.914236,51.266666,-78.506326,51.490212",
     "geom:latitude":51.368456,
     "geom:longitude":-78.705114,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"99060.0",
+    "gn:asciiname":"Waskaganish",
+    "gn:country_code":"CA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6176563,
+    "gn:latitude":51.48333,
+    "gn:longitude":-78.75,
+    "gn:modification_date":"2016-04-17",
+    "gn:name":"Waskaganish",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-78.77,51.46333,-78.73,51.50333",
     "lbl:latitude":51.397585,
     "lbl:longitude":-78.68774,
     "lbl:max_zoom":18.0,
@@ -21,6 +37,9 @@
     "mz:min_zoom":12.0,
     "name:atj_x_preferred":[
         "Waskaganish"
+    ],
+    "name:cre_x_preferred":[
+        "\u1419\u1505\u1473\u1426\u1404\u1472\u14c2\u1525"
     ],
     "name:eng_x_preferred":[
         "Waskaganish"
@@ -65,6 +84,14 @@
         "wd:id":"Q3566535",
         "wk:page":"Waskaganish"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6176563
+        ],
+        "wk:page":[
+            "Waskaganish"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -80,14 +107,16 @@
         }
     ],
     "wof:id":101741455,
-    "wof:lastmodified":1690864809,
+    "wof:lastmodified":1706239365,
     "wof:name":"Waskaganish",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309894877
+    ],
     "wof:tags":[]
 },
   "bbox": [

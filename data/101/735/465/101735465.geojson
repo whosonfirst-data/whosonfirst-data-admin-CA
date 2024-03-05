@@ -10,6 +10,7 @@
     "geom:latitude":68.712595,
     "geom:longitude":-81.47189,
     "iso:country":"CA",
+    "lbl:bbox":"-81.2560830335,68.7474668406,-81.2160830335,68.7874668406",
     "lbl:latitude":68.712921,
     "lbl:longitude":-81.44833,
     "lbl:max_zoom":18.0,
@@ -249,6 +250,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -262,6 +264,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":68.767467,
+    "reversegeo:longitude":-81.236083,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -286,6 +290,11 @@
         "qs_pg:id":975551,
         "wd:id":"Q1571291"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1571291"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -305,14 +314,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864904,
+    "wof:lastmodified":1706239355,
     "wof:name":"Hall Beach",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906649
+    ],
     "wof:tags":[]
 },
   "bbox": [

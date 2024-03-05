@@ -10,6 +10,7 @@
     "geom:latitude":69.186593,
     "geom:longitude":-104.906666,
     "iso:country":"CA",
+    "lbl:bbox":"-105.053315269,69.0969555859,-105.013315269,69.1369555859",
     "lbl:latitude":69.205,
     "lbl:longitude":-104.906666,
     "lbl:max_zoom":18.0,
@@ -116,6 +117,9 @@
         "Cambridge Bay"
     ],
     "name:nob_x_preferred":[
+        "Cambridge Bay"
+    ],
+    "name:nor_x_preferred":[
         "Cambridge Bay"
     ],
     "name:pol_x_preferred":[
@@ -264,6 +268,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -277,6 +282,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":69.116956,
+    "reversegeo:longitude":-105.033315,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -322,14 +329,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864948,
+    "wof:lastmodified":1706239355,
     "wof:name":"Cambridge Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909295
+    ],
     "wof:tags":[]
 },
   "bbox": [

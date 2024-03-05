@@ -10,6 +10,7 @@
     "geom:latitude":50.697422,
     "geom:longitude":-127.439863,
     "iso:country":"CA",
+    "lbl:bbox":"-127.519980104,50.6970709423,-127.479980104,50.7370709423",
     "lbl:latitude":50.704698,
     "lbl:longitude":-127.446478,
     "lbl:max_zoom":18.0,
@@ -204,6 +205,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
     "qs:a0":"Canada",
     "qs:a1":"*British Columbia",
     "qs:a1_lc":"BC",
@@ -217,6 +219,8 @@
     "qs:pop":0,
     "qs:source":"NBC Gov",
     "qs:type":"MU",
+    "reversegeo:latitude":50.717071,
+    "reversegeo:longitude":-127.49998,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -238,6 +242,11 @@
         "wd:id":"Q655823",
         "wk:page":"Port Hardy"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q655823"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -254,14 +263,16 @@
         }
     ],
     "wof:id":101740801,
-    "wof:lastmodified":1690864655,
+    "wof:lastmodified":1706239364,
     "wof:name":"Port Hardy",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907955
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"-72.983499,45.452459,-72.808658,45.578354",
     "geom:latitude":45.513051,
     "geom:longitude":-72.898187,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"54008.0",
+    "gn:asciiname":"Saint-Pie",
+    "gn:country_code":"CA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6138916,
+    "gn:latitude":45.50277,
+    "gn:longitude":-72.9089,
+    "gn:modification_date":"2016-07-01",
+    "gn:name":"Saint-Pie",
     "gn:population":3034,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-72.9289,45.48277,-72.8889,45.52277",
     "lbl:latitude":45.521964,
     "lbl:longitude":-72.899482,
     "lbl:max_zoom":15.0,
@@ -118,6 +133,14 @@
         "wd:id":"Q141366",
         "wk:page":"Saint-Pie, Quebec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6138916
+        ],
+        "wk:page":[
+            "Saint-Pie,_Quebec"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +156,7 @@
         }
     ],
     "wof:id":101737121,
-    "wof:lastmodified":1690864313,
+    "wof:lastmodified":1706239361,
     "wof:name":"Saint-Pie",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",
@@ -141,7 +164,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327023687
+    ],
     "wof:tags":[]
 },
   "bbox": [

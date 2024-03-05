@@ -9,9 +9,22 @@
     "geom:bbox":"-82.352079,44.088967,-81.295782,44.656152",
     "geom:latitude":44.385005,
     "geom:longitude":-81.843052,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kincardine",
+    "gn:country_code":"CA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6942552,
     "gn:id":"5992144,6942552",
+    "gn:latitude":44.16644,
+    "gn:longitude":-81.60095,
+    "gn:modification_date":"2009-06-25",
+    "gn:name":"Kincardine",
     "gn:population":6725,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-81.62095,44.14644,-81.58095,44.18644",
     "lbl:latitude":44.384052,
     "lbl:longitude":-81.842217,
     "lbl:max_zoom":15.0,
@@ -137,6 +150,11 @@
         "wd:id":"Q3492582",
         "wk:page":"Kincardine, Ontario"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6942552
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":101736111,
-    "wof:lastmodified":1690864428,
+    "wof:lastmodified":1706239358,
     "wof:name":"Kincardine",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",
@@ -159,7 +177,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276141931
+    ],
     "wof:tags":[]
 },
   "bbox": [

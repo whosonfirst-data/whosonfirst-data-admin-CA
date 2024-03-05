@@ -9,8 +9,22 @@
     "geom:bbox":"-77.904486,44.950989,-77.629845,45.136335",
     "geom:latitude":45.046682,
     "geom:longitude":-77.753967,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bancroft",
+    "gn:country_code":"CA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5892509,
     "gn:id":"5892509,5892510",
+    "gn:latitude":45.05013,
+    "gn:longitude":-77.8495,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bancroft",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-77.8695,45.03013,-77.8295,45.07013",
     "lbl:latitude":45.058471,
     "lbl:longitude":-77.740435,
     "lbl:max_zoom":18.0,
@@ -106,6 +120,14 @@
         "wd:id":"Q1850051",
         "wk:page":"Bancroft, Ontario"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5892509
+        ],
+        "wk:page":[
+            "Bancroft%2C_Ontario"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -121,14 +143,16 @@
         }
     ],
     "wof:id":101735943,
-    "wof:lastmodified":1690864974,
+    "wof:lastmodified":1706239357,
     "wof:name":"Bancroft",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260376251
+    ],
     "wof:tags":[]
 },
   "bbox": [

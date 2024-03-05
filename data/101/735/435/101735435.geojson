@@ -10,6 +10,7 @@
     "geom:latitude":61.172508,
     "geom:longitude":-94.15102,
     "iso:country":"CA",
+    "lbl:bbox":"-94.0786067183,61.0885921112,-94.0386067183,61.1285921112",
     "lbl:latitude":61.209407,
     "lbl:longitude":-94.176395,
     "lbl:max_zoom":18.0,
@@ -246,6 +247,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -259,6 +261,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":61.108592,
+    "reversegeo:longitude":-94.058607,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -300,14 +304,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864958,
+    "wof:lastmodified":1706239354,
     "wof:name":"Arviat",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909301
+    ],
     "wof:tags":[]
 },
   "bbox": [

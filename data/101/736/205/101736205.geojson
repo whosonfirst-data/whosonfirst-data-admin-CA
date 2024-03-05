@@ -9,8 +9,22 @@
     "geom:bbox":"-80.925728,44.474555,-80.502095,44.881064",
     "geom:latitude":44.644746,
     "geom:longitude":-80.722248,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Meaford",
+    "gn:country_code":"CA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6071497,
     "gn:id":"6071496,6071497",
+    "gn:latitude":44.60725,
+    "gn:longitude":-80.61081,
+    "gn:modification_date":"2011-07-28",
+    "gn:name":"Meaford",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-80.63081,44.58725,-80.59081,44.62725",
     "lbl:latitude":44.646257,
     "lbl:longitude":-80.726344,
     "lbl:max_zoom":18.0,
@@ -116,7 +130,13 @@
     "wof:concordances":{
         "gn:id":6071496,
         "gp:id":4023,
-        "wd:id":"Q3492570"
+        "wd:id":"Q3492570",
+        "wk:page":"Meaford%2C_Ontario"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6071497
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"592127ba78f2eb27466530daedcc0286",
@@ -130,14 +150,16 @@
         }
     ],
     "wof:id":101736205,
-    "wof:lastmodified":1690864418,
+    "wof:lastmodified":1706239359,
     "wof:name":"Meaford",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360175369
+    ],
     "wof:tags":[]
 },
   "bbox": [

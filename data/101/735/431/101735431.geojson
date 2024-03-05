@@ -10,6 +10,7 @@
     "geom:latitude":63.331786,
     "geom:longitude":-90.772271,
     "iso:country":"CA",
+    "lbl:bbox":"-90.7200816261,63.3182902213,-90.6800816261,63.3582902213",
     "lbl:latitude":63.328285,
     "lbl:longitude":-90.789723,
     "lbl:max_zoom":18.0,
@@ -256,6 +257,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -269,6 +271,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":63.33829,
+    "reversegeo:longitude":-90.700082,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -292,6 +296,11 @@
         "wd:id":"Q1070783",
         "wk:page":"Chesterfield Inlet, Nunavut"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q1070783"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -310,14 +319,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864899,
+    "wof:lastmodified":1706239354,
     "wof:name":"Chesterfield Inlet",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909297
+    ],
     "wof:tags":[]
 },
   "bbox": [

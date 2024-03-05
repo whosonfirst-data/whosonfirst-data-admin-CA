@@ -17,6 +17,7 @@
     "geom:latitude":51.015129,
     "geom:longitude":-114.101745,
     "iso:country":"CA",
+    "lbl:bbox":"-114.106802908,51.0104227689,-114.096802908,51.0204227689",
     "lbl:latitude":51.015953,
     "lbl:longitude":-114.101733,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Altadore"
     ],
@@ -58,7 +62,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":23404851,
         "wd:id":"Q4063574"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q4063574"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"cebd800d6c96b5f1c81005b63ca3549e",
@@ -73,13 +83,15 @@
         }
     ],
     "wof:id":1108964209,
-    "wof:lastmodified":1690864100,
+    "wof:lastmodified":1706239378,
     "wof:name":"Altadore",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783997
+    ],
     "wof:tags":[]
 },
   "bbox": [

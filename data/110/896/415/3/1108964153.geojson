@@ -17,6 +17,7 @@
     "geom:latitude":51.051451,
     "geom:longitude":-114.010725,
     "iso:country":"CA",
+    "lbl:bbox":"-114.014986062,51.0463218288,-114.004986062,51.0563218288",
     "lbl:latitude":51.050608,
     "lbl:longitude":-114.009975,
     "lbl:max_zoom":18.0,
@@ -25,24 +26,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:deu_x_preferred":[
         "Mayland"
     ],
     "reversegeo:latitude":51.050608,
     "reversegeo:longitude":-114.009975,
     "src:geom":"can-calcai",
+    "wd:wordcount":11,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gp:id":23404006
+    },
     "wof:country":"CA",
     "wof:geomhash":"0719184b6b3ab607ff0dd97ce979b3c7",
     "wof:hierarchy":[
@@ -56,13 +63,15 @@
         }
     ],
     "wof:id":1108964153,
-    "wof:lastmodified":1577998159,
+    "wof:lastmodified":1706239376,
     "wof:name":"Mayland",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420783895
+    ],
     "wof:tags":[]
 },
   "bbox": [

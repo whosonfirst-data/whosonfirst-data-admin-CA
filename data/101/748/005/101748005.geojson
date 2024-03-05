@@ -10,6 +10,7 @@
     "geom:latitude":52.215086,
     "geom:longitude":-78.259155,
     "iso:country":"CA",
+    "lbl:bbox":"-78.5366909197,52.2133349804,-78.4966909197,52.2533349804",
     "lbl:latitude":52.212646,
     "lbl:longitude":-78.259221,
     "lbl:max_zoom":18.0,
@@ -198,6 +199,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
     "qs:a1_lc":"QC",
@@ -212,6 +214,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Land Claim",
+    "reversegeo:latitude":52.233335,
+    "reversegeo:longitude":-78.516691,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -231,6 +235,11 @@
         "wd:id":"Q3046584",
         "wk:page":"Eastmain, Quebec"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q3046584"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -246,14 +255,16 @@
         }
     ],
     "wof:id":101748005,
-    "wof:lastmodified":1690864793,
+    "wof:lastmodified":1706239369,
     "wof:name":"Eastmain",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906679
+    ],
     "wof:tags":[]
 },
   "bbox": [

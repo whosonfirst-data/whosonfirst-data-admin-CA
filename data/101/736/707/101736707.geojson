@@ -9,8 +9,24 @@
     "geom:bbox":"-75.503415,46.230313,-75.213165,46.525267",
     "geom:latitude":46.400286,
     "geom:longitude":-75.357134,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"79025.0",
+    "gn:asciiname":"Kiamika",
+    "gn:country_code":"CA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5991635,
     "gn:id":"5991635,5991638",
+    "gn:latitude":46.41871,
+    "gn:longitude":-75.3771,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiamika",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-75.3971,46.39871,-75.3571,46.43871",
     "lbl:latitude":46.437612,
     "lbl:longitude":-75.34725,
     "lbl:max_zoom":18.0,
@@ -82,8 +98,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":5991635,
         "gp:id":765,
-        "wd:id":"Q3196300"
+        "wd:id":"Q3196300",
+        "wk:page":"Kiamika%2C_Quebec"
     },
     "wof:country":"CA",
     "wof:geomhash":"a2cb712931133526353d651d2377196e",
@@ -97,14 +115,16 @@
         }
     ],
     "wof:id":101736707,
-    "wof:lastmodified":1690864392,
+    "wof:lastmodified":1706239360,
     "wof:name":"Kiamika",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344041179
+    ],
     "wof:tags":[]
 },
   "bbox": [

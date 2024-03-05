@@ -9,8 +9,23 @@
     "geom:bbox":"-73.466958,46.377202,-73.002797,46.889976",
     "geom:latitude":46.657761,
     "geom:longitude":-73.248545,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"51065.0",
+    "gn:asciiname":"Saint-Alexis-des-Monts",
+    "gn:country_code":"CA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257133,
+    "gn:latitude":46.46172,
+    "gn:longitude":-73.14423,
+    "gn:modification_date":"2016-09-16",
+    "gn:name":"Saint-Alexis-des-Monts",
     "gn:population":2015,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-73.16423,46.44172,-73.12423,46.48172",
     "lbl:latitude":46.662733,
     "lbl:longitude":-73.245076,
     "lbl:max_zoom":15.0,
@@ -93,6 +108,11 @@
         "wd:id":"Q3461718",
         "wk:page":"Saint-Alexis-des-Monts, Quebec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11257133
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"a8b2a582920e82384ddff3ec70faef85",
     "wof:hierarchy":[
@@ -105,7 +125,7 @@
         }
     ],
     "wof:id":101737321,
-    "wof:lastmodified":1690864371,
+    "wof:lastmodified":1706239362,
     "wof:name":"Saint-Alexis-des-Monts",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",
@@ -113,7 +133,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276975151
+    ],
     "wof:tags":[]
 },
   "bbox": [

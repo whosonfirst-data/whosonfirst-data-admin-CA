@@ -17,6 +17,7 @@
     "geom:latitude":50.917356,
     "geom:longitude":-114.084234,
     "iso:country":"CA",
+    "lbl:bbox":"-114.089064557,50.9125489739,-114.079064557,50.9225489739",
     "lbl:latitude":50.917682,
     "lbl:longitude":-114.084234,
     "lbl:max_zoom":18.0,
@@ -25,9 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
     "name:eng_x_preferred":[
         "Millrise"
     ],
@@ -46,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gp:id":26342814,
         "wd:id":"Q6859931"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q6859931"
+        ]
     },
     "wof:country":"CA",
     "wof:geomhash":"dcc9505d35cea9ee1ad15fa657e76d60",
@@ -61,14 +71,15 @@
         }
     ],
     "wof:id":1108964045,
-    "wof:lastmodified":1690864104,
+    "wof:lastmodified":1706239373,
     "wof:name":"Millrise",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1126082085
+        1126082085,
+        420784017
     ],
     "wof:tags":[]
 },

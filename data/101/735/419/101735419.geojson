@@ -11,6 +11,7 @@
     "geom:longitude":-133.002747,
     "gn:population":978,
     "iso:country":"CA",
+    "lbl:bbox":"-133.069201337,69.4347745935,-133.029201337,69.4747745935",
     "lbl:latitude":69.433306,
     "lbl:longitude":-133.002747,
     "lbl:max_zoom":17.0,
@@ -208,6 +209,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Northwest Territories",
     "qs:a1_lc":"NT",
@@ -222,6 +224,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":69.454775,
+    "reversegeo:longitude":-133.049201,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -247,6 +251,11 @@
         "wd:id":"Q719547",
         "wk:page":"Tuktoyaktuk"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q719547"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -266,7 +275,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864934,
+    "wof:lastmodified":1706239354,
     "wof:name":"Tuktoyaktuk",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",
@@ -274,7 +283,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909049
+    ],
     "wof:tags":[]
 },
   "bbox": [

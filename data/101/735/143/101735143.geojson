@@ -9,8 +9,22 @@
     "geom:bbox":"-64.696089,45.868714,-64.485981,46.07605",
     "geom:latitude":45.994838,
     "geom:longitude":-64.589375,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Memramcook",
+    "gn:country_code":"CA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6072045,
     "gn:id":"6072045,6072046",
+    "gn:latitude":46.00435,
+    "gn:longitude":-64.55156,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Memramcook",
+    "gn:population":0,
+    "gn:timezone":"America/Moncton",
     "iso:country":"CA",
+    "lbl:bbox":"-64.57156,45.98435,-64.53156,46.02435",
     "lbl:latitude":45.994299,
     "lbl:longitude":-64.590894,
     "lbl:max_zoom":18.0,
@@ -99,6 +113,14 @@
         "wd:id":"Q1956633",
         "wk:page":"Memramcook, New Brunswick"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6072045
+        ],
+        "wk:page":[
+            "Memramcook%2C_New_Brunswick"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -114,14 +136,16 @@
         }
     ],
     "wof:id":101735143,
-    "wof:lastmodified":1690864913,
+    "wof:lastmodified":1706239353,
     "wof:name":"Memramcook",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259708019
+    ],
     "wof:tags":[]
 },
   "bbox": [

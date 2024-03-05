@@ -9,9 +9,21 @@
     "geom:bbox":"-63.91418,44.49366,-63.91418,44.49366",
     "geom:latitude":44.49366,
     "geom:longitude":-63.91418,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Peggys Cove",
     "gn:country":"CA",
+    "gn:country_code":"CA",
+    "gn:dem":6,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6100559,
+    "gn:latitude":44.4929,
+    "gn:longitude":-63.91611,
+    "gn:modification_date":"2015-02-21",
+    "gn:name":"Peggys Cove",
     "gn:population":0,
+    "gn:timezone":"America/Halifax",
     "gp:adm0":23424775,
     "iso:country":"CA",
     "lbl:bbox":"-63.93418,44.47366,-63.89418,44.51366",
@@ -94,6 +106,14 @@
         "wd:id":"Q1021695",
         "wk:page":"Peggys Cove, Nova Scotia"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6100559
+        ],
+        "wk:page":[
+            "Peggys_Cove%2C_Nova_Scotia"
+        ]
+    },
     "wof:country":"CA",
     "wof:created":1469053128,
     "wof:geomhash":"6241876673bd210473a4f9fd5eeedda7",
@@ -107,14 +127,16 @@
         }
     ],
     "wof:id":890457239,
-    "wof:lastmodified":1690865229,
+    "wof:lastmodified":1706239370,
     "wof:name":"Peggys Cove",
     "wof:parent_id":890456491,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327455141
+    ],
     "wof:tags":[]
 },
   "bbox": [

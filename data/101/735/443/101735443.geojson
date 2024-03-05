@@ -10,6 +10,7 @@
     "geom:latitude":76.419242,
     "geom:longitude":-82.718337,
     "iso:country":"CA",
+    "lbl:bbox":"-82.9699862078,76.4216506136,-82.9299862078,76.4616506136",
     "lbl:latitude":76.413907,
     "lbl:longitude":-82.762571,
     "lbl:max_zoom":18.0,
@@ -264,6 +265,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Nunavut",
     "qs:a1_lc":"NU",
@@ -277,6 +279,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Hamlet",
+    "reversegeo:latitude":76.441651,
+    "reversegeo:longitude":-82.949986,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -301,6 +305,11 @@
         "wd:id":"Q276115",
         "wk:page":"Grise Fiord"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q276115"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -320,14 +329,16 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864938,
+    "wof:lastmodified":1706239355,
     "wof:name":"Grise Fiord",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909037
+    ],
     "wof:tags":[]
 },
   "bbox": [

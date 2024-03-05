@@ -9,8 +9,22 @@
     "geom:bbox":"-119.389036,50.634302,-119.181369,50.77121",
     "geom:latitude":50.700708,
     "geom:longitude":-119.287654,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Salmon Arm",
+    "gn:country_code":"CA",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6139417,
     "gn:id":"6139416,6139417",
+    "gn:latitude":50.69981,
+    "gn:longitude":-119.26907,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Salmon Arm",
+    "gn:population":0,
+    "gn:timezone":"America/Vancouver",
     "iso:country":"CA",
+    "lbl:bbox":"-119.28907,50.67981,-119.24907,50.71981",
     "lbl:latitude":50.694716,
     "lbl:longitude":-119.300113,
     "lbl:max_zoom":18.0,
@@ -185,7 +199,13 @@
         "gn:id":6139416,
         "gp:id":9692,
         "qs_pg:id":280208,
-        "wd:id":"Q3010939"
+        "wd:id":"Q3010939",
+        "wk:page":"Salmon_Arm"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6139417
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -202,14 +222,16 @@
         }
     ],
     "wof:id":101740835,
-    "wof:lastmodified":1690864619,
+    "wof:lastmodified":1706239364,
     "wof:name":"Salmon Arm",
     "wof:parent_id":890458427,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226051529
+    ],
     "wof:tags":[]
 },
   "bbox": [

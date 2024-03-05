@@ -9,8 +9,21 @@
     "geom:bbox":"-79.452109,45.949779,-79.232605,46.147808",
     "geom:latitude":46.046978,
     "geom:longitude":-79.350884,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Powassan",
+    "gn:country_code":"CA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6112529,
+    "gn:latitude":46.08239,
+    "gn:longitude":-79.36005,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Powassan",
     "gn:population":1243,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-79.38005,46.06239,-79.34005,46.10239",
     "lbl:latitude":46.049566,
     "lbl:longitude":-79.341997,
     "lbl:max_zoom":16.0,
@@ -90,7 +103,13 @@
         "gn:id":6112530,
         "gp:id":1275,
         "qs_pg:id":957236,
-        "wd:id":"Q280702"
+        "wd:id":"Q280702",
+        "wk:page":"Powassan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6112529
+        ]
     },
     "wof:country":"CA",
     "wof:geom_alt":[
@@ -107,7 +126,7 @@
         }
     ],
     "wof:id":101735497,
-    "wof:lastmodified":1690864894,
+    "wof:lastmodified":1706239355,
     "wof:name":"Powassan",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",
@@ -115,7 +134,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344252505
+    ],
     "wof:tags":[]
 },
   "bbox": [

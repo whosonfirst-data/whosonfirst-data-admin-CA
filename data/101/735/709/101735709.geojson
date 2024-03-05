@@ -9,7 +9,21 @@
     "geom:bbox":"-80.695478,46.017609,-80.139519,46.279184",
     "geom:latitude":46.147076,
     "geom:longitude":-80.479179,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"French River",
+    "gn:country_code":"CA",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5958107,
+    "gn:latitude":46.02234,
+    "gn:longitude":-80.57179,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"French River",
+    "gn:population":0,
+    "gn:timezone":"America/Toronto",
     "iso:country":"CA",
+    "lbl:bbox":"-80.59179,46.00234,-80.55179,46.04234",
     "lbl:latitude":46.149753,
     "lbl:longitude":-80.53477,
     "lbl:max_zoom":15.0,
@@ -99,6 +113,11 @@
         "wd:id":"Q3115831",
         "wk:page":"French River, Ontario"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            5958107
+        ]
+    },
     "wof:country":"CA",
     "wof:geomhash":"91f8192834e892103f6ec2feec0be477",
     "wof:hierarchy":[
@@ -111,7 +130,7 @@
         }
     ],
     "wof:id":101735709,
-    "wof:lastmodified":1690864872,
+    "wof:lastmodified":1706239357,
     "wof:name":"French River",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",
@@ -119,7 +138,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309705537
+    ],
     "wof:tags":[]
 },
   "bbox": [

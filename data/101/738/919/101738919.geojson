@@ -11,6 +11,7 @@
     "geom:longitude":-75.599865,
     "gn:population":13405,
     "iso:country":"CA",
+    "lbl:bbox":"-75.5200275082,46.5303743684,-75.4800275082,46.5703743684",
     "lbl:latitude":46.540123,
     "lbl:longitude":-75.596528,
     "lbl:max_zoom":15.0,
@@ -21,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0644\u0648\u0631\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
         "\u0645\u0648\u0646\u062a \u0644\u0648\u0631\u064a\u0644"
     ],
     "name:atj_x_preferred":[
@@ -217,6 +221,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Canada",
     "qs:a1":"*Quebec",
     "qs:a1_lc":"QC",
@@ -231,6 +236,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Ville",
+    "reversegeo:latitude":46.550374,
+    "reversegeo:longitude":-75.500028,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -253,6 +260,11 @@
         "wd:id":"Q142058",
         "wk:page":"Mont-Laurier"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q142058"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -269,7 +281,7 @@
         }
     ],
     "wof:id":101738919,
-    "wof:lastmodified":1690864594,
+    "wof:lastmodified":1706239364,
     "wof:name":"Mont-Laurier",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",
@@ -277,7 +289,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141908009
+    ],
     "wof:tags":[]
 },
   "bbox": [

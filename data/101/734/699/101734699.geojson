@@ -11,6 +11,7 @@
     "geom:longitude":-101.066673,
     "gn:id":"6062333,6062335",
     "iso:country":"CA",
+    "lbl:bbox":"-101.069966677,56.8300299267,-101.029966677,56.8700299267",
     "lbl:latitude":56.824231,
     "lbl:longitude":-101.066673,
     "lbl:max_zoom":18.0,
@@ -205,6 +206,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"Canada",
     "qs:a1":"*Manitoba",
     "qs:a1_lc":"MB",
@@ -218,6 +220,8 @@
     "qs:pop":0,
     "qs:source":"NCanada Census",
     "qs:type":"Town",
+    "reversegeo:latitude":56.85003,
+    "reversegeo:longitude":-101.049967,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -240,6 +244,11 @@
         "qs_pg:id":160296,
         "wd:id":"Q402571"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q402571"
+        ]
+    },
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -256,14 +265,16 @@
         }
     ],
     "wof:id":101734699,
-    "wof:lastmodified":1690864853,
+    "wof:lastmodified":1706239352,
     "wof:name":"Lynn Lake",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",
     "wof:population_rank":0,
     "wof:repo":"whosonfirst-data-admin-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141908737
+    ],
     "wof:tags":[]
 },
   "bbox": [
