@@ -81,17 +81,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868969
+        1158868969,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c00e18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5881868,
         "gp:id":2169,
+        "statcan:nid":"47d2eb50c6cd11d892e2080020a0f4c9",
         "wd:id":"Q619819",
         "wk:page":"Aberdeen, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ff6312f442f96de5d3e5074cbc7aded6",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864223,
+    "wof:lastmodified":1722051508,
     "wof:name":"Aberdeen",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

@@ -93,14 +93,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457893
+        890457893,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374279,
+        "statcan:nid":"0c62739c849c20c3abb50603f6899335",
         "wd:id":"Q7589251"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5fa99dc8e934a7ef48b242cd62cd88d2",
     "wof:hierarchy":[
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101735787,
-    "wof:lastmodified":1636414378,
+    "wof:lastmodified":1722051506,
     "wof:name":"St. Joseph",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

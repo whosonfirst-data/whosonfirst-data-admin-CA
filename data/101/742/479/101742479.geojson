@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
     "geom:area_square_m":1307987.259758,
-    "geom:bbox":"-102.4007992,50.752788,-102.3777931,50.7603105",
-    "geom:latitude":50.756551,
-    "geom:longitude":-102.389295,
+    "geom:bbox":"-102.400799,50.752788,-102.377793,50.760311",
+    "geom:latitude":50.756552,
+    "geom:longitude":-102.389294,
     "iso:country":"CA",
     "lbl:latitude":50.75655,
     "lbl:longitude":-102.389294,
@@ -17,7 +17,7 @@
     "mps:latitude":50.75655,
     "mps:longitude":-102.389294,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ochapowace I.R. 71-44"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373715
+        "gp:id":29373715,
+        "statcan:nid":"f74b266abbe211d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"0ceda9709d81740e7a7b4a46ac9e5fe3",
+    "wof:geomhash":"54e2391d87a8b617391bd3973483e3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101742479,
-    "wof:lastmodified":1566520011,
+    "wof:lastmodified":1722051447,
     "wof:name":"Ochapowace I.R. 71-44",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -102.4007992,
+    -102.400799,
     50.752788,
-    -102.37779310000002,
-    50.7603105
+    -102.377793,
+    50.760311
 ],
-  "geometry": {"coordinates":[[[-102.40079919999999,50.76006819999998],[-102.3893329,50.76018950000002],[-102.37779310000002,50.7603105],[-102.3778289,50.7530299],[-102.38929419999999,50.75290949999999],[-102.40075689999998,50.752788],[-102.40079919999999,50.76006819999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-102.40079900000001,50.760068],[-102.38933299999999,50.76019],[-102.377793,50.760311],[-102.37782900000001,50.75303],[-102.38929400000001,50.752909],[-102.400757,50.752788],[-102.40079900000001,50.760068]]],"type":"Polygon"}
 }

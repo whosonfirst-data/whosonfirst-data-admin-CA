@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
     "geom:area_square_m":644127.011948,
-    "geom:bbox":"-108.9788882,53.6133124,-108.9667388,53.6205672",
+    "geom:bbox":"-108.978888,53.613312,-108.966739,53.620567",
     "geom:latitude":53.61694,
     "geom:longitude":-108.972815,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":53.61694,
     "mps:longitude":-108.972815,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thunderchild First Nation Ir 115U"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":23403725
+        "gp:id":23403725,
+        "statcan:nid":"6c9ebc13849c20c344681c5e15ef7c2b"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"ad83a33271de07f3cbf7eae20dc6726d",
+    "wof:geomhash":"8679224b963a4a8b5634e71f5e4d21cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746209,
-    "wof:lastmodified":1566519839,
+    "wof:lastmodified":1722051440,
     "wof:name":"Thunderchild First Nation Ir 115U",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -108.97888819999997,
-    53.61331239999998,
-    -108.96673879999997,
-    53.62056719999998
+    -108.978888,
+    53.613312,
+    -108.966739,
+    53.620567
 ],
-  "geometry": {"coordinates":[[[-108.96673879999997,53.61331239999998],[-108.9788739,53.61332920000001],[-108.97888819999997,53.62056719999998],[-108.96676109999999,53.6205526],[-108.96673879999997,53.61331239999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-108.966739,53.613312],[-108.978874,53.613329],[-108.978888,53.620567],[-108.96676100000001,53.620553],[-108.966739,53.613312]]],"type":"Polygon"}
 }

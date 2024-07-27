@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456475
+        890456475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5921162,
         "gp:id":23396459,
+        "statcan:nid":"c337a05abbef11d892e2080020a0f4c9",
         "wd:id":"Q2963362",
         "wk:page":"Chichester, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8c3a9376298c1afbbfb15ae5cf71e7ff",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738489,
-    "wof:lastmodified":1690864572,
+    "wof:lastmodified":1722051523,
     "wof:name":"Chichester",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

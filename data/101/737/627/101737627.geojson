@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458017
+        890458017,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6066962,
         "gp:id":3590,
+        "statcan:nid":"36a282a7be3a11d892e2080020a0f4c9",
         "wd:id":"Q3295063",
         "wk:page":"Marsoui, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"750c4ecced570b1103c8cbf92a55a50a",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737627,
-    "wof:lastmodified":1690864286,
+    "wof:lastmodified":1722051510,
     "wof:name":"Marsoui",
     "wof:parent_id":890458017,
     "wof:placetype":"locality",

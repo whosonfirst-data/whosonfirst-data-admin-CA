@@ -453,8 +453,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -465,12 +465,14 @@
         "gn:id":6119109,
         "gp:id":2512,
         "qs_pg:id":160343,
+        "statcan:nid":"0c2c63fa849c20c37a6b935d6eea300f",
         "wd:id":"Q2123",
         "wk:page":"Regina, Saskatchewan"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1073184
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -490,7 +492,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864256,
+    "wof:lastmodified":1722051509,
     "wof:megacity":0,
     "wof:name":"Regina",
     "wof:parent_id":1158868963,

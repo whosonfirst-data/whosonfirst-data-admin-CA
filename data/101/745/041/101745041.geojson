@@ -76,14 +76,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373602,
+        "statcan:nid":"8f2c4bcfba3411d892e2080020a0f4c9",
         "wd:id":"Q316392"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a061d9a7e14a62bd0c5ce6e352b39a7d",
     "wof:hierarchy":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101745041,
-    "wof:lastmodified":1690864992,
+    "wof:lastmodified":1722051532,
     "wof:name":"Canim Lake 4",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

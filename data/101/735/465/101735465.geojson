@@ -279,8 +279,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869063
+        1158869063,
+        85682105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -288,6 +288,7 @@
         "gn:id":5969475,
         "gp:id":618,
         "qs_pg:id":975551,
+        "statcan:nid":"2fc77cfed05511d892e2080020a0f4c9",
         "wd:id":"Q1571291"
     },
     "wof:concordances_alt":{
@@ -295,6 +296,7 @@
             "Q1571291"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -314,7 +316,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1706239355,
+    "wof:lastmodified":1722051533,
     "wof:name":"Hall Beach",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

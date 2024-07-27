@@ -60,17 +60,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868987
+        1158868987,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c035b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6173385,
         "gp:id":2812,
+        "statcan:nid":"0c27ca33849c20c3b317fe29e9def316",
         "wd:id":"Q2205136",
         "wk:page":"Vanguard, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ced81cb9c4a461295ccca24c131a733f",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864179,
+    "wof:lastmodified":1722051506,
     "wof:name":"Vanguard",
     "wof:parent_id":1158868987,
     "wof:placetype":"locality",

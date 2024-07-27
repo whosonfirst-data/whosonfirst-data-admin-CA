@@ -60,15 +60,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457191
+        890457191,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374233,
         "qs_pg:id":1089183,
+        "statcan:nid":"0c62735c849c20c310a1714fa7e75592",
         "wd:id":"Q9324383"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101735621,
-    "wof:lastmodified":1690864881,
+    "wof:lastmodified":1722051527,
     "wof:name":"Ryerson",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

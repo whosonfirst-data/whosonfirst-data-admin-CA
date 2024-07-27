@@ -113,17 +113,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456537
+        890456537,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6111696,
         "gp:id":2709,
         "qs_pg:id":905432,
+        "statcan:nid":"11073512be4711d892e2080020a0f4c9",
         "wd:id":"Q141783",
         "wk:page":"Port-Cartier"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101737263,
-    "wof:lastmodified":1690864359,
+    "wof:lastmodified":1722051513,
     "wof:name":"Port-Cartier",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

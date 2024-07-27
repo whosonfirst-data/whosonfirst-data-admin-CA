@@ -119,17 +119,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457241
+        890457241,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7522147,
         "gp:id":3439,
         "qs_pg:id":905758,
+        "statcan:nid":"0ab34716be4d11d892e2080020a0f4c9",
         "wd:id":"Q141927",
         "wk:page":"Sainte-Anne-de-Beaupr\u00e9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4347c294cb2be68966c1920655f2c31c",
     "wof:hierarchy":[
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101736563,
-    "wof:lastmodified":1690864444,
+    "wof:lastmodified":1722051517,
     "wof:name":"Sainte-Anne-de-Beaupr\u00e9",
     "wof:parent_id":890457241,
     "wof:placetype":"locality",

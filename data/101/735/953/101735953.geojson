@@ -103,16 +103,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457573
+        890457573,
+        85682057
     ],
     "wof:breaches":[
         101740723
     ],
     "wof:concordances":{
         "gp:id":56625210,
+        "statcan:nid":"0c8ade7fd05311d892e2080020a0f4c9",
         "wd:id":"Q4116648"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"df69c212301f9cf6788bdff3bc10211c",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101735953,
-    "wof:lastmodified":1690864866,
+    "wof:lastmodified":1722051526,
     "wof:name":"Rideau Lakes",
     "wof:parent_id":890457573,
     "wof:placetype":"locality",

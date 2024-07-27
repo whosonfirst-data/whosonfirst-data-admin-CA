@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":9954.28048,
-    "geom:bbox":"-129.1796093,59.4193897,-129.1778425,59.4202902",
+    "geom:bbox":"-129.179609,59.41939,-129.177842,59.42029",
     "geom:latitude":59.41984,
     "geom:longitude":-129.178726,
     "iso:country":"CA",
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        1158868595
+        1158868595,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"96464aa9849c20c3d5ffe93f85d2d02d"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"31bbce956f17f2a9cc5183df75d46610",
+    "wof:geomhash":"e745901b2150ff598f62bf774d6d14a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101743775,
-    "wof:lastmodified":1566520004,
+    "wof:lastmodified":1722051495,
     "wof:name":"Dease River 2 (Dease)",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -129.17960929999998,
-    59.41938970000001,
-    -129.1778425,
-    59.42029020000001
+    -129.179609,
+    59.41939,
+    -129.177842,
+    59.42029
 ],
-  "geometry": {"coordinates":[[[-129.17960929999998,59.42028770000002],[-129.17784719999997,59.42029020000001],[-129.1778425,59.4193922],[-129.1796046,59.41938970000001],[-129.17960929999998,59.42028770000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-129.179609,59.420288],[-129.17784700000001,59.42029],[-129.177842,59.419392],[-129.17960500000001,59.41939],[-129.179609,59.420288]]],"type":"Polygon"}
 }

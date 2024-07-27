@@ -49,14 +49,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890457193
+        890457193,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373523,
+        "statcan:nid":"2f058260ba3611d892e2080020a0f4c9",
         "wd:id":"Q6693815"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"90322e63832c05af51536026ce972b4d",
     "wof:hierarchy":[
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":101745609,
-    "wof:lastmodified":1690864999,
+    "wof:lastmodified":1722051533,
     "wof:name":"Lower Similkameen 2",
     "wof:parent_id":890457193,
     "wof:placetype":"locality",

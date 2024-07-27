@@ -301,8 +301,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457575
+        890457575,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -310,9 +310,11 @@
         "gn:id":6128577,
         "gp:id":3263,
         "qs_pg:id":220000,
+        "statcan:nid":"0cf2f5aa849c20c3a4e992e6627a285c",
         "wd:id":"Q141804",
         "wk:page":"Rouyn-Noranda"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:coterminous":[
         890457575
     ],
@@ -334,7 +336,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864491,
+    "wof:lastmodified":1722051519,
     "wof:name":"Rouyn-Noranda",
     "wof:parent_id":890457575,
     "wof:placetype":"locality",

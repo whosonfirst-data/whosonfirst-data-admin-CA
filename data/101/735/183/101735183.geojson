@@ -66,8 +66,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1803,
+        "statcan:nid":"0c7fd03f849c20c3027475ef7f56bbc9",
         "wd:id":"Q3528181"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a0decc0a8671df04454d95c7e137d163",
     "wof:hierarchy":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101735183,
-    "wof:lastmodified":1690864965,
+    "wof:lastmodified":1722051531,
     "wof:name":"Tide Head",
     "wof:parent_id":85682065,
     "wof:placetype":"locality",

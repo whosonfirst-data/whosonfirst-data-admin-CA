@@ -100,14 +100,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458087
+        890458087,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373698,
+        "statcan:nid":"e74c74a9ba3511d892e2080020a0f4c9",
         "wd:id":"Q6170208"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8f9dbf2786228e725f742b641b219f33",
     "wof:hierarchy":[
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101742859,
-    "wof:lastmodified":1690864989,
+    "wof:lastmodified":1722051532,
     "wof:name":"Jean Baptiste 28",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

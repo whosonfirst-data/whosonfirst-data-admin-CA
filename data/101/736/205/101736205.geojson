@@ -121,8 +121,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456569
+        890456569,
+        85682057
     ],
     "wof:breaches":[
         101740715
@@ -130,6 +130,7 @@
     "wof:concordances":{
         "gn:id":6071496,
         "gp:id":4023,
+        "statcan:nid":"14cde386d05311d892e2080020a0f4c9",
         "wd:id":"Q3492570",
         "wk:page":"Meaford%2C_Ontario"
     },
@@ -138,6 +139,7 @@
             6071497
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"592127ba78f2eb27466530daedcc0286",
     "wof:hierarchy":[
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101736205,
-    "wof:lastmodified":1706239359,
+    "wof:lastmodified":1722051533,
     "wof:name":"Meaford",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",

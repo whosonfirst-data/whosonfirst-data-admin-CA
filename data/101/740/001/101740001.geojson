@@ -381,8 +381,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -390,9 +390,11 @@
         "gn:id":6179652,
         "gp:id":2901,
         "qs_pg:id":1197503,
+        "statcan:nid":"0cff49f0849c20c332cb8658295247fb",
         "wd:id":"Q1904554",
         "wk:page":"Weyburn"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -411,7 +413,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864622,
+    "wof:lastmodified":1722051524,
     "wof:name":"Weyburn",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

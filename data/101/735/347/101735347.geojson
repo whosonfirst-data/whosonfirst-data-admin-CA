@@ -81,16 +81,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890456317
+        890456317,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5941759,
         "gp:id":23392478,
+        "statcan:nid":"0c79e8f5849c20c34a62bb38506ab8a1",
         "wd:id":"Q3036985",
         "wk:page":"Dorchester, New Brunswick"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a7c16dd1c2719a33ab081bb98f657a95",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101735347,
-    "wof:lastmodified":1690864916,
+    "wof:lastmodified":1722051529,
     "wof:name":"Dorchester",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",

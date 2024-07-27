@@ -108,16 +108,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137587,
         "gp:id":23394498,
+        "statcan:nid":"0cd3078d849c20c3b4caeac4c316e584",
         "wd:id":"Q3461951",
         "wk:page":"Saint-Charles-de-Bourget, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1ee4fddb354f501d1409175658187b71",
     "wof:hierarchy":[
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101736833,
-    "wof:lastmodified":1690864417,
+    "wof:lastmodified":1722051516,
     "wof:name":"Saint-Charles-de-Bourget",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

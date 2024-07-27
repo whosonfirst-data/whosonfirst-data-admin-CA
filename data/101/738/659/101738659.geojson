@@ -106,15 +106,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458401
+        890458401,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8604651,
         "gp:id":3456,
+        "statcan:nid":"cf3db88ebe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461800"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"030f5253e0c892fce66c446640325e84",
     "wof:hierarchy":[
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101738659,
-    "wof:lastmodified":1690864530,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Apollinaire",
     "wof:parent_id":890458401,
     "wof:placetype":"locality",

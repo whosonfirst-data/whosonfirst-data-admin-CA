@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":4080.294355,
-    "geom:bbox":"-124.2137043,54.7732397,-124.212429,54.7739769",
+    "geom:bbox":"-124.213704,54.77324,-124.212429,54.773977",
     "geom:latitude":54.773608,
     "geom:longitude":-124.213067,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458087
+        890458087,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":23405550
+        "gp:id":23405550,
+        "statcan:nid":"53ae1f5bba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"8ef8bb1d3b19379a3918d4cd2bc4e911",
+    "wof:geomhash":"72be13b234e80dd36df992908bc2c008",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101745275,
-    "wof:lastmodified":1566520050,
+    "wof:lastmodified":1722051497,
     "wof:name":"Lhoh Cho 29",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -124.21370430000002,
-    54.77323969999998,
+    -124.213704,
+    54.77324,
     -124.212429,
-    54.7739769
+    54.773977
 ],
-  "geometry": {"coordinates":[[[-124.21370430000002,54.77378],[-124.2127696,54.7739769],[-124.212429,54.77343660000003],[-124.2133637,54.77323969999998],[-124.21370430000002,54.77378]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-124.21370400000001,54.77378],[-124.21277000000001,54.773977],[-124.212429,54.773437],[-124.213364,54.77324],[-124.21370400000001,54.77378]]],"type":"Polygon"}
 }

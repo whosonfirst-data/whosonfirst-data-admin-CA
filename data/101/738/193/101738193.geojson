@@ -133,8 +133,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456485
+        890456485,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,9 +142,11 @@
         "gn:id":5938513,
         "gp:id":1481,
         "qs_pg:id":1165030,
+        "statcan:nid":"8fc2d73ed1e011d892e2080020a0f4c9",
         "wd:id":"Q141943",
         "wk:page":"Deux-Montagnes, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864503,
+    "wof:lastmodified":1722051520,
     "wof:name":"Deux-Montagnes",
     "wof:parent_id":890456485,
     "wof:placetype":"locality",

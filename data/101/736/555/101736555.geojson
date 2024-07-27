@@ -162,14 +162,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456297
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5909629,
         "gp:id":173,
         "qs_pg:id":765569,
+        "statcan:nid":"096b53ff0a001204787887f0dafaea05",
         "wd:id":"Q139104",
         "wk:page":"Brossard"
     },
@@ -178,6 +179,7 @@
             5909628
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":101736555,
-    "wof:lastmodified":1706239360,
+    "wof:lastmodified":1722051534,
     "wof:name":"Brossard",
     "wof:parent_id":890456297,
     "wof:placetype":"locality",

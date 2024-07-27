@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56622685,
+        "statcan:nid":"9273fbf5ba3411d892e2080020a0f4c9",
         "wd:id":"Q7155864"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a89e201f34ce05dc7d524bd23a384220",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101746813,
-    "wof:lastmodified":1690864797,
+    "wof:lastmodified":1722051525,
     "wof:name":"Pavilion 1A",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

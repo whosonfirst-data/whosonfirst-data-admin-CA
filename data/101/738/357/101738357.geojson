@@ -106,14 +106,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458609
+        890458609,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1008,
+        "statcan:nid":"a6ec9dc9be5211d892e2080020a0f4c9",
         "wd:id":"Q3535575"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8a24b07376f9f8011dd4faf63ec6573b",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101738357,
-    "wof:lastmodified":1690864548,
+    "wof:lastmodified":1722051521,
     "wof:name":"Tourville",
     "wof:parent_id":890458609,
     "wof:placetype":"locality",

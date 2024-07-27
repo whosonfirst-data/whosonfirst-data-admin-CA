@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457821
+        890457821,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6544164,
         "gp:id":23396072,
+        "statcan:nid":"975d1222d1e311d892e2080020a0f4c9",
         "wd:id":"Q3462734",
         "wk:page":"Saint-Lazare-de-Bellechasse, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"77b908b0e9e8fdf2a940cd6cdb2db70d",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101738253,
-    "wof:lastmodified":1690864578,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Lazare-de-Bellechasse",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

@@ -64,15 +64,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458469
+        890458469,
+        85682057
     ],
     "wof:breaches":[
         101740767
     ],
     "wof:concordances":{
+        "statcan:nid":"951b9c77c6be11d892e2080020a0f4c9",
         "wd:id":"Q4081306"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"aeddbba43e84bca6bd228362e6747693",
     "wof:hierarchy":[
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101736209,
-    "wof:lastmodified":1690864467,
+    "wof:lastmodified":1722051518,
     "wof:name":"Beckwith",
     "wof:parent_id":890458469,
     "wof:placetype":"locality",

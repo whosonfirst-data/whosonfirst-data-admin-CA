@@ -86,17 +86,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890458105
+        890458105,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943599,
         "gp:id":3619,
         "qs_pg:id":239348,
+        "statcan:nid":"0c790441849c20c372a1125b476798c8",
         "wd:id":"Q5210864",
         "wk:page":"Dalhousie, New Brunswick"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101735363,
-    "wof:lastmodified":1690864874,
+    "wof:lastmodified":1722051527,
     "wof:name":"Dalhousie",
     "wof:parent_id":890458105,
     "wof:placetype":"locality",

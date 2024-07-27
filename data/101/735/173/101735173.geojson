@@ -74,17 +74,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890458001
+        890458001,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943718,
         "gp:id":1065,
         "qs_pg:id":1165033,
+        "statcan:nid":"0c7952f8849c20c383350956c51760c9",
         "wd:id":"Q3347001",
         "wk:page":"Neguac, New Brunswick"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101735173,
-    "wof:lastmodified":1690864907,
+    "wof:lastmodified":1722051528,
     "wof:name":"Neguac",
     "wof:parent_id":890458001,
     "wof:placetype":"locality",

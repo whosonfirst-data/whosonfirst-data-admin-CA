@@ -83,17 +83,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c03d34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6072816,
         "gp:id":2930,
+        "statcan:nid":"0c2e1f07849c20c3db996ef30d9ff9fe",
         "wd:id":"Q1915411",
         "wk:page":"Midale"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2fa735f704ecf985e48bee110866f827",
     "wof:hierarchy":[
@@ -109,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864214,
+    "wof:lastmodified":1722051508,
     "wof:name":"Midale",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

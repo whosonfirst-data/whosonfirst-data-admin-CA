@@ -73,16 +73,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457817
+        890457817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5972150,
         "gp:id":23395903,
+        "statcan:nid":"845614f0be2911d892e2080020a0f4c9",
         "wd:id":"Q3128698",
         "wk:page":"Havelock, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"89f58e04c3d1e09f9516c98ddb198991",
     "wof:hierarchy":[
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101738085,
-    "wof:lastmodified":1690864517,
+    "wof:lastmodified":1722051520,
     "wof:name":"Havelock",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

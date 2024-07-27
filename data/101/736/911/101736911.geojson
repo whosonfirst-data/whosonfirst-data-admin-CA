@@ -81,16 +81,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457567
+        890457567,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138055,
         "gp:id":1471,
         "qs_pg:id":271244,
+        "statcan:nid":"0cf09476849c20c3f228cc6386093226",
         "wd:id":"Q428466"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c3da82a40b6a0a587804904f390c4c15",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101736911,
-    "wof:lastmodified":1690864480,
+    "wof:lastmodified":1722051519,
     "wof:name":"Sainte-Monique",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

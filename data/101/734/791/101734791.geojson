@@ -92,17 +92,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869051
+        1158869051,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c02bbe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5886561,
         "gp:id":2567,
+        "statcan:nid":"37aefebcbedb11d892e2080020a0f4c9",
         "wd:id":"Q58615",
         "wk:page":"Arborg, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"344e31acad0456785af20f298f55499f",
     "wof:hierarchy":[
@@ -118,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864835,
+    "wof:lastmodified":1722051525,
     "wof:name":"Arborg",
     "wof:parent_id":1158869051,
     "wof:placetype":"locality",

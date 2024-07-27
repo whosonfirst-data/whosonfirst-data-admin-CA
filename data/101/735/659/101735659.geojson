@@ -58,14 +58,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23397713,
+        "statcan:nid":"443842dfc6ce11d892e2080020a0f4c9",
         "wd:id":"Q6801199"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"380ab1fbe42bd1a537c5e697c0dee72b",
     "wof:hierarchy":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101735659,
-    "wof:lastmodified":1690864902,
+    "wof:lastmodified":1722051528,
     "wof:name":"McGarry",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

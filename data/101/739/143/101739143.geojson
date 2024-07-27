@@ -87,8 +87,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868987
+        1158868987,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,9 +96,11 @@
         "gn:id":5965462,
         "gp:id":2815,
         "qs_pg:id":160256,
+        "statcan:nid":"0cfe368e849c20c348f7bb35b95f39cd",
         "wd:id":"Q994920",
         "wk:page":"Gravelbourg"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864215,
+    "wof:lastmodified":1722051508,
     "wof:name":"Gravelbourg",
     "wof:parent_id":1158868987,
     "wof:placetype":"locality",

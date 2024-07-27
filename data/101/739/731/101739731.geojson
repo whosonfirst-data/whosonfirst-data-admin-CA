@@ -72,17 +72,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c02920-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6175945,
         "gp:id":2526,
+        "statcan:nid":"0c2cf970849c20c3ce0d63796ee3c533",
         "wd:id":"Q1917505",
         "wk:page":"Wapella, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"65f5d4ee5b2c95317563dc67d1a825d8",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864184,
+    "wof:lastmodified":1722051506,
     "wof:name":"Wapella",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868983
+        1158868983,
+        85682113
     ],
     "wof:breaches":[
         101740477
@@ -55,8 +55,10 @@
         "fct:id":"03bd4124-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5921743,
         "gp:id":23403824,
+        "statcan:nid":"0ccfeb65d05511d892e2080020a0f4c9",
         "wd:id":"Q5105188"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f306b336960fdd83cb59f7eea55a8e27",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864258,
+    "wof:lastmodified":1722051509,
     "wof:name":"Chorney Beach",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

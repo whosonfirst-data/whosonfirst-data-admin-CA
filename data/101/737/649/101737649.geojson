@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458693
+        890458693,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138190,
         "gp:id":23396545,
+        "statcan:nid":"3843187dbe4d11d892e2080020a0f4c9",
         "wd:id":"Q785145",
         "wk:page":"Sainte-Victoire-de-Sorel, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2447ee2c3bd46d5680b8c442fc2b609b",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101737649,
-    "wof:lastmodified":1690864338,
+    "wof:lastmodified":1722051513,
     "wof:name":"Sainte-Victoire-de-Sorel",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

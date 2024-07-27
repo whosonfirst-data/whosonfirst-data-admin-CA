@@ -48,17 +48,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03b8a402-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5883657,
         "gp:id":23403818,
+        "statcan:nid":"0c327997849c20c33e20e5e371a4d7ce",
         "wd:id":"Q4725746",
         "wk:page":"Alice Beach, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7a9f320e1f20503acfd7d68142b86b2f",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864226,
+    "wof:lastmodified":1722051508,
     "wof:name":"Alice Beach",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

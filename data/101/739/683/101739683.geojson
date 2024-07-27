@@ -80,8 +80,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,9 +89,11 @@
         "gn:id":6170584,
         "gp:id":2087,
         "qs_pg:id":22785,
+        "statcan:nid":"53c2f33cc6cd11d892e2080020a0f4c9",
         "wd:id":"Q1917360",
         "wk:page":"Turtleford"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864238,
+    "wof:lastmodified":1722051508,
     "wof:name":"Turtleford",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

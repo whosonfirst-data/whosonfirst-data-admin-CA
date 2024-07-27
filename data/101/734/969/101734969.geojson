@@ -60,15 +60,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868941
+        1158868941,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5972961,
         "gp:id":23402823,
+        "statcan:nid":"769a1abebef711d892e2080020a0f4c9",
         "wd:id":"Q1660054"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"24309fe2f2ee1693b1ba0de83d2ba797",
     "wof:hierarchy":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101734969,
-    "wof:lastmodified":1690864849,
+    "wof:lastmodified":1722051526,
     "wof:name":"Headingley",
     "wof:parent_id":1158868941,
     "wof:placetype":"locality",

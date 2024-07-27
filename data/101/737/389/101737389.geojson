@@ -83,16 +83,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137864,
         "gp:id":23396519,
+        "statcan:nid":"15881b0ebe4d11d892e2080020a0f4c9",
         "wd:id":"Q3464445",
         "wk:page":"Sainte-\u00c9lisabeth, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"bf6e93c154fc0f66595bb73744ff15f1",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101737389,
-    "wof:lastmodified":1690864366,
+    "wof:lastmodified":1722051514,
     "wof:name":"Sainte-\u00c9lisabeth",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

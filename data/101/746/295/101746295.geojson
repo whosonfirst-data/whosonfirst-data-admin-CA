@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
     "geom:area_square_m":640826.272898,
-    "geom:bbox":"-102.2122762,50.4332421,-102.2010006,50.4404891",
+    "geom:bbox":"-102.212276,50.433242,-102.201001,50.440489",
     "geom:latitude":50.436863,
     "geom:longitude":-102.206644,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":50.436865,
     "mps:longitude":-102.206644,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ochapowace I.R. 71-108"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":23403684
+        "gp:id":23403684,
+        "statcan:nid":"6c9ebc08849c20c31bf334f5fb804a3c"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"bdd2b0f0dd7fe95351ec5ddc3a313e6b",
+    "wof:geomhash":"db9536bce7a557c81d9e9046ab9696e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746295,
-    "wof:lastmodified":1566519813,
+    "wof:lastmodified":1722051437,
     "wof:name":"Ochapowace I.R. 71-108",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -102.21227620000002,
-    50.43324209999997,
-    -102.20100059999999,
-    50.44048909999998
+    -102.212276,
+    50.433242,
+    -102.201001,
+    50.440489
 ],
-  "geometry": {"coordinates":[[[-102.20100059999999,50.43324209999997],[-102.21227620000002,50.43325979999997],[-102.21226940000003,50.44048909999998],[-102.20102850000001,50.44046750000001],[-102.20100059999999,50.43324209999997]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-102.20100100000001,50.433242],[-102.212276,50.43326],[-102.21226900000001,50.440489],[-102.20102900000001,50.440468],[-102.20100100000001,50.433242]]],"type":"Polygon"}
 }

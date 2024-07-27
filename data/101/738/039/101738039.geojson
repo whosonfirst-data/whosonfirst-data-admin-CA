@@ -123,16 +123,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456845
+        890456845,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5963552,
         "gp:id":56619732,
+        "statcan:nid":"7c43a531be1811d892e2080020a0f4c9",
         "wd:id":"Q3110947",
         "wk:page":"Gore, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"82076625745a6f857acbe142a764b449",
     "wof:hierarchy":[
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101738039,
-    "wof:lastmodified":1690864533,
+    "wof:lastmodified":1722051521,
     "wof:name":"Gore",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

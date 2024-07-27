@@ -61,14 +61,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456487
+        890456487,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":9848,
+        "statcan:nid":"fdc32fabba3511d892e2080020a0f4c9",
         "wd:id":"Q5281931"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9d00c6ea26e7c91f75d5bd0788ae5939",
     "wof:hierarchy":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101745561,
-    "wof:lastmodified":1690864990,
+    "wof:lastmodified":1722051532,
     "wof:name":"Discovery Island 3",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

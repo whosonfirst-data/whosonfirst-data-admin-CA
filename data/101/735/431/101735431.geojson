@@ -285,14 +285,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869045
+        1158869045,
+        85682105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c0a8d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5921048,
         "gp:id":4308,
+        "statcan:nid":"3d8e19b2d05511d892e2080020a0f4c9",
         "wd:id":"Q1070783",
         "wk:page":"Chesterfield Inlet, Nunavut"
     },
@@ -301,6 +302,7 @@
             "Q1070783"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -319,7 +321,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1706239354,
+    "wof:lastmodified":1722051533,
     "wof:name":"Chesterfield Inlet",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

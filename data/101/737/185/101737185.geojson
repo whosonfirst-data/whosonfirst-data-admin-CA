@@ -96,16 +96,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8593828,
         "gp:id":29374205,
         "qs_pg:id":1320567,
+        "statcan:nid":"0d0a3253849c20c36286ffe9ad29fb23",
         "wd:id":"Q985593"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101737185,
-    "wof:lastmodified":1690864376,
+    "wof:lastmodified":1722051514,
     "wof:name":"Deschambault-Grondines",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

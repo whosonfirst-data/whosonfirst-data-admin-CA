@@ -103,14 +103,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458103
+        890458103,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394654,
+        "statcan:nid":"96e13dbcbe2911d892e2080020a0f4c9",
         "wd:id":"Q3144527"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"217d63e501d4d97860f38aa642499f48",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101738245,
-    "wof:lastmodified":1690864512,
+    "wof:lastmodified":1722051520,
     "wof:name":"H\u00e9bertville-Station",
     "wof:parent_id":890458103,
     "wof:placetype":"locality",

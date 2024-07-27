@@ -119,17 +119,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456845
+        890456845,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6024829,
         "gp:id":3526,
         "qs_pg:id":898234,
+        "statcan:nid":"18152d1dd1e011d892e2080020a0f4c9",
         "wd:id":"Q142250",
         "wk:page":"Lachute"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101737423,
-    "wof:lastmodified":1690864287,
+    "wof:lastmodified":1722051510,
     "wof:name":"Lachute",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

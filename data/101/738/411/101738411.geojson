@@ -109,16 +109,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458693
+        890458693,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138847,
         "gp:id":1582,
+        "statcan:nid":"afa1deecbe4d11d892e2080020a0f4c9",
         "wd:id":"Q142405",
         "wk:page":"Saint-Ours, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"510164ee1ba498f450db1b9a6292c6b4",
     "wof:hierarchy":[
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101738411,
-    "wof:lastmodified":1690864567,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Ours",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

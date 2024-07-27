@@ -104,16 +104,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458611
+        890458611,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137804,
         "gp:id":23394520,
+        "statcan:nid":"11297bc4be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464239",
         "wk:page":"Sainte-C\u00e9cile-de-Whitton, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"884371d24e26cfeeb41e061d172f0a53",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101737363,
-    "wof:lastmodified":1690864273,
+    "wof:lastmodified":1722051510,
     "wof:name":"Sainte-C\u00e9cile-de-Whitton",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

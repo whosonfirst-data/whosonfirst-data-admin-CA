@@ -256,8 +256,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458397
+        890458397,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -265,9 +265,11 @@
         "gn:id":5987650,
         "gp:id":3502,
         "qs_pg:id":212972,
+        "statcan:nid":"0cb31b0c849c20c39d8386d7fc865ebc",
         "wd:id":"Q141760",
         "wk:page":"Joliette"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -286,7 +288,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864462,
+    "wof:lastmodified":1722051518,
     "wof:name":"Joliette",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

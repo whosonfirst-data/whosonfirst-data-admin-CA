@@ -72,16 +72,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457827
+        890457827,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139065,
         "gp:id":23395687,
         "qs_pg:id":492044,
+        "statcan:nid":"f87814b8d1e311d892e2080020a0f4c9",
         "wd:id":"Q3463379"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d28497c728dadba36bd385ea6d25cd57",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101738891,
-    "wof:lastmodified":1690864578,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Simon",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

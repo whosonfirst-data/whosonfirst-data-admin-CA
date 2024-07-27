@@ -50,14 +50,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868991
+        1158868991,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373411,
+        "statcan:nid":"9802b103bede11d892e2080020a0f4c9",
         "wd:id":"Q1658351"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"618de78fc9fa1580440333f29ce4c00d",
     "wof:hierarchy":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101735081,
-    "wof:lastmodified":1690864941,
+    "wof:lastmodified":1722051530,
     "wof:name":"Brenda",
     "wof:parent_id":1158868991,
     "wof:placetype":"locality",

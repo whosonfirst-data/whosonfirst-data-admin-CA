@@ -108,16 +108,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868967
+        1158868967,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c03e38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5883027,
         "gp:id":2943,
+        "statcan:nid":"0c2fd78b849c20c3f22927743be390e7",
         "wd:id":"Q704961"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"341e7e63b3d3d75e5ec2c7a613964f08",
     "wof:hierarchy":[
@@ -133,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864240,
+    "wof:lastmodified":1722051509,
     "wof:name":"Alameda",
     "wof:parent_id":1158868967,
     "wof:placetype":"locality",

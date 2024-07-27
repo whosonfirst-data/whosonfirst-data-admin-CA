@@ -49,16 +49,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456473
+        890456473,
+        85682057
     ],
     "wof:breaches":[
         101740729
     ],
     "wof:concordances":{
         "gp:id":29374237,
+        "statcan:nid":"0fead2a9d05311d892e2080020a0f4c9",
         "wd:id":"Q4978601"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"37e0e9211a7a4f5a392e11bc8b8f4f95",
     "wof:hierarchy":[
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101736183,
-    "wof:lastmodified":1690864484,
+    "wof:lastmodified":1722051519,
     "wof:name":"Brudenell, Lyndoch and Raglan",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

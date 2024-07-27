@@ -89,16 +89,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458021
+        890458021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bf0b30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6137407,
         "gp:id":29374160,
+        "statcan:nid":"cb0a47fabe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461766"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e46907c6604535fa1051066adc36263a",
     "wof:hierarchy":[
@@ -114,7 +116,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864522,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Andr\u00e9-du-Lac-Saint-Jean",
     "wof:parent_id":890458021,
     "wof:placetype":"locality",

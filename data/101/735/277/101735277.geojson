@@ -72,14 +72,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457755
+        890457755,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23392465,
+        "statcan:nid":"00eeeb13c6ce11d892e2080020a0f4c9",
         "wd:id":"Q3462174"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b49aca0de74dc9f63f5bc1b798109686",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735277,
-    "wof:lastmodified":1690864935,
+    "wof:lastmodified":1722051530,
     "wof:name":"Saint-Fran\u00e7ois de Madawaska",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

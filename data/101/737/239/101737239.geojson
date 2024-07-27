@@ -107,17 +107,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458689
+        890458689,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5927235,
         "gp:id":29374338,
         "qs_pg:id":1053461,
+        "statcan:nid":"0fdb6e1a849c20c303f80e27fafb9c71",
         "wd:id":"Q142239",
         "wk:page":"Cookshire-Eaton, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101737239,
-    "wof:lastmodified":1690864355,
+    "wof:lastmodified":1722051513,
     "wof:name":"Cookshire-Eaton",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

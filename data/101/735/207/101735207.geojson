@@ -84,16 +84,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890458685
+        890458685,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6071662,
         "gp:id":962,
+        "statcan:nid":"0c7e3a36849c20c32dd758da0aef7725",
         "wd:id":"Q1650758",
         "wk:page":"Meductic, New Brunswick"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"70339182ce05f350cc703a616dd18a74",
     "wof:hierarchy":[
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101735207,
-    "wof:lastmodified":1690864950,
+    "wof:lastmodified":1722051530,
     "wof:name":"Meductic",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

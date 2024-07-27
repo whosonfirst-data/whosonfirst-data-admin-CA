@@ -83,14 +83,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456817
+        890456817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3666,
+        "statcan:nid":"ba369c99be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463150"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"aeef51aa3f710b1814ac8f64bd08dfd0",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101738451,
-    "wof:lastmodified":1690864576,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Philippe-de-N\u00e9ri",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",

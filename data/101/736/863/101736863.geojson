@@ -118,17 +118,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457889
+        890457889,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137445,
         "gp:id":23394485,
         "qs_pg:id":203094,
+        "statcan:nid":"0cec0c21849c20c3bc0201ade4a2b50d",
         "wd:id":"Q3461803",
         "wk:page":"Saint-Armand, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e6fca8bbd39cee10ef6e424b5301d885",
     "wof:hierarchy":[
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":101736863,
-    "wof:lastmodified":1690864479,
+    "wof:lastmodified":1722051519,
     "wof:name":"Saint-Armand",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

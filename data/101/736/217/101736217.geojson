@@ -64,16 +64,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458399
+        890458399,
+        85682057
     ],
     "wof:breaches":[
         101740753
     ],
     "wof:concordances":{
         "gp:id":23400981,
+        "statcan:nid":"982e32f2c6be11d892e2080020a0f4c9",
         "wd:id":"Q9339808"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"489bd9d96bab05f06432773275c43d6e",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101736217,
-    "wof:lastmodified":1690864402,
+    "wof:lastmodified":1722051515,
     "wof:name":"South-West Oxford",
     "wof:parent_id":890458399,
     "wof:placetype":"locality",

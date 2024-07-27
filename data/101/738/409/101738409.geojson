@@ -92,14 +92,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456817
+        890456817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396887,
+        "statcan:nid":"aeb7d6dbd1e111d892e2080020a0f4c9",
         "wd:id":"Q3462209"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7e312abd7701c92df4808d6cea9c5f8d",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101738409,
-    "wof:lastmodified":1690864527,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Gabriel-Lalemant",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",

@@ -103,16 +103,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458115
+        890458115,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7290410,
         "gp:id":56620076,
+        "statcan:nid":"4abbca6ebe3311d892e2080020a0f4c9",
         "wd:id":"Q3236497",
         "wk:page":"Les \u00c9boulements"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0f9748ad60995a3ee3d04a48f7d508ef",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737745,
-    "wof:lastmodified":1690864372,
+    "wof:lastmodified":1722051514,
     "wof:name":"Les \u00c9boulements",
     "wof:parent_id":890458115,
     "wof:placetype":"locality",

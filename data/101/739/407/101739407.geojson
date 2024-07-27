@@ -92,16 +92,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868983
+        1158868983,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba7674-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5978029,
         "gp:id":2467,
+        "statcan:nid":"0cff00c5849c20c365dbe9ad18a3bdf3",
         "wd:id":"Q2003897"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1ef1e180a7c8678f07391bfeed1b2176",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864204,
+    "wof:lastmodified":1722051507,
     "wof:name":"Hubbard",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

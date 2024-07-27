@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1483.08819,
-    "geom:bbox":"-103.7972863,50.7677393,-103.7968247,50.7681505",
+    "geom:bbox":"-103.797286,50.767739,-103.796825,50.76815",
     "geom:latitude":50.767945,
-    "geom:longitude":-103.797055,
+    "geom:longitude":-103.797056,
     "iso:country":"CA",
     "lbl:latitude":50.767935,
     "lbl:longitude":-103.797017,
@@ -17,7 +17,7 @@
     "mps:latitude":50.767935,
     "mps:longitude":-103.797017,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Star Blanket I.R. 83B"
@@ -42,17 +42,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[
         101739921
     ],
     "wof:concordances":{
-        "gp:id":29373241
+        "gp:id":29373241,
+        "statcan:nid":"fcd94543bbe211d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"47a728e72f582a4d8a401801a9b42510",
+    "wof:geomhash":"cb61dfc8cea5886e323b66901b7d7c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101746331,
-    "wof:lastmodified":1566519803,
+    "wof:lastmodified":1722051436,
     "wof:name":"Star Blanket I.R. 83B",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",
@@ -74,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.7972863,
-    50.76773930000002,
-    -103.7968247,
-    50.7681505
+    -103.797286,
+    50.767739,
+    -103.796825,
+    50.76815
 ],
-  "geometry": {"coordinates":[[[-103.7970555,50.76773930000002],[-103.797286,50.76773930000002],[-103.7972863,50.76815040000002],[-103.79705569999999,50.76815040000002],[-103.796825,50.7681505],[-103.7968247,50.76773939999998],[-103.7970555,50.76773930000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-103.797055,50.767739],[-103.797286,50.767739],[-103.797286,50.76815],[-103.797056,50.76815],[-103.796825,50.76815],[-103.796825,50.767739],[-103.797055,50.767739]]],"type":"Polygon"}
 }

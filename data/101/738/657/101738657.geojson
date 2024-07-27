@@ -85,15 +85,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458541
+        890458541,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139037,
         "gp:id":23396605,
+        "statcan:nid":"cf39a436be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463326"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"86f34fedb010a4490cb0fbfd2e84ec34",
     "wof:hierarchy":[
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101738657,
-    "wof:lastmodified":1690864532,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Samuel",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

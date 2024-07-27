@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456677
+        890456677,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6049268,
         "gp:id":3253,
+        "statcan:nid":"c49a9754be3111d892e2080020a0f4c9",
         "wd:id":"Q3217100",
         "wk:page":"Landrienne, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f2f51359f1870623634ee27c26e1be7a",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101738525,
-    "wof:lastmodified":1690864592,
+    "wof:lastmodified":1722051523,
     "wof:name":"Landrienne",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

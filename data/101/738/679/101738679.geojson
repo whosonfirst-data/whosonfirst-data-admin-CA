@@ -82,15 +82,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458609
+        890458609,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10280512,
         "gp:id":23394486,
+        "statcan:nid":"d360603ebe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461811"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2d3879369871e1ef164b950ca2f5f582",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101738679,
-    "wof:lastmodified":1690864571,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Aubert",
     "wof:parent_id":890458609,
     "wof:placetype":"locality",

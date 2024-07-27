@@ -101,13 +101,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457829
+        890457829,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8672743,
         "gp:id":3460,
+        "statcan:nid":"0cf45c9d849c20c3b95abb1e5c4053cc",
         "wd:id":"Q770970"
     },
     "wof:concordances_alt":{
@@ -115,6 +116,7 @@
             10859991
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"42d59d8203b562c4bb77dfaa847ff838",
     "wof:hierarchy":[
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101736971,
-    "wof:lastmodified":1706239361,
+    "wof:lastmodified":1722051534,
     "wof:name":"Frampton",
     "wof:parent_id":890457829,
     "wof:placetype":"locality",

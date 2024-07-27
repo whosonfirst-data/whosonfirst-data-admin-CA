@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
     "geom:area_square_m":644391.404231,
-    "geom:bbox":"-131.3922042,58.135333,-131.3785375,58.1425607",
+    "geom:bbox":"-131.392204,58.135333,-131.378537,58.142561",
     "geom:latitude":58.138947,
     "geom:longitude":-131.38537,
     "iso:country":"CA",
@@ -49,16 +49,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        1158868595
+        1158868595,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405568,
+        "statcan:nid":"579a1b7cba3511d892e2080020a0f4c9",
         "wd:id":"Q7675579"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"8eb99a1edcaba6ecdce39d3c7ac3219f",
+    "wof:geomhash":"a7efc9a2a86484fa0f982ed93f2dd2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":101743391,
-    "wof:lastmodified":1566519985,
+    "wof:lastmodified":1722051490,
     "wof:name":"Upper Tahltan 4",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",
@@ -80,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -131.39220419999998,
+    -131.392204,
     58.135333,
-    -131.3785375,
-    58.1425607
+    -131.378537,
+    58.142561
 ],
-  "geometry": {"coordinates":[[[-131.39220419999998,58.1425587],[-131.3785398,58.1425607],[-131.37853749999999,58.13533489999998],[-131.39219910000003,58.135333],[-131.39220419999998,58.1425587]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-131.39220399999999,58.142559],[-131.37853999999999,58.142561],[-131.37853699999999,58.135335],[-131.39219900000001,58.135333],[-131.39220399999999,58.142559]]],"type":"Polygon"}
 }

@@ -68,8 +68,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,9 +77,11 @@
         "gn:id":5952703,
         "gp:id":2880,
         "qs_pg:id":33549,
+        "statcan:nid":"0cff02e9849c20c310249e1a1f1c636a",
         "wd:id":"Q2003279",
         "wk:page":"Fillmore, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -98,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864249,
+    "wof:lastmodified":1722051509,
     "wof:name":"Fillmore",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

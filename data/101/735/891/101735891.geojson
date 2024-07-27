@@ -96,15 +96,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456339
+        890456339,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374174,
         "qs_pg:id":991226,
+        "statcan:nid":"8d904db0c6be11d892e2080020a0f4c9",
         "wd:id":"Q3029963"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101735891,
-    "wof:lastmodified":1690864952,
+    "wof:lastmodified":1722051531,
     "wof:name":"Tay",
     "wof:parent_id":890456339,
     "wof:placetype":"locality",

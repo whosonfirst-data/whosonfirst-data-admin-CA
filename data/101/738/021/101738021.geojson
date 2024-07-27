@@ -383,8 +383,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884881
+        1158884881,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -392,9 +392,11 @@
         "gn:id":6169141,
         "gp:id":3474,
         "qs_pg:id":1140731,
+        "statcan:nid":"798fa74bbe5311d892e2080020a0f4c9",
         "wd:id":"Q44012",
         "wk:page":"Trois-Rivi\u00e8res"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -413,7 +415,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864573,
+    "wof:lastmodified":1722051523,
     "wof:name":"Trois-Rivi\u00e8res",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

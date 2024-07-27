@@ -85,14 +85,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457891
+        890457891,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394579,
+        "statcan:nid":"88308568be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462660"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"cd508d38ae1f38738334d7e3bf7fa250",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101738117,
-    "wof:lastmodified":1690864545,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Just-de-Breteni\u00e8res",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

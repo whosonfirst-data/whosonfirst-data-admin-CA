@@ -70,16 +70,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458025
+        890458025,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6119335,
         "gp:id":90102550,
+        "statcan:nid":"6d9369abbf9111d892e2080020a0f4c9",
         "wd:id":"Q3456083",
         "wk:page":"R\u00e9migny, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"282ea6219ee2cb53b82fdd0f81aa60ff",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101737957,
-    "wof:lastmodified":1690864321,
+    "wof:lastmodified":1722051512,
     "wof:name":"R\u00e9migny",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

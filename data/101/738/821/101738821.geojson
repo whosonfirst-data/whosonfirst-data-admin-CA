@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137719,
         "gp:id":23394512,
+        "statcan:nid":"ebc80348d1e111d892e2080020a0f4c9",
         "wd:id":"Q3464148",
         "wk:page":"Sainte-Ang\u00e8le-de-Pr\u00e9mont, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"df7465dbb09961b9600d38e0880e0ad0",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101738821,
-    "wof:lastmodified":1690864515,
+    "wof:lastmodified":1722051520,
     "wof:name":"Sainte-Ang\u00e8le-de-Pr\u00e9mont",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

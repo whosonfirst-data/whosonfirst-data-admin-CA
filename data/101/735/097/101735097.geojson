@@ -47,14 +47,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869003
+        1158869003,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402680,
+        "statcan:nid":"a6002518bef211d892e2080020a0f4c9",
         "wd:id":"Q1661599"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"07128c698442b12f7b3f8234f9cecee0",
     "wof:hierarchy":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101735097,
-    "wof:lastmodified":1690864901,
+    "wof:lastmodified":1722051528,
     "wof:name":"Stuartburn",
     "wof:parent_id":1158869003,
     "wof:placetype":"locality",

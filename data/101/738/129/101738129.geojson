@@ -75,15 +75,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394466,
         "qs_pg:id":949986,
+        "statcan:nid":"88a283e6bf8f11d892e2080020a0f4c9",
         "wd:id":"Q3433610"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738129,
-    "wof:lastmodified":1690864536,
+    "wof:lastmodified":1722051521,
     "wof:name":"Rivi\u00e8re-\u00c9ternit\u00e9",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

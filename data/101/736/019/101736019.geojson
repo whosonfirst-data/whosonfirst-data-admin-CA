@@ -84,8 +84,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456489
+        890456489,
+        85682057
     ],
     "wof:breaches":[
         101740719
@@ -93,9 +93,11 @@
     "wof:concordances":{
         "gn:id":6107761,
         "gp:id":1223,
+        "statcan:nid":"0c5f31cb849c20c3629e7ef50d419404",
         "wd:id":"Q4859882",
         "wk:page":"Point Edward, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1a39e6bc5658da455599ac359448fc98",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101736019,
-    "wof:lastmodified":1690864464,
+    "wof:lastmodified":1722051518,
     "wof:name":"Point Edward",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

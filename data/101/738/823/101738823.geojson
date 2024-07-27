@@ -107,17 +107,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456495
+        890456495,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6944112,
         "gp:id":3631,
         "qs_pg:id":959699,
+        "statcan:nid":"ec3b2f53be1211d892e2080020a0f4c9",
         "wd:id":"Q142345",
         "wk:page":"Forestville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101738823,
-    "wof:lastmodified":1690864563,
+    "wof:lastmodified":1722051522,
     "wof:name":"Forestville",
     "wof:parent_id":890456495,
     "wof:placetype":"locality",

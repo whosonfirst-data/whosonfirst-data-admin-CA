@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457821
+        890457821,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1594,
+        "statcan:nid":"b7bd1113be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463158"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c2aa8ae88bff3cf60146ef378e6d1b82",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101737309,
-    "wof:lastmodified":1690864262,
+    "wof:lastmodified":1722051509,
     "wof:name":"Saint-Phil\u00e9mon",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

@@ -174,8 +174,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,9 +183,11 @@
         "gn:id":6176226,
         "gp:id":2172,
         "qs_pg:id":264056,
+        "statcan:nid":"0c31fd20849c20c37e595e04e0e0235a",
         "wd:id":"Q1904521",
         "wk:page":"Warman, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -204,7 +206,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864216,
+    "wof:lastmodified":1722051508,
     "wof:name":"Warman",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

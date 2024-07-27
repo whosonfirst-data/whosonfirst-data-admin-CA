@@ -63,14 +63,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457189
+        890457189,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23392487,
+        "statcan:nid":"9b69b148c6cd11d892e2080020a0f4c9",
         "wd:id":"Q3462817"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0413878de55c3d3b321d3e8b94e0139a",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101735147,
-    "wof:lastmodified":1690864973,
+    "wof:lastmodified":1722051532,
     "wof:name":"Saint-L\u00e9olin",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

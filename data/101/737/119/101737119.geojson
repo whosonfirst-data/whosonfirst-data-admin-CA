@@ -110,17 +110,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458017
+        890458017,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137749,
         "gp:id":1442,
         "qs_pg:id":1244935,
+        "statcan:nid":"0d02ad9d849c20c33618a63a6bf41f2a",
         "wd:id":"Q51557",
         "wk:page":"Sainte-Anne-des-Monts, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101737119,
-    "wof:lastmodified":1690864314,
+    "wof:lastmodified":1722051511,
     "wof:name":"Sainte-Anne-des-Monts",
     "wof:parent_id":890458017,
     "wof:placetype":"locality",

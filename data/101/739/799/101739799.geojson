@@ -77,16 +77,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bd2b44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5931955,
         "gp:id":23402846,
+        "statcan:nid":"0cfef5ef849c20c3bdf8ddb3bf9e858d",
         "wd:id":"Q1999813"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a55b46f11a4c2fa9e9050915f7edfb97",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864177,
+    "wof:lastmodified":1722051506,
     "wof:name":"Craven",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

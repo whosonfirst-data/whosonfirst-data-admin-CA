@@ -128,17 +128,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458081
+        890458081,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5882142,
         "gp:id":3527,
         "qs_pg:id":160212,
+        "statcan:nid":"0ccee5e2849c20c34b811d8d26b6867f",
         "wd:id":"Q141960",
         "wk:page":"Acton Vale, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101736809,
-    "wof:lastmodified":1690864469,
+    "wof:lastmodified":1722051519,
     "wof:name":"Acton Vale",
     "wof:parent_id":890458081,
     "wof:placetype":"locality",

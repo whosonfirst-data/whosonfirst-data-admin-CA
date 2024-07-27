@@ -17,7 +17,7 @@
     "mps:latitude":45.781501,
     "mps:longitude":-66.167811,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u062c\u062a\u0648\u0646"
@@ -69,17 +69,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457807
+        890457807,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5958945,
         "gp:id":3707,
         "qs_pg:id":71751,
+        "statcan:nid":"0cf6e23d849c20c33b388b0564e929d6",
         "wd:id":"Q588931",
         "wk:page":"Gagetown, New Brunswick"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101735239,
-    "wof:lastmodified":1690864954,
+    "wof:lastmodified":1722051458,
     "wof:name":"Gagetown",
     "wof:parent_id":890457807,
     "wof:placetype":"locality",

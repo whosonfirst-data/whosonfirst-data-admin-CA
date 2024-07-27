@@ -154,14 +154,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458115
+        890458115,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1511,
+        "statcan:nid":"695a8a89be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462414"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a33f8b3aa9159c86035dfcdf0560bfa1",
     "wof:hierarchy":[
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101737937,
-    "wof:lastmodified":1690864269,
+    "wof:lastmodified":1722051510,
     "wof:name":"Saint-Hilarion",
     "wof:parent_id":890458115,
     "wof:placetype":"locality",

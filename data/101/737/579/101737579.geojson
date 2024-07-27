@@ -82,15 +82,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457567
+        890457567,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138064,
         "gp:id":23396535,
+        "statcan:nid":"2d7c9c64be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464391"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"cc3339b0511fa70647cac00066a19ac4",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101737579,
-    "wof:lastmodified":1690864370,
+    "wof:lastmodified":1722051514,
     "wof:name":"Sainte-Perp\u00e9tue",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

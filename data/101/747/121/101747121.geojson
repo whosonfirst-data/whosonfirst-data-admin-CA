@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
     "geom:area_square_m":483940.352425,
-    "geom:bbox":"-124.3324566,53.0872113,-124.3234398,53.094446",
+    "geom:bbox":"-124.332457,53.087211,-124.32344,53.094446",
     "geom:latitude":53.090829,
     "geom:longitude":-124.327949,
     "iso:country":"CA",
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"9091f566ba3411d892e2080020a0f4c9"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"a7b85d53ec5ccb3316158f4a1f0fc1b6",
+    "wof:geomhash":"9e052a37019060a72a5bc553d416f280",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101747121,
-    "wof:lastmodified":1566519678,
+    "wof:lastmodified":1722051472,
     "wof:name":"Bishop Bluffs 10",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -124.3324566,
-    53.08721129999998,
-    -124.32343980000002,
+    -124.332457,
+    53.087211,
+    -124.32344,
     53.094446
 ],
-  "geometry": {"coordinates":[[[-124.3324566,53.08721409999998],[-124.3324518,53.094446],[-124.32343980000002,53.0944437],[-124.32344649999999,53.08721129999998],[-124.3324566,53.08721409999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-124.33245700000001,53.087214],[-124.332452,53.094446],[-124.32344000000001,53.094444],[-124.323446,53.087211],[-124.33245700000001,53.087214]]],"type":"Polygon"}
 }

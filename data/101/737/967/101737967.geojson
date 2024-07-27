@@ -108,16 +108,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457731
+        890457731,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138398,
         "gp:id":23396559,
         "qs_pg:id":1164809,
+        "statcan:nid":"6e8d68bcbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462465"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"355a3d5540d6d0b6948b3d1c08483fd4",
     "wof:hierarchy":[
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101737967,
-    "wof:lastmodified":1690864327,
+    "wof:lastmodified":1722051512,
     "wof:name":"Saint-Isidore",
     "wof:parent_id":890457731,
     "wof:placetype":"locality",

@@ -181,16 +181,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        1158868591
+        1158868591,
+        85682117
     ],
     "wof:breaches":[
         101741019
     ],
     "wof:concordances":{
         "gp:id":12523344,
+        "statcan:nid":"0812f546ba3611d892e2080020a0f4c9",
         "wd:id":"Q1030509"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"08728cbf8898d2fe236d4f46e2a840b4",
     "wof:hierarchy":[
@@ -203,7 +205,7 @@
         }
     ],
     "wof:id":101747287,
-    "wof:lastmodified":1690864670,
+    "wof:lastmodified":1722051524,
     "wof:name":"Campbell River 11",
     "wof:parent_id":1158868591,
     "wof:placetype":"locality",

@@ -84,16 +84,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456497
+        890456497,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8629831,
         "gp:id":3615,
         "qs_pg:id":1079272,
+        "statcan:nid":"602e4958be4011d892e2080020a0f4c9",
         "wd:id":"Q3345150"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101737871,
-    "wof:lastmodified":1690864342,
+    "wof:lastmodified":1722051513,
     "wof:name":"Nouvelle",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",

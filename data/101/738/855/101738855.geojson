@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456397
+        890456397,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1425,
+        "statcan:nid":"f3ad1c73be4c11d892e2080020a0f4c9",
         "wd:id":"Q3461994"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e5aed202f7f5aa091b3b89ffa25793da",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101738855,
-    "wof:lastmodified":1690864583,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Cl\u00e9ment",
     "wof:parent_id":890456397,
     "wof:placetype":"locality",

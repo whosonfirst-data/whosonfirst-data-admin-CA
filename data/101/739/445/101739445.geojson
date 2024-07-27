@@ -65,17 +65,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868981
+        1158868981,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bd3f30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6154277,
         "gp:id":23403716,
+        "statcan:nid":"eff408abd05311d892e2080020a0f4c9",
         "wd:id":"Q1917066",
         "wk:page":"Springside, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c6025eab1d38280308e73c9b0f39ce69",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864239,
+    "wof:lastmodified":1722051509,
     "wof:name":"Springside",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

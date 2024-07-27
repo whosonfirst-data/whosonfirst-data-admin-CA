@@ -77,16 +77,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458687
+        890458687,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6086590,
         "gp:id":56619024,
+        "statcan:nid":"529be308c6ce11d892e2080020a0f4c9",
         "wd:id":"Q4859501",
         "wk:page":"Neebing, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d6de4d515de3570d6e139605ee5692e6",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101735821,
-    "wof:lastmodified":1690864884,
+    "wof:lastmodified":1722051527,
     "wof:name":"Neebing",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

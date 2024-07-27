@@ -54,8 +54,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456569
+        890456569,
+        85682057
     ],
     "wof:breaches":[
         101740715
@@ -63,8 +63,10 @@
     "wof:concordances":{
         "gp:id":29374547,
         "qs_pg:id":991229,
+        "statcan:nid":"14184f16d05311d892e2080020a0f4c9",
         "wd:id":"Q4116599"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101735939,
-    "wof:lastmodified":1690864869,
+    "wof:lastmodified":1722051526,
     "wof:name":"Georgian Bluffs",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",

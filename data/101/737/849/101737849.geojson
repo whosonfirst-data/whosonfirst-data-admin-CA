@@ -110,17 +110,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457225
+        890457225,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6064704,
         "gp:id":3273,
         "qs_pg:id":160300,
+        "statcan:nid":"5b298341be3911d892e2080020a0f4c9",
         "wd:id":"Q142566",
         "wk:page":"Malartic, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101737849,
-    "wof:lastmodified":1690864341,
+    "wof:lastmodified":1722051513,
     "wof:name":"Malartic",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

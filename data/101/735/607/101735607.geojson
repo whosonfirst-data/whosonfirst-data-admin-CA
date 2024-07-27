@@ -292,17 +292,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456473
+        890456473,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6100832,
         "gp:id":3316,
         "qs_pg:id":274726,
+        "statcan:nid":"6a5f5f5cc6cd11d892e2080020a0f4c9",
         "wd:id":"Q1075086",
         "wk:page":"Pembroke, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -318,7 +320,7 @@
         }
     ],
     "wof:id":101735607,
-    "wof:lastmodified":1690864958,
+    "wof:lastmodified":1722051531,
     "wof:name":"Pembroke",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

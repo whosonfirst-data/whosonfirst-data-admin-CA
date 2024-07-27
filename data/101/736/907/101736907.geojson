@@ -107,17 +107,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8379100,
         "gp:id":3445,
         "qs_pg:id":358357,
+        "statcan:nid":"0cf093b2849c20c30f66a49887c46466",
         "wd:id":"Q142313",
         "wk:page":"Pont-Rouge"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101736907,
-    "wof:lastmodified":1690864378,
+    "wof:lastmodified":1722051514,
     "wof:name":"Pont-Rouge",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

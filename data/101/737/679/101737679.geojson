@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456677
+        890456677,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6050461,
         "gp:id":3248,
+        "statcan:nid":"3db936a7be3211d892e2080020a0f4c9",
         "wd:id":"Q3218636",
         "wk:page":"Launay, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"da53f828758f31079d6d7f6bbaa06187",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737679,
-    "wof:lastmodified":1690864345,
+    "wof:lastmodified":1722051513,
     "wof:name":"Launay",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

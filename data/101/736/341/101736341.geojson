@@ -61,16 +61,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456473
+        890456473,
+        85682057
     ],
     "wof:breaches":[
         101740729
     ],
     "wof:concordances":{
         "gp:id":3352,
+        "statcan:nid":"142372a7d05311d892e2080020a0f4c9",
         "wd:id":"Q9372343"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"edec64a5e5df17575c679f8bbc16d80d",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101736341,
-    "wof:lastmodified":1690864425,
+    "wof:lastmodified":1722051517,
     "wof:name":"Whitewater Region",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

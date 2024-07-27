@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
     "geom:area_square_m":471617.794938,
-    "geom:bbox":"-108.3014462,52.9603273,-108.2897533,52.965767",
+    "geom:bbox":"-108.301446,52.960327,-108.289753,52.965767",
     "geom:latitude":52.963055,
     "geom:longitude":-108.295591,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":52.963054,
     "mps:longitude":-108.295592,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saulteaux I.R. 159Gg"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56622184
+        "gp:id":56622184,
+        "statcan:nid":"6c9ebc3c849c20c30e7c75939675f047"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"5e1cdb330df5f0c061237c1698281974",
+    "wof:geomhash":"b605e0001775ede5c4f4d0024127d5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746235,
-    "wof:lastmodified":1566519814,
+    "wof:lastmodified":1722051437,
     "wof:name":"Saulteaux I.R. 159Gg",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -108.30144619999999,
-    52.96032730000002,
-    -108.28975329999997,
+    -108.301446,
+    52.960327,
+    -108.289753,
     52.965767
 ],
-  "geometry": {"coordinates":[[[-108.30144619999999,52.96575910000001],[-108.28975329999997,52.965767],[-108.28975650000001,52.96032730000002],[-108.30144259999997,52.96036479999998],[-108.30144619999999,52.96575910000001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-108.301446,52.965759],[-108.289753,52.965767],[-108.28975699999999,52.960327],[-108.30144300000001,52.960365],[-108.301446,52.965759]]],"type":"Polygon"}
 }

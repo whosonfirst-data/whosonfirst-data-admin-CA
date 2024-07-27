@@ -137,14 +137,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868991
+        1158868991,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373405,
+        "statcan:nid":"1d2e7a0fbedb11d892e2080020a0f4c9",
         "wd:id":"Q1656516"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"354697bcb78a1e3879fd6f3a9dcb409b",
     "wof:hierarchy":[
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101735035,
-    "wof:lastmodified":1690864949,
+    "wof:lastmodified":1722051530,
     "wof:name":"Albert",
     "wof:parent_id":1158868991,
     "wof:placetype":"locality",

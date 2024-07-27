@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457569
+        890457569,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6169140,
         "gp:id":23395700,
+        "statcan:nid":"0cf5e45c849c20c3e52e2dc12a336ad1",
         "wd:id":"Q3539910",
         "wk:page":"Trois-Rives, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2380c5798312aadb07e54c70f768a739",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101737061,
-    "wof:lastmodified":1690864352,
+    "wof:lastmodified":1722051513,
     "wof:name":"Trois-Rives",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

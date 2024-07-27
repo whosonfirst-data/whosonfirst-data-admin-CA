@@ -107,8 +107,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458765
+        890458765,
+        85682057
     ],
     "wof:breaches":[
         101740759
@@ -116,9 +116,11 @@
     "wof:concordances":{
         "gn:id":6152244,
         "gp:id":29374662,
+        "statcan:nid":"f7147c1fd05211d892e2080020a0f4c9",
         "wd:id":"Q4397",
         "wk:page":"South Huron"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fc945729d0c75f3bde41a2e9601e62a6",
     "wof:hierarchy":[
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101736317,
-    "wof:lastmodified":1690864486,
+    "wof:lastmodified":1722051519,
     "wof:name":"South Huron",
     "wof:parent_id":890458765,
     "wof:placetype":"locality",

@@ -193,13 +193,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457889
+        890457889,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":94
+        "gp:id":94,
+        "statcan:nid":"15b9ff92bbe711d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3e6bd0e916e53c16608fc46cc614340c",
     "wof:hierarchy":[
@@ -212,7 +214,7 @@
         }
     ],
     "wof:id":101737393,
-    "wof:lastmodified":1636414336,
+    "wof:lastmodified":1722051506,
     "wof:name":"Bedford",
     "wof:parent_id":890457889,
     "wof:placetype":"locality",

@@ -78,14 +78,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457829
+        890457829,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394534,
+        "statcan:nid":"0cc4a705849c20c318db8fdc25055492",
         "wd:id":"Q3462113"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4ca163dda3aa24246afbc6974327b12f",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101736719,
-    "wof:lastmodified":1690864483,
+    "wof:lastmodified":1722051519,
     "wof:name":"Saint-Elz\u00e9ar",
     "wof:parent_id":890457829,
     "wof:placetype":"locality",

@@ -69,16 +69,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456313
+        890456313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8556281,
         "gp:id":23397049,
         "qs_pg:id":990072,
+        "statcan:nid":"0c6265bd849c20c332514b5a5c64002e",
         "wd:id":"Q4941782"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101735871,
-    "wof:lastmodified":1690864943,
+    "wof:lastmodified":1722051530,
     "wof:name":"Bonfield",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

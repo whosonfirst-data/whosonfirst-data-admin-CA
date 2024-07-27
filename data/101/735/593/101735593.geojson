@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56623859,
+        "statcan:nid":"0c6269cb849c20c3172736c950fcf5cf",
         "wd:id":"Q5416057"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"03011c0784500fe1ce700bc56c8b0399",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101735593,
-    "wof:lastmodified":1690864863,
+    "wof:lastmodified":1722051526,
     "wof:name":"Evanturel",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

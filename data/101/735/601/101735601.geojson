@@ -459,8 +459,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457247
+        890457247,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -468,6 +468,7 @@
         "gp:id":4145,
         "loc:id":"n79100813",
         "qs_pg:id":891452,
+        "statcan:nid":"11e5df85d05311d892e2080020a0f4c9",
         "wd:id":"Q202973",
         "wk:page":"Kingston, Ontario"
     },
@@ -476,6 +477,7 @@
             5992499
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -491,7 +493,7 @@
         }
     ],
     "wof:id":101735601,
-    "wof:lastmodified":1706239356,
+    "wof:lastmodified":1722051533,
     "wof:name":"Kingston",
     "wof:parent_id":890457247,
     "wof:placetype":"locality",

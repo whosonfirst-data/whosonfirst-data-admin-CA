@@ -156,16 +156,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457825
+        890457825,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5920089,
         "gp:id":266,
+        "statcan:nid":"48622911bbef11d892e2080020a0f4c9",
         "wd:id":"Q142017",
         "wk:page":"Charlemagne, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"dc33c26517fb7e9875d3284fab3cd880",
     "wof:hierarchy":[
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101737739,
-    "wof:lastmodified":1690864264,
+    "wof:lastmodified":1722051510,
     "wof:name":"Charlemagne",
     "wof:parent_id":890457825,
     "wof:placetype":"locality",

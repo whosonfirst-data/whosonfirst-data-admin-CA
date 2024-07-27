@@ -113,17 +113,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457735
+        890457735,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6944113,
         "gp:id":3635,
         "qs_pg:id":964476,
+        "statcan:nid":"5a6e281ebf1011d892e2080020a0f4c9",
         "wd:id":"Q141717",
         "wk:page":"Mont-Joli"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101737847,
-    "wof:lastmodified":1690864342,
+    "wof:lastmodified":1722051513,
     "wof:name":"Mont-Joli",
     "wof:parent_id":890457735,
     "wof:placetype":"locality",

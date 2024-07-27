@@ -95,13 +95,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456545
+        890456545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5964679,
         "gp:id":23395536,
+        "statcan:nid":"250bf3050a0012046a579efefd05f868",
         "wd:id":"Q537090",
         "wk:page":"Grand-Remous, Quebec"
     },
@@ -110,6 +111,7 @@
             11103138
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5149cb4ba4e17aeca8be30c638e45012",
     "wof:hierarchy":[
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101737511,
-    "wof:lastmodified":1706239362,
+    "wof:lastmodified":1722051534,
     "wof:name":"Grand-Remous",
     "wof:parent_id":890456545,
     "wof:placetype":"locality",

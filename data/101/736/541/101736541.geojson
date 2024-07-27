@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457827
+        890457827,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138727,
         "gp:id":23394591,
+        "statcan:nid":"07ae0a2cd1e211d892e2080020a0f4c9",
         "wd:id":"Q3462868",
         "wk:page":"Saint-Marcel-de-Richelieu, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"664dbbdcfdf149e6ee71d18ff7fbfa85",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101736541,
-    "wof:lastmodified":1690864486,
+    "wof:lastmodified":1722051519,
     "wof:name":"Saint-Marcel-de-Richelieu",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

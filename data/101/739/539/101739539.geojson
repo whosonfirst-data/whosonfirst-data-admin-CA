@@ -68,17 +68,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c171f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5898304,
         "gp:id":23402830,
+        "statcan:nid":"0cfeb7b5849c20c34bd6f279d75acd93",
         "wd:id":"Q1909386",
         "wk:page":"Bengough, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2f12ba609723b80ceddd01114a860c90",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864221,
+    "wof:lastmodified":1722051508,
     "wof:name":"Bengough",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

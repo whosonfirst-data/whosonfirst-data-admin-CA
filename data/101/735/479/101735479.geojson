@@ -291,8 +291,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869063
+        1158869063,
+        85682105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -300,6 +300,7 @@
         "gn:id":5886735,
         "gp:id":4319,
         "qs_pg:id":1053433,
+        "statcan:nid":"0c76148c849c20c3b81330365b822f33",
         "wd:id":"Q638017",
         "wk:page":"Arctic Bay"
     },
@@ -311,6 +312,7 @@
             "Q638017"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -330,7 +332,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1706239355,
+    "wof:lastmodified":1722051533,
     "wof:name":"Arctic Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

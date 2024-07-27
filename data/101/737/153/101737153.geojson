@@ -103,8 +103,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,8 +112,10 @@
         "gn:id":6067547,
         "gp:id":3484,
         "qs_pg:id":898228,
+        "statcan:nid":"0d091e2e849c20c31f35580039dc39b9",
         "wd:id":"Q3297288"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -132,7 +134,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864317,
+    "wof:lastmodified":1722051511,
     "wof:name":"Maskinong\u00e9",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

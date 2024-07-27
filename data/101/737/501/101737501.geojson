@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456475
+        890456475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5923112,
         "gp:id":23395473,
+        "statcan:nid":"250ad6080a001204731910a52467a861",
         "wd:id":"Q2975590",
         "wk:page":"Clarendon, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f35438b49fe69dcd996211f094768292",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101737501,
-    "wof:lastmodified":1642551831,
+    "wof:lastmodified":1722051506,
     "wof:name":"Clarendon",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

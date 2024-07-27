@@ -76,13 +76,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457169
+        890457169,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6176654,
         "gp:id":23394720,
+        "statcan:nid":"363fadb4ffb111dda89a080020a0f4c9",
         "wd:id":"Q3566580",
         "wk:page":"Waswanipi, Quebec"
     },
@@ -94,6 +95,7 @@
             "Waswanipi%2C_Quebec"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"293e111886f0cc928ab5b3533154843f",
     "wof:hierarchy":[
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101747849,
-    "wof:lastmodified":1706239368,
+    "wof:lastmodified":1722051535,
     "wof:name":"Waswanipi",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

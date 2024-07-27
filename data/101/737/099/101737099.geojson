@@ -83,14 +83,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456495
+        890456495,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23395596,
+        "statcan:nid":"0cf7877b849c20c324603b16842f5251",
         "wd:id":"Q3230999"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ae55a4a2563822ebfb0014f0ee6193e4",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101737099,
-    "wof:lastmodified":1690864296,
+    "wof:lastmodified":1722051511,
     "wof:name":"Les Bergeronnes",
     "wof:parent_id":890456495,
     "wof:placetype":"locality",

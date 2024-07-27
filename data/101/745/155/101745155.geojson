@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
     "geom:area_square_m":645534.158103,
-    "geom:bbox":"-123.8494672,52.9856441,-123.8373521,52.9929529",
+    "geom:bbox":"-123.849467,52.985644,-123.837352,52.992953",
     "geom:latitude":52.989299,
     "geom:longitude":-123.843408,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56811364
+        "gp:id":56811364,
+        "statcan:nid":"9125f80fba3411d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"4acf03be4bef55fdb3572c5302f9980f",
+    "wof:geomhash":"b71b571a1b27ac196e73be9a39666606",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101745155,
-    "wof:lastmodified":1566520060,
+    "wof:lastmodified":1722051499,
     "wof:name":"Coglistiko River 29",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.8494672,
-    52.9856441,
-    -123.83735209999998,
-    52.99295289999998
+    -123.849467,
+    52.985644,
+    -123.837352,
+    52.992953
 ],
-  "geometry": {"coordinates":[[[-123.84946720000001,52.9928769],[-123.83747549999998,52.99295289999998],[-123.83735209999998,52.98572],[-123.8493388,52.9856441],[-123.84946720000001,52.9928769]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-123.849467,52.992877],[-123.837475,52.992953],[-123.837352,52.98572],[-123.849339,52.985644],[-123.849467,52.992877]]],"type":"Polygon"}
 }

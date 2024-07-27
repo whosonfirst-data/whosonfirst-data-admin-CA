@@ -83,16 +83,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138587,
         "gp:id":23396570,
+        "statcan:nid":"a1ef4944d1e111d892e2080020a0f4c9",
         "wd:id":"Q3462655",
         "wk:page":"Saint-Julien, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9e0d524421edcc951eecaa9bb8692631",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101738329,
-    "wof:lastmodified":1690864589,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Julien",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

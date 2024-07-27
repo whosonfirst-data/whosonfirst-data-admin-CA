@@ -70,8 +70,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868939
+        1158868939,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,9 +79,11 @@
         "gn:id":6065191,
         "gp:id":3029,
         "qs_pg:id":1053518,
+        "statcan:nid":"5874f99cbeec11d892e2080020a0f4c9",
         "wd:id":"Q312066",
         "wk:page":"Manitou, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864910,
+    "wof:lastmodified":1722051529,
     "wof:name":"Manitou",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

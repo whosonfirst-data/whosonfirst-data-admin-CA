@@ -122,16 +122,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6077251,
         "gp:id":1017,
+        "statcan:nid":"014dba1c0a00120454c827e2a675cfb9",
         "wd:id":"Q139040",
         "wk:page":"Montr\u00e9al-Est, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101736479,
-    "wof:lastmodified":1690864401,
+    "wof:lastmodified":1722051515,
     "wof:name":"Montreal-Est",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

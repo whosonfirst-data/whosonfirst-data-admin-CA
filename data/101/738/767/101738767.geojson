@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458115
+        890458115,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3426,
+        "statcan:nid":"de60e263be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463461"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"90da1e7e93af54eeee266af99938e875",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101738767,
-    "wof:lastmodified":1690864549,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Urbain",
     "wof:parent_id":890458115,
     "wof:placetype":"locality",

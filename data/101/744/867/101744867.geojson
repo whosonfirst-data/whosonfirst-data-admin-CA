@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":9630,
+        "statcan:nid":"77347903ba3511d892e2080020a0f4c9",
         "wd:id":"Q8565017"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"51435950417a7ea8e15f368d8d487720",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101744867,
-    "wof:lastmodified":1690864978,
+    "wof:lastmodified":1722051532,
     "wof:name":"Fountain 9",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

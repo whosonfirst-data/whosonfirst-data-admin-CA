@@ -351,8 +351,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457835
+        890457835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -360,9 +360,11 @@
         "gn:id":6146143,
         "gp:id":3547,
         "qs_pg:id":1053572,
+        "statcan:nid":"9e0a04b5be4f11d892e2080020a0f4c9",
         "wd:id":"Q139473",
         "wk:page":"Sherbrooke"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:coterminous":[
         890457835
     ],
@@ -384,7 +386,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864513,
+    "wof:lastmodified":1722051520,
     "wof:name":"Sherbrooke",
     "wof:parent_id":890457835,
     "wof:placetype":"locality",

@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456845
+        890456845,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6178103,
         "gp:id":23396673,
+        "statcan:nid":"cae43f59bf0411d892e2080020a0f4c9",
         "wd:id":"Q3567288",
         "wk:page":"Wentworth, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b5f65a524b858659a8e9ffbec4d37197",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101738599,
-    "wof:lastmodified":1690864550,
+    "wof:lastmodified":1722051522,
     "wof:name":"Wentworth",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

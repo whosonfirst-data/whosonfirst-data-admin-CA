@@ -126,17 +126,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457731
+        890457731,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137633,
         "gp:id":23396700,
         "qs_pg:id":1182836,
+        "statcan:nid":"f5f3ff3abe4c11d892e2080020a0f4c9",
         "wd:id":"Q142064",
         "wk:page":"Saint-Constant, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"eeb7d31a850e2f952e90b010a84f32d5",
     "wof:hierarchy":[
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":101738869,
-    "wof:lastmodified":1690864527,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Constant",
     "wof:parent_id":890457731,
     "wof:placetype":"locality",

@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457817
+        890457817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5943997,
         "gp:id":23394886,
+        "statcan:nid":"763e548dbe1011d892e2080020a0f4c9",
         "wd:id":"Q3041280",
         "wk:page":"Dundee, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6c7f0552d9dbc71347ef340dbff7e9dd",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101738003,
-    "wof:lastmodified":1690864573,
+    "wof:lastmodified":1722051523,
     "wof:name":"Dundee",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

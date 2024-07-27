@@ -106,14 +106,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458103
+        890458103,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1577,
+        "statcan:nid":"df969aa6d1e311d892e2080020a0f4c9",
         "wd:id":"Q3463040"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a8a10081c5beb3ece41d2bf240928533",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101738777,
-    "wof:lastmodified":1690864543,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Nazaire",
     "wof:parent_id":890458103,
     "wof:placetype":"locality",

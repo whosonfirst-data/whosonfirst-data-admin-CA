@@ -112,16 +112,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456817
+        890456817,
+        136251273
     ],
     "wof:breaches":[
         101738899
     ],
     "wof:concordances":{
         "gp:id":1441,
+        "statcan:nid":"0aba9a17be4d11d892e2080020a0f4c9",
         "wd:id":"Q2075997"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"68aa74a683f3fc8445937e2fe32fb420",
     "wof:hierarchy":[
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101736565,
-    "wof:lastmodified":1690864449,
+    "wof:lastmodified":1722051518,
     "wof:name":"Sainte-Anne-de-la-Pocati\u00e8re",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",

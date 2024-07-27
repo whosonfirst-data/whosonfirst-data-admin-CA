@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457735
+        890457735,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23395548,
+        "statcan:nid":"054ca5bdd1e311d892e2080020a0f4c9",
         "wd:id":"Q3233158"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6cccccd2e189c85da070984a7c5b8be3",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101736515,
-    "wof:lastmodified":1690864493,
+    "wof:lastmodified":1722051520,
     "wof:name":"Les Hauteurs",
     "wof:parent_id":890457735,
     "wof:placetype":"locality",

@@ -87,16 +87,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457569
+        890457569,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139061,
         "gp:id":23395686,
+        "statcan:nid":"d401b3a5be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463430",
         "wk:page":"Saint-S\u00e9verin, Mauricie, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"679677f64e5da4f98b134430eb2643a6",
     "wof:hierarchy":[
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101738681,
-    "wof:lastmodified":1690864507,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-S\u00e9verin",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

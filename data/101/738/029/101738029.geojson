@@ -136,14 +136,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394575,
+        "statcan:nid":"7b5978cfbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462522"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0deb679eaca5c4eecf28a81eb35649c7",
     "wof:hierarchy":[
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":101738029,
-    "wof:lastmodified":1690864566,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Jean-de-Br\u00e9beuf",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

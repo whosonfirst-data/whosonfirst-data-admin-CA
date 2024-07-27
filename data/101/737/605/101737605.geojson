@@ -146,17 +146,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457823
+        890457823,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138121,
         "gp:id":23396685,
         "qs_pg:id":1036963,
+        "statcan:nid":"31e351fdbe4d11d892e2080020a0f4c9",
         "wd:id":"Q142087",
         "wk:page":"Sainte-Th\u00e9r\u00e8se, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":101737605,
-    "wof:lastmodified":1690864292,
+    "wof:lastmodified":1722051511,
     "wof:name":"Sainte-Th\u00e9r\u00e8se",
     "wof:parent_id":890457823,
     "wof:placetype":"locality",

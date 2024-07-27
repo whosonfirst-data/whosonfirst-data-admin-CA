@@ -64,13 +64,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457169
+        890457169,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6087000,
         "gp:id":23394717,
+        "statcan:nid":"0474b3f410664779961a2ffe7481218f",
         "wd:id":"Q3337986",
         "wk:page":"Nemiscau%2C_Quebec"
     },
@@ -79,6 +80,7 @@
             6086999
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1e003e9f3ffa28a48324ce9a63b66878",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101747985,
-    "wof:lastmodified":1706239369,
+    "wof:lastmodified":1722051535,
     "wof:name":"Nemiscau",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

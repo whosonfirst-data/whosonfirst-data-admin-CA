@@ -93,16 +93,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457203
+        890457203,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5991635,
         "gp:id":765,
+        "statcan:nid":"0cc3d3c4849c20c3ac435889bb968c0e",
         "wd:id":"Q3196300",
         "wk:page":"Kiamika%2C_Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a2cb712931133526353d651d2377196e",
     "wof:hierarchy":[
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101736707,
-    "wof:lastmodified":1706239360,
+    "wof:lastmodified":1722051534,
     "wof:name":"Kiamika",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",

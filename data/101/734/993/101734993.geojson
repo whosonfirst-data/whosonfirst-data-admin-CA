@@ -101,14 +101,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868929
+        1158868929,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373395,
+        "statcan:nid":"6d73f918bee311d892e2080020a0f4c9",
         "wd:id":"Q1659931"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"edd4369da61b5f8c5eaddf903b25bf39",
     "wof:hierarchy":[
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101734993,
-    "wof:lastmodified":1690864848,
+    "wof:lastmodified":1722051526,
     "wof:name":"Grey",
     "wof:parent_id":1158868929,
     "wof:placetype":"locality",

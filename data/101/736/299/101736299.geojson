@@ -93,8 +93,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456489
+        890456489,
+        85682057
     ],
     "wof:breaches":[
         101740719
@@ -103,9 +103,11 @@
         "gn:id":6176902,
         "gp:id":23397385,
         "qs_pg:id":326085,
+        "statcan:nid":"95ac6ad5c6be11d892e2080020a0f4c9",
         "wd:id":"Q7971093",
         "wk:page":"Warwick, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101736299,
-    "wof:lastmodified":1690864479,
+    "wof:lastmodified":1722051519,
     "wof:name":"Warwick",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

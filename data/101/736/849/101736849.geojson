@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456849
+        890456849,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5967373,
         "gp:id":23394379,
+        "statcan:nid":"0cebbaa3849c20c3778fa849d8120186",
         "wd:id":"Q3116963",
         "wk:page":"Gros-M\u00e9catina, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c25c127e68927c13ed4d07b74a14d356",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101736849,
-    "wof:lastmodified":1690864459,
+    "wof:lastmodified":1722051518,
     "wof:name":"Gros-M\u00e9catina",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

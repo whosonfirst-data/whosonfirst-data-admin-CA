@@ -97,13 +97,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456469
+        890456469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138802,
         "gp:id":3451,
+        "statcan:nid":"f7ecb342bf9011d892e2080020a0f4c9",
         "wd:id":"Q3462998"
     },
     "wof:concordances_alt":{
@@ -111,6 +112,7 @@
             6138804
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"77443d54e5f0d3e2481f26a0459fad05",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101738887,
-    "wof:lastmodified":1706239364,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Michel-des-Saints",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

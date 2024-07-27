@@ -136,8 +136,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457225
+        890457225,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -145,9 +145,11 @@
         "gp:id":3277,
         "loc:id":"n83010216",
         "qs_pg:id":965378,
+        "statcan:nid":"0b6861a6be5411d892e2080020a0f4c9",
         "wd:id":"Q141937",
         "wk:page":"Val-d'Or"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101736581,
-    "wof:lastmodified":1690864428,
+    "wof:lastmodified":1722051517,
     "wof:name":"Val-d'Or",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

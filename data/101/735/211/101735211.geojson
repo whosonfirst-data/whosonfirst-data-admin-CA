@@ -123,15 +123,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890456055
+        890456055,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6091108,
         "gp:id":23392461,
+        "statcan:nid":"0c81910e849c20c318ad64aa8a485ffe",
         "wd:id":"Q3344254"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"eee107acef19a5c49cab8f30dedc4c68",
     "wof:hierarchy":[
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101735211,
-    "wof:lastmodified":1690864877,
+    "wof:lastmodified":1722051527,
     "wof:name":"Norton",
     "wof:parent_id":890456055,
     "wof:placetype":"locality",

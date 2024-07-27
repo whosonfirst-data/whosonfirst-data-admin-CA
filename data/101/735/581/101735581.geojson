@@ -58,14 +58,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400337,
+        "statcan:nid":"7d6277bec6cd11d892e2080020a0f4c9",
         "wd:id":"Q5527921"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"db79a8d34cea6c155907d53b10a8c06c",
     "wof:hierarchy":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101735581,
-    "wof:lastmodified":1690864910,
+    "wof:lastmodified":1722051529,
     "wof:name":"Gauthier",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

@@ -107,17 +107,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457241
+        890457241,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6325486,
         "gp:id":273,
         "qs_pg:id":1033638,
+        "statcan:nid":"772b8bd6bbef11d892e2080020a0f4c9",
         "wd:id":"Q142001",
         "wk:page":"Ch\u00e2teau-Richer, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101738011,
-    "wof:lastmodified":1690864565,
+    "wof:lastmodified":1722051522,
     "wof:name":"Ch\u00e2teau-Richer",
     "wof:parent_id":890457241,
     "wof:placetype":"locality",

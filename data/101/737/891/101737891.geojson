@@ -107,17 +107,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457997
+        890457997,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5922281,
         "gp:id":290,
         "qs_pg:id":167818,
+        "statcan:nid":"617bfbbabbf011d892e2080020a0f4c9",
         "wd:id":"Q2967703",
         "wk:page":"Chute-aux-Outardes"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101737891,
-    "wof:lastmodified":1690864352,
+    "wof:lastmodified":1722051513,
     "wof:name":"Chute-aux-Outardes",
     "wof:parent_id":890457997,
     "wof:placetype":"locality",

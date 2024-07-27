@@ -58,16 +58,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457169
+        890457169,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6179836,
         "gp:id":23394704,
+        "statcan:nid":"ffd92261ffb011dda89a080020a0f4c9",
         "wd:id":"Q469460",
         "wk:page":"Whapmagoostui"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7081ed7efd2c263d73547de010dfe28e",
     "wof:hierarchy":[
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101748003,
-    "wof:lastmodified":1690864791,
+    "wof:lastmodified":1722051525,
     "wof:name":"Whapmagoostui",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

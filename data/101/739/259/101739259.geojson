@@ -65,17 +65,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bfdd80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6088895,
         "gp:id":1091,
+        "statcan:nid":"0c31d9a9849c20c39fe0a7ab3a7abbe0",
         "wd:id":"Q1878805",
         "wk:page":"Nokomis, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2cb759b8bf0f1bb4d9bc487612c31b76",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864199,
+    "wof:lastmodified":1722051507,
     "wof:name":"Nokomis",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

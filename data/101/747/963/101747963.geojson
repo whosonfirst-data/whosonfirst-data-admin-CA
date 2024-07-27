@@ -61,14 +61,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456545
+        890456545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374213,
+        "statcan:nid":"a197a037ba2311d892e2080020a0f4c9",
         "wd:id":"Q3197586"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4d5357144d23da04110cc95989e60753",
     "wof:hierarchy":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101747963,
-    "wof:lastmodified":1690864669,
+    "wof:lastmodified":1722051524,
     "wof:name":"Kitigan Zibi",
     "wof:parent_id":890456545,
     "wof:placetype":"locality",

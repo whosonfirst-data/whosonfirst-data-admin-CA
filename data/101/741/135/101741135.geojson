@@ -94,14 +94,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456545
+        890456545,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374193,
+        "statcan:nid":"c4d402fcba2311d892e2080020a0f4c9",
         "wd:id":"Q3214645"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1d396e00e5854bf2b1fa5670c780e394",
     "wof:hierarchy":[
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101741135,
-    "wof:lastmodified":1690864799,
+    "wof:lastmodified":1722051525,
     "wof:name":"Rapid Lake",
     "wof:parent_id":890456545,
     "wof:placetype":"locality",

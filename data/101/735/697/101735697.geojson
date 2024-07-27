@@ -116,17 +116,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458809
+        890458809,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5963553,
         "gp:id":3227,
         "qs_pg:id":1053489,
+        "statcan:nid":"fbf6fc39d05311d892e2080020a0f4c9",
         "wd:id":"Q2982694",
         "wk:page":"Gore Bay, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101735697,
-    "wof:lastmodified":1690864949,
+    "wof:lastmodified":1722051530,
     "wof:name":"Gore Bay",
     "wof:parent_id":890458809,
     "wof:placetype":"locality",

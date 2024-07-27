@@ -127,14 +127,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458087
+        890458087,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":9327,
+        "statcan:nid":"62b1017bba3511d892e2080020a0f4c9",
         "wd:id":"Q1933351"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"dcb2396baf7d24d5b250ce8bf79014e6",
     "wof:hierarchy":[
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101743279,
-    "wof:lastmodified":1690864985,
+    "wof:lastmodified":1722051532,
     "wof:name":"Alphonse Tommy 7",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",

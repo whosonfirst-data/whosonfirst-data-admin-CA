@@ -82,15 +82,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458611
+        890458611,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139051,
         "gp:id":3516,
+        "statcan:nid":"c4e96d45bf0a11d892e2080020a0f4c9",
         "wd:id":"Q3463423"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"019aac8b50f794e56ef2ba3caef3c407",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101738541,
-    "wof:lastmodified":1690864594,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-S\u00e9bastien",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

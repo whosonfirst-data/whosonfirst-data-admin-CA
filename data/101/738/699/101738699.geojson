@@ -100,14 +100,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457819
+        890457819,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396668,
+        "statcan:nid":"d6bf7422be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463377"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d35f263f976a8ff2bf76361e8eab3219",
     "wof:hierarchy":[
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101738699,
-    "wof:lastmodified":1690864575,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Simon-les-Mines",
     "wof:parent_id":890457819,
     "wof:placetype":"locality",

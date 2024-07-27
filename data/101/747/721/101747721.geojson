@@ -55,14 +55,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458025
+        890458025,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23395619,
+        "statcan:nid":"bcb0457bba2311d892e2080020a0f4c9",
         "wd:id":"Q3546769"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"51275424ba7b5e3159e1bf66e15509d1",
     "wof:hierarchy":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101747721,
-    "wof:lastmodified":1690864783,
+    "wof:lastmodified":1722051525,
     "wof:name":"Timiskaming",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

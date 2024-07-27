@@ -63,16 +63,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869047
+        1158869047,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bd6c6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6158353,
         "gp:id":2647,
+        "statcan:nid":"eecf8513bbe211d892e2080020a0f4c9",
         "wd:id":"Q5362893"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d818c5ada4e525e04a236687f4cb1d78",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864997,
+    "wof:lastmodified":1722051533,
     "wof:name":"St. Theresa Point",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

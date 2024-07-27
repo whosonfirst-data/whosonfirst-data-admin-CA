@@ -82,15 +82,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457821
+        890457821,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8672737,
         "gp:id":23395863,
+        "statcan:nid":"0cd66bc0849c20c3abfbfd65b7671b50",
         "wd:id":"Q3462315"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9bc62654e34d5e1c939ec1c71db1083a",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101736841,
-    "wof:lastmodified":1690864452,
+    "wof:lastmodified":1722051518,
     "wof:name":"Saint-Gervais",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

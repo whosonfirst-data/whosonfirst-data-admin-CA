@@ -73,8 +73,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868985
+        1158868985,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,9 +82,11 @@
         "gn:id":6151456,
         "gp:id":2909,
         "qs_pg:id":959165,
+        "statcan:nid":"3f836c0dbef211d892e2080020a0f4c9",
         "wd:id":"Q487130",
         "wk:page":"Souris, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864944,
+    "wof:lastmodified":1722051530,
     "wof:name":"Souris",
     "wof:parent_id":1158868985,
     "wof:placetype":"locality",

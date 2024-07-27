@@ -94,15 +94,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457887
+        890457887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6157194,
         "gp:id":23396338,
+        "statcan:nid":"0cb61e76849c20c37167e4e5e179a3e2",
         "wd:id":"Q3499627"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f50d893e81e44301dce5b21288bba8b1",
     "wof:hierarchy":[
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101736619,
-    "wof:lastmodified":1690864399,
+    "wof:lastmodified":1722051515,
     "wof:name":"Stoke",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

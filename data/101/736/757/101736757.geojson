@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457815
+        890457815,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138025,
         "gp:id":23396533,
+        "statcan:nid":"0ccb76c7849c20c3fd467f05f8feae05",
         "wd:id":"Q3464349",
         "wk:page":"Sainte-Marie-Salom\u00e9, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5f0ce274676185ca7f7caf26f502f80a",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101736757,
-    "wof:lastmodified":1690864449,
+    "wof:lastmodified":1722051518,
     "wof:name":"Sainte-Marie-Salom\u00e9",
     "wof:parent_id":890457815,
     "wof:placetype":"locality",

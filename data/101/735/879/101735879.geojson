@@ -70,16 +70,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456309
+        890456309,
+        85682057
     ],
     "wof:breaches":[
         101740751
     ],
     "wof:concordances":{
         "gp:id":23398792,
+        "statcan:nid":"1450761bd05311d892e2080020a0f4c9",
         "wd:id":"Q4864420"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"973cd4978435294bc096762fd9a2fce5",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735879,
-    "wof:lastmodified":1690864935,
+    "wof:lastmodified":1722051530,
     "wof:name":"Hastings Highlands",
     "wof:parent_id":890456309,
     "wof:placetype":"locality",

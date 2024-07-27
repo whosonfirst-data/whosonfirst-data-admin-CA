@@ -103,17 +103,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458693
+        890458693,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138569,
         "gp:id":1539,
         "qs_pg:id":1012758,
+        "statcan:nid":"85c307d1be4d11d892e2080020a0f4c9",
         "wd:id":"Q142456",
         "wk:page":"Saint-Joseph-de-Sorel, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"18604b6aa3ea2afddb73af0151cfbfbd",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101738099,
-    "wof:lastmodified":1690864526,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Joseph-de-Sorel",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

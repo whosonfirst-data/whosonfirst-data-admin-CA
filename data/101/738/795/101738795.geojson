@@ -83,14 +83,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884881
+        1158884881,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1456,
+        "statcan:nid":"e66ea60abe4d11d892e2080020a0f4c9",
         "wd:id":"Q3464279"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"aee508725022596a2ee477e647fd8e10",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101738795,
-    "wof:lastmodified":1690864559,
+    "wof:lastmodified":1722051522,
     "wof:name":"Sainte-Genevi\u00e8ve-de-Batiscan",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139058,
         "gp:id":23396608,
+        "statcan:nid":"d1fe4283be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463432",
         "wk:page":"Saint-S\u00e9v\u00e8re, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c793f548c0d282d83220ffabb4c134f1",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738671,
-    "wof:lastmodified":1690864564,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-S\u00e9v\u00e8re",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

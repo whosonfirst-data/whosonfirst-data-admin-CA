@@ -97,16 +97,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457811
+        890457811,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5928337,
         "gp:id":23394278,
+        "statcan:nid":"0ccc24d6849c20c37cb351986597ef2c",
         "wd:id":"Q141571",
         "wk:page":"Coteau-du-Lac, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2f1c4b6fec1da2411ab1146da7e2c4fe",
     "wof:hierarchy":[
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101736785,
-    "wof:lastmodified":1690864429,
+    "wof:lastmodified":1722051517,
     "wof:name":"Coteau-du-Lac",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

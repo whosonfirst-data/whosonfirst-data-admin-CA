@@ -57,17 +57,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868967
+        1158868967,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c03afa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5955616,
         "gp:id":2903,
+        "statcan:nid":"0cfeea5b849c20c3c402af5a2510b3f7",
         "wd:id":"Q2003316",
         "wk:page":"Forget, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"476d6b6e88e28e3b9f2a2336d4e5fd1e",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864223,
+    "wof:lastmodified":1722051508,
     "wof:name":"Forget",
     "wof:parent_id":1158868967,
     "wof:placetype":"locality",

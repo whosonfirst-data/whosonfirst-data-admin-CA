@@ -108,15 +108,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457577
+        890457577,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5944335,
         "gp:id":433,
+        "statcan:nid":"0cc74a6e849c20c35450ca938ece38e8",
         "wd:id":"Q3041482"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9ac418a747df3be09806aeb7267a8352",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101736733,
-    "wof:lastmodified":1706239360,
+    "wof:lastmodified":1722051534,
     "wof:name":"Dupuy",
     "wof:parent_id":890457577,
     "wof:placetype":"locality",

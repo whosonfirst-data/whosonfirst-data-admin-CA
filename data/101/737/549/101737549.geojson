@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456677
+        890456677,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5919693,
         "gp:id":3250,
+        "statcan:nid":"284444c5bbef11d892e2080020a0f4c9",
         "wd:id":"Q2955912",
         "wk:page":"Champneuf, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d0f1b35969ae659eceb29fdbc4aa3e5a",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737549,
-    "wof:lastmodified":1690864361,
+    "wof:lastmodified":1722051514,
     "wof:name":"Champneuf",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

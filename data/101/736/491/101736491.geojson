@@ -81,15 +81,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137484,
         "gp:id":56622681,
+        "statcan:nid":"0157ab84bf9311d892e2080020a0f4c9",
         "wd:id":"Q3461850"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"09c34911a3c6aa2aa1e6cb5f47177064",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101736491,
-    "wof:lastmodified":1690864419,
+    "wof:lastmodified":1722051516,
     "wof:name":"Saint-Barth\u00e9lemy",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

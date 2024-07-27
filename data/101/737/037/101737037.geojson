@@ -85,17 +85,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138763,
         "gp:id":23394595,
         "qs_pg:id":351693,
+        "statcan:nid":"0cf55b9c849c20c30a0992f381aa1f9e",
         "wd:id":"Q3462942",
         "wk:page":"Saint-Mathieu-du-Parc, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"47015d901c0c0b538beb23e9fa3378dd",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737037,
-    "wof:lastmodified":1690864300,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Mathieu-du-Parc",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

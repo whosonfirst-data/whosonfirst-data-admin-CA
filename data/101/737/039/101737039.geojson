@@ -109,14 +109,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456797
+        890456797,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394581,
+        "statcan:nid":"0cf55be3849c20c3b1a7baf7bca27100",
         "wd:id":"Q3462701"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ba061ac3c585a8ab9c953fa6cf434d6e",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101737039,
-    "wof:lastmodified":1690864302,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Laurent-de-l'\u00cele-d'Orl\u00e9ans",
     "wof:parent_id":890456797,
     "wof:placetype":"locality",

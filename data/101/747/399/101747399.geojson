@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
     "geom:area_square_m":645435.221926,
-    "geom:bbox":"-108.352867,53.4024523,-108.3407242,53.4096845",
+    "geom:bbox":"-108.352867,53.402452,-108.340724,53.409685",
     "geom:latitude":53.40607,
-    "geom:longitude":-108.346796,
+    "geom:longitude":-108.346795,
     "iso:country":"CA",
     "lbl:latitude":53.40607,
     "lbl:longitude":-108.346796,
@@ -17,7 +17,7 @@
     "mps:latitude":53.40607,
     "mps:longitude":-108.346796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saulteaux First Nation Indian Reserve No. 159Kk"
@@ -42,17 +42,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[
         101740451
     ],
     "wof:concordances":{
-        "gp:id":29373111
+        "gp:id":29373111,
+        "statcan:nid":"0de096fafe2a47bca481eb4e5c6e305b"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"b7ad27c140383e99eeeb7181a48e4872",
+    "wof:geomhash":"db5b46ac90fa6c425263f78e40781901",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101747399,
-    "wof:lastmodified":1566519612,
+    "wof:lastmodified":1722051427,
     "wof:name":"Saulteaux First Nation Indian Reserve No. 159Kk",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",
@@ -75,9 +77,9 @@
 },
   "bbox": [
     -108.352867,
-    53.4024523,
-    -108.34072420000001,
-    53.40968450000003
+    53.402452,
+    -108.340724,
+    53.409685
 ],
-  "geometry": {"coordinates":[[[-108.34072420000001,53.4024523],[-108.35284819999998,53.4024647],[-108.352867,53.40968450000003],[-108.34074629999998,53.40967849999998],[-108.34072420000001,53.4024523]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-108.34072399999999,53.402452],[-108.35284799999999,53.402465],[-108.352867,53.409685],[-108.340746,53.409678],[-108.34072399999999,53.402452]]],"type":"Polygon"}
 }

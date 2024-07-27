@@ -63,14 +63,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869047
+        1158869047,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402714,
+        "statcan:nid":"85716fa6beed11d892e2080020a0f4c9",
         "wd:id":"Q6948850"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6f3b74f0aacbedbcefd49706cd2ed837",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101734705,
-    "wof:lastmodified":1690864845,
+    "wof:lastmodified":1722051525,
     "wof:name":"Mystery Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",

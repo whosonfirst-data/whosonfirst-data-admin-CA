@@ -122,17 +122,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456339
+        890456339,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6073363,
         "gp:id":4087,
         "qs_pg:id":961278,
+        "statcan:nid":"95cb8b98c6be11d892e2080020a0f4c9",
         "wd:id":"Q1931996",
         "wk:page":"Midland, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101736313,
-    "wof:lastmodified":1690864434,
+    "wof:lastmodified":1722051517,
     "wof:name":"Midland",
     "wof:parent_id":890456339,
     "wof:placetype":"locality",

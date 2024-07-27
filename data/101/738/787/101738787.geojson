@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456847
+        890456847,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5906808,
         "gp:id":23394335,
+        "statcan:nid":"e607d10cbbeb11d892e2080020a0f4c9",
         "wd:id":"Q2922715",
         "wk:page":"Bowman, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e97c6b9c49784d97fca06fcb1357c3be",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738787,
-    "wof:lastmodified":1690864595,
+    "wof:lastmodified":1722051523,
     "wof:name":"Bowman",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

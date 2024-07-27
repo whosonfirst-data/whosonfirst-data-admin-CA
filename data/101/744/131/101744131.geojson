@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":883.407727,
-    "geom:bbox":"-121.3575037,50.4148093,-121.3569294,50.4152133",
-    "geom:latitude":50.415011,
+    "geom:bbox":"-121.357504,50.414809,-121.356929,50.415213",
+    "geom:latitude":50.41501,
     "geom:longitude":-121.357216,
     "iso:country":"CA",
     "lbl:latitude":50.415003,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458465
+        890458465,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373546
+        "gp:id":29373546,
+        "statcan:nid":"276b8e29ba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"641830b1b37435ddd1fd2d3f745f8fa9",
+    "wof:geomhash":"9e0e2a901a96b8d32d118dbcf7a4bb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744131,
-    "wof:lastmodified":1566519974,
+    "wof:lastmodified":1722051487,
     "wof:name":"Schikaelton 16",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.3575037,
-    50.4148093,
-    -121.35692940000001,
-    50.4152133
+    -121.357504,
+    50.414809,
+    -121.356929,
+    50.415213
 ],
-  "geometry": {"coordinates":[[[-121.3575037,50.4149291],[-121.35719030000001,50.4152133],[-121.35692940000001,50.41509059999998],[-121.35723849999999,50.4148093],[-121.3575037,50.4149291]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.35750400000001,50.414929],[-121.35719,50.415213],[-121.35692899999999,50.415091],[-121.357238,50.414809],[-121.35750400000001,50.414929]]],"type":"Polygon"}
 }

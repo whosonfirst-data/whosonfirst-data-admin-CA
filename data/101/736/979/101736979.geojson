@@ -122,16 +122,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458097
+        890458097,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137696,
         "qs_pg:id":160383,
+        "statcan:nid":"0cf46946849c20c343036021eaa3c7c6",
         "wd:id":"Q142560",
         "wk:page":"Sainte-Ad\u00e8le, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101736979,
-    "wof:lastmodified":1690864426,
+    "wof:lastmodified":1722051517,
     "wof:name":"Sainte-Ad\u00e8le",
     "wof:parent_id":890458097,
     "wof:placetype":"locality",

@@ -106,17 +106,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137560,
         "gp:id":1417,
         "qs_pg:id":1080278,
+        "statcan:nid":"eb31f000be4c11d892e2080020a0f4c9",
         "wd:id":"Q3461942",
         "wk:page":"Saint-Casimir, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"bdda95a6fbb6e2ad287bc07c8fe2068f",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101738815,
-    "wof:lastmodified":1690864566,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Casimir",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

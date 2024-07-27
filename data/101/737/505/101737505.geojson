@@ -86,17 +86,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456475
+        890456475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6145563,
         "gp:id":1679,
         "qs_pg:id":958622,
+        "statcan:nid":"250b17ff0a0012047293fbab0d518686",
         "wd:id":"Q3481643",
         "wk:page":"Shawville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101737505,
-    "wof:lastmodified":1690864266,
+    "wof:lastmodified":1722051510,
     "wof:name":"Shawville",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

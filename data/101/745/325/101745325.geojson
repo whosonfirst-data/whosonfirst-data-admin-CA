@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
     "geom:area_square_m":161295.360581,
-    "geom:bbox":"-121.7720959,50.5576156,-121.7662963,50.56131",
+    "geom:bbox":"-121.772096,50.557616,-121.766296,50.56131",
     "geom:latitude":50.559463,
     "geom:longitude":-121.769196,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373630
+        "gp:id":29373630,
+        "statcan:nid":"5acfd65aba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"8d1ee4d90390f6065cb2bdcdaaa84398",
+    "wof:geomhash":"cc25e655d590718e1252dedd3decb0c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101745325,
-    "wof:lastmodified":1566520057,
+    "wof:lastmodified":1722051498,
     "wof:name":"Ts'Kw'Aylaxw 5",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.77209590000001,
-    50.55761560000002,
-    -121.76629630000002,
+    -121.772096,
+    50.557616,
+    -121.766296,
     50.56131
 ],
-  "geometry": {"coordinates":[[[-121.77209590000001,50.5612314],[-121.76641949999998,50.56131],[-121.76629630000002,50.5576943],[-121.77197219999999,50.55761560000002],[-121.77209590000001,50.5612314]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.772096,50.561231],[-121.766419,50.56131],[-121.766296,50.557694],[-121.77197200000001,50.557616],[-121.772096,50.561231]]],"type":"Polygon"}
 }

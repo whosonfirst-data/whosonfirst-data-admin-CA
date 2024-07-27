@@ -89,16 +89,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456847
+        890456847,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6106143,
         "gp:id":23394457,
+        "statcan:nid":"5901121abe4611d892e2080020a0f4c9",
         "wd:id":"Q3391043",
         "wk:page":"Plaisance, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9ca2b7fffbc6d49c143060f74ebd4ea1",
     "wof:hierarchy":[
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101737841,
-    "wof:lastmodified":1690864334,
+    "wof:lastmodified":1722051513,
     "wof:name":"Plaisance",
     "wof:parent_id":890456847,
     "wof:placetype":"locality",

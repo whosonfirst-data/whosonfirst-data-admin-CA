@@ -88,16 +88,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457827
+        890457827,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138645,
         "gp:id":56622257,
+        "statcan:nid":"8db6dbd5be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462763",
         "wk:page":"Saint-Louis, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2e2dd86f7826b42346cbd1408cbf0cee",
     "wof:hierarchy":[
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101738167,
-    "wof:lastmodified":1636414341,
+    "wof:lastmodified":1722051506,
     "wof:name":"Saint-Louis",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

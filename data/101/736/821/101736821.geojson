@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458091
+        890458091,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396516,
+        "statcan:nid":"0cd0334c849c20c3558a8a3a1ca90f0e",
         "wd:id":"Q3464223"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a7ae1720d494b5ae831caf20af637082",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101736821,
-    "wof:lastmodified":1690864401,
+    "wof:lastmodified":1722051515,
     "wof:name":"Sainte-Clotilde",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

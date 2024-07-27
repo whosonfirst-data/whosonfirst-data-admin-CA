@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138312,
         "gp:id":23395670,
+        "statcan:nid":"60df370abe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462319",
         "wk:page":"Saint-Gilbert, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fdeb254e6e74cef4beaf0ae733a30773",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737883,
-    "wof:lastmodified":1690864337,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-Gilbert",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

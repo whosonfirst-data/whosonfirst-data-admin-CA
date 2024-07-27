@@ -109,16 +109,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456501
+        890456501,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943833,
         "gp:id":3624,
+        "statcan:nid":"54d4f288d1e411d892e2080020a0f4c9",
         "wd:id":"Q985588",
         "wk:page":"New Carlisle, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8e1b2e75595b97b88c9607be227307e2",
     "wof:hierarchy":[
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101737781,
-    "wof:lastmodified":1690864365,
+    "wof:lastmodified":1722051514,
     "wof:name":"New Carlisle",
     "wof:parent_id":890456501,
     "wof:placetype":"locality",

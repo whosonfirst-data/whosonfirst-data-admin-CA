@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":80302.40108,
-    "geom:bbox":"-121.5521927,50.1151759,-121.5492773,50.1188272",
+    "geom:bbox":"-121.552193,50.115176,-121.549277,50.118827",
     "geom:latitude":50.116996,
     "geom:longitude":-121.550737,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458465
+        890458465,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373582
+        "gp:id":29373582,
+        "statcan:nid":"291a9dc8ba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"5a25c7b26a25d4455fc1a92d2a969968",
+    "wof:geomhash":"2c6dc5d913c88bfe5c91c1d2fab20e63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744265,
-    "wof:lastmodified":1566519979,
+    "wof:lastmodified":1722051489,
     "wof:name":"Pegleg 3A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.55219269999998,
-    50.1151759,
-    -121.54927730000003,
-    50.1188272
+    -121.552193,
+    50.115176,
+    -121.549277,
+    50.118827
 ],
-  "geometry": {"coordinates":[[[-121.5493859,50.1151759],[-121.55219269999998,50.1152098],[-121.552087,50.1188272],[-121.54927730000003,50.11876790000002],[-121.5493859,50.1151759]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.549386,50.115176],[-121.552193,50.11521],[-121.552087,50.118827],[-121.549277,50.118768],[-121.549386,50.115176]]],"type":"Polygon"}
 }

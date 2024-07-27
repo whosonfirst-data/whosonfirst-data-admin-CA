@@ -83,16 +83,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458541
+        890458541,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137757,
         "gp:id":23396511,
+        "statcan:nid":"0d057740849c20c3ee64b1890e6e8d82",
         "wd:id":"Q3464167",
         "wk:page":"Sainte-Anne-du-Sault, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0b5dade66c3a801a2a7f3676438c423a",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101736641,
-    "wof:lastmodified":1690864463,
+    "wof:lastmodified":1722051518,
     "wof:name":"Sainte-Anne-du-Sault",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

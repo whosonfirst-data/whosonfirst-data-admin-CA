@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5983857,
         "gp:id":23394384,
+        "statcan:nid":"f7ec9d8cd1e311d892e2080020a0f4c9",
         "wd:id":"Q3154486",
         "wk:page":"Irlande"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e9cfcca60a33207e48861d7dd38a6fae",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101738885,
-    "wof:lastmodified":1690864568,
+    "wof:lastmodified":1722051522,
     "wof:name":"Irlande",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

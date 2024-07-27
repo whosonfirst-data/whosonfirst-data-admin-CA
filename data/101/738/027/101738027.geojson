@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456497
+        890456497,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23395623,
+        "statcan:nid":"7a54d6b1be4911d892e2080020a0f4c9",
         "wd:id":"Q967488"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f43053bb7d63ebd58863f5d2b0a1b6b5",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101738027,
-    "wof:lastmodified":1690864564,
+    "wof:lastmodified":1722051522,
     "wof:name":"Ristigouche-Partie-Sud-Est",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",

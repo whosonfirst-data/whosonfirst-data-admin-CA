@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373625,
+        "statcan:nid":"761ffbbcba3511d892e2080020a0f4c9",
         "wd:id":"Q8565017"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3d538cff55dfb08372a67d252a167fdc",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101744855,
-    "wof:lastmodified":1690864980,
+    "wof:lastmodified":1722051532,
     "wof:name":"Fountain 3",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

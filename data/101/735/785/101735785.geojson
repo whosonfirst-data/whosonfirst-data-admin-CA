@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457191
+        890457191,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23398089,
+        "statcan:nid":"0c626fc7849c20c3792c7cbf6ffc3109",
         "wd:id":"Q11765237"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7b85f5d4d6c20ef026a47f028ffde91d",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101735785,
-    "wof:lastmodified":1690864911,
+    "wof:lastmodified":1722051529,
     "wof:name":"Machar",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

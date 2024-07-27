@@ -225,13 +225,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457169
+        890457169,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5945848,
         "gp:id":29374769,
+        "statcan:nid":"a82ef13c7e20461bb1f1a7c5521f296e",
         "wd:id":"Q3046584",
         "wk:page":"Eastmain, Quebec"
     },
@@ -240,6 +241,7 @@
             "Q3046584"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -255,7 +257,7 @@
         }
     ],
     "wof:id":101748005,
-    "wof:lastmodified":1706239369,
+    "wof:lastmodified":1722051535,
     "wof:name":"Eastmain",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

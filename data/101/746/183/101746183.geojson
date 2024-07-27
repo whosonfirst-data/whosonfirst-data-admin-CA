@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
     "geom:area_square_m":644643.419721,
-    "geom:bbox":"-109.0157189,52.8057252,-109.0037657,52.8129452",
+    "geom:bbox":"-109.015719,52.805725,-109.003766,52.812945",
     "geom:latitude":52.809336,
     "geom:longitude":-109.009744,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":52.809336,
     "mps:longitude":-109.009744,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poundmaker Indian Reserve No. 114-16"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868959
+        1158868959,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373485
+        "gp:id":29373485,
+        "statcan:nid":"6c9ebc20849c20c3ad264f7aa0e97b12"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"db635d8c19952d9f2037384b1e08655d",
+    "wof:geomhash":"e3021b1a3c4c837e283db89e37aca403",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746183,
-    "wof:lastmodified":1566519851,
+    "wof:lastmodified":1722051442,
     "wof:name":"Poundmaker Indian Reserve No. 114-16",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -109.01571890000002,
-    52.80572519999998,
-    -109.00376569999997,
-    52.8129452
+    -109.015719,
+    52.805725,
+    -109.003766,
+    52.812945
 ],
-  "geometry": {"coordinates":[[[-109.01571890000002,52.80572519999998],[-109.01571710000002,52.8129447],[-109.00377220000001,52.8129452],[-109.00376569999997,52.80572890000002],[-109.01571890000002,52.80572519999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-109.015719,52.805725],[-109.015717,52.812945],[-109.003772,52.812945],[-109.003766,52.805729],[-109.015719,52.805725]]],"type":"Polygon"}
 }

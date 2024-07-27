@@ -60,17 +60,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868975
+        1158868975,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba38ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5910853,
         "gp:id":1972,
+        "statcan:nid":"2623e9f4c6ce11d892e2080020a0f4c9",
         "wd:id":"Q4985794",
         "wk:page":"Buffalo Narrows"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"78c59de9ac40aa01848a1eea960240df",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864212,
+    "wof:lastmodified":1722051507,
     "wof:name":"Buffalo Narrows",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

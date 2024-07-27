@@ -68,16 +68,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba6300-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5939649,
         "gp:id":2289,
+        "statcan:nid":"0c2af0e2849c20c3ac87b0b0337c8b27",
         "wd:id":"Q1999978"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a393b7ab51527957de7b26a8013bac1e",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864195,
+    "wof:lastmodified":1722051507,
     "wof:name":"Disley",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

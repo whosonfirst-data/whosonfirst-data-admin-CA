@@ -249,17 +249,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456315
+        890456315,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5989403,
         "gp:id":3134,
         "qs_pg:id":246855,
+        "statcan:nid":"003fefead05411d892e2080020a0f4c9",
         "wd:id":"Q1027634",
         "wk:page":"Kapuskasing"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -275,7 +277,7 @@
         }
     ],
     "wof:id":101735619,
-    "wof:lastmodified":1690864882,
+    "wof:lastmodified":1722051527,
     "wof:name":"Kapuskasing",
     "wof:parent_id":890456315,
     "wof:placetype":"locality",

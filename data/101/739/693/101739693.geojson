@@ -74,17 +74,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c03820-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6073645,
         "gp:id":2870,
+        "statcan:nid":"0c2e25d8849c20c39832d544dfc7e71b",
         "wd:id":"Q1915440",
         "wk:page":"Milestone, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d2b680e049f58a1f99fbc5358debdcb5",
     "wof:hierarchy":[
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864202,
+    "wof:lastmodified":1722051507,
     "wof:name":"Milestone",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

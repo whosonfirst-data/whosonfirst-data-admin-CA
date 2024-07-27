@@ -107,16 +107,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138418,
         "gp:id":23396560,
+        "statcan:nid":"713ad589be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462474",
         "wk:page":"Saint-Jacques-le-Majeur-de-Wolfestown, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"67689b4dd4e319c741924b0036b0985f",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101737979,
-    "wof:lastmodified":1690864305,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Jacques-le-Majeur-de-Wolfestown",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

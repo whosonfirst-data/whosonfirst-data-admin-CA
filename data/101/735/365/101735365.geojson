@@ -58,14 +58,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890456317
+        890456317,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56620956,
+        "statcan:nid":"dd1de7e3eb7243d9b9b5ff86e7aa2d45",
         "wd:id":"Q2893110"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9fe92fdf76bec0f0670a376b769d8779",
     "wof:hierarchy":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101735365,
-    "wof:lastmodified":1690864866,
+    "wof:lastmodified":1722051526,
     "wof:name":"Beaubassin East",
     "wof:parent_id":890456317,
     "wof:placetype":"locality",

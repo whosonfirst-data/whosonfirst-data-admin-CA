@@ -143,13 +143,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457833
+        890457833,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "statcan:nid":"95a49550be4d11d892e2080020a0f4c9",
         "wd:id":"Q1622236"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0cc30d18ac3d19966a4abe4e178fcc83",
     "wof:hierarchy":[
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101738233,
-    "wof:lastmodified":1690864532,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Louis-du-Ha! Ha!",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

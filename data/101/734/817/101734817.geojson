@@ -103,16 +103,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869003
+        1158869003,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5883397,
         "gp:id":2886,
         "qs_pg:id":1211136,
+        "statcan:nid":"1f89a82abedb11d892e2080020a0f4c9",
         "wd:id":"Q1656625"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101734817,
-    "wof:lastmodified":1690864838,
+    "wof:lastmodified":1722051525,
     "wof:name":"Alexander",
     "wof:parent_id":1158869003,
     "wof:placetype":"locality",

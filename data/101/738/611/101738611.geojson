@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458541
+        890458541,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138996,
         "gp:id":23396600,
+        "statcan:nid":"cc30d0f5be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463306",
         "wk:page":"Saint-R\u00e9mi-de-Tingwick, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f26268c2bcb122b8b54aa109e9cd400e",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738611,
-    "wof:lastmodified":1690864518,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-R\u00e9mi-de-Tingwick",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

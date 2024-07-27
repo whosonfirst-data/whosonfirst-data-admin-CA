@@ -120,8 +120,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456473
+        890456473,
+        85682057
     ],
     "wof:breaches":[
         101740729
@@ -130,6 +130,7 @@
         "gn:id":6101607,
         "gp:id":3314,
         "qs_pg:id":432476,
+        "statcan:nid":"124a6dbed05311d892e2080020a0f4c9",
         "wd:id":"Q1455440",
         "wk:page":"Petawawa"
     },
@@ -144,6 +145,7 @@
             "Petawawa"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101736059,
-    "wof:lastmodified":1706239358,
+    "wof:lastmodified":1722051533,
     "wof:name":"Petawawa",
     "wof:parent_id":890456473,
     "wof:placetype":"locality",

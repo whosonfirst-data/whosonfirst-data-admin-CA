@@ -125,8 +125,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457825
+        890457825,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,9 +134,11 @@
         "gn:id":6050263,
         "gp:id":3514,
         "qs_pg:id":1209120,
+        "statcan:nid":"0cc2e64c849c20c38a05363491dc0531",
         "wd:id":"Q141754",
         "wk:page":"L'Assomption, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -155,7 +157,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864403,
+    "wof:lastmodified":1722051515,
     "wof:name":"L'Assomption",
     "wof:parent_id":890457825,
     "wof:placetype":"locality",

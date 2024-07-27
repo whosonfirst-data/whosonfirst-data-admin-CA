@@ -71,8 +71,10 @@
     "wof:concordances":{
         "gp:id":29374587,
         "qs_pg:id":229484,
+        "statcan:nid":"3c254175c6be11d892e2080020a0f4c9",
         "wd:id":"Q3002087"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101736343,
-    "wof:lastmodified":1690864493,
+    "wof:lastmodified":1722051520,
     "wof:name":"Cramahe",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

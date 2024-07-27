@@ -106,14 +106,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374223,
+        "statcan:nid":"71294958be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462470"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"11e9075aac2c43e9103c5ae4aba12409",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101737977,
-    "wof:lastmodified":1690864303,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Jacques-de-Leeds",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

@@ -48,16 +48,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03b8a498-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5950298,
         "gp:id":23403826,
+        "statcan:nid":"4f18cba8c6cd11d892e2080020a0f4c9",
         "wd:id":"Q5404998"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"981302de9333744f1694df5025cc3bc7",
     "wof:hierarchy":[
@@ -73,7 +75,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864257,
+    "wof:lastmodified":1722051509,
     "wof:name":"Etters Beach",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

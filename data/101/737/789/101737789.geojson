@@ -72,15 +72,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457727
+        890457727,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1111,
         "qs_pg:id":264902,
+        "statcan:nid":"55908afbbe4011d892e2080020a0f4c9",
         "wd:id":"Q3344635"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101737789,
-    "wof:lastmodified":1690864371,
+    "wof:lastmodified":1722051514,
     "wof:name":"Notre-Dame-des-Monts",
     "wof:parent_id":890457727,
     "wof:placetype":"locality",

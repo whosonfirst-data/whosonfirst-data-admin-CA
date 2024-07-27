@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457577
+        890457577,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5888441,
         "gp:id":3246,
+        "statcan:nid":"fc6a28d9bbe511d892e2080020a0f4c9",
         "wd:id":"Q2872430",
         "wk:page":"Authier, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fab63ecf2309f5ab1a697bd633e77733",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101737357,
-    "wof:lastmodified":1690864323,
+    "wof:lastmodified":1722051512,
     "wof:name":"Authier",
     "wof:parent_id":890457577,
     "wof:placetype":"locality",

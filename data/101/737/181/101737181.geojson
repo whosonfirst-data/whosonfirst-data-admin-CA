@@ -110,13 +110,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458097
+        890458097,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6067710,
         "gp:id":56625785,
+        "statcan:nid":"0d0a24ff849c20c3f40b2ba29bc49b69",
         "wd:id":"Q142500",
         "wk:page":"Masson-Angers"
     },
@@ -125,6 +126,7 @@
             6137982
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"df82129005d27a4b4b83ebdd811cb780",
     "wof:hierarchy":[
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101737181,
-    "wof:lastmodified":1706239361,
+    "wof:lastmodified":1722051534,
     "wof:name":"Sainte-Marguerite-du-Lac-Masson",
     "wof:parent_id":890458097,
     "wof:placetype":"locality",

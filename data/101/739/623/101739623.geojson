@@ -231,17 +231,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868975
+        1158868975,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba3a60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6157570,
         "gp:id":1980,
+        "statcan:nid":"66c08515d05511d892e2080020a0f4c9",
         "wd:id":"Q491457",
         "wk:page":"Stony Rapids"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -260,7 +262,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864235,
+    "wof:lastmodified":1722051508,
     "wof:name":"Stony Rapids",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

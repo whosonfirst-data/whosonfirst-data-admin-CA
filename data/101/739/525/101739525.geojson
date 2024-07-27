@@ -72,17 +72,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba76a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6063708,
         "gp:id":2468,
+        "statcan:nid":"0c2da947849c20c31d892bd2503a1c3f",
         "wd:id":"Q2085963",
         "wk:page":"MacNutt"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4a474ef870687cd9dc0722e2d70193e0",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864253,
+    "wof:lastmodified":1722051509,
     "wof:name":"MacNutt",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456313
+        890456313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6179259,
         "gp:id":3203,
+        "statcan:nid":"068d4b2dba2c11d892e2080020a0f4c9",
         "wd:id":"Q3045039",
         "wk:page":"West Nipissing"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1e8fb9b7cbfd78465633a02463b640a1",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101735533,
-    "wof:lastmodified":1690864865,
+    "wof:lastmodified":1722051526,
     "wof:name":"West Nipissing",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

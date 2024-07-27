@@ -105,17 +105,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457817
+        890457817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5977937,
         "gp:id":3568,
         "qs_pg:id":1053501,
+        "statcan:nid":"0b1fd906be2a11d892e2080020a0f4c9",
         "wd:id":"Q3141615",
         "wk:page":"Howick, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101736579,
-    "wof:lastmodified":1690864487,
+    "wof:lastmodified":1722051519,
     "wof:name":"Howick",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

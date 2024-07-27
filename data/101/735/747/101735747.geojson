@@ -237,8 +237,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457691
+        890457691,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,9 +246,11 @@
         "gn:id":6101645,
         "gp:id":4100,
         "qs_pg:id":1053545,
+        "statcan:nid":"35ae49f5c6be11d892e2080020a0f4c9",
         "wd:id":"Q776930",
         "wk:page":"Peterborough, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -264,7 +266,7 @@
         }
     ],
     "wof:id":101735747,
-    "wof:lastmodified":1690864911,
+    "wof:lastmodified":1722051529,
     "wof:name":"Peterborough",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",

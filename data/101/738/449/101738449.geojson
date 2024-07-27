@@ -141,17 +141,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457823
+        890457823,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5903510,
         "gp:id":23397492,
         "qs_pg:id":268907,
+        "statcan:nid":"b68facc7bbea11d892e2080020a0f4c9",
         "wd:id":"Q139568",
         "wk:page":"Blainville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c9fa41fdb070a1c46c74f9bb31426b58",
     "wof:hierarchy":[
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101738449,
-    "wof:lastmodified":1690864509,
+    "wof:lastmodified":1722051520,
     "wof:name":"Blainville",
     "wof:parent_id":890457823,
     "wof:placetype":"locality",

@@ -112,14 +112,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456797
+        890456797,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394685,
+        "statcan:nid":"73b658bebf9211d892e2080020a0f4c9",
         "wd:id":"Q3464399"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"260ebe334dbf395588f5a2190798e17b",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101737995,
-    "wof:lastmodified":1690864322,
+    "wof:lastmodified":1722051512,
     "wof:name":"Sainte-P\u00e9tronille",
     "wof:parent_id":890456797,
     "wof:placetype":"locality",

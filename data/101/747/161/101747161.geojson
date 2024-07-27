@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":52417.928119,
-    "geom:bbox":"-125.0802554,52.9885514,-125.0763593,52.9903595",
+    "geom:bbox":"-125.080255,52.988551,-125.076359,52.99036",
     "geom:latitude":52.989455,
-    "geom:longitude":-125.078308,
+    "geom:longitude":-125.078307,
     "iso:country":"CA",
     "lbl:latitude":52.989455,
     "lbl:longitude":-125.07831,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56811396
+        "gp:id":56811396,
+        "statcan:nid":"90b97a98ba3411d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"e1383d7c1a598b1395e24bb6275404df",
+    "wof:geomhash":"b5013b49bda4f9cf5026957e7193f1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101747161,
-    "wof:lastmodified":1566519597,
+    "wof:lastmodified":1722051468,
     "wof:name":"Cluchuta Lake 10B",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -125.0802554,
-    52.9885514,
-    -125.07635929999998,
-    52.99035950000001
+    -125.080255,
+    52.988551,
+    -125.076359,
+    52.99036
 ],
-  "geometry": {"coordinates":[[[-125.0802554,52.99035930000002],[-125.07636050000002,52.99035950000001],[-125.07635929999998,52.9885516],[-125.0802549,52.9885514],[-125.0802554,52.99035930000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-125.08025499999999,52.990359],[-125.07636100000001,52.99036],[-125.076359,52.988552],[-125.08025499999999,52.988551],[-125.08025499999999,52.990359]]],"type":"Polygon"}
 }

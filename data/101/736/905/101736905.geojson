@@ -107,16 +107,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456307
+        890456307,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138198,
         "gp:id":23394557,
         "qs_pg:id":224000,
+        "statcan:nid":"0cf08e86849c20c36efee42e3e0a8ce5",
         "wd:id":"Q3462145"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4e53dd38dd79d9beba3cdceeb9922cb2",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101736905,
-    "wof:lastmodified":1690864449,
+    "wof:lastmodified":1722051518,
     "wof:name":"Saint-Faustin - Lac-Carr\u00e9",
     "wof:parent_id":890456307,
     "wof:placetype":"locality",

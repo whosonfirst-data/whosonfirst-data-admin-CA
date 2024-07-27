@@ -115,8 +115,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868959
+        1158868959,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,8 +124,10 @@
         "gn:id":6063429,
         "gp:id":2170,
         "qs_pg:id":529799,
+        "statcan:nid":"0c2da4e9849c20c3633d4d9e5e474def",
         "wd:id":"Q1915322"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864235,
+    "wof:lastmodified":1722051508,
     "wof:name":"Macklin",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

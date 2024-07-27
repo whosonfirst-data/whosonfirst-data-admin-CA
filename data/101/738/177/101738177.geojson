@@ -322,14 +322,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457833
+        890457833,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394395,
+        "statcan:nid":"8e2e74b3bbea11d892e2080020a0f4c9",
         "wd:id":"Q1156311"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"480dc2a39f6b4b0de2180c7f8f71443a",
     "wof:hierarchy":[
@@ -342,7 +344,7 @@
         }
     ],
     "wof:id":101738177,
-    "wof:lastmodified":1690864591,
+    "wof:lastmodified":1722051523,
     "wof:name":"Biencourt",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

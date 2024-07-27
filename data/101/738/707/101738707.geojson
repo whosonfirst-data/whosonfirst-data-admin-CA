@@ -117,17 +117,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456835
+        890456835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137489,
         "gp:id":23396695,
         "qs_pg:id":1182835,
+        "statcan:nid":"d7d3e619be4c11d892e2080020a0f4c9",
         "wd:id":"Q142170",
         "wk:page":"Saint-Basile-le-Grand, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"63d2088dad48c428c3ecbac6cb01ab2b",
     "wof:hierarchy":[
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101738707,
-    "wof:lastmodified":1690864505,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Basile-le-Grand",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

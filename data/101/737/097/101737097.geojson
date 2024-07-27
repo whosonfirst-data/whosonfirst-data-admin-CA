@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5896501,
         "gp:id":23394646,
+        "statcan:nid":"0cf783b2849c20c361a2849763640d91",
         "wd:id":"Q2893193",
         "wk:page":"Beaulac-Garthby, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"43d9fa035f0ce1ee8bd81dc8c8e414d6",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101737097,
-    "wof:lastmodified":1690864298,
+    "wof:lastmodified":1722051511,
     "wof:name":"Beaulac-Garthby",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

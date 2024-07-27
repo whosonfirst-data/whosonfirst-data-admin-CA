@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457577
+        890457577,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6127445,
         "gp:id":23394469,
+        "statcan:nid":"286be12bbe4c11d892e2080020a0f4c9",
         "wd:id":"Q3441996",
         "wk:page":"Roquemaure, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e18964c391242fa9969df7c127c07cac",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737551,
-    "wof:lastmodified":1690864261,
+    "wof:lastmodified":1722051509,
     "wof:name":"Roquemaure",
     "wof:parent_id":890457577,
     "wof:placetype":"locality",

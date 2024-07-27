@@ -117,13 +117,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456817
+        890456817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6098930,
         "gp:id":3665,
+        "statcan:nid":"b21ffe56be4d11d892e2080020a0f4c9",
         "wd:id":"Q142451",
         "wk:page":"Saint-Pascal,_Quebec"
     },
@@ -132,6 +133,7 @@
             8593671
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"129293545127d4381bcb9b6f6c586694",
     "wof:hierarchy":[
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101738423,
-    "wof:lastmodified":1706239363,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Pascal",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",

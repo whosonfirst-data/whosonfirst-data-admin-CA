@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
     "geom:area_square_m":632697.942481,
-    "geom:bbox":"-103.2369075,50.9233842,-103.225579,50.9306962",
-    "geom:latitude":50.92704,
+    "geom:bbox":"-103.236907,50.923384,-103.225579,50.930696",
+    "geom:latitude":50.927039,
     "geom:longitude":-103.231228,
     "iso:country":"CA",
     "lbl:latitude":50.927042,
@@ -17,7 +17,7 @@
     "mps:latitude":50.927042,
     "mps:longitude":-103.231227,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Okanese Indian Reserve No. 82 (Gg)"
@@ -42,17 +42,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[
         101740197
     ],
     "wof:concordances":{
-        "gp:id":56623854
+        "gp:id":56623854,
+        "statcan:nid":"e5f258d181e940138eb575808ea1414c"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"59059e2fb9f5cc4267edea4419837b9b",
+    "wof:geomhash":"9f46f397894d02b5cd45c0a4a0407b31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101747435,
-    "wof:lastmodified":1566519744,
+    "wof:lastmodified":1722051434,
     "wof:name":"Okanese Indian Reserve No. 82 (Gg)",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",
@@ -74,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.23690749999997,
-    50.92338419999999,
+    -103.236907,
+    50.923384,
     -103.225579,
-    50.9306962
+    50.930696
 ],
-  "geometry": {"coordinates":[[[-103.2257055,50.92338419999999],[-103.23690749999997,50.92343640000001],[-103.236723,50.9306962],[-103.225579,50.93065430000001],[-103.2257055,50.92338419999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-103.225706,50.923384],[-103.236907,50.923436],[-103.236723,50.930696],[-103.225579,50.930654],[-103.225706,50.923384]]],"type":"Polygon"}
 }

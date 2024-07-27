@@ -112,16 +112,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138076,
         "gp:id":23396536,
+        "statcan:nid":"c79501a7be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464395",
         "wk:page":"Sainte-Prax\u00e8de, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4b710e3abdb81b99d4bcc0cb418bb34f",
     "wof:hierarchy":[
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101738573,
-    "wof:lastmodified":1690864544,
+    "wof:lastmodified":1722051521,
     "wof:name":"Sainte-Prax\u00e8de",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

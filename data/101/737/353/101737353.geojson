@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137667,
         "gp:id":23394507,
+        "statcan:nid":"fb966923be4c11d892e2080020a0f4c9",
         "wd:id":"Q3462046",
         "wk:page":"Saint-David-de-Falardeau, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ee54697d1ba3b00f5d4281d28b9c750a",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737353,
-    "wof:lastmodified":1690864266,
+    "wof:lastmodified":1722051510,
     "wof:name":"Saint-David-de-Falardeau",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

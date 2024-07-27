@@ -53,8 +53,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +62,11 @@
         "gn:id":6096544,
         "gp:id":2904,
         "qs_pg:id":1256017,
+        "statcan:nid":"0c2b3532849c20c396f7bd543a319430",
         "wd:id":"Q2201910",
         "wk:page":"Pangman, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864204,
+    "wof:lastmodified":1722051507,
     "wof:name":"Pangman",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

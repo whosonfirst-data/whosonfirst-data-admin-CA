@@ -105,15 +105,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":774,
         "qs_pg:id":1323949,
+        "statcan:nid":"028de59dd1e111d892e2080020a0f4c9",
         "wd:id":"Q3197176"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101736499,
-    "wof:lastmodified":1690864412,
+    "wof:lastmodified":1722051515,
     "wof:name":"Kinnear's Mills",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

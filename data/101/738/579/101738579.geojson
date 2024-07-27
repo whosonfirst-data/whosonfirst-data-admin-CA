@@ -96,17 +96,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456801
+        890456801,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6176899,
         "gp:id":1901,
         "qs_pg:id":1113271,
+        "statcan:nid":"c7fc8959bf0411d892e2080020a0f4c9",
         "wd:id":"Q142421",
         "wk:page":"Waterville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101738579,
-    "wof:lastmodified":1690864595,
+    "wof:lastmodified":1722051523,
     "wof:name":"Waterville",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

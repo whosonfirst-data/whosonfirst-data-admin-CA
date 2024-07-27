@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
     "geom:area_square_m":161263.722286,
-    "geom:bbox":"-124.3865108,54.63149,-124.380157,54.6351759",
+    "geom:bbox":"-124.386511,54.63149,-124.380157,54.635176",
     "geom:latitude":54.633333,
     "geom:longitude":-124.383334,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458087
+        890458087,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":23405550
+        "gp:id":23405550,
+        "statcan:nid":"510f0a61ba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"03190bd1091685f2951f1c338eff2282",
+    "wof:geomhash":"2bc4b3cd0de440e7089001cf4cc23d35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744581,
-    "wof:lastmodified":1566519971,
+    "wof:lastmodified":1722051487,
     "wof:name":"Chuz Ghun 8",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -124.3865108,
+    -124.386511,
     54.63149,
     -124.380157,
-    54.63517589999998
+    54.635176
 ],
-  "geometry": {"coordinates":[[[-124.3865108,54.6351047],[-124.38027949999997,54.63517589999998],[-124.380157,54.63156120000002],[-124.38638780000002,54.63149],[-124.3865108,54.6351047]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-124.386511,54.635105],[-124.380279,54.635176],[-124.380157,54.631561],[-124.386388,54.63149],[-124.386511,54.635105]]],"type":"Polygon"}
 }

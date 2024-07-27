@@ -63,15 +63,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456495
+        890456495,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374519,
         "qs_pg:id":1105348,
+        "statcan:nid":"30823c2cba2411d892e2080020a0f4c9",
         "wd:id":"Q3058755"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101741453,
-    "wof:lastmodified":1690864811,
+    "wof:lastmodified":1722051525,
     "wof:name":"Innue Essipit",
     "wof:parent_id":890456495,
     "wof:placetype":"locality",

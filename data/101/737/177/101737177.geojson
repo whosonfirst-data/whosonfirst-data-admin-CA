@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884887
+        1158884887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6945981,
         "gp:id":1458,
+        "statcan:nid":"0d0a2271849c20c3409599ce22404a83",
         "wd:id":"Q3214608",
         "wk:page":"Lac-Etchemin, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b08ef06520216abc05162eea47f470fc",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737177,
-    "wof:lastmodified":1690864367,
+    "wof:lastmodified":1722051514,
     "wof:name":"Lac-Etchemin",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

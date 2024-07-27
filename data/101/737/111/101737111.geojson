@@ -78,16 +78,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5882428,
         "gp:id":29374313,
+        "statcan:nid":"0cfffd4a849c20c36eed7559a255e77c",
         "wd:id":"Q2825345",
         "wk:page":"Adstock, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"15eb0d5a9df649cf9d0ea7b80577efe5",
     "wof:hierarchy":[
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101737111,
-    "wof:lastmodified":1690864307,
+    "wof:lastmodified":1722051511,
     "wof:name":"Adstock",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

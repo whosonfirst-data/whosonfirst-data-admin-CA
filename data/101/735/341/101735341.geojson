@@ -63,14 +63,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457755
+        890457755,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3674,
+        "statcan:nid":"b88181b6c6cd11d892e2080020a0f4c9",
         "wd:id":"Q3464155"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"875dd21b8c019083c3173b0a41f51404",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101735341,
-    "wof:lastmodified":1690864907,
+    "wof:lastmodified":1722051528,
     "wof:name":"Sainte-Anne-de-Madawaska",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

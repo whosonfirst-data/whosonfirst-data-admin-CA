@@ -61,8 +61,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457691
+        890457691,
+        85682057
     ],
     "wof:breaches":[
         101740721
@@ -71,8 +71,10 @@
         "gn:id":5942213,
         "gp:id":419,
         "qs_pg:id":71530,
+        "statcan:nid":"95c12b57c6be11d892e2080020a0f4c9",
         "wd:id":"Q5302304"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"89e4fa1c97aeb8eee8179be872cacd3d",
     "wof:hierarchy":[
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101736259,
-    "wof:lastmodified":1690864409,
+    "wof:lastmodified":1722051515,
     "wof:name":"Douro-Dummer",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",

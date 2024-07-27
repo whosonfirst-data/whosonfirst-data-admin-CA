@@ -471,14 +471,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456341
+        890456341,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5969785,
         "gp:id":4125,
         "qs_pg:id":355734,
+        "statcan:nid":"f72b1161d05211d892e2080020a0f4c9",
         "wd:id":"Q133116",
         "wk:page":"Hamilton, Ontario"
     },
@@ -496,6 +497,7 @@
             "Q133116"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:coterminous":[
         890456341
     ],
@@ -515,7 +517,7 @@
         }
     ],
     "wof:id":101735515,
-    "wof:lastmodified":1706239356,
+    "wof:lastmodified":1722051533,
     "wof:name":"Hamilton",
     "wof:parent_id":890456341,
     "wof:placetype":"locality",

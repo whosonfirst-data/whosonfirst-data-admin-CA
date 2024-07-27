@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456469
+        890456469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139210,
         "gp:id":23396617,
+        "statcan:nid":"0cf5e49e849c20c3783d526b9fd1bed9",
         "wd:id":"Q3463536",
         "wk:page":"Saint-Z\u00e9non, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"92049a2373332100d8f22b969094b740",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737063,
-    "wof:lastmodified":1690864298,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Z\u00e9non",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

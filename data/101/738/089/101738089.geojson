@@ -113,14 +113,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457803
+        890457803,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6113466,
         "gp:id":1282,
         "qs_pg:id":103027,
+        "statcan:nid":"857c22c9be4711d892e2080020a0f4c9",
         "wd:id":"Q142516",
         "wk:page":"Princeville, Quebec"
     },
@@ -135,6 +136,7 @@
             "Princeville%2C_Quebec"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101738089,
-    "wof:lastmodified":1706239363,
+    "wof:lastmodified":1722051534,
     "wof:name":"Princeville",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

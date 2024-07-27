@@ -85,17 +85,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457829
+        890457829,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8354587,
         "gp:id":23394286,
         "qs_pg:id":1092168,
+        "statcan:nid":"886bb9acbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462681",
         "wk:page":"Saint-Lambert-de-Lauzon, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8eeb4066c2d945ca69f10f66962a96bf",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101738127,
-    "wof:lastmodified":1690864539,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Lambert-de-Lauzon",
     "wof:parent_id":890457829,
     "wof:placetype":"locality",

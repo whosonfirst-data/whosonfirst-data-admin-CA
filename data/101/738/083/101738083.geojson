@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458025
+        890458025,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6086552,
         "gp:id":23395390,
+        "statcan:nid":"83e92019be3f11d892e2080020a0f4c9",
         "wd:id":"Q3346941",
         "wk:page":"N\u00e9d\u00e9lec, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8b76707d878c4a3d8fa67f5d935d5145",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738083,
-    "wof:lastmodified":1690864512,
+    "wof:lastmodified":1722051520,
     "wof:name":"N\u00e9d\u00e9lec",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

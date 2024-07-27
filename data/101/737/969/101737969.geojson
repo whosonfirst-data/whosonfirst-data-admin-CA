@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394368,
+        "statcan:nid":"6f1c0583bf9111d892e2080020a0f4c9",
         "wd:id":"Q3068817"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"901d97b7e3acfbcf6a86569512ff9872",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101737969,
-    "wof:lastmodified":1690864328,
+    "wof:lastmodified":1722051512,
     "wof:name":"Ferland-et-Boilleau",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

@@ -101,17 +101,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456845
+        890456845,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5909969,
         "gp:id":23394282,
         "qs_pg:id":1244919,
+        "statcan:nid":"0fdbd1d9849c20c3d910ad5de1aba40c",
         "wd:id":"Q141415",
         "wk:page":"Brownsburg-Chatham, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101737241,
-    "wof:lastmodified":1690864336,
+    "wof:lastmodified":1722051513,
     "wof:name":"Brownsburg-Chatham",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

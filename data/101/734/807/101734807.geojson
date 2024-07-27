@@ -17,7 +17,7 @@
     "mps:latitude":50.780066,
     "mps:longitude":-101.283546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Russell"
@@ -74,17 +74,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868973
+        1158868973,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c02484-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6136576,
         "gp:id":2488,
+        "statcan:nid":"88509e05bef111d892e2080020a0f4c9",
         "wd:id":"Q281202",
         "wk:page":"Russell, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a59630d9d631bd613e0925237a61ff1c",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101734807,
-    "wof:lastmodified":1690864852,
+    "wof:lastmodified":1722051458,
     "wof:name":"Russell",
     "wof:parent_id":1158868973,
     "wof:placetype":"locality",

@@ -80,16 +80,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458633
+        890458633,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139085,
         "gp:id":1616,
+        "statcan:nid":"d71d99b8be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463397",
         "wk:page":"Saint-Stanislas%2C_Saguenay%E2%80%93Lac-Saint-Jean%2C_Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"657406f01f0e47f21ea1a086554a0f2b",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101738703,
-    "wof:lastmodified":1706239363,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Stanislas",
     "wof:parent_id":890458633,
     "wof:placetype":"locality",

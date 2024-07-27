@@ -76,17 +76,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457727
+        890457727,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6639618,
         "gp:id":51,
         "qs_pg:id":239163,
+        "statcan:nid":"a12bef77d1e011d892e2080020a0f4c9",
         "wd:id":"Q2879388",
         "wk:page":"Baie-Sainte-Catherine, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b5aadac85a40308a344b6d0b3cc9b368",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738317,
-    "wof:lastmodified":1690864594,
+    "wof:lastmodified":1722051523,
     "wof:name":"Baie-Sainte-Catherine",
     "wof:parent_id":890457727,
     "wof:placetype":"locality",

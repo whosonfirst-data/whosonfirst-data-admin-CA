@@ -57,17 +57,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c02556-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5965711,
         "gp:id":2495,
+        "statcan:nid":"0c296c25849c20c34de943b1ec10052f",
         "wd:id":"Q2003730",
         "wk:page":"Grayson, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a1dc8c9d04c8528db048bf4c415a3002",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864219,
+    "wof:lastmodified":1722051508,
     "wof:name":"Grayson",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

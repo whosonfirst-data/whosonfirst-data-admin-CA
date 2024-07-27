@@ -83,15 +83,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458081
+        890458081,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138820,
         "gp:id":23396586,
+        "statcan:nid":"a5ace4b6be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463036"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5435a1ec437e51b6d20b6c02bfd55c02",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738347,
-    "wof:lastmodified":1690864542,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Nazaire-d'Acton",
     "wof:parent_id":890458081,
     "wof:placetype":"locality",

@@ -310,8 +310,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456343
+        890456343,
+        85682057
     ],
     "wof:breaches":[
         101740755
@@ -320,9 +320,11 @@
         "gn:id":6075357,
         "gp:id":22664159,
         "qs_pg:id":843144,
+        "statcan:nid":"3c53b17fc6ce11d892e2080020a0f4c9",
         "wd:id":"Q50816",
         "wk:page":"Mississauga"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -338,7 +340,7 @@
         }
     ],
     "wof:id":101735893,
-    "wof:lastmodified":1690864901,
+    "wof:lastmodified":1722051528,
     "wof:name":"Mississauga",
     "wof:parent_id":890456343,
     "wof:placetype":"locality",

@@ -82,8 +82,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868969
+        1158868969,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,9 +91,11 @@
         "gn:id":6128008,
         "gp:id":2144,
         "qs_pg:id":1223814,
+        "statcan:nid":"0c2ccaf6849c20c3e3cdd2f31e30093c",
         "wd:id":"Q1916887",
         "wk:page":"Rosthern"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864186,
+    "wof:lastmodified":1722051506,
     "wof:name":"Rosthern",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

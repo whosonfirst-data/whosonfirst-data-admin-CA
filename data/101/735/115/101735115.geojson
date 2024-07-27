@@ -127,8 +127,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868951
+        1158868951,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,9 +136,11 @@
         "gn:id":6078447,
         "gp:id":3033,
         "qs_pg:id":1252224,
+        "statcan:nid":"672e3e69beed11d892e2080020a0f4c9",
         "wd:id":"Q579689",
         "wk:page":"Morden, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864962,
+    "wof:lastmodified":1722051531,
     "wof:name":"Morden",
     "wof:parent_id":1158868951,
     "wof:placetype":"locality",

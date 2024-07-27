@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
     "geom:area_square_m":161374.698252,
-    "geom:bbox":"-122.6238373,52.4298491,-122.6178737,52.4334943",
-    "geom:latitude":52.431672,
+    "geom:bbox":"-122.623837,52.429849,-122.617874,52.433494",
+    "geom:latitude":52.431671,
     "geom:longitude":-122.620856,
     "iso:country":"CA",
     "lbl:latitude":52.431672,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":9573
+        "gp:id":9573,
+        "statcan:nid":"9934f58eba3411d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"a772e22151938ff2c20da38f10d8d39f",
+    "wof:geomhash":"fdda68c50cc47fa88b94beddcbf794ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101747057,
-    "wof:lastmodified":1566519740,
+    "wof:lastmodified":1722051474,
     "wof:name":"Big Joe'S Meadow 7",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.6238373,
-    52.42984910000001,
-    -122.61787370000002,
-    52.4334943
+    -122.623837,
+    52.429849,
+    -122.617874,
+    52.433494
 ],
-  "geometry": {"coordinates":[[[-122.62383730000001,52.42987729999999],[-122.62379140000002,52.4334943],[-122.61787370000002,52.43346609999998],[-122.61792,52.42984910000001],[-122.62383730000001,52.42987729999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.62383699999999,52.429877],[-122.623791,52.433494],[-122.617874,52.433466],[-122.61792,52.429849],[-122.62383699999999,52.429877]]],"type":"Polygon"}
 }

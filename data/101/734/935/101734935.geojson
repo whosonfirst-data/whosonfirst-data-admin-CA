@@ -200,15 +200,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869053
+        1158869053,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6154184,
         "gp:id":29373390,
+        "statcan:nid":"54a67e06bef211d892e2080020a0f4c9",
         "wd:id":"Q1661391"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fa069e03dd1a97faec2cf5f2f7053d58",
     "wof:hierarchy":[
@@ -221,7 +223,7 @@
         }
     ],
     "wof:id":101734935,
-    "wof:lastmodified":1690864847,
+    "wof:lastmodified":1722051526,
     "wof:name":"Springfield",
     "wof:parent_id":1158869053,
     "wof:placetype":"locality",

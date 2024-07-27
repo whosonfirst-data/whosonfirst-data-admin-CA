@@ -80,17 +80,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457817
+        890457817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6094391,
         "gp:id":3571,
         "qs_pg:id":160336,
+        "statcan:nid":"0d08197b849c20c345790e1d4ac22ee9",
         "wd:id":"Q3356519",
         "wk:page":"Ormstown, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101737137,
-    "wof:lastmodified":1690864332,
+    "wof:lastmodified":1722051513,
     "wof:name":"Ormstown",
     "wof:parent_id":890457817,
     "wof:placetype":"locality",

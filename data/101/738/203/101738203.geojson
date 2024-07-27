@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457827
+        890457827,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138370,
         "gp:id":23394570,
+        "statcan:nid":"900362b4d1e011d892e2080020a0f4c9",
         "wd:id":"Q3462427",
         "wk:page":"Saint-Hugues, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"627b24602229c6d6aa491b19eed323f4",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101738203,
-    "wof:lastmodified":1690864525,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Hugues",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

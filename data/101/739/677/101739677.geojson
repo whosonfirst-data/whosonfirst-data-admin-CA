@@ -134,16 +134,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868959
+        1158868959,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba52f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6142506,
         "gp:id":2165,
+        "statcan:nid":"0c2c1eb0849c20c338345aee9b6c2ae5",
         "wd:id":"Q1916940"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"be7e4545d958d08fe93e785e3428f278",
     "wof:hierarchy":[
@@ -159,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864239,
+    "wof:lastmodified":1722051509,
     "wof:name":"Scott",
     "wof:parent_id":1158868959,
     "wof:placetype":"locality",

@@ -75,15 +75,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458611
+        890458611,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6085881,
         "gp:id":23394438,
+        "statcan:nid":"4da2791dbe3f11d892e2080020a0f4c9",
         "wd:id":"Q3335789"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fbee2dfd4867a180eea44951a3c6813c",
     "wof:hierarchy":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101737751,
-    "wof:lastmodified":1690864326,
+    "wof:lastmodified":1722051512,
     "wof:name":"Nantes",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457691
+        890457691,
+        85682057
     ],
     "wof:breaches":[
         101740721
     ],
     "wof:concordances":{
         "gp:id":56622910,
+        "statcan:nid":"0de342acd05311d892e2080020a0f4c9",
         "wd:id":"Q7108993"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"77b819158a90f84144c685f03edd5877",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101736241,
-    "wof:lastmodified":1690864454,
+    "wof:lastmodified":1722051518,
     "wof:name":"Otonabee-South Monaghan",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",

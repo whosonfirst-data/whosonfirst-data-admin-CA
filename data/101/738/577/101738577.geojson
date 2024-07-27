@@ -137,17 +137,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458535
+        890458535,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6176821,
         "gp:id":3552,
         "qs_pg:id":1053614,
+        "statcan:nid":"c7bebd05bf0411d892e2080020a0f4c9",
         "wd:id":"Q142289",
         "wk:page":"Waterloo, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101738577,
-    "wof:lastmodified":1690864597,
+    "wof:lastmodified":1722051523,
     "wof:name":"Waterloo",
     "wof:parent_id":890458535,
     "wof:placetype":"locality",

@@ -139,15 +139,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5940956,
+        "statcan:nid":"014cf96b0a0012045bfb78a6ad242761",
         "wd:id":"Q141998",
         "wk:page":"Dollard-des-Ormeaux"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101736467,
-    "wof:lastmodified":1690864467,
+    "wof:lastmodified":1722051518,
     "wof:name":"Dollard-Des Ormeaux",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

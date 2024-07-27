@@ -81,16 +81,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456487
+        890456487,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5949512,
         "gp:id":23404886,
+        "statcan:nid":"edc20d31ba3511d892e2080020a0f4c9",
         "wd:id":"Q14944797",
         "wk:page":"Esquimalt"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5172df34268eb5295cb34034605730ee",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101743837,
-    "wof:lastmodified":1690864986,
+    "wof:lastmodified":1722051532,
     "wof:name":"Esquimalt",
     "wof:parent_id":890456487,
     "wof:placetype":"locality",

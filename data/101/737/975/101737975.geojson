@@ -128,17 +128,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5899017,
         "gp:id":3494,
         "qs_pg:id":1249063,
+        "statcan:nid":"70ec3804bbea11d892e2080020a0f4c9",
         "wd:id":"Q139046",
         "wk:page":"Berthierville"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101737975,
-    "wof:lastmodified":1690864375,
+    "wof:lastmodified":1722051514,
     "wof:name":"Berthierville",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

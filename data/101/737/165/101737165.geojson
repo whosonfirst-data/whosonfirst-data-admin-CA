@@ -129,17 +129,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457811
+        890457811,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138617,
         "gp:id":23396571,
         "qs_pg:id":906292,
+        "statcan:nid":"0d09cb23849c20c3666e0c370b40dc03",
         "wd:id":"Q142426",
         "wk:page":"Saint-Lazare, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"acbe70288638b1862206afcbaec54e05",
     "wof:hierarchy":[
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101737165,
-    "wof:lastmodified":1690864323,
+    "wof:lastmodified":1722051512,
     "wof:name":"Saint-Lazare",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

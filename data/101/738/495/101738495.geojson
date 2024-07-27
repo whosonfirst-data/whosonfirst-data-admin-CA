@@ -96,17 +96,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457199
+        890457199,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943814,
         "gp:id":3732,
         "qs_pg:id":161006,
+        "statcan:nid":"c3980eefbf0a11d892e2080020a0f4c9",
         "wd:id":"Q142969",
         "wk:page":"Grande-Rivi\u00e8re, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101738495,
-    "wof:lastmodified":1690864581,
+    "wof:lastmodified":1722051523,
     "wof:name":"Grande-Rivi\u00e8re",
     "wof:parent_id":890457199,
     "wof:placetype":"locality",

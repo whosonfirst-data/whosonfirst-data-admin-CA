@@ -69,16 +69,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890458685
+        890458685,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943601,
         "gp:id":56621181,
+        "statcan:nid":"0c80cf42849c20c3d9db56b0aee948e1",
         "wd:id":"Q3314380",
         "wk:page":"Millville, New Brunswick"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d2aaa23eda0ba28f263abb2471d5928b",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101735151,
-    "wof:lastmodified":1690864875,
+    "wof:lastmodified":1722051527,
     "wof:name":"Millville",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

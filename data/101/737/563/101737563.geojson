@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457827
+        890457827,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138016,
         "gp:id":23394684,
+        "statcan:nid":"2b5ca28abe4d11d892e2080020a0f4c9",
         "wd:id":"Q3464345",
         "wk:page":"Sainte-Marie-Madeleine, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"94652a5c9f13e8b5e063d223f300ac4c",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737563,
-    "wof:lastmodified":1690864326,
+    "wof:lastmodified":1722051512,
     "wof:name":"Sainte-Marie-Madeleine",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

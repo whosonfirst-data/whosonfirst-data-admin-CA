@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
     "geom:area_square_m":645088.613074,
-    "geom:bbox":"-103.9049227,51.5346424,-103.8933192,51.5418905",
+    "geom:bbox":"-103.904923,51.534642,-103.893319,51.541891",
     "geom:latitude":51.538269,
     "geom:longitude":-103.899119,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":51.538269,
     "mps:longitude":-103.899119,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muskowekwan I.R. 85-49"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868983
+        1158868983,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373190
+        "gp:id":29373190,
+        "statcan:nid":"6c9ebc27849c20c34197cd910b81d095"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"57b74a61cbdae3d105c734d042f98685",
+    "wof:geomhash":"b9e3c5d4d547eb3a9a44b55a73247a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746373,
-    "wof:lastmodified":1566519851,
+    "wof:lastmodified":1722051442,
     "wof:name":"Muskowekwan I.R. 85-49",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.90492269999999,
-    51.5346424,
-    -103.8933192,
-    51.54189050000002
+    -103.904923,
+    51.534642,
+    -103.893319,
+    51.541891
 ],
-  "geometry": {"coordinates":[[[-103.89331919999999,51.5346424],[-103.90490820000002,51.534659],[-103.90492269999999,51.54189050000002],[-103.89332969999998,51.54188340000002],[-103.89331919999999,51.5346424]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-103.89331900000001,51.534642],[-103.90490800000001,51.534659],[-103.904923,51.541891],[-103.89333000000001,51.541883],[-103.89331900000001,51.534642]]],"type":"Polygon"}
 }

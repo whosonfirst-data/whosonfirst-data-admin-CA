@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456397
+        890456397,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396522,
+        "statcan:nid":"199b325bbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3464270"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7dd30daa2e814e669b6ef02e196f25d4",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101737271,
-    "wof:lastmodified":1690864343,
+    "wof:lastmodified":1722051513,
     "wof:name":"Sainte-Fran\u00e7oise",
     "wof:parent_id":890456397,
     "wof:placetype":"locality",

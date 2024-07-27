@@ -310,17 +310,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457997
+        890457997,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5889745,
         "gp:id":3626,
         "qs_pg:id":959573,
+        "statcan:nid":"23660483bbe611d892e2080020a0f4c9",
         "wd:id":"Q139654",
         "wk:page":"Baie-Comeau"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -336,7 +338,7 @@
         }
     ],
     "wof:id":101737479,
-    "wof:lastmodified":1690864284,
+    "wof:lastmodified":1722051510,
     "wof:name":"Baie-Comeau",
     "wof:parent_id":890457997,
     "wof:placetype":"locality",

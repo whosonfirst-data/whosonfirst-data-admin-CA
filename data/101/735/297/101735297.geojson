@@ -84,16 +84,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890456465
+        890456465,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943605,
         "gp:id":23392462,
+        "statcan:nid":"b4dbaa84d05211d892e2080020a0f4c9",
         "wd:id":"Q3376161",
         "wk:page":"Perth-Andover"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6dcfa1640222628251a432741a4cc285",
     "wof:hierarchy":[
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101735297,
-    "wof:lastmodified":1690864958,
+    "wof:lastmodified":1722051531,
     "wof:name":"Perth-Andover",
     "wof:parent_id":890456465,
     "wof:placetype":"locality",

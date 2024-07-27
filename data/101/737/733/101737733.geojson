@@ -78,16 +78,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458401
+        890458401,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8672833,
         "gp:id":23394659,
         "qs_pg:id":8226,
+        "statcan:nid":"48316ab0be3211d892e2080020a0f4c9",
         "wd:id":"Q3219662"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101737733,
-    "wof:lastmodified":1690864322,
+    "wof:lastmodified":1722051512,
     "wof:name":"Laurier-Station",
     "wof:parent_id":890458401,
     "wof:placetype":"locality",
