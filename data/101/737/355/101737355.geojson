@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456455
+        890456455,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5888403,
         "gp:id":23394326,
+        "statcan:nid":"fc2dbc11bbe511d892e2080020a0f4c9",
         "wd:id":"Q1802718",
         "wk:page":"Austin, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5039f479827ce4b48989b550aa919e1e",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737355,
-    "wof:lastmodified":1690864272,
+    "wof:lastmodified":1722051510,
     "wof:name":"Austin",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

@@ -242,8 +242,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868975
+        1158868975,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,9 +251,11 @@
         "gn:id":6050066,
         "gp:id":824,
         "qs_pg:id":274718,
+        "statcan:nid":"eefc3b15d05311d892e2080020a0f4c9",
         "wd:id":"Q2782497",
         "wk:page":"La Ronge"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -272,7 +274,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864222,
+    "wof:lastmodified":1722051508,
     "wof:name":"La Ronge",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

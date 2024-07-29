@@ -64,14 +64,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456569
+        890456569,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56621771,
+        "statcan:nid":"f7cef28fd05211d892e2080020a0f4c9",
         "wd:id":"Q3492513"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a24b3494d9c7d74aafe498b8c1fd177a",
     "wof:hierarchy":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101736113,
-    "wof:lastmodified":1690864489,
+    "wof:lastmodified":1722051519,
     "wof:name":"Grey Highlands",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",

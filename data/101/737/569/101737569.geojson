@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458115
+        890458115,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396886,
+        "statcan:nid":"2cc1b2f0d1e411d892e2080020a0f4c9",
         "wd:id":"Q3377323"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"67100592f5f8bab3791932cfbcd24302",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101737569,
-    "wof:lastmodified":1690864262,
+    "wof:lastmodified":1722051509,
     "wof:name":"Petite-Rivi\u00e8re-Saint-Fran\u00e7ois",
     "wof:parent_id":890458115,
     "wof:placetype":"locality",

@@ -95,17 +95,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868939
+        1158868939,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c04752-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5917796,
         "gp:id":3036,
+        "statcan:nid":"e61f5617bede11d892e2080020a0f4c9",
         "wd:id":"Q2848136",
         "wk:page":"Cartwright, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"37b643d83a805d6c16f441b291d1ce8f",
     "wof:hierarchy":[
@@ -121,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636414361,
+    "wof:lastmodified":1722051506,
     "wof:name":"Cartwright",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

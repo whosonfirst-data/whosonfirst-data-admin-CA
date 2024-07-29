@@ -60,17 +60,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868987
+        1158868987,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba9dc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6087360,
         "gp:id":2807,
+        "statcan:nid":"0c27c87c849c20c3c941131a79971197",
         "wd:id":"Q774023",
         "wk:page":"Neville, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"335bea989a983da093b67654c0448e2f",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864244,
+    "wof:lastmodified":1722051509,
     "wof:name":"Neville",
     "wof:parent_id":1158868987,
     "wof:placetype":"locality",

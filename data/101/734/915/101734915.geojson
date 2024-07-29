@@ -17,7 +17,7 @@
     "mps:latitude":50.181658,
     "mps:longitude":-100.599229,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Hamiota"
@@ -68,17 +68,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868995
+        1158868995,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c029b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5969883,
         "gp:id":2532,
+        "statcan:nid":"7d8bb11bbee311d892e2080020a0f4c9",
         "wd:id":"Q281271",
         "wk:page":"Hamiota, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"588bec84ee8bb12de34a076f53e103a9",
     "wof:hierarchy":[
@@ -94,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864842,
+    "wof:lastmodified":1722051457,
     "wof:name":"Hamiota",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458841
+        890458841,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5955860,
         "gp:id":3464,
+        "statcan:nid":"0cf5809f849c20c3dd9bb12dbee48455",
         "wd:id":"Q3078488",
         "wk:page":"Fortierville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5992c5e26d3b3a45412ef4feb8ab224e",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101737047,
-    "wof:lastmodified":1690864288,
+    "wof:lastmodified":1722051510,
     "wof:name":"Fortierville",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

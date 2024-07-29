@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":9630,
+        "statcan:nid":"75a96c28ba3511d892e2080020a0f4c9",
         "wd:id":"Q8565017"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6b76f3e5cd7271a2669e9b86f931b6bd",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101744849,
-    "wof:lastmodified":1690864979,
+    "wof:lastmodified":1722051532,
     "wof:name":"Fountain 1B",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

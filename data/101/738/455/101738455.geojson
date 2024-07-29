@@ -101,17 +101,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456677
+        890456677,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6049087,
         "gp:id":23395047,
         "qs_pg:id":206008,
+        "statcan:nid":"bade3848be3111d892e2080020a0f4c9",
         "wd:id":"Q677206",
         "wk:page":"La Motte, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"74942554fa38e64e871947ce6d8f459b",
     "wof:hierarchy":[
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101738455,
-    "wof:lastmodified":1690864526,
+    "wof:lastmodified":1722051521,
     "wof:name":"La Motte",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

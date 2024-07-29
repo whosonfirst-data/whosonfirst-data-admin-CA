@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
     "geom:area_square_m":726328.749137,
-    "geom:bbox":"-123.299931,51.7648223,-123.2823583,51.7703508",
+    "geom:bbox":"-123.299931,51.764822,-123.282358,51.770351",
     "geom:latitude":51.767587,
     "geom:longitude":-123.291145,
     "iso:country":"CA",
@@ -57,15 +57,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":9600
+        "gp:id":9600,
+        "statcan:nid":"d73000d5ba3511d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"49a60731ae5630ce07687d42e250bc23",
+    "wof:geomhash":"d38f620b4a7905073ad0554f711f2c97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101745103,
-    "wof:lastmodified":1566520032,
+    "wof:lastmodified":1722051496,
     "wof:name":"Brigham Creek 3",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -88,9 +90,9 @@
 },
   "bbox": [
     -123.299931,
-    51.7648223,
-    -123.2823583,
-    51.77035080000002
+    51.764822,
+    -123.282358,
+    51.770351
 ],
-  "geometry": {"coordinates":[[[-123.299931,51.76492430000002],[-123.2998498,51.77035080000002],[-123.2823583,51.7702485],[-123.28244180000002,51.7648223],[-123.299931,51.76492430000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-123.299931,51.764924],[-123.29985000000001,51.770351],[-123.282358,51.770249],[-123.282442,51.764822],[-123.299931,51.764924]]],"type":"Polygon"}
 }

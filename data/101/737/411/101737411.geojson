@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457891
+        890457891,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6354898,
         "gp:id":23396430,
+        "statcan:nid":"1788a603be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464250",
         "wk:page":"Sainte-Euph\u00e9mie-sur-Rivi\u00e8re-du-Sud, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"dca06be467fd777c2128ed6e68ad0c1a",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737411,
-    "wof:lastmodified":1690864341,
+    "wof:lastmodified":1722051513,
     "wof:name":"Sainte-Euph\u00e9mie-sur-Rivi\u00e8re-du-Sud",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

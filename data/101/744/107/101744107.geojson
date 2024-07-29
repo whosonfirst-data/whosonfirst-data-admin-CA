@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":80815.912742,
-    "geom:bbox":"-121.3450046,50.4455307,-121.3421721,50.4491599",
+    "geom:bbox":"-121.345005,50.445531,-121.342172,50.44916",
     "geom:latitude":50.447343,
     "geom:longitude":-121.343588,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458465
+        890458465,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373545
+        "gp:id":29373545,
+        "statcan:nid":"264388ddba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"6aa9f5cda7100f1e988d06f00edf78fb",
+    "wof:geomhash":"5c4e41bfe0e84f988b3d2feea723bd01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744107,
-    "wof:lastmodified":1566519974,
+    "wof:lastmodified":1722051487,
     "wof:name":"Chuchhriaschin 5A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.34500459999998,
-    50.4455307,
-    -121.34217210000003,
-    50.44915989999998
+    -121.345005,
+    50.445531,
+    -121.342172,
+    50.44916
 ],
-  "geometry": {"coordinates":[[[-121.34500459999998,50.4455307],[-121.34500359999998,50.4491516],[-121.34217339999998,50.44915989999998],[-121.34217210000003,50.44553079999997],[-121.34500459999998,50.4455307]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.345005,50.445531],[-121.345004,50.449152],[-121.342173,50.44916],[-121.34217200000001,50.445531],[-121.345005,50.445531]]],"type":"Polygon"}
 }

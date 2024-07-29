@@ -134,8 +134,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456833
+        890456833,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,9 +143,11 @@
         "gn:id":6075061,
         "gp:id":3523,
         "qs_pg:id":358572,
+        "statcan:nid":"c43c172dbf0a11d892e2080020a0f4c9",
         "wd:id":"Q141921",
         "wk:page":"Mirabel, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:coterminous":[
         890456833
     ],
@@ -167,7 +169,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864554,
+    "wof:lastmodified":1722051522,
     "wof:name":"Mirabel",
     "wof:parent_id":890456833,
     "wof:placetype":"locality",

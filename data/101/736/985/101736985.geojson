@@ -106,14 +106,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884887
+        1158884887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374208,
+        "statcan:nid":"0cf47f84849c20c3e6e7196b0373187a",
         "wd:id":"Q3462793"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"75607bff0d144d6f69994a43e45a2eb5",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101736985,
-    "wof:lastmodified":1690864433,
+    "wof:lastmodified":1722051517,
     "wof:name":"Saint-Luc-de-Bellechasse",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

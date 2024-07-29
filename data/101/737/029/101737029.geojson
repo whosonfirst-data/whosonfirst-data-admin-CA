@@ -85,17 +85,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137641,
         "gp:id":23394505,
         "qs_pg:id":1013990,
+        "statcan:nid":"0cf53310849c20c3c05781e45849a584",
         "wd:id":"Q3462007",
         "wk:page":"Saint-Cuthbert, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"78976882bbcd1c1df27b08c764b7bae2",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737029,
-    "wof:lastmodified":1690864340,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-Cuthbert",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

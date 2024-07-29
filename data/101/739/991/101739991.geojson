@@ -65,17 +65,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c03d02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6115725,
         "gp:id":2924,
+        "statcan:nid":"0cfea3c0849c20c308b3f798ed1c8083",
         "wd:id":"Q1916667",
         "wk:page":"Radville"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8aa59c212d81b3a9e04832dd4bbc6e4b",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864180,
+    "wof:lastmodified":1722051506,
     "wof:name":"Radville",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

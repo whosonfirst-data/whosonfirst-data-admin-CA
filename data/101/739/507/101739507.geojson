@@ -60,17 +60,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868981
+        1158868981,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba7476-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6167261,
         "gp:id":2447,
+        "statcan:nid":"0c2fd1dd849c20c3883c1f4ccfed00af",
         "wd:id":"Q2204967",
         "wk:page":"Togo, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f07205210a0d0064d178c8c6d71e9f2f",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864225,
+    "wof:lastmodified":1722051508,
     "wof:name":"Togo",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

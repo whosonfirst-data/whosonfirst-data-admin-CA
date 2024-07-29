@@ -122,14 +122,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457827
+        890457827,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138914,
         "gp:id":1597,
         "qs_pg:id":160395,
+        "statcan:nid":"0d030347849c20c306d51b2d26514117",
         "wd:id":"Q141366",
         "wk:page":"Saint-Pie, Quebec"
     },
@@ -141,6 +142,7 @@
             "Saint-Pie,_Quebec"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":101737121,
-    "wof:lastmodified":1706239361,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Pie",
     "wof:parent_id":890457827,
     "wof:placetype":"locality",

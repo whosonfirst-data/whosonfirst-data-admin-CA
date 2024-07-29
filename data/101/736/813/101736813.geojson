@@ -109,17 +109,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457801
+        890457801,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137378,
         "gp:id":23394482,
         "qs_pg:id":906075,
+        "statcan:nid":"0ccfb88f849c20c350011e84d13af6e4",
         "wd:id":"Q3461735",
         "wk:page":"Saint-Amable, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"cea091e4125fc069f2858bb5bada2f03",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101736813,
-    "wof:lastmodified":1690864464,
+    "wof:lastmodified":1722051518,
     "wof:name":"Saint-Amable",
     "wof:parent_id":890457801,
     "wof:placetype":"locality",

@@ -53,14 +53,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869059
+        1158869059,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2997,
+        "statcan:nid":"f7856b10bedf11d892e2080020a0f4c9",
         "wd:id":"Q1658933"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"41f079ff78e1440a777b6b9f2b14798e",
     "wof:hierarchy":[
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101735039,
-    "wof:lastmodified":1690864905,
+    "wof:lastmodified":1722051528,
     "wof:name":"De Salaberry",
     "wof:parent_id":1158869059,
     "wof:placetype":"locality",

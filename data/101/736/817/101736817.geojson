@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137855,
         "gp:id":23394525,
+        "statcan:nid":"0cd0330c849c20c351e427440f4e8cf2",
         "wd:id":"Q3463569",
         "wk:page":"Saint-\u00c9douard-de-Maskinong\u00e9, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"de932b80eaacb57c8dba4ac68cc3b4f4",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101736817,
-    "wof:lastmodified":1690864401,
+    "wof:lastmodified":1722051515,
     "wof:name":"Saint-\u00c9douard-de-Maskinong\u00e9",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

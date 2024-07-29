@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458841
+        890458841,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6052163,
         "gp:id":23394417,
+        "statcan:nid":"d8b59257be3211d892e2080020a0f4c9",
         "wd:id":"Q3229323",
         "wk:page":"Lemieux, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f3f1a3ff72327fdea9bafc993dc45902",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101738725,
-    "wof:lastmodified":1690864534,
+    "wof:lastmodified":1722051521,
     "wof:name":"Lemieux",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

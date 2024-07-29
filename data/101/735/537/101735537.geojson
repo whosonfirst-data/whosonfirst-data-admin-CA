@@ -76,14 +76,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374269,
+        "statcan:nid":"0c626d78849c20c3ae736edfbdcbfddf",
         "wd:id":"Q6127957"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8309ce8465c956b8ef4315c16a4d758a",
     "wof:hierarchy":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101735537,
-    "wof:lastmodified":1690864920,
+    "wof:lastmodified":1722051529,
     "wof:name":"James",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

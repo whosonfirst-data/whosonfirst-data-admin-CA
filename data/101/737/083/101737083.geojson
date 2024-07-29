@@ -111,17 +111,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456501
+        890456501,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943824,
         "gp:id":3621,
         "qs_pg:id":161010,
+        "statcan:nid":"0cf6c055849c20c3a270a7c23a34a942",
         "wd:id":"Q141663",
         "wk:page":"Pasp\u00e9biac"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101737083,
-    "wof:lastmodified":1690864280,
+    "wof:lastmodified":1722051510,
     "wof:name":"Pasp\u00e9biac",
     "wof:parent_id":890456501,
     "wof:placetype":"locality",

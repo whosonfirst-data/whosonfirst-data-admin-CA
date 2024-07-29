@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[
         101740451
@@ -55,8 +55,10 @@
         "fct:id":"03bec03a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5993208,
         "gp:id":29373750,
+        "statcan:nid":"08399b01d05511d892e2080020a0f4c9",
         "wd:id":"Q6418805"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9bf038702400d9f77767108293f509b6",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864234,
+    "wof:lastmodified":1722051508,
     "wof:name":"Kivimaa-Moonlight Bay",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

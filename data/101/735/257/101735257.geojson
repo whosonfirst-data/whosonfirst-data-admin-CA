@@ -151,17 +151,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890456457
+        890456457,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5884081,
         "gp:id":13,
         "qs_pg:id":906366,
+        "statcan:nid":"0c79cff3849c20c34048c09d398c073a",
         "wd:id":"Q2645708",
         "wk:page":"South Indian Lake Airport"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -177,7 +179,7 @@
         }
     ],
     "wof:id":101735257,
-    "wof:lastmodified":1690864889,
+    "wof:lastmodified":1722051527,
     "wof:name":"Alma",
     "wof:parent_id":890456457,
     "wof:placetype":"locality",

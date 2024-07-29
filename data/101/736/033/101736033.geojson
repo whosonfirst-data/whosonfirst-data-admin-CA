@@ -91,16 +91,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456257
+        890456257,
+        85682057
     ],
     "wof:breaches":[
         101740739
     ],
     "wof:concordances":{
         "gp:id":23399116,
+        "statcan:nid":"1acf9a7fba2c11d892e2080020a0f4c9",
         "wd:id":"Q1932971"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9dc9207f155263398fd64a228bf3a0ae",
     "wof:hierarchy":[
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101736033,
-    "wof:lastmodified":1690864473,
+    "wof:lastmodified":1722051519,
     "wof:name":"The Nation",
     "wof:parent_id":890456257,
     "wof:placetype":"locality",

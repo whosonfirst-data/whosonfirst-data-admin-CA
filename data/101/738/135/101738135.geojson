@@ -149,15 +149,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456297
+        890456297,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5906267,
+        "statcan:nid":"89ca415bd1e111d892e2080020a0f4c9",
         "wd:id":"Q141924",
         "wk:page":"Boucherville"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a667fcbb64b2cd81ca0faf3a2973431c",
     "wof:hierarchy":[
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":101738135,
-    "wof:lastmodified":1690864494,
+    "wof:lastmodified":1722051520,
     "wof:name":"Boucherville",
     "wof:parent_id":890456297,
     "wof:placetype":"locality",

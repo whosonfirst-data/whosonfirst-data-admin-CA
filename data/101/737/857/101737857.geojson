@@ -92,13 +92,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458541
+        890458541,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5969986,
         "gp:id":56624415,
+        "statcan:nid":"5de5fc3bbe1a11d892e2080020a0f4c9",
         "wd:id":"Q386365",
         "wk:page":"Ham-Nord, Quebec"
     },
@@ -107,6 +108,7 @@
             11257140
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1284d67caa85c188305a4fbca29b854e",
     "wof:hierarchy":[
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101737857,
-    "wof:lastmodified":1706239362,
+    "wof:lastmodified":1722051534,
     "wof:name":"Ham-Nord",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

@@ -123,8 +123,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[
         101736749
@@ -134,9 +134,11 @@
         "gn:id":6354894,
         "gp:id":3449,
         "qs_pg:id":1218893,
+        "statcan:nid":"18c15b73be4711d892e2080020a0f4c9",
         "wd:id":"Q142430",
         "wk:page":"Portneuf, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -155,7 +157,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864344,
+    "wof:lastmodified":1722051513,
     "wof:name":"Portneuf",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

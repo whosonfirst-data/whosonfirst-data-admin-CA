@@ -102,12 +102,13 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456469
+        890456469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138472,
+        "statcan:nid":"0cc375eb849c20c3f877873f466740f4",
         "wd:id":"Q3462533",
         "wk:page":"Saint-Jean-de-Matha%2C_Quebec"
     },
@@ -116,6 +117,7 @@
             6138474
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"66131b4911ad473721d315d7d8d5923f",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101736697,
-    "wof:lastmodified":1706239360,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Jean-de-Matha",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

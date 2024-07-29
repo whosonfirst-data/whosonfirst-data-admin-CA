@@ -98,17 +98,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458397
+        890458397,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6091422,
         "gp:id":23394446,
         "qs_pg:id":1164439,
+        "statcan:nid":"0149ecdc0a0012044c902d6bd085f573",
         "wd:id":"Q142475",
         "wk:page":"Notre-Dame-des-Prairies, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101736439,
-    "wof:lastmodified":1690864409,
+    "wof:lastmodified":1722051515,
     "wof:name":"Notre-Dame-des-Prairies",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

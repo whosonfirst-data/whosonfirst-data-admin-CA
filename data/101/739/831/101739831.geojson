@@ -62,8 +62,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868979
+        1158868979,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,9 +71,11 @@
         "gn:id":5957175,
         "gp:id":2295,
         "qs_pg:id":883460,
+        "statcan:nid":"0c28a8ca849c20c33dc5be8731572a29",
         "wd:id":"Q2003341",
         "wk:page":"Fox Valley, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864240,
+    "wof:lastmodified":1722051509,
     "wof:name":"Fox Valley",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

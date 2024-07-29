@@ -112,14 +112,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55960593,
+        "statcan:nid":"0cf8ccde849c20c3c6cbee4ce795ae4f",
         "wd:id":"Q142446"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9f95bb0dfa1ffdd91c8e69da190b9e86",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101737109,
-    "wof:lastmodified":1690864325,
+    "wof:lastmodified":1722051512,
     "wof:name":"Saint-Basile",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

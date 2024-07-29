@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56811364,
+        "statcan:nid":"9106621dba3411d892e2080020a0f4c9",
         "wd:id":"Q268546"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"19885186ee65f4d84662467624234edd",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101745149,
-    "wof:lastmodified":1690865001,
+    "wof:lastmodified":1722051533,
     "wof:name":"Baezaeko River 26",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",

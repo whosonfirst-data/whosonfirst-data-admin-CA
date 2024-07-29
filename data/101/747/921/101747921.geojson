@@ -54,14 +54,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682091,
-        1158863167
+        1158863167,
+        85682091
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":8828,
+        "statcan:nid":"00e4947cbbe311d892e2080020a0f4c9",
         "wd:id":"Q4927553"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"60e89d740baace218759d45ef07cfb94",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101747921,
-    "wof:lastmodified":1690864786,
+    "wof:lastmodified":1722051525,
     "wof:name":"Blood 148",
     "wof:parent_id":1158863167,
     "wof:placetype":"locality",

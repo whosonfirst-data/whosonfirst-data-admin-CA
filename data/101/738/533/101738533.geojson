@@ -103,15 +103,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457241
+        890457241,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7290234,
         "gp:id":23396304,
+        "statcan:nid":"c4c606c0bf0a11d892e2080020a0f4c9",
         "wd:id":"Q3462149"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5cee29f3f5f7d90dd53fa9821bed3853",
     "wof:hierarchy":[
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101738533,
-    "wof:lastmodified":1690864497,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Ferr\u00e9ol-les-Neiges",
     "wof:parent_id":890457241,
     "wof:placetype":"locality",

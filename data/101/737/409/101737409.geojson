@@ -85,17 +85,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457567
+        890457567,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137878,
         "gp:id":23394526,
         "qs_pg:id":57872,
+        "statcan:nid":"177b86a1be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464249",
         "wk:page":"Sainte-Eulalie, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"89f98a58f9b705e363a48c95283494a3",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737409,
-    "wof:lastmodified":1690864296,
+    "wof:lastmodified":1722051511,
     "wof:name":"Sainte-Eulalie",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

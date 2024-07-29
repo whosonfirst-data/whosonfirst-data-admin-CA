@@ -209,17 +209,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458415
+        890458415,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6087701,
         "gp:id":4113,
         "qs_pg:id":900891,
+        "statcan:nid":"90a99bebc6be11d892e2080020a0f4c9",
         "wd:id":"Q52999",
         "wk:page":"Newmarket, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -235,7 +237,7 @@
         }
     ],
     "wof:id":101736295,
-    "wof:lastmodified":1690864410,
+    "wof:lastmodified":1722051515,
     "wof:name":"Newmarket",
     "wof:parent_id":890458415,
     "wof:placetype":"locality",

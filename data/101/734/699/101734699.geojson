@@ -234,14 +234,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869049
+        1158869049,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6062335,
         "gp:id":2001,
         "qs_pg:id":160296,
+        "statcan:nid":"1452b64bbee611d892e2080020a0f4c9",
         "wd:id":"Q402571"
     },
     "wof:concordances_alt":{
@@ -249,6 +250,7 @@
             "Q402571"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -265,7 +267,7 @@
         }
     ],
     "wof:id":101734699,
-    "wof:lastmodified":1706239352,
+    "wof:lastmodified":1722051533,
     "wof:name":"Lynn Lake",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

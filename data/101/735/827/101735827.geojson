@@ -111,14 +111,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457191
+        890457191,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56625267,
+        "statcan:nid":"0c62646f849c20c398732eba932fab4a",
         "wd:id":"Q4793773"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2ce2e7e5a13da09293dc8c5aa37f722b",
     "wof:hierarchy":[
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101735827,
-    "wof:lastmodified":1690864876,
+    "wof:lastmodified":1722051527,
     "wof:name":"Armour",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

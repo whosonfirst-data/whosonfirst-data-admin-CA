@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
     "geom:area_square_m":161421.258138,
-    "geom:bbox":"-121.5183317,50.0158577,-121.5127146,50.0194771",
-    "geom:latitude":50.017667,
-    "geom:longitude":-121.515523,
+    "geom:bbox":"-121.518332,50.015858,-121.512715,50.019477",
+    "geom:latitude":50.017668,
+    "geom:longitude":-121.515524,
     "iso:country":"CA",
     "lbl:latitude":50.017667,
     "lbl:longitude":-121.515523,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458867
+        890458867,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56625456
+        "gp:id":56625456,
+        "statcan:nid":"227f54caba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"f89e492004d6ad53136559c19158192f",
+    "wof:geomhash":"0c34b684ced8f3cb39f4cd782ea1bed3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744219,
-    "wof:lastmodified":1566519967,
+    "wof:lastmodified":1722051486,
     "wof:name":"Boothroyd 6B",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.51833169999998,
-    50.01585770000003,
-    -121.51271459999998,
-    50.01947710000002
+    -121.518332,
+    50.015858,
+    -121.512715,
+    50.019477
 ],
-  "geometry": {"coordinates":[[[-121.51833169999998,50.015859],[-121.51833000000001,50.01947710000002],[-121.51271459999998,50.01947589999997],[-121.5127167,50.01585770000003],[-121.51833169999998,50.015859]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.518332,50.015859],[-121.51833000000001,50.019477],[-121.512715,50.019476],[-121.51271699999999,50.015858],[-121.518332,50.015859]]],"type":"Polygon"}
 }

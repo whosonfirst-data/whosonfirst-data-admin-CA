@@ -265,17 +265,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456313
+        890456313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6089426,
         "gp:id":3303,
         "qs_pg:id":274724,
+        "statcan:nid":"30685780c6be11d892e2080020a0f4c9",
         "wd:id":"Q912253",
         "wk:page":"North Bay, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -291,7 +293,7 @@
         }
     ],
     "wof:id":101735749,
-    "wof:lastmodified":1690864912,
+    "wof:lastmodified":1722051529,
     "wof:name":"North Bay",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

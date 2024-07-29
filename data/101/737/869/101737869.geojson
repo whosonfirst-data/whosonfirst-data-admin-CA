@@ -244,14 +244,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456849
+        890456849,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6086225,
         "gp:id":2724,
         "qs_pg:id":281211,
+        "statcan:nid":"5ee1c0f6be3f11d892e2080020a0f4c9",
         "wd:id":"Q3336471"
     },
     "wof:concordances_alt":{
@@ -262,6 +263,7 @@
             160321
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -278,7 +280,7 @@
         }
     ],
     "wof:id":101737869,
-    "wof:lastmodified":1706239363,
+    "wof:lastmodified":1722051534,
     "wof:name":"Natashquan",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

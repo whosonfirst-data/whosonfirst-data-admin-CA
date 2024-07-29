@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457225
+        890457225,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5897670,
         "gp:id":3258,
+        "statcan:nid":"a2c26d4cbbe711d892e2080020a0f4c9",
         "wd:id":"Q2894274",
         "wk:page":"Belcourt, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"107522d22b8c938a1f6e0fd2eebad748",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101738333,
-    "wof:lastmodified":1690864557,
+    "wof:lastmodified":1722051522,
     "wof:name":"Belcourt",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

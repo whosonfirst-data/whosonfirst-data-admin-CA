@@ -239,8 +239,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682067,
-        1158869033
+        1158869033,
+        85682067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,6 +248,7 @@
         "gn:id":6170031,
         "gp:id":28752680,
         "qs_pg:id":103071,
+        "statcan:nid":"3c3d0885d05511d892e2080020a0f4c9",
         "wd:id":"Q719547",
         "wk:page":"Tuktoyaktuk"
     },
@@ -256,6 +257,7 @@
             "Q719547"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -275,7 +277,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1706239354,
+    "wof:lastmodified":1722051533,
     "wof:name":"Tuktoyaktuk",
     "wof:parent_id":85682067,
     "wof:placetype":"locality",

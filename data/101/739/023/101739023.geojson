@@ -54,17 +54,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba45f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6064638,
         "gp:id":2066,
+        "statcan:nid":"0c30c7f8849c20c3d0f3c2c5ed77982c",
         "wd:id":"Q2086025",
         "wk:page":"Makwa, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b6df64de395fdd226ba092893504e0ac",
     "wof:hierarchy":[
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864187,
+    "wof:lastmodified":1722051506,
     "wof:name":"Makwa",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

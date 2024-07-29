@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456313
+        890456313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23400274,
+        "statcan:nid":"3c391797c6be11d892e2080020a0f4c9",
         "wd:id":"Q1451228"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"be62825f2874703017ddb926d776629c",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101735639,
-    "wof:lastmodified":1690864952,
+    "wof:lastmodified":1722051531,
     "wof:name":"East Ferris",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

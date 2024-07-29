@@ -106,14 +106,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884887
+        1158884887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394515,
+        "statcan:nid":"0ed85fc4be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464182"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9fb2595edc53298850eeb4d37be3b013",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101737211,
-    "wof:lastmodified":1690864275,
+    "wof:lastmodified":1722051510,
     "wof:name":"Sainte-Aur\u00e9lie",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

@@ -77,14 +77,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457821
+        890457821,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1556,
+        "statcan:nid":"8d37729dbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462821"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6dc79ee993602a847fe4c5b293d75ada",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101738155,
-    "wof:lastmodified":1690864555,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-L\u00e9on-de-Standon",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

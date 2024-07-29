@@ -67,14 +67,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457755
+        890457755,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":783,
+        "statcan:nid":"78c7bf81c5f711d892e2080020a0f4c9",
         "wd:id":"Q3214586"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5b073f31df56460c579aec404843fa16",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101735191,
-    "wof:lastmodified":1690864923,
+    "wof:lastmodified":1722051529,
     "wof:name":"Lac Baker",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

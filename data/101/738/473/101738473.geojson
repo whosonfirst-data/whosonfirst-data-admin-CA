@@ -143,15 +143,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457727
+        890457727,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3423,
         "qs_pg:id":1073194,
+        "statcan:nid":"be904350bbf011d892e2080020a0f4c9",
         "wd:id":"Q142182"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101738473,
-    "wof:lastmodified":1690864570,
+    "wof:lastmodified":1722051522,
     "wof:name":"Clermont",
     "wof:parent_id":890457727,
     "wof:placetype":"locality",

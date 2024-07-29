@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
     "geom:area_square_m":1290538.490675,
-    "geom:bbox":"-121.6265643,51.3759851,-121.6032988,51.3833989",
+    "geom:bbox":"-121.626564,51.375985,-121.603299,51.383399",
     "geom:latitude":51.379693,
-    "geom:longitude":-121.614932,
+    "geom:longitude":-121.614931,
     "iso:country":"CA",
     "lbl:latitude":51.379693,
     "lbl:longitude":-121.614931,
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458465
+        890458465,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"435083dfba3611d892e2080020a0f4c9"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"7f2c874674be55776b2fecdcaefb9d87",
+    "wof:geomhash":"075c6f3481d41e37900e27e85a3e902c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101745057,
-    "wof:lastmodified":1566520067,
+    "wof:lastmodified":1722051500,
     "wof:name":"Toby Lake 6",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.62656429999998,
-    51.3759851,
-    -121.6032988,
-    51.38339889999997
+    -121.626564,
+    51.375985,
+    -121.603299,
+    51.383399
 ],
-  "geometry": {"coordinates":[[[-121.60344629999997,51.3759851],[-121.62656429999998,51.37616930000002],[-121.62642049999999,51.38339889999997],[-121.6032988,51.38321830000001],[-121.60344629999997,51.3759851]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.60344600000001,51.375985],[-121.626564,51.376169],[-121.62642,51.383399],[-121.60329900000001,51.383218],[-121.60344600000001,51.375985]]],"type":"Polygon"}
 }

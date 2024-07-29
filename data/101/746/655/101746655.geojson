@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
     "geom:area_square_m":1068111.081945,
-    "geom:bbox":"-92.4423691,54.6271846,-92.4211956,54.6343709",
+    "geom:bbox":"-92.442369,54.627185,-92.421196,54.634371",
     "geom:latitude":54.630784,
     "geom:longitude":-92.431835,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":54.630784,
     "mps:longitude":-92.431835,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chepi Lake"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869047
+        1158869047,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":23402125
+        "gp:id":23402125,
+        "statcan:nid":"c0caf6d75a6011dd9007080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"539a4e8c8bb7c3bab1f0a4142d02f0ce",
+    "wof:geomhash":"473f2d68115ba8e2c49993a23489bfd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746655,
-    "wof:lastmodified":1566519839,
+    "wof:lastmodified":1722051441,
     "wof:name":"Chepi Lake",
     "wof:parent_id":1158869047,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.4423691,
-    54.62718460000002,
-    -92.42119559999998,
-    54.63437090000002
+    -92.442369,
+    54.627185,
+    -92.421196,
+    54.634371
 ],
-  "geometry": {"coordinates":[[[-92.44236909999999,54.62718460000002],[-92.4422745,54.63437090000002],[-92.42119559999998,54.63427569999999],[-92.42129069999999,54.6273026],[-92.44236909999999,54.62718460000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-92.442369,54.627185],[-92.442274,54.634371],[-92.42119599999999,54.634276],[-92.421291,54.627303],[-92.442369,54.627185]]],"type":"Polygon"}
 }

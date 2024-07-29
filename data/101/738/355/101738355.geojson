@@ -78,17 +78,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458689
+        890458689,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6054473,
         "gp:id":23395613,
         "qs_pg:id":290598,
+        "statcan:nid":"a6c38310be3311d892e2080020a0f4c9",
         "wd:id":"Q3241567",
         "wk:page":"Lingwick, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738355,
-    "wof:lastmodified":1690864504,
+    "wof:lastmodified":1722051520,
     "wof:name":"Lingwick",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

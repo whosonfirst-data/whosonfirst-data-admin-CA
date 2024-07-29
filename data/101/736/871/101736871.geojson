@@ -109,17 +109,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456835
+        890456835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138728,
         "gp:id":23394592,
         "qs_pg:id":893940,
+        "statcan:nid":"0cec7e14849c20c3ce72aa9e31dde552",
         "wd:id":"Q3462861",
         "wk:page":"Saint-Marc-sur-Richelieu, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1b37c5e7449304667552355ccbe4c66e",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101736871,
-    "wof:lastmodified":1690864460,
+    "wof:lastmodified":1722051518,
     "wof:name":"Saint-Marc-sur-Richelieu",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

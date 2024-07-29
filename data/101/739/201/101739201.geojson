@@ -71,17 +71,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868987
+        1158868987,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c00544-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6182389,
         "gp:id":1949,
+        "statcan:nid":"0cfeda99849c20c39d279d75e1c39f87",
         "wd:id":"Q1917640",
         "wk:page":"Willow Bunch, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"289c78000aa72f2c013a5ac966e84388",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864245,
+    "wof:lastmodified":1722051509,
     "wof:name":"Willow Bunch",
     "wof:parent_id":1158868987,
     "wof:placetype":"locality",

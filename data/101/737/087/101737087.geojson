@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6050073,
         "gp:id":23395639,
+        "statcan:nid":"0cf6eccc849c20c34b77e3dd86bd2672",
         "wd:id":"Q259690",
         "wk:page":"Larouche, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7d690979b6c6508c85e64f39bf75d8c9",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737087,
-    "wof:lastmodified":1690864336,
+    "wof:lastmodified":1722051513,
     "wof:name":"Larouche",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

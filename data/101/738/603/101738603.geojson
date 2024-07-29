@@ -73,16 +73,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458097
+        890458097,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6178117,
         "gp:id":23396003,
+        "statcan:nid":"caebb96abf0411d892e2080020a0f4c9",
         "wd:id":"Q3567283",
         "wk:page":"Wentworth-Nord, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"910bbe1ea1bc18e66112e0eaccbceddd",
     "wof:hierarchy":[
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101738603,
-    "wof:lastmodified":1690864528,
+    "wof:lastmodified":1722051521,
     "wof:name":"Wentworth-Nord",
     "wof:parent_id":890458097,
     "wof:placetype":"locality",

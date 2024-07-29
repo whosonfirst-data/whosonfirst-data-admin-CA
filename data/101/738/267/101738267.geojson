@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456801
+        890456801,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138708,
         "gp:id":1563,
+        "statcan:nid":"98aea112be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462849",
         "wk:page":"Saint-Malo, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8fad7969468fee0444f92405f8aea919",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101738267,
-    "wof:lastmodified":1690864527,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Malo",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

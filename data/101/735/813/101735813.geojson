@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457191
+        890457191,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23399333,
+        "statcan:nid":"1169d1aad05311d892e2080020a0f4c9",
         "wd:id":"Q590330"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"de8f95aae47e0a1a6f745db679674b16",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101735813,
-    "wof:lastmodified":1690864945,
+    "wof:lastmodified":1722051530,
     "wof:name":"Whitestone",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

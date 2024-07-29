@@ -182,16 +182,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457893
+        890457893,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5947866,
         "qs_pg:id":1053472,
+        "statcan:nid":"5fbc068fc6ce11d892e2080020a0f4c9",
         "wd:id":"Q2729034",
         "wk:page":"Elliot Lake"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -207,7 +209,7 @@
         }
     ],
     "wof:id":101735755,
-    "wof:lastmodified":1690864864,
+    "wof:lastmodified":1722051526,
     "wof:name":"Elliot Lake",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

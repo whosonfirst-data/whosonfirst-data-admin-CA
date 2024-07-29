@@ -75,17 +75,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868969
+        1158868969,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bfeb7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6155718,
         "gp:id":1411,
+        "statcan:nid":"0c2b9ae7849c20c3a7de83ea8b052e71",
         "wd:id":"Q1917109",
         "wk:page":"St. Brieux"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"16fc8649140e0dcb4a21a642abe76f99",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864613,
+    "wof:lastmodified":1722051524,
     "wof:name":"St. Brieux",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

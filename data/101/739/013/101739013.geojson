@@ -59,8 +59,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868979
+        1158868979,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,9 +68,11 @@
         "gn:id":6101009,
         "gp:id":2293,
         "qs_pg:id":894817,
+        "statcan:nid":"0ba69032ca0211d892e2080020a0f4c9",
         "wd:id":"Q2202139",
         "wk:page":"Pennant, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864193,
+    "wof:lastmodified":1722051507,
     "wof:name":"Pennant",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

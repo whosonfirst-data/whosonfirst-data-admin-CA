@@ -133,16 +133,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457241
+        890457241,
+        136251273
     ],
     "wof:breaches":[
         101736811
     ],
     "wof:concordances":{
         "gp:id":23395096,
+        "statcan:nid":"7e26547fbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462595"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"901b84ca0c5f84caf08e9d2ce3c2c12a",
     "wof:hierarchy":[
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101738049,
-    "wof:lastmodified":1690864517,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Joachim",
     "wof:parent_id":890457241,
     "wof:placetype":"locality",

@@ -75,8 +75,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458103
+        890458103,
+        136251273
     ],
     "wof:breaches":[
         101738827
@@ -84,9 +84,11 @@
     "wof:concordances":{
         "gn:id":6138048,
         "gp:id":23394542,
+        "statcan:nid":"2d5a6e5fbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3464377",
         "wk:page":"Sainte-Monique, Saguenay\u2013Lac-Saint-Jean, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d3efa192b0b218f55e51531d22317bb9",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101737571,
-    "wof:lastmodified":1690864361,
+    "wof:lastmodified":1722051514,
     "wof:name":"Sainte-Monique",
     "wof:parent_id":890458103,
     "wof:placetype":"locality",

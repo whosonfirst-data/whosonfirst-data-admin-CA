@@ -109,14 +109,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396810,
+        "statcan:nid":"0cb26097849c20c3a58ea1cc651a3c9b",
         "wd:id":"Q3202121"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"51a0755c4b2ef7b8d7bea5ddf1769a89",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101736607,
-    "wof:lastmodified":1690864477,
+    "wof:lastmodified":1722051519,
     "wof:name":"L'Anse-Saint-Jean",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

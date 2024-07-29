@@ -107,14 +107,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457205
+        890457205,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394294,
+        "statcan:nid":"0d07b4b4849c20c377e844a8a8f588a9",
         "wd:id":"Q141565"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0057934dff55422cb6be052df427fd72",
     "wof:hierarchy":[
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101737133,
-    "wof:lastmodified":1690864269,
+    "wof:lastmodified":1722051510,
     "wof:name":"Sainte-Catherine-de-la-Jacques-Cartier",
     "wof:parent_id":890457205,
     "wof:placetype":"locality",

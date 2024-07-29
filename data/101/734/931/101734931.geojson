@@ -68,14 +68,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868945
+        1158868945,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":638,
+        "statcan:nid":"7257b2ecbef311d892e2080020a0f4c9",
         "wd:id":"Q1661852"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a5cbf556f3341a387188b0973523f1c1",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101734931,
-    "wof:lastmodified":1636414357,
+    "wof:lastmodified":1722051506,
     "wof:name":"Wallace",
     "wof:parent_id":1158868945,
     "wof:placetype":"locality",

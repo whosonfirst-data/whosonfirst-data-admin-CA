@@ -133,16 +133,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5941925,
         "gp:id":417,
+        "statcan:nid":"014da5db0a001204202860c6ec357a3e",
         "wd:id":"Q141963",
         "wk:page":"Dorval"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":101736475,
-    "wof:lastmodified":1690864457,
+    "wof:lastmodified":1722051518,
     "wof:name":"Dorval",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
     "geom:area_square_m":1006773.402286,
-    "geom:bbox":"-122.020233,51.8615958,-122.0018977,51.8689875",
-    "geom:latitude":51.865284,
+    "geom:bbox":"-122.020233,51.861596,-122.001898,51.868988",
+    "geom:latitude":51.865285,
     "geom:longitude":-122.011095,
     "iso:country":"CA",
     "lbl:latitude":51.865292,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56811349
+        "gp:id":56811349,
+        "statcan:nid":"8b9c6e30ba3411d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"3e9ee1dc297802077e3f2edeb82c2af2",
+    "wof:geomhash":"ad133878adc5fad3814f41d86bf04414",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744975,
-    "wof:lastmodified":1566519983,
+    "wof:lastmodified":1722051490,
     "wof:name":"Cludolicum 9A",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -73,9 +75,9 @@
 },
   "bbox": [
     -122.020233,
-    51.86159579999998,
-    -122.00189769999997,
-    51.8689875
+    51.861596,
+    -122.001898,
+    51.868988
 ],
-  "geometry": {"coordinates":[[[-122.020233,51.86159579999998],[-122.0201902,51.86882680000002],[-122.00206309999999,51.8689875],[-122.00189769999997,51.8617552],[-122.020233,51.86159579999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.020233,51.861596],[-122.02019,51.868827],[-122.00206300000001,51.868988],[-122.001898,51.861755],[-122.020233,51.861596]]],"type":"Polygon"}
 }

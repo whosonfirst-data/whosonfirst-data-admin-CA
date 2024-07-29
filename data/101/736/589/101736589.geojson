@@ -69,16 +69,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457241
+        890457241,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6325516,
         "gp:id":56619162,
+        "statcan:nid":"0c44a92c849c20c39135b6c64b2d688d",
         "wd:id":"Q3201973",
         "wk:page":"L'Ange-Gardien, Capitale-Nationale, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5476e02a62f4dbf3a1039dd083b833d0",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101736589,
-    "wof:lastmodified":1690864436,
+    "wof:lastmodified":1722051517,
     "wof:name":"L'Ange-Gardien",
     "wof:parent_id":890457241,
     "wof:placetype":"locality",

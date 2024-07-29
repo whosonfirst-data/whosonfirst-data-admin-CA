@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
     "geom:area_square_m":639021.079292,
-    "geom:bbox":"-103.9756649,51.3652361,-103.9637292,51.3724022",
+    "geom:bbox":"-103.975665,51.365236,-103.963729,51.372402",
     "geom:latitude":51.368818,
     "geom:longitude":-103.969696,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":51.368819,
     "mps:longitude":-103.969697,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muskowekwan I.R. 85-48"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868983
+        1158868983,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373678
+        "gp:id":29373678,
+        "statcan:nid":"6c9ebc2c849c20c3a8eaa3cb018f7268"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"1534636a654e5d6976d0ea8a963f667f",
+    "wof:geomhash":"6583c8b0f566a0536a0acacb613e8656",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746369,
-    "wof:lastmodified":1566519832,
+    "wof:lastmodified":1722051440,
     "wof:name":"Muskowekwan I.R. 85-48",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.97566490000003,
-    51.3652361,
-    -103.96372919999999,
-    51.37240220000001
+    -103.975665,
+    51.365236,
+    -103.963729,
+    51.372402
 ],
-  "geometry": {"coordinates":[[[-103.96410780000002,51.3652361],[-103.97566490000003,51.36523749999998],[-103.9752823,51.37240220000001],[-103.97083029999999,51.372401],[-103.96372919999999,51.37239870000002],[-103.96410780000002,51.3652361]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-103.964108,51.365236],[-103.97566500000001,51.365237],[-103.97528200000001,51.372402],[-103.97083000000001,51.372401],[-103.963729,51.372399],[-103.964108,51.365236]]],"type":"Polygon"}
 }

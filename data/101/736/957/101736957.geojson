@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456475
+        890456475,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6175738,
         "gp:id":23394638,
+        "statcan:nid":"0cf4023c849c20c34ae9a30f1a4b849a",
         "wd:id":"Q580949",
         "wk:page":"Waltham, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f6f6528c017346697c574e8610012b17",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101736957,
-    "wof:lastmodified":1690864439,
+    "wof:lastmodified":1722051517,
     "wof:name":"Waltham",
     "wof:parent_id":890456475,
     "wof:placetype":"locality",

@@ -67,14 +67,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890457467
+        890457467,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29372908,
+        "statcan:nid":"79589197ba3511d892e2080020a0f4c9",
         "wd:id":"Q2738831"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1f5514da6200413719f4355a9a0d46ca",
     "wof:hierarchy":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101744733,
-    "wof:lastmodified":1690864979,
+    "wof:lastmodified":1722051532,
     "wof:name":"Barnston Island 3",
     "wof:parent_id":890457467,
     "wof:placetype":"locality",

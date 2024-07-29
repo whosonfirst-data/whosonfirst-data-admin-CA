@@ -84,16 +84,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457569
+        890457569,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5999042,
         "gp:id":3442,
         "qs_pg:id":529824,
+        "statcan:nid":"0cb28cdc849c20c39db40e85d1667752",
         "wd:id":"Q3214670"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101736613,
-    "wof:lastmodified":1690864453,
+    "wof:lastmodified":1722051518,
     "wof:name":"Lac-aux-Sables",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

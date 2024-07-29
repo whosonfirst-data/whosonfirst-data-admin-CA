@@ -97,14 +97,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457809
+        890457809,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374701,
+        "statcan:nid":"d2093f04be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463428"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c595bd67a64e567d86614fcbe7cef2a6",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101738675,
-    "wof:lastmodified":1690864507,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-S\u00e9verin",
     "wof:parent_id":890457809,
     "wof:placetype":"locality",

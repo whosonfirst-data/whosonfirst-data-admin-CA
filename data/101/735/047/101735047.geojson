@@ -69,14 +69,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868991
+        1158868991,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373793,
+        "statcan:nid":"b7bc976cbef311d892e2080020a0f4c9",
         "wd:id":"Q1661973"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"dd3076c582762ad486179142ff02d7f5",
     "wof:hierarchy":[
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101735047,
-    "wof:lastmodified":1690864888,
+    "wof:lastmodified":1722051527,
     "wof:name":"Whitewater",
     "wof:parent_id":1158868991,
     "wof:placetype":"locality",

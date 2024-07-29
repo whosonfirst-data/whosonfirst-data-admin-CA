@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457569
+        890457569,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6091386,
         "gp:id":23394443,
+        "statcan:nid":"c45803a1bf0a11d892e2080020a0f4c9",
         "wd:id":"Q3344602",
         "wk:page":"Notre-Dame-de-Montauban, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"110df7f76ad69b5834872f25c5c7ff9b",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738509,
-    "wof:lastmodified":1690864556,
+    "wof:lastmodified":1722051522,
     "wof:name":"Notre-Dame-de-Montauban",
     "wof:parent_id":890457569,
     "wof:placetype":"locality",

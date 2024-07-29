@@ -93,16 +93,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457199
+        890457199,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943829,
         "gp:id":29374146,
         "qs_pg:id":991224,
+        "statcan:nid":"0d0911f7849c20c380a69e709a02506c",
         "wd:id":"Q3398284"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101737145,
-    "wof:lastmodified":1690864305,
+    "wof:lastmodified":1722051511,
     "wof:name":"Port-Daniel - Gascons",
     "wof:parent_id":890457199,
     "wof:placetype":"locality",

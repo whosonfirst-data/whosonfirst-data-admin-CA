@@ -64,16 +64,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456799
+        890456799,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6071823,
         "gp:id":23400913,
+        "statcan:nid":"99b28926c6be11d892e2080020a0f4c9",
         "wd:id":"Q6811207",
         "wk:page":"Melancthon, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"da939c6d53b8701b2240f0b12a89f8c7",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101736285,
-    "wof:lastmodified":1690864461,
+    "wof:lastmodified":1722051518,
     "wof:name":"Melancthon",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",

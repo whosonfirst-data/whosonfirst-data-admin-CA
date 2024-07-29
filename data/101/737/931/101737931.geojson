@@ -91,14 +91,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394644,
+        "statcan:nid":"691c58f2be3111d892e2080020a0f4c9",
         "wd:id":"Q142233"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"350c5762fcf76dbbbd3b009db0b9721a",
     "wof:hierarchy":[
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101737931,
-    "wof:lastmodified":1690864262,
+    "wof:lastmodified":1722051509,
     "wof:name":"Lac-Sergent",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

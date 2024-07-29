@@ -54,14 +54,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869059
+        1158869059,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373449,
+        "statcan:nid":"c7f848a5bef211d892e2080020a0f4c9",
         "wd:id":"Q1661655"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8965f4d086fc712d40eb1418b3043892",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101734985,
-    "wof:lastmodified":1690864843,
+    "wof:lastmodified":1722051525,
     "wof:name":"Tach\u00e9",
     "wof:parent_id":1158869059,
     "wof:placetype":"locality",

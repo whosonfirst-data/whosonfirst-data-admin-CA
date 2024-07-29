@@ -148,14 +148,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137381,
         "gp:id":29374154,
         "qs_pg:id":1053566,
+        "statcan:nid":"394a5143d1e411d892e2080020a0f4c9",
         "wd:id":"Q3461746"
     },
     "wof:concordances_alt":{
@@ -163,6 +164,7 @@
             6137384
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101737659,
-    "wof:lastmodified":1706239362,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Ambroise",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

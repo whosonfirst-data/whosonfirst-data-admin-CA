@@ -103,15 +103,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456849
+        890456849,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5905538,
         "gp:id":23394333,
+        "statcan:nid":"ac3119ebd1e311d892e2080020a0f4c9",
         "wd:id":"Q2910208"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4fc757cdc6d93eeb5bdae6de140e6903",
     "wof:hierarchy":[
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101738405,
-    "wof:lastmodified":1690864577,
+    "wof:lastmodified":1722051523,
     "wof:name":"Bonne-Esp\u00e9rance",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

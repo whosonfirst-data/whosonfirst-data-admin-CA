@@ -87,17 +87,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6050330,
         "gp:id":832,
         "qs_pg:id":974358,
+        "statcan:nid":"012baf8ed05411d892e2080020a0f4c9",
         "wd:id":"Q4859952",
         "wk:page":"Latchford, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101735517,
-    "wof:lastmodified":1690864907,
+    "wof:lastmodified":1722051528,
     "wof:name":"Latchford",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

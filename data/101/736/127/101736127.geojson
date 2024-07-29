@@ -119,8 +119,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456991
+        890456991,
+        85682057
     ],
     "wof:breaches":[
         101740727
@@ -129,9 +129,11 @@
         "gn:id":6165719,
         "gp:id":1800,
         "qs_pg:id":313087,
+        "statcan:nid":"3fd6e525c6ce11d892e2080020a0f4c9",
         "wd:id":"Q448120",
         "wk:page":"Thorold"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101736127,
-    "wof:lastmodified":1690864430,
+    "wof:lastmodified":1722051517,
     "wof:name":"Thorold",
     "wof:parent_id":890456991,
     "wof:placetype":"locality",

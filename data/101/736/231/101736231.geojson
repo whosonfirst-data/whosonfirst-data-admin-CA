@@ -73,16 +73,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456477
+        890456477,
+        85682057
     ],
     "wof:breaches":[
         101740711
     ],
     "wof:concordances":{
         "gp:id":56625201,
+        "statcan:nid":"0c7fbaeed05311d892e2080020a0f4c9",
         "wd:id":"Q623073"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"48e362c3b795e25931dd3eb643f4cd60",
     "wof:hierarchy":[
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101736231,
-    "wof:lastmodified":1690864466,
+    "wof:lastmodified":1722051518,
     "wof:name":"North Glengarry",
     "wof:parent_id":890456477,
     "wof:placetype":"locality",

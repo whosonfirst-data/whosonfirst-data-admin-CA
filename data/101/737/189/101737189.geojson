@@ -94,16 +94,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458693
+        890458693,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6185140,
         "gp:id":23395684,
+        "statcan:nid":"0d0a7345849c20c387b4a88e34a62c3b",
         "wd:id":"Q3571458",
         "wk:page":"Yamaska, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9ac6b8221d84513407c3b48c6d3471a3",
     "wof:hierarchy":[
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101737189,
-    "wof:lastmodified":1690864306,
+    "wof:lastmodified":1722051511,
     "wof:name":"Yamaska",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

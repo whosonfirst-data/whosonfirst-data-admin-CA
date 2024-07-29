@@ -88,16 +88,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458867
+        890458867,
+        85682117
     ],
     "wof:breaches":[
         101740987
     ],
     "wof:concordances":{
         "gp:id":9788,
+        "statcan:nid":"78c0e572ba3511d892e2080020a0f4c9",
         "wd:id":"Q4311873"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3df7244a3da4b2eabadf61646de02966",
     "wof:hierarchy":[
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101744777,
-    "wof:lastmodified":1690864979,
+    "wof:lastmodified":1722051532,
     "wof:name":"Hope 1",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

@@ -82,15 +82,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458841
+        890458841,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138107,
         "gp:id":23396540,
+        "statcan:nid":"31bb0977be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464423"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0a13015a1a80946729fff3486bf554d6",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101737603,
-    "wof:lastmodified":1690864297,
+    "wof:lastmodified":1722051511,
     "wof:name":"Sainte-Sophie-de-L\u00e9vrard",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

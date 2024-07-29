@@ -111,16 +111,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457893
+        890457893,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5975403,
         "gp:id":3211,
+        "statcan:nid":"0c403df9849c20c319e771232b762844",
         "wd:id":"Q4859990",
         "wk:page":"Hilton Beach"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8d60a861eddafd30c4f1d2dad40eade3",
     "wof:hierarchy":[
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101735547,
-    "wof:lastmodified":1690864963,
+    "wof:lastmodified":1722051531,
     "wof:name":"Hilton Beach",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

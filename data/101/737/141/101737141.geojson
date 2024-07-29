@@ -105,17 +105,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458401
+        890458401,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6051448,
         "gp:id":847,
         "qs_pg:id":22755,
+        "statcan:nid":"0d081aa6849c20c300f60041e3a98e47",
         "wd:id":"Q3228751",
         "wk:page":"Leclercville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101737141,
-    "wof:lastmodified":1690864368,
+    "wof:lastmodified":1722051514,
     "wof:name":"Leclercville",
     "wof:parent_id":890458401,
     "wof:placetype":"locality",

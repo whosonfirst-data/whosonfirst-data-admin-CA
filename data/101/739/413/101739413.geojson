@@ -57,17 +57,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868937
+        1158868937,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c01a02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5902121,
         "gp:id":2368,
+        "statcan:nid":"95863e9cd05511d892e2080020a0f4c9",
         "wd:id":"Q1999121",
         "wk:page":"Bjorkdale, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d92d84bf805bc060a13155bc9f3c7ea8",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864191,
+    "wof:lastmodified":1722051507,
     "wof:name":"Bjorkdale",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

@@ -91,17 +91,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457731
+        890457731,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138908,
         "gp:id":23396443,
         "qs_pg:id":1056785,
+        "statcan:nid":"0cf26127849c20c3ab4aaa2a1961e928",
         "wd:id":"Q3463156",
         "wk:page":"Saint-Philippe, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"06faa26aed680f287a0f67c6785c6718",
     "wof:hierarchy":[
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101736923,
-    "wof:lastmodified":1690864430,
+    "wof:lastmodified":1722051517,
     "wof:name":"Saint-Philippe",
     "wof:parent_id":890457731,
     "wof:placetype":"locality",

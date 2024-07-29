@@ -84,17 +84,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457887
+        890457887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6115622,
         "gp:id":23394461,
         "qs_pg:id":386643,
+        "statcan:nid":"0ced3b43849c20c3248c35af5b98189f",
         "wd:id":"Q3416227",
         "wk:page":"Racine, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101736879,
-    "wof:lastmodified":1636414339,
+    "wof:lastmodified":1722051506,
     "wof:name":"Racine",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

@@ -60,17 +60,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868981
+        1158868981,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba7232-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6116204,
         "gp:id":2429,
+        "statcan:nid":"0c2c55d9849c20c38616a4d713a353a2",
         "wd:id":"Q2202432",
         "wk:page":"Rama, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f3177eaaf78003a36204c65235a06b0a",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864210,
+    "wof:lastmodified":1722051507,
     "wof:name":"Rama",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

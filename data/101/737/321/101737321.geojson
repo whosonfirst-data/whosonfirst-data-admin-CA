@@ -97,14 +97,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137361,
         "gp:id":3466,
         "qs_pg:id":160382,
+        "statcan:nid":"b9eb3aa8d1e011d892e2080020a0f4c9",
         "wd:id":"Q3461718",
         "wk:page":"Saint-Alexis-des-Monts, Quebec"
     },
@@ -113,6 +114,7 @@
             11257133
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a8b2a582920e82384ddff3ec70faef85",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101737321,
-    "wof:lastmodified":1706239362,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Alexis-des-Monts",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

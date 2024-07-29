@@ -60,8 +60,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456489
+        890456489,
+        85682057
     ],
     "wof:breaches":[
         101740719
@@ -69,8 +69,10 @@
     "wof:concordances":{
         "gp:id":29374092,
         "qs_pg:id":984302,
+        "statcan:nid":"0cda5e15d05311d892e2080020a0f4c9",
         "wd:id":"Q5242396"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101736389,
-    "wof:lastmodified":1690864483,
+    "wof:lastmodified":1722051519,
     "wof:name":"Dawn-Euphemia",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

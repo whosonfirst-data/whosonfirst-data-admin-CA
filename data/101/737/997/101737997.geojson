@@ -99,17 +99,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457803
+        890457803,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6945991,
         "gp:id":3487,
         "qs_pg:id":898230,
+        "statcan:nid":"742f61a4be4611d892e2080020a0f4c9",
         "wd:id":"Q141378",
         "wk:page":"Plessisville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7c30d53d691451c56145316b1a48b318",
     "wof:hierarchy":[
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101737997,
-    "wof:lastmodified":1690864272,
+    "wof:lastmodified":1722051510,
     "wof:name":"Plessisville",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

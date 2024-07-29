@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
     "geom:area_square_m":639533.43772,
-    "geom:bbox":"-102.4005891,50.7010222,-102.3892405,50.708331",
+    "geom:bbox":"-102.400589,50.701022,-102.389241,50.708331",
     "geom:latitude":50.704673,
     "geom:longitude":-102.394942,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":50.704679,
     "mps:longitude":-102.394942,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ochapowace I.R. 71-69"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373717
+        "gp:id":29373717,
+        "statcan:nid":"6c9ebc32849c20c3131317d5035955a6"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"f32e226b0f7dc27d4c36ac60ef6dac23",
+    "wof:geomhash":"c335bda96ebe858bc06a6e1b778eee84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746391,
-    "wof:lastmodified":1566519804,
+    "wof:lastmodified":1722051436,
     "wof:name":"Ochapowace I.R. 71-69",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -102.4005891,
-    50.70102220000001,
-    -102.38924050000003,
+    -102.400589,
+    50.701022,
+    -102.389241,
     50.708331
 ],
-  "geometry": {"coordinates":[[[-102.38924050000003,50.70102220000001],[-102.4005891,50.7011018],[-102.4005866,50.708331],[-102.38935600000001,50.70826119999998],[-102.38924050000003,50.70102220000001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-102.389241,50.701022],[-102.400589,50.701102],[-102.400587,50.708331],[-102.38935600000001,50.708261],[-102.389241,50.701022]]],"type":"Polygon"}
 }

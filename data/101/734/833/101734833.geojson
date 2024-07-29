@@ -62,15 +62,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869003
+        1158869003,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6104966,
         "gp:id":23401815,
+        "statcan:nid":"832571e70a001204253c2a951ff2446f",
         "wd:id":"Q281887"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fb65fb95b8241f141c44e6f53d1eba41",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101734833,
-    "wof:lastmodified":1690864840,
+    "wof:lastmodified":1722051525,
     "wof:name":"Powerview-Pine Falls",
     "wof:parent_id":1158869003,
     "wof:placetype":"locality",

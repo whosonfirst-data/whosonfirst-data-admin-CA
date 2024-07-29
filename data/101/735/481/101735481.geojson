@@ -227,8 +227,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869045
+        1158869045,
+        85682105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -237,9 +237,11 @@
         "gp:id":4318,
         "loc:id":"no2007015072",
         "qs_pg:id":469799,
+        "statcan:nid":"0c707e8d849c20c3a4076f1faf936c37",
         "wd:id":"Q1723761",
         "wk:page":"Naujaat"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -259,7 +261,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864939,
+    "wof:lastmodified":1722051530,
     "wof:name":"Repulse Bay",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

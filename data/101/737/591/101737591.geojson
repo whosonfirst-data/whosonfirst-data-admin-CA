@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456831
+        890456831,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3407,
+        "statcan:nid":"2f9d598dbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3464409"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ed0b99d14cbe7e1f73c869452998d985",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101737591,
-    "wof:lastmodified":1690864332,
+    "wof:lastmodified":1722051513,
     "wof:name":"Sainte-Rose-du-Nord",
     "wof:parent_id":890456831,
     "wof:placetype":"locality",

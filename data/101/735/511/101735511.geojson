@@ -64,16 +64,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457893
+        890457893,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6944118,
         "gp:id":24609737,
+        "statcan:nid":"5e2296fec6cd11d892e2080020a0f4c9",
         "wd:id":"Q3040645",
         "wk:page":"Dubreuilville"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ea2669334155a5383a73ca05664df393",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101735511,
-    "wof:lastmodified":1690864916,
+    "wof:lastmodified":1722051529,
     "wof:name":"Dubreuilville",
     "wof:parent_id":890457893,
     "wof:placetype":"locality",

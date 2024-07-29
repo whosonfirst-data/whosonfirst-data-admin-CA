@@ -130,15 +130,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458545
+        890458545,
+        85682057
     ],
     "wof:breaches":[
         101740769
     ],
     "wof:concordances":{
+        "statcan:nid":"6dce1e38d05211d892e2080020a0f4c9",
         "wd:id":"Q5547998"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5163388b1b5279e939f16f31048771b7",
     "wof:hierarchy":[
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101736145,
-    "wof:lastmodified":1690864426,
+    "wof:lastmodified":1722051517,
     "wof:name":"Georgian Bay",
     "wof:parent_id":890458545,
     "wof:placetype":"locality",

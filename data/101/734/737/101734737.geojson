@@ -47,14 +47,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869051
+        1158869051,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56620085,
+        "statcan:nid":"542ae349bee311d892e2080020a0f4c9",
         "wd:id":"Q1659822"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6eedde7deb7b1afcd7c4582c564d79a6",
     "wof:hierarchy":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101734737,
-    "wof:lastmodified":1690864834,
+    "wof:lastmodified":1722051525,
     "wof:name":"Grahamdale",
     "wof:parent_id":1158869051,
     "wof:placetype":"locality",

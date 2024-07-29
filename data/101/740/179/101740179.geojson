@@ -47,14 +47,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868969
+        1158868969,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373154,
+        "statcan:nid":"0c318fc4849c20c350590d671d78956a",
         "wd:id":"Q5596377"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b4d15dbd2997ec0e70d0071c94b8c424",
     "wof:hierarchy":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":101740179,
-    "wof:lastmodified":1690864662,
+    "wof:lastmodified":1722051524,
     "wof:name":"Grant No. 372",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

@@ -60,17 +60,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868969
+        1158868969,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c00de6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6113848,
         "gp:id":2168,
+        "statcan:nid":"0c2c493e849c20c37e8c8a1b099f4a3a",
         "wd:id":"Q2202320",
         "wk:page":"Prud'homme, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2ef2b54b1a96aee0de5df7976759b8e7",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864211,
+    "wof:lastmodified":1722051507,
     "wof:name":"Prud'homme",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",

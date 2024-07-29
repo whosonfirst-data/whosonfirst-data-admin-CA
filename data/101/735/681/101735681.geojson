@@ -125,8 +125,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457733
+        890457733,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,9 +134,11 @@
         "gn:id":6113355,
         "gp:id":29374609,
         "qs_pg:id":1041601,
+        "statcan:nid":"0cf0f357d05311d892e2080020a0f4c9",
         "wd:id":"Q385085",
         "wk:page":"Prince Edward County, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -155,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864877,
+    "wof:lastmodified":1722051527,
     "wof:name":"Prince Edward County",
     "wof:parent_id":890457733,
     "wof:placetype":"locality",

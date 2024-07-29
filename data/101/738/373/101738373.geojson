@@ -99,13 +99,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138835,
         "gp:id":56620054,
+        "statcan:nid":"aaa021d9be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463063",
         "wk:page":"Saint-Norbert, Quebec"
     },
@@ -117,6 +118,7 @@
             "Saint-Norbert,_Quebec"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b4e431b7070c12283ed1f0c654653fe6",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101738373,
-    "wof:lastmodified":1706239363,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Norbert",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

@@ -111,15 +111,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457567
+        890457567,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137962,
         "gp:id":23396530,
+        "statcan:nid":"22601109be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462109"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"51a738768f02ba0ca6158b49bbddd40a",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101737469,
-    "wof:lastmodified":1690864349,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-Elph\u00e8ge",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

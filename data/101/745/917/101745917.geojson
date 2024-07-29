@@ -168,14 +168,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869049
+        1158869049,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1675,
+        "statcan:nid":"ecb0274fbbe211d892e2080020a0f4c9",
         "wd:id":"Q5003449"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":101745917,
-    "wof:lastmodified":1690865000,
+    "wof:lastmodified":1722051533,
     "wof:name":"Shamattawa 1",
     "wof:parent_id":1158869049,
     "wof:placetype":"locality",

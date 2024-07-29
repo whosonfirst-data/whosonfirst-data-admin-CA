@@ -54,17 +54,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba6238-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5899182,
         "gp:id":2285,
+        "statcan:nid":"0c2d4d65849c20c3f566c7c0e910d9df",
         "wd:id":"Q1999109",
         "wk:page":"Bethune, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b5948aea0b386dc450481b8ba9197c30",
     "wof:hierarchy":[
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864257,
+    "wof:lastmodified":1722051509,
     "wof:name":"Bethune",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

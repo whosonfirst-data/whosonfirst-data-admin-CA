@@ -119,16 +119,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6943827,
         "gp:id":3493,
         "qs_pg:id":453183,
+        "statcan:nid":"0cc49d63849c20c394561e626bd88655",
         "wd:id":"Q141995"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101736717,
-    "wof:lastmodified":1690864484,
+    "wof:lastmodified":1722051519,
     "wof:name":"Thetford Mines",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

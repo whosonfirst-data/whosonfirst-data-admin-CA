@@ -74,17 +74,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458397
+        890458397,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6091375,
         "gp:id":23396478,
         "qs_pg:id":1162826,
+        "statcan:nid":"014dbdc20a0012042b89aa6b1e012d65",
         "wd:id":"Q3344600",
         "wk:page":"Notre-Dame-de-Lourdes, Lanaudi\u00e8re, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101736481,
-    "wof:lastmodified":1690864456,
+    "wof:lastmodified":1722051518,
     "wof:name":"Notre-Dame-de-Lourdes",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

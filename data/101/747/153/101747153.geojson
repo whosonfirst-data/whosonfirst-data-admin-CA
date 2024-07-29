@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
     "geom:area_square_m":645508.179119,
-    "geom:bbox":"-124.181116,52.2645325,-124.1693113,52.2717757",
+    "geom:bbox":"-124.181116,52.264532,-124.169311,52.271776",
     "geom:latitude":52.268154,
     "geom:longitude":-124.175214,
     "iso:country":"CA",
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"9a271dceba3411d892e2080020a0f4c9"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"31257bb37e0053c6eecbd5f106acb652",
+    "wof:geomhash":"6f961f7d4bcfcd0dfcbb7fd2b0796380",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101747153,
-    "wof:lastmodified":1566519683,
+    "wof:lastmodified":1722051472,
     "wof:name":"Toby Helenes Meadow 9",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -71,9 +74,9 @@
 },
   "bbox": [
     -124.181116,
-    52.26453249999997,
-    -124.1693113,
-    52.27177569999998
+    52.264532,
+    -124.169311,
+    52.271776
 ],
-  "geometry": {"coordinates":[[[-124.181116,52.26454139999998],[-124.1811032,52.27177569999998],[-124.1693113,52.2717677],[-124.169326,52.26453249999997],[-124.181116,52.26454139999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-124.181116,52.264541],[-124.18110299999999,52.271776],[-124.16931099999999,52.271768],[-124.169326,52.264532],[-124.181116,52.264541]]],"type":"Polygon"}
 }

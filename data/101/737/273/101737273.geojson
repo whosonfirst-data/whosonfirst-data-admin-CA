@@ -85,17 +85,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137901,
         "gp:id":23396523,
         "qs_pg:id":1025730,
+        "statcan:nid":"19cc0662be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464281",
         "wk:page":"Sainte-Genevi\u00e8ve-de-Berthier, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ca87ead2b8668fc1201a91e87692ed60",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737273,
-    "wof:lastmodified":1690864278,
+    "wof:lastmodified":1722051510,
     "wof:name":"Sainte-Genevi\u00e8ve-de-Berthier",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

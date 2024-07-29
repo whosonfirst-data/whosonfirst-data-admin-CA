@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137617,
         "gp:id":23394502,
+        "statcan:nid":"0cf45ead849c20c3d827762c29600f04",
         "wd:id":"Q3461998",
         "wk:page":"Saint-Cl\u00e9ophas-de-Brandon, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"80d2471a71439d9881a7966d3189dffd",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101736977,
-    "wof:lastmodified":1690864420,
+    "wof:lastmodified":1722051516,
     "wof:name":"Saint-Cl\u00e9ophas-de-Brandon",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

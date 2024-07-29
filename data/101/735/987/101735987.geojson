@@ -32,7 +32,7 @@
     "mps:latitude":43.752326,
     "mps:longitude":-77.507428,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Brighton"
@@ -302,6 +302,7 @@
         "gn:id":5908835,
         "gp:id":4114,
         "qs_pg:id":238116,
+        "statcan:nid":"ee2dbcf8d05211d892e2080020a0f4c9",
         "wd:id":"Q2925383",
         "wk:page":"Brighton, Ontario"
     },
@@ -310,6 +311,7 @@
             5908836
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -324,7 +326,7 @@
         }
     ],
     "wof:id":101735987,
-    "wof:lastmodified":1706239358,
+    "wof:lastmodified":1722051458,
     "wof:name":"Brighton",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

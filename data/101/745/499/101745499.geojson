@@ -64,14 +64,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373335,
+        "statcan:nid":"7417817aba3511d892e2080020a0f4c9",
         "wd:id":"Q5055429"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7f68e19ffee1278c95cf27af68aedfae",
     "wof:hierarchy":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101745499,
-    "wof:lastmodified":1690864994,
+    "wof:lastmodified":1722051532,
     "wof:name":"Cayoosh Creek 1",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

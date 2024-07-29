@@ -104,17 +104,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456455
+        890456455,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138147,
         "gp:id":23394553,
         "qs_pg:id":1192526,
+        "statcan:nid":"35f9286cbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3463599",
         "wk:page":"Saint-\u00c9tienne-de-Bolton, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0cb27b0645796e8f4f797f0a643effcd",
     "wof:hierarchy":[
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101737621,
-    "wof:lastmodified":1690864279,
+    "wof:lastmodified":1722051510,
     "wof:name":"Saint-\u00c9tienne-de-Bolton",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

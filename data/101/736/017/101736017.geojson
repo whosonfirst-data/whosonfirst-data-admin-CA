@@ -72,15 +72,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458765
+        890458765,
+        85682057
     ],
     "wof:breaches":[
         101740759
     ],
     "wof:concordances":{
+        "statcan:nid":"0c626c74849c20c3d1294ece1ee0a242",
         "wd:id":"Q5921913"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a2ebc1fa5a54a6496bab084d5df4cf79",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101736017,
-    "wof:lastmodified":1690864463,
+    "wof:lastmodified":1722051518,
     "wof:name":"Howick",
     "wof:parent_id":890458765,
     "wof:placetype":"locality",

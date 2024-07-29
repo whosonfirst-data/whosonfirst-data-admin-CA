@@ -88,17 +88,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458609
+        890458609,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bc8f72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6325523,
         "gp:id":23394299,
+        "statcan:nid":"0d043086849c20c307c2aeae47446251",
         "wd:id":"Q953369",
         "wk:page":"L'Islet, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2f9c0d62b0c834b0c67dfddb62b98582",
     "wof:hierarchy":[
@@ -114,7 +116,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864309,
+    "wof:lastmodified":1722051511,
     "wof:name":"L'Islet",
     "wof:parent_id":890458609,
     "wof:placetype":"locality",

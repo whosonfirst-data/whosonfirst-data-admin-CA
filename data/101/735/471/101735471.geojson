@@ -236,8 +236,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869069
+        1158869069,
+        85682105
     ],
     "wof:breaches":[
         101747369
@@ -246,6 +246,7 @@
         "fct:id":"03c17f6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6161366,
         "gp:id":23405901,
+        "statcan:nid":"dc03ecdad05211d892e2080020a0f4c9",
         "wd:id":"Q719605",
         "wk:page":"Taloyoak"
     },
@@ -254,6 +255,7 @@
             "Q719605"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -272,7 +274,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1706239355,
+    "wof:lastmodified":1722051533,
     "wof:name":"Taloyoak",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

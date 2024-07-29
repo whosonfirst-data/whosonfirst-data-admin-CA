@@ -85,14 +85,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458401
+        890458401,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374218,
+        "statcan:nid":"0cf69a1d849c20c399d93e788df3e04a",
         "wd:id":"Q3464141"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f7d8b44e63906ea6e8e33308bba14927",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101737073,
-    "wof:lastmodified":1690864336,
+    "wof:lastmodified":1722051513,
     "wof:name":"Sainte-Agathe-de-Lotbini\u00e8re",
     "wof:parent_id":890458401,
     "wof:placetype":"locality",

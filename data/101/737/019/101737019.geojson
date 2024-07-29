@@ -94,16 +94,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456469
+        890456469,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138212,
         "gp:id":1484,
         "qs_pg:id":1037031,
+        "statcan:nid":"0cf530c4849c20c3e611e0b96cd455ea",
         "wd:id":"Q3462202"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101737019,
-    "wof:lastmodified":1690864346,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-F\u00e9lix-de-Valois",
     "wof:parent_id":890456469,
     "wof:placetype":"locality",

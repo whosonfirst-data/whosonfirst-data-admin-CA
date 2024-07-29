@@ -73,14 +73,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457169
+        890457169,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6176565,
         "gp:id":23394719,
         "qs_pg:id":1086076,
+        "statcan:nid":"ffa0a3e6bf824e03a232691f5a33c424",
         "wd:id":"Q3566535",
         "wk:page":"Waskaganish"
     },
@@ -92,6 +93,7 @@
             "Waskaganish"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101741455,
-    "wof:lastmodified":1706239365,
+    "wof:lastmodified":1722051534,
     "wof:name":"Waskaganish",
     "wof:parent_id":890457169,
     "wof:placetype":"locality",

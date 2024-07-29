@@ -106,13 +106,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456797
+        890456797,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "statcan:nid":"0cf4084d849c20c318cf6ce2982df8d8",
         "wd:id":"Q3463183"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2a8dcbee9c3b1d07262b478cdbff43e2",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101736959,
-    "wof:lastmodified":1690864441,
+    "wof:lastmodified":1722051517,
     "wof:name":"Saint-Pierre-de-l'\u00cele-d'Orl\u00e9ans",
     "wof:parent_id":890456797,
     "wof:placetype":"locality",

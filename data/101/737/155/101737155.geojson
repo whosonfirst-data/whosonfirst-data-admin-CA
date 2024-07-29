@@ -97,16 +97,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458107
+        890458107,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6065088,
         "gp:id":29374700,
+        "statcan:nid":"0d091e6f849c20c38771e832bf40dcbf",
         "wd:id":"Q3285492",
         "wk:page":"Mandeville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"da0d494c1ff2411b1489dba178012add",
     "wof:hierarchy":[
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101737155,
-    "wof:lastmodified":1636414336,
+    "wof:lastmodified":1722051505,
     "wof:name":"Mandeville",
     "wof:parent_id":890458107,
     "wof:placetype":"locality",

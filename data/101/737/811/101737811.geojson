@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458541
+        890458541,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6166831,
         "gp:id":23396619,
+        "statcan:nid":"57b16988be5211d892e2080020a0f4c9",
         "wd:id":"Q3529187",
         "wk:page":"Tingwick, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"42a04175524de3f682f00e208d73aa9c",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101737811,
-    "wof:lastmodified":1690864277,
+    "wof:lastmodified":1722051510,
     "wof:name":"Tingwick",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

@@ -124,17 +124,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c73986-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6107325,
         "gp:id":1220,
+        "statcan:nid":"014dffed0a001204400584bd57bd507b",
         "wd:id":"Q142271",
         "wk:page":"Pointe-Claire"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864463,
+    "wof:lastmodified":1722051518,
     "wof:name":"Pointe-Claire",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

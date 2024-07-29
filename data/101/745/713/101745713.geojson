@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456837
+        890456837,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":9062,
+        "statcan:nid":"1618970bba3611d892e2080020a0f4c9",
         "wd:id":"Q1649005"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6bff2f77eb0e2c1c044a4be3b6d15550",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101745713,
-    "wof:lastmodified":1690864995,
+    "wof:lastmodified":1722051532,
     "wof:name":"Alert Bay 1",
     "wof:parent_id":890456837,
     "wof:placetype":"locality",

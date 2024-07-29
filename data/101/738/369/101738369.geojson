@@ -103,16 +103,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458535
+        890458535,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6176109,
         "gp:id":23394695,
+        "statcan:nid":"aa6bb7fdbf0411d892e2080020a0f4c9",
         "wd:id":"Q3566279",
         "wk:page":"Warden, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7f0534d8868aa4018f9824d502826855",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101738369,
-    "wof:lastmodified":1690864553,
+    "wof:lastmodified":1722051522,
     "wof:name":"Warden",
     "wof:parent_id":890458535,
     "wof:placetype":"locality",

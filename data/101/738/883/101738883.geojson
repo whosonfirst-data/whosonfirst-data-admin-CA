@@ -320,17 +320,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457887
+        890457887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6182959,
         "gp:id":3531,
         "qs_pg:id":436393,
+        "statcan:nid":"f7b26e4ebf0411d892e2080020a0f4c9",
         "wd:id":"Q139415",
         "wk:page":"Windsor, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -346,7 +348,7 @@
         }
     ],
     "wof:id":101738883,
-    "wof:lastmodified":1690864562,
+    "wof:lastmodified":1722051522,
     "wof:name":"Windsor",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

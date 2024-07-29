@@ -106,14 +106,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23394474,
+        "statcan:nid":"66be8191d1e011d892e2080020a0f4c9",
         "wd:id":"Q3461672"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a335263de2e7de122dab126aa39a021a",
     "wof:hierarchy":[
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101737921,
-    "wof:lastmodified":1690864371,
+    "wof:lastmodified":1722051514,
     "wof:name":"Saint-Adrien-d'Irlande",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

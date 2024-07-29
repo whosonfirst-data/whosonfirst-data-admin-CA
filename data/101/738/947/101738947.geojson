@@ -57,17 +57,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868979
+        1158868979,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba659e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5962634,
         "gp:id":2311,
+        "statcan:nid":"0cfe7276849c20c3c4ed3dd20d7998aa",
         "wd:id":"Q2003529",
         "wk:page":"Golden Prairie, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e78f913a5e0f3ef1e72f68cb121b1161",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864540,
+    "wof:lastmodified":1722051521,
     "wof:name":"Golden Prairie",
     "wof:parent_id":1158868979,
     "wof:placetype":"locality",

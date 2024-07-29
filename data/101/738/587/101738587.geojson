@@ -91,15 +91,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458027
+        890458027,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5920652,
+        "statcan:nid":"c97a5b50d1e311d892e2080020a0f4c9",
         "wd:id":"Q2962228",
         "wk:page":"Chelsea, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9744307b7cb56682bea2b75632e7e96a",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101738587,
-    "wof:lastmodified":1690864544,
+    "wof:lastmodified":1722051521,
     "wof:name":"Chelsea",
     "wof:parent_id":890458027,
     "wof:placetype":"locality",

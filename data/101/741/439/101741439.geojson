@@ -145,8 +145,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5955950,
-        "gp:id":12524113
+        "gp:id":12524113,
+        "statcan:nid":"e9295d57ba2811d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101741439,
-    "wof:lastmodified":1614893108,
+    "wof:lastmodified":1722051505,
     "wof:name":"Fort Severn Indian Reserve No. 89",
     "wof:parent_id":890456531,
     "wof:placetype":"locality",

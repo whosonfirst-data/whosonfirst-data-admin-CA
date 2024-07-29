@@ -90,13 +90,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458021
+        890458021,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6945995,
         "gp:id":56624970,
+        "statcan:nid":"8fe52384ba2311d892e2080020a0f4c9",
         "wd:id":"Q1907079",
         "wk:page":"Mashteuiatsh, Quebec"
     },
@@ -105,6 +106,7 @@
             11125844
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e833916ff9b59aa43884c7ec5ef2c412",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101747877,
-    "wof:lastmodified":1706239369,
+    "wof:lastmodified":1722051535,
     "wof:name":"Mashteuiatsh",
     "wof:parent_id":890458021,
     "wof:placetype":"locality",

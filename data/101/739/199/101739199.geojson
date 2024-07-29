@@ -57,17 +57,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868947
+        1158868947,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba626a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5990125,
         "gp:id":2286,
+        "statcan:nid":"0cfe6d9a849c20c3e834ef15d93f44fd",
         "wd:id":"Q2004116",
         "wk:page":"Keeler, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3cdc05378e2ac8435a7a4c26eec31366",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864227,
+    "wof:lastmodified":1722051508,
     "wof:name":"Keeler",
     "wof:parent_id":1158868947,
     "wof:placetype":"locality",

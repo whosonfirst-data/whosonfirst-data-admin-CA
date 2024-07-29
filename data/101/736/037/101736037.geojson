@@ -103,16 +103,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458415
+        890458415,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6180176,
         "gp:id":1761,
+        "statcan:nid":"7731d815c6cd11d892e2080020a0f4c9",
         "wd:id":"Q483334",
         "wk:page":"Whitchurch\u2013Stouffville"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"68cf93ac6b8bb8429797619c54674bdb",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101736037,
-    "wof:lastmodified":1690864417,
+    "wof:lastmodified":1722051516,
     "wof:name":"Whitchurch-Stouffville",
     "wof:parent_id":890458415,
     "wof:placetype":"locality",

@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456307
+        890456307,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5887440,
         "gp:id":23396457,
+        "statcan:nid":"a4203ab6bbe511d892e2080020a0f4c9",
         "wd:id":"Q974582",
         "wk:page":"Arundel, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e9b64cf61d7a90f57fb5b4dd83b1e283",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101737291,
-    "wof:lastmodified":1690864353,
+    "wof:lastmodified":1722051513,
     "wof:name":"Arundel",
     "wof:parent_id":890456307,
     "wof:placetype":"locality",

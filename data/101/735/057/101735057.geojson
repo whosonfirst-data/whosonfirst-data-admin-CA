@@ -93,14 +93,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868939
+        1158868939,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373809,
+        "statcan:nid":"3a94b89dbedb11d892e2080020a0f4c9",
         "wd:id":"Q1657568"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6a49493433b2db0b5aaa7cad77a4ee81",
     "wof:hierarchy":[
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101735057,
-    "wof:lastmodified":1690864953,
+    "wof:lastmodified":1722051531,
     "wof:name":"Argyle",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

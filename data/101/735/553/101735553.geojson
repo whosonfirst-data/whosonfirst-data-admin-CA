@@ -272,17 +272,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456827
+        890456827,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5967629,
         "gp:id":4048,
         "qs_pg:id":766989,
+        "statcan:nid":"fcc065cbd05311d892e2080020a0f4c9",
         "wd:id":"Q504114",
         "wk:page":"Guelph"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -298,7 +300,7 @@
         }
     ],
     "wof:id":101735553,
-    "wof:lastmodified":1690864933,
+    "wof:lastmodified":1722051530,
     "wof:name":"Guelph",
     "wof:parent_id":890456827,
     "wof:placetype":"locality",

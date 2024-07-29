@@ -159,17 +159,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869069
+        1158869069,
+        85682105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c18270-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5994330,
         "gp:id":29373784,
+        "statcan:nid":"e7e1f33cd05211d892e2080020a0f4c9",
         "wd:id":"Q642458",
         "wk:page":"Kugaaruk"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6773944d54e411864e0681e87439f3ca",
     "wof:hierarchy":[
@@ -185,7 +187,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864876,
+    "wof:lastmodified":1722051527,
     "wof:name":"Kugaaruk",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

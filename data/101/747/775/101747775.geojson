@@ -67,15 +67,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456677
+        890456677,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6945998,
         "gp:id":29374509,
+        "statcan:nid":"d80afcd0ba2311d892e2080020a0f4c9",
         "wd:id":"Q2855336"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"732380d6870a930a96023ad1508ba59c",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101747775,
-    "wof:lastmodified":1690864783,
+    "wof:lastmodified":1722051525,
     "wof:name":"Pikogan",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

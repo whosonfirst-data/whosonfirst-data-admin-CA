@@ -57,17 +57,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c0071a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6104287,
         "gp:id":2060,
+        "statcan:nid":"0c2bc648849c20c3c8ae6f67ce93c6f7",
         "wd:id":"Q2202181",
         "wk:page":"Pierceland, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"799fa5d15c2ba06960a37ee10bf663fd",
     "wof:hierarchy":[
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864259,
+    "wof:lastmodified":1722051509,
     "wof:name":"Pierceland",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457191
+        890457191,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6159476,
         "gp:id":3317,
+        "statcan:nid":"0c50c4af849c20c38eee83e8bfdfcc81",
         "wd:id":"Q3110020",
         "wk:page":"Sundridge, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3e6563bc3699a1eb7615c63d1bf7c1aa",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101735861,
-    "wof:lastmodified":1690864891,
+    "wof:lastmodified":1722051528,
     "wof:name":"Sundridge",
     "wof:parent_id":890457191,
     "wof:placetype":"locality",

@@ -104,15 +104,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458611
+        890458611,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6157698,
         "gp:id":3521,
+        "statcan:nid":"d9a1f292be5011d892e2080020a0f4c9",
         "wd:id":"Q3499874"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ca7f97feb5cf8d93650000951db2e0c0",
     "wof:hierarchy":[
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101738737,
-    "wof:lastmodified":1690864500,
+    "wof:lastmodified":1722051520,
     "wof:name":"Stornoway",
     "wof:parent_id":890458611,
     "wof:placetype":"locality",

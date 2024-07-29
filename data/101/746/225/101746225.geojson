@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
     "geom:area_square_m":645789.318457,
-    "geom:bbox":"-105.9855073,53.4379368,-105.9733576,53.4451787",
+    "geom:bbox":"-105.985507,53.437937,-105.973358,53.445179",
     "geom:latitude":53.441557,
     "geom:longitude":-105.979428,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":53.441558,
     "mps:longitude":-105.979428,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poundmaker I.R. 114-5B"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868969
+        1158868969,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373108
+        "gp:id":29373108,
+        "statcan:nid":"6c9ebbfe849c20c325c65ef7fd3c3258"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"32845b3a0cb827a34701bbc13dfefb21",
+    "wof:geomhash":"9773a6c4f491e95c45a292572a4aad40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746225,
-    "wof:lastmodified":1566519838,
+    "wof:lastmodified":1722051440,
     "wof:name":"Poundmaker I.R. 114-5B",
     "wof:parent_id":1158868969,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -105.9855073,
-    53.43793679999999,
-    -105.97335759999999,
-    53.44517869999999
+    -105.985507,
+    53.437937,
+    -105.973358,
+    53.445179
 ],
-  "geometry": {"coordinates":[[[-105.97335759999999,53.44517869999999],[-105.97336850000001,53.43795],[-105.98550729999999,53.43793679999999],[-105.98547760000002,53.44516570000002],[-105.97335759999999,53.44517869999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-105.973358,53.445179],[-105.97336900000001,53.43795],[-105.985507,53.437937],[-105.985478,53.445166],[-105.973358,53.445179]]],"type":"Polygon"}
 }

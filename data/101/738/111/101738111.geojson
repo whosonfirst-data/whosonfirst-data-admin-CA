@@ -113,17 +113,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457833
+        890457833,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8379097,
         "gp:id":23394300,
         "qs_pg:id":1155788,
+        "statcan:nid":"87d486fcbe4611d892e2080020a0f4c9",
         "wd:id":"Q142284",
         "wk:page":"Poh\u00e9n\u00e9gamook"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101738111,
-    "wof:lastmodified":1690864537,
+    "wof:lastmodified":1722051521,
     "wof:name":"Poh\u00e9n\u00e9gamook",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

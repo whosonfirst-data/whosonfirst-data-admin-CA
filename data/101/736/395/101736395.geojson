@@ -98,8 +98,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456991
+        890456991,
+        85682057
     ],
     "wof:breaches":[
         101740727
@@ -108,9 +108,11 @@
         "gn:id":6100630,
         "gp:id":23396964,
         "qs_pg:id":24621,
+        "statcan:nid":"768e1df5c6cd11d892e2080020a0f4c9",
         "wd:id":"Q448041",
         "wk:page":"Pelham, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101736395,
-    "wof:lastmodified":1690864438,
+    "wof:lastmodified":1722051517,
     "wof:name":"Pelham",
     "wof:parent_id":890456991,
     "wof:placetype":"locality",

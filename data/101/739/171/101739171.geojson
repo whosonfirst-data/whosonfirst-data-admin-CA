@@ -59,8 +59,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,9 +68,11 @@
         "gn:id":5990752,
         "gp:id":2226,
         "qs_pg:id":52903,
+        "statcan:nid":"0cfe6e25849c20c395790ed4aa97b481",
         "wd:id":"Q2004158",
         "wk:page":"Kenaston, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864259,
+    "wof:lastmodified":1722051509,
     "wof:name":"Kenaston",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

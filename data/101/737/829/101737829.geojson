@@ -88,14 +88,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456817
+        890456817,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3669,
+        "statcan:nid":"58780d60bf9311d892e2080020a0f4c9",
         "wd:id":"Q379188"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5893c2c472c5b3f6931696331fee10b6",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737829,
-    "wof:lastmodified":1690864276,
+    "wof:lastmodified":1722051510,
     "wof:name":"Saint-Pac\u00f4me",
     "wof:parent_id":890456817,
     "wof:placetype":"locality",

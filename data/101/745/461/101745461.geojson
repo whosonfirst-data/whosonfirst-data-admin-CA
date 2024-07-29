@@ -52,16 +52,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458867
+        890458867,
+        85682117
     ],
     "wof:breaches":[
         101740875
     ],
     "wof:concordances":{
         "gp:id":9190,
+        "statcan:nid":"91c9d93aba3411d892e2080020a0f4c9",
         "wd:id":"Q16981094"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9576ac6124db4bbf96c7207af92b632b",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101745461,
-    "wof:lastmodified":1690864999,
+    "wof:lastmodified":1722051533,
     "wof:name":"Langley 2",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

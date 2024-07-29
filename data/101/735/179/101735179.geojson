@@ -72,14 +72,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457189
+        890457189,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23392475,
+        "statcan:nid":"759d0c25c5f711d892e2080020a0f4c9",
         "wd:id":"Q2886283"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3ecaee5b033633ef08d9c3935f5db322",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101735179,
-    "wof:lastmodified":1690864969,
+    "wof:lastmodified":1722051531,
     "wof:name":"Bas-Caraquet",
     "wof:parent_id":890457189,
     "wof:placetype":"locality",

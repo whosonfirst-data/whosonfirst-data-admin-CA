@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457891
+        890457891,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23395649,
+        "statcan:nid":"cf23049abe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461790"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3e40faf0a0763052faddeca9d426ed99",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738647,
-    "wof:lastmodified":1690864565,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Antoine-de-l'Isle-aux-Grues",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

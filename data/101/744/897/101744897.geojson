@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
     "geom:area_square_m":243151.548624,
-    "geom:bbox":"-122.3791751,52.5557425,-122.3701916,52.5593881",
+    "geom:bbox":"-122.379175,52.555743,-122.370192,52.559388",
     "geom:latitude":52.557561,
-    "geom:longitude":-122.374673,
+    "geom:longitude":-122.374674,
     "iso:country":"CA",
     "lbl:latitude":52.557562,
     "lbl:longitude":-122.374673,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":9571
+        "gp:id":9571,
+        "statcan:nid":"98c87818ba3411d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"e46d8076bff9636773c59a7f6d7240f3",
+    "wof:geomhash":"1b01bffaa7a4828e3a5a06494c0c2305",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744897,
-    "wof:lastmodified":1566519981,
+    "wof:lastmodified":1722051489,
     "wof:name":"Hay Ranch 2",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.3791751,
-    52.5557425,
-    -122.3701916,
-    52.55938809999998
+    -122.379175,
+    52.555743,
+    -122.370192,
+    52.559388
 ],
-  "geometry": {"coordinates":[[[-122.3791751,52.55575879999998],[-122.37909359999998,52.55938809999998],[-122.3701916,52.5593594],[-122.37022330000002,52.5557425],[-122.3791751,52.55575879999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.379175,52.555759],[-122.37909399999999,52.559388],[-122.370192,52.559359],[-122.370223,52.555743],[-122.379175,52.555759]]],"type":"Polygon"}
 }

@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457059
+        890457059,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138918,
         "gp:id":23396595,
+        "statcan:nid":"ba67498cbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3463161",
         "wk:page":"Saint-Pie-de-Guire, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e68f28d460381ab08d69eca0d646585f",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101738453,
-    "wof:lastmodified":1690864531,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Pie-de-Guire",
     "wof:parent_id":890457059,
     "wof:placetype":"locality",

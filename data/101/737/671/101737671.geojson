@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138216,
         "gp:id":23394561,
+        "statcan:nid":"3a658358be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462165",
         "wk:page":"Saint-Fortunat, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5bac6ca8c21de379d6a5801120c015a1",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737671,
-    "wof:lastmodified":1690864339,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-Fortunat",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

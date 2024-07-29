@@ -81,16 +81,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6165702,
         "gp:id":56623050,
+        "statcan:nid":"0d03e186849c20c30df2406c550ff55c",
         "wd:id":"Q4864817",
         "wk:page":"Thornloe"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a0cf9be41d42daf0d9afaf7fee32f688",
     "wof:hierarchy":[
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101735805,
-    "wof:lastmodified":1690864905,
+    "wof:lastmodified":1722051528,
     "wof:name":"Thornloe",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

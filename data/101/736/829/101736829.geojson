@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458025
+        890458025,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5896151,
         "gp:id":3294,
+        "statcan:nid":"0cd074d0849c20c37301c35688f3d51b",
         "wd:id":"Q2929384",
         "wk:page":"B\u00e9arn, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"cd5583f013a148b4d8c9bdbf4fe1254b",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101736829,
-    "wof:lastmodified":1690864394,
+    "wof:lastmodified":1722051515,
     "wof:name":"B\u00e9arn",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

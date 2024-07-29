@@ -199,13 +199,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "statcan:nid":"0ccb9537849c20c304ef8b3c05554ac2",
         "wd:id":"Q3461900"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ee7c0b4984f95f52dc0b8af6015f98cd",
     "wof:hierarchy":[
@@ -218,7 +220,7 @@
         }
     ],
     "wof:id":101736761,
-    "wof:lastmodified":1690864450,
+    "wof:lastmodified":1722051518,
     "wof:name":"Saint-Boniface",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

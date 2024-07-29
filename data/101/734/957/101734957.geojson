@@ -53,14 +53,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869035
+        1158869035,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23401859,
+        "statcan:nid":"1fa7c5c7bee011d892e2080020a0f4c9",
         "wd:id":"Q1659481"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c9012efd64517e76287bc92d53f73425",
     "wof:hierarchy":[
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101734957,
-    "wof:lastmodified":1690864845,
+    "wof:lastmodified":1722051525,
     "wof:name":"East St. Paul",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",

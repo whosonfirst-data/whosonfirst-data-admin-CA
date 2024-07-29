@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
     "geom:area_square_m":644961.092342,
-    "geom:bbox":"-125.2621808,53.7438371,-125.2377389,53.7475616",
+    "geom:bbox":"-125.262181,53.743837,-125.237739,53.747562",
     "geom:latitude":53.745699,
-    "geom:longitude":-125.24996,
+    "geom:longitude":-125.249961,
     "iso:country":"CA",
     "lbl:latitude":53.745699,
     "lbl:longitude":-125.249961,
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458087
+        890458087,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"5a50d71aba3511d892e2080020a0f4c9"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"549c27db61374dee19db4bd65f7aa30d",
+    "wof:geomhash":"801a0e6bdbe87718ce84e36871764c94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101744453,
-    "wof:lastmodified":1566519970,
+    "wof:lastmodified":1722051487,
     "wof:name":"Alexis Thomas 1A",
     "wof:parent_id":890458087,
     "wof:placetype":"locality",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -125.26218080000001,
-    53.7438371,
-    -125.23773890000001,
-    53.74756159999998
+    -125.262181,
+    53.743837,
+    -125.237739,
+    53.747562
 ],
-  "geometry": {"coordinates":[[[-125.26218080000001,53.74394640000003],[-125.26213580000001,53.74756159999998],[-125.23773890000001,53.74745230000002],[-125.237786,53.7438371],[-125.26218080000001,53.74394640000003]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-125.262181,53.743946],[-125.262136,53.747562],[-125.237739,53.747452],[-125.237786,53.743837],[-125.262181,53.743946]]],"type":"Polygon"}
 }

@@ -101,17 +101,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682095,
-        890457195
+        890457195,
+        85682095
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5916754,
         "gp:id":4244,
         "qs_pg:id":1080281,
+        "statcan:nid":"cfb92822a68b4d9185dc84b14ab8f58b",
         "wd:id":"Q1035637",
         "wk:page":"Carcross"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b3988785a7e202b8538683bcb56b0bc5",
     "wof:hierarchy":[
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101747879,
-    "wof:lastmodified":1690864774,
+    "wof:lastmodified":1722051524,
     "wof:name":"Carcross/Tagish First Nation",
     "wof:parent_id":890457195,
     "wof:placetype":"locality",

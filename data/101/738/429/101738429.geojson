@@ -112,14 +112,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458631
+        890458631,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23395646,
+        "statcan:nid":"b34a9141be4c11d892e2080020a0f4c9",
         "wd:id":"Q3461039"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"ed3ccb386f5e7794f48363b4077ee903",
     "wof:hierarchy":[
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101738429,
-    "wof:lastmodified":1690864568,
+    "wof:lastmodified":1722051522,
     "wof:name":"Sacr\u00e9-Coeur-de-J\u00e9sus",
     "wof:parent_id":890458631,
     "wof:placetype":"locality",

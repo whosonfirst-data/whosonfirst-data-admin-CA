@@ -90,16 +90,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456497
+        890456497,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6944117,
         "gp:id":3623,
+        "statcan:nid":"807cbde2ba2311d892e2080020a0f4c9",
         "wd:id":"Q644468",
         "wk:page":"Listuguj Mi'gmaq First Nation"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2866ab4a336d16e1c204e81554ccb49e",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101747697,
-    "wof:lastmodified":1690864780,
+    "wof:lastmodified":1722051524,
     "wof:name":"Listuguj",
     "wof:parent_id":890456497,
     "wof:placetype":"locality",

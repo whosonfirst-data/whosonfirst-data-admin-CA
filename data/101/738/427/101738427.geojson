@@ -93,17 +93,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456495
+        890456495,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6944111,
         "gp:id":23394471,
         "qs_pg:id":24486,
+        "statcan:nid":"b31417edbe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461040",
         "wk:page":"Sacr\u00e9-Coeur, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101738427,
-    "wof:lastmodified":1690864570,
+    "wof:lastmodified":1722051522,
     "wof:name":"Sacr\u00e9-Coeur",
     "wof:parent_id":890456495,
     "wof:placetype":"locality",

@@ -88,17 +88,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456849
+        890456849,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bf5158-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5928474,
         "gp:id":29374538,
+        "statcan:nid":"0cf47285849c20c3a1f9bb8eb2622199",
         "wd:id":"Q1150911",
         "wk:page":"C\u00f4te-Nord-du-Golfe-du-Saint-Laurent, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes-reversegeo",
@@ -118,7 +120,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864421,
+    "wof:lastmodified":1722051516,
     "wof:name":"C\u00f4te-Nord-du-Golfe-du-Saint-Laurent",
     "wof:parent_id":890456849,
     "wof:placetype":"locality",

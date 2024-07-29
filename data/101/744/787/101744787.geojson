@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458867
+        890458867,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23405115,
+        "statcan:nid":"83e88905ba3411d892e2080020a0f4c9",
         "wd:id":"Q7229367"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6ea37773a319af139498f1755bbac489",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101744787,
-    "wof:lastmodified":1690864981,
+    "wof:lastmodified":1722051532,
     "wof:name":"Popkum 1",
     "wof:parent_id":890458867,
     "wof:placetype":"locality",

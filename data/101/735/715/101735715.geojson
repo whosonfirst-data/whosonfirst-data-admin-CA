@@ -54,14 +54,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458687
+        890458687,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56622629,
+        "statcan:nid":"0c4dd2e4849c20c3fc8cacf50f526076",
         "wd:id":"Q11835858"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3023f5d2e8803a8e2b6cd76bd553c66f",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101735715,
-    "wof:lastmodified":1690864913,
+    "wof:lastmodified":1722051529,
     "wof:name":"Shuniah",
     "wof:parent_id":890458687,
     "wof:placetype":"locality",

@@ -112,8 +112,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456801
+        890456801,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,9 +121,11 @@
         "gn:id":5924500,
         "gp:id":3570,
         "qs_pg:id":453201,
+        "statcan:nid":"0cf6bc74849c20c3bec3c10dfbdb969c",
         "wd:id":"Q142053",
         "wk:page":"Coaticook Regional County Municipality"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864277,
+    "wof:lastmodified":1722051510,
     "wof:name":"Coaticook",
     "wof:parent_id":890456801,
     "wof:placetype":"locality",

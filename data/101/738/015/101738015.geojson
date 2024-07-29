@@ -116,17 +116,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456537
+        890456537,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5952337,
         "gp:id":23394699,
         "qs_pg:id":137063,
+        "statcan:nid":"78202162be1211d892e2080020a0f4c9",
         "wd:id":"Q141605",
         "wk:page":"Fermont"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101738015,
-    "wof:lastmodified":1690864508,
+    "wof:lastmodified":1722051520,
     "wof:name":"Fermont",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

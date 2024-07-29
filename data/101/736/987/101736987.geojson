@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457803
+        890457803,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396277,
+        "statcan:nid":"0cf49cd8849c20c36181b754062084e3",
         "wd:id":"Q3219674"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"686e22f3cb214611a906f02e425144b1",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101736987,
-    "wof:lastmodified":1690864482,
+    "wof:lastmodified":1722051519,
     "wof:name":"Laurierville",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

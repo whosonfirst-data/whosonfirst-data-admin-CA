@@ -85,14 +85,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682067,
-        1158869031
+        1158869031,
+        85682067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374015,
+        "statcan:nid":"0c70a9b7849c20c3624c038369d0baf0",
         "wd:id":"Q1493315"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b7b77ef1c3aee81398c6a88567d2e13b",
     "wof:hierarchy":[
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101735403,
-    "wof:lastmodified":1690864959,
+    "wof:lastmodified":1722051531,
     "wof:name":"Gameti",
     "wof:parent_id":1158869031,
     "wof:placetype":"locality",

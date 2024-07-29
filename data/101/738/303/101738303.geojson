@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458017
+        890458017,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138783,
         "gp:id":23396665,
+        "statcan:nid":"a05df1ffbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462972",
         "wk:page":"Saint-Maxime-du-Mont-Louis, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6d9c41d0a3968eb93529c472e2f0ca4d",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101738303,
-    "wof:lastmodified":1690864549,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Maxime-du-Mont-Louis",
     "wof:parent_id":890458017,
     "wof:placetype":"locality",

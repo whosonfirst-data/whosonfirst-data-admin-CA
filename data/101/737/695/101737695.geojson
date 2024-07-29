@@ -93,16 +93,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457887
+        890457887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bdf920-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6138253,
         "gp:id":23396548,
+        "statcan:nid":"40ab3220be4d11d892e2080020a0f4c9",
         "wd:id":"Q3462169"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"2ef5be31435cc33d4c1cbc22f337c3b8",
     "wof:hierarchy":[
@@ -118,7 +120,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864301,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Fran\u00e7ois-Xavier-de-Brompton",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

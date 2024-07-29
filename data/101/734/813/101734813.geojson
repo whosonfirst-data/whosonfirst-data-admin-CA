@@ -54,14 +54,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869051
+        1158869051,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23402734,
+        "statcan:nid":"8b0a1e1dbedf11d892e2080020a0f4c9",
         "wd:id":"Q1658849"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"dd38ed38ce33beb00b3b672c8f41f5b2",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101734813,
-    "wof:lastmodified":1690864852,
+    "wof:lastmodified":1722051526,
     "wof:name":"Coldwell",
     "wof:parent_id":1158869051,
     "wof:placetype":"locality",

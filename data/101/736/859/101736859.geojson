@@ -79,15 +79,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884885
+        1158884885,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6184627,
         "gp:id":23394640,
+        "statcan:nid":"0cebe417849c20c31701eb94fbdaa93e",
         "wd:id":"Q956507"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5f428308080900359529fde79bbede9f",
     "wof:hierarchy":[
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101736859,
-    "wof:lastmodified":1690864407,
+    "wof:lastmodified":1722051515,
     "wof:name":"Wotton",
     "wof:parent_id":1158884885,
     "wof:placetype":"locality",

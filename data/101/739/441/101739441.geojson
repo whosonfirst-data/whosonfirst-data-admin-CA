@@ -108,8 +108,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,9 +117,11 @@
         "gn:id":5992724,
         "gp:id":776,
         "qs_pg:id":970593,
+        "statcan:nid":"0c2a1819849c20c302722b21a3d8558e",
         "wd:id":"Q1914893",
         "wk:page":"Kipling, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -138,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864194,
+    "wof:lastmodified":1722051507,
     "wof:name":"Kipling",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",

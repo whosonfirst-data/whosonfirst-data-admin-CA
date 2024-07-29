@@ -81,15 +81,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457469
+        890457469,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396923,
         "qs_pg:id":1180782,
+        "statcan:nid":"140cdd65d05311d892e2080020a0f4c9",
         "wd:id":"Q405348"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101736233,
-    "wof:lastmodified":1690864419,
+    "wof:lastmodified":1722051516,
     "wof:name":"North Middlesex",
     "wof:parent_id":890457469,
     "wof:placetype":"locality",

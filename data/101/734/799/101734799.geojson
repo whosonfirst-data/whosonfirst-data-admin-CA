@@ -53,14 +53,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869051
+        1158869051,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373370,
+        "statcan:nid":"3ad39665bedb11d892e2080020a0f4c9",
         "wd:id":"Q1657638"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e1c370a856f7dd61b5f3f0b74fa8eab3",
     "wof:hierarchy":[
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101734799,
-    "wof:lastmodified":1690864832,
+    "wof:lastmodified":1722051525,
     "wof:name":"Armstrong",
     "wof:parent_id":1158869051,
     "wof:placetype":"locality",

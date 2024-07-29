@@ -63,16 +63,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456489
+        890456489,
+        85682057
     ],
     "wof:breaches":[
         101740719
     ],
     "wof:concordances":{
         "gp:id":23397793,
+        "statcan:nid":"9838ba43c6be11d892e2080020a0f4c9",
         "wd:id":"Q5379202"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"39f5e7578621855a8167363162d24573",
     "wof:hierarchy":[
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101736115,
-    "wof:lastmodified":1690864481,
+    "wof:lastmodified":1722051519,
     "wof:name":"Enniskillen",
     "wof:parent_id":890456489,
     "wof:placetype":"locality",

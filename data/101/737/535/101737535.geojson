@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456455
+        890456455,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6112384,
         "gp:id":23396144,
+        "statcan:nid":"26ee822bbe4711d892e2080020a0f4c9",
         "wd:id":"Q509519",
         "wk:page":"Potton, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1c753822e3b2c18991aad794989f7779",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101737535,
-    "wof:lastmodified":1690864273,
+    "wof:lastmodified":1722051510,
     "wof:name":"Potton",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

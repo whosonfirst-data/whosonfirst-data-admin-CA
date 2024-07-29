@@ -80,8 +80,10 @@
     "wof:concordances":{
         "gp:id":23398756,
         "qs_pg:id":367232,
+        "statcan:nid":"0d839674d05311d892e2080020a0f4c9",
         "wd:id":"Q4116555"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101736121,
-    "wof:lastmodified":1690864435,
+    "wof:lastmodified":1722051517,
     "wof:name":"Malahide",
     "wof:parent_id":85682057,
     "wof:placetype":"locality",

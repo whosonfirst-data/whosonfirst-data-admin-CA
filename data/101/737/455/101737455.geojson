@@ -103,14 +103,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457735
+        890457735,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396527,
+        "statcan:nid":"1e2aa4a7be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464308"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"26b847d059124add9af14488e9b7b8c6",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737455,
-    "wof:lastmodified":1690864295,
+    "wof:lastmodified":1722051511,
     "wof:name":"Sainte-Jeanne-d'Arc",
     "wof:parent_id":890457735,
     "wof:placetype":"locality",

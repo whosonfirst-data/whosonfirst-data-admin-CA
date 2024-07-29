@@ -65,17 +65,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868947
+        1158868947,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03c01502-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5919016,
         "gp:id":2282,
+        "statcan:nid":"0cfe5c0a849c20c3fbf586a89843643f",
         "wd:id":"Q1134451",
         "wk:page":"Central Butte"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3902ab8173b5fa594fa68f472822d762",
     "wof:hierarchy":[
@@ -91,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864176,
+    "wof:lastmodified":1722051506,
     "wof:name":"Central Butte",
     "wof:parent_id":1158868947,
     "wof:placetype":"locality",

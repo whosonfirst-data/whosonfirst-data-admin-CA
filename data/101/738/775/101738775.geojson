@@ -90,17 +90,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6185138,
         "gp:id":1965,
         "qs_pg:id":160449,
+        "statcan:nid":"df8b3afed1e111d892e2080020a0f4c9",
         "wd:id":"Q3571405",
         "wk:page":"Yamachiche"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101738775,
-    "wof:lastmodified":1690864589,
+    "wof:lastmodified":1722051523,
     "wof:name":"Yamachiche",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

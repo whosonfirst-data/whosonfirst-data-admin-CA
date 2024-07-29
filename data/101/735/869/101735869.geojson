@@ -67,16 +67,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6067736,
         "gp:id":91981929,
+        "statcan:nid":"4d1fc565c6ce11d892e2080020a0f4c9",
         "wd:id":"Q6785928",
         "wk:page":"Matachewan, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"fbca2b03baccb2f17df3a65634f16a03",
     "wof:hierarchy":[
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101735869,
-    "wof:lastmodified":1690864899,
+    "wof:lastmodified":1722051528,
     "wof:name":"Matachewan",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

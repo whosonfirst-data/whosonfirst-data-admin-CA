@@ -88,15 +88,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456835
+        890456835,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138759,
+        "statcan:nid":"0ceb7823849c20c385a11b4ddd22b1d4",
         "wd:id":"Q3462941",
         "wk:page":"Saint-Mathieu-de-Beloeil, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8465e0e2dd720e0ba28758baadf1b8b2",
     "wof:hierarchy":[
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101736847,
-    "wof:lastmodified":1690864461,
+    "wof:lastmodified":1722051518,
     "wof:name":"Saint-Mathieu-de-Beloeil",
     "wof:parent_id":890456835,
     "wof:placetype":"locality",

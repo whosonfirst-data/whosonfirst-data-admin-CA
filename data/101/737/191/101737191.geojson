@@ -76,16 +76,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456845
+        890456845,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5966858,
         "gp:id":56619695,
+        "statcan:nid":"0d0ac0be849c20c37b5dbed3f090a364",
         "wd:id":"Q3116512",
         "wk:page":"Grenville-sur-la-Rouge, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"279b268defc4b02bcac6b3c7ac53ca9d",
     "wof:hierarchy":[
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101737191,
-    "wof:lastmodified":1690864323,
+    "wof:lastmodified":1722051512,
     "wof:name":"Grenville-sur-la-Rouge",
     "wof:parent_id":890456845,
     "wof:placetype":"locality",

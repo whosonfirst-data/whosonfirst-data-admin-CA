@@ -73,16 +73,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457059
+        890457059,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6181446,
         "gp:id":23394639,
+        "statcan:nid":"d73be2dabf0411d892e2080020a0f4c9",
         "wd:id":"Q3567912",
         "wk:page":"Wickham, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0fe186f212858d019f6f007a471f948f",
     "wof:hierarchy":[
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101738705,
-    "wof:lastmodified":1690864546,
+    "wof:lastmodified":1722051521,
     "wof:name":"Wickham",
     "wof:parent_id":890457059,
     "wof:placetype":"locality",

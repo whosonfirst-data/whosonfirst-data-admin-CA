@@ -60,16 +60,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457573
+        890457573,
+        85682057
     ],
     "wof:breaches":[
         101740723
     ],
     "wof:concordances":{
         "gp:id":56621384,
+        "statcan:nid":"0c6264f9849c20c30584a477f623e172",
         "wd:id":"Q4820879"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8892652a1032316942ce7144aaa18aac",
     "wof:hierarchy":[
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101736073,
-    "wof:lastmodified":1690864454,
+    "wof:lastmodified":1722051518,
     "wof:name":"Augusta",
     "wof:parent_id":890457573,
     "wof:placetype":"locality",

@@ -75,16 +75,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458541
+        890458541,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137820,
         "gp:id":23394523,
+        "statcan:nid":"0cf37e57849c20c3bc2f9e680ad426ae",
         "wd:id":"Q3464220",
         "wk:page":"Sainte-Clotilde-de-Horton, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"4202c4636b6cc0dd295850103cba4cfd",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101736953,
-    "wof:lastmodified":1690864381,
+    "wof:lastmodified":1722051514,
     "wof:name":"Sainte-Clotilde-de-Horton",
     "wof:parent_id":890458541,
     "wof:placetype":"locality",

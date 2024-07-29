@@ -98,17 +98,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457203
+        890457203,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6124931,
         "gp:id":29374219,
         "qs_pg:id":271233,
+        "statcan:nid":"0fdb4162849c20c308f7b51a0bc19ff2",
         "wd:id":"Q142301",
         "wk:page":"Rivi\u00e8re-Rouge"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101737235,
-    "wof:lastmodified":1690864293,
+    "wof:lastmodified":1722051511,
     "wof:name":"Rivi\u00e8re-Rouge",
     "wof:parent_id":890457203,
     "wof:placetype":"locality",

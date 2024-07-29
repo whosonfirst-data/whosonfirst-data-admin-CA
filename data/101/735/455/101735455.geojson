@@ -290,8 +290,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682105,
-        1158869063
+        1158869063,
+        85682105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -300,9 +300,11 @@
         "gp:id":4320,
         "loc:id":"n85270863",
         "qs_pg:id":469805,
+        "statcan:nid":"0c730ad3849c20c3ee66ef9911ee83af",
         "wd:id":"Q999339",
         "wk:page":"Igloolik"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "naturalearth",
@@ -322,7 +324,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864897,
+    "wof:lastmodified":1722051528,
     "wof:name":"Igloolik",
     "wof:parent_id":85682105,
     "wof:placetype":"locality",

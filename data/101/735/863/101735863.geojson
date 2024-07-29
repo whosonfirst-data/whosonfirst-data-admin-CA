@@ -51,17 +51,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456971
+        890456971,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5948682,
         "gp:id":467,
         "qs_pg:id":1064247,
+        "statcan:nid":"0c626905849c20c3eeb464080a94b0d0",
         "wd:id":"Q5373643",
         "wk:page":"Emo, Ontario"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101735863,
-    "wof:lastmodified":1690864960,
+    "wof:lastmodified":1722051531,
     "wof:name":"Emo",
     "wof:parent_id":890456971,
     "wof:placetype":"locality",

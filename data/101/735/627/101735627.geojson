@@ -107,17 +107,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456825
+        890456825,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03b65d32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5907983,
         "gp:id":23396895,
+        "statcan:nid":"102395eed05311d892e2080020a0f4c9",
         "wd:id":"Q384944",
         "wk:page":"County of Brant"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"554bd561299d1d04e6476e1c90af6d8b",
     "wof:hierarchy":[
@@ -133,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864886,
+    "wof:lastmodified":1722051527,
     "wof:name":"Brant",
     "wof:parent_id":890456825,
     "wof:placetype":"locality",

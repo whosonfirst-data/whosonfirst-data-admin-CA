@@ -53,14 +53,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869059
+        1158869059,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55959808,
+        "statcan:nid":"9de10326beef11d892e2080020a0f4c9",
         "wd:id":"Q1661040"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1d331f411a31bc61f70340e4f94443ce",
     "wof:hierarchy":[
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101734989,
-    "wof:lastmodified":1690864858,
+    "wof:lastmodified":1722051526,
     "wof:name":"Ritchot",
     "wof:parent_id":1158869059,
     "wof:placetype":"locality",

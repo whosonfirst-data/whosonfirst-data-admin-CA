@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
     "geom:area_square_m":122404.846223,
-    "geom:bbox":"-121.3790703,50.6060294,-121.3755723,50.611601",
+    "geom:bbox":"-121.37907,50.606029,-121.375572,50.611601",
     "geom:latitude":50.608813,
     "geom:longitude":-121.377321,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458465
+        890458465,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373964
+        "gp:id":29373964,
+        "statcan:nid":"3a26efd8ba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"f9c34b7871e1caa89e5b00376bd1ef54",
+    "wof:geomhash":"abf9d754c9cfdbf67de485b54f06dcd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744075,
-    "wof:lastmodified":1566519977,
+    "wof:lastmodified":1722051488,
     "wof:name":"Hay Meadow 1",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.37907030000002,
-    50.60602940000001,
-    -121.37557229999999,
+    -121.37907,
+    50.606029,
+    -121.375572,
     50.611601
 ],
-  "geometry": {"coordinates":[[[-121.37907030000002,50.6114543],[-121.37621420000001,50.611601],[-121.37557229999999,50.6061666],[-121.37842840000002,50.60602940000001],[-121.37907030000002,50.6114543]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.37907,50.611454],[-121.376214,50.611601],[-121.37557200000001,50.606167],[-121.378428,50.606029],[-121.37907,50.611454]]],"type":"Polygon"}
 }

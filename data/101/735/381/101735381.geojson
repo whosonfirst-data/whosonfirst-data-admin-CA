@@ -112,17 +112,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682067,
-        1158869057
+        1158869057,
+        85682067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bef550-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5926246,
         "gp:id":29374027,
+        "statcan:nid":"35b92c71c6ce11d892e2080020a0f4c9",
         "wd:id":"Q2984605",
         "wk:page":"Colville Lake, Northwest Territories"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7f8f27179f305680d094cd506f180d8b",
     "wof:hierarchy":[
@@ -138,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864974,
+    "wof:lastmodified":1722051532,
     "wof:name":"Colville Lake",
     "wof:parent_id":1158869057,
     "wof:placetype":"locality",

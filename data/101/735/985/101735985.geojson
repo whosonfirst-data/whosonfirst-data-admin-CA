@@ -64,16 +64,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457691
+        890457691,
+        85682057
     ],
     "wof:breaches":[
         101740721
     ],
     "wof:concordances":{
         "gp:id":29374682,
+        "statcan:nid":"e5e7f7d0d05211d892e2080020a0f4c9",
         "wd:id":"Q7055761"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"274d83908e4c5c16d5ebd336fb42a538",
     "wof:hierarchy":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101735985,
-    "wof:lastmodified":1690864915,
+    "wof:lastmodified":1722051529,
     "wof:name":"North Kawartha",
     "wof:parent_id":890457691,
     "wof:placetype":"locality",

@@ -85,16 +85,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457567
+        890457567,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138628,
         "gp:id":23394583,
+        "statcan:nid":"1b32e0e9d1e311d892e2080020a0f4c9",
         "wd:id":"Q2392099",
         "wk:page":"Saint-L\u00e9onard-d'Aston, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"02b0103c6fc8ee1f76a97b626a668161",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101737285,
-    "wof:lastmodified":1690864343,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-L\u00e9onard-d'Aston",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

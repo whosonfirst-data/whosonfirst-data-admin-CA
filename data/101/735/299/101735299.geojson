@@ -69,14 +69,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890457755
+        890457755,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23392452,
+        "statcan:nid":"0c8222d4849c20c33bbb67b3c9370377",
         "wd:id":"Q919770"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"7d8abf7f913672ee7441d7d3a331b2f6",
     "wof:hierarchy":[
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101735299,
-    "wof:lastmodified":1690864960,
+    "wof:lastmodified":1722051531,
     "wof:name":"Baker-Brook",
     "wof:parent_id":890457755,
     "wof:placetype":"locality",

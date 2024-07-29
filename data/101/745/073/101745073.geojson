@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
     "geom:area_square_m":320511.071813,
-    "geom:bbox":"-124.0509801,51.4376643,-124.0451616,51.4448637",
+    "geom:bbox":"-124.05098,51.437664,-124.045162,51.444864",
     "geom:latitude":51.441265,
     "geom:longitude":-124.048063,
     "iso:country":"CA",
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"80326926ba3511d892e2080020a0f4c9"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"a4f50a29672b5664cfd7c5f9e8f8c396",
+    "wof:geomhash":"60da05069cbe705fbdfae78d68126d35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101745073,
-    "wof:lastmodified":1566520061,
+    "wof:lastmodified":1722051499,
     "wof:name":"Garden 2",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -124.0509801,
-    51.4376643,
-    -124.04516159999997,
-    51.44486369999998
+    -124.05098,
+    51.437664,
+    -124.045162,
+    51.444864
 ],
-  "geometry": {"coordinates":[[[-124.0509801,51.4376643],[-124.05092819999999,51.44486369999998],[-124.04516159999997,51.44486160000002],[-124.045177,51.4376838],[-124.0509801,51.4376643]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-124.05098,51.437664],[-124.050928,51.444864],[-124.045162,51.444862],[-124.045177,51.437684],[-124.05098,51.437664]]],"type":"Polygon"}
 }

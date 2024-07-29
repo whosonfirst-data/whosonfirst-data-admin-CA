@@ -18,7 +18,7 @@
     "mps:latitude":52.022213,
     "mps:longitude":-101.421937,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Swan River"
@@ -88,8 +88,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868957
+        1158868957,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,9 +97,11 @@
         "gn:id":6160362,
         "gp:id":2397,
         "qs_pg:id":465437,
+        "statcan:nid":"c114fa44bef211d892e2080020a0f4c9",
         "wd:id":"Q487931",
         "wk:page":"Swan River, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9f4dc2baf76ae324c1c572581278bc79",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101734721,
-    "wof:lastmodified":1690864857,
+    "wof:lastmodified":1722051458,
     "wof:name":"Swan River",
     "wof:parent_id":1158868957,
     "wof:placetype":"locality",

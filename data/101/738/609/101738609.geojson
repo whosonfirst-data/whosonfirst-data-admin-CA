@@ -73,16 +73,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456677
+        890456677,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6168650,
         "gp:id":23395628,
+        "statcan:nid":"cbe99cdcbe5211d892e2080020a0f4c9",
         "wd:id":"Q3541277",
         "wk:page":"Tr\u00e9cesson, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"cdeb0ddc0e6c74ee3dd627c0d34dc999",
     "wof:hierarchy":[
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101738609,
-    "wof:lastmodified":1690864586,
+    "wof:lastmodified":1722051523,
     "wof:name":"Tr\u00e9cesson",
     "wof:parent_id":890456677,
     "wof:placetype":"locality",

@@ -111,17 +111,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457833
+        890457833,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6945985,
         "gp:id":1474,
         "qs_pg:id":898052,
+        "statcan:nid":"cd3865e3be0c11d892e2080020a0f4c9",
         "wd:id":"Q141599",
         "wk:page":"D\u00e9gelis"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101738625,
-    "wof:lastmodified":1690864561,
+    "wof:lastmodified":1722051522,
     "wof:name":"D\u00e9gelis",
     "wof:parent_id":890457833,
     "wof:placetype":"locality",

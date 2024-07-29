@@ -76,14 +76,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457469
+        890457469,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56624568,
+        "statcan:nid":"1255914fd05311d892e2080020a0f4c9",
         "wd:id":"Q3525341"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9830c6bcf7fcd9397262e6309757f0ea",
     "wof:hierarchy":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101736327,
-    "wof:lastmodified":1690864480,
+    "wof:lastmodified":1722051519,
     "wof:name":"Adelaide-Metcalfe",
     "wof:parent_id":890457469,
     "wof:placetype":"locality",

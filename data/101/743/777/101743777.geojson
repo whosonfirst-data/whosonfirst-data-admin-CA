@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":9954.409206,
-    "geom:bbox":"-129.239931,59.6036639,-129.2374762,59.6049081",
+    "geom:bbox":"-129.239931,59.603664,-129.237476,59.604908",
     "geom:latitude":59.604286,
     "geom:longitude":-129.238704,
     "iso:country":"CA",
@@ -42,13 +42,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        1158868595
+        1158868595,
+        85682117
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "statcan:nid":"96464aa7849c20c31e64025fcdcd0db4"
+    },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"56ef4faceacbebb33327cf0b17bd9def",
+    "wof:geomhash":"a76dbea7aa7d3c5be9b6195eee0fdac5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101743777,
-    "wof:lastmodified":1566519994,
+    "wof:lastmodified":1722051492,
     "wof:name":"Dease River 3 (Dease)",
     "wof:parent_id":1158868595,
     "wof:placetype":"locality",
@@ -71,9 +74,9 @@
 },
   "bbox": [
     -129.239931,
-    59.60366390000002,
-    -129.2374762,
-    59.60490809999999
+    59.603664,
+    -129.237476,
+    59.604908
 ],
-  "geometry": {"coordinates":[[[-129.23993100000001,59.60441329999998],[-129.23845240000003,59.60490809999999],[-129.2374762,59.60415870000003],[-129.23895470000002,59.60366390000002],[-129.23993100000001,59.60441329999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-129.23993100000001,59.604413],[-129.238452,59.604908],[-129.23747599999999,59.604159],[-129.238955,59.603664],[-129.23993100000001,59.604413]]],"type":"Polygon"}
 }

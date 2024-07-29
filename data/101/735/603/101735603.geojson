@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456313
+        890456313,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56622032,
+        "statcan:nid":"0c6267b6849c20c3c656162956576916",
         "wd:id":"Q5102087"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0e256c77ab126e4a1b00371eb251085f",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101735603,
-    "wof:lastmodified":1690864900,
+    "wof:lastmodified":1722051528,
     "wof:name":"Chisholm",
     "wof:parent_id":890456313,
     "wof:placetype":"locality",

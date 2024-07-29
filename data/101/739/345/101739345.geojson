@@ -74,17 +74,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bfe578-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6114889,
         "gp:id":1287,
+        "statcan:nid":"673c92f0d05511d892e2080020a0f4c9",
         "wd:id":"Q1916627",
         "wk:page":"Qu'Appelle, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f0e803489fa8715396a5ff0aa0a6f4a9",
     "wof:hierarchy":[
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864253,
+    "wof:lastmodified":1722051509,
     "wof:name":"Qu'Appelle",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

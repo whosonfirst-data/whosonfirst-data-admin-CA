@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457887
+        890457887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137741,
         "gp:id":23394514,
+        "statcan:nid":"0ca61668be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464160",
         "wk:page":"Sainte-Anne-de-la-Rochelle, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"85c1a0975e0ec0f5a63f755aba8db48e",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101736597,
-    "wof:lastmodified":1690864445,
+    "wof:lastmodified":1722051517,
     "wof:name":"Sainte-Anne-de-la-Rochelle",
     "wof:parent_id":890457887,
     "wof:placetype":"locality",

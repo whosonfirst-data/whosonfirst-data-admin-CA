@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
     "geom:area_square_m":30081.12269,
-    "geom:bbox":"-97.0212169,49.9579219,-97.0174113,49.960258",
+    "geom:bbox":"-97.021217,49.957922,-97.017411,49.960258",
     "geom:latitude":49.959113,
     "geom:longitude":-97.019252,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":49.959122,
     "mps:longitude":-97.019253,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Na-Sha-Ke-Penais"
@@ -42,17 +42,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158869035
+        1158869035,
+        85682085
     ],
     "wof:breaches":[
         101734957
     ],
     "wof:concordances":{
-        "gp:id":23401859
+        "gp:id":23401859,
+        "statcan:nid":"23345b3a1e5146c49e96a83ff3e7e08c"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"a3c3b047d9bc293c1584da4d7194dbca",
+    "wof:geomhash":"e5570514dc9afb27963e1040f3d90c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101746753,
-    "wof:lastmodified":1566519805,
+    "wof:lastmodified":1722051436,
     "wof:name":"Na-Sha-Ke-Penais",
     "wof:parent_id":1158869035,
     "wof:placetype":"locality",
@@ -74,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.02121690000001,
-    49.95792189999997,
-    -97.0174113,
+    -97.021217,
+    49.957922,
+    -97.017411,
     49.960258
 ],
-  "geometry": {"coordinates":[[[-97.02121690000001,49.95940489999998],[-97.02047770000001,49.960258],[-97.01849149999998,49.95937370000001],[-97.017967,49.95914019999998],[-97.01741130000001,49.9588928],[-97.01788570000002,49.95792189999997],[-97.02121690000001,49.95940489999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-97.02121699999999,49.959405],[-97.020478,49.960258],[-97.018491,49.959374],[-97.017967,49.95914],[-97.017411,49.958893],[-97.017886,49.957922],[-97.02121699999999,49.959405]]],"type":"Polygon"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
     "geom:area_square_m":128047.691703,
-    "geom:bbox":"-108.3544602,53.1152423,-108.345069,53.1181889",
+    "geom:bbox":"-108.35446,53.115242,-108.345069,53.118189",
     "geom:latitude":53.117054,
-    "geom:longitude":-108.348736,
+    "geom:longitude":-108.348735,
     "iso:country":"CA",
     "lbl:latitude":53.116911,
     "lbl:longitude":-108.348646,
@@ -17,7 +17,7 @@
     "mps:latitude":53.116911,
     "mps:longitude":-108.348646,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saulteaux I.R. 159M"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373123
+        "gp:id":29373123,
+        "statcan:nid":"fa95bdd5bbe211d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"75630de9a7a93a33b8b0bdc822de8a4c",
+    "wof:geomhash":"2b52ae458054356e3230ae235f821012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101741999,
-    "wof:lastmodified":1566519857,
+    "wof:lastmodified":1722051443,
     "wof:name":"Saulteaux I.R. 159M",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -108.3544602,
-    53.11524229999998,
+    -108.35446,
+    53.115242,
     -108.345069,
-    53.1181889
+    53.118189
 ],
-  "geometry": {"coordinates":[[[-108.35446020000001,53.11812],[-108.34506920000001,53.1181889],[-108.345069,53.11674720000002],[-108.346495,53.11524229999998],[-108.34937739999999,53.11580170000002],[-108.35137320000001,53.1164867],[-108.35387040000001,53.11784219999998],[-108.35446020000001,53.11812]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-108.35446,53.11812],[-108.345069,53.118189],[-108.345069,53.116747],[-108.346495,53.115242],[-108.349377,53.115802],[-108.351373,53.116487],[-108.35387,53.117842],[-108.35446,53.11812]]],"type":"Polygon"}
 }

@@ -233,15 +233,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456799
+        890456799,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5884342,
         "gp:id":2625,
+        "statcan:nid":"3c11b973c6be11d892e2080020a0f4c9",
         "wd:id":"Q4740147"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5cb921437be8c8aaf081cf1c2bb4c974",
     "wof:hierarchy":[
@@ -254,7 +256,7 @@
         }
     ],
     "wof:id":101736211,
-    "wof:lastmodified":1690864393,
+    "wof:lastmodified":1722051515,
     "wof:name":"Amaranth",
     "wof:parent_id":890456799,
     "wof:placetype":"locality",

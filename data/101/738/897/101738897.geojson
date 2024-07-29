@@ -247,20 +247,22 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458017
+        890458017,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5915359,
         "gp:id":219,
         "qs_pg:id":962253,
+        "statcan:nid":"f8c89e30bbed11d892e2080020a0f4c9",
         "wd:id":"Q142360",
         "wk:page":"Cap-Chat, Quebec"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1073131
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -276,7 +278,7 @@
         }
     ],
     "wof:id":101738897,
-    "wof:lastmodified":1690864587,
+    "wof:lastmodified":1722051523,
     "wof:name":"Cap-Chat",
     "wof:parent_id":890458017,
     "wof:placetype":"locality",

@@ -263,17 +263,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456537
+        890456537,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6142001,
         "gp:id":2688,
         "qs_pg:id":959152,
+        "statcan:nid":"d19ad04cbe4e11d892e2080020a0f4c9",
         "wd:id":"Q141693",
         "wk:page":"Schefferville"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -290,7 +292,7 @@
         }
     ],
     "wof:id":101738667,
-    "wof:lastmodified":1690864525,
+    "wof:lastmodified":1722051521,
     "wof:name":"Schefferville",
     "wof:parent_id":890456537,
     "wof:placetype":"locality",

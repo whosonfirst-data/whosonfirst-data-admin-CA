@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
     "geom:area_square_m":484149.403259,
-    "geom:bbox":"-122.6531947,52.4812152,-122.644289,52.4884591",
+    "geom:bbox":"-122.653195,52.481215,-122.644289,52.488459",
     "geom:latitude":52.484838,
-    "geom:longitude":-122.64874,
+    "geom:longitude":-122.648741,
     "iso:country":"CA",
     "lbl:latitude":52.484837,
     "lbl:longitude":-122.64874,
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":9573
+        "gp:id":9573,
+        "statcan:nid":"99155f9cba3411d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"7da2236195430bd58e003190f6f55898",
+    "wof:geomhash":"3f7e6cc1395c9e1c2319c6d9c0b2cb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101747129,
-    "wof:lastmodified":1566519661,
+    "wof:lastmodified":1722051471,
     "wof:name":"Webster Creek 5",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.65319469999997,
-    52.4812152,
+    -122.653195,
+    52.481215,
     -122.644289,
-    52.4884591
+    52.488459
 ],
-  "geometry": {"coordinates":[[[-122.65319469999997,52.48845119999999],[-122.6443056,52.4884591],[-122.6443008,52.4863785],[-122.644289,52.48122410000002],[-122.65317210000001,52.4812152],[-122.65319469999997,52.48845119999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.653195,52.488451],[-122.644306,52.488459],[-122.644301,52.486379],[-122.644289,52.481224],[-122.653172,52.481215],[-122.653195,52.488451]]],"type":"Polygon"}
 }

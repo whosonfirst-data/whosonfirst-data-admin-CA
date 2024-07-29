@@ -90,16 +90,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458841
+        890458841,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137890,
         "gp:id":29374215,
+        "statcan:nid":"1994a2aabe4d11d892e2080020a0f4c9",
         "wd:id":"Q429523",
         "wk:page":"Sainte-Fran\u00e7oise, Centre-du-Qu\u00e9bec, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"86d4c634eef9b7cbc94e533682bbdcdc",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101737429,
-    "wof:lastmodified":1690864342,
+    "wof:lastmodified":1722051513,
     "wof:name":"Sainte-Fran\u00e7oise",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

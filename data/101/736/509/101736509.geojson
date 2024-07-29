@@ -82,14 +82,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884887
+        1158884887,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3469,
+        "statcan:nid":"0535e96bd1e311d892e2080020a0f4c9",
         "wd:id":"Q3464318"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"190e8d7ec9cf9199219a91c60a269156",
     "wof:hierarchy":[
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101736509,
-    "wof:lastmodified":1690864448,
+    "wof:lastmodified":1722051518,
     "wof:name":"Sainte-Justine",
     "wof:parent_id":1158884887,
     "wof:placetype":"locality",

@@ -124,15 +124,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457225
+        890457225,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6144195,
         "gp:id":3259,
+        "statcan:nid":"00fd3edcbe4f11d892e2080020a0f4c9",
         "wd:id":"Q142379"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"05432d5f4e36eaf7827efb47a03c853a",
     "wof:hierarchy":[
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101736435,
-    "wof:lastmodified":1706239359,
+    "wof:lastmodified":1722051534,
     "wof:name":"Senneterre",
     "wof:parent_id":890457225,
     "wof:placetype":"locality",

@@ -356,14 +356,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868995
+        1158868995,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373382,
+        "statcan:nid":"b312d08dbef111d892e2080020a0f4c9",
         "wd:id":"Q1661270"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"78464667ca8903a7392ad0e7c48208f9",
     "wof:hierarchy":[
@@ -376,7 +378,7 @@
         }
     ],
     "wof:id":101734891,
-    "wof:lastmodified":1636414360,
+    "wof:lastmodified":1722051506,
     "wof:name":"Saskatchewan",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

@@ -82,8 +82,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868981
+        1158868981,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,9 +91,11 @@
         "gn:id":5915098,
         "gp:id":211,
         "qs_pg:id":1328070,
+        "statcan:nid":"0c285859849c20c3a9047ffd7f03e375",
         "wd:id":"Q1099134",
         "wk:page":"Canora, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864240,
+    "wof:lastmodified":1722051509,
     "wof:name":"Canora",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

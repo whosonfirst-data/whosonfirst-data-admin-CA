@@ -62,17 +62,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868939
+        1158868939,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bfc14c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5933629,
         "gp:id":354,
+        "statcan:nid":"dfee4ba5bedf11d892e2080020a0f4c9",
         "wd:id":"Q2848152",
         "wk:page":"Crystal City, Manitoba"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3168c6535f753c7531a014d1c4c42279",
     "wof:hierarchy":[
@@ -88,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864969,
+    "wof:lastmodified":1722051531,
     "wof:name":"Crystal City",
     "wof:parent_id":1158868939,
     "wof:placetype":"locality",

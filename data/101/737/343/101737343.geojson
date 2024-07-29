@@ -119,17 +119,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457811
+        890457811,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6104876,
         "gp:id":1203,
         "qs_pg:id":1209111,
+        "statcan:nid":"fa56255bbe4511d892e2080020a0f4c9",
         "wd:id":"Q141551",
         "wk:page":"Pincourt, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101737343,
-    "wof:lastmodified":1690864376,
+    "wof:lastmodified":1722051514,
     "wof:name":"Pincourt",
     "wof:parent_id":890457811,
     "wof:placetype":"locality",

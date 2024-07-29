@@ -88,14 +88,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396528,
+        "statcan:nid":"20554ce2be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463575"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"921fa9d04c4e8ae049e4db5e94a07071",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737459,
-    "wof:lastmodified":1690864357,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-\u00c9lie-de-Caxton",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

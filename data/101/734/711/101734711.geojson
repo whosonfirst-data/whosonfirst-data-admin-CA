@@ -59,14 +59,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868931
+        1158868931,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373802,
+        "statcan:nid":"4b898f43bef911d892e2080020a0f4c9",
         "wd:id":"Q1660407"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c574c4f1e96c7ca8c734974e3d2f5d68",
     "wof:hierarchy":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101734711,
-    "wof:lastmodified":1690864860,
+    "wof:lastmodified":1722051526,
     "wof:name":"Kelsey",
     "wof:parent_id":1158868931,
     "wof:placetype":"locality",

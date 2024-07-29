@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456455
+        890456455,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6094290,
         "gp:id":23395621,
+        "statcan:nid":"0e2336fcbe4111d892e2080020a0f4c9",
         "wd:id":"Q3355910",
         "wk:page":"Orford, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b6ef3342407481d67f99db0e823e8fd4",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737195,
-    "wof:lastmodified":1690864265,
+    "wof:lastmodified":1722051510,
     "wof:name":"Orford",
     "wof:parent_id":890456455,
     "wof:placetype":"locality",

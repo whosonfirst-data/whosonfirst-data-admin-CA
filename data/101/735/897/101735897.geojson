@@ -90,16 +90,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456569
+        890456569,
+        85682057
     ],
     "wof:breaches":[
         101740715
     ],
     "wof:concordances":{
         "gp:id":56623613,
+        "statcan:nid":"11addf90d05311d892e2080020a0f4c9",
         "wd:id":"Q7570792"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"43f1f5b35bea27424bf35f9c1ee023c0",
     "wof:hierarchy":[
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101735897,
-    "wof:lastmodified":1690864960,
+    "wof:lastmodified":1722051531,
     "wof:name":"Southgate",
     "wof:parent_id":890456569,
     "wof:placetype":"locality",

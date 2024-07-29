@@ -48,17 +48,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868975
+        1158868975,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba38bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6099758,
         "gp:id":1971,
+        "statcan:nid":"212e898cc6ce11d892e2080020a0f4c9",
         "wd:id":"Q7148749",
         "wk:page":"Patuanak"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"96fdff4725249464ee52f1eb898f3d61",
     "wof:hierarchy":[
@@ -74,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864181,
+    "wof:lastmodified":1722051506,
     "wof:name":"Patuanak",
     "wof:parent_id":1158868975,
     "wof:placetype":"locality",

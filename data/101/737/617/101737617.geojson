@@ -100,16 +100,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457731
+        890457731,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6052708,
         "gp:id":854,
+        "statcan:nid":"358b9894be3311d892e2080020a0f4c9",
         "wd:id":"Q141406",
         "wk:page":"L\u00e9ry, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8273a8228072d810f380a31272a08c5d",
     "wof:hierarchy":[
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101737617,
-    "wof:lastmodified":1690864278,
+    "wof:lastmodified":1722051510,
     "wof:name":"L\u00e9ry",
     "wof:parent_id":890457731,
     "wof:placetype":"locality",

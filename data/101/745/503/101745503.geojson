@@ -52,14 +52,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456953
+        890456953,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373633,
+        "statcan:nid":"7604f9abba3511d892e2080020a0f4c9",
         "wd:id":"Q8565017"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"244b8f0b3a112f64b1b3df6424eab945",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101745503,
-    "wof:lastmodified":1690864991,
+    "wof:lastmodified":1722051532,
     "wof:name":"Fountain 2",
     "wof:parent_id":890456953,
     "wof:placetype":"locality",

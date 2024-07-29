@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457891
+        890457891,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396598,
+        "statcan:nid":"c6feb50ebe4d11d892e2080020a0f4c9",
         "wd:id":"Q3463184"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f536f05ee4f7f6b04b31c8f2af4a9ee2",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738569,
-    "wof:lastmodified":1690864495,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Pierre-de-la-Rivi\u00e8re-du-Sud",
     "wof:parent_id":890457891,
     "wof:placetype":"locality",

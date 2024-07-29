@@ -59,16 +59,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868937
+        1158868937,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bd30a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6173256,
         "gp:id":23402880,
+        "statcan:nid":"0c324657849c20c36727e1cdf5bca6b4",
         "wd:id":"Q2205102"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"e13e6560584423dbd6daa8c5922220dd",
     "wof:hierarchy":[
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864212,
+    "wof:lastmodified":1722051507,
     "wof:name":"Valparaiso",
     "wof:parent_id":1158868937,
     "wof:placetype":"locality",

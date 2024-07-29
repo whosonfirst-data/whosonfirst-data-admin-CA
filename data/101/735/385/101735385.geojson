@@ -73,17 +73,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682067,
-        1158869055
+        1158869055,
+        85682067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03bb117e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5949030,
         "gp:id":4278,
+        "statcan:nid":"080aaf11c6ce11d892e2080020a0f4c9",
         "wd:id":"Q5380265",
         "wk:page":"Enterprise, Northwest Territories"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"1c53cdcf0255c6ca5fca8b4b4b06b20f",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864912,
+    "wof:lastmodified":1722051529,
     "wof:name":"Enterprise",
     "wof:parent_id":1158869055,
     "wof:placetype":"locality",

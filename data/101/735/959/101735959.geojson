@@ -216,8 +216,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457749
+        890457749,
+        85682057
     ],
     "wof:breaches":[
         101740737,
@@ -225,8 +225,10 @@
     ],
     "wof:concordances":{
         "gp:id":56619870,
+        "statcan:nid":"8d7c025ec6be11d892e2080020a0f4c9",
         "wd:id":"Q5644773"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"f8376171298db61cf75c3eac79a03c2f",
     "wof:hierarchy":[
@@ -239,7 +241,7 @@
         }
     ],
     "wof:id":101735959,
-    "wof:lastmodified":1642551718,
+    "wof:lastmodified":1722051506,
     "wof:name":"Hamilton",
     "wof:parent_id":890457749,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
     "geom:area_square_m":638409.761926,
-    "geom:bbox":"-102.2430558,51.6997295,-102.2313562,51.7068744",
+    "geom:bbox":"-102.243056,51.699729,-102.231356,51.706874",
     "geom:latitude":51.703303,
     "geom:longitude":-102.23721,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":51.703304,
     "mps:longitude":-102.23721,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keeseekoose I.R. 66-Ke-01"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868981
+        1158868981,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373182
+        "gp:id":29373182,
+        "statcan:nid":"6c9ebbff849c20c3a10b2353322bc8a3"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"e6016a3b41a9d4b1ce225be4499142bc",
+    "wof:geomhash":"eea8fe9145522024b982071f5796c50f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101742607,
-    "wof:lastmodified":1566520027,
+    "wof:lastmodified":1722051449,
     "wof:name":"Keeseekoose I.R. 66-Ke-01",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -102.24305579999998,
-    51.69972949999999,
-    -102.2313562,
-    51.7068744
+    -102.243056,
+    51.699729,
+    -102.231356,
+    51.706874
 ],
-  "geometry": {"coordinates":[[[-102.23135619999999,51.69972949999999],[-102.24304719999998,51.69974580000002],[-102.24305579999998,51.7068744],[-102.2313843,51.70686469999998],[-102.23135619999999,51.69972949999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-102.23135600000001,51.699729],[-102.243047,51.699746],[-102.243056,51.706874],[-102.23138400000001,51.706865],[-102.23135600000001,51.699729]]],"type":"Polygon"}
 }

@@ -152,8 +152,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458841
+        890458841,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,9 +161,11 @@
         "gn:id":5897209,
         "gp:id":91,
         "qs_pg:id":1165020,
+        "statcan:nid":"0aff9161bbe711d892e2080020a0f4c9",
         "wd:id":"Q141542",
         "wk:page":"B\u00e9cancour, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -182,7 +184,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690864429,
+    "wof:lastmodified":1722051517,
     "wof:name":"B\u00e9cancour",
     "wof:parent_id":890458841,
     "wof:placetype":"locality",

@@ -100,17 +100,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457743
+        890457743,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139157,
         "gp:id":23394618,
         "qs_pg:id":1192527,
+        "statcan:nid":"de4f7d42be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463457",
         "wk:page":"Saint-Ubalde, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"5bf3b6392408a94c1a345ec17fe3ca90",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101738765,
-    "wof:lastmodified":1690864502,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Ubalde",
     "wof:parent_id":890457743,
     "wof:placetype":"locality",

@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458025
+        890458025,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6060422,
         "gp:id":23394423,
+        "statcan:nid":"1058dd1fd1e311d892e2080020a0f4c9",
         "wd:id":"Q3259671",
         "wk:page":"Lorrainville, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"6769f4d0bf1d2b7789b2f6e5fda8630c",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101737249,
-    "wof:lastmodified":1690864343,
+    "wof:lastmodified":1722051513,
     "wof:name":"Lorrainville",
     "wof:parent_id":890458025,
     "wof:placetype":"locality",

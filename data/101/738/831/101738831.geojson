@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457567
+        890457567,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137566,
         "gp:id":29374377,
+        "statcan:nid":"ede465d4be4c11d892e2080020a0f4c9",
         "wd:id":"Q3462031",
         "wk:page":"Saint-C\u00e9lestin, Quebec (village)"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"50b812d4bdf9ee3e38e1009d171728e9",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101738831,
-    "wof:lastmodified":1690864575,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-C\u00e9lestin",
     "wof:parent_id":890457567,
     "wof:placetype":"locality",

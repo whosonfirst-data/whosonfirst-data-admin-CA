@@ -111,17 +111,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456495
+        890456495,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6955478,
         "gp:id":3642,
         "qs_pg:id":959801,
+        "statcan:nid":"10b893ccd1e411d892e2080020a0f4c9",
         "wd:id":"Q3232468",
         "wk:page":"Les Escoumins, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101737259,
-    "wof:lastmodified":1690864291,
+    "wof:lastmodified":1722051510,
     "wof:name":"Les Escoumins",
     "wof:parent_id":890456495,
     "wof:placetype":"locality",

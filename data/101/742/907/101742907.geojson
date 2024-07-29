@@ -97,13 +97,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458111
+        890458111,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "statcan:nid":"e46de5b1ba3511d892e2080020a0f4c9",
         "wd:id":"Q270955"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"afbb670467de848f1478d6cb2bf29af7",
     "wof:hierarchy":[
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101742907,
-    "wof:lastmodified":1690864988,
+    "wof:lastmodified":1722051532,
     "wof:name":"Bulkley 1",
     "wof:parent_id":890458111,
     "wof:placetype":"locality",

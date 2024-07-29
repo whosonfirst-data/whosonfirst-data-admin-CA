@@ -88,14 +88,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456467
+        890456467,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56621248,
+        "statcan:nid":"384b2ecebe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462140"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"82f9f2beaddd6493536e65faa5a4acf7",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101737651,
-    "wof:lastmodified":1690864292,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Fabien",
     "wof:parent_id":890456467,
     "wof:placetype":"locality",

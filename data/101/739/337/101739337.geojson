@@ -53,8 +53,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868983
+        1158868983,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +62,11 @@
         "gn:id":6114218,
         "gp:id":2448,
         "qs_pg:id":739311,
+        "statcan:nid":"0c31dda7849c20c36cbd574c20e11409",
         "wd:id":"Q2202338",
         "wk:page":"Punnichy, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864182,
+    "wof:lastmodified":1722051506,
     "wof:name":"Punnichy",
     "wof:parent_id":1158868983,
     "wof:placetype":"locality",

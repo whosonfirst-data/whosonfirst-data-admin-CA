@@ -93,8 +93,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890456483
+        890456483,
+        85682057
     ],
     "wof:breaches":[
         101740709
@@ -102,8 +102,10 @@
     "wof:concordances":{
         "gp:id":29374864,
         "qs_pg:id":189213,
+        "statcan:nid":"0c5c6c6c849c20c3e15f5ef1f80c7786",
         "wd:id":"Q4116651"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101736097,
-    "wof:lastmodified":1690864416,
+    "wof:lastmodified":1722051516,
     "wof:name":"Wilmot",
     "wof:parent_id":890456483,
     "wof:placetype":"locality",

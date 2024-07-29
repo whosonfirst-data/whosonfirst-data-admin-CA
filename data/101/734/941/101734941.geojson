@@ -53,16 +53,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868965
+        1158868965,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6127796,
         "gp:id":2971,
         "qs_pg:id":549759,
+        "statcan:nid":"7e093cf0bef111d892e2080020a0f4c9",
         "wd:id":"Q1661244"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101734941,
-    "wof:lastmodified":1690864841,
+    "wof:lastmodified":1722051525,
     "wof:name":"Rosser",
     "wof:parent_id":1158868965,
     "wof:placetype":"locality",

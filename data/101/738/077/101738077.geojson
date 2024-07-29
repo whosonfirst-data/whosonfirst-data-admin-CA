@@ -111,17 +111,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457809
+        890457809,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7535693,
         "gp:id":3478,
         "qs_pg:id":277927,
+        "statcan:nid":"838302d9be4d11d892e2080020a0f4c9",
         "wd:id":"Q141613",
         "wk:page":"Saint-Joseph-de-Beauce"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"204f87ca126e56d3dd405ee55c710c35",
     "wof:hierarchy":[
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101738077,
-    "wof:lastmodified":1690864512,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Joseph-de-Beauce",
     "wof:parent_id":890457809,
     "wof:placetype":"locality",

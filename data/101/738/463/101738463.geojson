@@ -79,16 +79,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458097
+        890458097,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6104260,
         "gp:id":23394454,
+        "statcan:nid":"bc36371bbe4511d892e2080020a0f4c9",
         "wd:id":"Q3382642",
         "wk:page":"Piedmont, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"d10e34a4753e7debd06774e785ddd542",
     "wof:hierarchy":[
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101738463,
-    "wof:lastmodified":1690864523,
+    "wof:lastmodified":1722051521,
     "wof:name":"Piedmont",
     "wof:parent_id":890458097,
     "wof:placetype":"locality",

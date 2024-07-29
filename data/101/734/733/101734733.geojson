@@ -50,14 +50,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868997
+        1158868997,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23401818,
+        "statcan:nid":"6f509c8cbeed11d892e2080020a0f4c9",
         "wd:id":"Q1660813"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"9fa704bcf81cee8bd6af2edfffb0918c",
     "wof:hierarchy":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101734733,
-    "wof:lastmodified":1690864846,
+    "wof:lastmodified":1722051525,
     "wof:name":"Mossey River",
     "wof:parent_id":1158868997,
     "wof:placetype":"locality",

@@ -50,8 +50,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868943
+        1158868943,
+        85682113
     ],
     "wof:breaches":[
         101740661
@@ -61,9 +61,11 @@
         "gn:id":5900849,
         "gp:id":23403819,
         "qs_pg:id":1117781,
+        "statcan:nid":"0c2f8dfc849c20c38dc3522ab2931a58",
         "wd:id":"Q4906313",
         "wk:page":"Big Shell, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -82,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864252,
+    "wof:lastmodified":1722051509,
     "wof:name":"Big Shell",
     "wof:parent_id":1158868943,
     "wof:placetype":"locality",

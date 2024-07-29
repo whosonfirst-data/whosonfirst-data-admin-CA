@@ -54,17 +54,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868999
+        1158868999,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03baac48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5962975,
         "gp:id":2931,
+        "statcan:nid":"0cff032b849c20c3915851c48fbb318b",
         "wd:id":"Q2003699",
         "wk:page":"Goodwater, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8c8fb42496c37e9bf4fb7f51cb1ead9d",
     "wof:hierarchy":[
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864233,
+    "wof:lastmodified":1722051508,
     "wof:name":"Goodwater",
     "wof:parent_id":1158868999,
     "wof:placetype":"locality",

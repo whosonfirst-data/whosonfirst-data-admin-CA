@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
     "geom:area_square_m":1286079.891708,
-    "geom:bbox":"-103.1862482,50.4552931,-103.1749203,50.4697572",
+    "geom:bbox":"-103.186248,50.455293,-103.17492,50.469757",
     "geom:latitude":50.462521,
     "geom:longitude":-103.180581,
     "iso:country":"CA",
@@ -17,7 +17,7 @@
     "mps:latitude":50.462527,
     "mps:longitude":-103.180581,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carry The Kettle Nakoda I.R. 76-6"
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868993
+        1158868993,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29373430
+        "gp:id":29373430,
+        "statcan:nid":"6c9ebc2e849c20c336261f63899f0838"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"49e5d237456079dabdfd9aec58479f42",
+    "wof:geomhash":"fa14ba525ce5cc5ddd39eb847f603ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101746397,
-    "wof:lastmodified":1566519806,
+    "wof:lastmodified":1722051437,
     "wof:name":"Carry The Kettle Nakoda I.R. 76-6",
     "wof:parent_id":1158868993,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.18624820000002,
-    50.4552931,
-    -103.1749203,
-    50.4697572
+    -103.186248,
+    50.455293,
+    -103.17492,
+    50.469757
 ],
-  "geometry": {"coordinates":[[[-103.1749203,50.4552931],[-103.18624820000002,50.45530209999998],[-103.1862314,50.4625294],[-103.18621439999998,50.4697569],[-103.17494340000002,50.4697572],[-103.17493180000002,50.4625251],[-103.1749203,50.4552931]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-103.17492,50.455293],[-103.18624800000001,50.455302],[-103.18623100000001,50.462529],[-103.18621400000001,50.469757],[-103.174943,50.469757],[-103.174932,50.462525],[-103.17492,50.455293]]],"type":"Polygon"}
 }

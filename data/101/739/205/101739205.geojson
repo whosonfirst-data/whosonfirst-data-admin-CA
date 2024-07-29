@@ -66,17 +66,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868949
+        1158868949,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03ba5bda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5903496,
         "gp:id":2241,
+        "statcan:nid":"0c29bbd3849c20c3e2462ee18fe83b18",
         "wd:id":"Q1999137",
         "wk:page":"Bladworth, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"feecbe74aa57ede0b414e8849ebbd215",
     "wof:hierarchy":[
@@ -92,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864207,
+    "wof:lastmodified":1722051507,
     "wof:name":"Bladworth",
     "wof:parent_id":1158868949,
     "wof:placetype":"locality",

@@ -109,15 +109,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458661
+        890458661,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5928488,
+        "statcan:nid":"014a20500a0012043a876def822db8fb",
         "wd:id":"Q139588",
         "wk:page":"C\u00f4te-Saint-Luc"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101736445,
-    "wof:lastmodified":1690864465,
+    "wof:lastmodified":1722051518,
     "wof:name":"Cote-Saint-Luc",
     "wof:parent_id":890458661,
     "wof:placetype":"locality",

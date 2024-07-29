@@ -753,8 +753,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457465
+        890457465,
+        85682057
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -770,9 +770,11 @@
         "ne:id":1159151557,
         "nyt:id":"N59025796970344002461",
         "qs_pg:id":767067,
+        "statcan:nid":"0e31fef3d05311d892e2080020a0f4c9",
         "wd:id":"Q172",
         "wk:page":"Toronto"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:coterminous":[
         890457465
     ],
@@ -795,7 +797,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864895,
+    "wof:lastmodified":1722051528,
     "wof:megacity":1,
     "wof:name":"Toronto",
     "wof:parent_id":890457465,

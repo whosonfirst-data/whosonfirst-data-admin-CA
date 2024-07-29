@@ -191,16 +191,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456809
+        890456809,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138495,
         "gp:id":56624353,
+        "statcan:nid":"d8154d59bf9011d892e2080020a0f4c9",
         "wd:id":"Q141977",
         "wk:page":"Saint-Jean-sur-Richelieu"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"761c940e9839b714aeb8137a27d3be31",
     "wof:hierarchy":[
@@ -213,7 +215,7 @@
         }
     ],
     "wof:id":101738721,
-    "wof:lastmodified":1690864591,
+    "wof:lastmodified":1722051523,
     "wof:name":"Saint-Jean-sur-Richelieu",
     "wof:parent_id":890456809,
     "wof:placetype":"locality",

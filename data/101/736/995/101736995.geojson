@@ -86,16 +86,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458689
+        890458689,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6138405,
         "gp:id":23394572,
+        "statcan:nid":"0cf4bc6e849c20c3718dacf9ba9fc102",
         "wd:id":"Q3462457",
         "wk:page":"Saint-Isidore-de-Clifton, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3178403bae111bdfaba9bbc319bde897",
     "wof:hierarchy":[
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101736995,
-    "wof:lastmodified":1690864439,
+    "wof:lastmodified":1722051517,
     "wof:name":"Saint-Isidore-de-Clifton",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",

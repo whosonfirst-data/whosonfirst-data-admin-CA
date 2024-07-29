@@ -241,17 +241,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457577
+        890457577,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6050194,
         "gp:id":827,
         "qs_pg:id":274719,
+        "statcan:nid":"2adbf535be3211d892e2080020a0f4c9",
         "wd:id":"Q141933",
         "wk:page":"La Sarre"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -267,7 +269,7 @@
         }
     ],
     "wof:id":101737559,
-    "wof:lastmodified":1690864266,
+    "wof:lastmodified":1722051510,
     "wof:name":"La Sarre",
     "wof:parent_id":890457577,
     "wof:placetype":"locality",

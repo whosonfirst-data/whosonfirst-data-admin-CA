@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457821
+        890457821,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1578,
+        "statcan:nid":"a5e532c9be4d11d892e2080020a0f4c9",
         "wd:id":"Q3463072"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3eb8367b99b6f7906193b6c5896904fb",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101738353,
-    "wof:lastmodified":1690864499,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-N\u00e9r\u00e9e-de-Bellechasse",
     "wof:parent_id":890457821,
     "wof:placetype":"locality",

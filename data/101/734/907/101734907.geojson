@@ -44,14 +44,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682085,
-        1158868995
+        1158868995,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29373444,
+        "statcan:nid":"fdb406e8beed11d892e2080020a0f4c9",
         "wd:id":"Q1660936"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3234d452fcfdcacd9e5098ebfca9795c",
     "wof:hierarchy":[
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101734907,
-    "wof:lastmodified":1690864832,
+    "wof:lastmodified":1722051525,
     "wof:name":"Odanah",
     "wof:parent_id":1158868995,
     "wof:placetype":"locality",

@@ -54,17 +54,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868963
+        1158868963,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"03b9ecea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":5897858,
         "gp:id":100,
+        "statcan:nid":"0cff0910849c20c3c700bb2ed7a950aa",
         "wd:id":"Q1999097",
         "wk:page":"Belle Plaine, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"8bf0701a761266eb9186c0d64eb6cd54",
     "wof:hierarchy":[
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864247,
+    "wof:lastmodified":1722051509,
     "wof:name":"Belle Plaine",
     "wof:parent_id":1158868963,
     "wof:placetype":"locality",

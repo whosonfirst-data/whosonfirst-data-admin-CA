@@ -103,14 +103,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457571
+        890457571,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396526,
+        "statcan:nid":"1e1e4895be4d11d892e2080020a0f4c9",
         "wd:id":"Q3464306"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"c5b61a20ce91610471b6528ec7e02d66",
     "wof:hierarchy":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101737453,
-    "wof:lastmodified":1690864300,
+    "wof:lastmodified":1722051511,
     "wof:name":"Sainte-Ir\u00e8ne",
     "wof:parent_id":890457571,
     "wof:placetype":"locality",

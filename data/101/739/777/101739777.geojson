@@ -74,8 +74,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868977
+        1158868977,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,9 +83,11 @@
         "gn:id":6158673,
         "gp:id":2072,
         "qs_pg:id":341683,
+        "statcan:nid":"0cfe9c76849c20c3a59683278ed1cd1a",
         "wd:id":"Q1917214",
         "wk:page":"St. Walburg, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864218,
+    "wof:lastmodified":1722051508,
     "wof:name":"St. Walburg",
     "wof:parent_id":1158868977,
     "wof:placetype":"locality",

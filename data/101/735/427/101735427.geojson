@@ -82,16 +82,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682067,
-        1158869031
+        1158869031,
+        85682067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6179858,
         "gp:id":29374014,
+        "statcan:nid":"e3ebb374d05211d892e2080020a0f4c9",
         "wd:id":"Q1430715",
         "wk:page":"What\u00ec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a374a3f5b8698042e72392761f80f95d",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101735427,
-    "wof:lastmodified":1690864944,
+    "wof:lastmodified":1722051530,
     "wof:name":"Whati",
     "wof:parent_id":1158869031,
     "wof:placetype":"locality",

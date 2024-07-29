@@ -128,14 +128,15 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458417
+        890458417,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137624,
         "gp:id":23396499,
         "qs_pg:id":1048172,
+        "statcan:nid":"0ccc1786849c20c3c3a49bef57e7a733",
         "wd:id":"Q141584",
         "wk:page":"Saint-Colomban, Quebec"
     },
@@ -147,6 +148,7 @@
             "Saint-Colomban,_Quebec"
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"321956c1abe3a6539e7d67bf0b279610",
     "wof:hierarchy":[
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101736775,
-    "wof:lastmodified":1706239361,
+    "wof:lastmodified":1722051534,
     "wof:name":"Saint-Colomban",
     "wof:parent_id":890458417,
     "wof:placetype":"locality",

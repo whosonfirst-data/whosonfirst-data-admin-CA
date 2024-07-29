@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":40207.396929,
-    "geom:bbox":"-121.3022881,50.5110329,-121.2994464,50.512844",
+    "geom:bbox":"-121.302288,50.511033,-121.299446,50.512844",
     "geom:latitude":50.511938,
     "geom:longitude":-121.300867,
     "iso:country":"CA",
@@ -42,15 +42,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890458465
+        890458465,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":56623008
+        "gp:id":56623008,
+        "statcan:nid":"26a7c8f1ba3611d892e2080020a0f4c9"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"c5f7e1800610adef29ba972f4696dc1f",
+    "wof:geomhash":"460c074c3922aae2ae0cef2b7cc423ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101744115,
-    "wof:lastmodified":1566519981,
+    "wof:lastmodified":1722051489,
     "wof:name":"Upper Tsinkahtl 8A",
     "wof:parent_id":890458465,
     "wof:placetype":"locality",
@@ -72,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.3022881,
-    50.51103289999998,
-    -121.29944640000002,
+    -121.302288,
+    50.511033,
+    -121.299446,
     50.512844
 ],
-  "geometry": {"coordinates":[[[-121.29945499999999,50.51103289999998],[-121.3022881,50.5110388],[-121.30227819999999,50.512844],[-121.29944640000002,50.51283819999998],[-121.29945499999999,50.51103289999998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.29945499999999,50.511033],[-121.302288,50.511039],[-121.302278,50.512844],[-121.299446,50.512838],[-121.29945499999999,50.511033]]],"type":"Polygon"}
 }

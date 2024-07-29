@@ -100,16 +100,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456307
+        890456307,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5884469,
         "gp:id":23395632,
+        "statcan:nid":"ff069a90bbe411d892e2080020a0f4c9",
         "wd:id":"Q2843181",
         "wk:page":"Amherst, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0312d06f4f8f715f2c4296dc7d80a196",
     "wof:hierarchy":[
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101738917,
-    "wof:lastmodified":1690864596,
+    "wof:lastmodified":1722051523,
     "wof:name":"Amherst",
     "wof:parent_id":890456307,
     "wof:placetype":"locality",

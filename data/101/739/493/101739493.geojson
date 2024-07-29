@@ -67,8 +67,8 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682113,
-        1158868981
+        1158868981,
+        85682113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,9 +76,11 @@
         "gn:id":6089261,
         "gp:id":2419,
         "qs_pg:id":529800,
+        "statcan:nid":"0c2e8ff0849c20c3aa344ee1dce58d72",
         "wd:id":"Q1916300",
         "wk:page":"Norquay, Saskatchewan"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -97,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690864239,
+    "wof:lastmodified":1722051509,
     "wof:name":"Norquay",
     "wof:parent_id":1158868981,
     "wof:placetype":"locality",

@@ -73,14 +73,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457803
+        890457803,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23396479,
+        "statcan:nid":"5362d587be4011d892e2080020a0f4c9",
         "wd:id":"Q3344599"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3aef7b191f3067f94b7804011fc85fde",
     "wof:hierarchy":[
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101737771,
-    "wof:lastmodified":1690864308,
+    "wof:lastmodified":1722051511,
     "wof:name":"Notre-Dame-de-Lourdes",
     "wof:parent_id":890457803,
     "wof:placetype":"locality",

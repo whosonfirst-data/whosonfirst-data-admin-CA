@@ -103,13 +103,14 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890458777
+        890458777,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5958111,
         "gp:id":56620634,
+        "statcan:nid":"13b0c9deba2c11d892e2080020a0f4c9",
         "wd:id":"Q3115831",
         "wk:page":"French River, Ontario"
     },
@@ -118,6 +119,7 @@
             5958107
         ]
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"91f8192834e892103f6ec2feec0be477",
     "wof:hierarchy":[
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101735709,
-    "wof:lastmodified":1706239357,
+    "wof:lastmodified":1722051533,
     "wof:name":"French River",
     "wof:parent_id":890458777,
     "wof:placetype":"locality",

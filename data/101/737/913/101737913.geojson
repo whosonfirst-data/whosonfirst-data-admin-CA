@@ -87,14 +87,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458103
+        890458103,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374140,
+        "statcan:nid":"6632e4acbe4d11d892e2080020a0f4c9",
         "wd:id":"Q3462386"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"df9bd275ff6992a5b4d504ca2c51d40a",
     "wof:hierarchy":[
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101737913,
-    "wof:lastmodified":1690864315,
+    "wof:lastmodified":1722051511,
     "wof:name":"Saint-Henri-de-Taillon",
     "wof:parent_id":890458103,
     "wof:placetype":"locality",

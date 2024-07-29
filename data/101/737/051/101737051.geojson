@@ -106,17 +106,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458693
+        890458693,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6139023,
         "gp:id":1608,
         "qs_pg:id":71579,
+        "statcan:nid":"0cf59b9c849c20c36b214fb41cb9a657",
         "wd:id":"Q3463282",
         "wk:page":"Saint-Roch-de-Richelieu, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"a2e6098fca2dc4d7502bbc67f411a658",
     "wof:hierarchy":[
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101737051,
-    "wof:lastmodified":1690864359,
+    "wof:lastmodified":1722051513,
     "wof:name":"Saint-Roch-de-Richelieu",
     "wof:parent_id":890458693,
     "wof:placetype":"locality",

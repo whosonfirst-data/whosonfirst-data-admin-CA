@@ -97,16 +97,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458397
+        890458397,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137579,
         "gp:id":23394497,
         "qs_pg:id":192208,
+        "statcan:nid":"f130aab8be4c11d892e2080020a0f4c9",
         "wd:id":"Q2642428"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"17677f6e10ceb7f6ad1955c2dd3f8337",
     "wof:hierarchy":[
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101738841,
-    "wof:lastmodified":1690864559,
+    "wof:lastmodified":1722051522,
     "wof:name":"Saint-Charles-Borrom\u00e9e",
     "wof:parent_id":890458397,
     "wof:placetype":"locality",

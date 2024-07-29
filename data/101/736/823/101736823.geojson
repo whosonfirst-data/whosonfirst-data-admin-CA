@@ -116,17 +116,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458629
+        890458629,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5896495,
         "gp:id":3555,
         "qs_pg:id":965397,
+        "statcan:nid":"0cd07407849c20c307f83679b81321e0",
         "wd:id":"Q139109",
         "wk:page":"Beauharnois, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101736823,
-    "wof:lastmodified":1690864455,
+    "wof:lastmodified":1722051518,
     "wof:name":"Beauharnois",
     "wof:parent_id":890458629,
     "wof:placetype":"locality",

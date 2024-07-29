@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
     "geom:area_square_m":645326.276804,
-    "geom:bbox":"-123.7819351,53.0066678,-123.7757746,53.0211603",
+    "geom:bbox":"-123.781935,53.006668,-123.775775,53.02116",
     "geom:latitude":53.013913,
     "geom:longitude":-123.778857,
     "iso:country":"CA",
@@ -60,18 +60,20 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890456813
+        890456813,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6118787,
         "gp:id":8652,
         "qs_pg:id":178687,
+        "statcan:nid":"912d4b10ba3411d892e2080020a0f4c9",
         "wk:page":"Redwater, Alberta"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"b14cdba8ff30e4966a8d238246cb58b9",
+    "wof:geomhash":"ad950ace46dd86e4a690f01928a20a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101745157,
-    "wof:lastmodified":1566520032,
+    "wof:lastmodified":1722051496,
     "wof:name":"Redwater Creek 30",
     "wof:parent_id":890456813,
     "wof:placetype":"locality",
@@ -93,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.7819351,
-    53.0066678,
-    -123.77577459999998,
-    53.02116030000002
+    -123.781935,
+    53.006668,
+    -123.775775,
+    53.02116
 ],
-  "geometry": {"coordinates":[[[-123.7759441,53.02116030000002],[-123.77577459999998,53.006692],[-123.7817733,53.0066678],[-123.7819351,53.02113880000002],[-123.7759441,53.02116030000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-123.775944,53.02116],[-123.775775,53.006692],[-123.781773,53.006668],[-123.781935,53.021139],[-123.775944,53.02116]]],"type":"Polygon"}
 }

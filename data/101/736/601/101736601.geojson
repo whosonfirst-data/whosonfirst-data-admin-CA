@@ -79,14 +79,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890456495
+        890456495,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3632,
+        "statcan:nid":"0caca619be4d11d892e2080020a0f4c9",
         "wd:id":"Q3399330"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0048e1ab2b74ce48ea10871a8a20a323",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101736601,
-    "wof:lastmodified":1690864472,
+    "wof:lastmodified":1722051519,
     "wof:name":"Portneuf-sur-Mer",
     "wof:parent_id":890456495,
     "wof:placetype":"locality",

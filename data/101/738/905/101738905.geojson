@@ -94,17 +94,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        1158884881
+        1158884881,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137740,
         "gp:id":23394513,
         "qs_pg:id":1182703,
+        "statcan:nid":"fa53eae8d1e111d892e2080020a0f4c9",
         "wd:id":"Q3464159",
         "wk:page":"Sainte-Anne-de-la-P\u00e9rade"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"83511e1af74d7bbd055e8af7f08219bb",
     "wof:hierarchy":[
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101738905,
-    "wof:lastmodified":1690864556,
+    "wof:lastmodified":1722051522,
     "wof:name":"Sainte-Anne-de-la-P\u00e9rade",
     "wof:parent_id":1158884881,
     "wof:placetype":"locality",

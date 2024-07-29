@@ -51,15 +51,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682057,
-        890457739
+        890457739,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":5991243,
         "gp:id":23398829,
+        "statcan:nid":"0c626e3b849c20c300d0bdc9a261f356",
         "wd:id":"Q6394230"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"69e7a9083fdf69385ce07d2e218a522a",
     "wof:hierarchy":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101735853,
-    "wof:lastmodified":1690864952,
+    "wof:lastmodified":1722051531,
     "wof:name":"Kerns",
     "wof:parent_id":890457739,
     "wof:placetype":"locality",

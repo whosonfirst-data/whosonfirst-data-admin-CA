@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":9951.503542,
-    "geom:bbox":"-123.7088056,55.8393031,-123.7066522,55.8405148",
+    "geom:bbox":"-123.708806,55.839303,-123.706652,55.840515",
     "geom:latitude":55.839909,
     "geom:longitude":-123.707729,
     "iso:country":"CA",
@@ -48,17 +48,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682117,
-        890457209
+        890457209,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6179268,
         "gp:id":56121067,
+        "statcan:nid":"472d952c5a6111dd9007080020a0f4c9",
         "wk:page":"Weston, Toronto"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
-    "wof:geomhash":"38da52e975b680b47d67acef3188d3d7",
+    "wof:geomhash":"2550baf9e7cf5e7cd4c337ff2cc1966f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":101746641,
-    "wof:lastmodified":1566519838,
+    "wof:lastmodified":1722051480,
     "wof:name":"Weston Bay 20",
     "wof:parent_id":890457209,
     "wof:placetype":"locality",
@@ -80,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.7088056,
-    55.8393031,
-    -123.7066522,
-    55.8405148
+    -123.708806,
+    55.839303,
+    -123.706652,
+    55.840515
 ],
-  "geometry": {"coordinates":[[[-123.70880560000001,55.8400992],[-123.70739079999998,55.8405148],[-123.70665219999999,55.8397187],[-123.708067,55.8393031],[-123.70880560000001,55.8400992]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-123.708806,55.840099],[-123.707391,55.840515],[-123.70665200000001,55.839719],[-123.708067,55.839303],[-123.708806,55.840099]]],"type":"Polygon"}
 }

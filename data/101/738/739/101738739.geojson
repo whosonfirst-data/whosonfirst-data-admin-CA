@@ -110,17 +110,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458091
+        890458091,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137509,
         "gp:id":23395652,
         "qs_pg:id":905958,
+        "statcan:nid":"d9d2ea6fbe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461880",
         "wk:page":"Saint-Bernard-de-Lacolle, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"37ba0f91151f2e21e9e0ef1cbd6f2ab6",
     "wof:hierarchy":[
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101738739,
-    "wof:lastmodified":1690864498,
+    "wof:lastmodified":1722051520,
     "wof:name":"Saint-Bernard-de-Lacolle",
     "wof:parent_id":890458091,
     "wof:placetype":"locality",

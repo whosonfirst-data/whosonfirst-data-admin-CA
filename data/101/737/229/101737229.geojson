@@ -103,17 +103,19 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890457801
+        890457801,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6173750,
         "gp:id":3520,
         "qs_pg:id":231778,
+        "statcan:nid":"0fcdc2d8be5511d892e2080020a0f4c9",
         "wd:id":"Q2514459",
         "wk:page":"Verch\u00e8res"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101737229,
-    "wof:lastmodified":1690864274,
+    "wof:lastmodified":1722051510,
     "wof:name":"Verch\u00e8res",
     "wof:parent_id":890457801,
     "wof:placetype":"locality",

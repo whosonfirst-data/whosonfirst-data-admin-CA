@@ -76,15 +76,17 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458543
+        890458543,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6137471,
         "gp:id":23396422,
+        "statcan:nid":"d5b54ccfbe4c11d892e2080020a0f4c9",
         "wd:id":"Q3461843"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"0893fda2c92dedcb5c3da04456619c83",
     "wof:hierarchy":[
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101738693,
-    "wof:lastmodified":1690864526,
+    "wof:lastmodified":1722051521,
     "wof:name":"Saint-Barnab\u00e9",
     "wof:parent_id":890458543,
     "wof:placetype":"locality",

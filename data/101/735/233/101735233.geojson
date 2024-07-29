@@ -162,14 +162,16 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        85682065,
-        890458685
+        890458685,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":3691,
+        "statcan:nid":"0c7bf916849c20c3b4064b72c5ce47ec",
         "wd:id":"Q3496791"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"b594f00e226a27f3cfb75c69f4f30894",
     "wof:hierarchy":[
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":101735233,
-    "wof:lastmodified":1690864904,
+    "wof:lastmodified":1722051528,
     "wof:name":"Stanley",
     "wof:parent_id":890458685,
     "wof:placetype":"locality",

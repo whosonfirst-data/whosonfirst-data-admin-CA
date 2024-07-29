@@ -106,16 +106,18 @@
     "wof:belongsto":[
         102191575,
         85633041,
-        136251273,
-        890458689
+        890458689,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6049667,
         "gp:id":23394407,
+        "statcan:nid":"0cf4c1c0849c20c3691935c44dfd728a",
         "wd:id":"Q1844577",
         "wk:page":"La Patrie, Quebec"
     },
+    "wof:concordances_official":"statcan:nid",
     "wof:country":"CA",
     "wof:geomhash":"3d49b924ee7da951c947ab3d168daf7b",
     "wof:hierarchy":[
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101737011,
-    "wof:lastmodified":1690864339,
+    "wof:lastmodified":1722051513,
     "wof:name":"La Patrie",
     "wof:parent_id":890458689,
     "wof:placetype":"locality",
